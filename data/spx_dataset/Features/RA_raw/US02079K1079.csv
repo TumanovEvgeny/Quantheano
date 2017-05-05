@@ -1,0 +1,508 @@
+,index,1 Year Return,Action Code,BARR,Date,Firm Name,Period,Rating,Recommendation,Target Price,Unnamed: 0
+0,0,-0.0,M,-2147483648,2014-03-28,J.P. Morgan,9 month,5,overweight,673.15,0.0
+1,1,-0.0,M,-2147483648,2014-01-17,CM Research,Not Provided,5,buy,745.95,1.0
+2,2,-0.0,M,-2147483648,2014-04-28,Jefferies,12 month,5,buy,698.08,2.0
+3,3,-0.0,M,-2147483648,2014-04-17,Morgan Stanley,12 month,5,Overwt/In-Line,643.23,3.0
+4,4,-0.0,M,-2147483648,2014-04-17,J.P. Morgan,3 month,5,overweight,643.23,4.0
+5,5,-0.0,M,-2147483648,2014-04-17,Baird,12 month,5,outperform,673.15,5.0
+6,6,-0.0,M,-2147483648,2014-04-17,William Blair & Co,Not Provided,5,outperform,-0.0,6.0
+7,7,-0.0,M,-2147483648,2014-04-17,Oppenheimer & Co,12 month,3,market perform,608.33,7.0
+8,8,-0.0,M,-2147483648,2014-04-17,Nomura,12 month,5,buy,698.08,8.0
+9,9,-0.0,M,-2147483648,2014-04-17,Topeka Capital Markets Inc,12 month,5,buy,655.2,9.0
+10,10,-0.0,M,-2147483648,2014-04-16,UBS,12 month,5,buy,663.18,10.0
+11,11,-0.0,M,-2147483648,2014-01-17,CM Research,Not Provided,5,buy,745.95,11.0
+12,12,-0.0,M,-2147483648,2014-05-30,Topeka Capital Markets Inc,12 month,5,buy,655.2,12.0
+13,13,-0.0,M,-2147483648,2014-05-28,Pivotal Research Group LLC,12 month,3,hold,568.44,13.0
+14,14,-0.0,M,-2147483648,2014-05-23,Baird,12 month,5,outperform,673.15,14.0
+15,15,-0.0,M,-2147483648,2014-05-14,Nomura,12 month,5,buy,673.15,15.0
+16,16,-0.0,M,-2147483648,2014-05-02,Jefferies,12 month,5,buy,698.08,16.0
+17,17,-0.0,M,-2147483648,2014-04-17,Morgan Stanley,12 month,5,Overwt/In-Line,643.23,17.0
+18,18,-0.0,M,-2147483648,2014-04-17,J.P. Morgan,3 month,5,overweight,643.23,18.0
+19,19,-0.0,M,-2147483648,2014-04-17,William Blair & Co,Not Provided,5,outperform,-0.0,19.0
+20,20,-0.0,M,-2147483648,2014-04-17,Oppenheimer & Co,12 month,3,market perform,608.33,20.0
+21,21,-0.0,M,-2147483648,2014-04-16,UBS,12 month,5,buy,663.18,21.0
+22,22,-0.0,M,-2147483648,2014-01-17,CM Research,Not Provided,5,buy,745.95,22.0
+23,23,-0.0,M,-2147483648,2014-06-27,Topeka Capital Markets Inc,12 month,5,buy,655.2,23.0
+24,24,-0.0,M,-2147483648,2014-06-26,Jefferies,12 month,5,buy,698.08,24.0
+25,25,-0.0,M,-2147483648,2014-06-26,Baird,12 month,5,outperform,673.15,25.0
+26,26,-0.0,M,-2147483648,2014-06-26,Nomura,12 month,5,buy,673.15,26.0
+27,27,-0.0,M,-2147483648,2014-06-26,JMP Securities,12 month,4,market outperform,693.1,27.0
+28,28,-0.0,M,-2147483648,2014-06-13,Bernstein,Not Provided,5,outperform,698.08,28.0
+29,29,-0.0,M,-2147483648,2014-05-28,Pivotal Research Group LLC,12 month,3,hold,568.44,29.0
+30,30,-0.0,M,-2147483648,2014-04-17,Morgan Stanley,12 month,5,Overwt/In-Line,643.23,30.0
+31,31,-0.0,M,-2147483648,2014-04-17,J.P. Morgan,3 month,5,overweight,643.23,31.0
+32,32,-0.0,M,-2147483648,2014-04-17,William Blair & Co,Not Provided,5,outperform,-0.0,32.0
+33,33,-0.0,M,-2147483648,2014-04-17,Oppenheimer & Co,12 month,3,market perform,608.33,33.0
+34,34,-0.0,M,-2147483648,2014-04-16,UBS,12 month,5,buy,663.18,34.0
+35,35,-0.0,M,-2147483648,2014-01-17,CM Research,Not Provided,5,buy,745.95,35.0
+36,36,-0.0,M,-2147483648,2014-07-18,J.P. Morgan,12 month,5,overweight,668.17,36.0
+37,37,-0.0,M,-2147483648,2014-07-18,Jefferies,12 month,5,buy,698.08,37.0
+38,38,-0.0,M,-2147483648,2014-07-18,Baird,12 month,5,outperform,688.11,38.0
+39,39,-0.0,M,-2147483648,2014-07-18,William Blair & Co,Not Provided,5,outperform,-0.0,39.0
+40,40,-0.0,M,-2147483648,2014-07-18,Nomura,12 month,5,buy,673.15,40.0
+41,41,-0.0,M,-2147483648,2014-07-18,JMP Securities,12 month,4,market outperform,693.1,41.0
+42,42,-0.0,M,-2147483648,2014-07-18,"Morningstar, Inc",Not Provided,3,hold,-0.0,42.0
+43,43,-0.0,M,-2147483648,2014-07-18,Pivotal Research Group LLC,12 month,3,hold,568.44,43.0
+44,44,-0.0,M,-2147483648,2014-07-17,UBS,12 month,5,buy,668.17,44.0
+45,45,-0.0,M,-2147483648,2014-07-17,Oppenheimer & Co,12 month,3,market perform,654.2,45.0
+46,46,-0.0,M,-2147483648,2014-07-11,Topeka Capital Markets Inc,12 month,5,buy,655.2,46.0
+47,47,-0.0,M,-2147483648,2014-06-13,Bernstein,Not Provided,5,outperform,698.08,47.0
+48,48,-0.0,M,-2147483648,2014-01-17,CM Research,Not Provided,5,buy,745.95,48.0
+49,49,-0.0,M,-2147483648,2014-07-18,J.P. Morgan,12 month,5,overweight,668.17,49.0
+50,50,-0.0,M,-2147483648,2014-07-18,Jefferies,12 month,5,buy,698.08,50.0
+51,51,-0.0,M,-2147483648,2014-07-18,Baird,12 month,5,outperform,688.11,51.0
+52,52,-0.0,M,-2147483648,2014-07-18,William Blair & Co,Not Provided,5,outperform,-0.0,52.0
+53,53,-0.0,M,-2147483648,2014-07-18,Nomura,12 month,5,buy,673.15,53.0
+54,54,-0.0,M,-2147483648,2014-07-18,JMP Securities,12 month,4,market outperform,693.1,54.0
+55,55,-0.0,M,-2147483648,2014-07-18,"Morningstar, Inc",Not Provided,3,hold,-0.0,55.0
+56,56,-0.0,M,-2147483648,2014-07-18,Pivotal Research Group LLC,12 month,3,hold,568.44,56.0
+57,57,-0.0,M,-2147483648,2014-07-17,UBS,12 month,5,buy,668.17,57.0
+58,58,-0.0,M,-2147483648,2014-07-17,Oppenheimer & Co,12 month,3,market perform,654.2,58.0
+59,59,-0.0,M,-2147483648,2014-07-11,Topeka Capital Markets Inc,12 month,5,buy,655.2,59.0
+60,60,-0.0,M,-2147483648,2014-06-13,Bernstein,Not Provided,5,outperform,698.08,60.0
+61,61,-0.0,M,-2147483648,2014-01-17,CM Research,Not Provided,5,buy,745.95,61.0
+62,62,-0.0,M,-2147483648,2014-09-29,"Morningstar, Inc",Not Provided,3,hold,-0.0,62.0
+63,63,-0.0,M,-2147483648,2014-09-29,Topeka Capital Markets Inc,12 month,5,buy,655.2,63.0
+64,64,-0.0,M,-2147483648,2014-09-25,Baird,12 month,5,outperform,688.11,64.0
+65,65,-0.0,M,-2147483648,2014-09-18,Nomura,12 month,5,buy,673.15,65.0
+66,66,-0.0,M,-2147483648,2014-09-08,Jefferies,12 month,5,buy,698.08,66.0
+67,67,-0.0,M,-2147483648,2014-09-05,Pivotal Research Group LLC,12 month,3,hold,568.44,67.0
+68,68,-0.0,M,-2147483648,2014-07-18,J.P. Morgan,12 month,5,overweight,668.17,68.0
+69,69,-0.0,M,-2147483648,2014-07-18,William Blair & Co,Not Provided,5,outperform,-0.0,69.0
+70,70,-0.0,M,-2147483648,2014-07-18,JMP Securities,12 month,4,market outperform,693.1,70.0
+71,71,-0.0,M,-2147483648,2014-07-17,UBS,12 month,5,buy,668.17,71.0
+72,72,-0.0,M,-2147483648,2014-07-17,Oppenheimer & Co,12 month,3,market perform,654.2,72.0
+73,73,-0.0,M,-2147483648,2014-06-13,Bernstein,Not Provided,5,outperform,698.08,73.0
+74,74,-0.0,M,-2147483648,2014-01-17,CM Research,Not Provided,5,buy,745.95,74.0
+75,75,-0.0,M,-2147483648,2014-10-17,J.P. Morgan,12 month,5,overweight,668.17,75.0
+76,76,-0.0,M,-2147483648,2014-10-17,Jefferies,12 month,5,buy,698.08,76.0
+77,77,-0.0,M,-2147483648,2014-10-17,Baird,12 month,5,outperform,678.14,77.0
+78,78,-0.0,M,-2147483648,2014-10-17,William Blair & Co,Not Provided,5,outperform,-0.0,78.0
+79,79,-0.0,M,-2147483648,2014-10-17,Oppenheimer & Co,12 month,3,market perform,630.27,79.0
+80,80,-0.0,M,-2147483648,2014-10-17,Nomura,12 month,5,buy,648.22,80.0
+81,81,-0.0,M,-2147483648,2014-10-17,JMP Securities,12 month,4,market outperform,638.25,81.0
+82,82,-0.0,M,-2147483648,2014-10-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,82.0
+83,83,-0.0,M,-2147483648,2014-10-16,UBS,12 month,5,buy,658.19,83.0
+84,84,-0.0,M,-2147483648,2014-10-16,Raymond James,12 month,5,outperform,618.3,84.0
+85,85,-0.0,M,-2147483648,2014-10-16,Canaccord Genuity,Not Provided,5,buy,698.08,85.0
+86,86,-0.0,M,-2147483648,2014-09-29,Topeka Capital Markets Inc,12 month,5,buy,655.2,86.0
+87,87,-0.0,M,-2147483648,2014-09-05,Pivotal Research Group LLC,12 month,3,hold,568.44,87.0
+88,88,-0.0,M,-2147483648,2014-06-13,Bernstein,Not Provided,5,outperform,698.08,88.0
+89,89,-0.0,M,-2147483648,2014-01-17,CM Research,Not Provided,5,buy,745.95,89.0
+90,90,-0.0,M,-2147483648,2014-11-07,Baird,Not Provided,5,outperform,678.14,90.0
+91,91,-0.0,M,-2147483648,2014-10-17,J.P. Morgan,12 month,5,overweight,668.17,91.0
+92,92,-0.0,M,-2147483648,2014-10-17,Jefferies,12 month,5,buy,698.08,92.0
+93,93,-0.0,M,-2147483648,2014-10-17,William Blair & Co,Not Provided,5,outperform,-0.0,93.0
+94,94,-0.0,M,-2147483648,2014-10-17,Oppenheimer & Co,12 month,3,market perform,630.27,94.0
+95,95,-0.0,M,-2147483648,2014-10-17,Nomura,12 month,5,buy,648.22,95.0
+96,96,-0.0,M,-2147483648,2014-10-17,JMP Securities,12 month,4,market outperform,638.25,96.0
+97,97,-0.0,M,-2147483648,2014-10-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,97.0
+98,98,-0.0,M,-2147483648,2014-10-16,UBS,12 month,5,buy,658.19,98.0
+99,99,-0.0,M,-2147483648,2014-10-16,Raymond James,12 month,5,outperform,618.3,99.0
+100,100,-0.0,M,-2147483648,2014-10-16,Canaccord Genuity,Not Provided,5,buy,698.08,100.0
+101,101,-0.0,M,-2147483648,2014-09-29,Topeka Capital Markets Inc,12 month,5,buy,655.2,101.0
+102,102,-0.0,M,-2147483648,2014-09-05,Pivotal Research Group LLC,12 month,3,hold,568.44,102.0
+103,103,-0.0,M,-2147483648,2014-06-13,Bernstein,Not Provided,5,outperform,698.08,103.0
+104,104,-0.0,M,-2147483648,2014-01-17,CM Research,Not Provided,5,buy,745.95,104.0
+105,105,-0.0,M,-2147483648,2014-12-19,Jefferies,12 month,5,buy,698.08,105.0
+106,106,-0.0,M,-2147483648,2014-12-16,J.P. Morgan,12 month,5,overweight,598.36,106.0
+107,107,-0.0,M,-2147483648,2014-12-15,Baird,12 month,5,outperform,678.14,107.0
+108,108,-0.0,M,-2147483648,2014-12-05,UBS,12 month,5,buy,658.19,108.0
+109,109,-0.0,M,-2147483648,2014-10-17,William Blair & Co,Not Provided,5,outperform,-0.0,109.0
+110,110,-0.0,M,-2147483648,2014-10-17,Oppenheimer & Co,12 month,3,market perform,630.27,110.0
+111,111,-0.0,M,-2147483648,2014-10-17,Nomura,12 month,5,buy,648.22,111.0
+112,112,-0.0,M,-2147483648,2014-10-17,JMP Securities,12 month,4,market outperform,638.25,112.0
+113,113,-0.0,M,-2147483648,2014-10-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,113.0
+114,114,-0.0,M,-2147483648,2014-10-16,Raymond James,12 month,5,outperform,618.3,114.0
+115,115,-0.0,M,-2147483648,2014-10-16,Canaccord Genuity,Not Provided,5,buy,698.08,115.0
+116,116,-0.0,M,-2147483648,2014-09-29,Topeka Capital Markets Inc,12 month,5,buy,655.2,116.0
+117,117,-0.0,M,-2147483648,2015-01-30,J.P. Morgan,9 month,5,overweight,598.36,117.0
+118,118,-0.0,M,-2147483648,2015-01-30,Jefferies,12 month,5,buy,698.08,118.0
+119,119,-0.0,M,-2147483648,2015-01-30,Baird,12 month,5,outperform,678.14,119.0
+120,120,-0.0,M,-2147483648,2015-01-30,William Blair & Co,Not Provided,5,outperform,-0.0,120.0
+121,121,-0.0,M,-2147483648,2015-01-30,Raymond James,12 month,5,outperform,618.3,121.0
+122,122,-0.0,M,-2147483648,2015-01-30,JMP Securities,12 month,4,market outperform,623.29,122.0
+123,123,-0.0,M,-2147483648,2015-01-30,"Morningstar, Inc",Not Provided,3,hold,-0.0,123.0
+124,124,-0.0,M,-2147483648,2015-01-29,UBS,12 month,5,buy,628.27,124.0
+125,125,-0.0,M,-2147483648,2015-01-29,Canaccord Genuity,12 month,5,buy,648.22,125.0
+126,126,-0.0,M,-2147483648,2015-01-29,Oppenheimer & Co,12 month,3,market perform,563.45,126.0
+127,127,-0.0,M,-2147483648,2015-01-15,Nomura,12 month,5,buy,598.36,127.0
+128,128,-0.0,M,-2147483648,2014-09-29,Topeka Capital Markets Inc,12 month,5,buy,655.2,128.0
+129,129,-0.0,M,-2147483648,2015-02-24,"Morningstar, Inc",Not Provided,3,hold,-0.0,129.0
+130,130,-0.0,M,-2147483648,2015-02-05,Baird,12 month,5,outperform,678.14,130.0
+131,131,-0.0,M,-2147483648,2015-01-30,J.P. Morgan,9 month,5,overweight,598.36,131.0
+132,132,-0.0,M,-2147483648,2015-01-30,Jefferies,12 month,5,buy,698.08,132.0
+133,133,-0.0,M,-2147483648,2015-01-30,William Blair & Co,Not Provided,5,outperform,-0.0,133.0
+134,134,-0.0,M,-2147483648,2015-01-30,Raymond James,12 month,5,outperform,618.3,134.0
+135,135,-0.0,M,-2147483648,2015-01-30,JMP Securities,12 month,4,market outperform,623.29,135.0
+136,136,-0.0,M,-2147483648,2015-01-29,UBS,12 month,5,buy,628.27,136.0
+137,137,-0.0,M,-2147483648,2015-01-29,Canaccord Genuity,12 month,5,buy,648.22,137.0
+138,138,-0.0,M,-2147483648,2015-01-29,Oppenheimer & Co,12 month,3,market perform,563.45,138.0
+139,139,-0.0,M,-2147483648,2015-01-15,Nomura,12 month,5,buy,598.36,139.0
+140,140,-0.0,M,-2147483648,2015-03-25,Jefferies,12 month,5,buy,698.08,140.0
+141,141,-0.0,M,-2147483648,2015-03-25,JMP Securities,12 month,4,market outperform,623.29,141.0
+142,142,-0.0,M,-2147483648,2015-03-18,J.P. Morgan,12 month,5,overweight,598.36,142.0
+143,143,-0.0,M,-2147483648,2015-03-17,"Morningstar, Inc",Not Provided,5,buy,-0.0,143.0
+144,144,-0.0,M,-2147483648,2015-03-12,Baird,Not Provided,5,outperform,678.14,144.0
+145,145,-0.0,M,-2147483648,2015-03-02,UBS,12 month,5,buy,668.17,145.0
+146,146,-0.0,M,-2147483648,2015-01-30,William Blair & Co,Not Provided,5,outperform,-0.0,146.0
+147,147,-0.0,M,-2147483648,2015-01-30,Raymond James,12 month,5,outperform,618.3,147.0
+148,148,-0.0,M,-2147483648,2015-01-29,Canaccord Genuity,12 month,5,buy,648.22,148.0
+149,149,-0.0,M,-2147483648,2015-01-29,Oppenheimer & Co,12 month,3,market perform,563.45,149.0
+150,150,-0.0,M,-2147483648,2015-01-15,Nomura,12 month,5,buy,598.36,150.0
+151,151,-0.0,M,-2147483648,2015-05-01,"Morningstar, Inc",Not Provided,5,buy,-0.0,151.0
+152,152,-0.0,M,-2147483648,2015-04-24,J.P. Morgan,9 month,5,overweight,648.22,152.0
+153,153,-0.0,M,-2147483648,2015-04-24,Jefferies,12 month,5,buy,698.08,153.0
+154,154,-0.0,M,-2147483648,2015-04-24,Baird,12 month,5,outperform,688.11,154.0
+155,155,-0.0,M,-2147483648,2015-04-24,William Blair & Co,Not Provided,5,outperform,-0.0,155.0
+156,156,-0.0,M,-2147483648,2015-04-24,Raymond James,12 month,5,outperform,623.29,156.0
+157,157,-0.0,M,-2147483648,2015-04-24,Oppenheimer & Co,12 month,3,market perform,548.49,157.0
+158,158,-0.0,M,-2147483648,2015-04-24,JMP Securities,12 month,4,market outperform,623.29,158.0
+159,159,-0.0,M,-2147483648,2015-03-02,UBS,12 month,5,buy,668.17,159.0
+160,160,-0.0,M,-2147483648,2015-01-29,Canaccord Genuity,12 month,5,buy,648.22,160.0
+161,161,-0.0,M,-2147483648,2015-01-15,Nomura,12 month,5,buy,598.36,161.0
+162,162,-0.0,M,-2147483648,2015-06-01,Canaccord Genuity,12 month,5,buy,700.0,162.0
+163,163,-0.0,M,-2147483648,2015-05-29,J.P. Morgan,9 month,5,overweight,648.22,163.0
+164,164,-0.0,M,-2147483648,2015-05-29,Baird,12 month,5,outperform,688.11,164.0
+165,165,-0.0,M,-2147483648,2015-05-29,JMP Securities,12 month,4,market outperform,623.29,165.0
+166,166,-0.0,M,-2147483648,2015-05-28,Jefferies,12 month,5,buy,700.0,166.0
+167,167,-0.0,M,-2147483648,2015-05-26,Raymond James,12 month,5,outperform,623.29,167.0
+168,168,-0.0,M,-2147483648,2015-05-15,Nomura,12 month,5,buy,625.0,168.0
+169,169,-0.0,M,-2147483648,2015-05-01,"Morningstar, Inc",Not Provided,5,buy,-0.0,169.0
+170,170,-0.0,M,-2147483648,2015-04-24,William Blair & Co,Not Provided,5,outperform,-0.0,170.0
+171,171,-0.0,M,-2147483648,2015-04-24,Oppenheimer & Co,12 month,3,market perform,548.49,171.0
+172,172,-0.0,M,-2147483648,2015-03-02,UBS,12 month,5,buy,668.17,172.0
+173,173,-0.0,M,-2147483648,2015-06-30,Jefferies,12 month,5,buy,700.0,173.0
+174,174,-0.0,M,-2147483648,2015-06-18,Baird,12 month,5,outperform,688.11,174.0
+175,175,-0.0,M,-2147483648,2015-06-01,Canaccord Genuity,12 month,5,buy,700.0,175.0
+176,176,-0.0,M,-2147483648,2015-05-29,J.P. Morgan,9 month,5,overweight,648.22,176.0
+177,177,-0.0,M,-2147483648,2015-05-29,JMP Securities,12 month,4,market outperform,623.29,177.0
+178,178,-0.0,M,-2147483648,2015-05-26,Raymond James,12 month,5,outperform,623.29,178.0
+179,179,-0.0,M,-2147483648,2015-05-15,Nomura,12 month,5,buy,625.0,179.0
+180,180,-0.0,M,-2147483648,2015-05-01,"Morningstar, Inc",Not Provided,5,buy,-0.0,180.0
+181,181,-0.0,M,-2147483648,2015-04-24,William Blair & Co,Not Provided,5,outperform,-0.0,181.0
+182,182,-0.0,M,-2147483648,2015-04-24,Oppenheimer & Co,12 month,3,market perform,548.49,182.0
+183,183,-0.0,M,-2147483648,2015-03-02,UBS,12 month,5,buy,668.17,183.0
+184,184,-0.0,M,-2147483648,2015-07-17,UBS,12 month,5,buy,750.0,184.0
+185,185,-0.0,M,-2147483648,2015-07-17,J.P. Morgan,18 month,5,overweight,800.0,185.0
+186,186,-0.0,M,-2147483648,2015-07-17,Jefferies,12 month,5,buy,800.0,186.0
+187,187,-0.0,M,-2147483648,2015-07-17,Baird,12 month,5,outperform,720.0,187.0
+188,188,-0.0,M,-2147483648,2015-07-17,William Blair & Co,Not Provided,5,outperform,-0.0,188.0
+189,189,-0.0,M,-2147483648,2015-07-17,Raymond James,12 month,5,outperform,720.0,189.0
+190,190,-0.0,M,-2147483648,2015-07-17,Oppenheimer & Co,12 month,3,market perform,670.0,190.0
+191,191,-0.0,M,-2147483648,2015-07-17,JMP Securities,12 month,4,market outperform,720.0,191.0
+192,192,-0.0,D,-2147483648,2015-07-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,192.0
+193,193,-0.0,M,-2147483648,2015-06-01,Canaccord Genuity,12 month,5,buy,700.0,193.0
+194,194,-0.0,M,-2147483648,2015-05-15,Nomura,12 month,5,buy,625.0,194.0
+195,195,-0.0,U,-2147483648,2015-09-01,"Morningstar, Inc",Not Provided,5,buy,-0.0,195.0
+196,196,-0.0,M,-2147483648,2015-08-27,William Blair & Co,Not Provided,5,outperform,-0.0,196.0
+197,197,-0.0,M,-2147483648,2015-08-25,Baird,Not Provided,5,outperform,780.0,197.0
+198,198,-0.0,M,-2147483648,2015-08-24,Oppenheimer & Co,Not Provided,3,market perform,670.0,198.0
+199,199,-0.0,M,-2147483648,2015-08-11,Jefferies,12 month,5,buy,800.0,199.0
+200,200,-0.0,M,-2147483648,2015-08-11,JMP Securities,12 month,4,market outperform,720.0,200.0
+201,201,-0.0,M,-2147483648,2015-08-10,UBS,12 month,5,buy,750.0,201.0
+202,202,-0.0,M,-2147483648,2015-08-10,J.P. Morgan,18 month,5,overweight,800.0,202.0
+203,203,-0.0,M,-2147483648,2015-07-17,Raymond James,12 month,5,outperform,720.0,203.0
+204,204,-0.0,M,-2147483648,2015-06-01,Canaccord Genuity,12 month,5,buy,700.0,204.0
+205,205,-0.0,M,-2147483648,2015-05-15,Nomura,12 month,5,buy,625.0,205.0
+206,206,-0.0,U,-2147483648,2015-10-01,Oppenheimer & Co,Not Provided,5,outperform,700.0,206.0
+207,207,-0.0,M,-2147483648,2015-09-29,Jefferies,12 month,5,buy,800.0,207.0
+208,208,-0.0,U,-2147483648,2015-09-28,"Morningstar, Inc",Not Provided,5,buy,-0.0,208.0
+209,209,-0.0,M,-2147483648,2015-09-24,Baird,Not Provided,5,outperform,780.0,209.0
+210,210,-0.0,M,-2147483648,2015-08-27,William Blair & Co,Not Provided,5,outperform,-0.0,210.0
+211,211,-0.0,M,-2147483648,2015-08-11,JMP Securities,12 month,4,market outperform,720.0,211.0
+212,212,-0.0,M,-2147483648,2015-08-10,UBS,12 month,5,buy,750.0,212.0
+213,213,-0.0,M,-2147483648,2015-08-10,J.P. Morgan,18 month,5,overweight,800.0,213.0
+214,214,-0.0,M,-2147483648,2015-07-17,Raymond James,12 month,5,outperform,720.0,214.0
+215,215,-0.0,M,-2147483648,2015-06-01,Canaccord Genuity,12 month,5,buy,700.0,215.0
+216,216,-0.0,M,-2147483648,2015-05-15,Nomura,12 month,5,buy,625.0,216.0
+217,217,-0.0,M,-2147483648,2015-10-23,J.P. Morgan,12 month,5,overweight,900.0,217.0
+218,218,-0.0,M,-2147483648,2015-10-23,Jefferies,12 month,5,buy,900.0,218.0
+219,219,-0.0,M,-2147483648,2015-10-23,Baird,12 month,5,outperform,780.0,219.0
+220,220,-0.0,M,-2147483648,2015-10-23,William Blair & Co,Not Provided,5,outperform,-0.0,220.0
+221,221,-0.0,M,-2147483648,2015-10-23,Raymond James,12 month,5,outperform,790.0,221.0
+222,222,-0.0,M,-2147483648,2015-10-23,Oppenheimer & Co,18 month,5,outperform,822.0,222.0
+223,223,-0.0,M,-2147483648,2015-10-23,"Morningstar, Inc",Not Provided,3,hold,-0.0,223.0
+224,224,-0.0,M,-2147483648,2015-10-22,UBS,12 month,5,buy,820.0,224.0
+225,225,-0.0,M,-2147483648,2015-08-11,JMP Securities,12 month,4,market outperform,720.0,225.0
+226,226,-0.0,M,-2147483648,2015-06-01,Canaccord Genuity,12 month,5,buy,700.0,226.0
+227,227,-0.0,M,-2147483648,2015-05-15,Nomura,12 month,5,buy,625.0,227.0
+228,228,-0.0,M,-2147483648,2015-11-20,Baird,12 month,5,outperform,780.0,228.0
+229,229,-0.0,M,-2147483648,2015-11-09,William Blair & Co,Not Provided,5,outperform,-0.0,229.0
+230,230,-0.0,M,-2147483648,2015-10-23,J.P. Morgan,12 month,5,overweight,900.0,230.0
+231,231,-0.0,M,-2147483648,2015-10-23,Jefferies,12 month,5,buy,900.0,231.0
+232,232,-0.0,M,-2147483648,2015-10-23,Raymond James,12 month,5,outperform,790.0,232.0
+233,233,-0.0,M,-2147483648,2015-10-23,Oppenheimer & Co,18 month,5,outperform,822.0,233.0
+234,234,-0.0,M,-2147483648,2015-10-23,"Morningstar, Inc",Not Provided,3,hold,-0.0,234.0
+235,235,-0.0,M,-2147483648,2015-10-22,UBS,12 month,5,buy,820.0,235.0
+236,236,-0.0,M,-2147483648,2015-08-11,JMP Securities,12 month,4,market outperform,720.0,236.0
+237,237,-0.0,M,-2147483648,2015-06-01,Canaccord Genuity,12 month,5,buy,700.0,237.0
+238,238,-0.0,M,-2147483648,2015-05-15,Nomura,12 month,5,buy,625.0,238.0
+239,239,-0.0,M,-2147483648,2015-12-20,"Morningstar, Inc",Not Provided,3,hold,-0.0,239.0
+240,240,-0.0,M,-2147483648,2015-12-16,Baird,Not Provided,5,outperform,780.0,240.0
+241,241,-0.0,M,-2147483648,2015-12-04,William Blair & Co,Not Provided,5,outperform,-0.0,241.0
+242,242,-0.0,M,-2147483648,2015-10-23,J.P. Morgan,12 month,5,overweight,900.0,242.0
+243,243,-0.0,M,-2147483648,2015-10-23,Jefferies,12 month,5,buy,900.0,243.0
+244,244,-0.0,M,-2147483648,2015-10-23,Raymond James,12 month,5,outperform,790.0,244.0
+245,245,-0.0,M,-2147483648,2015-10-23,Oppenheimer & Co,18 month,5,outperform,822.0,245.0
+246,246,-0.0,M,-2147483648,2015-10-22,UBS,12 month,5,buy,820.0,246.0
+247,247,-0.0,M,-2147483648,2016-02-01,Raymond James,12 month,5,outperform,900.0,247.0
+248,248,-0.0,M,-2147483648,2016-02-01,"Morningstar, Inc",Not Provided,3,hold,-0.0,248.0
+249,249,-0.0,M,-2147483648,2016-01-25,Baird,Not Provided,5,outperform,780.0,249.0
+250,250,-0.0,M,-2147483648,2016-01-12,UBS,12 month,5,buy,835.0,250.0
+251,251,-0.0,M,-2147483648,2016-01-11,William Blair & Co,Not Provided,5,outperform,-0.0,251.0
+252,252,-0.0,M,-2147483648,2016-01-08,Jefferies,12 month,5,buy,900.0,252.0
+253,253,-0.0,M,-2147483648,2015-10-23,J.P. Morgan,12 month,5,overweight,900.0,253.0
+254,254,-0.0,M,-2147483648,2015-10-23,Oppenheimer & Co,18 month,5,outperform,822.0,254.0
+255,255,-0.0,M,-2147483648,2016-02-17,Raymond James,12 month,5,outperform,900.0,255.0
+256,256,-0.0,M,-2147483648,2016-02-16,William Blair & Co,Not Provided,5,outperform,-0.0,256.0
+257,257,-0.0,M,-2147483648,2016-02-02,UBS,12 month,5,buy,875.0,257.0
+258,258,-0.0,M,-2147483648,2016-02-02,J.P. Morgan,12 month,5,overweight,968.0,258.0
+259,259,-0.0,M,-2147483648,2016-02-02,Jefferies,12 month,5,buy,950.0,259.0
+260,260,-0.0,M,-2147483648,2016-02-02,Baird,Not Provided,5,outperform,880.0,260.0
+261,261,-0.0,M,-2147483648,2016-02-02,Oppenheimer & Co,12 month,5,outperform,965.0,261.0
+262,262,-0.0,M,-2147483648,2016-02-02,"Morningstar, Inc",Not Provided,3,hold,-0.0,262.0
+263,263,-0.0,M,-2147483648,2016-03-28,William Blair & Co,Not Provided,5,outperform,-0.0,263.0
+264,264,-0.0,M,-2147483648,2016-03-24,Oppenheimer & Co,12 month,5,outperform,965.0,264.0
+265,265,-0.0,M,-2147483648,2016-03-23,Jefferies,12 month,5,buy,950.0,265.0
+266,266,-0.0,M,-2147483648,2016-03-23,Raymond James,12 month,5,outperform,900.0,266.0
+267,267,-0.0,N,-2147483648,2016-03-22,Guggenheim Securities,Not Provided,3,neutral,-0.0,267.0
+268,268,-0.0,M,-2147483648,2016-03-14,Baird,Not Provided,5,outperform,880.0,268.0
+269,269,-0.0,M,-2147483648,2016-02-02,UBS,12 month,5,buy,875.0,269.0
+270,270,-0.0,M,-2147483648,2016-02-02,J.P. Morgan,12 month,5,overweight,968.0,270.0
+271,271,-0.0,M,-2147483648,2016-02-02,"Morningstar, Inc",Not Provided,3,hold,-0.0,271.0
+272,272,-0.0,M,-2147483648,2016-04-26,William Blair & Co,Not Provided,5,outperform,-0.0,272.0
+273,273,-0.0,M,-2147483648,2016-04-22,J.P. Morgan,9 month,5,overweight,925.0,273.0
+274,274,-0.0,M,-2147483648,2016-04-22,Baird,12 month,5,outperform,860.0,274.0
+275,275,-0.0,M,-2147483648,2016-04-22,Oppenheimer & Co,12 month,5,outperform,958.0,275.0
+276,276,-0.0,M,-2147483648,2016-04-21,Raymond James,12 month,5,outperform,820.0,276.0
+277,277,-0.0,M,-2147483648,2016-04-21,"Morningstar, Inc",Not Provided,3,hold,-0.0,277.0
+278,278,-0.0,M,-2147483648,2016-04-19,Jefferies,12 month,5,buy,950.0,278.0
+279,279,-0.0,M,-2147483648,2016-04-06,UBS,12 month,5,buy,880.0,279.0
+280,280,-0.0,N,-2147483648,2016-03-22,Guggenheim Securities,Not Provided,3,neutral,-0.0,280.0
+281,281,-0.0,M,-2147483648,2016-05-24,Raymond James,12 month,5,outperform,820.0,281.0
+282,282,-0.0,M,-2147483648,2016-05-20,Jefferies,Not Provided,5,buy,925.0,282.0
+283,283,-0.0,M,-2147483648,2016-05-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,283.0
+284,284,-0.0,M,-2147483648,2016-04-26,William Blair & Co,Not Provided,5,outperform,-0.0,284.0
+285,285,-0.0,M,-2147483648,2016-04-22,J.P. Morgan,9 month,5,overweight,925.0,285.0
+286,286,-0.0,M,-2147483648,2016-04-22,Baird,12 month,5,outperform,860.0,286.0
+287,287,-0.0,M,-2147483648,2016-04-22,Oppenheimer & Co,12 month,5,outperform,958.0,287.0
+288,288,-0.0,M,-2147483648,2016-04-06,UBS,12 month,5,buy,880.0,288.0
+289,289,-0.0,N,-2147483648,2016-03-22,Guggenheim Securities,Not Provided,3,neutral,-0.0,289.0
+290,290,-0.0,M,-2147483648,2016-06-16,Raymond James,12 month,5,outperform,820.0,290.0
+291,291,-0.0,M,-2147483648,2016-05-20,Jefferies,Not Provided,5,buy,925.0,291.0
+292,292,-0.0,M,-2147483648,2016-05-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,292.0
+293,293,-0.0,M,-2147483648,2016-04-26,William Blair & Co,Not Provided,5,outperform,-0.0,293.0
+294,294,-0.0,M,-2147483648,2016-04-22,J.P. Morgan,9 month,5,overweight,925.0,294.0
+295,295,-0.0,M,-2147483648,2016-04-22,Baird,12 month,5,outperform,860.0,295.0
+296,296,-0.0,M,-2147483648,2016-04-22,Oppenheimer & Co,12 month,5,outperform,958.0,296.0
+297,297,-0.0,M,-2147483648,2016-04-06,UBS,12 month,5,buy,880.0,297.0
+298,298,-0.0,N,-2147483648,2016-03-22,Guggenheim Securities,Not Provided,3,neutral,-0.0,298.0
+299,299,-0.0,M,-2147483648,2016-07-29,UBS,12 month,5,buy,925.0,299.0
+300,300,-0.0,M,-2147483648,2016-07-29,J.P. Morgan,6 month,5,overweight,950.0,300.0
+301,301,-0.0,M,-2147483648,2016-07-29,Baird,12 month,5,outperform,900.0,301.0
+302,302,-0.0,M,-2147483648,2016-07-29,Raymond James,12 month,5,outperform,900.0,302.0
+303,303,-0.0,M,-2147483648,2016-07-29,"Morningstar, Inc",Not Provided,3,hold,-0.0,303.0
+304,304,-0.0,M,-2147483648,2016-07-28,William Blair & Co,Not Provided,5,outperform,-0.0,304.0
+305,305,-0.0,M,-2147483648,2016-07-28,Oppenheimer & Co,12 month,5,outperform,970.0,305.0
+306,306,-0.0,M,-2147483648,2016-05-20,Jefferies,Not Provided,5,buy,925.0,306.0
+307,307,-0.0,N,-2147483648,2016-03-22,Guggenheim Securities,Not Provided,3,neutral,-0.0,307.0
+308,308,-0.0,M,-2147483648,2016-08-29,Baird,12 month,5,outperform,900.0,308.0
+309,309,-0.0,M,-2147483648,2016-08-02,Guggenheim Securities,Not Provided,3,neutral,-0.0,309.0
+310,310,-0.0,M,-2147483648,2016-07-29,UBS,12 month,5,buy,925.0,310.0
+311,311,-0.0,M,-2147483648,2016-07-29,J.P. Morgan,6 month,5,overweight,950.0,311.0
+312,312,-0.0,M,-2147483648,2016-07-29,Raymond James,12 month,5,outperform,900.0,312.0
+313,313,-0.0,M,-2147483648,2016-07-29,"Morningstar, Inc",Not Provided,3,hold,-0.0,313.0
+314,314,-0.0,M,-2147483648,2016-07-28,William Blair & Co,Not Provided,5,outperform,-0.0,314.0
+315,315,-0.0,M,-2147483648,2016-07-28,Oppenheimer & Co,12 month,5,outperform,970.0,315.0
+316,316,-0.0,M,-2147483648,2016-05-20,Jefferies,Not Provided,5,buy,925.0,316.0
+317,317,-0.0,M,-2147483648,2016-09-27,J.P. Morgan,18 month,5,overweight,1025.0,317.0
+318,318,-0.0,M,-2147483648,2016-09-23,"Morningstar, Inc",Not Provided,3,hold,-0.0,318.0
+319,319,-0.0,M,-2147483648,2016-09-21,Raymond James,12 month,5,outperform,900.0,319.0
+320,320,-0.0,M,-2147483648,2016-08-29,Baird,12 month,5,outperform,900.0,320.0
+321,321,-0.0,M,-2147483648,2016-08-02,Guggenheim Securities,Not Provided,3,neutral,-0.0,321.0
+322,322,-0.0,M,-2147483648,2016-07-29,UBS,12 month,5,buy,925.0,322.0
+323,323,-0.0,M,-2147483648,2016-07-28,William Blair & Co,Not Provided,5,outperform,-0.0,323.0
+324,324,-0.0,M,-2147483648,2016-07-28,Oppenheimer & Co,12 month,5,outperform,970.0,324.0
+325,325,-0.0,M,-2147483648,2016-05-20,Jefferies,Not Provided,5,buy,925.0,325.0
+326,326,-0.0,M,-2147483648,2016-10-28,J.P. Morgan,18 month,5,overweight,1000.0,326.0
+327,327,-0.0,M,-2147483648,2016-10-28,Needham & Co,12 month,5,buy,925.0,327.0
+328,328,-0.0,M,-2147483648,2016-10-28,Cowen,12 month,5,outperform,1000.0,328.0
+329,329,-0.0,M,-2147483648,2016-10-28,"Morningstar, Inc",Not Provided,3,hold,-0.0,329.0
+330,330,-0.0,M,-2147483648,2016-10-27,William Blair & Co,Not Provided,5,outperform,-0.0,330.0
+331,331,-0.0,M,-2147483648,2016-10-27,Raymond James,12 month,5,outperform,920.0,331.0
+332,332,-0.0,M,-2147483648,2016-10-27,Oppenheimer & Co,12 month,5,outperform,1000.0,332.0
+333,333,-0.0,M,-2147483648,2016-10-17,Baird,Not Provided,5,outperform,-0.0,333.0
+334,334,-0.0,M,-2147483648,2016-08-02,Guggenheim Securities,Not Provided,3,neutral,-0.0,334.0
+335,335,-0.0,M,-2147483648,2016-07-29,UBS,12 month,5,buy,925.0,335.0
+336,336,-0.0,M,-2147483648,2016-12-01,Baird,12 month,5,outperform,930.0,336.0
+337,337,-0.0,M,-2147483648,2016-12-01,William Blair & Co,Not Provided,5,outperform,-0.0,337.0
+338,338,-0.0,M,-2147483648,2016-11-11,"Morningstar, Inc",Not Provided,3,hold,-0.0,338.0
+339,339,-0.0,M,-2147483648,2016-10-28,J.P. Morgan,18 month,5,overweight,1000.0,339.0
+340,340,-0.0,M,-2147483648,2016-10-28,Needham & Co,12 month,5,buy,925.0,340.0
+341,341,-0.0,M,-2147483648,2016-10-28,Cowen,12 month,5,outperform,1000.0,341.0
+342,342,-0.0,M,-2147483648,2016-10-27,Raymond James,12 month,5,outperform,920.0,342.0
+343,343,-0.0,M,-2147483648,2016-10-27,Oppenheimer & Co,12 month,5,outperform,1000.0,343.0
+344,344,-0.0,M,-2147483648,2016-08-02,Guggenheim Securities,Not Provided,3,neutral,-0.0,344.0
+345,345,-0.0,M,-2147483648,2016-07-29,UBS,12 month,5,buy,925.0,345.0
+346,346,-0.0,M,-2147483648,2016-12-07,"Morningstar, Inc",Not Provided,3,hold,-0.0,346.0
+347,347,-0.0,M,-2147483648,2016-12-04,Oppenheimer & Co,12 month,5,outperform,1000.0,347.0
+348,348,-0.0,M,-2147483648,2016-12-01,Baird,12 month,5,outperform,930.0,348.0
+349,349,-0.0,M,-2147483648,2016-12-01,William Blair & Co,Not Provided,5,outperform,-0.0,349.0
+350,350,-0.0,M,-2147483648,2016-10-28,J.P. Morgan,18 month,5,overweight,1000.0,350.0
+351,351,-0.0,M,-2147483648,2016-10-28,Needham & Co,12 month,5,buy,925.0,351.0
+352,352,-0.0,M,-2147483648,2016-10-28,Cowen,12 month,5,outperform,1000.0,352.0
+353,353,-0.0,M,-2147483648,2016-10-27,Raymond James,12 month,5,outperform,920.0,353.0
+354,354,-0.0,M,-2147483648,2016-07-29,UBS,12 month,5,buy,925.0,354.0
+355,355,-0.0,M,-2147483648,2017-01-31,Cowen,Not Provided,5,outperform,1050.0,355.0
+356,356,-0.0,M,-2147483648,2017-01-30,UBS,12 month,5,buy,980.0,356.0
+357,357,-0.0,M,-2147483648,2017-01-27,J.P. Morgan,12 month,5,overweight,1020.0,357.0
+358,358,-0.0,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.0,358.0
+359,359,-0.0,M,-2147483648,2017-01-27,Baird,Not Provided,5,outperform,960.0,359.0
+360,360,-0.0,M,-2147483648,2017-01-27,Raymond James,12 month,5,outperform,950.0,360.0
+361,361,-0.0,M,-2147483648,2017-01-26,William Blair & Co,Not Provided,5,outperform,-0.0,361.0
+362,362,-0.0,M,-2147483648,2017-01-26,Oppenheimer & Co,12 month,5,outperform,1000.0,362.0
+363,363,-0.0,M,-2147483648,2017-01-26,"Morningstar, Inc",Not Provided,3,hold,-0.0,363.0
+364,364,-0.0,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.0,364.0
+365,365,-0.0,M,-2147483648,2017-03-01,J.P. Morgan,12 month,5,overweight,1020.0,365.0
+366,366,-0.0,M,-2147483648,2017-03-01,William Blair & Co,Not Provided,5,outperform,-0.0,366.0
+367,367,-0.0,M,-2147483648,2017-02-23,Baird,12 month,5,outperform,960.0,367.0
+368,368,-0.0,M,-2147483648,2017-02-13,Raymond James,12 month,5,outperform,950.0,368.0
+369,369,-0.0,M,-2147483648,2017-01-31,Cowen,Not Provided,5,outperform,1050.0,369.0
+370,370,-0.0,M,-2147483648,2017-01-30,UBS,12 month,5,buy,980.0,370.0
+371,371,-0.0,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.0,371.0
+372,372,-0.0,M,-2147483648,2017-01-26,Oppenheimer & Co,12 month,5,outperform,1000.0,372.0
+373,373,-0.0,M,-2147483648,2017-01-26,"Morningstar, Inc",Not Provided,3,hold,-0.0,373.0
+374,374,-0.0,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.0,374.0
+375,375,-0.0,N,-2147483648,2017-03-30,Loop Capital Markets,Not Provided,3,hold,800.0,375.0
+376,376,-0.0,M,-2147483648,2017-03-27,J.P. Morgan,12 month,5,overweight,1020.0,376.0
+377,377,-0.0,M,-2147483648,2017-03-27,Baird,12 month,5,outperform,960.0,377.0
+378,378,-0.0,M,-2147483648,2017-03-27,Raymond James,12 month,5,outperform,950.0,378.0
+379,379,-0.0,M,-2147483648,2017-03-24,Cowen,Not Provided,5,outperform,1050.0,379.0
+380,380,-0.0,M,-2147483648,2017-03-01,William Blair & Co,Not Provided,5,outperform,-0.0,380.0
+381,381,-0.0,M,-2147483648,2017-01-30,UBS,12 month,5,buy,980.0,381.0
+382,382,-0.0,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.0,382.0
+383,383,-0.0,M,-2147483648,2017-01-26,Oppenheimer & Co,12 month,5,outperform,1000.0,383.0
+384,384,-0.0,M,-2147483648,2017-01-26,"Morningstar, Inc",Not Provided,3,hold,-0.0,384.0
+385,385,-0.0,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.0,385.0
+386,386,-0.0,M,-2147483648,2017-04-24,Loop Capital Markets,Not Provided,3,hold,843.19,386.0
+387,387,-0.0,M,-2147483648,2017-04-21,Cowen,12 month,5,outperform,1050.0,387.0
+388,388,0.0,M,2,2017-04-12,"Morningstar, Inc",Not Provided,3,hold,-0.0,388.0
+389,389,20.63,M,1,2017-04-10,Oppenheimer & Co,12 month,5,outperform,1000.0,389.0
+390,390,20.63,M,1,2017-03-27,J.P. Morgan,12 month,5,overweight,1020.0,390.0
+391,391,20.63,M,1,2017-03-27,Baird,12 month,5,outperform,960.0,391.0
+392,392,20.63,M,1,2017-03-27,Raymond James,12 month,5,outperform,950.0,392.0
+393,393,20.63,M,1,2017-03-01,William Blair & Co,Not Provided,5,outperform,-0.0,393.0
+394,394,20.63,M,1,2017-01-30,UBS,12 month,5,buy,980.0,394.0
+395,395,-0.0,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.0,395.0
+396,396,-0.0,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.0,396.0
+397,397,-0.0,M,-2147483648,2017-04-24,Loop Capital Markets,Not Provided,3,hold,843.19,397.0
+398,398,-0.0,M,-2147483648,2017-04-21,Cowen,12 month,5,outperform,1050.0,398.0
+399,399,0.0,M,2,2017-04-12,"Morningstar, Inc",Not Provided,3,hold,-0.0,399.0
+400,400,20.63,M,1,2017-04-10,Oppenheimer & Co,12 month,5,outperform,1000.0,400.0
+401,401,20.63,M,1,2017-03-27,J.P. Morgan,12 month,5,overweight,1020.0,401.0
+402,402,20.63,M,1,2017-03-27,Baird,12 month,5,outperform,960.0,402.0
+403,403,20.63,M,1,2017-03-27,Raymond James,12 month,5,outperform,950.0,403.0
+404,404,20.63,M,1,2017-03-01,William Blair & Co,Not Provided,5,outperform,-0.0,404.0
+405,405,20.63,M,1,2017-01-30,UBS,12 month,5,buy,980.0,405.0
+406,406,-0.0,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.0,406.0
+407,407,-0.0,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.0,407.0
+408,408,-0.0,M,-2147483648,2017-04-24,Loop Capital Markets,Not Provided,3,hold,843.19,408.0
+409,409,-0.0,M,-2147483648,2017-04-21,Cowen,12 month,5,outperform,1050.0,409.0
+410,410,0.0,M,2,2017-04-12,"Morningstar, Inc",Not Provided,3,hold,-0.0,410.0
+411,411,20.63,M,1,2017-04-10,Oppenheimer & Co,12 month,5,outperform,1000.0,411.0
+412,412,20.63,M,1,2017-03-27,J.P. Morgan,12 month,5,overweight,1020.0,412.0
+413,413,20.63,M,1,2017-03-27,Baird,12 month,5,outperform,960.0,413.0
+414,414,20.63,M,1,2017-03-27,Raymond James,12 month,5,outperform,950.0,414.0
+415,415,20.63,M,1,2017-03-01,William Blair & Co,Not Provided,5,outperform,-0.0,415.0
+416,416,20.63,M,1,2017-01-30,UBS,12 month,5,buy,980.0,416.0
+417,417,-0.0,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.0,417.0
+418,418,-0.0,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.0,418.0
+419,419,-0.0,M,-2147483648,2017-04-24,Loop Capital Markets,Not Provided,3,hold,843.19,419.0
+420,420,-0.0,M,-2147483648,2017-04-21,Cowen,12 month,5,outperform,1050.0,420.0
+421,421,0.0,M,2,2017-04-12,"Morningstar, Inc",Not Provided,3,hold,-0.0,421.0
+422,422,20.63,M,1,2017-04-10,Oppenheimer & Co,12 month,5,outperform,1000.0,422.0
+423,423,20.63,M,1,2017-03-27,J.P. Morgan,12 month,5,overweight,1020.0,423.0
+424,424,20.63,M,1,2017-03-27,Baird,12 month,5,outperform,960.0,424.0
+425,425,20.63,M,1,2017-03-27,Raymond James,12 month,5,outperform,950.0,425.0
+426,426,20.63,M,1,2017-03-01,William Blair & Co,Not Provided,5,outperform,-0.0,426.0
+427,427,20.63,M,1,2017-01-30,UBS,12 month,5,buy,980.0,427.0
+428,428,-0.0,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.0,428.0
+429,429,-0.0,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.0,429.0
+430,430,-0.0,M,-2147483648,2017-04-24,Loop Capital Markets,Not Provided,3,hold,843.19,430.0
+431,431,-0.0,M,-2147483648,2017-04-21,Cowen,12 month,5,outperform,1050.0,431.0
+432,432,0.0,M,2,2017-04-12,"Morningstar, Inc",Not Provided,3,hold,-0.0,432.0
+433,433,20.63,M,1,2017-04-10,Oppenheimer & Co,12 month,5,outperform,1000.0,433.0
+434,434,20.63,M,1,2017-03-27,J.P. Morgan,12 month,5,overweight,1020.0,434.0
+435,435,20.63,M,1,2017-03-27,Baird,12 month,5,outperform,960.0,435.0
+436,436,20.63,M,1,2017-03-27,Raymond James,12 month,5,outperform,950.0,436.0
+437,437,20.63,M,1,2017-03-01,William Blair & Co,Not Provided,5,outperform,-0.0,437.0
+438,438,20.63,M,1,2017-01-30,UBS,12 month,5,buy,980.0,438.0
+439,439,-0.0,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.0,439.0
+440,440,-0.0,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.0,440.0
+441,441,-0.0,M,-2147483648,2017-04-24,Loop Capital Markets,Not Provided,3,hold,843.19,441.0
+442,442,-0.0,M,-2147483648,2017-04-21,Cowen,12 month,5,outperform,1050.0,442.0
+443,443,0.0,M,2,2017-04-12,"Morningstar, Inc",Not Provided,3,hold,-0.0,443.0
+444,444,20.63,M,1,2017-04-10,Oppenheimer & Co,12 month,5,outperform,1000.0,444.0
+445,445,20.63,M,1,2017-03-27,J.P. Morgan,12 month,5,overweight,1020.0,445.0
+446,446,20.63,M,1,2017-03-27,Baird,12 month,5,outperform,960.0,446.0
+447,447,20.63,M,1,2017-03-27,Raymond James,12 month,5,outperform,950.0,447.0
+448,448,20.63,M,1,2017-03-01,William Blair & Co,Not Provided,5,outperform,-0.0,448.0
+449,449,20.63,M,1,2017-01-30,UBS,12 month,5,buy,980.0,449.0
+450,450,-0.0,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.0,450.0
+451,451,-0.0,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.0,451.0
+452,452,-0.0,M,-2147483648,2017-04-24,Loop Capital Markets,Not Provided,3,hold,843.19,452.0
+453,453,-0.0,M,-2147483648,2017-04-21,Cowen,12 month,5,outperform,1050.0,453.0
+454,454,0.0,M,2,2017-04-12,"Morningstar, Inc",Not Provided,3,hold,-0.0,454.0
+455,455,20.63,M,1,2017-04-10,Oppenheimer & Co,12 month,5,outperform,1000.0,455.0
+456,456,20.63,M,1,2017-03-27,J.P. Morgan,12 month,5,overweight,1020.0,456.0
+457,457,20.63,M,1,2017-03-27,Baird,12 month,5,outperform,960.0,457.0
+458,458,20.63,M,1,2017-03-27,Raymond James,12 month,5,outperform,950.0,458.0
+459,459,20.63,M,1,2017-03-01,William Blair & Co,Not Provided,5,outperform,-0.0,459.0
+460,460,20.63,M,1,2017-01-30,UBS,12 month,5,buy,980.0,460.0
+461,461,-0.0,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.0,461.0
+462,462,-0.0,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.0,462.0
+463,463,-0.0,M,-2147483648,2017-04-24,Loop Capital Markets,Not Provided,3,hold,843.19,463.0
+464,464,-0.0,M,-2147483648,2017-04-21,Cowen,12 month,5,outperform,1050.0,464.0
+465,465,0.0,M,2,2017-04-12,"Morningstar, Inc",Not Provided,3,hold,-0.0,465.0
+466,466,20.63,M,1,2017-04-10,Oppenheimer & Co,12 month,5,outperform,1000.0,466.0
+467,467,20.63,M,1,2017-03-27,J.P. Morgan,12 month,5,overweight,1020.0,467.0
+468,468,20.63,M,1,2017-03-27,Baird,12 month,5,outperform,960.0,468.0
+469,469,20.63,M,1,2017-03-27,Raymond James,12 month,5,outperform,950.0,469.0
+470,470,20.63,M,1,2017-03-01,William Blair & Co,Not Provided,5,outperform,-0.0,470.0
+471,471,20.63,M,1,2017-01-30,UBS,12 month,5,buy,980.0,471.0
+472,472,-0.0,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.0,472.0
+473,473,-0.0,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.0,473.0
+474,474,-0.000000,N,-2147483648,2017-03-30,Loop Capital Markets,Not Provided,3,hold,800.000000,
+475,475,-0.000000,M,-2147483648,2017-03-27,J.P. Morgan,12 month,5,overweight,1020.000000,
+476,476,-0.000000,M,-2147483648,2017-03-27,Baird,12 month,5,outperform,960.000000,
+477,477,-0.000000,M,-2147483648,2017-03-27,Raymond James,12 month,5,outperform,950.000000,
+478,478,-0.000000,M,-2147483648,2017-03-24,Cowen,Not Provided,5,outperform,1050.000000,
+479,479,-0.000000,M,-2147483648,2017-03-01,William Blair & Co,Not Provided,5,outperform,-0.000000,
+480,480,-0.000000,M,-2147483648,2017-01-30,UBS,12 month,5,buy,980.000000,
+481,481,-0.000000,M,-2147483648,2017-01-27,Needham & Co,12 month,5,buy,935.000000,
+482,482,-0.000000,M,-2147483648,2017-01-26,Oppenheimer & Co,12 month,5,outperform,1000.000000,
+483,483,-0.000000,M,-2147483648,2017-01-26,"Morningstar, Inc",Not Provided,3,hold,-0.000000,
+484,484,-0.000000,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.000000,
+485,485,-0.000000,M,-2147483648,2017-05-01,"Morningstar, Inc",Not Provided,3,hold,-0.000000,
+486,486,-0.000000,M,-2147483648,2017-04-28,UBS,12 month,5,buy,1050.000000,
+487,487,-0.000000,M,-2147483648,2017-04-28,J.P. Morgan,9 month,5,overweight,1075.000000,
+488,488,-0.000000,M,-2147483648,2017-04-28,Needham & Co,12 month,5,buy,1050.000000,
+489,489,-0.000000,M,-2147483648,2017-04-28,Baird,12 month,5,outperform,1100.000000,
+490,490,-0.000000,M,-2147483648,2017-04-28,Loop Capital Markets,12 month,3,hold,850.000000,
+491,491,-0.000000,M,-2147483648,2017-04-28,Oppenheimer & Co,12 month,5,outperform,1050.000000,
+492,492,-0.000000,M,-2147483648,2017-04-27,William Blair & Co,Not Provided,5,outperform,-0.000000,
+493,493,-0.000000,M,-2147483648,2017-04-27,Raymond James,12 month,5,outperform,1020.000000,
+494,494,-0.000000,M,-2147483648,2017-04-21,Cowen,12 month,5,outperform,1050.000000,
+495,495,-0.000000,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.000000,
+496,496,0.000000,M,2,2017-05-01,"Morningstar, Inc",Not Provided,3,hold,-0.000000,
+497,497,31.260000,M,1,2017-04-28,UBS,12 month,5,buy,1050.000000,
+498,498,31.260000,M,1,2017-04-28,J.P. Morgan,9 month,5,overweight,1075.000000,
+499,499,-0.000000,M,-2147483648,2017-04-28,Needham & Co,12 month,5,buy,1050.000000,
+500,500,31.260000,M,1,2017-04-28,Baird,12 month,5,outperform,1100.000000,
+501,501,-0.000000,M,-2147483648,2017-04-28,Loop Capital Markets,12 month,3,hold,850.000000,
+502,502,31.260000,M,1,2017-04-28,Oppenheimer & Co,12 month,5,outperform,1050.000000,
+503,503,31.260000,M,1,2017-04-27,William Blair & Co,Not Provided,5,outperform,-0.000000,
+504,504,31.260000,M,1,2017-04-27,Raymond James,12 month,5,outperform,1020.000000,
+505,505,-0.000000,M,-2147483648,2017-04-21,Cowen,12 month,5,outperform,1050.000000,
+506,506,-0.000000,M,-2147483648,2017-01-10,Jefferies,Not Provided,5,buy,1000.000000,

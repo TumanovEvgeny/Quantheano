@@ -1,0 +1,713 @@
+,index,1 Year Return,Action Code,BARR,Date,Firm Name,Period,Rating,Recommendation,Target Price,Unnamed: 0
+0,0,-0.0,N,-2147483648,2012-09-28,Barclays,Not Provided,3,equalweight,0.32,0.0
+1,1,-0.0,M,-2147483648,2012-09-04,Macquarie,12 month,1,underperform,0.5,1.0
+2,2,-0.0,M,-2147483648,2012-10-24,Barclays,Not Provided,3,equalweight,18.0,2.0
+3,3,-0.0,M,-2147483648,2012-10-16,Macquarie,12 month,1,underperform,17.0,3.0
+4,4,-0.0,D,-2147483648,2012-10-03,UBS,12 month,1,sell,17.0,4.0
+5,5,-0.0,M,-2147483648,2012-10-03,BTIG LLC,Not Provided,3,neutral,-0.0,5.0
+6,6,-0.0,M,-2147483648,2012-11-28,Macquarie,12 month,1,underperform,17.0,6.0
+7,7,-0.0,M,-2147483648,2012-11-08,UBS,12 month,1,sell,16.0,7.0
+8,8,-0.0,M,-2147483648,2012-11-07,Barclays,Not Provided,3,equalweight,18.0,8.0
+9,9,-0.0,M,-2147483648,2012-10-03,BTIG LLC,Not Provided,3,neutral,-0.0,9.0
+10,10,-0.0,M,-2147483648,2012-11-28,Macquarie,12 month,1,underperform,17.0,10.0
+11,11,-0.0,M,-2147483648,2012-11-08,UBS,12 month,1,sell,16.0,11.0
+12,12,-0.0,M,-2147483648,2012-11-07,Barclays,Not Provided,3,equalweight,18.0,12.0
+13,13,-0.0,M,-2147483648,2013-01-22,Macquarie,12 month,1,underperform,17.0,13.0
+14,14,-0.0,M,-2147483648,2013-01-18,Barclays,Not Provided,3,equalweight,22.0,14.0
+15,15,-0.0,M,-2147483648,2013-01-17,ISI Group,12 month,2,cautious,20.0,15.0
+16,16,-0.0,M,-2147483648,2013-01-09,UBS,12 month,1,sell,17.0,16.0
+17,17,-0.0,M,-2147483648,2013-01-22,Macquarie,12 month,1,underperform,17.0,17.0
+18,18,-0.0,M,-2147483648,2013-01-18,Barclays,Not Provided,3,equalweight,22.0,18.0
+19,19,-0.0,M,-2147483648,2013-01-17,ISI Group,12 month,2,cautious,20.0,19.0
+20,20,-0.0,M,-2147483648,2013-01-09,UBS,12 month,1,sell,17.0,20.0
+21,21,-0.0,M,-2147483648,2013-03-25,Macquarie,12 month,1,underperform,19.0,21.0
+22,22,-0.0,M,-2147483648,2013-03-18,UBS,12 month,1,sell,18.0,22.0
+23,23,-0.0,M,-2147483648,2013-03-15,Barclays,Not Provided,3,equalweight,22.0,23.0
+24,24,-0.0,U,-2147483648,2013-03-14,ISI Group,12 month,3,neutral,23.0,24.0
+25,25,-0.0,M,-2147483648,2013-04-24,Macquarie,12 month,1,underperform,19.0,25.0
+26,26,-0.0,M,-2147483648,2013-04-24,Barclays,Not Provided,3,equalweight,25.0,26.0
+27,27,-0.0,M,-2147483648,2013-04-12,UBS,12 month,1,sell,20.0,27.0
+28,28,-0.0,M,-2147483648,2013-04-03,Tudor Pickering & Co,Not Provided,4,accumulate,25.0,28.0
+29,29,-0.0,U,-2147483648,2013-03-14,ISI Group,12 month,3,neutral,23.0,29.0
+30,30,-0.0,N,-2147483648,2013-05-30,Goldman Sachs,12 month,3,neutral/attractive,26.0,30.0
+31,31,-0.0,M,-2147483648,2013-05-03,Macquarie,12 month,1,underperform,19.0,31.0
+32,32,-0.0,M,-2147483648,2013-05-03,Barclays,Not Provided,3,equalweight,25.0,32.0
+33,33,-0.0,M,-2147483648,2013-04-12,UBS,12 month,1,sell,20.0,33.0
+34,34,-0.0,M,-2147483648,2013-04-03,Tudor Pickering & Co,Not Provided,4,accumulate,25.0,34.0
+35,35,-0.0,U,-2147483648,2013-03-14,ISI Group,12 month,3,neutral,23.0,35.0
+36,36,-0.0,M,-2147483648,2013-06-17,Macquarie,12 month,1,underperform,19.0,36.0
+37,37,-0.0,D,-2147483648,2013-06-10,EVA Dimensions,Not Provided,3,hold,-0.0,37.0
+38,38,-0.0,N,-2147483648,2013-05-30,Goldman Sachs,12 month,3,neutral/attractive,26.0,38.0
+39,39,-0.0,M,-2147483648,2013-05-03,Barclays,Not Provided,3,equalweight,25.0,39.0
+40,40,-0.0,M,-2147483648,2013-04-12,UBS,12 month,1,sell,20.0,40.0
+41,41,-0.0,M,-2147483648,2013-04-03,Tudor Pickering & Co,Not Provided,4,accumulate,25.0,41.0
+42,42,-0.0,U,-2147483648,2013-03-14,ISI Group,12 month,3,neutral,23.0,42.0
+43,43,-0.0,M,-2147483648,2013-08-01,UBS,12 month,1,sell,18.0,43.0
+44,44,-0.0,M,-2147483648,2013-08-01,ISI Group,12 month,3,neutral,16.5,44.0
+45,45,-0.0,D,-2147483648,2013-08-01,Tudor Pickering & Co,Not Provided,3,hold,25.0,45.0
+46,46,-0.0,N,-2147483648,2013-08-01,Drexel Hamilton LLC,12 month,5,buy,27.0,46.0
+47,47,-0.0,M,-2147483648,2013-07-26,Goldman Sachs,12 month,3,neutral/attractive,24.0,47.0
+48,48,-0.0,M,-2147483648,2013-07-26,EVA Dimensions,Not Provided,3,hold,-0.0,48.0
+49,49,-0.0,M,-2147483648,2013-07-24,Barclays,Not Provided,3,equalweight,25.0,49.0
+50,50,-0.0,M,-2147483648,2013-07-16,Macquarie,12 month,1,underperform,19.0,50.0
+51,51,-0.0,M,-2147483648,2013-07-09,WhiteSand Research LLC,Not Provided,4,undervalued,19.31,51.0
+52,52,-0.0,M,-2147483648,2013-08-08,Tudor Pickering & Co,Not Provided,3,hold,20.0,52.0
+53,53,-0.0,D,-2147483648,2013-08-06,EVA Dimensions,Not Provided,1,underweight,-0.0,53.0
+54,54,-0.0,M,-2147483648,2013-08-05,Macquarie,12 month,1,underperform,18.0,54.0
+55,55,-0.0,M,-2147483648,2013-08-02,Goldman Sachs,12 month,3,neutral/attractive,21.0,55.0
+56,56,-0.0,M,-2147483648,2013-08-02,Barclays,Not Provided,3,equalweight,20.0,56.0
+57,57,-0.0,M,-2147483648,2013-08-01,UBS,12 month,1,sell,18.0,57.0
+58,58,-0.0,M,-2147483648,2013-08-01,ISI Group,12 month,3,neutral,16.5,58.0
+59,59,-0.0,N,-2147483648,2013-08-01,Drexel Hamilton LLC,12 month,5,buy,27.0,59.0
+60,60,-0.0,M,-2147483648,2013-07-09,WhiteSand Research LLC,Not Provided,4,undervalued,19.31,60.0
+61,61,-0.0,M,-2147483648,2013-09-18,Goldman Sachs,12 month,3,neutral/neutral,20.0,61.0
+62,62,-0.0,M,-2147483648,2013-09-09,Drexel Hamilton LLC,12 month,5,buy,27.0,62.0
+63,63,-0.0,M,-2147483648,2013-09-04,Macquarie,12 month,1,underperform,18.0,63.0
+64,64,-0.0,M,-2147483648,2013-08-08,Tudor Pickering & Co,Not Provided,3,hold,20.0,64.0
+65,65,-0.0,D,-2147483648,2013-08-06,EVA Dimensions,Not Provided,1,underweight,-0.0,65.0
+66,66,-0.0,M,-2147483648,2013-08-02,Barclays,Not Provided,3,equalweight,20.0,66.0
+67,67,-0.0,M,-2147483648,2013-08-01,UBS,12 month,1,sell,18.0,67.0
+68,68,-0.0,M,-2147483648,2013-08-01,ISI Group,12 month,3,neutral,16.5,68.0
+69,69,-0.0,M,-2147483648,2013-07-09,WhiteSand Research LLC,Not Provided,4,undervalued,19.31,69.0
+70,70,-0.0,M,-2147483648,2013-10-23,ISI Group,12 month,1,sell,16.5,70.0
+71,71,-0.0,M,-2147483648,2013-10-16,UBS,12 month,1,sell,17.0,71.0
+72,72,-0.0,M,-2147483648,2013-10-07,Macquarie,12 month,1,underperform,18.0,72.0
+73,73,-0.0,M,-2147483648,2013-10-04,Drexel Hamilton LLC,12 month,5,buy,27.0,73.0
+74,74,-0.0,M,-2147483648,2013-09-18,Goldman Sachs,12 month,3,neutral/neutral,20.0,74.0
+75,75,-0.0,M,-2147483648,2013-08-08,Tudor Pickering & Co,Not Provided,3,hold,20.0,75.0
+76,76,-0.0,D,-2147483648,2013-08-06,EVA Dimensions,Not Provided,1,underweight,-0.0,76.0
+77,77,-0.0,M,-2147483648,2013-08-02,Barclays,Not Provided,3,equalweight,20.0,77.0
+78,78,-0.0,M,-2147483648,2013-07-09,WhiteSand Research LLC,Not Provided,4,undervalued,19.31,78.0
+79,79,-0.0,D,-2147483648,2013-11-18,EVA Dimensions,Not Provided,1,sell,-0.0,79.0
+80,80,-0.0,M,-2147483648,2013-11-08,Macquarie,12 month,1,underperform,18.5,80.0
+81,81,-0.0,M,-2147483648,2013-11-08,Barclays,Not Provided,3,equalweight,21.0,81.0
+82,82,-0.0,M,-2147483648,2013-11-07,ISI Group,12 month,1,sell,16.0,82.0
+83,83,-0.0,M,-2147483648,2013-10-16,UBS,12 month,1,sell,17.0,83.0
+84,84,-0.0,M,-2147483648,2013-09-18,Goldman Sachs,12 month,3,neutral/neutral,20.0,84.0
+85,85,-0.0,M,-2147483648,2013-08-08,Tudor Pickering & Co,Not Provided,3,hold,20.0,85.0
+86,86,-0.0,M,-2147483648,2013-07-09,WhiteSand Research LLC,Not Provided,4,undervalued,19.31,86.0
+87,87,-0.0,M,-2147483648,2013-12-18,Goldman Sachs,12 month,3,neutral/neutral,22.0,87.0
+88,88,-0.0,N,-2147483648,2013-12-17,Imperial Capital LLC,12 month,5,outperform,24.0,88.0
+89,89,-0.0,M,-2147483648,2013-12-10,Macquarie,12 month,1,underperform,18.5,89.0
+90,90,-0.0,D,-2147483648,2013-11-18,EVA Dimensions,Not Provided,1,sell,-0.0,90.0
+91,91,-0.0,M,-2147483648,2013-11-08,Barclays,Not Provided,3,equalweight,21.0,91.0
+92,92,-0.0,M,-2147483648,2013-11-07,ISI Group,12 month,1,sell,16.0,92.0
+93,93,-0.0,M,-2147483648,2013-10-16,UBS,12 month,1,sell,17.0,93.0
+94,94,-0.0,M,-2147483648,2013-08-08,Tudor Pickering & Co,Not Provided,3,hold,20.0,94.0
+95,95,-0.0,M,-2147483648,2014-01-27,Barclays,Not Provided,3,equalweight,21.0,95.0
+96,96,-0.0,M,-2147483648,2014-01-16,Macquarie,12 month,1,underperform,18.5,96.0
+97,97,-0.0,M,-2147483648,2014-01-13,ISI Group,12 month,1,sell,16.5,97.0
+98,98,-0.0,M,-2147483648,2013-12-18,Goldman Sachs,12 month,3,neutral/neutral,22.0,98.0
+99,99,-0.0,N,-2147483648,2013-12-17,Imperial Capital LLC,12 month,5,outperform,24.0,99.0
+100,100,-0.0,D,-2147483648,2013-11-18,EVA Dimensions,Not Provided,1,sell,-0.0,100.0
+101,101,-0.0,M,-2147483648,2013-10-16,UBS,12 month,1,sell,17.0,101.0
+102,102,-0.0,M,-2147483648,2013-08-08,Tudor Pickering & Co,Not Provided,3,hold,20.0,102.0
+103,103,-0.0,M,-2147483648,2014-02-28,Goldman Sachs,12 month,3,neutral/neutral,22.0,103.0
+104,104,-0.0,M,-2147483648,2014-02-28,Macquarie,12 month,1,underperform,18.5,104.0
+105,105,-0.0,M,-2147483648,2014-02-28,Barclays,Not Provided,3,equalweight,27.0,105.0
+106,106,-0.0,U,-2147483648,2014-02-27,ISI Group,12 month,3,neutral,24.0,106.0
+107,107,-0.0,M,-2147483648,2014-02-03,Imperial Capital LLC,12 month,5,outperform,22.0,107.0
+108,108,-0.0,D,-2147483648,2013-11-18,EVA Dimensions,Not Provided,1,sell,-0.0,108.0
+109,109,-0.0,M,-2147483648,2013-10-16,UBS,12 month,1,sell,17.0,109.0
+110,110,-0.0,M,-2147483648,2013-08-08,Tudor Pickering & Co,Not Provided,3,hold,20.0,110.0
+111,111,-0.0,M,-2147483648,2014-04-01,EVA Dimensions,Not Provided,1,sell,-0.0,111.0
+112,112,-0.0,M,-2147483648,2014-03-20,UBS,12 month,1,sell,18.0,112.0
+113,113,-0.0,M,-2147483648,2014-03-19,Goldman Sachs,12 month,3,neutral/attractive,26.0,113.0
+114,114,-0.0,M,-2147483648,2014-03-08,Macquarie,12 month,1,underperform,18.5,114.0
+115,115,-0.0,M,-2147483648,2014-02-28,Barclays,Not Provided,3,equalweight,27.0,115.0
+116,116,-0.0,U,-2147483648,2014-02-27,ISI Group,12 month,3,neutral,24.0,116.0
+117,117,-0.0,M,-2147483648,2014-02-03,Imperial Capital LLC,12 month,5,outperform,22.0,117.0
+118,118,-0.0,M,-2147483648,2013-08-08,Tudor Pickering & Co,Not Provided,3,hold,20.0,118.0
+119,119,-0.0,U,-2147483648,2014-05-01,ISI Group,12 month,5,strong buy,40.0,119.0
+120,120,-0.0,M,-2147483648,2014-04-30,"Morningstar, Inc",Not Provided,3,hold,-0.0,120.0
+121,121,-0.0,M,-2147483648,2014-04-28,Tudor Pickering & Co,Not Provided,3,hold,25.0,121.0
+122,122,-0.0,M,-2147483648,2014-04-28,EVA Dimensions,Not Provided,1,sell,-0.0,122.0
+123,123,-0.0,M,-2147483648,2014-04-27,Goldman Sachs,12 month,3,neutral/attractive,28.0,123.0
+124,124,-0.0,U,-2147483648,2014-04-21,UBS,12 month,5,buy,31.0,124.0
+125,125,-0.0,M,-2147483648,2014-04-14,Macquarie,12 month,1,underperform,20.5,125.0
+126,126,-0.0,M,-2147483648,2014-04-14,Barclays,Not Provided,3,equalweight,27.0,126.0
+127,127,-0.0,M,-2147483648,2014-02-03,Imperial Capital LLC,12 month,5,outperform,22.0,127.0
+128,128,-0.0,M,-2147483648,2014-05-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,128.0
+129,129,-0.0,M,-2147483648,2014-05-26,Goldman Sachs,12 month,3,neutral/attractive,33.0,129.0
+130,130,-0.0,M,-2147483648,2014-05-26,ISI Group,12 month,5,strong buy,40.0,130.0
+131,131,-0.0,U,-2147483648,2014-05-23,EVA Dimensions,Not Provided,3,hold,-0.0,131.0
+132,132,-0.0,U,-2147483648,2014-05-13,Macquarie,12 month,3,neutral,35.0,132.0
+133,133,-0.0,M,-2147483648,2014-05-09,Barclays,Not Provided,3,equalweight,33.0,133.0
+134,134,-0.0,M,-2147483648,2014-05-08,UBS,12 month,5,buy,41.0,134.0
+135,135,-0.0,M,-2147483648,2014-04-28,Tudor Pickering & Co,Not Provided,3,hold,25.0,135.0
+136,136,-0.0,M,-2147483648,2014-02-03,Imperial Capital LLC,12 month,5,outperform,22.0,136.0
+137,137,-0.0,M,-2147483648,2014-06-26,Goldman Sachs,12 month,3,neutral/attractive,33.0,137.0
+138,138,-0.0,M,-2147483648,2014-06-24,Macquarie,12 month,3,neutral,35.0,138.0
+139,139,-0.0,M,-2147483648,2014-06-17,ISI Group,12 month,5,strong buy,40.0,139.0
+140,140,-0.0,M,-2147483648,2014-06-12,Tudor Pickering & Co,Not Provided,3,hold,26.0,140.0
+141,141,-0.0,M,-2147483648,2014-06-02,"Morningstar, Inc",Not Provided,3,hold,-0.0,141.0
+142,142,-0.0,U,-2147483648,2014-05-23,EVA Dimensions,Not Provided,3,hold,-0.0,142.0
+143,143,-0.0,M,-2147483648,2014-05-09,Barclays,Not Provided,3,equalweight,33.0,143.0
+144,144,-0.0,M,-2147483648,2014-05-08,UBS,12 month,5,buy,41.0,144.0
+145,145,-0.0,M,-2147483648,2014-02-03,Imperial Capital LLC,12 month,5,outperform,22.0,145.0
+146,146,-0.0,U,-2147483648,2014-07-27,Goldman Sachs,12 month,5,buy/attractive,35.0,146.0
+147,147,-0.0,M,-2147483648,2014-07-23,ISI Group,12 month,3,neutral,30.0,147.0
+148,148,-0.0,M,-2147483648,2014-07-21,Macquarie,12 month,3,neutral,30.0,148.0
+149,149,-0.0,M,-2147483648,2014-07-17,UBS,12 month,5,buy,33.0,149.0
+150,150,-0.0,M,-2147483648,2014-06-12,Tudor Pickering & Co,Not Provided,3,hold,26.0,150.0
+151,151,-0.0,M,-2147483648,2014-06-02,"Morningstar, Inc",Not Provided,3,hold,-0.0,151.0
+152,152,-0.0,U,-2147483648,2014-05-23,EVA Dimensions,Not Provided,3,hold,-0.0,152.0
+153,153,-0.0,M,-2147483648,2014-05-09,Barclays,Not Provided,3,equalweight,33.0,153.0
+154,154,-0.0,M,-2147483648,2014-02-03,Imperial Capital LLC,12 month,5,outperform,22.0,154.0
+155,155,-0.0,M,-2147483648,2014-08-25,Macquarie,12 month,3,neutral,32.0,155.0
+156,156,-0.0,M,-2147483648,2014-08-25,ISI Group,Not Provided,3,neutral,34.0,156.0
+157,157,-0.0,M,-2147483648,2014-08-22,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,157.0
+158,158,-0.0,M,-2147483648,2014-08-22,Barclays,Not Provided,-2147483648,suspended coverage,-0.0,158.0
+159,159,-0.0,M,-2147483648,2014-07-17,UBS,12 month,5,buy,33.0,159.0
+160,160,-0.0,M,-2147483648,2014-06-12,Tudor Pickering & Co,Not Provided,3,hold,26.0,160.0
+161,161,-0.0,M,-2147483648,2014-06-02,"Morningstar, Inc",Not Provided,3,hold,-0.0,161.0
+162,162,-0.0,U,-2147483648,2014-05-23,EVA Dimensions,Not Provided,3,hold,-0.0,162.0
+163,163,-0.0,M,-2147483648,2014-02-03,Imperial Capital LLC,12 month,5,outperform,22.0,163.0
+164,164,-0.0,U,-2147483648,2014-10-01,Macquarie,12 month,5,outperform,40.0,164.0
+165,165,-0.0,U,-2147483648,2014-09-30,ISI Group,12 month,5,buy,34.0,165.0
+166,166,-0.0,M,-2147483648,2014-09-08,UBS,12 month,5,buy,36.0,166.0
+167,167,-0.0,M,-2147483648,2014-08-22,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,167.0
+168,168,-0.0,M,-2147483648,2014-08-22,Barclays,Not Provided,-2147483648,suspended coverage,-0.0,168.0
+169,169,-0.0,M,-2147483648,2014-06-12,Tudor Pickering & Co,Not Provided,3,hold,26.0,169.0
+170,170,-0.0,M,-2147483648,2014-06-02,"Morningstar, Inc",Not Provided,3,hold,-0.0,170.0
+171,171,-0.0,U,-2147483648,2014-05-23,EVA Dimensions,Not Provided,3,hold,-0.0,171.0
+172,172,-0.0,M,-2147483648,2014-02-03,Imperial Capital LLC,12 month,5,outperform,22.0,172.0
+173,173,-0.0,M,-2147483648,2014-10-24,Tudor Pickering & Co,Not Provided,3,hold,26.0,173.0
+174,174,-0.0,M,-2147483648,2014-10-21,Macquarie,12 month,5,outperform,40.0,174.0
+175,175,-0.0,M,-2147483648,2014-10-15,UBS,12 month,5,buy,43.0,175.0
+176,176,-0.0,M,-2147483648,2014-10-15,Evercore ISI,12 month,5,buy,36.0,176.0
+177,177,-0.0,M,-2147483648,2014-08-22,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,177.0
+178,178,-0.0,M,-2147483648,2014-08-22,Barclays,Not Provided,-2147483648,suspended coverage,-0.0,178.0
+179,179,-0.0,M,-2147483648,2014-06-02,"Morningstar, Inc",Not Provided,3,hold,-0.0,179.0
+180,180,-0.0,U,-2147483648,2014-05-23,EVA Dimensions,Not Provided,3,hold,-0.0,180.0
+181,181,-0.0,M,-2147483648,2014-02-03,Imperial Capital LLC,12 month,5,outperform,22.0,181.0
+182,182,-0.0,M,-2147483648,2014-11-26,"Morningstar, Inc",Not Provided,3,hold,-0.0,182.0
+183,183,-0.0,M,-2147483648,2014-11-24,Evercore ISI,Not Provided,5,buy,41.0,183.0
+184,184,-0.0,M,-2147483648,2014-11-20,Wolfe Research,12 month,5,outperform,37.0,184.0
+185,185,-0.0,M,-2147483648,2014-11-07,UBS,12 month,5,buy,46.0,185.0
+186,186,-0.0,M,-2147483648,2014-11-07,Macquarie,12 month,5,outperform,40.0,186.0
+187,187,-0.0,U,-2147483648,2014-11-07,Tudor Pickering & Co,Not Provided,4,accumulate,40.0,187.0
+188,188,-0.0,M,-2147483648,2014-08-22,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,188.0
+189,189,-0.0,M,-2147483648,2014-08-22,Barclays,Not Provided,-2147483648,suspended coverage,-0.0,189.0
+190,190,-0.0,U,-2147483648,2014-05-23,EVA Dimensions,Not Provided,3,hold,-0.0,190.0
+191,191,-0.0,M,-2147483648,2014-02-03,Imperial Capital LLC,12 month,5,outperform,22.0,191.0
+192,192,-0.0,M,-2147483648,2014-12-15,Wolfe Research,12 month,5,outperform,37.0,192.0
+193,193,-0.0,U,-2147483648,2014-12-11,EVA Dimensions,Not Provided,5,overweight,-0.0,193.0
+194,194,-0.0,M,-2147483648,2014-12-10,Evercore ISI,12 month,5,buy,41.0,194.0
+195,195,-0.0,M,-2147483648,2014-12-08,Macquarie,12 month,5,outperform,40.0,195.0
+196,196,-0.0,M,-2147483648,2014-11-26,"Morningstar, Inc",Not Provided,3,hold,-0.0,196.0
+197,197,-0.0,M,-2147483648,2014-11-07,UBS,12 month,5,buy,46.0,197.0
+198,198,-0.0,U,-2147483648,2014-11-07,Tudor Pickering & Co,Not Provided,4,accumulate,40.0,198.0
+199,199,-0.0,M,-2147483648,2014-08-22,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,199.0
+200,200,-0.0,M,-2147483648,2014-08-22,Barclays,Not Provided,-2147483648,suspended coverage,-0.0,200.0
+201,201,-0.0,M,-2147483648,2015-02-01,Wolfe Research,12 month,5,outperform,36.0,201.0
+202,202,-0.0,M,-2147483648,2015-01-30,Barclays,Not Provided,5,overweight,44.0,202.0
+203,203,-0.0,M,-2147483648,2015-01-22,UBS,12 month,5,buy,34.0,203.0
+204,204,-0.0,M,-2147483648,2015-01-22,Macquarie,12 month,5,outperform,40.0,204.0
+205,205,-0.0,M,-2147483648,2015-01-20,Evercore ISI,12 month,5,buy,35.0,205.0
+206,206,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,206.0
+207,207,-0.0,U,-2147483648,2014-12-11,EVA Dimensions,Not Provided,5,overweight,-0.0,207.0
+208,208,-0.0,M,-2147483648,2014-11-26,"Morningstar, Inc",Not Provided,3,hold,-0.0,208.0
+209,209,-0.0,M,-2147483648,2014-08-22,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,209.0
+210,210,-0.0,M,-2147483648,2015-03-01,Evercore ISI,12 month,5,buy,35.0,210.0
+211,211,-0.0,M,-2147483648,2015-03-01,Wolfe Research,12 month,5,outperform,36.0,211.0
+212,212,-0.0,M,-2147483648,2015-02-26,UBS,12 month,5,buy,38.0,212.0
+213,213,-0.0,M,-2147483648,2015-02-26,Macquarie,12 month,5,outperform,40.0,213.0
+214,214,-0.0,M,-2147483648,2015-02-25,Barclays,Not Provided,5,overweight,39.0,214.0
+215,215,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,215.0
+216,216,-0.0,U,-2147483648,2014-12-11,EVA Dimensions,Not Provided,5,overweight,-0.0,216.0
+217,217,-0.0,M,-2147483648,2014-11-26,"Morningstar, Inc",Not Provided,3,hold,-0.0,217.0
+218,218,-0.0,M,-2147483648,2014-08-22,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,218.0
+219,219,-0.0,M,-2147483648,2015-04-01,Evercore ISI,12 month,5,buy,35.5,219.0
+220,220,-0.0,M,-2147483648,2015-04-01,"Morningstar, Inc",Not Provided,3,hold,-0.0,220.0
+221,221,-0.0,M,-2147483648,2015-04-01,Wolfe Research,12 month,5,outperform,36.0,221.0
+222,222,-0.0,M,-2147483648,2015-03-30,Barclays,Not Provided,5,overweight,39.0,222.0
+223,223,-0.0,M,-2147483648,2015-03-27,UBS,12 month,5,buy,38.0,223.0
+224,224,-0.0,D,-2147483648,2015-03-03,EVA Dimensions,Not Provided,3,hold,-0.0,224.0
+225,225,-0.0,M,-2147483648,2015-02-26,Macquarie,12 month,5,outperform,40.0,225.0
+226,226,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,226.0
+227,227,-0.0,M,-2147483648,2014-08-22,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,227.0
+228,228,-0.0,M,-2147483648,2015-04-26,Wolfe Research,12 month,5,outperform,37.0,228.0
+229,229,-0.0,M,-2147483648,2015-04-23,"Morningstar, Inc",Not Provided,3,hold,-0.0,229.0
+230,230,-0.0,M,-2147483648,2015-04-21,Barclays,Not Provided,5,overweight,40.0,230.0
+231,231,-0.0,N,-2147483648,2015-04-20,Morgan Stanley,12 month,5,Overwt/In-Line,41.0,231.0
+232,232,-0.0,M,-2147483648,2015-04-20,UBS,12 month,5,buy,39.0,232.0
+233,233,-0.0,M,-2147483648,2015-04-16,Macquarie,12 month,5,outperform,40.0,233.0
+234,234,-0.0,M,-2147483648,2015-04-15,Evercore ISI,12 month,5,buy,35.5,234.0
+235,235,-0.0,M,-2147483648,2015-04-07,Goldman Sachs,12 month,5,buy/attractive,38.0,235.0
+236,236,-0.0,D,-2147483648,2015-03-03,EVA Dimensions,Not Provided,3,hold,-0.0,236.0
+237,237,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,237.0
+238,238,-0.0,M,-2147483648,2015-06-01,RBC Capital Markets,12 month,5,outperform,42.0,238.0
+239,239,-0.0,M,-2147483648,2015-06-01,Evercore ISI,12 month,5,buy,35.5,239.0
+240,240,-0.0,M,-2147483648,2015-06-01,Barclays,Not Provided,5,overweight,40.0,240.0
+241,241,-0.0,M,-2147483648,2015-06-01,Wolfe Research,12 month,5,outperform,39.0,241.0
+242,242,-0.0,D,-2147483648,2015-05-22,EVA Dimensions,Not Provided,1,underweight,-0.0,242.0
+243,243,-0.0,M,-2147483648,2015-05-08,Morgan Stanley,12 month,5,Overwt/In-Line,44.0,243.0
+244,244,-0.0,M,-2147483648,2015-05-08,Macquarie,12 month,5,outperform,40.0,244.0
+245,245,-0.0,M,-2147483648,2015-05-07,"Morningstar, Inc",Not Provided,3,hold,-0.0,245.0
+246,246,-0.0,M,-2147483648,2015-04-20,UBS,12 month,5,buy,39.0,246.0
+247,247,-0.0,M,-2147483648,2015-04-07,Goldman Sachs,12 month,5,buy/attractive,38.0,247.0
+248,248,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,248.0
+249,249,-0.0,M,-2147483648,2015-06-30,RBC Capital Markets,12 month,5,outperform,42.0,249.0
+250,250,-0.0,M,-2147483648,2015-06-29,UBS,12 month,5,buy,40.0,250.0
+251,251,-0.0,M,-2147483648,2015-06-29,"Morningstar, Inc",Not Provided,3,hold,-0.0,251.0
+252,252,-0.0,M,-2147483648,2015-06-26,Morgan Stanley,12 month,5,Overwt/In-Line,46.0,252.0
+253,253,-0.0,M,-2147483648,2015-06-26,Macquarie,12 month,5,outperform,40.0,253.0
+254,254,-0.0,M,-2147483648,2015-06-26,Evercore ISI,12 month,5,buy,35.5,254.0
+255,255,-0.0,M,-2147483648,2015-06-26,Barclays,Not Provided,5,overweight,40.0,255.0
+256,256,-0.0,M,-2147483648,2015-06-26,Wolfe Research,12 month,5,outperform,39.0,256.0
+257,257,-0.0,D,-2147483648,2015-05-22,EVA Dimensions,Not Provided,1,underweight,-0.0,257.0
+258,258,-0.0,M,-2147483648,2015-04-07,Goldman Sachs,12 month,5,buy/attractive,38.0,258.0
+259,259,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,259.0
+260,260,-0.0,M,-2147483648,2015-07-29,"Morningstar, Inc",Not Provided,3,hold,-0.0,260.0
+261,261,-0.0,M,-2147483648,2015-07-28,Goldman Sachs,12 month,5,buy/attractive,31.0,261.0
+262,262,-0.0,M,-2147483648,2015-07-23,Evercore ISI,12 month,5,buy,35.5,262.0
+263,263,-0.0,M,-2147483648,2015-07-22,Barclays,Not Provided,5,overweight,40.0,263.0
+264,264,-0.0,M,-2147483648,2015-07-20,Wolfe Research,12 month,5,outperform,35.0,264.0
+265,265,-0.0,M,-2147483648,2015-07-17,Macquarie,12 month,5,outperform,40.0,265.0
+266,266,-0.0,M,-2147483648,2015-07-16,UBS,12 month,5,buy,37.0,266.0
+267,267,-0.0,M,-2147483648,2015-07-10,Morgan Stanley,12 month,5,Overwt/In-Line,40.0,267.0
+268,268,-0.0,M,-2147483648,2015-07-10,RBC Capital Markets,12 month,5,outperform,42.0,268.0
+269,269,-0.0,D,-2147483648,2015-05-22,EVA Dimensions,Not Provided,1,underweight,-0.0,269.0
+270,270,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,270.0
+271,271,-0.0,M,-2147483648,2015-09-01,RBC Capital Markets,12 month,5,outperform,38.0,271.0
+272,272,-0.0,M,-2147483648,2015-09-01,Wolfe Research,12 month,5,outperform,37.0,272.0
+273,273,-0.0,M,-2147483648,2015-08-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,273.0
+274,274,-0.0,M,-2147483648,2015-08-24,Evercore ISI,12 month,5,buy,35.5,274.0
+275,275,-0.0,M,-2147483648,2015-08-17,Morgan Stanley,12 month,5,Overwt/In-Line,41.0,275.0
+276,276,-0.0,M,-2147483648,2015-08-12,Macquarie,12 month,5,outperform,40.0,276.0
+277,277,-0.0,M,-2147483648,2015-08-10,Barclays,Not Provided,5,overweight,34.0,277.0
+278,278,-0.0,M,-2147483648,2015-08-07,UBS,12 month,5,buy,30.0,278.0
+279,279,-0.0,M,-2147483648,2015-08-06,EVA Dimensions,Not Provided,1,sell,-0.0,279.0
+280,280,-0.0,M,-2147483648,2015-07-28,Goldman Sachs,12 month,5,buy/attractive,31.0,280.0
+281,281,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,281.0
+282,282,-0.0,M,-2147483648,2015-09-30,Wolfe Research,Not Provided,5,outperform,34.0,282.0
+283,283,-0.0,M,-2147483648,2015-09-29,EVA Dimensions,Not Provided,1,underweight,-0.0,283.0
+284,284,-0.0,M,-2147483648,2015-09-24,RBC Capital Markets,12 month,5,outperform,33.0,284.0
+285,285,-0.0,M,-2147483648,2015-09-21,"Morningstar, Inc",Not Provided,5,buy,-0.0,285.0
+286,286,-0.0,M,-2147483648,2015-09-18,UBS,12 month,5,buy,32.0,286.0
+287,287,-0.0,M,-2147483648,2015-09-18,Evercore ISI,Not Provided,5,buy,37.5,287.0
+288,288,-0.0,M,-2147483648,2015-09-14,Macquarie,12 month,5,outperform,38.0,288.0
+289,289,-0.0,M,-2147483648,2015-09-11,Morgan Stanley,12 month,5,Overwt/In-Line,42.0,289.0
+290,290,-0.0,M,-2147483648,2015-08-10,Barclays,Not Provided,5,overweight,34.0,290.0
+291,291,-0.0,M,-2147483648,2015-07-28,Goldman Sachs,12 month,5,buy/attractive,31.0,291.0
+292,292,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,292.0
+293,293,-0.0,M,-2147483648,2015-11-01,Wolfe Research,12 month,5,outperform,31.0,293.0
+294,294,-0.0,M,-2147483648,2015-10-26,SunTrust Robinson Humphrey,Not Provided,3,neutral,23.0,294.0
+295,295,-0.0,M,-2147483648,2015-10-19,RBC Capital Markets,12 month,5,outperform,33.0,295.0
+296,296,-0.0,M,-2147483648,2015-10-18,Goldman Sachs,12 month,5,buy/attractive,32.0,296.0
+297,297,-0.0,M,-2147483648,2015-10-16,UBS,12 month,5,buy,31.0,297.0
+298,298,-0.0,M,-2147483648,2015-10-16,Macquarie,12 month,5,outperform,38.0,298.0
+299,299,-0.0,M,-2147483648,2015-10-15,Morgan Stanley,12 month,5,Overwt/In-Line,42.0,299.0
+300,300,-0.0,M,-2147483648,2015-10-08,Evercore ISI,12 month,5,buy,38.5,300.0
+301,301,-0.0,M,-2147483648,2015-09-29,EVA Dimensions,Not Provided,1,underweight,-0.0,301.0
+302,302,-0.0,M,-2147483648,2015-09-21,"Morningstar, Inc",Not Provided,5,buy,-0.0,302.0
+303,303,-0.0,M,-2147483648,2015-08-10,Barclays,Not Provided,5,overweight,34.0,303.0
+304,304,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,304.0
+305,305,-0.0,M,-2147483648,2015-12-01,SunTrust Robinson Humphrey,Not Provided,3,neutral,18.0,305.0
+306,306,-0.0,M,-2147483648,2015-11-24,Evercore ISI,Not Provided,5,buy,38.5,306.0
+307,307,-0.0,M,-2147483648,2015-11-23,Macquarie,12 month,5,outperform,38.0,307.0
+308,308,-0.0,M,-2147483648,2015-11-12,Goldman Sachs,12 month,5,buy/attractive,29.0,308.0
+309,309,-0.0,M,-2147483648,2015-11-10,Morgan Stanley,12 month,5,Overwt/In-Line,40.0,309.0
+310,310,-0.0,M,-2147483648,2015-11-09,RBC Capital Markets,12 month,5,outperform,29.0,310.0
+311,311,-0.0,M,-2147483648,2015-11-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,311.0
+312,312,-0.0,M,-2147483648,2015-11-05,UBS,12 month,5,buy,28.0,312.0
+313,313,-0.0,M,-2147483648,2015-11-05,Barclays,Not Provided,5,overweight,25.0,313.0
+314,314,-0.0,M,-2147483648,2015-11-05,Wolfe Research,12 month,5,outperform,31.0,314.0
+315,315,-0.0,M,-2147483648,2015-09-29,EVA Dimensions,Not Provided,1,underweight,-0.0,315.0
+316,316,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,316.0
+317,317,-0.0,M,-2147483648,2015-12-28,SunTrust Robinson Humphrey,Not Provided,3,neutral,13.0,317.0
+318,318,-0.0,M,-2147483648,2015-12-18,Goldman Sachs,12 month,5,buy/attractive,25.0,318.0
+319,319,-0.0,M,-2147483648,2015-12-14,Morgan Stanley,12 month,5,Overwt/In-Line,37.0,319.0
+320,320,-0.0,M,-2147483648,2015-12-07,Evercore ISI,Not Provided,5,buy,20.0,320.0
+321,321,-0.0,M,-2147483648,2015-12-06,Wolfe Research,Not Provided,5,outperform,31.0,321.0
+322,322,-0.0,M,-2147483648,2015-12-04,"Morningstar, Inc",Not Provided,5,buy,-0.0,322.0
+323,323,-0.0,M,-2147483648,2015-11-23,Macquarie,12 month,5,outperform,38.0,323.0
+324,324,-0.0,M,-2147483648,2015-11-09,RBC Capital Markets,12 month,5,outperform,29.0,324.0
+325,325,-0.0,M,-2147483648,2015-11-05,UBS,12 month,5,buy,28.0,325.0
+326,326,-0.0,M,-2147483648,2015-11-05,Barclays,Not Provided,5,overweight,25.0,326.0
+327,327,-0.0,M,-2147483648,2015-09-29,EVA Dimensions,Not Provided,1,underweight,-0.0,327.0
+328,328,-0.0,U,-2147483648,2015-01-12,Tudor Pickering & Co,Not Provided,5,buy,38.0,328.0
+329,329,-0.0,M,-2147483648,2016-02-01,SunTrust Robinson Humphrey,Not Provided,3,neutral,12.0,329.0
+330,330,-0.0,M,-2147483648,2016-01-29,Guggenheim Securities,Not Provided,3,neutral,-0.0,330.0
+331,331,-0.0,M,-2147483648,2016-01-26,Goldman Sachs,12 month,5,buy/attractive,22.0,331.0
+332,332,-0.0,M,-2147483648,2016-01-25,RBC Capital Markets,12 month,5,outperform,24.0,332.0
+333,333,-0.0,M,-2147483648,2016-01-25,"Morningstar, Inc",Not Provided,5,buy,-0.0,333.0
+334,334,-0.0,M,-2147483648,2016-01-25,Wolfe Research,12 month,5,outperform,24.0,334.0
+335,335,-0.0,M,-2147483648,2016-01-22,Barclays,Not Provided,5,overweight,15.0,335.0
+336,336,-0.0,M,-2147483648,2016-01-21,UBS,12 month,5,buy,26.0,336.0
+337,337,-0.0,M,-2147483648,2016-01-12,Morgan Stanley,12 month,5,Overwt/In-Line,38.0,337.0
+338,338,-0.0,M,-2147483648,2016-01-12,Macquarie,12 month,5,outperform,33.0,338.0
+339,339,-0.0,M,-2147483648,2016-01-12,Tudor Pickering & Co,Not Provided,5,buy,27.0,339.0
+340,340,-0.0,U,-2147483648,2016-01-05,EVA Dimensions,Not Provided,3,hold,-0.0,340.0
+341,341,-0.0,M,-2147483648,2015-12-07,Evercore ISI,Not Provided,5,buy,20.0,341.0
+342,342,-0.0,M,-2147483648,2016-03-01,SunTrust Robinson Humphrey,Not Provided,3,neutral,10.0,342.0
+343,343,-0.0,M,-2147483648,2016-03-01,Wolfe Research,12 month,5,outperform,20.0,343.0
+344,344,-0.0,M,-2147483648,2016-02-29,Morgan Stanley,12 month,5,Overwt/In-Line,37.0,344.0
+345,345,-0.0,U,-2147483648,2016-02-29,Guggenheim Securities,12 month,5,buy,22.0,345.0
+346,346,-0.0,M,-2147483648,2016-02-26,UBS,12 month,5,buy,21.0,346.0
+347,347,-0.0,M,-2147483648,2016-02-26,Macquarie,12 month,5,outperform,33.0,347.0
+348,348,-0.0,M,-2147483648,2016-02-26,Evercore ISI,12 month,5,buy,20.0,348.0
+349,349,-0.0,M,-2147483648,2016-02-26,"Morningstar, Inc",Not Provided,5,buy,-0.0,349.0
+350,350,-0.0,M,-2147483648,2016-02-26,Barclays,Not Provided,5,overweight,16.0,350.0
+351,351,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,351.0
+352,352,-0.0,M,-2147483648,2016-02-24,RBC Capital Markets,12 month,5,outperform,24.0,352.0
+353,353,-0.0,M,-2147483648,2016-01-12,Tudor Pickering & Co,Not Provided,5,buy,27.0,353.0
+354,354,-0.0,U,-2147483648,2016-01-05,EVA Dimensions,Not Provided,3,hold,-0.0,354.0
+355,355,-0.0,M,-2147483648,2016-04-01,SunTrust Robinson Humphrey,Not Provided,3,neutral,14.0,355.0
+356,356,-0.0,M,-2147483648,2016-03-31,"Morningstar, Inc",Not Provided,5,buy,-0.0,356.0
+357,357,-0.0,M,-2147483648,2016-03-29,Macquarie,12 month,5,outperform,33.0,357.0
+358,358,-0.0,M,-2147483648,2016-03-28,Guggenheim Securities,Not Provided,5,buy,22.0,358.0
+359,359,-0.0,M,-2147483648,2016-03-18,Barclays,Not Provided,5,overweight,18.0,359.0
+360,360,-0.0,D,-2147483648,2016-03-17,EVA Dimensions,Not Provided,1,underweight,-0.0,360.0
+361,361,-0.0,M,-2147483648,2016-03-08,RBC Capital Markets,12 month,5,outperform,22.0,361.0
+362,362,-0.0,M,-2147483648,2016-03-06,Wolfe Research,12 month,5,outperform,20.0,362.0
+363,363,-0.0,M,-2147483648,2016-02-29,Morgan Stanley,12 month,5,Overwt/In-Line,37.0,363.0
+364,364,-0.0,M,-2147483648,2016-02-26,UBS,12 month,5,buy,21.0,364.0
+365,365,-0.0,M,-2147483648,2016-02-26,Evercore ISI,12 month,5,buy,20.0,365.0
+366,366,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,366.0
+367,367,-0.0,M,-2147483648,2016-01-12,Tudor Pickering & Co,Not Provided,5,buy,27.0,367.0
+368,368,-0.0,M,-2147483648,2016-05-01,Wolfe Research,12 month,5,outperform,20.0,368.0
+369,369,-0.0,M,-2147483648,2016-04-25,SunTrust Robinson Humphrey,Not Provided,3,neutral,18.0,369.0
+370,370,-0.0,M,-2147483648,2016-04-25,Guggenheim Securities,12 month,5,buy,21.0,370.0
+371,371,-0.0,M,-2147483648,2016-04-22,Barclays,Not Provided,5,overweight,18.0,371.0
+372,372,-0.0,M,-2147483648,2016-04-19,Macquarie,12 month,5,outperform,33.0,372.0
+373,373,-0.0,M,-2147483648,2016-04-15,RBC Capital Markets,12 month,5,outperform,22.0,373.0
+374,374,-0.0,M,-2147483648,2016-04-15,Ladenburg Thalmann & Co,12 month,5,buy,20.0,374.0
+375,375,-0.0,M,-2147483648,2016-04-14,Tudor Pickering & Co,Not Provided,5,buy,22.0,375.0
+376,376,-0.0,M,-2147483648,2016-04-12,Morgan Stanley,12 month,5,Overwt/In-Line,36.0,376.0
+377,377,-0.0,M,-2147483648,2016-04-06,"Morningstar, Inc",Not Provided,3,hold,-0.0,377.0
+378,378,-0.0,M,-2147483648,2016-04-03,Evercore ISI,Not Provided,5,buy,20.0,378.0
+379,379,-0.0,D,-2147483648,2016-03-17,EVA Dimensions,Not Provided,1,underweight,-0.0,379.0
+380,380,-0.0,M,-2147483648,2016-02-26,UBS,12 month,5,buy,21.0,380.0
+381,381,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,381.0
+382,382,-0.0,M,-2147483648,2016-06-01,SunTrust Robinson Humphrey,Not Provided,3,neutral,19.0,382.0
+383,383,-0.0,M,-2147483648,2016-05-31,Evercore ISI,12 month,5,buy,25.0,383.0
+384,384,-0.0,M,-2147483648,2016-05-25,RBC Capital Markets,12 month,5,outperform,22.0,384.0
+385,385,-0.0,M,-2147483648,2016-05-25,"Morningstar, Inc",Not Provided,3,hold,-0.0,385.0
+386,386,-0.0,M,-2147483648,2016-05-20,Barclays,Not Provided,5,overweight,24.0,386.0
+387,387,-0.0,M,-2147483648,2016-05-18,Guggenheim Securities,Not Provided,5,buy,21.0,387.0
+388,388,-0.0,U,-2147483648,2016-05-17,EVA Dimensions,Not Provided,5,overweight,-0.0,388.0
+389,389,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,389.0
+390,390,-0.0,M,-2147483648,2016-05-05,Morgan Stanley,12 month,5,Overwt/In-Line,36.0,390.0
+391,391,-0.0,M,-2147483648,2016-05-05,Ladenburg Thalmann & Co,12 month,5,buy,22.0,391.0
+392,392,-0.0,M,-2147483648,2016-05-05,Macquarie,12 month,5,outperform,33.0,392.0
+393,393,-0.0,M,-2147483648,2016-05-04,Wolfe Research,12 month,5,outperform,21.0,393.0
+394,394,-0.0,M,-2147483648,2016-04-14,Tudor Pickering & Co,Not Provided,5,buy,22.0,394.0
+395,395,-0.0,M,-2147483648,2016-02-26,UBS,12 month,5,buy,21.0,395.0
+396,396,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,396.0
+397,397,-0.0,M,-2147483648,2016-07-01,SunTrust Robinson Humphrey,Not Provided,5,buy,20.0,397.0
+398,398,-0.0,M,-2147483648,2016-07-01,Guggenheim Securities,12 month,5,buy,21.0,398.0
+399,399,-0.0,M,-2147483648,2016-06-30,Evercore ISI,Not Provided,5,buy,25.0,399.0
+400,400,-0.0,M,-2147483648,2016-06-26,Wolfe Research,Not Provided,5,outperform,20.0,400.0
+401,401,-0.0,M,-2147483648,2016-06-17,RBC Capital Markets,12 month,5,outperform,22.0,401.0
+402,402,-0.0,M,-2147483648,2016-06-17,Ladenburg Thalmann & Co,12 month,5,buy,22.0,402.0
+403,403,-0.0,M,-2147483648,2016-06-16,Morgan Stanley,12 month,5,Overwt/In-Line,33.0,403.0
+404,404,-0.0,M,-2147483648,2016-06-16,Macquarie,12 month,5,outperform,33.0,404.0
+405,405,-0.0,M,-2147483648,2016-06-16,Barclays,Not Provided,5,overweight,24.0,405.0
+406,406,-0.0,D,-2147483648,2016-06-09,UBS,12 month,3,neutral,22.0,406.0
+407,407,-0.0,M,-2147483648,2016-06-09,"Morningstar, Inc",Not Provided,3,hold,-0.0,407.0
+408,408,-0.0,M,-2147483648,2016-06-08,Tudor Pickering & Co,Not Provided,5,buy,29.0,408.0
+409,409,-0.0,U,-2147483648,2016-05-17,EVA Dimensions,Not Provided,5,overweight,-0.0,409.0
+410,410,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,410.0
+411,411,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,411.0
+412,412,-0.0,M,-2147483648,2016-08-01,RBC Capital Markets,12 month,5,outperform,22.0,412.0
+413,413,-0.0,M,-2147483648,2016-08-01,SunTrust Robinson Humphrey,Not Provided,5,buy,21.0,413.0
+414,414,-0.0,M,-2147483648,2016-08-01,Guggenheim Securities,Not Provided,5,buy,21.0,414.0
+415,415,-0.0,M,-2147483648,2016-08-01,Wolfe Research,12 month,5,outperform,20.0,415.0
+416,416,-0.0,M,-2147483648,2016-07-27,Macquarie,12 month,5,outperform,33.0,416.0
+417,417,-0.0,M,-2147483648,2016-07-20,Barclays,Not Provided,5,overweight,24.0,417.0
+418,418,-0.0,M,-2147483648,2016-07-13,Morgan Stanley,12 month,5,Overwt/In-Line,34.0,418.0
+419,419,-0.0,M,-2147483648,2016-06-30,Evercore ISI,Not Provided,5,buy,25.0,419.0
+420,420,-0.0,M,-2147483648,2016-06-17,Ladenburg Thalmann & Co,12 month,5,buy,22.0,420.0
+421,421,-0.0,D,-2147483648,2016-06-09,UBS,12 month,3,neutral,22.0,421.0
+422,422,-0.0,M,-2147483648,2016-06-09,"Morningstar, Inc",Not Provided,3,hold,-0.0,422.0
+423,423,-0.0,M,-2147483648,2016-06-08,Tudor Pickering & Co,Not Provided,5,buy,29.0,423.0
+424,424,-0.0,U,-2147483648,2016-05-17,EVA Dimensions,Not Provided,5,overweight,-0.0,424.0
+425,425,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,425.0
+426,426,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,426.0
+427,427,-0.0,M,-2147483648,2016-09-01,SunTrust Robinson Humphrey,Not Provided,5,buy,19.0,427.0
+428,428,-0.0,M,-2147483648,2016-09-01,Evercore ISI,Not Provided,5,buy,25.0,428.0
+429,429,-0.0,M,-2147483648,2016-08-26,Guggenheim Securities,12 month,5,buy,21.0,429.0
+430,430,-0.0,M,-2147483648,2016-08-24,"Morningstar, Inc",Not Provided,5,buy,-0.0,430.0
+431,431,-0.0,M,-2147483648,2016-08-15,RBC Capital Markets,12 month,5,outperform,22.0,431.0
+432,432,-0.0,M,-2147483648,2016-08-09,Ladenburg Thalmann & Co,12 month,5,buy,22.0,432.0
+433,433,-0.0,M,-2147483648,2016-08-09,Tudor Pickering & Co,Not Provided,5,buy,23.0,433.0
+434,434,-0.0,M,-2147483648,2016-08-09,Barclays,Not Provided,5,overweight,20.0,434.0
+435,435,-0.0,M,-2147483648,2016-08-08,Morgan Stanley,12 month,5,Overwt/In-Line,34.0,435.0
+436,436,-0.0,M,-2147483648,2016-08-08,Macquarie,12 month,5,outperform,30.0,436.0
+437,437,-0.0,M,-2147483648,2016-08-04,Wolfe Research,12 month,5,outperform,18.0,437.0
+438,438,-0.0,D,-2147483648,2016-06-09,UBS,12 month,3,neutral,22.0,438.0
+439,439,-0.0,U,-2147483648,2016-05-17,EVA Dimensions,Not Provided,5,overweight,-0.0,439.0
+440,440,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,440.0
+441,441,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,441.0
+442,442,-0.0,M,-2147483648,2016-09-27,Guggenheim Securities,Not Provided,5,buy,21.0,442.0
+443,443,-0.0,M,-2147483648,2016-09-26,SunTrust Robinson Humphrey,Not Provided,5,buy,18.0,443.0
+444,444,-0.0,M,-2147483648,2016-09-23,Barclays,Not Provided,5,overweight,20.0,444.0
+445,445,-0.0,M,-2147483648,2016-09-15,UBS,12 month,3,neutral,13.5,445.0
+446,446,-0.0,M,-2147483648,2016-09-13,"Morningstar, Inc",Not Provided,5,buy,-0.0,446.0
+447,447,-0.0,M,-2147483648,2016-09-12,Morgan Stanley,12 month,5,Overwt/In-Line,31.0,447.0
+448,448,-0.0,D,-2147483648,2016-09-12,Wolfe Research,Not Provided,3,peerperform,15.0,448.0
+449,449,-0.0,M,-2147483648,2016-09-01,Evercore ISI,Not Provided,5,buy,25.0,449.0
+450,450,-0.0,M,-2147483648,2016-08-15,RBC Capital Markets,12 month,5,outperform,22.0,450.0
+451,451,-0.0,M,-2147483648,2016-08-09,Ladenburg Thalmann & Co,12 month,5,buy,22.0,451.0
+452,452,-0.0,M,-2147483648,2016-08-09,Tudor Pickering & Co,Not Provided,5,buy,23.0,452.0
+453,453,-0.0,M,-2147483648,2016-08-08,Macquarie,12 month,5,outperform,30.0,453.0
+454,454,-0.0,U,-2147483648,2016-05-17,EVA Dimensions,Not Provided,5,overweight,-0.0,454.0
+455,455,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,455.0
+456,456,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,456.0
+457,457,-0.0,M,-2147483648,2016-11-01,RBC Capital Markets,12 month,3,sector perform,15.0,457.0
+458,458,-0.0,M,-2147483648,2016-11-01,SunTrust Robinson Humphrey,Not Provided,5,buy,17.0,458.0
+459,459,-0.0,M,-2147483648,2016-11-01,Guggenheim Securities,Not Provided,5,buy,21.0,459.0
+460,460,-0.0,M,-2147483648,2016-11-01,Barclays,Not Provided,5,overweight,18.0,460.0
+461,461,-0.0,M,-2147483648,2016-11-01,Wolfe Research,12 month,3,peerperform,12.0,461.0
+462,462,-0.0,M,-2147483648,2016-10-21,Macquarie,12 month,5,outperform,30.0,462.0
+463,463,-0.0,M,-2147483648,2016-10-19,UBS,12 month,3,neutral,12.5,463.0
+464,464,-0.0,M,-2147483648,2016-10-10,Morgan Stanley,12 month,5,Overwt/In-Line,29.0,464.0
+465,465,-0.0,M,-2147483648,2016-10-05,Ladenburg Thalmann & Co,12 month,5,buy,22.0,465.0
+466,466,-0.0,M,-2147483648,2016-10-03,Evercore ISI,Not Provided,5,buy,25.0,466.0
+467,467,-0.0,M,-2147483648,2016-10-03,"Morningstar, Inc",Not Provided,5,buy,-0.0,467.0
+468,468,-0.0,M,-2147483648,2016-08-09,Tudor Pickering & Co,Not Provided,5,buy,23.0,468.0
+469,469,-0.0,U,-2147483648,2016-05-17,EVA Dimensions,Not Provided,5,overweight,-0.0,469.0
+470,470,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,470.0
+471,471,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,471.0
+472,472,-0.0,M,-2147483648,2016-12-01,SunTrust Robinson Humphrey,18 month,5,buy,15.0,472.0
+473,473,-0.0,M,-2147483648,2016-11-17,Guggenheim Securities,Not Provided,5,buy,21.0,473.0
+474,474,-0.0,M,-2147483648,2016-11-14,RBC Capital Markets,12 month,3,sector perform,11.0,474.0
+475,475,-0.0,M,-2147483648,2016-11-10,Evercore ISI,12 month,5,buy,15.0,475.0
+476,476,-0.0,M,-2147483648,2016-11-05,Barclays,Not Provided,5,overweight,15.0,476.0
+477,477,-0.0,M,-2147483648,2016-11-04,UBS,12 month,3,neutral,8.0,477.0
+478,478,-0.0,M,-2147483648,2016-11-04,Ladenburg Thalmann & Co,12 month,5,buy,15.0,478.0
+479,479,-0.0,M,-2147483648,2016-11-03,Morgan Stanley,12 month,5,Overwt/In-Line,19.0,479.0
+480,480,-0.0,M,-2147483648,2016-11-03,Macquarie,12 month,5,outperform,24.0,480.0
+481,481,-0.0,M,-2147483648,2016-11-03,Tudor Pickering & Co,Not Provided,5,buy,14.0,481.0
+482,482,-0.0,M,-2147483648,2016-11-02,"Morningstar, Inc",Not Provided,5,buy,-0.0,482.0
+483,483,-0.0,M,-2147483648,2016-11-02,Wolfe Research,12 month,3,peerperform,8.0,483.0
+484,484,-0.0,U,-2147483648,2016-05-17,EVA Dimensions,Not Provided,5,overweight,-0.0,484.0
+485,485,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,485.0
+486,486,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,486.0
+487,487,-0.0,M,-2147483648,2016-12-28,Evercore ISI,12 month,5,buy,15.0,487.0
+488,488,-0.0,M,-2147483648,2016-12-27,SunTrust Robinson Humphrey,12 month,5,buy,14.0,488.0
+489,489,-0.0,D,-2147483648,2016-12-17,EVA Dimensions,Not Provided,1,underweight,-0.0,489.0
+490,490,-0.0,M,-2147483648,2016-12-15,Morgan Stanley,12 month,5,Overwt/Attractive,19.0,490.0
+491,491,-0.0,M,-2147483648,2016-12-09,Guggenheim Securities,12 month,5,buy,21.0,491.0
+492,492,-0.0,M,-2147483648,2016-12-07,Macquarie,12 month,5,outperform,24.0,492.0
+493,493,-0.0,D,-2147483648,2016-12-05,"Morningstar, Inc",Not Provided,3,hold,-0.0,493.0
+494,494,-0.0,M,-2147483648,2016-12-02,Barclays,Not Provided,5,overweight,13.0,494.0
+495,495,-0.0,M,-2147483648,2016-11-14,RBC Capital Markets,12 month,3,sector perform,11.0,495.0
+496,496,-0.0,M,-2147483648,2016-11-04,UBS,12 month,3,neutral,8.0,496.0
+497,497,-0.0,M,-2147483648,2016-11-04,Ladenburg Thalmann & Co,12 month,5,buy,15.0,497.0
+498,498,-0.0,M,-2147483648,2016-11-03,Tudor Pickering & Co,Not Provided,5,buy,14.0,498.0
+499,499,-0.0,M,-2147483648,2016-11-02,Wolfe Research,12 month,3,peerperform,8.0,499.0
+500,500,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,500.0
+501,501,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,501.0
+502,502,-0.0,M,-2147483648,2017-01-31,RBC Capital Markets,12 month,3,sector perform,9.0,502.0
+503,503,-0.0,M,-2147483648,2017-01-31,Wolfe Research,12 month,3,peerperform,10.0,503.0
+504,504,-0.0,M,-2147483648,2017-01-30,Morgan Stanley,12 month,5,Overwt/Attractive,19.0,504.0
+505,505,-0.0,M,-2147483648,2017-01-30,SunTrust Robinson Humphrey,Not Provided,5,buy,14.0,505.0
+506,506,-0.0,M,-2147483648,2017-01-25,Evercore ISI,12 month,5,buy,15.0,506.0
+507,507,-0.0,M,-2147483648,2017-01-25,Guggenheim Securities,Not Provided,5,buy,14.0,507.0
+508,508,-0.0,M,-2147483648,2017-01-20,Barclays,Not Provided,5,overweight,14.0,508.0
+509,509,-0.0,D,-2147483648,2017-01-18,UBS,12 month,1,sell,7.0,509.0
+510,510,-0.0,D,-2147483648,2016-12-17,EVA Dimensions,Not Provided,1,underweight,-0.0,510.0
+511,511,-0.0,M,-2147483648,2016-12-07,Macquarie,12 month,5,outperform,24.0,511.0
+512,512,-0.0,D,-2147483648,2016-12-05,"Morningstar, Inc",Not Provided,3,hold,-0.0,512.0
+513,513,-0.0,M,-2147483648,2016-11-04,Ladenburg Thalmann & Co,12 month,5,buy,15.0,513.0
+514,514,-0.0,M,-2147483648,2016-11-03,Tudor Pickering & Co,Not Provided,5,buy,14.0,514.0
+515,515,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,515.0
+516,516,-0.0,M,-2147483648,2016-02-25,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,516.0
+517,517,-0.0,M,-2147483648,2017-03-01,Goldman Sachs,12 month,3,neutral/attractive,9.0,517.0
+518,518,-0.0,M,-2147483648,2017-03-01,Guggenheim Securities,Not Provided,5,buy,14.0,518.0
+519,519,-0.0,M,-2147483648,2017-02-28,Ladenburg Thalmann & Co,12 month,5,buy,13.0,519.0
+520,520,-0.0,M,-2147483648,2017-02-27,UBS,12 month,1,sell,8.0,520.0
+521,521,-0.0,M,-2147483648,2017-02-27,SunTrust Robinson Humphrey,12 month,5,buy,15.0,521.0
+522,522,-0.0,M,-2147483648,2017-02-27,Macquarie,12 month,5,outperform,14.0,522.0
+523,523,-0.0,M,-2147483648,2017-02-27,Evercore ISI,12 month,5,buy,15.0,523.0
+524,524,-0.0,M,-2147483648,2017-02-26,Wolfe Research,12 month,3,peerperform,10.0,524.0
+525,525,-0.0,M,-2147483648,2017-02-24,Morgan Stanley,12 month,5,Overwt/Attractive,19.0,525.0
+526,526,-0.0,M,-2147483648,2017-02-24,RBC Capital Markets,12 month,3,sector perform,9.0,526.0
+527,527,-0.0,M,-2147483648,2017-02-24,"Morningstar, Inc",Not Provided,3,hold,-0.0,527.0
+528,528,-0.0,M,-2147483648,2017-02-24,Barclays,Not Provided,5,overweight,14.0,528.0
+529,529,-0.0,D,-2147483648,2016-12-17,EVA Dimensions,Not Provided,1,underweight,-0.0,529.0
+530,530,-0.0,M,-2147483648,2016-11-03,Tudor Pickering & Co,Not Provided,5,buy,14.0,530.0
+531,531,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,531.0
+532,532,-0.0,M,-2147483648,2017-03-31,Guggenheim Securities,Not Provided,5,buy,14.0,532.0
+533,533,-0.0,M,-2147483648,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.0,533.0
+534,534,-0.0,M,-2147483648,2017-03-23,SunTrust Robinson Humphrey,Not Provided,5,buy,13.0,534.0
+535,535,-0.0,U,-2147483648,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.0,535.0
+536,536,-0.0,U,-2147483648,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.0,536.0
+537,537,-0.0,M,-2147483648,2017-03-21,Tudor Pickering & Co,Not Provided,5,buy,12.0,537.0
+538,538,-0.0,M,-2147483648,2017-03-17,RBC Capital Markets,12 month,3,sector perform,8.0,538.0
+539,539,-0.0,M,-2147483648,2017-03-15,Goldman Sachs,12 month,3,neutral/attractive,8.0,539.0
+540,540,-0.0,M,-2147483648,2017-03-05,Wolfe Research,Not Provided,3,peerperform,10.0,540.0
+541,541,-0.0,M,-2147483648,2017-03-03,Barclays,Not Provided,5,overweight,14.0,541.0
+542,542,-0.0,M,-2147483648,2017-02-28,Ladenburg Thalmann & Co,12 month,5,buy,13.0,542.0
+543,543,-0.0,M,-2147483648,2017-02-27,UBS,12 month,1,sell,8.0,543.0
+544,544,-0.0,M,-2147483648,2017-02-27,Macquarie,12 month,5,outperform,14.0,544.0
+545,545,-0.0,M,-2147483648,2017-02-27,Evercore ISI,12 month,5,buy,15.0,545.0
+546,546,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,546.0
+547,547,-62.01,M,9,2017-04-26,SunTrust Robinson Humphrey,Not Provided,5,buy,12.0,547.0
+548,548,-61.65,M,8,2017-04-25,Macquarie,12 month,5,outperform,14.0,548.0
+549,549,-61.65,M,8,2017-04-25,Tudor Pickering & Co,Not Provided,5,buy,12.0,549.0
+550,550,-18.49,M,2,2017-04-25,Wolfe Research,Not Provided,3,peerperform,7.0,550.0
+551,551,-0.0,M,-2147483648,2017-04-24,Goldman Sachs,12 month,3,neutral/attractive,7.0,551.0
+552,552,-23.53,M,3,2017-04-24,RBC Capital Markets,12 month,3,sector perform,8.0,552.0
+553,553,-61.65,M,8,2017-04-24,Evercore ISI,12 month,5,outperform,15.0,553.0
+554,554,-61.65,M,8,2017-04-21,Barclays,Not Provided,5,overweight,14.0,554.0
+555,555,-61.65,M,8,2017-04-20,Guggenheim Securities,Not Provided,5,buy,14.0,555.0
+556,556,57.39,M,1,2017-04-12,UBS,12 month,1,sell,5.0,556.0
+557,557,-61.65,M,8,2017-04-12,Ladenburg Thalmann & Co,12 month,5,buy,13.0,557.0
+558,558,-69.62,M,10,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.0,558.0
+559,559,-36.43,U,5,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.0,559.0
+560,560,-45.61,U,6,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.0,560.0
+561,561,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,561.0
+562,562,-62.01,M,9,2017-04-26,SunTrust Robinson Humphrey,Not Provided,5,buy,12.0,562.0
+563,563,-61.65,M,8,2017-04-25,Macquarie,12 month,5,outperform,14.0,563.0
+564,564,-61.65,M,8,2017-04-25,Tudor Pickering & Co,Not Provided,5,buy,12.0,564.0
+565,565,-18.49,M,2,2017-04-25,Wolfe Research,Not Provided,3,peerperform,7.0,565.0
+566,566,-0.0,M,-2147483648,2017-04-24,Goldman Sachs,12 month,3,neutral/attractive,7.0,566.0
+567,567,-23.53,M,3,2017-04-24,RBC Capital Markets,12 month,3,sector perform,8.0,567.0
+568,568,-61.65,M,8,2017-04-24,Evercore ISI,12 month,5,outperform,15.0,568.0
+569,569,-61.65,M,8,2017-04-21,Barclays,Not Provided,5,overweight,14.0,569.0
+570,570,-61.65,M,8,2017-04-20,Guggenheim Securities,Not Provided,5,buy,14.0,570.0
+571,571,57.39,M,1,2017-04-12,UBS,12 month,1,sell,5.0,571.0
+572,572,-61.65,M,8,2017-04-12,Ladenburg Thalmann & Co,12 month,5,buy,13.0,572.0
+573,573,-69.62,M,10,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.0,573.0
+574,574,-36.43,U,5,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.0,574.0
+575,575,-45.61,U,6,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.0,575.0
+576,576,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,576.0
+577,577,-62.01,M,9,2017-04-26,SunTrust Robinson Humphrey,Not Provided,5,buy,12.0,577.0
+578,578,-61.65,M,8,2017-04-25,Macquarie,12 month,5,outperform,14.0,578.0
+579,579,-61.65,M,8,2017-04-25,Tudor Pickering & Co,Not Provided,5,buy,12.0,579.0
+580,580,-18.49,M,2,2017-04-25,Wolfe Research,Not Provided,3,peerperform,7.0,580.0
+581,581,-0.0,M,-2147483648,2017-04-24,Goldman Sachs,12 month,3,neutral/attractive,7.0,581.0
+582,582,-23.53,M,3,2017-04-24,RBC Capital Markets,12 month,3,sector perform,8.0,582.0
+583,583,-61.65,M,8,2017-04-24,Evercore ISI,12 month,5,outperform,15.0,583.0
+584,584,-61.65,M,8,2017-04-21,Barclays,Not Provided,5,overweight,14.0,584.0
+585,585,-61.65,M,8,2017-04-20,Guggenheim Securities,Not Provided,5,buy,14.0,585.0
+586,586,57.39,M,1,2017-04-12,UBS,12 month,1,sell,5.0,586.0
+587,587,-61.65,M,8,2017-04-12,Ladenburg Thalmann & Co,12 month,5,buy,13.0,587.0
+588,588,-69.62,M,10,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.0,588.0
+589,589,-36.43,U,5,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.0,589.0
+590,590,-45.61,U,6,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.0,590.0
+591,591,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,591.0
+592,592,-62.01,M,9,2017-04-26,SunTrust Robinson Humphrey,Not Provided,5,buy,12.0,592.0
+593,593,-61.65,M,8,2017-04-25,Macquarie,12 month,5,outperform,14.0,593.0
+594,594,-61.65,M,8,2017-04-25,Tudor Pickering & Co,Not Provided,5,buy,12.0,594.0
+595,595,-18.49,M,2,2017-04-25,Wolfe Research,Not Provided,3,peerperform,7.0,595.0
+596,596,-0.0,M,-2147483648,2017-04-24,Goldman Sachs,12 month,3,neutral/attractive,7.0,596.0
+597,597,-23.53,M,3,2017-04-24,RBC Capital Markets,12 month,3,sector perform,8.0,597.0
+598,598,-61.65,M,8,2017-04-24,Evercore ISI,12 month,5,outperform,15.0,598.0
+599,599,-61.65,M,8,2017-04-21,Barclays,Not Provided,5,overweight,14.0,599.0
+600,600,-61.65,M,8,2017-04-20,Guggenheim Securities,Not Provided,5,buy,14.0,600.0
+601,601,57.39,M,1,2017-04-12,UBS,12 month,1,sell,5.0,601.0
+602,602,-61.65,M,8,2017-04-12,Ladenburg Thalmann & Co,12 month,5,buy,13.0,602.0
+603,603,-69.62,M,10,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.0,603.0
+604,604,-36.43,U,5,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.0,604.0
+605,605,-45.61,U,6,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.0,605.0
+606,606,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,606.0
+607,607,-62.01,M,9,2017-04-26,SunTrust Robinson Humphrey,Not Provided,5,buy,12.0,607.0
+608,608,-61.65,M,8,2017-04-25,Macquarie,12 month,5,outperform,14.0,608.0
+609,609,-61.65,M,8,2017-04-25,Tudor Pickering & Co,Not Provided,5,buy,12.0,609.0
+610,610,-18.49,M,2,2017-04-25,Wolfe Research,Not Provided,3,peerperform,7.0,610.0
+611,611,-0.0,M,-2147483648,2017-04-24,Goldman Sachs,12 month,3,neutral/attractive,7.0,611.0
+612,612,-23.53,M,3,2017-04-24,RBC Capital Markets,12 month,3,sector perform,8.0,612.0
+613,613,-61.65,M,8,2017-04-24,Evercore ISI,12 month,5,outperform,15.0,613.0
+614,614,-61.65,M,8,2017-04-21,Barclays,Not Provided,5,overweight,14.0,614.0
+615,615,-61.65,M,8,2017-04-20,Guggenheim Securities,Not Provided,5,buy,14.0,615.0
+616,616,57.39,M,1,2017-04-12,UBS,12 month,1,sell,5.0,616.0
+617,617,-61.65,M,8,2017-04-12,Ladenburg Thalmann & Co,12 month,5,buy,13.0,617.0
+618,618,-69.62,M,10,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.0,618.0
+619,619,-36.43,U,5,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.0,619.0
+620,620,-45.61,U,6,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.0,620.0
+621,621,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,621.0
+622,622,-62.01,M,9,2017-04-26,SunTrust Robinson Humphrey,Not Provided,5,buy,12.0,622.0
+623,623,-61.65,M,8,2017-04-25,Macquarie,12 month,5,outperform,14.0,623.0
+624,624,-61.65,M,8,2017-04-25,Tudor Pickering & Co,Not Provided,5,buy,12.0,624.0
+625,625,-18.49,M,2,2017-04-25,Wolfe Research,Not Provided,3,peerperform,7.0,625.0
+626,626,-0.0,M,-2147483648,2017-04-24,Goldman Sachs,12 month,3,neutral/attractive,7.0,626.0
+627,627,-23.53,M,3,2017-04-24,RBC Capital Markets,12 month,3,sector perform,8.0,627.0
+628,628,-61.65,M,8,2017-04-24,Evercore ISI,12 month,5,outperform,15.0,628.0
+629,629,-61.65,M,8,2017-04-21,Barclays,Not Provided,5,overweight,14.0,629.0
+630,630,-61.65,M,8,2017-04-20,Guggenheim Securities,Not Provided,5,buy,14.0,630.0
+631,631,57.39,M,1,2017-04-12,UBS,12 month,1,sell,5.0,631.0
+632,632,-61.65,M,8,2017-04-12,Ladenburg Thalmann & Co,12 month,5,buy,13.0,632.0
+633,633,-69.62,M,10,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.0,633.0
+634,634,-36.43,U,5,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.0,634.0
+635,635,-45.61,U,6,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.0,635.0
+636,636,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,636.0
+637,637,-62.01,M,9,2017-04-26,SunTrust Robinson Humphrey,Not Provided,5,buy,12.0,637.0
+638,638,-61.65,M,8,2017-04-25,Macquarie,12 month,5,outperform,14.0,638.0
+639,639,-61.65,M,8,2017-04-25,Tudor Pickering & Co,Not Provided,5,buy,12.0,639.0
+640,640,-18.49,M,2,2017-04-25,Wolfe Research,Not Provided,3,peerperform,7.0,640.0
+641,641,-0.0,M,-2147483648,2017-04-24,Goldman Sachs,12 month,3,neutral/attractive,7.0,641.0
+642,642,-23.53,M,3,2017-04-24,RBC Capital Markets,12 month,3,sector perform,8.0,642.0
+643,643,-61.65,M,8,2017-04-24,Evercore ISI,12 month,5,outperform,15.0,643.0
+644,644,-61.65,M,8,2017-04-21,Barclays,Not Provided,5,overweight,14.0,644.0
+645,645,-61.65,M,8,2017-04-20,Guggenheim Securities,Not Provided,5,buy,14.0,645.0
+646,646,57.39,M,1,2017-04-12,UBS,12 month,1,sell,5.0,646.0
+647,647,-61.65,M,8,2017-04-12,Ladenburg Thalmann & Co,12 month,5,buy,13.0,647.0
+648,648,-69.62,M,10,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.0,648.0
+649,649,-36.43,U,5,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.0,649.0
+650,650,-45.61,U,6,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.0,650.0
+651,651,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,651.0
+652,652,-62.01,M,9,2017-04-26,SunTrust Robinson Humphrey,Not Provided,5,buy,12.0,652.0
+653,653,-61.65,M,8,2017-04-25,Macquarie,12 month,5,outperform,14.0,653.0
+654,654,-61.65,M,8,2017-04-25,Tudor Pickering & Co,Not Provided,5,buy,12.0,654.0
+655,655,-18.49,M,2,2017-04-25,Wolfe Research,Not Provided,3,peerperform,7.0,655.0
+656,656,-0.0,M,-2147483648,2017-04-24,Goldman Sachs,12 month,3,neutral/attractive,7.0,656.0
+657,657,-23.53,M,3,2017-04-24,RBC Capital Markets,12 month,3,sector perform,8.0,657.0
+658,658,-61.65,M,8,2017-04-24,Evercore ISI,12 month,5,outperform,15.0,658.0
+659,659,-61.65,M,8,2017-04-21,Barclays,Not Provided,5,overweight,14.0,659.0
+660,660,-61.65,M,8,2017-04-20,Guggenheim Securities,Not Provided,5,buy,14.0,660.0
+661,661,57.39,M,1,2017-04-12,UBS,12 month,1,sell,5.0,661.0
+662,662,-61.65,M,8,2017-04-12,Ladenburg Thalmann & Co,12 month,5,buy,13.0,662.0
+663,663,-69.62,M,10,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.0,663.0
+664,664,-36.43,U,5,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.0,664.0
+665,665,-45.61,U,6,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.0,665.0
+666,666,-0.0,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.0,666.0
+667,667,-0.000000,M,-2147483648,2017-03-31,Guggenheim Securities,Not Provided,5,buy,14.000000,
+668,668,-0.000000,M,-2147483648,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.000000,
+669,669,-0.000000,M,-2147483648,2017-03-23,SunTrust Robinson Humphrey,Not Provided,5,buy,13.000000,
+670,670,-0.000000,U,-2147483648,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.000000,
+671,671,-0.000000,U,-2147483648,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.000000,
+672,672,-0.000000,M,-2147483648,2017-03-21,Tudor Pickering & Co,Not Provided,5,buy,12.000000,
+673,673,-0.000000,M,-2147483648,2017-03-17,RBC Capital Markets,12 month,3,sector perform,8.000000,
+674,674,-0.000000,M,-2147483648,2017-03-15,Goldman Sachs,12 month,3,neutral/attractive,8.000000,
+675,675,-0.000000,M,-2147483648,2017-03-05,Wolfe Research,Not Provided,3,peerperform,10.000000,
+676,676,-0.000000,M,-2147483648,2017-03-03,Barclays,Not Provided,5,overweight,14.000000,
+677,677,-0.000000,M,-2147483648,2017-02-28,Ladenburg Thalmann & Co,12 month,5,buy,13.000000,
+678,678,-0.000000,M,-2147483648,2017-02-27,UBS,12 month,1,sell,8.000000,
+679,679,-0.000000,M,-2147483648,2017-02-27,Macquarie,12 month,5,outperform,14.000000,
+680,680,-0.000000,M,-2147483648,2017-02-27,Evercore ISI,12 month,5,buy,15.000000,
+681,681,-0.000000,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.000000,
+682,682,-0.000000,M,-2147483648,2017-05-01,RBC Capital Markets,12 month,3,sector perform,8.000000,
+683,683,-0.000000,M,-2147483648,2017-05-01,Wolfe Research,Not Provided,3,peerperform,7.000000,
+684,684,-0.000000,M,-2147483648,2017-04-27,Barclays,Not Provided,5,overweight,14.000000,
+685,685,-0.000000,M,-2147483648,2017-04-26,SunTrust Robinson Humphrey,Not Provided,5,buy,12.000000,
+686,686,-0.000000,M,-2147483648,2017-04-25,Macquarie,12 month,5,outperform,14.000000,
+687,687,-0.000000,M,-2147483648,2017-04-25,Tudor Pickering & Co,Not Provided,5,buy,12.000000,
+688,688,-0.000000,M,-2147483648,2017-04-24,Goldman Sachs,12 month,3,neutral/attractive,7.000000,
+689,689,-0.000000,M,-2147483648,2017-04-24,Evercore ISI,12 month,5,outperform,15.000000,
+690,690,-0.000000,M,-2147483648,2017-04-20,Guggenheim Securities,Not Provided,5,buy,14.000000,
+691,691,-0.000000,M,-2147483648,2017-04-12,UBS,12 month,1,sell,5.000000,
+692,692,-0.000000,M,-2147483648,2017-04-12,Ladenburg Thalmann & Co,12 month,5,buy,13.000000,
+693,693,-0.000000,M,-2147483648,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.000000,
+694,694,-0.000000,U,-2147483648,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.000000,
+695,695,-0.000000,U,-2147483648,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.000000,
+696,696,-0.000000,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.000000,
+697,697,-24.610000,M,3,2017-05-01,RBC Capital Markets,12 month,3,sector perform,8.000000,
+698,698,-19.640000,M,2,2017-05-01,Wolfe Research,Not Provided,3,peerperform,7.000000,
+699,699,-63.000000,M,9,2017-04-27,Barclays,Not Provided,5,overweight,14.000000,
+700,700,-62.830000,M,8,2017-04-26,SunTrust Robinson Humphrey,Not Provided,5,buy,12.000000,
+701,701,-63.000000,M,9,2017-04-25,Macquarie,12 month,5,outperform,14.000000,
+702,702,-63.000000,M,9,2017-04-25,Tudor Pickering & Co,Not Provided,5,buy,12.000000,
+703,703,-0.000000,M,-2147483648,2017-04-24,Goldman Sachs,12 month,3,neutral/attractive,7.000000,
+704,704,-63.000000,M,9,2017-04-24,Evercore ISI,12 month,5,outperform,15.000000,
+705,705,-63.000000,M,9,2017-04-20,Guggenheim Securities,Not Provided,5,buy,14.000000,
+706,706,57.080000,M,1,2017-04-12,UBS,12 month,1,sell,5.000000,
+707,707,-63.000000,M,9,2017-04-12,Ladenburg Thalmann & Co,12 month,5,buy,13.000000,
+708,708,-72.010000,M,10,2017-03-28,Morgan Stanley,12 month,5,Overwt/Attractive,15.000000,
+709,709,-38.440000,U,5,2017-03-22,"Morningstar, Inc",Not Provided,5,buy,-0.000000,
+710,710,-44.040000,U,6,2017-03-22,EVA Dimensions,Not Provided,3,hold,-0.000000,
+711,711,-0.000000,M,-2147483648,2016-05-07,Cowen,Not Provided,-2147483648,not rated,-0.000000,

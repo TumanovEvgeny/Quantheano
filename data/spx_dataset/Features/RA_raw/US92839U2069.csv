@@ -1,0 +1,782 @@
+,index,1 Year Return,Action Code,BARR,Date,Firm Name,Period,Rating,Recommendation,Target Price,Unnamed: 0
+0,0,-0.0,M,-2147483648,2010-10-28,CRT Capital Group,Not Provided,5,buy,75.0,0.0
+1,1,-0.0,N,-2147483648,2010-10-12,BTIG LLC,Not Provided,5,buy,70.0,1.0
+2,2,-0.0,M,-2147483648,2010-12-01,Soleil Securities,Not Provided,3,hold,-0.0,2.0
+3,3,-0.0,M,-2147483648,2010-10-28,CRT Capital Group,Not Provided,5,buy,75.0,3.0
+4,4,-0.0,N,-2147483648,2010-10-12,BTIG LLC,Not Provided,5,buy,70.0,4.0
+5,5,-0.0,M,-2147483648,2010-12-08,Soleil Securities,Not Provided,3,hold,-0.0,5.0
+6,6,-0.0,M,-2147483648,2010-10-28,CRT Capital Group,Not Provided,5,buy,75.0,6.0
+7,7,-0.0,N,-2147483648,2010-10-12,BTIG LLC,Not Provided,5,buy,70.0,7.0
+8,8,-0.0,M,-2147483648,2011-02-01,Knight,12 month,-2147483648,not rated,57.0,8.0
+9,9,-0.0,M,-2147483648,2011-02-01,Soleil Securities,Not Provided,3,hold,-0.0,9.0
+10,10,-0.0,M,-2147483648,2011-01-21,CRT Capital Group,Not Provided,3,Fairly Valued,-0.0,10.0
+11,11,-0.0,N,-2147483648,2010-10-12,BTIG LLC,Not Provided,5,buy,70.0,11.0
+12,12,-0.0,M,-2147483648,2011-03-01,Soleil Securities,Not Provided,3,hold,-0.0,12.0
+13,13,-0.0,N,-2147483648,2011-02-18,UBS,12 month,5,buy,85.0,13.0
+14,14,-0.0,M,-2147483648,2011-02-01,Knight,12 month,-2147483648,not rated,57.0,14.0
+15,15,-0.0,M,-2147483648,2011-01-21,CRT Capital Group,Not Provided,3,Fairly Valued,-0.0,15.0
+16,16,-0.0,N,-2147483648,2010-10-12,BTIG LLC,Not Provided,5,buy,70.0,16.0
+17,17,-0.0,M,-2147483648,2011-03-29,CRT Capital Group,Not Provided,5,buy,82.0,17.0
+18,18,-0.0,M,-2147483648,2011-03-29,Soleil Securities,Not Provided,3,hold,-0.0,18.0
+19,19,-0.0,N,-2147483648,2011-03-23,R.W. Pressprich & Co,12 month,4,speculative buy,75.0,19.0
+20,20,-0.0,M,-2147483648,2011-03-10,UBS,12 month,5,buy,78.0,20.0
+21,21,-0.0,M,-2147483648,2011-03-09,BTIG LLC,Not Provided,3,neutral,-0.0,21.0
+22,22,-0.0,M,-2147483648,2011-02-01,Knight,12 month,-2147483648,not rated,57.0,22.0
+23,23,-0.0,M,-2147483648,2011-04-25,Soleil Securities,Not Provided,3,hold,-0.0,23.0
+24,24,-0.0,M,-2147483648,2011-04-18,UBS,12 month,5,buy,82.0,24.0
+25,25,-0.0,M,-2147483648,2011-04-05,Knight,Not Provided,-2147483648,not rated,57.0,25.0
+26,26,-0.0,M,-2147483648,2011-03-29,CRT Capital Group,Not Provided,5,buy,82.0,26.0
+27,27,-0.0,N,-2147483648,2011-03-23,R.W. Pressprich & Co,12 month,4,speculative buy,75.0,27.0
+28,28,-0.0,M,-2147483648,2011-03-09,BTIG LLC,Not Provided,3,neutral,-0.0,28.0
+29,29,-0.0,M,-2147483648,2011-05-31,Soleil Securities,Not Provided,3,hold,-0.0,29.0
+30,30,-0.0,M,-2147483648,2011-05-06,UBS,12 month,5,buy,84.0,30.0
+31,31,-0.0,M,-2147483648,2011-05-06,CRT Capital Group,Not Provided,5,buy,83.0,31.0
+32,32,-0.0,M,-2147483648,2011-04-05,Knight,Not Provided,-2147483648,not rated,57.0,32.0
+33,33,-0.0,N,-2147483648,2011-03-23,R.W. Pressprich & Co,12 month,4,speculative buy,75.0,33.0
+34,34,-0.0,M,-2147483648,2011-03-09,BTIG LLC,Not Provided,3,neutral,-0.0,34.0
+35,35,-0.0,M,-2147483648,2011-06-16,J.P. Morgan,9 month,5,overweight,75.0,35.0
+36,36,-0.0,M,-2147483648,2011-06-15,UBS,12 month,5,buy,88.0,36.0
+37,37,-0.0,M,-2147483648,2011-06-15,R.W. Pressprich & Co,12 month,4,speculative buy,75.0,37.0
+38,38,-0.0,M,-2147483648,2011-05-06,CRT Capital Group,Not Provided,5,buy,83.0,38.0
+39,39,-0.0,M,-2147483648,2011-04-05,Knight,Not Provided,-2147483648,not rated,57.0,39.0
+40,40,-0.0,M,-2147483648,2011-03-09,BTIG LLC,Not Provided,3,neutral,-0.0,40.0
+41,41,-0.0,M,-2147483648,2011-07-28,J.P. Morgan,3 month,5,overweight,75.0,41.0
+42,42,-0.0,M,-2147483648,2011-07-28,CRT Capital Group,12 month,5,buy,83.0,42.0
+43,43,-0.0,M,-2147483648,2011-07-14,UBS,12 month,5,buy,88.0,43.0
+44,44,-0.0,M,-2147483648,2011-06-15,R.W. Pressprich & Co,12 month,4,speculative buy,75.0,44.0
+45,45,-0.0,M,-2147483648,2011-04-05,Knight,Not Provided,-2147483648,not rated,57.0,45.0
+46,46,-0.0,M,-2147483648,2011-03-09,BTIG LLC,Not Provided,3,neutral,-0.0,46.0
+47,47,-0.0,M,-2147483648,2011-08-24,UBS,12 month,5,buy,88.0,47.0
+48,48,-0.0,M,-2147483648,2011-08-23,R.W. Pressprich & Co,12 month,4,speculative buy,65.0,48.0
+49,49,-0.0,M,-2147483648,2011-08-16,WhiteSand Research LLC,Not Provided,4,undervalued,68.64,49.0
+50,50,-0.0,M,-2147483648,2011-08-08,J.P. Morgan,3 month,5,overweight,72.0,50.0
+51,51,-0.0,M,-2147483648,2011-08-05,CRT Capital Group,Not Provided,5,buy,83.0,51.0
+52,52,-0.0,M,-2147483648,2011-04-05,Knight,Not Provided,-2147483648,not rated,57.0,52.0
+53,53,-0.0,M,-2147483648,2011-03-09,BTIG LLC,Not Provided,3,neutral,-0.0,53.0
+54,54,-0.0,M,-2147483648,2011-09-20,UBS,12 month,5,buy,82.0,54.0
+55,55,-0.0,M,-2147483648,2011-08-23,R.W. Pressprich & Co,12 month,4,speculative buy,65.0,55.0
+56,56,-0.0,M,-2147483648,2011-08-16,WhiteSand Research LLC,Not Provided,4,undervalued,68.64,56.0
+57,57,-0.0,M,-2147483648,2011-08-08,J.P. Morgan,3 month,5,overweight,72.0,57.0
+58,58,-0.0,M,-2147483648,2011-08-05,CRT Capital Group,Not Provided,5,buy,83.0,58.0
+59,59,-0.0,M,-2147483648,2011-04-05,Knight,Not Provided,-2147483648,not rated,57.0,59.0
+60,60,-0.0,M,-2147483648,2011-03-09,BTIG LLC,Not Provided,3,neutral,-0.0,60.0
+61,61,-0.0,M,-2147483648,2011-11-01,J.P. Morgan,15 month,5,overweight,71.0,61.0
+62,62,-0.0,M,-2147483648,2011-10-31,UBS,12 month,5,buy,79.0,62.0
+63,63,-0.0,M,-2147483648,2011-10-18,CRT Capital Group,Not Provided,5,buy,83.0,63.0
+64,64,-0.0,M,-2147483648,2011-08-23,R.W. Pressprich & Co,12 month,4,speculative buy,65.0,64.0
+65,65,-0.0,M,-2147483648,2011-08-16,WhiteSand Research LLC,Not Provided,4,undervalued,68.64,65.0
+66,66,-0.0,M,-2147483648,2011-03-09,BTIG LLC,Not Provided,3,neutral,-0.0,66.0
+67,67,-0.0,M,-2147483648,2011-11-30,CRT Capital Group,Not Provided,5,buy,76.0,67.0
+68,68,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,68.0
+69,69,-0.0,M,-2147483648,2011-11-15,UBS,12 month,5,buy,79.0,69.0
+70,70,-0.0,N,-2147483648,2011-11-10,Barclays,Not Provided,3,equalwt/neutral,65.0,70.0
+71,71,-0.0,M,-2147483648,2011-11-04,J.P. Morgan,9 month,5,overweight,68.0,71.0
+72,72,-0.0,M,-2147483648,2011-08-23,R.W. Pressprich & Co,12 month,4,speculative buy,65.0,72.0
+73,73,-0.0,M,-2147483648,2011-03-09,BTIG LLC,Not Provided,3,neutral,-0.0,73.0
+74,74,-0.0,M,-2147483648,2011-12-15,UBS,12 month,5,buy,74.0,74.0
+75,75,-0.0,M,-2147483648,2011-11-30,CRT Capital Group,Not Provided,5,buy,76.0,75.0
+76,76,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,76.0
+77,77,-0.0,N,-2147483648,2011-11-10,Barclays,Not Provided,3,equalwt/neutral,65.0,77.0
+78,78,-0.0,M,-2147483648,2011-11-04,J.P. Morgan,9 month,5,overweight,68.0,78.0
+79,79,-0.0,M,-2147483648,2011-08-23,R.W. Pressprich & Co,12 month,4,speculative buy,65.0,79.0
+80,80,-0.0,M,-2147483648,2012-01-18,UBS,12 month,5,buy,68.0,80.0
+81,81,-0.0,M,-2147483648,2012-01-13,Barclays,Not Provided,3,equalwt/neutral,57.0,81.0
+82,82,-0.0,M,-2147483648,2012-01-12,CRT Capital Group,Not Provided,5,buy,72.0,82.0
+83,83,-0.0,N,-2147483648,2012-01-03,Guggenheim Securities,12 month,3,neutral,49.21,83.0
+84,84,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,84.0
+85,85,-0.0,M,-2147483648,2011-11-04,J.P. Morgan,9 month,5,overweight,68.0,85.0
+86,86,-0.0,M,-2147483648,2011-08-23,R.W. Pressprich & Co,12 month,4,speculative buy,65.0,86.0
+87,87,-0.0,M,-2147483648,2012-03-01,CRT Capital Group,12 month,5,buy,70.0,87.0
+88,88,-0.0,M,-2147483648,2012-02-29,Guggenheim Securities,12 month,3,neutral,50.0,88.0
+89,89,-0.0,M,-2147483648,2012-02-28,UBS,12 month,5,buy,72.0,89.0
+90,90,-0.0,M,-2147483648,2012-02-28,Barclays,Not Provided,3,equalwt/neutral,57.0,90.0
+91,91,-0.0,D,-2147483648,2012-02-15,EVA Dimensions,Not Provided,3,hold,-0.0,91.0
+92,92,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,92.0
+93,93,-0.0,M,-2147483648,2011-11-04,J.P. Morgan,9 month,5,overweight,68.0,93.0
+94,94,-0.0,M,-2147483648,2011-08-23,R.W. Pressprich & Co,12 month,4,speculative buy,65.0,94.0
+95,95,-0.0,M,-2147483648,2012-03-21,UBS,12 month,5,buy,73.0,95.0
+96,96,-0.0,M,-2147483648,2012-03-14,Barclays,Not Provided,3,equalwt/neutral,57.0,96.0
+97,97,-0.0,M,-2147483648,2012-03-12,CRT Capital Group,Not Provided,5,buy,70.0,97.0
+98,98,-0.0,M,-2147483648,2012-03-12,Guggenheim Securities,12 month,3,neutral,49.0,98.0
+99,99,-0.0,U,-2147483648,2012-03-06,EVA Dimensions,Not Provided,5,overweight,-0.0,99.0
+100,100,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,100.0
+101,101,-0.0,M,-2147483648,2011-11-04,J.P. Morgan,9 month,5,overweight,68.0,101.0
+102,102,-0.0,M,-2147483648,2011-08-23,R.W. Pressprich & Co,12 month,4,speculative buy,65.0,102.0
+103,103,-0.0,M,-2147483648,2012-04-27,UBS,12 month,5,buy,73.0,103.0
+104,104,-0.0,M,-2147483648,2012-04-27,CRT Capital Group,12 month,5,buy,70.0,104.0
+105,105,-0.0,M,-2147483648,2012-04-10,Barclays,Not Provided,3,equalwt/neutral,57.0,105.0
+106,106,-0.0,M,-2147483648,2012-03-12,Guggenheim Securities,12 month,3,neutral,49.0,106.0
+107,107,-0.0,U,-2147483648,2012-03-06,EVA Dimensions,Not Provided,5,overweight,-0.0,107.0
+108,108,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,108.0
+109,109,-0.0,M,-2147483648,2011-08-23,R.W. Pressprich & Co,12 month,4,speculative buy,65.0,109.0
+110,110,-0.0,M,-2147483648,2012-05-04,Barclays,Not Provided,3,equalwt/neutral,57.0,110.0
+111,111,-0.0,M,-2147483648,2012-05-03,CRT Capital Group,Not Provided,5,buy,66.0,111.0
+112,112,-0.0,M,-2147483648,2012-05-03,Guggenheim Securities,12 month,3,neutral,49.0,112.0
+113,113,-0.0,M,-2147483648,2012-05-02,UBS,12 month,5,buy,79.0,113.0
+114,114,-0.0,U,-2147483648,2012-03-06,EVA Dimensions,Not Provided,5,overweight,-0.0,114.0
+115,115,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,115.0
+116,116,-0.0,M,-2147483648,2011-08-23,R.W. Pressprich & Co,12 month,4,speculative buy,65.0,116.0
+117,117,-0.0,M,-2147483648,2012-06-29,Guggenheim Securities,12 month,3,neutral,41.0,117.0
+118,118,-0.0,M,-2147483648,2012-06-25,Barclays,Not Provided,3,equalwt/neutral,54.0,118.0
+119,119,-0.0,M,-2147483648,2012-06-20,UBS,12 month,5,buy,79.0,119.0
+120,120,-0.0,M,-2147483648,2012-05-03,CRT Capital Group,Not Provided,5,buy,66.0,120.0
+121,121,-0.0,U,-2147483648,2012-03-06,EVA Dimensions,Not Provided,5,overweight,-0.0,121.0
+122,122,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,122.0
+123,123,-0.0,M,-2147483648,2011-08-23,R.W. Pressprich & Co,12 month,4,speculative buy,65.0,123.0
+124,124,-0.0,M,-2147483648,2012-07-25,J.P. Morgan,15 month,3,neutral,39.0,124.0
+125,125,-0.0,M,-2147483648,2012-07-24,CRT Capital Group,12 month,5,buy,62.0,125.0
+126,126,-0.0,M,-2147483648,2012-07-17,R.W. Pressprich & Co,Not Provided,4,speculative buy,-0.0,126.0
+127,127,-0.0,M,-2147483648,2012-07-17,Guggenheim Securities,12 month,3,neutral,41.0,127.0
+128,128,-0.0,M,-2147483648,2012-07-16,UBS,12 month,5,buy,77.0,128.0
+129,129,-0.0,M,-2147483648,2012-07-06,Barclays,Not Provided,3,equalweight,54.0,129.0
+130,130,-0.0,U,-2147483648,2012-03-06,EVA Dimensions,Not Provided,5,overweight,-0.0,130.0
+131,131,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,131.0
+132,132,-0.0,M,-2147483648,2012-08-31,CRT Capital Group,12 month,5,buy,56.0,132.0
+133,133,-0.0,D,-2147483648,2012-08-31,EVA Dimensions,Not Provided,3,hold,-0.0,133.0
+134,134,-0.0,M,-2147483648,2012-08-30,J.P. Morgan,15 month,3,neutral,50.0,134.0
+135,135,-0.0,M,-2147483648,2012-08-30,Guggenheim Securities,12 month,5,buy,52.0,135.0
+136,136,-0.0,M,-2147483648,2012-08-27,UBS,12 month,5,buy,65.0,136.0
+137,137,-0.0,M,-2147483648,2012-08-14,R.W. Pressprich & Co,Not Provided,4,speculative buy,-0.0,137.0
+138,138,-0.0,M,-2147483648,2012-08-06,Barclays,Not Provided,3,equalweight,47.0,138.0
+139,139,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,139.0
+140,140,-0.0,M,-2147483648,2012-09-28,R.W. Pressprich & Co,Not Provided,4,speculative buy,-0.0,140.0
+141,141,-0.0,M,-2147483648,2012-09-27,UBS,12 month,5,buy,65.0,141.0
+142,142,-0.0,U,-2147483648,2012-09-26,EVA Dimensions,Not Provided,5,overweight,-0.0,142.0
+143,143,-0.0,M,-2147483648,2012-09-20,J.P. Morgan,12 month,3,neutral,52.0,143.0
+144,144,-0.0,M,-2147483648,2012-09-19,CRT Capital Group,12 month,5,buy,56.0,144.0
+145,145,-0.0,M,-2147483648,2012-09-19,Guggenheim Securities,12 month,5,buy,52.0,145.0
+146,146,-0.0,M,-2147483648,2012-09-19,Barclays,Not Provided,3,equalweight,47.0,146.0
+147,147,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,147.0
+148,148,-0.0,M,-2147483648,2012-11-01,CRT Capital Group,12 month,5,buy,56.0,148.0
+149,149,-0.0,M,-2147483648,2012-11-01,Guggenheim Securities,12 month,5,buy,52.0,149.0
+150,150,-0.0,U,-2147483648,2012-11-01,EVA Dimensions,Not Provided,5,overweight,-0.0,150.0
+151,151,-0.0,M,-2147483648,2012-10-19,J.P. Morgan,12 month,3,neutral,52.0,151.0
+152,152,-0.0,M,-2147483648,2012-10-11,UBS,12 month,5,buy,65.0,152.0
+153,153,-0.0,M,-2147483648,2012-10-09,Barclays,Not Provided,3,equalweight,53.0,153.0
+154,154,-0.0,M,-2147483648,2012-09-28,R.W. Pressprich & Co,Not Provided,4,speculative buy,-0.0,154.0
+155,155,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,155.0
+156,156,-0.0,M,-2147483648,2012-11-19,J.P. Morgan,12 month,3,neutral,58.0,156.0
+157,157,-0.0,M,-2147483648,2012-11-19,Guggenheim Securities,12 month,5,buy,59.0,157.0
+158,158,-0.0,M,-2147483648,2012-11-05,Barclays,Not Provided,3,equalweight,60.0,158.0
+159,159,-0.0,D,-2147483648,2012-11-05,EVA Dimensions,Not Provided,3,hold,-0.0,159.0
+160,160,-0.0,M,-2147483648,2012-11-02,UBS,12 month,5,buy,70.0,160.0
+161,161,-0.0,M,-2147483648,2012-11-02,CRT Capital Group,12 month,5,buy,60.0,161.0
+162,162,-0.0,M,-2147483648,2012-09-28,R.W. Pressprich & Co,Not Provided,4,speculative buy,-0.0,162.0
+163,163,-0.0,M,-2147483648,2011-11-23,WhiteSand Research LLC,Not Provided,4,undervalued,63.71,163.0
+164,164,-0.0,M,-2147483648,2012-12-17,J.P. Morgan,12 month,3,neutral,58.0,164.0
+165,165,-0.0,M,-2147483648,2012-12-11,UBS,12 month,5,buy,73.0,165.0
+166,166,-0.0,M,-2147483648,2012-11-19,Guggenheim Securities,12 month,5,buy,59.0,166.0
+167,167,-0.0,M,-2147483648,2012-11-05,Barclays,Not Provided,3,equalweight,60.0,167.0
+168,168,-0.0,D,-2147483648,2012-11-05,EVA Dimensions,Not Provided,3,hold,-0.0,168.0
+169,169,-0.0,M,-2147483648,2012-11-02,CRT Capital Group,12 month,5,buy,60.0,169.0
+170,170,-0.0,M,-2147483648,2013-01-30,Barclays,Not Provided,5,overweight,70.0,170.0
+171,171,-0.0,M,-2147483648,2013-01-24,UBS,12 month,5,buy,71.0,171.0
+172,172,-0.0,M,-2147483648,2013-01-22,J.P. Morgan,9 month,3,neutral,59.0,172.0
+173,173,-0.0,M,-2147483648,2013-01-16,CRT Capital Group,Not Provided,5,buy,66.0,173.0
+174,174,-0.0,M,-2147483648,2013-01-16,Guggenheim Securities,12 month,5,buy,59.0,174.0
+175,175,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0,175.0
+176,176,-0.0,M,-2147483648,2013-03-01,J.P. Morgan,9 month,5,overweight,73.0,176.0
+177,177,-0.0,M,-2147483648,2013-03-01,CRT Capital Group,Not Provided,5,buy,69.0,177.0
+178,178,-0.0,M,-2147483648,2013-03-01,Guggenheim Securities,12 month,5,buy,69.0,178.0
+179,179,-0.0,M,-2147483648,2013-03-01,Barclays,Not Provided,5,overweight,70.0,179.0
+180,180,-0.0,M,-2147483648,2013-02-28,UBS,12 month,5,buy,70.0,180.0
+181,181,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0,181.0
+182,182,-0.0,M,-2147483648,2013-03-25,J.P. Morgan,9 month,5,overweight,73.0,182.0
+183,183,-0.0,M,-2147483648,2013-03-18,Guggenheim Securities,12 month,5,buy,69.0,183.0
+184,184,-0.0,M,-2147483648,2013-03-14,Barclays,Not Provided,5,overweight,70.0,184.0
+185,185,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,185.0
+186,186,-0.0,M,-2147483648,2013-03-01,CRT Capital Group,Not Provided,5,buy,69.0,186.0
+187,187,-0.0,M,-2147483648,2013-02-28,UBS,12 month,5,buy,70.0,187.0
+188,188,-0.0,M,-2147483648,2013-04-19,J.P. Morgan,6 month,5,overweight,73.0,188.0
+189,189,-0.0,M,-2147483648,2013-04-18,CRT Capital Group,12 month,5,buy,69.0,189.0
+190,190,-0.0,M,-2147483648,2013-03-18,Guggenheim Securities,12 month,5,buy,69.0,190.0
+191,191,-0.0,M,-2147483648,2013-03-14,Barclays,Not Provided,5,overweight,70.0,191.0
+192,192,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,192.0
+193,193,-0.0,M,-2147483648,2013-02-28,UBS,12 month,5,buy,70.0,193.0
+194,194,-0.0,M,-2147483648,2013-05-17,Guggenheim Securities,12 month,5,buy,69.0,194.0
+195,195,-0.0,M,-2147483648,2013-05-10,UBS,12 month,5,buy,79.0,195.0
+196,196,-0.0,M,-2147483648,2013-05-10,J.P. Morgan,6 month,5,overweight,76.0,196.0
+197,197,-0.0,M,-2147483648,2013-05-10,CRT Capital Group,12 month,5,buy,73.0,197.0
+198,198,-0.0,M,-2147483648,2013-05-10,Barclays,Not Provided,5,overweight,74.0,198.0
+199,199,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,199.0
+200,200,-0.0,M,-2147483648,2013-07-01,J.P. Morgan,15 month,5,overweight,84.0,200.0
+201,201,-0.0,M,-2147483648,2013-07-01,Barclays,Not Provided,5,overweight,79.0,201.0
+202,202,-0.0,M,-2147483648,2013-06-27,Guggenheim Securities,12 month,5,buy,69.0,202.0
+203,203,-0.0,M,-2147483648,2013-05-10,UBS,12 month,5,buy,79.0,203.0
+204,204,-0.0,M,-2147483648,2013-05-10,CRT Capital Group,12 month,5,buy,73.0,204.0
+205,205,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,205.0
+206,206,-0.0,M,-2147483648,2013-07-22,J.P. Morgan,15 month,5,overweight,84.0,206.0
+207,207,-0.0,M,-2147483648,2013-07-12,Barclays,Not Provided,5,overweight,79.0,207.0
+208,208,-0.0,M,-2147483648,2013-07-08,UBS,12 month,5,buy,82.0,208.0
+209,209,-0.0,M,-2147483648,2013-07-02,CRT Capital Group,Not Provided,5,buy,73.0,209.0
+210,210,-0.0,M,-2147483648,2013-06-27,Guggenheim Securities,12 month,5,buy,69.0,210.0
+211,211,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,211.0
+212,212,-0.0,M,-2147483648,2013-08-19,J.P. Morgan,12 month,5,overweight,85.0,212.0
+213,213,-0.0,M,-2147483648,2013-08-14,CRT Capital Group,Not Provided,5,buy,83.0,213.0
+214,214,-0.0,M,-2147483648,2013-08-14,Guggenheim Securities,12 month,5,buy,87.0,214.0
+215,215,-0.0,M,-2147483648,2013-08-14,Barclays,Not Provided,5,overweight,82.0,215.0
+216,216,-0.0,M,-2147483648,2013-08-13,UBS,12 month,5,buy,83.0,216.0
+217,217,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,217.0
+218,218,-0.0,M,-2147483648,2013-09-25,UBS,12 month,5,buy,96.0,218.0
+219,219,-0.0,M,-2147483648,2013-08-19,J.P. Morgan,12 month,5,overweight,85.0,219.0
+220,220,-0.0,M,-2147483648,2013-08-14,CRT Capital Group,Not Provided,5,buy,83.0,220.0
+221,221,-0.0,M,-2147483648,2013-08-14,Guggenheim Securities,12 month,5,buy,87.0,221.0
+222,222,-0.0,M,-2147483648,2013-08-14,Barclays,Not Provided,5,overweight,82.0,222.0
+223,223,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,223.0
+224,224,-0.0,M,-2147483648,2013-10-22,Barclays,Not Provided,5,overweight,92.0,224.0
+225,225,-0.0,M,-2147483648,2013-10-21,J.P. Morgan,12 month,5,overweight,98.0,225.0
+226,226,-0.0,M,-2147483648,2013-10-16,Guggenheim Securities,12 month,5,buy,87.0,226.0
+227,227,-0.0,M,-2147483648,2013-09-25,UBS,12 month,5,buy,96.0,227.0
+228,228,-0.0,M,-2147483648,2013-08-14,CRT Capital Group,Not Provided,5,buy,83.0,228.0
+229,229,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,229.0
+230,230,-0.0,M,-2147483648,2013-11-21,J.P. Morgan,12 month,5,overweight,96.0,230.0
+231,231,-0.0,M,-2147483648,2013-11-19,Guggenheim Securities,12 month,5,buy,90.0,231.0
+232,232,-0.0,M,-2147483648,2013-11-08,CRT Capital Group,Not Provided,5,buy,86.0,232.0
+233,233,-0.0,M,-2147483648,2013-11-08,Barclays,Not Provided,5,overweight,92.0,233.0
+234,234,-0.0,M,-2147483648,2013-09-25,UBS,12 month,5,buy,96.0,234.0
+235,235,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,235.0
+236,236,-0.0,M,-2147483648,2013-12-20,CRT Capital Group,Not Provided,5,buy,86.0,236.0
+237,237,-0.0,M,-2147483648,2013-12-17,Guggenheim Securities,12 month,5,buy,90.0,237.0
+238,238,-0.0,M,-2147483648,2013-11-21,J.P. Morgan,12 month,5,overweight,96.0,238.0
+239,239,-0.0,M,-2147483648,2013-11-08,Barclays,Not Provided,5,overweight,92.0,239.0
+240,240,-0.0,M,-2147483648,2013-09-25,UBS,12 month,5,buy,96.0,240.0
+241,241,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,241.0
+242,242,-0.0,M,-2147483648,2014-01-16,CRT Capital Group,Not Provided,5,buy,92.0,242.0
+243,243,-0.0,M,-2147483648,2014-01-16,Guggenheim Securities,12 month,5,buy,90.0,243.0
+244,244,-0.0,M,-2147483648,2014-01-15,UBS,12 month,5,buy,98.0,244.0
+245,245,-0.0,M,-2147483648,2014-01-13,J.P. Morgan,Not Provided,-2147483648,restricted,-0.0,245.0
+246,246,-0.0,M,-2147483648,2014-01-10,Barclays,Not Provided,5,overweight,92.0,246.0
+247,247,-0.0,N,-2147483648,2014-01-09,FBR Capital Markets,12 month,5,outperform,100.0,247.0
+248,248,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,248.0
+249,249,-0.0,M,-2147483648,2014-02-27,FBR Capital Markets,12 month,5,outperform,100.0,249.0
+250,250,-0.0,M,-2147483648,2014-02-27,Barclays,Not Provided,5,overweight,93.0,250.0
+251,251,-0.0,M,-2147483648,2014-02-26,J.P. Morgan,Not Provided,-2147483648,not rated,-0.0,251.0
+252,252,-0.0,M,-2147483648,2014-02-26,CRT Capital Group,12 month,5,buy,92.0,252.0
+253,253,-0.0,M,-2147483648,2014-02-25,Guggenheim Securities,12 month,5,buy,90.0,253.0
+254,254,-0.0,M,-2147483648,2014-01-15,UBS,12 month,5,buy,98.0,254.0
+255,255,-0.0,U,-2147483648,2013-03-02,EVA Dimensions,Not Provided,5,buy,-0.0,255.0
+256,256,-0.0,M,-2147483648,2014-04-01,EVA Dimensions,Not Provided,5,buy,-0.0,256.0
+257,257,-0.0,M,-2147483648,2014-03-19,Guggenheim Securities,12 month,5,buy,100.0,257.0
+258,258,-0.0,M,-2147483648,2014-02-27,FBR Capital Markets,12 month,5,outperform,100.0,258.0
+259,259,-0.0,M,-2147483648,2014-02-27,Barclays,Not Provided,5,overweight,93.0,259.0
+260,260,-0.0,M,-2147483648,2014-02-26,J.P. Morgan,Not Provided,-2147483648,not rated,-0.0,260.0
+261,261,-0.0,M,-2147483648,2014-02-26,CRT Capital Group,12 month,5,buy,92.0,261.0
+262,262,-0.0,M,-2147483648,2014-01-15,UBS,12 month,5,buy,98.0,262.0
+263,263,-0.0,M,-2147483648,2014-05-01,UBS,12 month,5,buy,107.0,263.0
+264,264,-0.0,M,-2147483648,2014-04-21,J.P. Morgan,Not Provided,-2147483648,restricted,-0.0,264.0
+265,265,-0.0,M,-2147483648,2014-04-10,Barclays,Not Provided,5,overweight,102.0,265.0
+266,266,-0.0,M,-2147483648,2014-04-10,EVA Dimensions,Not Provided,5,buy,-0.0,266.0
+267,267,-0.0,M,-2147483648,2014-02-27,FBR Capital Markets,12 month,5,outperform,100.0,267.0
+268,268,-0.0,M,-2147483648,2014-02-26,CRT Capital Group,12 month,5,buy,92.0,268.0
+269,269,-0.0,M,-2147483648,2014-05-16,Barclays,Not Provided,5,overweight,100.0,269.0
+270,270,-0.0,D,-2147483648,2014-05-13,EVA Dimensions,Not Provided,3,hold,-0.0,270.0
+271,271,-0.0,M,-2147483648,2014-05-09,J.P. Morgan,Not Provided,-2147483648,restricted,-0.0,271.0
+272,272,-0.0,M,-2147483648,2014-05-09,FBR Capital Markets,12 month,5,outperform,110.0,272.0
+273,273,-0.0,M,-2147483648,2014-05-01,UBS,12 month,5,buy,107.0,273.0
+274,274,-0.0,M,-2147483648,2014-07-01,Gabelli & Co,Not Provided,5,buy,-0.0,274.0
+275,275,-0.0,M,-2147483648,2014-06-30,Barclays,Not Provided,5,overweight,100.0,275.0
+276,276,-0.0,D,-2147483648,2014-05-13,EVA Dimensions,Not Provided,3,hold,-0.0,276.0
+277,277,-0.0,M,-2147483648,2014-05-09,J.P. Morgan,Not Provided,-2147483648,restricted,-0.0,277.0
+278,278,-0.0,M,-2147483648,2014-05-09,FBR Capital Markets,12 month,5,outperform,110.0,278.0
+279,279,-0.0,M,-2147483648,2014-05-01,UBS,12 month,5,buy,107.0,279.0
+280,280,-0.0,M,-2147483648,2014-08-01,UBS,12 month,5,buy,115.0,280.0
+281,281,-0.0,M,-2147483648,2014-07-22,J.P. Morgan,3 month,5,overweight,125.0,281.0
+282,282,-0.0,D,-2147483648,2014-07-14,Barclays,Not Provided,3,equalweight,100.0,282.0
+283,283,-0.0,M,-2147483648,2014-07-01,Gabelli & Co,Not Provided,5,buy,-0.0,283.0
+284,284,-0.0,D,-2147483648,2014-05-13,EVA Dimensions,Not Provided,3,hold,-0.0,284.0
+285,285,-0.0,M,-2147483648,2014-05-09,FBR Capital Markets,12 month,5,outperform,110.0,285.0
+286,286,-0.0,M,-2147483648,2014-08-07,UBS,12 month,5,buy,114.0,286.0
+287,287,-0.0,M,-2147483648,2014-08-07,J.P. Morgan,3 month,5,overweight,122.0,287.0
+288,288,-0.0,M,-2147483648,2014-08-07,FBR Capital Markets,12 month,5,outperform,110.0,288.0
+289,289,-0.0,M,-2147483648,2014-08-07,Gabelli & Co,Not Provided,5,buy,-0.0,289.0
+290,290,-0.0,M,-2147483648,2014-08-07,Barclays,Not Provided,3,equalweight,105.0,290.0
+291,291,-0.0,D,-2147483648,2014-08-04,EVA Dimensions,Not Provided,1,underweight,-0.0,291.0
+292,292,-0.0,M,-2147483648,2014-09-30,FBR Capital Markets,Not Provided,5,outperform,130.0,292.0
+293,293,-0.0,M,-2147483648,2014-09-22,J.P. Morgan,12 month,5,overweight,139.0,293.0
+294,294,-0.0,M,-2147483648,2014-09-10,Barclays,Not Provided,3,equalweight,105.0,294.0
+295,295,-0.0,M,-2147483648,2014-09-08,UBS,12 month,5,buy,117.0,295.0
+296,296,-0.0,M,-2147483648,2014-08-07,Gabelli & Co,Not Provided,5,buy,-0.0,296.0
+297,297,-0.0,D,-2147483648,2014-08-04,EVA Dimensions,Not Provided,1,underweight,-0.0,297.0
+298,298,-0.0,M,-2147483648,2014-10-28,FBR Capital Markets,Not Provided,5,outperform,130.0,298.0
+299,299,-0.0,M,-2147483648,2014-10-21,J.P. Morgan,12 month,5,overweight,129.0,299.0
+300,300,-0.0,M,-2147483648,2014-10-21,Susquehanna Financial,12 month,4,Positive,107.0,300.0
+301,301,-0.0,M,-2147483648,2014-10-14,Barclays,Not Provided,3,equalweight,105.0,301.0
+302,302,-0.0,U,-2147483648,2014-10-14,EVA Dimensions,Not Provided,3,hold,-0.0,302.0
+303,303,-0.0,M,-2147483648,2014-09-08,UBS,12 month,5,buy,117.0,303.0
+304,304,-0.0,M,-2147483648,2014-08-07,Gabelli & Co,Not Provided,5,buy,-0.0,304.0
+305,305,-0.0,M,-2147483648,2014-11-25,J.P. Morgan,18 month,5,overweight,114.0,305.0
+306,306,-0.0,M,-2147483648,2014-11-24,Barclays,Not Provided,3,equalweight,105.0,306.0
+307,307,-0.0,M,-2147483648,2014-11-18,FBR Capital Markets,Not Provided,5,outperform,130.0,307.0
+308,308,-0.0,D,-2147483648,2014-11-11,EVA Dimensions,Not Provided,1,sell,-0.0,308.0
+309,309,-0.0,M,-2147483648,2014-11-07,Gabelli & Co,Not Provided,5,buy,-0.0,309.0
+310,310,-0.0,M,-2147483648,2014-11-07,Susquehanna Financial,12 month,4,Positive,109.0,310.0
+311,311,-0.0,M,-2147483648,2014-09-08,UBS,12 month,5,buy,117.0,311.0
+312,312,-0.0,M,-2147483648,2014-12-18,J.P. Morgan,18 month,5,overweight,122.0,312.0
+313,313,-0.0,M,-2147483648,2014-12-18,Gabelli & Co,Not Provided,5,buy,-0.0,313.0
+314,314,-0.0,M,-2147483648,2014-12-18,Northcoast Research,12 month,5,buy,120.0,314.0
+315,315,-0.0,M,-2147483648,2014-12-17,Barclays,Not Provided,3,equalweight,105.0,315.0
+316,316,-0.0,M,-2147483648,2014-12-09,Susquehanna Financial,12 month,4,Positive,109.0,316.0
+317,317,-0.0,M,-2147483648,2014-12-02,FBR Capital Markets,Not Provided,5,outperform,130.0,317.0
+318,318,-0.0,D,-2147483648,2014-11-11,EVA Dimensions,Not Provided,1,sell,-0.0,318.0
+319,319,-0.0,M,-2147483648,2014-09-08,UBS,12 month,5,buy,117.0,319.0
+320,320,-0.0,M,-2147483648,2015-01-27,FBR Capital Markets,Not Provided,5,outperform,130.0,320.0
+321,321,-0.0,M,-2147483648,2015-01-26,J.P. Morgan,12 month,5,overweight,120.0,321.0
+322,322,-0.0,M,-2147483648,2015-01-16,Susquehanna Financial,12 month,4,Positive,113.0,322.0
+323,323,-0.0,M,-2147483648,2015-01-15,Barclays,Not Provided,3,equalweight,107.0,323.0
+324,324,-0.0,M,-2147483648,2015-01-12,Northcoast Research,12 month,5,buy,120.0,324.0
+325,325,-0.0,N,-2147483648,2015-01-06,Tigress Financial Partners,12 month,5,buy,125.0,325.0
+326,326,-0.0,M,-2147483648,2014-12-18,Gabelli & Co,Not Provided,5,buy,-0.0,326.0
+327,327,-0.0,D,-2147483648,2014-11-11,EVA Dimensions,Not Provided,1,sell,-0.0,327.0
+328,328,-0.0,M,-2147483648,2014-09-08,UBS,12 month,5,buy,117.0,328.0
+329,329,-0.0,M,-2147483648,2015-02-27,J.P. Morgan,12 month,5,overweight,124.0,329.0
+330,330,-0.0,M,-2147483648,2015-02-27,FBR Capital Markets,12 month,5,outperform,130.0,330.0
+331,331,-0.0,M,-2147483648,2015-02-27,Gabelli & Co,Not Provided,5,buy,-0.0,331.0
+332,332,-0.0,M,-2147483648,2015-02-27,Susquehanna Financial,12 month,4,Positive,123.0,332.0
+333,333,-0.0,M,-2147483648,2015-02-27,Barclays,Not Provided,3,equalweight,107.0,333.0
+334,334,-0.0,M,-2147483648,2015-02-23,Northcoast Research,12 month,5,buy,116.0,334.0
+335,335,-0.0,M,-2147483648,2015-02-10,EVA Dimensions,Not Provided,1,sell,-0.0,335.0
+336,336,-0.0,N,-2147483648,2015-01-06,Tigress Financial Partners,12 month,5,buy,125.0,336.0
+337,337,-0.0,M,-2147483648,2014-09-08,UBS,12 month,5,buy,117.0,337.0
+338,338,-0.0,M,-2147483648,2015-03-30,Susquehanna Financial,12 month,4,Positive,123.0,338.0
+339,339,-0.0,M,-2147483648,2015-03-24,FBR Capital Markets,Not Provided,5,outperform,130.0,339.0
+340,340,-0.0,M,-2147483648,2015-03-17,J.P. Morgan,9 month,5,overweight,122.0,340.0
+341,341,-0.0,M,-2147483648,2015-03-17,Northcoast Research,12 month,5,buy,116.0,341.0
+342,342,-0.0,M,-2147483648,2015-02-27,Gabelli & Co,Not Provided,5,buy,-0.0,342.0
+343,343,-0.0,M,-2147483648,2015-02-27,Barclays,Not Provided,3,equalweight,107.0,343.0
+344,344,-0.0,M,-2147483648,2015-02-10,EVA Dimensions,Not Provided,1,sell,-0.0,344.0
+345,345,-0.0,N,-2147483648,2015-01-06,Tigress Financial Partners,12 month,5,buy,125.0,345.0
+346,346,-0.0,M,-2147483648,2014-09-08,UBS,12 month,5,buy,117.0,346.0
+347,347,-0.0,M,-2147483648,2015-04-28,FBR Capital Markets,Not Provided,5,outperform,130.0,347.0
+348,348,-0.0,M,-2147483648,2015-04-22,Susquehanna Financial,12 month,4,Positive,122.0,348.0
+349,349,-0.0,M,-2147483648,2015-04-20,J.P. Morgan,12 month,5,overweight,122.0,349.0
+350,350,-0.0,M,-2147483648,2015-04-16,Barclays,Not Provided,5,overweight,121.0,350.0
+351,351,-0.0,M,-2147483648,2015-03-17,Northcoast Research,12 month,5,buy,116.0,351.0
+352,352,-0.0,M,-2147483648,2015-02-27,Gabelli & Co,Not Provided,5,buy,-0.0,352.0
+353,353,-0.0,M,-2147483648,2015-02-10,EVA Dimensions,Not Provided,1,sell,-0.0,353.0
+354,354,-0.0,N,-2147483648,2015-01-06,Tigress Financial Partners,12 month,5,buy,125.0,354.0
+355,355,-0.0,M,-2147483648,2014-09-08,UBS,12 month,5,buy,117.0,355.0
+356,356,-0.0,M,-2147483648,2015-05-26,FBR Capital Markets,Not Provided,5,outperform,130.0,356.0
+357,357,-0.0,M,-2147483648,2015-05-12,Susquehanna Financial,12 month,4,Positive,122.0,357.0
+358,358,-0.0,M,-2147483648,2015-05-08,J.P. Morgan,9 month,5,overweight,122.0,358.0
+359,359,-0.0,M,-2147483648,2015-05-08,Gabelli & Co,Not Provided,5,buy,-0.0,359.0
+360,360,-0.0,M,-2147483648,2015-05-08,Barclays,Not Provided,5,overweight,123.0,360.0
+361,361,-0.0,M,-2147483648,2015-05-08,Northcoast Research,12 month,5,buy,116.0,361.0
+362,362,-0.0,M,-2147483648,2015-05-08,EVA Dimensions,Not Provided,1,sell,-0.0,362.0
+363,363,-0.0,M,-2147483648,2015-05-07,UBS,12 month,5,buy,120.0,363.0
+364,364,-0.0,N,-2147483648,2015-01-06,Tigress Financial Partners,12 month,5,buy,125.0,364.0
+365,365,-0.0,M,-2147483648,2015-06-30,FBR Capital Markets,Not Provided,5,outperform,130.0,365.0
+366,366,-0.0,M,-2147483648,2015-06-29,Gabelli & Co,Not Provided,5,buy,-0.0,366.0
+367,367,-0.0,M,-2147483648,2015-06-16,Susquehanna Financial,12 month,4,Positive,122.0,367.0
+368,368,-0.0,M,-2147483648,2015-06-12,Tigress Financial Partners,12 month,5,buy,125.0,368.0
+369,369,-0.0,M,-2147483648,2015-06-10,J.P. Morgan,6 month,5,overweight,121.0,369.0
+370,370,-0.0,M,-2147483648,2015-06-10,Barclays,Not Provided,5,overweight,123.0,370.0
+371,371,-0.0,M,-2147483648,2015-05-08,Northcoast Research,12 month,5,buy,116.0,371.0
+372,372,-0.0,M,-2147483648,2015-05-08,EVA Dimensions,Not Provided,1,sell,-0.0,372.0
+373,373,-0.0,M,-2147483648,2015-05-07,UBS,12 month,5,buy,120.0,373.0
+374,374,-0.0,M,-2147483648,2015-07-28,FBR Capital Markets,Not Provided,5,outperform,130.0,374.0
+375,375,-0.0,M,-2147483648,2015-07-24,Northcoast Research,12 month,5,buy,116.0,375.0
+376,376,-0.0,M,-2147483648,2015-07-20,J.P. Morgan,6 month,5,overweight,119.0,376.0
+377,377,-0.0,M,-2147483648,2015-07-17,Susquehanna Financial,12 month,4,Positive,121.0,377.0
+378,378,-0.0,M,-2147483648,2015-07-16,Barclays,Not Provided,5,overweight,116.0,378.0
+379,379,-0.0,M,-2147483648,2015-06-29,Gabelli & Co,Not Provided,5,buy,-0.0,379.0
+380,380,-0.0,M,-2147483648,2015-06-12,Tigress Financial Partners,12 month,5,buy,125.0,380.0
+381,381,-0.0,M,-2147483648,2015-05-08,EVA Dimensions,Not Provided,1,sell,-0.0,381.0
+382,382,-0.0,M,-2147483648,2015-05-07,UBS,12 month,5,buy,120.0,382.0
+383,383,-0.0,M,-2147483648,2015-09-01,FBR Capital Markets,Not Provided,5,outperform,130.0,383.0
+384,384,-0.0,M,-2147483648,2015-08-28,Susquehanna Financial,12 month,4,Positive,122.0,384.0
+385,385,-0.0,M,-2147483648,2015-08-18,Northcoast Research,Not Provided,5,buy,116.0,385.0
+386,386,-0.0,M,-2147483648,2015-08-11,Tigress Financial Partners,12 month,5,buy,125.0,386.0
+387,387,-0.0,M,-2147483648,2015-08-06,J.P. Morgan,6 month,5,overweight,117.0,387.0
+388,388,-0.0,M,-2147483648,2015-08-06,Gabelli & Co,Not Provided,5,buy,-0.0,388.0
+389,389,-0.0,M,-2147483648,2015-08-06,Barclays,Not Provided,5,overweight,116.0,389.0
+390,390,-0.0,M,-2147483648,2015-05-08,EVA Dimensions,Not Provided,1,sell,-0.0,390.0
+391,391,-0.0,M,-2147483648,2015-05-07,UBS,12 month,5,buy,120.0,391.0
+392,392,-0.0,M,-2147483648,2015-10-01,Baird,Not Provided,5,outperform,123.0,392.0
+393,393,-0.0,M,-2147483648,2015-10-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0,393.0
+394,394,-0.0,M,-2147483648,2015-09-16,FBR Capital Markets,12 month,5,outperform,130.0,394.0
+395,395,-0.0,M,-2147483648,2015-09-03,Susquehanna Financial,12 month,4,Positive,122.0,395.0
+396,396,-0.0,M,-2147483648,2015-08-18,Northcoast Research,Not Provided,5,buy,116.0,396.0
+397,397,-0.0,M,-2147483648,2015-08-11,Tigress Financial Partners,12 month,5,buy,125.0,397.0
+398,398,-0.0,M,-2147483648,2015-08-06,J.P. Morgan,6 month,5,overweight,117.0,398.0
+399,399,-0.0,M,-2147483648,2015-08-06,Gabelli & Co,Not Provided,5,buy,-0.0,399.0
+400,400,-0.0,M,-2147483648,2015-08-06,Barclays,Not Provided,5,overweight,116.0,400.0
+401,401,-0.0,M,-2147483648,2015-05-08,EVA Dimensions,Not Provided,1,sell,-0.0,401.0
+402,402,-0.0,M,-2147483648,2015-05-07,UBS,12 month,5,buy,120.0,402.0
+403,403,-0.0,M,-2147483648,2015-10-23,Wells Fargo Securities,Not Provided,3,market perform,-0.0,403.0
+404,404,-0.0,M,-2147483648,2015-10-22,Baird,12 month,5,outperform,123.0,404.0
+405,405,-0.0,M,-2147483648,2015-10-20,J.P. Morgan,Not Provided,5,overweight,117.0,405.0
+406,406,-0.0,M,-2147483648,2015-10-20,Susquehanna Financial,12 month,4,Positive,125.0,406.0
+407,407,-0.0,M,-2147483648,2015-10-16,Barclays,Not Provided,5,overweight,116.0,407.0
+408,408,-0.0,M,-2147483648,2015-10-07,Northcoast Research,12 month,5,buy,120.0,408.0
+409,409,-0.0,M,-2147483648,2015-10-02,FBR Capital Markets,12 month,5,outperform,130.0,409.0
+410,410,-0.0,M,-2147483648,2015-08-11,Tigress Financial Partners,12 month,5,buy,125.0,410.0
+411,411,-0.0,M,-2147483648,2015-08-06,Gabelli & Co,Not Provided,5,buy,-0.0,411.0
+412,412,-0.0,M,-2147483648,2015-05-08,EVA Dimensions,Not Provided,1,sell,-0.0,412.0
+413,413,-0.0,M,-2147483648,2015-05-07,UBS,12 month,5,buy,120.0,413.0
+414,414,-0.0,M,-2147483648,2015-12-01,FBR Capital Markets,Not Provided,5,outperform,130.0,414.0
+415,415,-0.0,M,-2147483648,2015-11-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,415.0
+416,416,-0.0,M,-2147483648,2015-11-24,Baird,Not Provided,5,outperform,132.0,416.0
+417,417,-0.0,M,-2147483648,2015-11-19,J.P. Morgan,12 month,5,overweight,128.0,417.0
+418,418,-0.0,M,-2147483648,2015-11-17,Northcoast Research,12 month,5,buy,127.0,418.0
+419,419,-0.0,M,-2147483648,2015-11-10,Barclays,Not Provided,5,overweight,127.0,419.0
+420,420,-0.0,M,-2147483648,2015-11-10,EVA Dimensions,Not Provided,1,underweight,-0.0,420.0
+421,421,-0.0,M,-2147483648,2015-11-06,UBS,12 month,5,buy,130.0,421.0
+422,422,-0.0,M,-2147483648,2015-11-06,Gabelli & Co,Not Provided,5,buy,-0.0,422.0
+423,423,-0.0,M,-2147483648,2015-11-05,Susquehanna Financial,12 month,4,Positive,131.0,423.0
+424,424,-0.0,M,-2147483648,2015-08-11,Tigress Financial Partners,12 month,5,buy,125.0,424.0
+425,425,-0.0,M,-2147483648,2015-12-28,Baird,Not Provided,5,outperform,132.0,425.0
+426,426,-0.0,M,-2147483648,2015-12-23,Wells Fargo Securities,Not Provided,3,market perform,-0.0,426.0
+427,427,-0.0,M,-2147483648,2015-12-15,FBR Capital Markets,Not Provided,5,outperform,130.0,427.0
+428,428,-0.0,M,-2147483648,2015-12-14,Susquehanna Financial,12 month,4,Positive,131.0,428.0
+429,429,-0.0,M,-2147483648,2015-12-14,Northcoast Research,12 month,5,buy,127.0,429.0
+430,430,-0.0,M,-2147483648,2015-12-11,UBS,12 month,5,buy,140.0,430.0
+431,431,-0.0,M,-2147483648,2015-12-10,Barclays,Not Provided,5,overweight,127.0,431.0
+432,432,-0.0,M,-2147483648,2015-11-19,J.P. Morgan,12 month,5,overweight,128.0,432.0
+433,433,-0.0,M,-2147483648,2015-11-10,EVA Dimensions,Not Provided,1,underweight,-0.0,433.0
+434,434,-0.0,M,-2147483648,2015-11-06,Gabelli & Co,Not Provided,5,buy,-0.0,434.0
+435,435,-0.0,M,-2147483648,2015-08-11,Tigress Financial Partners,12 month,5,buy,125.0,435.0
+436,436,-0.0,M,-2147483648,2016-01-27,Baird,12 month,5,outperform,86.0,436.0
+437,437,-0.0,M,-2147483648,2016-01-25,J.P. Morgan,Not Provided,5,overweight,82.0,437.0
+438,438,-0.0,M,-2147483648,2016-01-25,Barclays,Not Provided,5,overweight,76.0,438.0
+439,439,-0.0,M,-2147483648,2016-01-25,Northcoast Research,12 month,5,buy,84.0,439.0
+440,440,-0.0,M,-2147483648,2016-01-22,Susquehanna Financial,12 month,4,Positive,75.0,440.0
+441,441,-0.0,M,-2147483648,2016-01-20,Wells Fargo Securities,Not Provided,3,market perform,-0.0,441.0
+442,442,-0.0,M,-2147483648,2016-01-19,FBR Capital Markets,Not Provided,5,outperform,130.0,442.0
+443,443,-0.0,M,-2147483648,2016-01-15,UBS,12 month,5,buy,141.0,443.0
+444,444,-0.0,M,-2147483648,2015-11-10,EVA Dimensions,Not Provided,1,underweight,-0.0,444.0
+445,445,-0.0,M,-2147483648,2015-11-06,Gabelli & Co,Not Provided,5,buy,-0.0,445.0
+446,446,-0.0,M,-2147483648,2015-08-11,Tigress Financial Partners,12 month,5,buy,125.0,446.0
+447,447,-0.0,M,-2147483648,2016-03-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0,447.0
+448,448,-0.0,M,-2147483648,2016-02-29,UBS,12 month,5,buy,99.0,448.0
+449,449,-0.0,M,-2147483648,2016-02-29,Baird,Not Provided,5,outperform,92.0,449.0
+450,450,-0.0,M,-2147483648,2016-02-26,J.P. Morgan,12 month,5,overweight,82.0,450.0
+451,451,-0.0,M,-2147483648,2016-02-26,FBR Capital Markets,12 month,5,outperform,87.0,451.0
+452,452,-0.0,M,-2147483648,2016-02-26,Gabelli & Co,Not Provided,5,buy,-0.0,452.0
+453,453,-0.0,M,-2147483648,2016-02-26,Susquehanna Financial,12 month,4,Positive,82.0,453.0
+454,454,-0.0,M,-2147483648,2016-02-26,Barclays,Not Provided,5,overweight,83.0,454.0
+455,455,-0.0,M,-2147483648,2016-02-26,Northcoast Research,12 month,5,buy,84.0,455.0
+456,456,-0.0,M,-2147483648,2015-11-10,EVA Dimensions,Not Provided,1,underweight,-0.0,456.0
+457,457,-0.0,M,-2147483648,2015-08-11,Tigress Financial Partners,12 month,5,buy,125.0,457.0
+458,458,-0.0,M,-2147483648,2016-03-29,Baird,Not Provided,5,outperform,92.0,458.0
+459,459,-0.0,M,-2147483648,2016-03-28,Wells Fargo Securities,Not Provided,3,market perform,-0.0,459.0
+460,460,-0.0,M,-2147483648,2016-03-24,FBR Capital Markets,Not Provided,5,outperform,87.0,460.0
+461,461,-0.0,M,-2147483648,2016-03-23,Northcoast Research,12 month,5,buy,84.0,461.0
+462,462,-0.0,M,-2147483648,2016-03-17,Susquehanna Financial,12 month,4,Positive,85.0,462.0
+463,463,-0.0,M,-2147483648,2016-02-29,UBS,12 month,5,buy,99.0,463.0
+464,464,-0.0,M,-2147483648,2016-02-26,J.P. Morgan,12 month,5,overweight,82.0,464.0
+465,465,-0.0,M,-2147483648,2016-02-26,Gabelli & Co,Not Provided,5,buy,-0.0,465.0
+466,466,-0.0,M,-2147483648,2016-02-26,Barclays,Not Provided,5,overweight,83.0,466.0
+467,467,-0.0,M,-2147483648,2015-11-10,EVA Dimensions,Not Provided,1,underweight,-0.0,467.0
+468,468,-0.0,M,-2147483648,2015-08-11,Tigress Financial Partners,12 month,5,buy,125.0,468.0
+469,469,-0.0,M,-2147483648,2016-04-29,J.P. Morgan,9 month,5,overweight,88.0,469.0
+470,470,-0.0,M,-2147483648,2016-04-29,Baird,12 month,5,outperform,104.0,470.0
+471,471,-0.0,M,-2147483648,2016-04-29,FBR Capital Markets,Not Provided,5,outperform,90.0,471.0
+472,472,-0.0,M,-2147483648,2016-04-29,Gabelli & Co,Not Provided,5,buy,-0.0,472.0
+473,473,-0.0,M,-2147483648,2016-04-29,Northcoast Research,12 month,5,buy,87.0,473.0
+474,474,-0.0,M,-2147483648,2016-04-28,Wells Fargo Securities,Not Provided,3,market perform,-0.0,474.0
+475,475,-0.0,M,-2147483648,2016-04-28,Barclays,Not Provided,5,overweight,83.0,475.0
+476,476,-0.0,M,-2147483648,2016-04-04,Susquehanna Financial,12 month,4,Positive,85.0,476.0
+477,477,-0.0,M,-2147483648,2016-02-29,UBS,12 month,5,buy,99.0,477.0
+478,478,-0.0,M,-2147483648,2015-11-10,EVA Dimensions,Not Provided,1,underweight,-0.0,478.0
+479,479,-0.0,M,-2147483648,2015-08-11,Tigress Financial Partners,12 month,5,buy,125.0,479.0
+480,480,-0.0,M,-2147483648,2016-06-01,Baird,Not Provided,5,outperform,104.0,480.0
+481,481,-0.0,M,-2147483648,2016-05-31,FBR Capital Markets,12 month,5,outperform,90.0,481.0
+482,482,-0.0,M,-2147483648,2016-05-25,Wells Fargo Securities,Not Provided,3,market perform,-0.0,482.0
+483,483,-0.0,M,-2147483648,2016-05-25,Northcoast Research,12 month,5,buy,87.0,483.0
+484,484,-0.0,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.0,484.0
+485,485,-0.0,M,-2147483648,2016-05-06,Susquehanna Financial,12 month,4,Positive,85.0,485.0
+486,486,-0.0,D,-2147483648,2016-05-03,Barclays,Not Provided,3,equalweight,85.0,486.0
+487,487,-0.0,M,-2147483648,2016-04-29,J.P. Morgan,9 month,5,overweight,88.0,487.0
+488,488,-0.0,M,-2147483648,2016-04-29,Gabelli & Co,Not Provided,5,buy,-0.0,488.0
+489,489,-0.0,M,-2147483648,2016-02-29,UBS,12 month,5,buy,99.0,489.0
+490,490,-0.0,M,-2147483648,2015-11-10,EVA Dimensions,Not Provided,1,underweight,-0.0,490.0
+491,491,-0.0,M,-2147483648,2016-06-29,Baird,12 month,5,outperform,104.0,491.0
+492,492,-0.0,M,-2147483648,2016-06-29,Northcoast Research,12 month,5,buy,87.0,492.0
+493,493,-0.0,M,-2147483648,2016-06-28,FBR Capital Markets,Not Provided,5,outperform,90.0,493.0
+494,494,-0.0,M,-2147483648,2016-06-23,Wells Fargo Securities,Not Provided,3,market perform,-0.0,494.0
+495,495,-0.0,N,-2147483648,2016-06-22,Raymond James,Not Provided,3,market perform,-0.0,495.0
+496,496,-0.0,M,-2147483648,2016-06-15,Susquehanna Financial,12 month,4,Positive,85.0,496.0
+497,497,-0.0,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.0,497.0
+498,498,-0.0,D,-2147483648,2016-05-03,Barclays,Not Provided,3,equalweight,85.0,498.0
+499,499,-0.0,M,-2147483648,2016-04-29,J.P. Morgan,9 month,5,overweight,88.0,499.0
+500,500,-0.0,M,-2147483648,2016-04-29,Gabelli & Co,Not Provided,5,buy,-0.0,500.0
+501,501,-0.0,M,-2147483648,2016-02-29,UBS,12 month,5,buy,99.0,501.0
+502,502,-0.0,M,-2147483648,2015-11-10,EVA Dimensions,Not Provided,1,underweight,-0.0,502.0
+503,503,-0.0,M,-2147483648,2016-08-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0,503.0
+504,504,-0.0,M,-2147483648,2016-07-29,J.P. Morgan,6 month,5,overweight,85.0,504.0
+505,505,-0.0,M,-2147483648,2016-07-29,Baird,Not Provided,5,outperform,105.0,505.0
+506,506,-0.0,M,-2147483648,2016-07-29,Raymond James,Not Provided,3,market perform,-0.0,506.0
+507,507,-0.0,M,-2147483648,2016-07-29,FBR Capital Markets,12 month,5,outperform,90.0,507.0
+508,508,-0.0,M,-2147483648,2016-07-29,Gabelli & Co,Not Provided,5,buy,-0.0,508.0
+509,509,-0.0,M,-2147483648,2016-07-29,Susquehanna Financial,12 month,4,Positive,89.0,509.0
+510,510,-0.0,M,-2147483648,2016-07-28,Barclays,Not Provided,3,equalweight,81.0,510.0
+511,511,-0.0,M,-2147483648,2016-07-11,UBS,12 month,5,buy,91.0,511.0
+512,512,-0.0,M,-2147483648,2016-07-11,Northcoast Research,12 month,5,buy,87.0,512.0
+513,513,-0.0,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.0,513.0
+514,514,-0.0,M,-2147483648,2015-11-10,EVA Dimensions,Not Provided,1,underweight,-0.0,514.0
+515,515,-0.0,M,-2147483648,2016-09-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0,515.0
+516,516,-0.0,M,-2147483648,2016-08-30,FBR Capital Markets,Not Provided,5,outperform,90.0,516.0
+517,517,-0.0,M,-2147483648,2016-08-29,Baird,Not Provided,5,outperform,105.0,517.0
+518,518,-0.0,M,-2147483648,2016-08-22,J.P. Morgan,Not Provided,5,overweight,85.0,518.0
+519,519,-0.0,M,-2147483648,2016-08-04,Northcoast Research,12 month,5,buy,87.0,519.0
+520,520,-0.0,M,-2147483648,2016-08-03,Susquehanna Financial,12 month,4,Positive,89.0,520.0
+521,521,-0.0,U,-2147483648,2016-08-02,EVA Dimensions,Not Provided,5,overweight,-0.0,521.0
+522,522,-0.0,M,-2147483648,2016-07-29,Raymond James,Not Provided,3,market perform,-0.0,522.0
+523,523,-0.0,M,-2147483648,2016-07-29,Gabelli & Co,Not Provided,5,buy,-0.0,523.0
+524,524,-0.0,M,-2147483648,2016-07-28,Barclays,Not Provided,3,equalweight,81.0,524.0
+525,525,-0.0,M,-2147483648,2016-07-11,UBS,12 month,5,buy,91.0,525.0
+526,526,-0.0,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.0,526.0
+527,527,-0.0,M,-2147483648,2016-09-27,Susquehanna Financial,12 month,4,Positive,89.0,527.0
+528,528,-0.0,M,-2147483648,2016-09-25,Wells Fargo Securities,Not Provided,3,market perform,-0.0,528.0
+529,529,-0.0,M,-2147483648,2016-09-23,Baird,12 month,5,outperform,105.0,529.0
+530,530,-0.0,M,-2147483648,2016-09-20,FBR Capital Markets,Not Provided,5,outperform,90.0,530.0
+531,531,-0.0,D,-2147483648,2016-09-14,EVA Dimensions,Not Provided,3,hold,-0.0,531.0
+532,532,-0.0,M,-2147483648,2016-09-09,Northcoast Research,12 month,5,buy,87.0,532.0
+533,533,-0.0,M,-2147483648,2016-09-08,Raymond James,Not Provided,3,market perform,-0.0,533.0
+534,534,-0.0,M,-2147483648,2016-09-08,Barclays,Not Provided,3,equalweight,81.0,534.0
+535,535,-0.0,M,-2147483648,2016-08-22,J.P. Morgan,Not Provided,5,overweight,85.0,535.0
+536,536,-0.0,M,-2147483648,2016-07-29,Gabelli & Co,Not Provided,5,buy,-0.0,536.0
+537,537,-0.0,M,-2147483648,2016-07-11,UBS,12 month,5,buy,91.0,537.0
+538,538,-0.0,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.0,538.0
+539,539,-0.0,M,-2147483648,2016-11-01,FBR Capital Markets,Not Provided,5,outperform,90.0,539.0
+540,540,-0.0,M,-2147483648,2016-11-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0,540.0
+541,541,-0.0,M,-2147483648,2016-10-31,Northcoast Research,12 month,5,buy,87.0,541.0
+542,542,-0.0,M,-2147483648,2016-10-28,J.P. Morgan,18 month,5,overweight,87.0,542.0
+543,543,-0.0,M,-2147483648,2016-10-28,Baird,12 month,5,outperform,86.0,543.0
+544,544,-0.0,M,-2147483648,2016-10-28,Gabelli & Co,Not Provided,5,buy,-0.0,544.0
+545,545,-0.0,M,-2147483648,2016-10-28,Susquehanna Financial,12 month,4,Positive,88.0,545.0
+546,546,-0.0,M,-2147483648,2016-10-28,Barclays,Not Provided,3,equalweight,80.0,546.0
+547,547,-0.0,M,-2147483648,2016-10-27,Raymond James,Not Provided,3,market perform,-0.0,547.0
+548,548,-0.0,D,-2147483648,2016-09-14,EVA Dimensions,Not Provided,3,hold,-0.0,548.0
+549,549,-0.0,M,-2147483648,2016-07-11,UBS,12 month,5,buy,91.0,549.0
+550,550,-0.0,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.0,550.0
+551,551,-0.0,M,-2147483648,2016-12-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0,551.0
+552,552,-0.0,M,-2147483648,2016-11-29,FBR Capital Markets,Not Provided,5,outperform,90.0,552.0
+553,553,-0.0,M,-2147483648,2016-11-28,Northcoast Research,12 month,5,buy,87.0,553.0
+554,554,-0.0,M,-2147483648,2016-11-22,Baird,12 month,5,outperform,86.0,554.0
+555,555,-0.0,M,-2147483648,2016-11-21,J.P. Morgan,18 month,5,overweight,87.0,555.0
+556,556,-0.0,M,-2147483648,2016-11-17,Susquehanna Financial,12 month,4,Positive,88.0,556.0
+557,557,-0.0,M,-2147483648,2016-10-28,Gabelli & Co,Not Provided,5,buy,-0.0,557.0
+558,558,-0.0,M,-2147483648,2016-10-28,Barclays,Not Provided,3,equalweight,80.0,558.0
+559,559,-0.0,M,-2147483648,2016-10-27,Raymond James,Not Provided,3,market perform,-0.0,559.0
+560,560,-0.0,D,-2147483648,2016-09-14,EVA Dimensions,Not Provided,3,hold,-0.0,560.0
+561,561,-0.0,M,-2147483648,2016-07-11,UBS,12 month,5,buy,91.0,561.0
+562,562,-0.0,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.0,562.0
+563,563,-0.0,M,-2147483648,2016-12-21,Baird,12 month,5,outperform,86.0,563.0
+564,564,-0.0,M,-2147483648,2016-12-21,Wells Fargo Securities,Not Provided,3,market perform,-0.0,564.0
+565,565,-0.0,N,-2147483648,2016-12-20,BMO Capital Markets,Not Provided,3,market perform,85.0,565.0
+566,566,-0.0,M,-2147483648,2016-12-20,UBS,12 month,5,buy,95.0,566.0
+567,567,-0.0,M,-2147483648,2016-12-20,FBR Capital Markets,Not Provided,5,outperform,90.0,567.0
+568,568,-0.0,U,-2147483648,2016-12-17,EVA Dimensions,Not Provided,5,overweight,-0.0,568.0
+569,569,-0.0,M,-2147483648,2016-12-16,Barclays,Not Provided,3,equalweight,83.0,569.0
+570,570,-0.0,M,-2147483648,2016-12-02,Susquehanna Financial,12 month,4,Positive,88.0,570.0
+571,571,-0.0,M,-2147483648,2016-11-28,Northcoast Research,12 month,5,buy,87.0,571.0
+572,572,-0.0,M,-2147483648,2016-11-21,J.P. Morgan,18 month,5,overweight,87.0,572.0
+573,573,-0.0,M,-2147483648,2016-10-28,Gabelli & Co,Not Provided,5,buy,-0.0,573.0
+574,574,-0.0,M,-2147483648,2016-10-27,Raymond James,Not Provided,3,market perform,-0.0,574.0
+575,575,-0.0,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.0,575.0
+576,576,-0.0,M,-2147483648,2017-02-01,Northcoast Research,Not Provided,5,buy,102.0,576.0
+577,577,-0.0,M,-2147483648,2017-01-25,Baird,12 month,5,outperform,105.0,577.0
+578,578,-0.0,M,-2147483648,2017-01-25,Susquehanna Financial,12 month,4,Positive,106.0,578.0
+579,579,-0.0,M,-2147483648,2017-01-24,UBS,12 month,5,buy,101.0,579.0
+580,580,-0.0,M,-2147483648,2017-01-24,Wells Fargo Securities,Not Provided,3,market perform,-0.0,580.0
+581,581,-0.0,M,-2147483648,2017-01-19,J.P. Morgan,12 month,5,overweight,99.0,581.0
+582,582,-0.0,M,-2147483648,2017-01-18,FBR Capital Markets,Not Provided,5,outperform,100.0,582.0
+583,583,-0.0,M,-2147483648,2017-01-17,BMO Capital Markets,Not Provided,3,market perform,95.0,583.0
+584,584,-0.0,M,-2147483648,2017-01-12,Barclays,Not Provided,3,equalweight,86.0,584.0
+585,585,-0.0,D,-2147483648,2017-01-12,EVA Dimensions,Not Provided,1,underweight,-0.0,585.0
+586,586,-0.0,U,-2147483648,2017-01-11,Raymond James,12 month,5,outperform,105.0,586.0
+587,587,-0.0,M,-2147483648,2016-10-28,Gabelli & Co,Not Provided,5,buy,-0.0,587.0
+588,588,-0.0,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.0,588.0
+589,589,-0.0,M,-2147483648,2017-03-01,Baird,12 month,5,outperform,107.0,589.0
+590,590,-0.0,M,-2147483648,2017-03-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0,590.0
+591,591,-0.0,N,-2147483648,2017-02-28,Cross Research,12 month,3,hold,100.0,591.0
+592,592,-0.0,M,-2147483648,2017-02-27,Susquehanna Financial,12 month,4,Positive,112.0,592.0
+593,593,-0.0,M,-2147483648,2017-02-24,BMO Capital Markets,Not Provided,3,market perform,95.0,593.0
+594,594,-0.0,M,-2147483648,2017-02-24,J.P. Morgan,12 month,5,overweight,100.0,594.0
+595,595,-0.0,M,-2147483648,2017-02-24,FBR Capital Markets,12 month,5,outperform,110.0,595.0
+596,596,-0.0,M,-2147483648,2017-02-24,Gabelli & Co,Not Provided,5,buy,-0.0,596.0
+597,597,-0.0,M,-2147483648,2017-02-24,Barclays,Not Provided,3,equalweight,86.0,597.0
+598,598,-0.0,M,-2147483648,2017-02-24,Northcoast Research,12 month,5,buy,110.0,598.0
+599,599,-0.0,M,-2147483648,2017-02-23,Raymond James,12 month,5,outperform,105.0,599.0
+600,600,-0.0,M,-2147483648,2017-01-24,UBS,12 month,5,buy,101.0,600.0
+601,601,-0.0,D,-2147483648,2017-01-12,EVA Dimensions,Not Provided,1,underweight,-0.0,601.0
+602,602,-0.0,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.0,602.0
+603,603,-0.0,M,-2147483648,2017-03-28,Northcoast Research,12 month,5,buy,110.0,603.0
+604,604,-0.0,M,-2147483648,2017-03-24,Baird,Not Provided,5,outperform,107.0,604.0
+605,605,-0.0,M,-2147483648,2017-03-24,Wells Fargo Securities,Not Provided,3,market perform,-0.0,605.0
+606,606,-0.0,M,-2147483648,2017-03-20,Susquehanna Financial,12 month,4,Positive,112.0,606.0
+607,607,-0.0,M,-2147483648,2017-03-16,Cross Research,12 month,3,hold,100.0,607.0
+608,608,-0.0,M,-2147483648,2017-03-09,UBS,12 month,5,buy,108.0,608.0
+609,609,-0.0,M,-2147483648,2017-03-08,FBR Capital Markets,12 month,5,outperform,110.0,609.0
+610,610,-0.0,M,-2147483648,2017-02-24,BMO Capital Markets,Not Provided,3,market perform,95.0,610.0
+611,611,-0.0,M,-2147483648,2017-02-24,J.P. Morgan,12 month,5,overweight,100.0,611.0
+612,612,-0.0,M,-2147483648,2017-02-24,Gabelli & Co,Not Provided,5,buy,-0.0,612.0
+613,613,-0.0,M,-2147483648,2017-02-24,Barclays,Not Provided,3,equalweight,86.0,613.0
+614,614,-0.0,M,-2147483648,2017-02-23,Raymond James,12 month,5,outperform,105.0,614.0
+615,615,-0.0,D,-2147483648,2017-01-12,EVA Dimensions,Not Provided,1,underweight,-0.0,615.0
+616,616,-0.0,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.0,616.0
+617,617,21.94,M,1,2017-04-27,Baird,12 month,5,outperform,108.0,617.0
+618,618,21.94,M,1,2017-04-27,FBR Capital Markets,12 month,5,outperform,110.0,618.0
+619,619,0.0,M,5,2017-04-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,619.0
+620,620,-0.0,M,-2147483648,2017-04-27,Cross Research,Not Provided,3,hold,-0.0,620.0
+621,621,-4.99,M,6,2017-04-27,Barclays,Not Provided,3,equalweight,86.0,621.0
+622,622,-0.0,N,-2147483648,2017-04-24,Morgan Stanley,12 month,3,Equalwt/Cautious,103.0,622.0
+623,623,21.94,M,1,2017-04-21,J.P. Morgan,9 month,5,overweight,101.0,623.0
+624,624,21.94,M,1,2017-04-21,Susquehanna Financial,12 month,4,Positive,112.0,624.0
+625,625,-0.0,M,-2147483648,2017-04-19,BMO Capital Markets,Not Provided,3,market perform,95.0,625.0
+626,626,12.58,D,3,2017-04-18,EVA Dimensions,Not Provided,1,underweight,-0.0,626.0
+627,627,21.94,M,1,2017-04-17,UBS,12 month,5,buy,108.0,627.0
+628,628,21.94,M,1,2017-04-13,Northcoast Research,12 month,5,buy,110.0,628.0
+629,629,-0.0,N,-2147483648,2017-04-03,Goldman Sachs,6 month,5,Buy/Cautious,104.0,629.0
+630,630,21.94,M,1,2017-02-24,Gabelli & Co,Not Provided,5,buy,-0.0,630.0
+631,631,10.58,M,4,2017-02-23,Raymond James,12 month,5,outperform,105.0,631.0
+632,632,21.94,M,1,2017-04-27,Baird,12 month,5,outperform,108.0,632.0
+633,633,21.94,M,1,2017-04-27,FBR Capital Markets,12 month,5,outperform,110.0,633.0
+634,634,0.0,M,5,2017-04-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,634.0
+635,635,-0.0,M,-2147483648,2017-04-27,Cross Research,Not Provided,3,hold,-0.0,635.0
+636,636,-4.99,M,6,2017-04-27,Barclays,Not Provided,3,equalweight,86.0,636.0
+637,637,-0.0,N,-2147483648,2017-04-24,Morgan Stanley,12 month,3,Equalwt/Cautious,103.0,637.0
+638,638,21.94,M,1,2017-04-21,J.P. Morgan,9 month,5,overweight,101.0,638.0
+639,639,21.94,M,1,2017-04-21,Susquehanna Financial,12 month,4,Positive,112.0,639.0
+640,640,-0.0,M,-2147483648,2017-04-19,BMO Capital Markets,Not Provided,3,market perform,95.0,640.0
+641,641,12.58,D,3,2017-04-18,EVA Dimensions,Not Provided,1,underweight,-0.0,641.0
+642,642,21.94,M,1,2017-04-17,UBS,12 month,5,buy,108.0,642.0
+643,643,21.94,M,1,2017-04-13,Northcoast Research,12 month,5,buy,110.0,643.0
+644,644,-0.0,N,-2147483648,2017-04-03,Goldman Sachs,6 month,5,Buy/Cautious,104.0,644.0
+645,645,21.94,M,1,2017-02-24,Gabelli & Co,Not Provided,5,buy,-0.0,645.0
+646,646,10.58,M,4,2017-02-23,Raymond James,12 month,5,outperform,105.0,646.0
+647,647,21.94,M,1,2017-04-27,Baird,12 month,5,outperform,108.0,647.0
+648,648,21.94,M,1,2017-04-27,FBR Capital Markets,12 month,5,outperform,110.0,648.0
+649,649,0.0,M,5,2017-04-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,649.0
+650,650,-0.0,M,-2147483648,2017-04-27,Cross Research,Not Provided,3,hold,-0.0,650.0
+651,651,-4.99,M,6,2017-04-27,Barclays,Not Provided,3,equalweight,86.0,651.0
+652,652,-0.0,N,-2147483648,2017-04-24,Morgan Stanley,12 month,3,Equalwt/Cautious,103.0,652.0
+653,653,21.94,M,1,2017-04-21,J.P. Morgan,9 month,5,overweight,101.0,653.0
+654,654,21.94,M,1,2017-04-21,Susquehanna Financial,12 month,4,Positive,112.0,654.0
+655,655,-0.0,M,-2147483648,2017-04-19,BMO Capital Markets,Not Provided,3,market perform,95.0,655.0
+656,656,12.58,D,3,2017-04-18,EVA Dimensions,Not Provided,1,underweight,-0.0,656.0
+657,657,21.94,M,1,2017-04-17,UBS,12 month,5,buy,108.0,657.0
+658,658,21.94,M,1,2017-04-13,Northcoast Research,12 month,5,buy,110.0,658.0
+659,659,-0.0,N,-2147483648,2017-04-03,Goldman Sachs,6 month,5,Buy/Cautious,104.0,659.0
+660,660,21.94,M,1,2017-02-24,Gabelli & Co,Not Provided,5,buy,-0.0,660.0
+661,661,10.58,M,4,2017-02-23,Raymond James,12 month,5,outperform,105.0,661.0
+662,662,21.94,M,1,2017-04-27,Baird,12 month,5,outperform,108.0,662.0
+663,663,21.94,M,1,2017-04-27,FBR Capital Markets,12 month,5,outperform,110.0,663.0
+664,664,0.0,M,5,2017-04-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,664.0
+665,665,-0.0,M,-2147483648,2017-04-27,Cross Research,Not Provided,3,hold,-0.0,665.0
+666,666,-4.99,M,6,2017-04-27,Barclays,Not Provided,3,equalweight,86.0,666.0
+667,667,-0.0,N,-2147483648,2017-04-24,Morgan Stanley,12 month,3,Equalwt/Cautious,103.0,667.0
+668,668,21.94,M,1,2017-04-21,J.P. Morgan,9 month,5,overweight,101.0,668.0
+669,669,21.94,M,1,2017-04-21,Susquehanna Financial,12 month,4,Positive,112.0,669.0
+670,670,-0.0,M,-2147483648,2017-04-19,BMO Capital Markets,Not Provided,3,market perform,95.0,670.0
+671,671,12.58,D,3,2017-04-18,EVA Dimensions,Not Provided,1,underweight,-0.0,671.0
+672,672,21.94,M,1,2017-04-17,UBS,12 month,5,buy,108.0,672.0
+673,673,21.94,M,1,2017-04-13,Northcoast Research,12 month,5,buy,110.0,673.0
+674,674,-0.0,N,-2147483648,2017-04-03,Goldman Sachs,6 month,5,Buy/Cautious,104.0,674.0
+675,675,21.94,M,1,2017-02-24,Gabelli & Co,Not Provided,5,buy,-0.0,675.0
+676,676,10.58,M,4,2017-02-23,Raymond James,12 month,5,outperform,105.0,676.0
+677,677,21.94,M,1,2017-04-27,Baird,12 month,5,outperform,108.0,677.0
+678,678,21.94,M,1,2017-04-27,FBR Capital Markets,12 month,5,outperform,110.0,678.0
+679,679,0.0,M,5,2017-04-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,679.0
+680,680,-0.0,M,-2147483648,2017-04-27,Cross Research,Not Provided,3,hold,-0.0,680.0
+681,681,-4.99,M,6,2017-04-27,Barclays,Not Provided,3,equalweight,86.0,681.0
+682,682,-0.0,N,-2147483648,2017-04-24,Morgan Stanley,12 month,3,Equalwt/Cautious,103.0,682.0
+683,683,21.94,M,1,2017-04-21,J.P. Morgan,9 month,5,overweight,101.0,683.0
+684,684,21.94,M,1,2017-04-21,Susquehanna Financial,12 month,4,Positive,112.0,684.0
+685,685,-0.0,M,-2147483648,2017-04-19,BMO Capital Markets,Not Provided,3,market perform,95.0,685.0
+686,686,12.58,D,3,2017-04-18,EVA Dimensions,Not Provided,1,underweight,-0.0,686.0
+687,687,21.94,M,1,2017-04-17,UBS,12 month,5,buy,108.0,687.0
+688,688,21.94,M,1,2017-04-13,Northcoast Research,12 month,5,buy,110.0,688.0
+689,689,-0.0,N,-2147483648,2017-04-03,Goldman Sachs,6 month,5,Buy/Cautious,104.0,689.0
+690,690,21.94,M,1,2017-02-24,Gabelli & Co,Not Provided,5,buy,-0.0,690.0
+691,691,10.58,M,4,2017-02-23,Raymond James,12 month,5,outperform,105.0,691.0
+692,692,21.94,M,1,2017-04-27,Baird,12 month,5,outperform,108.0,692.0
+693,693,21.94,M,1,2017-04-27,FBR Capital Markets,12 month,5,outperform,110.0,693.0
+694,694,0.0,M,5,2017-04-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,694.0
+695,695,-0.0,M,-2147483648,2017-04-27,Cross Research,Not Provided,3,hold,-0.0,695.0
+696,696,-4.99,M,6,2017-04-27,Barclays,Not Provided,3,equalweight,86.0,696.0
+697,697,-0.0,N,-2147483648,2017-04-24,Morgan Stanley,12 month,3,Equalwt/Cautious,103.0,697.0
+698,698,21.94,M,1,2017-04-21,J.P. Morgan,9 month,5,overweight,101.0,698.0
+699,699,21.94,M,1,2017-04-21,Susquehanna Financial,12 month,4,Positive,112.0,699.0
+700,700,-0.0,M,-2147483648,2017-04-19,BMO Capital Markets,Not Provided,3,market perform,95.0,700.0
+701,701,12.58,D,3,2017-04-18,EVA Dimensions,Not Provided,1,underweight,-0.0,701.0
+702,702,21.94,M,1,2017-04-17,UBS,12 month,5,buy,108.0,702.0
+703,703,21.94,M,1,2017-04-13,Northcoast Research,12 month,5,buy,110.0,703.0
+704,704,-0.0,N,-2147483648,2017-04-03,Goldman Sachs,6 month,5,Buy/Cautious,104.0,704.0
+705,705,21.94,M,1,2017-02-24,Gabelli & Co,Not Provided,5,buy,-0.0,705.0
+706,706,10.58,M,4,2017-02-23,Raymond James,12 month,5,outperform,105.0,706.0
+707,707,21.94,M,1,2017-04-27,Baird,12 month,5,outperform,108.0,707.0
+708,708,21.94,M,1,2017-04-27,FBR Capital Markets,12 month,5,outperform,110.0,708.0
+709,709,0.0,M,5,2017-04-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,709.0
+710,710,-0.0,M,-2147483648,2017-04-27,Cross Research,Not Provided,3,hold,-0.0,710.0
+711,711,-4.99,M,6,2017-04-27,Barclays,Not Provided,3,equalweight,86.0,711.0
+712,712,-0.0,N,-2147483648,2017-04-24,Morgan Stanley,12 month,3,Equalwt/Cautious,103.0,712.0
+713,713,21.94,M,1,2017-04-21,J.P. Morgan,9 month,5,overweight,101.0,713.0
+714,714,21.94,M,1,2017-04-21,Susquehanna Financial,12 month,4,Positive,112.0,714.0
+715,715,-0.0,M,-2147483648,2017-04-19,BMO Capital Markets,Not Provided,3,market perform,95.0,715.0
+716,716,12.58,D,3,2017-04-18,EVA Dimensions,Not Provided,1,underweight,-0.0,716.0
+717,717,21.94,M,1,2017-04-17,UBS,12 month,5,buy,108.0,717.0
+718,718,21.94,M,1,2017-04-13,Northcoast Research,12 month,5,buy,110.0,718.0
+719,719,-0.0,N,-2147483648,2017-04-03,Goldman Sachs,6 month,5,Buy/Cautious,104.0,719.0
+720,720,21.94,M,1,2017-02-24,Gabelli & Co,Not Provided,5,buy,-0.0,720.0
+721,721,10.58,M,4,2017-02-23,Raymond James,12 month,5,outperform,105.0,721.0
+722,722,21.94,M,1,2017-04-27,Baird,12 month,5,outperform,108.0,722.0
+723,723,21.94,M,1,2017-04-27,FBR Capital Markets,12 month,5,outperform,110.0,723.0
+724,724,0.0,M,5,2017-04-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,724.0
+725,725,-0.0,M,-2147483648,2017-04-27,Cross Research,Not Provided,3,hold,-0.0,725.0
+726,726,-4.99,M,6,2017-04-27,Barclays,Not Provided,3,equalweight,86.0,726.0
+727,727,-0.0,N,-2147483648,2017-04-24,Morgan Stanley,12 month,3,Equalwt/Cautious,103.0,727.0
+728,728,21.94,M,1,2017-04-21,J.P. Morgan,9 month,5,overweight,101.0,728.0
+729,729,21.94,M,1,2017-04-21,Susquehanna Financial,12 month,4,Positive,112.0,729.0
+730,730,-0.0,M,-2147483648,2017-04-19,BMO Capital Markets,Not Provided,3,market perform,95.0,730.0
+731,731,12.58,D,3,2017-04-18,EVA Dimensions,Not Provided,1,underweight,-0.0,731.0
+732,732,21.94,M,1,2017-04-17,UBS,12 month,5,buy,108.0,732.0
+733,733,21.94,M,1,2017-04-13,Northcoast Research,12 month,5,buy,110.0,733.0
+734,734,-0.0,N,-2147483648,2017-04-03,Goldman Sachs,6 month,5,Buy/Cautious,104.0,734.0
+735,735,21.94,M,1,2017-02-24,Gabelli & Co,Not Provided,5,buy,-0.0,735.0
+736,736,10.58,M,4,2017-02-23,Raymond James,12 month,5,outperform,105.0,736.0
+737,737,-0.000000,M,-2147483648,2017-03-28,Northcoast Research,12 month,5,buy,110.000000,
+738,738,-0.000000,M,-2147483648,2017-03-24,Baird,Not Provided,5,outperform,107.000000,
+739,739,-0.000000,M,-2147483648,2017-03-24,Wells Fargo Securities,Not Provided,3,market perform,-0.000000,
+740,740,-0.000000,M,-2147483648,2017-03-20,Susquehanna Financial,12 month,4,Positive,112.000000,
+741,741,-0.000000,M,-2147483648,2017-03-16,Cross Research,12 month,3,hold,100.000000,
+742,742,-0.000000,M,-2147483648,2017-03-09,UBS,12 month,5,buy,108.000000,
+743,743,-0.000000,M,-2147483648,2017-03-08,FBR Capital Markets,12 month,5,outperform,110.000000,
+744,744,-0.000000,M,-2147483648,2017-02-24,BMO Capital Markets,Not Provided,3,market perform,95.000000,
+745,745,-0.000000,M,-2147483648,2017-02-24,J.P. Morgan,12 month,5,overweight,100.000000,
+746,746,-0.000000,M,-2147483648,2017-02-24,Gabelli & Co,Not Provided,5,buy,-0.000000,
+747,747,-0.000000,M,-2147483648,2017-02-24,Barclays,Not Provided,3,equalweight,86.000000,
+748,748,-0.000000,M,-2147483648,2017-02-23,Raymond James,12 month,5,outperform,105.000000,
+749,749,-0.000000,D,-2147483648,2017-01-12,EVA Dimensions,Not Provided,1,underweight,-0.000000,
+750,750,-0.000000,D,-2147483648,2016-05-18,Tigress Financial Partners,Not Provided,3,neutral,-0.000000,
+751,751,-0.000000,M,-2147483648,2017-05-01,BMO Capital Markets,Not Provided,3,market perform,104.000000,
+752,752,-0.000000,M,-2147483648,2017-04-28,Goldman Sachs,6 month,5,Buy/Cautious,109.000000,
+753,753,-0.000000,M,-2147483648,2017-04-28,J.P. Morgan,9 month,5,overweight,106.000000,
+754,754,-0.000000,M,-2147483648,2017-04-28,Baird,12 month,5,outperform,114.000000,
+755,755,-0.000000,M,-2147483648,2017-04-28,FBR Capital Markets,12 month,5,outperform,120.000000,
+756,756,-0.000000,M,-2147483648,2017-04-28,Gabelli & Co,Not Provided,5,buy,-0.000000,
+757,757,-0.000000,M,-2147483648,2017-04-28,Susquehanna Financial,12 month,4,Positive,112.000000,
+758,758,-0.000000,M,-2147483648,2017-04-28,Barclays,Not Provided,3,equalweight,89.000000,
+759,759,-0.000000,M,-2147483648,2017-04-28,Northcoast Research,12 month,5,buy,110.000000,
+760,760,-0.000000,M,-2147483648,2017-04-27,Raymond James,12 month,5,outperform,114.000000,
+761,761,-0.000000,M,-2147483648,2017-04-27,Wells Fargo Securities,Not Provided,3,market perform,-0.000000,
+762,762,-0.000000,M,-2147483648,2017-04-27,Cross Research,Not Provided,3,hold,-0.000000,
+763,763,-0.000000,N,-2147483648,2017-04-24,Morgan Stanley,12 month,3,Equalwt/Cautious,103.000000,
+764,764,-0.000000,D,-2147483648,2017-04-18,EVA Dimensions,Not Provided,1,underweight,-0.000000,
+765,765,-0.000000,M,-2147483648,2017-04-17,UBS,12 month,5,buy,108.000000,
+766,766,24.730000,M,1,2017-05-03,Susquehanna Financial,12 month,4,Positive,112.000000,
+767,767,24.730000,M,1,2017-05-02,Baird,12 month,5,outperform,114.000000,
+768,768,0.000000,M,5,2017-05-02,Wells Fargo Securities,Not Provided,3,market perform,-0.000000,
+769,769,-0.000000,M,-2147483648,2017-05-01,BMO Capital Markets,Not Provided,3,market perform,104.000000,
+770,770,-0.000000,M,-2147483648,2017-04-28,Goldman Sachs,6 month,5,Buy/Cautious,109.000000,
+771,771,24.730000,M,1,2017-04-28,J.P. Morgan,9 month,5,overweight,106.000000,
+772,772,24.730000,M,1,2017-04-28,FBR Capital Markets,12 month,5,outperform,120.000000,
+773,773,24.730000,M,1,2017-04-28,Gabelli & Co,Not Provided,5,buy,-0.000000,
+774,774,-4.680000,M,6,2017-04-28,Barclays,Not Provided,3,equalweight,89.000000,
+775,775,24.730000,M,1,2017-04-28,Northcoast Research,12 month,5,buy,110.000000,
+776,776,12.740000,M,3,2017-04-27,Raymond James,12 month,5,outperform,114.000000,
+777,777,-0.000000,M,-2147483648,2017-04-27,Cross Research,Not Provided,3,hold,-0.000000,
+778,778,-0.000000,N,-2147483648,2017-04-24,Morgan Stanley,12 month,3,Equalwt/Cautious,103.000000,
+779,779,10.260000,D,4,2017-04-18,EVA Dimensions,Not Provided,1,underweight,-0.000000,
+780,780,24.730000,M,1,2017-04-17,UBS,12 month,5,buy,108.000000,

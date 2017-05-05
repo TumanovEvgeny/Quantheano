@@ -1,0 +1,634 @@
+,index,1 Year Return,Action Code,BARR,Date,Firm Name,Period,Rating,Recommendation,Target Price,Unnamed: 0
+0,0,-0.0,M,-2147483648,2013-06-27,B Riley & Co,Not Provided,3,neutral,19.0,0.0
+1,1,-0.0,N,-2147483648,2013-06-19,Stifel,Not Provided,3,hold,-0.0,1.0
+2,2,-0.0,N,-2147483648,2013-08-01,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,2.0
+3,3,-0.0,M,-2147483648,2013-07-30,B Riley & Co,Not Provided,3,neutral,19.0,3.0
+4,4,-0.0,N,-2147483648,2013-07-23,J.P. Morgan,15 month,5,overweight,20.0,4.0
+5,5,-0.0,N,-2147483648,2013-07-23,Wells Fargo Securities,Not Provided,3,market perform,-0.0,5.0
+6,6,-0.0,N,-2147483648,2013-07-23,Piper Jaffray,12 month,5,overweight,21.0,6.0
+7,7,-0.0,N,-2147483648,2013-07-03,EVA Dimensions,Not Provided,3,hold,-0.0,7.0
+8,8,-0.0,N,-2147483648,2013-06-19,Stifel,Not Provided,3,hold,-0.0,8.0
+9,9,-0.0,M,-2147483648,2013-08-20,B Riley & Co,Not Provided,3,neutral,19.0,9.0
+10,10,-0.0,M,-2147483648,2013-08-08,Piper Jaffray,12 month,5,overweight,21.0,10.0
+11,11,-0.0,U,-2147483648,2013-08-02,EVA Dimensions,Not Provided,5,overweight,-0.0,11.0
+12,12,-0.0,N,-2147483648,2013-08-01,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,12.0
+13,13,-0.0,N,-2147483648,2013-07-23,J.P. Morgan,15 month,5,overweight,20.0,13.0
+14,14,-0.0,N,-2147483648,2013-07-23,Wells Fargo Securities,Not Provided,3,market perform,-0.0,14.0
+15,15,-0.0,N,-2147483648,2013-06-19,Stifel,Not Provided,3,hold,-0.0,15.0
+16,16,-0.0,M,-2147483648,2013-09-25,B Riley & Co,Not Provided,3,neutral,17.0,16.0
+17,17,-0.0,U,-2147483648,2013-09-23,EVA Dimensions,Not Provided,3,hold,-0.0,17.0
+18,18,-0.0,M,-2147483648,2013-09-18,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,18.0
+19,19,-0.0,M,-2147483648,2013-09-18,J.P. Morgan,12 month,5,overweight,20.0,19.0
+20,20,-0.0,M,-2147483648,2013-09-17,Stifel,Not Provided,3,hold,-0.0,20.0
+21,21,-0.0,M,-2147483648,2013-09-17,Wells Fargo Securities,Not Provided,3,market perform,-0.0,21.0
+22,22,-0.0,M,-2147483648,2013-09-17,Piper Jaffray,12 month,5,overweight,19.0,22.0
+23,23,-0.0,M,-2147483648,2013-10-21,B Riley & Co,Not Provided,3,neutral,17.0,23.0
+24,24,-0.0,N,-2147483648,2013-10-15,Barclays,Not Provided,3,equalweight,17.0,24.0
+25,25,-0.0,M,-2147483648,2013-10-09,Wells Fargo Securities,Not Provided,3,market perform,-0.0,25.0
+26,26,-0.0,U,-2147483648,2013-09-23,EVA Dimensions,Not Provided,3,hold,-0.0,26.0
+27,27,-0.0,M,-2147483648,2013-09-18,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,27.0
+28,28,-0.0,M,-2147483648,2013-09-18,J.P. Morgan,12 month,5,overweight,20.0,28.0
+29,29,-0.0,M,-2147483648,2013-09-17,Stifel,Not Provided,3,hold,-0.0,29.0
+30,30,-0.0,M,-2147483648,2013-09-17,Piper Jaffray,12 month,5,overweight,19.0,30.0
+31,31,-0.0,M,-2147483648,2013-11-25,B Riley & Co,Not Provided,3,neutral,17.0,31.0
+32,32,-0.0,U,-2147483648,2013-11-25,EVA Dimensions,Not Provided,5,overweight,-0.0,32.0
+33,33,-0.0,M,-2147483648,2013-11-19,Barclays,Not Provided,3,equalweight,16.0,33.0
+34,34,-0.0,N,-2147483648,2013-11-18,Credit Suisse,Not Provided,3,neutral,17.0,34.0
+35,35,-0.0,M,-2147483648,2013-11-08,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,35.0
+36,36,-0.0,M,-2147483648,2013-11-08,J.P. Morgan,12 month,5,overweight,18.0,36.0
+37,37,-0.0,M,-2147483648,2013-11-07,Stifel,Not Provided,3,hold,-0.0,37.0
+38,38,-0.0,M,-2147483648,2013-11-07,Wells Fargo Securities,Not Provided,3,market perform,-0.0,38.0
+39,39,-0.0,M,-2147483648,2013-11-07,Piper Jaffray,12 month,5,overweight,17.0,39.0
+40,40,-0.0,M,-2147483648,2013-12-26,B Riley & Co,Not Provided,3,neutral,16.0,40.0
+41,41,-0.0,U,-2147483648,2013-11-25,EVA Dimensions,Not Provided,5,overweight,-0.0,41.0
+42,42,-0.0,M,-2147483648,2013-11-19,Barclays,Not Provided,3,equalweight,16.0,42.0
+43,43,-0.0,N,-2147483648,2013-11-18,Credit Suisse,Not Provided,3,neutral,17.0,43.0
+44,44,-0.0,M,-2147483648,2013-11-08,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,44.0
+45,45,-0.0,M,-2147483648,2013-11-08,J.P. Morgan,12 month,5,overweight,18.0,45.0
+46,46,-0.0,M,-2147483648,2013-11-07,Stifel,Not Provided,3,hold,-0.0,46.0
+47,47,-0.0,M,-2147483648,2013-11-07,Wells Fargo Securities,Not Provided,3,market perform,-0.0,47.0
+48,48,-0.0,M,-2147483648,2013-11-07,Piper Jaffray,12 month,5,overweight,17.0,48.0
+49,49,-0.0,M,-2147483648,2014-01-31,RBC Capital Markets,12 month,3,sector perform,16.0,49.0
+50,50,-0.0,M,-2147483648,2014-01-28,B Riley & Co,Not Provided,3,neutral,16.0,50.0
+51,51,-0.0,M,-2147483648,2014-01-23,J.P. Morgan,9 month,5,overweight,16.0,51.0
+52,52,-0.0,U,-2147483648,2014-01-23,EVA Dimensions,Not Provided,5,overweight,-0.0,52.0
+53,53,-0.0,M,-2147483648,2014-01-20,Piper Jaffray,12 month,5,overweight,17.0,53.0
+54,54,-0.0,M,-2147483648,2014-01-16,Stifel,Not Provided,3,hold,-0.0,54.0
+55,55,-0.0,M,-2147483648,2014-01-07,Wells Fargo Securities,Not Provided,3,market perform,-0.0,55.0
+56,56,-0.0,M,-2147483648,2013-11-19,Barclays,Not Provided,3,equalweight,16.0,56.0
+57,57,-0.0,N,-2147483648,2013-11-18,Credit Suisse,Not Provided,3,neutral,17.0,57.0
+58,58,-0.0,M,-2147483648,2013-11-08,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,58.0
+59,59,-0.0,M,-2147483648,2014-02-25,B Riley & Co,Not Provided,3,neutral,16.0,59.0
+60,60,-0.0,U,-2147483648,2014-02-25,EVA Dimensions,Not Provided,3,hold,-0.0,60.0
+61,61,-0.0,M,-2147483648,2014-02-23,RBC Capital Markets,12 month,3,sector perform,16.0,61.0
+62,62,-0.0,M,-2147483648,2014-02-20,Wells Fargo Securities,Not Provided,5,outperform,-0.0,62.0
+63,63,-0.0,M,-2147483648,2014-02-18,J.P. Morgan,6 month,5,overweight,16.0,63.0
+64,64,-0.0,M,-2147483648,2014-02-17,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,64.0
+65,65,-0.0,M,-2147483648,2014-02-14,Credit Suisse,Not Provided,3,neutral,15.0,65.0
+66,66,-0.0,M,-2147483648,2014-02-14,Stifel,Not Provided,3,hold,-0.0,66.0
+67,67,-0.0,M,-2147483648,2014-02-14,Piper Jaffray,12 month,5,overweight,17.0,67.0
+68,68,-0.0,M,-2147483648,2014-02-14,Barclays,Not Provided,3,equalweight,14.0,68.0
+69,69,-0.0,M,-2147483648,2014-04-01,EVA Dimensions,Not Provided,3,hold,-0.0,69.0
+70,70,-0.0,M,-2147483648,2014-03-31,Wells Fargo Securities,Not Provided,5,outperform,-0.0,70.0
+71,71,-0.0,M,-2147483648,2014-03-21,B Riley & Co,Not Provided,3,neutral,16.0,71.0
+72,72,-0.0,M,-2147483648,2014-03-17,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,72.0
+73,73,-0.0,M,-2147483648,2014-03-11,Stifel,Not Provided,3,hold,-0.0,73.0
+74,74,-0.0,M,-2147483648,2014-03-07,RBC Capital Markets,12 month,3,sector perform,16.0,74.0
+75,75,-0.0,M,-2147483648,2014-02-18,J.P. Morgan,6 month,5,overweight,16.0,75.0
+76,76,-0.0,M,-2147483648,2014-02-14,Credit Suisse,Not Provided,3,neutral,15.0,76.0
+77,77,-0.0,M,-2147483648,2014-02-14,Piper Jaffray,12 month,5,overweight,17.0,77.0
+78,78,-0.0,M,-2147483648,2014-02-14,Barclays,Not Provided,3,equalweight,14.0,78.0
+79,79,-0.0,M,-2147483648,2014-04-29,B Riley & Co,Not Provided,3,neutral,16.0,79.0
+80,80,-0.0,M,-2147483648,2014-04-28,Stifel,Not Provided,3,hold,-0.0,80.0
+81,81,-0.0,M,-2147483648,2014-04-28,EVA Dimensions,Not Provided,1,underweight,-0.0,81.0
+82,82,-0.0,M,-2147483648,2014-04-14,RBC Capital Markets,12 month,3,sector perform,16.0,82.0
+83,83,-0.0,M,-2147483648,2014-03-31,Wells Fargo Securities,Not Provided,5,outperform,-0.0,83.0
+84,84,-0.0,M,-2147483648,2014-03-17,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,84.0
+85,85,-0.0,M,-2147483648,2014-02-18,J.P. Morgan,6 month,5,overweight,16.0,85.0
+86,86,-0.0,M,-2147483648,2014-02-14,Credit Suisse,Not Provided,3,neutral,15.0,86.0
+87,87,-0.0,M,-2147483648,2014-02-14,Piper Jaffray,12 month,5,overweight,17.0,87.0
+88,88,-0.0,M,-2147483648,2014-02-14,Barclays,Not Provided,3,equalweight,14.0,88.0
+89,89,-0.0,M,-2147483648,2014-05-19,RBC Capital Markets,12 month,3,sector perform,16.0,89.0
+90,90,-0.0,M,-2147483648,2014-05-19,Credit Suisse,Not Provided,3,neutral,17.0,90.0
+91,91,-0.0,M,-2147483648,2014-05-19,B Riley & Co,Not Provided,3,neutral,16.0,91.0
+92,92,-0.0,M,-2147483648,2014-05-15,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,92.0
+93,93,-0.0,M,-2147483648,2014-05-15,J.P. Morgan,6 month,5,overweight,17.0,93.0
+94,94,-0.0,M,-2147483648,2014-05-15,Wells Fargo Securities,Not Provided,5,outperform,-0.0,94.0
+95,95,-0.0,M,-2147483648,2014-05-15,Barclays,Not Provided,3,equalweight,14.0,95.0
+96,96,-0.0,M,-2147483648,2014-05-14,Stifel,Not Provided,3,hold,-0.0,96.0
+97,97,-0.0,M,-2147483648,2014-05-14,Piper Jaffray,12 month,5,overweight,17.0,97.0
+98,98,-0.0,M,-2147483648,2014-04-28,EVA Dimensions,Not Provided,1,underweight,-0.0,98.0
+99,99,-0.0,N,-2147483648,2014-06-30,BMO Capital Markets,Not Provided,5,outperform,19.0,99.0
+100,100,-0.0,M,-2147483648,2014-06-24,B Riley & Co,Not Provided,3,neutral,16.0,100.0
+101,101,-0.0,M,-2147483648,2014-06-06,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,101.0
+102,102,-0.0,M,-2147483648,2014-06-06,Credit Suisse,Not Provided,3,neutral,19.0,102.0
+103,103,-0.0,M,-2147483648,2014-06-06,J.P. Morgan,3 month,5,overweight,18.5,103.0
+104,104,-0.0,M,-2147483648,2014-06-06,Stifel,Not Provided,3,hold,-0.0,104.0
+105,105,-0.0,M,-2147483648,2014-06-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0,105.0
+106,106,-0.0,M,-2147483648,2014-06-04,Piper Jaffray,Not Provided,5,overweight,17.0,106.0
+107,107,-0.0,M,-2147483648,2014-05-19,RBC Capital Markets,12 month,3,sector perform,16.0,107.0
+108,108,-0.0,M,-2147483648,2014-05-15,Barclays,Not Provided,3,equalweight,14.0,108.0
+109,109,-0.0,M,-2147483648,2014-04-28,EVA Dimensions,Not Provided,1,underweight,-0.0,109.0
+110,110,-0.0,M,-2147483648,2014-07-28,B Riley & Co,Not Provided,3,neutral,16.0,110.0
+111,111,-0.0,M,-2147483648,2014-07-16,BMO Capital Markets,Not Provided,5,outperform,19.0,111.0
+112,112,-0.0,M,-2147483648,2014-07-16,Barclays,Not Provided,3,equalweight,14.0,112.0
+113,113,-0.0,M,-2147483648,2014-07-15,Wells Fargo Securities,Not Provided,5,outperform,-0.0,113.0
+114,114,-0.0,M,-2147483648,2014-07-10,RBC Capital Markets,12 month,3,sector perform,16.0,114.0
+115,115,-0.0,M,-2147483648,2014-06-06,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,115.0
+116,116,-0.0,M,-2147483648,2014-06-06,Credit Suisse,Not Provided,3,neutral,19.0,116.0
+117,117,-0.0,M,-2147483648,2014-06-06,J.P. Morgan,3 month,5,overweight,18.5,117.0
+118,118,-0.0,M,-2147483648,2014-06-06,Stifel,Not Provided,3,hold,-0.0,118.0
+119,119,-0.0,M,-2147483648,2014-06-04,Piper Jaffray,Not Provided,5,overweight,17.0,119.0
+120,120,-0.0,M,-2147483648,2014-04-28,EVA Dimensions,Not Provided,1,underweight,-0.0,120.0
+121,121,-0.0,M,-2147483648,2014-08-29,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,121.0
+122,122,-0.0,M,-2147483648,2014-08-29,J.P. Morgan,3 month,5,overweight,18.5,122.0
+123,123,-0.0,M,-2147483648,2014-08-29,B Riley & Co,Not Provided,3,neutral,14.0,123.0
+124,124,-0.0,M,-2147483648,2014-08-29,Barclays,Not Provided,3,equalweight,16.0,124.0
+125,125,-0.0,M,-2147483648,2014-08-28,BMO Capital Markets,Not Provided,5,outperform,19.0,125.0
+126,126,-0.0,M,-2147483648,2014-08-28,RBC Capital Markets,12 month,3,sector perform,16.0,126.0
+127,127,-0.0,M,-2147483648,2014-08-28,Credit Suisse,Not Provided,3,neutral,18.0,127.0
+128,128,-0.0,M,-2147483648,2014-08-28,Stifel,Not Provided,3,hold,-0.0,128.0
+129,129,-0.0,M,-2147483648,2014-08-28,Wells Fargo Securities,Not Provided,5,outperform,-0.0,129.0
+130,130,-0.0,M,-2147483648,2014-08-28,Piper Jaffray,12 month,5,overweight,19.0,130.0
+131,131,-0.0,M,-2147483648,2014-04-28,EVA Dimensions,Not Provided,1,underweight,-0.0,131.0
+132,132,-0.0,M,-2147483648,2014-10-01,B Riley & Co,Not Provided,1,sell,14.0,132.0
+133,133,-0.0,M,-2147483648,2014-09-29,BMO Capital Markets,Not Provided,5,outperform,19.0,133.0
+134,134,-0.0,M,-2147483648,2014-09-29,Wells Fargo Securities,Not Provided,5,outperform,-0.0,134.0
+135,135,-0.0,M,-2147483648,2014-09-29,Piper Jaffray,12 month,5,overweight,20.0,135.0
+136,136,-0.0,M,-2147483648,2014-09-22,J.P. Morgan,12 month,5,overweight,20.0,136.0
+137,137,-0.0,M,-2147483648,2014-09-15,RBC Capital Markets,12 month,3,sector perform,18.0,137.0
+138,138,-0.0,M,-2147483648,2014-09-09,Stifel,Not Provided,3,hold,-0.0,138.0
+139,139,-0.0,M,-2147483648,2014-08-29,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,139.0
+140,140,-0.0,M,-2147483648,2014-08-29,Barclays,Not Provided,3,equalweight,16.0,140.0
+141,141,-0.0,M,-2147483648,2014-08-28,Credit Suisse,Not Provided,3,neutral,18.0,141.0
+142,142,-0.0,M,-2147483648,2014-04-28,EVA Dimensions,Not Provided,1,underweight,-0.0,142.0
+143,143,-0.0,U,-2147483648,2014-10-30,Stifel,12 month,5,buy,20.0,143.0
+144,144,-0.0,M,-2147483648,2014-10-28,B Riley & Co,Not Provided,3,neutral,14.0,144.0
+145,145,-0.0,M,-2147483648,2014-10-16,Piper Jaffray,12 month,5,overweight,20.0,145.0
+146,146,-0.0,M,-2147483648,2014-10-14,Wells Fargo Securities,Not Provided,5,outperform,-0.0,146.0
+147,147,-0.0,M,-2147483648,2014-10-09,BMO Capital Markets,Not Provided,5,outperform,19.0,147.0
+148,148,-0.0,M,-2147483648,2014-10-08,Morgan Stanley,Not Provided,3,Equalwt/In-Line,-0.0,148.0
+149,149,-0.0,M,-2147483648,2014-10-08,RBC Capital Markets,12 month,3,sector perform,18.0,149.0
+150,150,-0.0,M,-2147483648,2014-10-06,Barclays,Not Provided,3,equalweight,16.0,150.0
+151,151,-0.0,M,-2147483648,2014-09-22,J.P. Morgan,12 month,5,overweight,20.0,151.0
+152,152,-0.0,M,-2147483648,2014-08-28,Credit Suisse,Not Provided,3,neutral,18.0,152.0
+153,153,-0.0,M,-2147483648,2014-04-28,EVA Dimensions,Not Provided,1,underweight,-0.0,153.0
+154,154,-0.0,M,-2147483648,2014-12-01,RBC Capital Markets,12 month,3,sector perform,19.0,154.0
+155,155,-0.0,M,-2147483648,2014-12-01,B Riley & Co,Not Provided,3,neutral,18.0,155.0
+156,156,-0.0,M,-2147483648,2014-11-18,Piper Jaffray,12 month,5,overweight,20.0,156.0
+157,157,-0.0,N,-2147483648,2014-11-18,BTIG LLC,12 month,5,buy,23.0,157.0
+158,158,-0.0,M,-2147483648,2014-11-12,Morgan Stanley,12 month,3,Equalwt/In-Line,19.0,158.0
+159,159,-0.0,M,-2147483648,2014-11-07,Credit Suisse,Not Provided,3,neutral,18.0,159.0
+160,160,-0.0,M,-2147483648,2014-11-07,J.P. Morgan,18 month,5,overweight,20.0,160.0
+161,161,-0.0,M,-2147483648,2014-11-07,Barclays,Not Provided,3,equalweight,18.0,161.0
+162,162,-0.0,M,-2147483648,2014-11-06,BMO Capital Markets,Not Provided,5,outperform,20.0,162.0
+163,163,-0.0,M,-2147483648,2014-11-06,Stifel,12 month,5,buy,20.0,163.0
+164,164,-0.0,M,-2147483648,2014-11-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0,164.0
+165,165,-0.0,M,-2147483648,2014-04-28,EVA Dimensions,Not Provided,1,underweight,-0.0,165.0
+166,166,-0.0,M,-2147483648,2014-12-29,B Riley & Co,Not Provided,3,neutral,18.0,166.0
+167,167,-0.0,M,-2147483648,2014-12-19,Barclays,Not Provided,3,equalweight,18.0,167.0
+168,168,-0.0,M,-2147483648,2014-12-18,Wells Fargo Securities,Not Provided,5,outperform,-0.0,168.0
+169,169,-0.0,M,-2147483648,2014-12-15,BMO Capital Markets,Not Provided,5,outperform,22.0,169.0
+170,170,-0.0,N,-2147483648,2014-12-15,KeyBanc Capital Markets,Not Provided,3,hold,-0.0,170.0
+171,171,-0.0,M,-2147483648,2014-12-01,RBC Capital Markets,12 month,3,sector perform,19.0,171.0
+172,172,-0.0,M,-2147483648,2014-11-18,Piper Jaffray,12 month,5,overweight,20.0,172.0
+173,173,-0.0,N,-2147483648,2014-11-18,BTIG LLC,12 month,5,buy,23.0,173.0
+174,174,-0.0,M,-2147483648,2014-11-12,Morgan Stanley,12 month,3,Equalwt/In-Line,19.0,174.0
+175,175,-0.0,M,-2147483648,2014-11-07,Credit Suisse,Not Provided,3,neutral,18.0,175.0
+176,176,-0.0,M,-2147483648,2014-11-07,J.P. Morgan,18 month,5,overweight,20.0,176.0
+177,177,-0.0,M,-2147483648,2014-11-06,Stifel,12 month,5,buy,20.0,177.0
+178,178,-0.0,M,-2147483648,2014-04-28,EVA Dimensions,Not Provided,1,underweight,-0.0,178.0
+179,179,-0.0,D,-2147483648,2015-01-28,Piper Jaffray,12 month,3,neutral,20.0,179.0
+180,180,-0.0,M,-2147483648,2015-01-26,RBC Capital Markets,12 month,3,sector perform,19.0,180.0
+181,181,-0.0,M,-2147483648,2015-01-26,KeyBanc Capital Markets,Not Provided,3,hold,-0.0,181.0
+182,182,-0.0,M,-2147483648,2015-01-21,B Riley & Co,Not Provided,3,neutral,18.0,182.0
+183,183,-0.0,M,-2147483648,2015-01-21,Stifel,Not Provided,5,buy,-0.0,183.0
+184,184,-0.0,M,-2147483648,2015-01-16,Credit Suisse,Not Provided,3,neutral,18.0,184.0
+185,185,-0.0,M,-2147483648,2015-01-13,BMO Capital Markets,Not Provided,5,outperform,22.0,185.0
+186,186,-0.0,M,-2147483648,2015-01-12,J.P. Morgan,Not Provided,5,overweight,22.0,186.0
+187,187,-0.0,M,-2147483648,2015-01-07,Wells Fargo Securities,Not Provided,5,outperform,-0.0,187.0
+188,188,-0.0,M,-2147483648,2015-01-05,Morgan Stanley,12 month,3,Equalwt/In-Line,20.0,188.0
+189,189,-0.0,M,-2147483648,2014-12-19,Barclays,Not Provided,3,equalweight,18.0,189.0
+190,190,-0.0,N,-2147483648,2014-11-18,BTIG LLC,12 month,5,buy,23.0,190.0
+191,191,-0.0,M,-2147483648,2014-04-28,EVA Dimensions,Not Provided,1,underweight,-0.0,191.0
+192,192,-0.0,M,-2147483648,2015-03-01,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,192.0
+193,193,-0.0,M,-2147483648,2015-02-26,Piper Jaffray,12 month,3,neutral,21.0,193.0
+194,194,-0.0,M,-2147483648,2015-02-25,B Riley & Co,Not Provided,3,neutral,20.0,194.0
+195,195,-0.0,M,-2147483648,2015-02-23,BMO Capital Markets,Not Provided,5,outperform,24.0,195.0
+196,196,-0.0,M,-2147483648,2015-02-19,BTIG LLC,12 month,5,buy,26.0,196.0
+197,197,-0.0,M,-2147483648,2015-02-17,Barclays,Not Provided,3,equalweight,19.0,197.0
+198,198,-0.0,U,-2147483648,2015-02-16,EVA Dimensions,Not Provided,3,hold,-0.0,198.0
+199,199,-0.0,M,-2147483648,2015-02-09,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,199.0
+200,200,-0.0,M,-2147483648,2015-02-06,RBC Capital Markets,12 month,3,sector perform,19.0,200.0
+201,201,-0.0,M,-2147483648,2015-02-06,J.P. Morgan,12 month,5,overweight,23.0,201.0
+202,202,-0.0,M,-2147483648,2015-02-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0,202.0
+203,203,-0.0,M,-2147483648,2015-02-05,Credit Suisse,Not Provided,3,neutral,22.0,203.0
+204,204,-0.0,M,-2147483648,2015-02-05,Stifel,12 month,5,buy,24.0,204.0
+205,205,-0.0,M,-2147483648,2015-04-01,B Riley & Co,Not Provided,1,sell,18.5,205.0
+206,206,-0.0,M,-2147483648,2015-03-25,BTIG LLC,Not Provided,5,buy,26.0,206.0
+207,207,-0.0,D,-2147483648,2015-03-25,EVA Dimensions,Not Provided,1,underweight,-0.0,207.0
+208,208,-0.0,M,-2147483648,2015-03-16,Wells Fargo Securities,Not Provided,5,outperform,-0.0,208.0
+209,209,-0.0,M,-2147483648,2015-03-16,Barclays,Not Provided,3,equalweight,19.0,209.0
+210,210,-0.0,M,-2147483648,2015-03-09,Piper Jaffray,12 month,3,neutral,21.0,210.0
+211,211,-0.0,M,-2147483648,2015-03-02,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,211.0
+212,212,-0.0,M,-2147483648,2015-03-01,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,212.0
+213,213,-0.0,M,-2147483648,2015-02-23,BMO Capital Markets,Not Provided,5,outperform,24.0,213.0
+214,214,-0.0,M,-2147483648,2015-02-06,RBC Capital Markets,12 month,3,sector perform,19.0,214.0
+215,215,-0.0,M,-2147483648,2015-02-06,J.P. Morgan,12 month,5,overweight,23.0,215.0
+216,216,-0.0,M,-2147483648,2015-02-05,Credit Suisse,Not Provided,3,neutral,22.0,216.0
+217,217,-0.0,M,-2147483648,2015-02-05,Stifel,12 month,5,buy,24.0,217.0
+218,218,-0.0,M,-2147483648,2015-04-26,Piper Jaffray,12 month,3,neutral,21.0,218.0
+219,219,-0.0,M,-2147483648,2015-04-21,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,219.0
+220,220,-0.0,M,-2147483648,2015-04-21,B Riley & Co,Not Provided,1,sell,18.5,220.0
+221,221,-0.0,M,-2147483648,2015-04-20,Stifel,12 month,5,buy,24.0,221.0
+222,222,-0.0,M,-2147483648,2015-04-20,Wells Fargo Securities,Not Provided,5,outperform,-0.0,222.0
+223,223,-0.0,M,-2147483648,2015-04-15,RBC Capital Markets,12 month,3,sector perform,23.0,223.0
+224,224,-0.0,M,-2147483648,2015-04-10,J.P. Morgan,9 month,5,overweight,24.5,224.0
+225,225,-0.0,M,-2147483648,2015-04-06,Barclays,Not Provided,3,equalweight,19.0,225.0
+226,226,-0.0,D,-2147483648,2015-03-25,EVA Dimensions,Not Provided,1,underweight,-0.0,226.0
+227,227,-0.0,M,-2147483648,2015-03-02,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,227.0
+228,228,-0.0,M,-2147483648,2015-02-05,Credit Suisse,Not Provided,3,neutral,22.0,228.0
+229,229,-0.0,M,-2147483648,2015-05-29,RBC Capital Markets,12 month,3,sector perform,23.0,229.0
+230,230,-0.0,M,-2147483648,2015-05-26,B Riley & Co,Not Provided,1,sell,19.5,230.0
+231,231,-0.0,M,-2147483648,2015-05-26,Piper Jaffray,12 month,3,neutral,24.0,231.0
+232,232,-0.0,M,-2147483648,2015-05-08,Morgan Stanley,12 month,3,Equalwt/In-Line,24.0,232.0
+233,233,-0.0,M,-2147483648,2015-05-08,J.P. Morgan,9 month,5,overweight,27.0,233.0
+234,234,-0.0,M,-2147483648,2015-05-08,Wells Fargo Securities,Not Provided,5,outperform,-0.0,234.0
+235,235,-0.0,M,-2147483648,2015-05-08,Barclays,Not Provided,3,equalweight,25.0,235.0
+236,236,-0.0,M,-2147483648,2015-05-08,EVA Dimensions,Not Provided,1,underweight,-0.0,236.0
+237,237,-0.0,M,-2147483648,2015-05-07,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,237.0
+238,238,-0.0,M,-2147483648,2015-05-07,Stifel,12 month,5,buy,28.0,238.0
+239,239,-0.0,M,-2147483648,2015-07-01,B Riley & Co,Not Provided,1,sell,19.5,239.0
+240,240,-0.0,M,-2147483648,2015-06-23,Stifel,12 month,5,buy,28.0,240.0
+241,241,-0.0,M,-2147483648,2015-06-23,Wells Fargo Securities,Not Provided,5,outperform,-0.0,241.0
+242,242,-0.0,M,-2147483648,2015-06-23,Piper Jaffray,12 month,3,neutral,24.0,242.0
+243,243,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,243.0
+244,244,-0.0,M,-2147483648,2015-06-16,Morgan Stanley,12 month,3,Equalwt/In-Line,24.0,244.0
+245,245,-0.0,M,-2147483648,2015-06-16,Barclays,Not Provided,3,equalweight,25.0,245.0
+246,246,-0.0,M,-2147483648,2015-05-29,RBC Capital Markets,12 month,3,sector perform,23.0,246.0
+247,247,-0.0,M,-2147483648,2015-05-08,J.P. Morgan,9 month,5,overweight,27.0,247.0
+248,248,-0.0,M,-2147483648,2015-05-07,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,248.0
+249,249,-0.0,M,-2147483648,2015-07-27,B Riley & Co,Not Provided,1,sell,23.0,249.0
+250,250,-0.0,M,-2147483648,2015-07-23,Piper Jaffray,12 month,3,neutral,24.0,250.0
+251,251,-0.0,M,-2147483648,2015-07-21,RBC Capital Markets,12 month,3,sector perform,30.0,251.0
+252,252,-0.0,N,-2147483648,2015-07-20,Sterne Agee CRT,Not Provided,3,neutral,-0.0,252.0
+253,253,-0.0,M,-2147483648,2015-07-14,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,253.0
+254,254,-0.0,M,-2147483648,2015-07-10,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,254.0
+255,255,-0.0,M,-2147483648,2015-07-10,J.P. Morgan,Not Provided,-2147483648,Rating Suspended,-0.0,255.0
+256,256,-0.0,D,-2147483648,2015-07-10,Wells Fargo Securities,Not Provided,3,market perform,-0.0,256.0
+257,257,-0.0,M,-2147483648,2015-07-09,Stifel,12 month,5,buy,35.0,257.0
+258,258,-0.0,M,-2147483648,2015-07-09,Barclays,Not Provided,-2147483648,suspended coverage,-0.0,258.0
+259,259,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,259.0
+260,260,-0.0,M,-2147483648,2015-09-01,Morgan Stanley,12 month,3,Equalwt/In-Line,31.0,260.0
+261,261,-0.0,M,-2147483648,2015-08-25,J.P. Morgan,18 month,3,neutral,31.0,261.0
+262,262,-0.0,M,-2147483648,2015-08-25,Piper Jaffray,12 month,3,neutral,29.0,262.0
+263,263,-0.0,M,-2147483648,2015-08-18,B Riley & Co,Not Provided,1,sell,22.0,263.0
+264,264,-0.0,M,-2147483648,2015-08-14,Wells Fargo Securities,Not Provided,3,market perform,-0.0,264.0
+265,265,-0.0,M,-2147483648,2015-08-14,Barclays,Not Provided,3,equalweight,30.0,265.0
+266,266,-0.0,M,-2147483648,2015-08-13,RBC Capital Markets,12 month,3,sector perform,30.0,266.0
+267,267,-0.0,M,-2147483648,2015-08-13,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,267.0
+268,268,-0.0,M,-2147483648,2015-08-13,Stifel,12 month,5,buy,35.0,268.0
+269,269,-0.0,M,-2147483648,2015-08-13,Sterne Agee CRT,Not Provided,3,neutral,-0.0,269.0
+270,270,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,270.0
+271,271,-0.0,M,-2147483648,2015-09-15,B Riley & Co,Not Provided,1,sell,22.0,271.0
+272,272,-0.0,M,-2147483648,2015-09-14,Wells Fargo Securities,Not Provided,3,market perform,-0.0,272.0
+273,273,-0.0,M,-2147483648,2015-09-11,Sterne Agee CRT,Not Provided,3,neutral,-0.0,273.0
+274,274,-0.0,M,-2147483648,2015-09-08,RBC Capital Markets,12 month,3,sector perform,30.0,274.0
+275,275,-0.0,M,-2147483648,2015-09-01,Morgan Stanley,12 month,3,Equalwt/In-Line,31.0,275.0
+276,276,-0.0,M,-2147483648,2015-08-25,J.P. Morgan,18 month,3,neutral,31.0,276.0
+277,277,-0.0,M,-2147483648,2015-08-25,Piper Jaffray,12 month,3,neutral,29.0,277.0
+278,278,-0.0,M,-2147483648,2015-08-14,Barclays,Not Provided,3,equalweight,30.0,278.0
+279,279,-0.0,M,-2147483648,2015-08-13,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,279.0
+280,280,-0.0,M,-2147483648,2015-08-13,Stifel,12 month,5,buy,35.0,280.0
+281,281,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,281.0
+282,282,-0.0,M,-2147483648,2015-10-21,B Riley & Co,Not Provided,1,sell,22.0,282.0
+283,283,-0.0,M,-2147483648,2015-10-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0,283.0
+284,284,-0.0,M,-2147483648,2015-10-19,Piper Jaffray,12 month,3,neutral,29.0,284.0
+285,285,-0.0,M,-2147483648,2015-10-11,RBC Capital Markets,12 month,3,sector perform,30.0,285.0
+286,286,-0.0,M,-2147483648,2015-10-11,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,286.0
+287,287,-0.0,M,-2147483648,2015-10-06,Sterne Agee CRT,Not Provided,3,neutral,-0.0,287.0
+288,288,-0.0,M,-2147483648,2015-09-01,Morgan Stanley,12 month,3,Equalwt/In-Line,31.0,288.0
+289,289,-0.0,M,-2147483648,2015-08-25,J.P. Morgan,18 month,3,neutral,31.0,289.0
+290,290,-0.0,M,-2147483648,2015-08-14,Barclays,Not Provided,3,equalweight,30.0,290.0
+291,291,-0.0,M,-2147483648,2015-08-13,Stifel,12 month,5,buy,35.0,291.0
+292,292,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,292.0
+293,293,-0.0,D,-2147483648,2015-11-30,Morgan Stanley,12 month,1,Underwt/In-Line,26.0,293.0
+294,294,-0.0,M,-2147483648,2015-11-16,Sterne Agee CRT,Not Provided,3,neutral,-0.0,294.0
+295,295,-0.0,M,-2147483648,2015-11-09,RBC Capital Markets,12 month,3,sector perform,30.0,295.0
+296,296,-0.0,M,-2147483648,2015-11-06,J.P. Morgan,18 month,3,neutral,31.0,296.0
+297,297,-0.0,M,-2147483648,2015-11-06,B Riley & Co,12 month,1,sell,24.0,297.0
+298,298,-0.0,M,-2147483648,2015-11-06,Wells Fargo Securities,Not Provided,3,market perform,-0.0,298.0
+299,299,-0.0,M,-2147483648,2015-11-06,Piper Jaffray,12 month,3,neutral,31.0,299.0
+300,300,-0.0,M,-2147483648,2015-11-05,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,300.0
+301,301,-0.0,M,-2147483648,2015-11-05,Stifel,12 month,5,buy,31.0,301.0
+302,302,-0.0,M,-2147483648,2015-11-04,Barclays,Not Provided,3,equalweight,30.0,302.0
+303,303,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,303.0
+304,304,-0.0,M,-2147483648,2015-12-31,Sterne Agee CRT,Not Provided,3,neutral,-0.0,304.0
+305,305,-0.0,M,-2147483648,2015-12-21,Morgan Stanley,12 month,1,Underwt/In-Line,26.0,305.0
+306,306,-0.0,M,-2147483648,2015-12-18,RBC Capital Markets,12 month,3,sector perform,30.0,306.0
+307,307,-0.0,M,-2147483648,2015-12-02,Barclays,Not Provided,3,equalweight,27.0,307.0
+308,308,-0.0,M,-2147483648,2015-11-06,J.P. Morgan,18 month,3,neutral,31.0,308.0
+309,309,-0.0,M,-2147483648,2015-11-06,B Riley & Co,12 month,1,sell,24.0,309.0
+310,310,-0.0,M,-2147483648,2015-11-06,Wells Fargo Securities,Not Provided,3,market perform,-0.0,310.0
+311,311,-0.0,M,-2147483648,2015-11-06,Piper Jaffray,12 month,3,neutral,31.0,311.0
+312,312,-0.0,M,-2147483648,2015-11-05,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,312.0
+313,313,-0.0,M,-2147483648,2015-11-05,Stifel,12 month,5,buy,31.0,313.0
+314,314,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,314.0
+315,315,-0.0,M,-2147483648,2016-01-27,Morgan Stanley,12 month,1,Underwt/In-Line,22.0,315.0
+316,316,-0.0,M,-2147483648,2016-01-27,Sterne Agee CRT,Not Provided,3,neutral,-0.0,316.0
+317,317,-0.0,M,-2147483648,2016-01-25,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,317.0
+318,318,-0.0,M,-2147483648,2016-01-24,Stifel,12 month,5,buy,31.0,318.0
+319,319,-0.0,M,-2147483648,2016-01-22,RBC Capital Markets,12 month,3,sector perform,30.0,319.0
+320,320,-0.0,M,-2147483648,2016-01-22,Wells Fargo Securities,Not Provided,3,market perform,-0.0,320.0
+321,321,-0.0,M,-2147483648,2016-01-20,B Riley & Co,Not Provided,1,sell,21.0,321.0
+322,322,-0.0,M,-2147483648,2016-01-12,Barclays,Not Provided,3,equalweight,27.0,322.0
+323,323,-0.0,M,-2147483648,2015-11-06,J.P. Morgan,18 month,3,neutral,31.0,323.0
+324,324,-0.0,M,-2147483648,2015-11-06,Piper Jaffray,12 month,3,neutral,31.0,324.0
+325,325,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,325.0
+326,326,-0.0,M,-2147483648,2016-02-29,Consumer Edge Research,12 month,3,neutral,26.0,326.0
+327,327,-0.0,M,-2147483648,2016-02-28,Piper Jaffray,12 month,3,neutral,30.0,327.0
+328,328,-0.0,M,-2147483648,2016-02-26,RBC Capital Markets,12 month,3,sector perform,30.0,328.0
+329,329,-0.0,M,-2147483648,2016-02-26,Sterne Agee CRT,Not Provided,3,neutral,-0.0,329.0
+330,330,-0.0,M,-2147483648,2016-02-11,B Riley & Co,Not Provided,1,sell,20.0,330.0
+331,331,-0.0,M,-2147483648,2016-02-11,Wells Fargo Securities,Not Provided,3,market perform,-0.0,331.0
+332,332,-0.0,M,-2147483648,2016-02-05,Morgan Stanley,12 month,1,Underwt/In-Line,24.0,332.0
+333,333,-0.0,M,-2147483648,2016-02-05,J.P. Morgan,12 month,3,neutral,31.0,333.0
+334,334,-0.0,M,-2147483648,2016-02-05,Barclays,Not Provided,3,equalweight,27.0,334.0
+335,335,-0.0,M,-2147483648,2016-02-04,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,335.0
+336,336,-0.0,M,-2147483648,2016-02-04,Stifel,12 month,5,buy,31.0,336.0
+337,337,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,337.0
+338,338,-0.0,M,-2147483648,2016-03-22,Morgan Stanley,12 month,1,Underwt/In-Line,24.0,338.0
+339,339,-0.0,M,-2147483648,2016-03-22,Sterne Agee CRT,Not Provided,3,neutral,-0.0,339.0
+340,340,-0.0,M,-2147483648,2016-03-22,Consumer Edge Research,12 month,3,neutral,26.0,340.0
+341,341,-0.0,M,-2147483648,2016-03-18,RBC Capital Markets,12 month,3,sector perform,30.0,341.0
+342,342,-0.0,M,-2147483648,2016-03-16,B Riley & Co,Not Provided,1,sell,20.0,342.0
+343,343,-0.0,M,-2147483648,2016-03-10,Piper Jaffray,12 month,3,neutral,30.0,343.0
+344,344,-0.0,M,-2147483648,2016-02-11,Wells Fargo Securities,Not Provided,3,market perform,-0.0,344.0
+345,345,-0.0,M,-2147483648,2016-02-05,J.P. Morgan,12 month,3,neutral,31.0,345.0
+346,346,-0.0,M,-2147483648,2016-02-05,Barclays,Not Provided,3,equalweight,27.0,346.0
+347,347,-0.0,M,-2147483648,2016-02-04,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,347.0
+348,348,-0.0,M,-2147483648,2016-02-04,Stifel,12 month,5,buy,31.0,348.0
+349,349,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,349.0
+350,350,-0.0,M,-2147483648,2016-04-29,B Riley & Co,Not Provided,1,sell,19.5,350.0
+351,351,-0.0,M,-2147483648,2016-04-25,Morgan Stanley,12 month,1,Underwt/In-Line,24.0,351.0
+352,352,-0.0,M,-2147483648,2016-04-25,Piper Jaffray,12 month,3,neutral,30.0,352.0
+353,353,-0.0,M,-2147483648,2016-04-22,RBC Capital Markets,12 month,3,sector perform,30.0,353.0
+354,354,-0.0,M,-2147483648,2016-04-22,Barclays,Not Provided,3,equalweight,27.0,354.0
+355,355,-0.0,M,-2147483648,2016-04-19,Consumer Edge Research,12 month,3,neutral,26.0,355.0
+356,356,-0.0,M,-2147483648,2016-04-17,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,356.0
+357,357,-0.0,M,-2147483648,2016-04-12,Stifel,12 month,5,buy,33.0,357.0
+358,358,-0.0,M,-2147483648,2016-03-22,Sterne Agee CRT,Not Provided,3,neutral,-0.0,358.0
+359,359,-0.0,M,-2147483648,2016-02-11,Wells Fargo Securities,Not Provided,3,market perform,-0.0,359.0
+360,360,-0.0,M,-2147483648,2016-02-05,J.P. Morgan,12 month,3,neutral,31.0,360.0
+361,361,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,361.0
+362,362,-0.0,M,-2147483648,2016-05-31,B Riley & Co,Not Provided,1,sell,19.5,362.0
+363,363,-0.0,M,-2147483648,2016-05-27,RBC Capital Markets,12 month,3,sector perform,30.0,363.0
+364,364,-0.0,M,-2147483648,2016-05-17,Consumer Edge Research,12 month,3,neutral,27.0,364.0
+365,365,-0.0,M,-2147483648,2016-05-13,Piper Jaffray,12 month,3,neutral,29.0,365.0
+366,366,-0.0,M,-2147483648,2016-05-11,Sterne Agee CRT,Not Provided,3,neutral,-0.0,366.0
+367,367,-0.0,M,-2147483648,2016-05-09,Morgan Stanley,12 month,1,Underwt/In-Line,22.0,367.0
+368,368,-0.0,M,-2147483648,2016-05-06,J.P. Morgan,9 month,3,neutral,31.0,368.0
+369,369,-0.0,M,-2147483648,2016-05-04,Wells Fargo Securities,Not Provided,3,market perform,-0.0,369.0
+370,370,-0.0,M,-2147483648,2016-05-04,Barclays,Not Provided,3,equalweight,26.0,370.0
+371,371,-0.0,M,-2147483648,2016-05-03,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,371.0
+372,372,-0.0,M,-2147483648,2016-05-03,Stifel,12 month,5,buy,32.0,372.0
+373,373,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,373.0
+374,374,-0.0,M,-2147483648,2016-07-01,RBC Capital Markets,12 month,3,sector perform,30.0,374.0
+375,375,-0.0,M,-2147483648,2016-06-28,Consumer Edge Research,12 month,3,neutral,27.0,375.0
+376,376,-0.0,M,-2147483648,2016-06-27,B Riley & Co,Not Provided,1,sell,19.5,376.0
+377,377,-0.0,M,-2147483648,2016-06-24,Piper Jaffray,12 month,3,neutral,29.0,377.0
+378,378,-0.0,M,-2147483648,2016-06-14,J.P. Morgan,6 month,3,neutral,31.0,378.0
+379,379,-0.0,M,-2147483648,2016-06-03,Morgan Stanley,12 month,1,Underwt/In-Line,22.0,379.0
+380,380,-0.0,M,-2147483648,2016-06-03,Wells Fargo Securities,Not Provided,3,market perform,-0.0,380.0
+381,381,-0.0,M,-2147483648,2016-06-02,Barclays,Not Provided,3,equalweight,26.0,381.0
+382,382,-0.0,M,-2147483648,2016-05-03,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,382.0
+383,383,-0.0,M,-2147483648,2016-05-03,Stifel,12 month,5,buy,32.0,383.0
+384,384,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,384.0
+385,385,-0.0,M,-2147483648,2016-07-28,B Riley & Co,Not Provided,1,sell,19.5,385.0
+386,386,-0.0,M,-2147483648,2016-07-22,RBC Capital Markets,12 month,3,sector perform,30.0,386.0
+387,387,-0.0,M,-2147483648,2016-07-21,Stifel,12 month,5,buy,32.0,387.0
+388,388,-0.0,M,-2147483648,2016-07-21,Wells Fargo Securities,Not Provided,3,market perform,-0.0,388.0
+389,389,-0.0,M,-2147483648,2016-07-21,Piper Jaffray,12 month,3,neutral,29.0,389.0
+390,390,-0.0,M,-2147483648,2016-07-21,Consumer Edge Research,12 month,3,equalweight,27.0,390.0
+391,391,-0.0,M,-2147483648,2016-07-14,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,391.0
+392,392,-0.0,M,-2147483648,2016-07-07,Barclays,Not Provided,3,equalweight,26.0,392.0
+393,393,-0.0,M,-2147483648,2016-06-14,J.P. Morgan,6 month,3,neutral,31.0,393.0
+394,394,-0.0,M,-2147483648,2016-06-03,Morgan Stanley,12 month,1,Underwt/In-Line,22.0,394.0
+395,395,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,395.0
+396,396,-0.0,M,-2147483648,2016-09-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,396.0
+397,397,-0.0,M,-2147483648,2016-08-31,J.P. Morgan,6 month,3,neutral,31.0,397.0
+398,398,-0.0,M,-2147483648,2016-08-25,B Riley & Co,Not Provided,1,sell,21.5,398.0
+399,399,-0.0,M,-2147483648,2016-08-17,RBC Capital Markets,12 month,3,sector perform,30.0,399.0
+400,400,-0.0,M,-2147483648,2016-08-17,Barclays,Not Provided,3,equalweight,28.0,400.0
+401,401,-0.0,M,-2147483648,2016-08-16,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,401.0
+402,402,-0.0,M,-2147483648,2016-08-16,Stifel,12 month,5,buy,32.0,402.0
+403,403,-0.0,M,-2147483648,2016-08-16,Wells Fargo Securities,Not Provided,3,market perform,-0.0,403.0
+404,404,-0.0,M,-2147483648,2016-08-16,Piper Jaffray,12 month,3,neutral,29.0,404.0
+405,405,-0.0,M,-2147483648,2016-08-16,Consumer Edge Research,12 month,3,equalweight,27.0,405.0
+406,406,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,406.0
+407,407,-0.0,M,-2147483648,2016-09-30,Morgan Stanley,Not Provided,-2147483648,not rated,-0.0,407.0
+408,408,-0.0,M,-2147483648,2016-09-30,B Riley & Co,Not Provided,3,neutral,23.25,408.0
+409,409,-0.0,M,-2147483648,2016-09-28,Stifel,Not Provided,5,buy,32.0,409.0
+410,410,-0.0,M,-2147483648,2016-09-19,Barclays,Not Provided,3,equalweight,28.0,410.0
+411,411,-0.0,M,-2147483648,2016-09-16,RBC Capital Markets,12 month,3,sector perform,30.0,411.0
+412,412,-0.0,N,-2147483648,2016-09-08,Berenberg,Not Provided,1,sell,23.0,412.0
+413,413,-0.0,M,-2147483648,2016-08-31,J.P. Morgan,6 month,3,neutral,31.0,413.0
+414,414,-0.0,M,-2147483648,2016-08-16,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,414.0
+415,415,-0.0,M,-2147483648,2016-08-16,Wells Fargo Securities,Not Provided,3,market perform,-0.0,415.0
+416,416,-0.0,M,-2147483648,2016-08-16,Piper Jaffray,12 month,3,neutral,29.0,416.0
+417,417,-0.0,M,-2147483648,2016-08-16,Consumer Edge Research,12 month,3,equalweight,27.0,417.0
+418,418,-0.0,M,-2147483648,2015-06-17,EVA Dimensions,Not Provided,1,sell,-0.0,418.0
+419,419,-0.0,U,-2147483648,2016-11-01,Morgan Stanley,12 month,3,Equalwt/In-Line,24.0,419.0
+420,420,-0.0,M,-2147483648,2016-10-23,Stifel,12 month,5,buy,29.0,420.0
+421,421,-0.0,M,-2147483648,2016-10-21,RBC Capital Markets,12 month,3,sector perform,30.0,421.0
+422,422,-0.0,M,-2147483648,2016-10-19,B Riley & Co,Not Provided,3,neutral,23.5,422.0
+423,423,-0.0,M,-2147483648,2016-10-18,Barclays,Not Provided,3,equalweight,28.0,423.0
+424,424,-0.0,M,-2147483648,2016-10-17,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,424.0
+425,425,-0.0,M,-2147483648,2016-10-17,Wells Fargo Securities,Not Provided,3,market perform,-0.0,425.0
+426,426,-0.0,M,-2147483648,2016-10-17,Piper Jaffray,12 month,3,neutral,29.0,426.0
+427,427,-0.0,M,-2147483648,2016-10-17,Consumer Edge Research,12 month,3,equalweight,27.0,427.0
+428,428,-0.0,M,-2147483648,2016-10-07,EVA Dimensions,Not Provided,1,underweight,-0.0,428.0
+429,429,-0.0,N,-2147483648,2016-09-08,Berenberg,Not Provided,1,sell,23.0,429.0
+430,430,-0.0,M,-2147483648,2016-11-22,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,430.0
+431,431,-0.0,U,-2147483648,2016-11-17,Berenberg,Not Provided,3,hold,18.0,431.0
+432,432,-0.0,M,-2147483648,2016-11-11,RBC Capital Markets,12 month,3,sector perform,22.0,432.0
+433,433,-0.0,M,-2147483648,2016-11-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,433.0
+434,434,-0.0,M,-2147483648,2016-11-10,B Riley & Co,Not Provided,3,neutral,17.0,434.0
+435,435,-0.0,M,-2147483648,2016-11-10,Barclays,Not Provided,3,equalweight,23.0,435.0
+436,436,-0.0,M,-2147483648,2016-11-09,Stifel,12 month,5,buy,25.0,436.0
+437,437,-0.0,M,-2147483648,2016-11-09,Wells Fargo Securities,Not Provided,3,market perform,-0.0,437.0
+438,438,-0.0,M,-2147483648,2016-11-09,Piper Jaffray,12 month,3,neutral,23.0,438.0
+439,439,-0.0,M,-2147483648,2016-11-09,Consumer Edge Research,12 month,3,equalweight,27.0,439.0
+440,440,-0.0,M,-2147483648,2016-10-07,EVA Dimensions,Not Provided,1,underweight,-0.0,440.0
+441,441,-0.0,M,-2147483648,2016-12-17,EVA Dimensions,Not Provided,1,sell,-0.0,441.0
+442,442,-0.0,M,-2147483648,2016-12-16,RBC Capital Markets,12 month,3,sector perform,22.0,442.0
+443,443,-0.0,N,-2147483648,2016-12-15,BMO Capital Markets,Not Provided,5,outperform,24.0,443.0
+444,444,-0.0,M,-2147483648,2016-11-22,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,444.0
+445,445,-0.0,U,-2147483648,2016-11-17,Berenberg,Not Provided,3,hold,18.0,445.0
+446,446,-0.0,M,-2147483648,2016-11-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,446.0
+447,447,-0.0,M,-2147483648,2016-11-10,B Riley & Co,Not Provided,3,neutral,17.0,447.0
+448,448,-0.0,M,-2147483648,2016-11-10,Barclays,Not Provided,3,equalweight,23.0,448.0
+449,449,-0.0,M,-2147483648,2016-11-09,Stifel,12 month,5,buy,25.0,449.0
+450,450,-0.0,M,-2147483648,2016-11-09,Wells Fargo Securities,Not Provided,3,market perform,-0.0,450.0
+451,451,-0.0,M,-2147483648,2016-11-09,Piper Jaffray,12 month,3,neutral,23.0,451.0
+452,452,-0.0,M,-2147483648,2016-11-09,Consumer Edge Research,12 month,3,equalweight,27.0,452.0
+453,453,-0.0,M,-2147483648,2017-01-26,RBC Capital Markets,12 month,3,sector perform,22.0,453.0
+454,454,-0.0,M,-2147483648,2017-01-19,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,454.0
+455,455,-0.0,M,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.0,455.0
+456,456,-0.0,M,-2147483648,2017-01-18,Wells Fargo Securities,Not Provided,3,market perform,-0.0,456.0
+457,457,-0.0,M,-2147483648,2017-01-11,BMO Capital Markets,Not Provided,5,outperform,24.0,457.0
+458,458,-0.0,M,-2147483648,2017-01-10,Piper Jaffray,12 month,3,neutral,23.0,458.0
+459,459,-0.0,M,-2147483648,2017-01-10,Barclays,Not Provided,3,equalweight,20.0,459.0
+460,460,-0.0,M,-2147483648,2017-01-10,Consumer Edge Research,12 month,3,equalweight,22.0,460.0
+461,461,-0.0,M,-2147483648,2016-12-17,EVA Dimensions,Not Provided,1,sell,-0.0,461.0
+462,462,-0.0,U,-2147483648,2016-11-17,Berenberg,Not Provided,3,hold,18.0,462.0
+463,463,-0.0,M,-2147483648,2016-11-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,463.0
+464,464,-0.0,M,-2147483648,2016-11-10,B Riley & Co,Not Provided,3,neutral,17.0,464.0
+465,465,-0.0,M,-2147483648,2016-11-09,Stifel,12 month,5,buy,25.0,465.0
+466,466,-0.0,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.5,466.0
+467,467,-0.0,M,-2147483648,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,467.0
+468,468,-0.0,M,-2147483648,2017-02-10,RBC Capital Markets,12 month,3,sector perform,22.0,468.0
+469,469,-0.0,M,-2147483648,2017-02-10,B Riley & Co,12 month,3,neutral,18.5,469.0
+470,470,-0.0,M,-2147483648,2017-02-10,Stifel,12 month,5,buy,25.0,470.0
+471,471,-0.0,M,-2147483648,2017-02-10,Barclays,Not Provided,3,equalweight,18.0,471.0
+472,472,-0.0,M,-2147483648,2017-02-09,BMO Capital Markets,Not Provided,5,outperform,24.0,472.0
+473,473,-0.0,M,-2147483648,2017-02-09,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,473.0
+474,474,-0.0,M,-2147483648,2017-02-09,Wells Fargo Securities,Not Provided,3,market perform,-0.0,474.0
+475,475,-0.0,M,-2147483648,2017-02-09,Piper Jaffray,12 month,3,neutral,19.0,475.0
+476,476,-0.0,M,-2147483648,2017-02-09,Consumer Edge Research,12 month,3,equalweight,22.0,476.0
+477,477,-0.0,M,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.0,477.0
+478,478,-0.0,M,-2147483648,2016-12-17,EVA Dimensions,Not Provided,1,sell,-0.0,478.0
+479,479,-0.0,M,-2147483648,2017-03-31,RBC Capital Markets,12 month,3,sector perform,22.0,479.0
+480,480,-0.0,M,-2147483648,2017-03-29,Consumer Edge Research,12 month,3,equalweight,21.0,480.0
+481,481,-0.0,N,-2147483648,2017-03-21,J.P. Morgan,9 month,1,underweight,16.0,481.0
+482,482,-0.0,M,-2147483648,2017-03-20,B Riley & Co,Not Provided,3,neutral,18.5,482.0
+483,483,-0.0,M,-2147483648,2017-03-09,Barclays,Not Provided,3,equalweight,18.0,483.0
+484,484,-0.0,M,-2147483648,2017-03-07,Wells Fargo Securities,Not Provided,3,market perform,-0.0,484.0
+485,485,-0.0,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.5,485.0
+486,486,-0.0,M,-2147483648,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,486.0
+487,487,-0.0,M,-2147483648,2017-02-10,Stifel,12 month,5,buy,25.0,487.0
+488,488,-0.0,M,-2147483648,2017-02-09,BMO Capital Markets,Not Provided,5,outperform,24.0,488.0
+489,489,-0.0,M,-2147483648,2017-02-09,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,489.0
+490,490,-0.0,M,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.0,490.0
+491,491,-0.0,M,-2147483648,2016-12-17,EVA Dimensions,Not Provided,1,sell,-0.0,491.0
+492,492,0.0,M,4,2017-04-23,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,492.0
+493,493,-37.4,M,6,2017-04-23,Stifel,12 month,5,buy,25.0,493.0
+494,494,0.0,M,4,2017-04-21,RBC Capital Markets,12 month,3,sector perform,22.0,494.0
+495,495,-0.0,M,-2147483648,2017-04-19,J.P. Morgan,9 month,1,underweight,16.0,495.0
+496,496,0.0,M,4,2017-04-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0,496.0
+497,497,0.0,M,4,2017-04-19,Consumer Edge Research,12 month,3,equalweight,21.0,497.0
+498,498,37.4,M,1,2017-04-18,EVA Dimensions,Not Provided,1,sell,-0.0,498.0
+499,499,21.33,M,2,2017-04-07,B Riley & Co,Not Provided,3,neutral,18.5,499.0
+500,500,-0.0,M,-2147483648,2017-04-03,BMO Capital Markets,Not Provided,5,outperform,24.0,500.0
+501,501,0.0,M,4,2017-04-03,Barclays,Not Provided,3,equalweight,18.0,501.0
+502,502,-0.0,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.5,502.0
+503,503,12.37,M,3,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,503.0
+504,504,-0.0,M,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.0,504.0
+505,505,0.0,M,4,2017-04-23,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,505.0
+506,506,-37.4,M,6,2017-04-23,Stifel,12 month,5,buy,25.0,506.0
+507,507,0.0,M,4,2017-04-21,RBC Capital Markets,12 month,3,sector perform,22.0,507.0
+508,508,-0.0,M,-2147483648,2017-04-19,J.P. Morgan,9 month,1,underweight,16.0,508.0
+509,509,0.0,M,4,2017-04-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0,509.0
+510,510,0.0,M,4,2017-04-19,Consumer Edge Research,12 month,3,equalweight,21.0,510.0
+511,511,37.4,M,1,2017-04-18,EVA Dimensions,Not Provided,1,sell,-0.0,511.0
+512,512,21.33,M,2,2017-04-07,B Riley & Co,Not Provided,3,neutral,18.5,512.0
+513,513,-0.0,M,-2147483648,2017-04-03,BMO Capital Markets,Not Provided,5,outperform,24.0,513.0
+514,514,0.0,M,4,2017-04-03,Barclays,Not Provided,3,equalweight,18.0,514.0
+515,515,-0.0,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.5,515.0
+516,516,12.37,M,3,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,516.0
+517,517,-0.0,M,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.0,517.0
+518,518,0.0,M,4,2017-04-23,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,518.0
+519,519,-37.4,M,6,2017-04-23,Stifel,12 month,5,buy,25.0,519.0
+520,520,0.0,M,4,2017-04-21,RBC Capital Markets,12 month,3,sector perform,22.0,520.0
+521,521,-0.0,M,-2147483648,2017-04-19,J.P. Morgan,9 month,1,underweight,16.0,521.0
+522,522,0.0,M,4,2017-04-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0,522.0
+523,523,0.0,M,4,2017-04-19,Consumer Edge Research,12 month,3,equalweight,21.0,523.0
+524,524,37.4,M,1,2017-04-18,EVA Dimensions,Not Provided,1,sell,-0.0,524.0
+525,525,21.33,M,2,2017-04-07,B Riley & Co,Not Provided,3,neutral,18.5,525.0
+526,526,-0.0,M,-2147483648,2017-04-03,BMO Capital Markets,Not Provided,5,outperform,24.0,526.0
+527,527,0.0,M,4,2017-04-03,Barclays,Not Provided,3,equalweight,18.0,527.0
+528,528,-0.0,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.5,528.0
+529,529,12.37,M,3,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,529.0
+530,530,-0.0,M,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.0,530.0
+531,531,0.0,M,4,2017-04-23,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,531.0
+532,532,-37.4,M,6,2017-04-23,Stifel,12 month,5,buy,25.0,532.0
+533,533,0.0,M,4,2017-04-21,RBC Capital Markets,12 month,3,sector perform,22.0,533.0
+534,534,-0.0,M,-2147483648,2017-04-19,J.P. Morgan,9 month,1,underweight,16.0,534.0
+535,535,0.0,M,4,2017-04-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0,535.0
+536,536,0.0,M,4,2017-04-19,Consumer Edge Research,12 month,3,equalweight,21.0,536.0
+537,537,37.4,M,1,2017-04-18,EVA Dimensions,Not Provided,1,sell,-0.0,537.0
+538,538,21.33,M,2,2017-04-07,B Riley & Co,Not Provided,3,neutral,18.5,538.0
+539,539,-0.0,M,-2147483648,2017-04-03,BMO Capital Markets,Not Provided,5,outperform,24.0,539.0
+540,540,0.0,M,4,2017-04-03,Barclays,Not Provided,3,equalweight,18.0,540.0
+541,541,-0.0,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.5,541.0
+542,542,12.37,M,3,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,542.0
+543,543,-0.0,M,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.0,543.0
+544,544,0.0,M,4,2017-04-23,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,544.0
+545,545,-37.4,M,6,2017-04-23,Stifel,12 month,5,buy,25.0,545.0
+546,546,0.0,M,4,2017-04-21,RBC Capital Markets,12 month,3,sector perform,22.0,546.0
+547,547,-0.0,M,-2147483648,2017-04-19,J.P. Morgan,9 month,1,underweight,16.0,547.0
+548,548,0.0,M,4,2017-04-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0,548.0
+549,549,0.0,M,4,2017-04-19,Consumer Edge Research,12 month,3,equalweight,21.0,549.0
+550,550,37.4,M,1,2017-04-18,EVA Dimensions,Not Provided,1,sell,-0.0,550.0
+551,551,21.33,M,2,2017-04-07,B Riley & Co,Not Provided,3,neutral,18.5,551.0
+552,552,-0.0,M,-2147483648,2017-04-03,BMO Capital Markets,Not Provided,5,outperform,24.0,552.0
+553,553,0.0,M,4,2017-04-03,Barclays,Not Provided,3,equalweight,18.0,553.0
+554,554,-0.0,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.5,554.0
+555,555,12.37,M,3,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,555.0
+556,556,-0.0,M,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.0,556.0
+557,557,0.0,M,4,2017-04-23,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,557.0
+558,558,-37.4,M,6,2017-04-23,Stifel,12 month,5,buy,25.0,558.0
+559,559,0.0,M,4,2017-04-21,RBC Capital Markets,12 month,3,sector perform,22.0,559.0
+560,560,-0.0,M,-2147483648,2017-04-19,J.P. Morgan,9 month,1,underweight,16.0,560.0
+561,561,0.0,M,4,2017-04-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0,561.0
+562,562,0.0,M,4,2017-04-19,Consumer Edge Research,12 month,3,equalweight,21.0,562.0
+563,563,37.4,M,1,2017-04-18,EVA Dimensions,Not Provided,1,sell,-0.0,563.0
+564,564,21.33,M,2,2017-04-07,B Riley & Co,Not Provided,3,neutral,18.5,564.0
+565,565,-0.0,M,-2147483648,2017-04-03,BMO Capital Markets,Not Provided,5,outperform,24.0,565.0
+566,566,0.0,M,4,2017-04-03,Barclays,Not Provided,3,equalweight,18.0,566.0
+567,567,-0.0,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.5,567.0
+568,568,12.37,M,3,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,568.0
+569,569,-0.0,M,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.0,569.0
+570,570,0.0,M,4,2017-04-23,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,570.0
+571,571,-37.4,M,6,2017-04-23,Stifel,12 month,5,buy,25.0,571.0
+572,572,0.0,M,4,2017-04-21,RBC Capital Markets,12 month,3,sector perform,22.0,572.0
+573,573,-0.0,M,-2147483648,2017-04-19,J.P. Morgan,9 month,1,underweight,16.0,573.0
+574,574,0.0,M,4,2017-04-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0,574.0
+575,575,0.0,M,4,2017-04-19,Consumer Edge Research,12 month,3,equalweight,21.0,575.0
+576,576,37.4,M,1,2017-04-18,EVA Dimensions,Not Provided,1,sell,-0.0,576.0
+577,577,21.33,M,2,2017-04-07,B Riley & Co,Not Provided,3,neutral,18.5,577.0
+578,578,-0.0,M,-2147483648,2017-04-03,BMO Capital Markets,Not Provided,5,outperform,24.0,578.0
+579,579,0.0,M,4,2017-04-03,Barclays,Not Provided,3,equalweight,18.0,579.0
+580,580,-0.0,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.5,580.0
+581,581,12.37,M,3,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,581.0
+582,582,-0.0,M,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.0,582.0
+583,583,0.0,M,4,2017-04-23,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.0,583.0
+584,584,-37.4,M,6,2017-04-23,Stifel,12 month,5,buy,25.0,584.0
+585,585,0.0,M,4,2017-04-21,RBC Capital Markets,12 month,3,sector perform,22.0,585.0
+586,586,-0.0,M,-2147483648,2017-04-19,J.P. Morgan,9 month,1,underweight,16.0,586.0
+587,587,0.0,M,4,2017-04-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0,587.0
+588,588,0.0,M,4,2017-04-19,Consumer Edge Research,12 month,3,equalweight,21.0,588.0
+589,589,37.4,M,1,2017-04-18,EVA Dimensions,Not Provided,1,sell,-0.0,589.0
+590,590,21.33,M,2,2017-04-07,B Riley & Co,Not Provided,3,neutral,18.5,590.0
+591,591,-0.0,M,-2147483648,2017-04-03,BMO Capital Markets,Not Provided,5,outperform,24.0,591.0
+592,592,0.0,M,4,2017-04-03,Barclays,Not Provided,3,equalweight,18.0,592.0
+593,593,-0.0,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.5,593.0
+594,594,12.37,M,3,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.0,594.0
+595,595,-0.0,M,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.0,595.0
+596,596,-0.000000,M,-2147483648,2017-03-31,RBC Capital Markets,12 month,3,sector perform,22.000000,
+597,597,-0.000000,M,-2147483648,2017-03-29,Consumer Edge Research,12 month,3,equalweight,21.000000,
+598,598,-0.000000,D,-2147483648,2017-03-21,J.P. Morgan,9 month,1,underweight,16.000000,
+599,599,-0.000000,M,-2147483648,2017-03-20,B Riley & Co,Not Provided,3,neutral,18.500000,
+600,600,-0.000000,M,-2147483648,2017-03-09,Barclays,Not Provided,3,equalweight,18.000000,
+601,601,-0.000000,M,-2147483648,2017-03-07,Wells Fargo Securities,Not Provided,3,market perform,-0.000000,
+602,602,-0.000000,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.500000,
+603,603,-0.000000,M,-2147483648,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.000000,
+604,604,-0.000000,M,-2147483648,2017-02-10,Stifel,12 month,5,buy,25.000000,
+605,605,-0.000000,M,-2147483648,2017-02-09,BMO Capital Markets,Not Provided,5,outperform,24.000000,
+606,606,-0.000000,M,-2147483648,2017-02-09,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.000000,
+607,607,-0.000000,N,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.000000,
+608,608,-0.000000,M,-2147483648,2016-12-17,EVA Dimensions,Not Provided,1,sell,-0.000000,
+609,609,-0.000000,M,-2147483648,2017-04-28,RBC Capital Markets,12 month,3,sector perform,22.000000,
+610,610,-0.000000,M,-2147483648,2017-04-23,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.000000,
+611,611,-0.000000,M,-2147483648,2017-04-23,Stifel,12 month,5,buy,25.000000,
+612,612,-0.000000,M,-2147483648,2017-04-19,J.P. Morgan,9 month,1,underweight,16.000000,
+613,613,-0.000000,M,-2147483648,2017-04-19,Wells Fargo Securities,Not Provided,3,market perform,-0.000000,
+614,614,-0.000000,M,-2147483648,2017-04-19,Consumer Edge Research,12 month,3,equalweight,21.000000,
+615,615,-0.000000,M,-2147483648,2017-04-18,EVA Dimensions,Not Provided,1,sell,-0.000000,
+616,616,-0.000000,M,-2147483648,2017-04-03,BMO Capital Markets,Not Provided,5,outperform,24.000000,
+617,617,-0.000000,M,-2147483648,2017-04-03,Barclays,Not Provided,3,equalweight,18.000000,
+618,618,-0.000000,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.500000,
+619,619,-0.000000,M,-2147483648,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.000000,
+620,620,-0.000000,N,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.000000,
+621,621,0.000000,M,3,2017-04-28,RBC Capital Markets,12 month,3,sector perform,22.000000,
+622,622,0.000000,M,3,2017-04-23,KeyBanc Capital Markets,Not Provided,3,sector weight,-0.000000,
+623,623,-40.480000,M,5,2017-04-23,Stifel,12 month,5,buy,25.000000,
+624,624,-0.000000,M,-2147483648,2017-04-19,J.P. Morgan,9 month,1,underweight,16.000000,
+625,625,0.000000,M,3,2017-04-19,Wells Fargo Securities,Not Provided,3,market perform,-0.000000,
+626,626,0.000000,M,3,2017-04-19,Consumer Edge Research,12 month,3,equalweight,21.000000,
+627,627,40.480000,M,1,2017-04-18,EVA Dimensions,Not Provided,1,sell,-0.000000,
+628,628,-0.000000,M,-2147483648,2017-04-03,BMO Capital Markets,Not Provided,5,outperform,24.000000,
+629,629,0.000000,M,3,2017-04-03,Barclays,Not Provided,3,equalweight,18.000000,
+630,630,-0.000000,M,-2147483648,2017-02-16,Berenberg,Not Provided,3,hold,17.500000,
+631,631,16.400000,M,2,2017-02-10,Morgan Stanley,12 month,3,Equalwt/In-Line,22.000000,
+632,632,-0.000000,N,-2147483648,2017-01-19,Renaissance Macro Research LLC,12 month,3,equalweight,20.000000,

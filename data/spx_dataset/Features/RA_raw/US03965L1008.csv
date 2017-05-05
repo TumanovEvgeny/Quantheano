@@ -1,0 +1,174 @@
+,index,1 Year Return,Action Code,BARR,Date,Firm Name,Period,Rating,Recommendation,Target Price,Unnamed: 0
+0,0,-0.0,N,-2147483648,2016-11-01,Goldman Sachs,Not Provided,1,Sell/Neutral,15.0,0.0
+1,1,-0.0,N,-2147483648,2016-11-01,Macquarie,12 month,3,neutral,21.0,1.0
+2,2,-0.0,N,-2147483648,2016-11-01,"Morningstar, Inc",Not Provided,3,hold,-0.0,2.0
+3,3,-0.0,N,-2147483648,2016-10-21,Spin-Off Research,Not Provided,3,neutral,21.0,3.0
+4,4,-0.0,N,-2147483648,2016-10-11,Credit Suisse,Not Provided,5,outperform,29.24,4.0
+5,5,-0.0,M,-2147483648,2016-11-29,Goldman Sachs,6 month,1,Sell/Neutral,16.0,5.0
+6,6,-0.0,M,-2147483648,2016-11-25,Argus Research Corp,Not Provided,3,hold,-0.0,6.0
+7,7,-0.0,D,-2147483648,2016-11-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,7.0
+8,8,-0.0,N,-2147483648,2016-11-07,Morgan Stanley,12 month,3,Equalwt/In-Line,19.0,8.0
+9,9,-0.0,M,-2147483648,2016-11-02,Macquarie,12 month,3,neutral,21.0,9.0
+10,10,-0.0,M,-2147483648,2016-11-02,Spin-Off Research,Not Provided,3,neutral,20.0,10.0
+11,11,-0.0,N,-2147483648,2016-10-11,Credit Suisse,Not Provided,5,outperform,29.24,11.0
+12,12,-0.0,M,-2147483648,2016-12-28,"Morningstar, Inc",Not Provided,3,hold,-0.0,12.0
+13,13,-0.0,M,-2147483648,2016-12-24,EVA Dimensions,Not Provided,1,underweight,-0.0,13.0
+14,14,-0.0,M,-2147483648,2016-12-23,Argus Research Corp,Not Provided,5,buy,25.0,14.0
+15,15,-0.0,M,-2147483648,2016-12-15,Morgan Stanley,12 month,3,Equalwt/In-Line,21.0,15.0
+16,16,-0.0,M,-2147483648,2016-12-15,Macquarie,12 month,3,neutral,21.0,16.0
+17,17,-0.0,M,-2147483648,2016-12-15,Seaport Global Securities,12 month,3,neutral,21.0,17.0
+18,18,-0.0,M,-2147483648,2016-12-12,Credit Suisse,Not Provided,5,outperform,27.0,18.0
+19,19,-0.0,M,-2147483648,2016-11-29,Goldman Sachs,6 month,1,Sell/Neutral,16.0,19.0
+20,20,-0.0,M,-2147483648,2016-11-02,Spin-Off Research,Not Provided,3,neutral,20.0,20.0
+21,21,-0.0,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,21.0
+22,22,-0.0,M,-2147483648,2017-02-01,Goldman Sachs,6 month,1,Sell/Neutral,17.0,22.0
+23,23,-0.0,M,-2147483648,2017-02-01,Seaport Global Securities,12 month,3,neutral,25.0,23.0
+24,24,-0.0,M,-2147483648,2017-02-01,"Morningstar, Inc",Not Provided,3,hold,-0.0,24.0
+25,25,-0.0,M,-2147483648,2017-02-01,Rosenblatt Securities,12 month,5,buy,24.0,25.0
+26,26,-0.0,M,-2147483648,2017-01-31,Argus Research Corp,Not Provided,5,buy,25.0,26.0
+27,27,-0.0,M,-2147483648,2017-01-17,EVA Dimensions,Not Provided,1,underweight,-0.0,27.0
+28,28,-0.0,M,-2147483648,2017-01-10,Macquarie,12 month,3,neutral,20.0,28.0
+29,29,-0.0,M,-2147483648,2017-01-05,Spin-Off Research,Not Provided,3,neutral,21.0,29.0
+30,30,-0.0,M,-2147483648,2016-12-12,Credit Suisse,Not Provided,5,outperform,27.0,30.0
+31,31,-0.0,M,-2147483648,2017-02-28,Argus Research Corp,Not Provided,5,buy,32.0,31.0
+32,32,-0.0,M,-2147483648,2017-02-17,Macquarie,12 month,3,neutral,27.0,32.0
+33,33,-0.0,M,-2147483648,2017-02-15,"Morningstar, Inc",Not Provided,3,hold,-0.0,33.0
+34,34,-0.0,M,-2147483648,2017-02-09,Credit Suisse,Not Provided,5,outperform,33.0,34.0
+35,35,-0.0,U,-2147483648,2017-02-02,Spin-Off Research,Not Provided,5,buy,29.0,35.0
+36,36,-0.0,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,36.0
+37,37,-0.0,M,-2147483648,2017-02-01,Goldman Sachs,6 month,1,Sell/Neutral,17.0,37.0
+38,38,-0.0,M,-2147483648,2017-02-01,Seaport Global Securities,12 month,3,neutral,25.0,38.0
+39,39,-0.0,M,-2147483648,2017-02-01,Rosenblatt Securities,12 month,5,buy,24.0,39.0
+40,40,-0.0,M,-2147483648,2017-01-17,EVA Dimensions,Not Provided,1,underweight,-0.0,40.0
+41,41,-0.0,N,-2147483648,2017-03-31,Longbow Research,Not Provided,3,neutral,-0.0,41.0
+42,42,-0.0,M,-2147483648,2017-03-30,Argus Research Corp,Not Provided,5,buy,32.0,42.0
+43,43,-0.0,N,-2147483648,2017-03-29,Cowen,12 month,3,market perform,25.0,43.0
+44,44,-0.0,M,-2147483648,2017-03-21,"Morningstar, Inc",Not Provided,3,hold,-0.0,44.0
+45,45,-0.0,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.0,45.0
+46,46,-0.0,M,-2147483648,2017-02-17,Macquarie,12 month,3,neutral,27.0,46.0
+47,47,-0.0,M,-2147483648,2017-02-09,Credit Suisse,Not Provided,5,outperform,33.0,47.0
+48,48,-0.0,U,-2147483648,2017-02-02,Spin-Off Research,Not Provided,5,buy,29.0,48.0
+49,49,-0.0,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,49.0
+50,50,-0.0,M,-2147483648,2017-02-01,Seaport Global Securities,12 month,3,neutral,25.0,50.0
+51,51,-0.0,M,-2147483648,2017-01-17,EVA Dimensions,Not Provided,1,underweight,-0.0,51.0
+52,52,-0.0,M,-2147483648,2017-04-26,J.P. Morgan,12 month,3,neutral,30.0,52.0
+53,53,-0.0,M,-2147483648,2017-04-26,Spin-Off Research,Not Provided,5,buy,31.0,53.0
+54,54,-0.0,M,-2147483648,2017-04-26,Cowen,12 month,3,market perform,25.0,54.0
+55,55,-0.0,M,-2147483648,2017-04-26,Seaport Global Securities,12 month,3,neutral,27.0,55.0
+56,56,-0.0,M,-2147483648,2017-04-25,Argus Research Corp,Not Provided,5,buy,32.0,56.0
+57,57,-0.0,M,-2147483648,2017-04-25,Credit Suisse,Not Provided,5,outperform,33.0,57.0
+58,58,-0.0,U,-2147483648,2017-04-25,EVA Dimensions,Not Provided,3,hold,-0.0,58.0
+59,59,-0.0,M,-2147483648,2017-04-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,59.0
+60,60,-0.0,M,-2147483648,2017-04-07,Longbow Research,Not Provided,3,neutral,-0.0,60.0
+61,61,-0.0,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.0,61.0
+62,62,-0.0,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,62.0
+63,63,-0.0,M,-2147483648,2017-04-26,J.P. Morgan,12 month,3,neutral,30.0,63.0
+64,64,-0.0,M,-2147483648,2017-04-26,Spin-Off Research,Not Provided,5,buy,31.0,64.0
+65,65,-0.0,M,-2147483648,2017-04-26,Cowen,12 month,3,market perform,25.0,65.0
+66,66,-0.0,M,-2147483648,2017-04-26,Seaport Global Securities,12 month,3,neutral,27.0,66.0
+67,67,-0.0,M,-2147483648,2017-04-25,Argus Research Corp,Not Provided,5,buy,32.0,67.0
+68,68,-0.0,M,-2147483648,2017-04-25,Credit Suisse,Not Provided,5,outperform,33.0,68.0
+69,69,-0.0,U,-2147483648,2017-04-25,EVA Dimensions,Not Provided,3,hold,-0.0,69.0
+70,70,-0.0,M,-2147483648,2017-04-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,70.0
+71,71,-0.0,M,-2147483648,2017-04-07,Longbow Research,Not Provided,3,neutral,-0.0,71.0
+72,72,-0.0,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.0,72.0
+73,73,-0.0,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,73.0
+74,74,-0.0,M,-2147483648,2017-04-26,J.P. Morgan,12 month,3,neutral,30.0,74.0
+75,75,-0.0,M,-2147483648,2017-04-26,Spin-Off Research,Not Provided,5,buy,31.0,75.0
+76,76,-0.0,M,-2147483648,2017-04-26,Cowen,12 month,3,market perform,25.0,76.0
+77,77,-0.0,M,-2147483648,2017-04-26,Seaport Global Securities,12 month,3,neutral,27.0,77.0
+78,78,-0.0,M,-2147483648,2017-04-25,Argus Research Corp,Not Provided,5,buy,32.0,78.0
+79,79,-0.0,M,-2147483648,2017-04-25,Credit Suisse,Not Provided,5,outperform,33.0,79.0
+80,80,-0.0,U,-2147483648,2017-04-25,EVA Dimensions,Not Provided,3,hold,-0.0,80.0
+81,81,-0.0,M,-2147483648,2017-04-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,81.0
+82,82,-0.0,M,-2147483648,2017-04-07,Longbow Research,Not Provided,3,neutral,-0.0,82.0
+83,83,-0.0,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.0,83.0
+84,84,-0.0,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,84.0
+85,85,-0.0,M,-2147483648,2017-04-26,J.P. Morgan,12 month,3,neutral,30.0,85.0
+86,86,-0.0,M,-2147483648,2017-04-26,Spin-Off Research,Not Provided,5,buy,31.0,86.0
+87,87,-0.0,M,-2147483648,2017-04-26,Cowen,12 month,3,market perform,25.0,87.0
+88,88,-0.0,M,-2147483648,2017-04-26,Seaport Global Securities,12 month,3,neutral,27.0,88.0
+89,89,-0.0,M,-2147483648,2017-04-25,Argus Research Corp,Not Provided,5,buy,32.0,89.0
+90,90,-0.0,M,-2147483648,2017-04-25,Credit Suisse,Not Provided,5,outperform,33.0,90.0
+91,91,-0.0,U,-2147483648,2017-04-25,EVA Dimensions,Not Provided,3,hold,-0.0,91.0
+92,92,-0.0,M,-2147483648,2017-04-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,92.0
+93,93,-0.0,M,-2147483648,2017-04-07,Longbow Research,Not Provided,3,neutral,-0.0,93.0
+94,94,-0.0,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.0,94.0
+95,95,-0.0,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,95.0
+96,96,-0.0,M,-2147483648,2017-04-26,J.P. Morgan,12 month,3,neutral,30.0,96.0
+97,97,-0.0,M,-2147483648,2017-04-26,Spin-Off Research,Not Provided,5,buy,31.0,97.0
+98,98,-0.0,M,-2147483648,2017-04-26,Cowen,12 month,3,market perform,25.0,98.0
+99,99,-0.0,M,-2147483648,2017-04-26,Seaport Global Securities,12 month,3,neutral,27.0,99.0
+100,100,-0.0,M,-2147483648,2017-04-25,Argus Research Corp,Not Provided,5,buy,32.0,100.0
+101,101,-0.0,M,-2147483648,2017-04-25,Credit Suisse,Not Provided,5,outperform,33.0,101.0
+102,102,-0.0,U,-2147483648,2017-04-25,EVA Dimensions,Not Provided,3,hold,-0.0,102.0
+103,103,-0.0,M,-2147483648,2017-04-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,103.0
+104,104,-0.0,M,-2147483648,2017-04-07,Longbow Research,Not Provided,3,neutral,-0.0,104.0
+105,105,-0.0,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.0,105.0
+106,106,-0.0,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,106.0
+107,107,-0.0,M,-2147483648,2017-04-26,J.P. Morgan,12 month,3,neutral,30.0,107.0
+108,108,-0.0,M,-2147483648,2017-04-26,Spin-Off Research,Not Provided,5,buy,31.0,108.0
+109,109,-0.0,M,-2147483648,2017-04-26,Cowen,12 month,3,market perform,25.0,109.0
+110,110,-0.0,M,-2147483648,2017-04-26,Seaport Global Securities,12 month,3,neutral,27.0,110.0
+111,111,-0.0,M,-2147483648,2017-04-25,Argus Research Corp,Not Provided,5,buy,32.0,111.0
+112,112,-0.0,M,-2147483648,2017-04-25,Credit Suisse,Not Provided,5,outperform,33.0,112.0
+113,113,-0.0,U,-2147483648,2017-04-25,EVA Dimensions,Not Provided,3,hold,-0.0,113.0
+114,114,-0.0,M,-2147483648,2017-04-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,114.0
+115,115,-0.0,M,-2147483648,2017-04-07,Longbow Research,Not Provided,3,neutral,-0.0,115.0
+116,116,-0.0,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.0,116.0
+117,117,-0.0,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,117.0
+118,118,-0.0,M,-2147483648,2017-04-26,J.P. Morgan,12 month,3,neutral,30.0,118.0
+119,119,-0.0,M,-2147483648,2017-04-26,Spin-Off Research,Not Provided,5,buy,31.0,119.0
+120,120,-0.0,M,-2147483648,2017-04-26,Cowen,12 month,3,market perform,25.0,120.0
+121,121,-0.0,M,-2147483648,2017-04-26,Seaport Global Securities,12 month,3,neutral,27.0,121.0
+122,122,-0.0,M,-2147483648,2017-04-25,Argus Research Corp,Not Provided,5,buy,32.0,122.0
+123,123,-0.0,M,-2147483648,2017-04-25,Credit Suisse,Not Provided,5,outperform,33.0,123.0
+124,124,-0.0,U,-2147483648,2017-04-25,EVA Dimensions,Not Provided,3,hold,-0.0,124.0
+125,125,-0.0,M,-2147483648,2017-04-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,125.0
+126,126,-0.0,M,-2147483648,2017-04-07,Longbow Research,Not Provided,3,neutral,-0.0,126.0
+127,127,-0.0,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.0,127.0
+128,128,-0.0,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,128.0
+129,129,-0.0,M,-2147483648,2017-04-26,J.P. Morgan,12 month,3,neutral,30.0,129.0
+130,130,-0.0,M,-2147483648,2017-04-26,Spin-Off Research,Not Provided,5,buy,31.0,130.0
+131,131,-0.0,M,-2147483648,2017-04-26,Cowen,12 month,3,market perform,25.0,131.0
+132,132,-0.0,M,-2147483648,2017-04-26,Seaport Global Securities,12 month,3,neutral,27.0,132.0
+133,133,-0.0,M,-2147483648,2017-04-25,Argus Research Corp,Not Provided,5,buy,32.0,133.0
+134,134,-0.0,M,-2147483648,2017-04-25,Credit Suisse,Not Provided,5,outperform,33.0,134.0
+135,135,-0.0,U,-2147483648,2017-04-25,EVA Dimensions,Not Provided,3,hold,-0.0,135.0
+136,136,-0.0,M,-2147483648,2017-04-17,"Morningstar, Inc",Not Provided,3,hold,-0.0,136.0
+137,137,-0.0,M,-2147483648,2017-04-07,Longbow Research,Not Provided,3,neutral,-0.0,137.0
+138,138,-0.0,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.0,138.0
+139,139,-0.0,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,139.0
+140,140,-0.000000,N,-2147483648,2017-03-31,Longbow Research,Not Provided,3,neutral,-0.000000,
+141,141,-0.000000,M,-2147483648,2017-03-30,Argus Research Corp,Not Provided,5,buy,32.000000,
+142,142,-0.000000,N,-2147483648,2017-03-29,Cowen,12 month,3,market perform,25.000000,
+143,143,-0.000000,M,-2147483648,2017-03-21,"Morningstar, Inc",Not Provided,3,hold,-0.000000,
+144,144,-0.000000,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.000000,
+145,145,-0.000000,M,-2147483648,2017-02-17,Macquarie,12 month,3,neutral,27.000000,
+146,146,-0.000000,M,-2147483648,2017-02-09,Credit Suisse,Not Provided,5,outperform,33.000000,
+147,147,-0.000000,U,-2147483648,2017-02-02,Spin-Off Research,Not Provided,5,buy,29.000000,
+148,148,-0.000000,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.000000,
+149,149,-0.000000,M,-2147483648,2017-02-01,Seaport Global Securities,12 month,3,neutral,25.000000,
+150,150,-0.000000,M,-2147483648,2017-01-17,EVA Dimensions,Not Provided,1,underweight,-0.000000,
+151,151,-0.000000,M,-2147483648,2017-05-01,Argus Research Corp,Not Provided,5,buy,32.000000,
+152,152,-0.000000,M,-2147483648,2017-05-01,J.P. Morgan,Not Provided,3,neutral,30.000000,
+153,153,-0.000000,M,-2147483648,2017-05-01,Cowen,12 month,3,market perform,25.000000,
+154,154,-0.000000,M,-2147483648,2017-04-27,"Morningstar, Inc",Not Provided,3,hold,-0.000000,
+155,155,-0.000000,M,-2147483648,2017-04-26,Credit Suisse,Not Provided,-2147483648,restricted,-0.000000,
+156,156,-0.000000,M,-2147483648,2017-04-26,Spin-Off Research,Not Provided,5,buy,31.000000,
+157,157,-0.000000,M,-2147483648,2017-04-26,Seaport Global Securities,12 month,3,neutral,27.000000,
+158,158,-0.000000,U,-2147483648,2017-04-25,EVA Dimensions,Not Provided,3,hold,-0.000000,
+159,159,-0.000000,M,-2147483648,2017-04-07,Longbow Research,Not Provided,3,neutral,-0.000000,
+160,160,-0.000000,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.000000,
+161,161,-0.000000,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.000000,
+162,162,-0.000000,M,-2147483648,2017-05-01,Argus Research Corp,Not Provided,5,buy,32.000000,
+163,163,-0.000000,M,-2147483648,2017-05-01,J.P. Morgan,Not Provided,3,neutral,30.000000,
+164,164,-0.000000,M,-2147483648,2017-05-01,Cowen,12 month,3,market perform,25.000000,
+165,165,-0.000000,M,-2147483648,2017-04-27,"Morningstar, Inc",Not Provided,3,hold,-0.000000,
+166,166,-0.000000,M,-2147483648,2017-04-26,Credit Suisse,Not Provided,-2147483648,restricted,-0.000000,
+167,167,-0.000000,M,-2147483648,2017-04-26,Spin-Off Research,Not Provided,5,buy,31.000000,
+168,168,-0.000000,M,-2147483648,2017-04-26,Seaport Global Securities,12 month,3,neutral,27.000000,
+169,169,-0.000000,U,-2147483648,2017-04-25,EVA Dimensions,Not Provided,3,hold,-0.000000,
+170,170,-0.000000,M,-2147483648,2017-04-07,Longbow Research,Not Provided,3,neutral,-0.000000,
+171,171,-0.000000,M,-2147483648,2017-03-02,Goldman Sachs,6 month,1,Sell/Neutral,18.000000,
+172,172,-0.000000,M,-2147483648,2017-02-01,Morgan Stanley,Not Provided,-2147483648,restricted,-0.000000,

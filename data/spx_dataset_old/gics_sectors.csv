@@ -1,0 +1,769 @@
+ISIN,sector
+AN8068571086,Energy
+BMG491BT1088,Financials
+BMG6359F1032,Energy
+BMG812761002,Consumer Discretionary
+BMG982941046,Financials
+CH0044328745,Financials
+CH0048265513,Energy
+CH0102993182,Information Technology
+CH0114405324,Consumer Discretionary
+GB00B4VLR192,Energy
+GB00B5BT0K07,Financials
+GB00BDSFG982,Energy
+GB00BFG3KF26,Energy
+GB00BWFY5505,Industrials
+IE00B40K9117,nan
+IE00B4BNMY34,Information Technology
+IE00B58JVZ52,Information Technology
+IE00B6330302,Industrials
+IE00B68SQD29,Health Care
+IE00B8KQN827,Industrials
+IE00BBGT3753,Health Care
+IE00BDB6Q211,Financials
+IE00BFRT3W74,Industrials
+IE00BGH1M568,Health Care
+IE00BJ3V9050,Health Care
+IE00BLS09M33,Industrials
+IE00BTN1Y115,Health Care
+IE00BY7QL619,Industrials
+IE00BY9D5467,Health Care
+JE00B783TY65,Consumer Discretionary
+LR0008862868,Consumer Discretionary
+NL0009434992,Materials
+NL0011031208,Health Care
+PA1436583006,Consumer Discretionary
+SG9999014823,Information Technology
+US0008863096,nan
+US00101J1060,Industrials
+US0010551028,Financials
+US0012041069,Utilities
+US00130H1059,Utilities
+US0015471081,Materials
+US00206R1023,Telecommunication Services
+US0028241000,Health Care
+US00287Y1091,Health Care
+US0028962076,Consumer Discretionary
+US00507V1098,Information Technology
+US00508Y1029,Industrials
+US00724F1012,Information Technology
+US00751Y1064,Consumer Discretionary
+US0079031078,Information Technology
+US00817Y1082,Health Care
+US0081901003,nan
+US0082521081,Financials
+US00846U1016,Health Care
+US0091581068,Materials
+US0093631028,Materials
+US00971T1016,Information Technology
+US0116591092,Industrials
+US0126531013,Materials
+US0130781000,nan
+US0131041040,nan
+US0152711091,Real Estate
+US0153511094,Health Care
+US0173611064,nan
+US01741R1023,Materials
+US0184901025,Health Care
+US0185811082,Information Technology
+US0188021085,Utilities
+US0195893088,nan
+US0200021014,Financials
+US0200391037,nan
+US02076X1028,Energy
+US02079K1079,Information Technology
+US02079K3059,Information Technology
+US0214411003,Information Technology
+US02209S1033,Consumer Staples
+US0231351067,Consumer Discretionary
+US0231391089,nan
+US0236081024,Utilities
+US02376R1023,Industrials
+US02503Y1038,Financials
+US0255371017,Utilities
+US0258161092,Financials
+US0268747849,Financials
+US0290661075,nan
+US03027X1000,Real Estate
+US0304201033,Utilities
+US03073E1055,Health Care
+US03076C1062,Financials
+US0311001004,Industrials
+US0311621009,Health Care
+US0320951017,Information Technology
+US0321651020,nan
+US0325111070,Energy
+US0326541051,Information Technology
+US0344251089,nan
+US0352291035,nan
+US0367521038,Health Care
+US0374111054,Energy
+US03748R1014,Real Estate
+US0376041051,Consumer Discretionary
+US0378331005,Information Technology
+US0381491002,nan
+US0382221051,Information Technology
+US03822W4069,Information Technology
+US0394831020,Consumer Staples
+US0395831094,nan
+US03965L1008,Industrials
+US0441861046,Materials
+US04621X1081,Financials
+US0527691069,Information Technology
+US0530151036,Information Technology
+US05329W1027,Consumer Discretionary
+US0533321024,Consumer Discretionary
+US0534841012,Real Estate
+US0534991098,nan
+US0536111091,Materials
+US0537741052,Industrials
+US0543031027,Consumer Staples
+US0549371070,Financials
+US0554821035,nan
+US0556071050,nan
+US0572241075,Energy
+US0584981064,Materials
+US0605051046,Financials
+US0640581007,Financials
+US0673831097,Health Care
+US0683061099,nan
+US0717071031,nan
+US07177M1036,Health Care
+US0718131099,Health Care
+US0737301038,nan
+US0739021089,nan
+US0758871091,Health Care
+US0758961009,Consumer Discretionary
+US0798601029,nan
+US0814371052,Materials
+US0846707026,Financials
+US0865161014,Consumer Discretionary
+US0893021032,Consumer Discretionary
+US0906131000,nan
+US09062X1037,Health Care
+US0917971006,nan
+US09247X1019,Financials
+US0936711052,Consumer Discretionary
+US0970231058,Industrials
+US0997241064,Consumer Discretionary
+US1011211018,Real Estate
+US1011371077,Health Care
+US1101221083,Health Care
+US1113201073,Information Technology
+US1156372096,Consumer Staples
+US1170431092,Consumer Discretionary
+US12189T1043,nan
+US1220141030,nan
+US1248572026,Consumer Discretionary
+US12503M1080,Financials
+US12504L1098,Real Estate
+US1252691001,Materials
+US12541W2098,Industrials
+US1255091092,Health Care
+US12572Q1058,Financials
+US1258961002,Utilities
+US1264081035,Industrials
+US12650T1043,Information Technology
+US1266501006,Consumer Staples
+US12673P1057,Information Technology
+US12686C1099,Consumer Discretionary
+US1270971039,Energy
+US13342B1052,Energy
+US1344291091,Consumer Staples
+US14040H1059,Financials
+US14149Y1082,Health Care
+US1417051034,nan
+US14170T1016,Health Care
+US1431301027,Consumer Discretionary
+US1491231015,Industrials
+US1510201049,Health Care
+US15135B1017,Health Care
+US15189T1079,Utilities
+US1523121044,nan
+US1567001060,Telecommunication Services
+US1567081096,nan
+US1567821046,Health Care
+US16119P1084,Consumer Discretionary
+US1651671075,Energy
+US1667641005,Energy
+US1696561059,Consumer Discretionary
+US1700401094,nan
+US1712321017,Financials
+US1713401024,Consumer Staples
+US1717793095,Information Technology
+US1717981013,Energy
+US1720621010,Financials
+US1724741087,nan
+US1727371080,nan
+US17275R1023,Information Technology
+US1729081059,Industrials
+US1729674242,Financials
+US1746101054,Financials
+US1773761002,Information Technology
+US1845021021,nan
+US18683K1016,Materials
+US1890541097,Consumer Staples
+US1897541041,Consumer Discretionary
+US1912161007,Consumer Staples
+US19122T1097,Consumer Staples
+US1924461023,Information Technology
+US1941621039,Consumer Staples
+US1982801094,Energy
+US20030N1019,Consumer Discretionary
+US20030N2009,Consumer Discretionary
+US2003401070,Financials
+US2005191067,nan
+US20449H1095,nan
+US2053631048,Information Technology
+US2056381096,Information Technology
+US2058624022,nan
+US2058871029,Consumer Staples
+US20605P1012,Energy
+US20825C1045,Energy
+US20854P1093,Energy
+US2091151041,Utilities
+US21036P1084,Consumer Staples
+US2103711006,nan
+US2124851062,Information Technology
+US2166484020,Health Care
+US2168311072,Consumer Discretionary
+US2193501051,Information Technology
+US22160K1051,Consumer Staples
+US2220702037,Consumer Staples
+US2223721042,nan
+US2228621049,nan
+US22822V1017,Real Estate
+US2310211063,Industrials
+US23317H1023,Real Estate
+US23331A1097,Consumer Discretionary
+US2333311072,Utilities
+US23355L1061,Information Technology
+US2358111068,nan
+US2358511028,Health Care
+US2371941053,Consumer Discretionary
+US23918K1088,Health Care
+US2423702032,Consumer Staples
+US2441991054,Industrials
+US24702R1014,nan
+US2473617023,Industrials
+US2479162081,Energy
+US24906P1093,Health Care
+US25179M1036,Energy
+US2518931033,Consumer Discretionary
+US25271C1027,Energy
+US2538681030,Real Estate
+US2540671011,Consumer Discretionary
+US2546871060,Consumer Discretionary
+US2547091080,Financials
+US25470F1049,Consumer Discretionary
+US25470F3029,Consumer Discretionary
+US25470M1099,Consumer Discretionary
+US25490A3095,Consumer Discretionary
+US2566771059,Consumer Discretionary
+US2567461080,Consumer Discretionary
+US25746U1097,Utilities
+US2578672006,Industrials
+US2600031080,Industrials
+US2605431038,Materials
+US2605611050,nan
+US26138E1091,Consumer Staples
+US2635341090,Materials
+US26441C2044,Utilities
+US26483E1001,Industrials
+US26817R1086,Utilities
+US2686481027,Information Technology
+US26875P1012,Energy
+US26884L1098,Energy
+US2692464017,Financials
+US2774321002,Materials
+US2774611097,Information Technology
+US2786421030,Information Technology
+US2788651006,Materials
+US2810201077,Utilities
+US28176E1082,Health Care
+US28336L1098,nan
+US2855121099,Information Technology
+US2856611049,nan
+US29078E1055,nan
+US2910111044,Industrials
+US2928451044,nan
+US29364G1031,Utilities
+US29414D1000,Health Care
+US2944291051,Industrials
+US29444U7000,Real Estate
+US2947411037,nan
+US29476L1070,Real Estate
+US2971781057,Real Estate
+US30040W1080,Utilities
+US30161N1019,Utilities
+US30212P3038,Consumer Discretionary
+US3021301094,Industrials
+US30219G1085,Health Care
+US30225T1025,Real Estate
+US30231G1022,Energy
+US3024451011,Information Technology
+US3024913036,Materials
+US30303M1027,Information Technology
+US3070001090,Consumer Discretionary
+US3119001044,Industrials
+US3134003017,Financials
+US3135861090,Financials
+US3137472060,Real Estate
+US3142111034,Financials
+US31428X1063,Industrials
+US3156161024,Information Technology
+US31620M1062,Information Technology
+US3167731005,Financials
+US3199631041,Information Technology
+US3205171057,Financials
+US3364331070,Information Technology
+US3377381088,Information Technology
+US3379321074,Utilities
+US3380322046,nan
+US3434121022,Industrials
+US34354P1057,Industrials
+US3448491049,Consumer Discretionary
+US3453708600,Consumer Discretionary
+US3458381064,nan
+US34959J1088,Industrials
+US34964C1062,Industrials
+US34988V1061,Consumer Discretionary
+US3546131018,Financials
+US35671D8570,Materials
+US35687M2061,nan
+US35906A1088,Telecommunication Services
+US36174X1019,Real Estate
+US3635761097,Financials
+US36467W1099,Consumer Discretionary
+US3647601083,Consumer Discretionary
+US3666511072,Information Technology
+US3676261080,nan
+US3695501086,Industrials
+US3696041033,Industrials
+US3703341046,Consumer Staples
+US37045V1008,Consumer Discretionary
+US3724601055,Consumer Discretionary
+US37247D1063,Financials
+US3729171047,nan
+US3755581036,Health Care
+US37940X1028,Information Technology
+US3813171069,nan
+US38141G1040,Financials
+US3823881061,nan
+US3825501014,Consumer Discretionary
+US3846371041,Consumer Discretionary
+US3848021040,Industrials
+US4016981056,nan
+US40412C1018,Health Care
+US40414L1098,Real Estate
+US40434L1052,Information Technology
+US4062161017,Energy
+US4103451021,Consumer Discretionary
+US4128221086,Consumer Discretionary
+US4130861093,Consumer Discretionary
+US4136191073,nan
+US4138751056,Information Technology
+US4165151048,Financials
+US4180561072,Consumer Discretionary
+US4219331026,nan
+US4230741039,nan
+US4234521015,Energy
+US4270561065,nan
+US4278661081,Consumer Staples
+US42809H1077,Energy
+US42824C1099,Information Technology
+US4325891095,Consumer Staples
+US4328481092,Consumer Discretionary
+US4364401012,Health Care
+US4370761029,Consumer Discretionary
+US4385161066,Industrials
+US4404521001,Consumer Staples
+US4410601003,Health Care
+US44107P1049,Real Estate
+US4436831071,Financials
+US4448591028,Health Care
+US4456581077,Industrials
+US4461501045,Financials
+US44919P5089,Information Technology
+US4499341083,nan
+US45073V1089,Industrials
+US45168D1046,Health Care
+US4523081093,Industrials
+US4523271090,Health Care
+US45337C1027,Health Care
+US4581401001,Information Technology
+US45822P1057,Utilities
+US45866F1049,Financials
+US4592001014,Information Technology
+US4595061015,Materials
+US4599021023,Consumer Discretionary
+US4601461035,Materials
+US4606901001,Consumer Discretionary
+US4612021034,Information Technology
+US46120E6023,Health Care
+US46284V1017,Real Estate
+US46625H1005,Financials
+US4663131039,Information Technology
+US4698141078,Industrials
+US47102X1054,Financials
+US4750701082,nan
+US4781601046,Health Care
+US4783661071,nan
+US48020T1016,nan
+US4811651086,Industrials
+US48203R1041,Information Technology
+US4824801009,Information Technology
+US4851703029,Industrials
+US4858651098,Consumer Discretionary
+US48666K1097,Consumer Discretionary
+US4878361082,Consumer Staples
+US4923861078,nan
+US49271M1009,Consumer Staples
+US4932671088,Financials
+US49337W1009,nan
+US4943681035,Consumer Staples
+US49446R1095,Real Estate
+US49456B1017,Energy
+US4955821081,nan
+US4990401030,nan
+US5002551043,Consumer Discretionary
+US5007541064,Consumer Staples
+US5010441013,Consumer Staples
+US5017971046,Consumer Discretionary
+US5018892084,Consumer Discretionary
+US5021611026,nan
+US5024131071,Industrials
+US50540R4092,Health Care
+US5128071082,Information Technology
+US5184391044,Consumer Staples
+US5246601075,Consumer Discretionary
+US5249011058,Financials
+US5249081002,nan
+US5253271028,Information Technology
+US5260571048,Consumer Discretionary
+US5272881047,Financials
+US52729N3089,Telecommunication Services
+US5297711070,Information Technology
+US53217V1098,nan
+US5324571083,Health Care
+US5341871094,Financials
+US5356781063,Information Technology
+US5398301094,Industrials
+US5404241086,Financials
+US5441471019,Consumer Staples
+US5463471053,Materials
+US5486611073,Consumer Discretionary
+US5494631071,nan
+US55261F1049,Financials
+US55262C1009,Financials
+US5528481030,Financials
+US5543821012,Real Estate
+US55616P1049,Consumer Discretionary
+US5635711089,Industrials
+US5640551017,nan
+US5658491064,Energy
+US56585A1025,Energy
+US5717481023,Financials
+US5718371033,nan
+US5719032022,Consumer Discretionary
+US5732841060,Materials
+US5745991068,Industrials
+US5762061068,nan
+US57636Q1040,Information Technology
+US5770811025,Consumer Discretionary
+US57772K1016,Information Technology
+US5785921074,nan
+US5790641063,nan
+US5797802064,Consumer Staples
+US5801351017,Consumer Discretionary
+US58155Q1031,Health Care
+US5828391061,Consumer Staples
+US58405U1025,nan
+US5846991025,nan
+US58551A1088,nan
+US58933Y1055,Health Care
+US5894051094,nan
+US5894331017,Consumer Discretionary
+US5901881087,nan
+US59156R1086,Financials
+US5926881054,Health Care
+US5949181045,Information Technology
+US5950171042,Information Technology
+US5951121038,Information Technology
+US59522J1034,Real Estate
+US6010731098,nan
+US6081901042,Consumer Discretionary
+US6085541018,nan
+US60871R2094,Consumer Staples
+US6092071058,Consumer Staples
+US61166W1018,Materials
+US6117421072,Information Technology
+US61174X1090,Consumer Staples
+US6153691059,Financials
+US6174464486,Financials
+US61945C1036,Materials
+US6200763075,Information Technology
+US6200971058,nan
+US6267171022,Energy
+US62886E1082,Information Technology
+US6293775085,Utilities
+US6294911010,nan
+US6311031081,Financials
+US6354051038,nan
+US6370711011,Energy
+US6376401039,nan
+US63934E1082,Industrials
+US63938C1080,Financials
+US64110D1046,Information Technology
+US64110L1061,Consumer Discretionary
+US6501111073,Consumer Discretionary
+US6512291062,Consumer Discretionary
+US6512901082,Energy
+US6516391066,Materials
+US65249B1098,Consumer Discretionary
+US65249B2088,Consumer Discretionary
+US65339F1012,Utilities
+US6540861076,nan
+US6541061031,Consumer Discretionary
+US65473P1057,Utilities
+US6550441058,Energy
+US6556641008,Consumer Discretionary
+US6558441084,Industrials
+US6594241050,nan
+US6658591044,Financials
+US6668071029,Industrials
+US6700061053,nan
+US6700081010,nan
+US6703461052,Materials
+US67066G1040,Information Technology
+US67103H1077,Consumer Discretionary
+US6745991058,Energy
+US6762201068,Consumer Discretionary
+US6819191064,Consumer Discretionary
+US6826801036,Energy
+US68389X1054,Information Technology
+US6907684038,Materials
+US69331C1080,Utilities
+US69344F1066,Information Technology
+US6934751057,Financials
+US6935061076,Materials
+US69351T1060,Utilities
+US6936561009,Consumer Discretionary
+US6937181088,Industrials
+US6952571056,nan
+US6964293079,Industrials
+US6988841036,Information Technology
+US7010941042,Industrials
+US7033951036,Health Care
+US7043261079,Information Technology
+US70450Y1038,Information Technology
+US7045492037,Energy
+US7081601061,Consumer Discretionary
+US7110301063,nan
+US7127041058,Financials
+US7132911022,Utilities
+US7134091005,nan
+US7134481081,Consumer Staples
+US7140461093,Health Care
+US7167681060,Consumer Discretionary
+US7170811035,Health Care
+US7172651025,nan
+US7181721090,Consumer Staples
+US7185461040,Energy
+US7234841010,Utilities
+US7237871071,Energy
+US7244791007,Industrials
+US7292511083,Real Estate
+US74005P1049,Materials
+US7401891053,Industrials
+US74144T1088,Financials
+US7415034039,Consumer Discretionary
+US74251V1026,Financials
+US7427181091,Consumer Staples
+US7432631056,nan
+US7433151039,Financials
+US74340W1036,Real Estate
+US7443201022,Financials
+US7445731067,Utilities
+US74460D1090,Real Estate
+US7458671010,Consumer Discretionary
+US7472771010,Information Technology
+US74733V1008,Energy
+US74736K1016,Information Technology
+US7475251036,Information Technology
+US74762E1029,Industrials
+US74834L1008,Health Care
+US7483561020,Utilities
+US7491211097,nan
+US74979E1010,Consumer Discretionary
+US7512121010,Consumer Discretionary
+US75281A1097,Energy
+US7547301090,Financials
+US7551115071,Industrials
+US75605Y1064,Real Estate
+US7561091049,Real Estate
+US7565771026,Information Technology
+US7581101000,nan
+US7588491032,Real Estate
+US75886F1075,Health Care
+US7591EP1005,Financials
+US7607591002,Industrials
+US7617131062,Consumer Staples
+US7703231032,Industrials
+US7739031091,Industrials
+US7743411016,Industrials
+US7753711073,nan
+US7766961061,Industrials
+US7782961038,Consumer Discretionary
+US7835491082,Industrials
+US78409V1044,Financials
+US78440X1019,Real Estate
+US78442P1066,Financials
+US7859051002,nan
+US7864291007,nan
+US7865142084,Consumer Staples
+US7908491035,Health Care
+US79466L3024,Information Technology
+US80004C1018,Information Technology
+US8010561020,Information Technology
+US80589M1027,Utilities
+US8064071025,Health Care
+US8066051017,nan
+US8085131055,Financials
+US8086551046,nan
+US8110544025,Consumer Discretionary
+US8110651010,Consumer Discretionary
+US81211K1007,Materials
+US8123501061,Consumer Discretionary
+US8168511090,Utilities
+US8243481061,Materials
+US8261701028,nan
+US8265521018,Materials
+US8288061091,Real Estate
+US83088M1027,Information Technology
+US8321101003,nan
+US8326964058,Consumer Staples
+US8330341012,Industrials
+US8341821077,nan
+US8425871071,Utilities
+US8447411088,Industrials
+US8454671095,Energy
+US8459051087,Financials
+US8475601097,Energy
+US8520611000,nan
+US8545021011,Industrials
+US8550301027,Consumer Discretionary
+US8552441094,Consumer Discretionary
+US85590A4013,Consumer Discretionary
+US8574771031,Financials
+US8589121081,Industrials
+US8636671013,Health Care
+US8668102036,nan
+US86732Y1091,Information Technology
+US86764P1093,nan
+US8679141031,Financials
+US8715031089,Information Technology
+US8715081076,nan
+US8716071076,Information Technology
+US87161C5013,Financials
+US87165B1035,Financials
+US8718291078,Consumer Staples
+US8723751009,Utilities
+US8725401090,Consumer Discretionary
+US8725901040,Telecommunication Services
+US8731681081,nan
+US87612E1064,Consumer Discretionary
+US87901J1051,Consumer Discretionary
+US8791311009,nan
+US8796641004,nan
+US8798681073,nan
+US88033G4073,Health Care
+US88076W1036,Information Technology
+US8807701029,Information Technology
+US8807791038,Industrials
+US8816091016,Energy
+US8825081040,Information Technology
+US8832031012,Industrials
+US8835561023,Health Care
+US88579Y1010,Industrials
+US8865471085,Consumer Discretionary
+US8873173038,Consumer Discretionary
+US88732J2078,Consumer Discretionary
+US8883392073,nan
+US8910271043,Financials
+US8919061098,Information Technology
+US8923561067,Consumer Discretionary
+US8928931083,nan
+US8936411003,Industrials
+US89417E1091,Financials
+US8960471071,nan
+US8969452015,Consumer Discretionary
+US90130A1016,Consumer Discretionary
+US90130A2006,Consumer Discretionary
+US9024941034,Consumer Staples
+US9026531049,Real Estate
+US9029111062,nan
+US9029733048,Financials
+US90384S3031,Consumer Discretionary
+US9043111072,Consumer Discretionary
+US9043112062,Consumer Discretionary
+US9078181081,Industrials
+US9092143067,Information Technology
+US9100471096,Industrials
+US9113121068,Industrials
+US9113631090,Industrials
+US9129091081,Materials
+US9130171096,Industrials
+US91324P1021,Health Care
+US9139031002,Health Care
+US9149061023,nan
+US91529Y1064,Financials
+US9170471026,Consumer Discretionary
+US9182041080,Consumer Discretionary
+US91913Y1001,Energy
+US92220P1057,Health Care
+US92276F1003,Real Estate
+US92343E1029,Information Technology
+US92343V1044,Telecommunication Services
+US92345Y1064,Industrials
+US92532F1003,Health Care
+US92553P2011,Consumer Discretionary
+US9255501051,Information Technology
+US92826C8394,Information Technology
+US92839U2069,Consumer Discretionary
+US9290421091,Real Estate
+US9291601097,Materials
+US92936P1003,Financials
+US92939U1060,Utilities
+US9299031024,nan
+US9311421039,Consumer Staples
+US9314271084,Consumer Staples
+US94106L1098,Industrials
+US9418481035,Health Care
+US9497461015,Financials
+US95040Q1040,Real Estate
+US9505901093,nan
+US9581021055,Information Technology
+US9598021098,Information Technology
+US96145D1054,Materials
+US9621661043,Real Estate
+US9633201069,Consumer Discretionary
+US9668371068,Consumer Staples
+US9694571004,Energy
+US97382A2006,Telecommunication Services
+US98212B1035,Energy
+US9825261053,nan
+US9830241009,nan
+US98310W1080,Consumer Discretionary
+US9831341071,Consumer Discretionary
+US98385X1063,nan
+US98389B1008,Utilities
+US9839191015,Information Technology
+US9841211033,Information Technology
+US98419M1009,Industrials
+US9843321061,Information Technology
+US9884981013,Consumer Discretionary
+US98956P1021,Health Care
+US9897011071,Financials
+US98978V1035,Health Care
+VGG607541015,Consumer Discretionary

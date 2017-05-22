@@ -1,0 +1,1293 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2010-07-30,BMO Capital Markets,Not Provided,3,market perform,30.0
+2010-07-27,Macquarie,12 month,5,outperform,33.0
+2010-07-26,Credit Suisse,Not Provided,3,neutral,27.0
+2010-07-26,UBS,Not Provided,3,neutral,29.0
+2010-07-26,J.P. Morgan,6 month,3,neutral,26.0
+2010-07-26,"Keefe, Bruyette & Woods",12 month,3,market perform,30.0
+2010-07-26,Raymond James,Not Provided,3,market perform,-0.0
+2010-07-26,"Sandler O'Neill & Partners, LP",Not Provided,3,hold,29.0
+2010-07-26,Barclays,Not Provided,3,equalwt/neutral,27.0
+2010-07-25,Goldman Sachs,12 month,3,neutral/neutral,30.0
+2010-07-15,Ticonderoga Securities LLC,12 month,1,sell,24.5
+2010-07-02,Stifel,Not Provided,3,hold,-0.0
+2010-06-15,IPOfinancial.com,Not Provided,5,buy,-0.0
+2010-09-01,BMO Capital Markets,Not Provided,3,market perform,27.0
+2010-09-01,Credit Suisse,Not Provided,3,neutral,27.0
+2010-09-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,23.0
+2010-09-01,Ticonderoga Securities LLC,12 month,1,sell,20.0
+2010-08-18,IPOfinancial.com,Not Provided,5,buy,-0.0
+2010-08-17,Macquarie,12 month,5,outperform,29.0
+2010-08-10,Stifel,Not Provided,3,hold,-0.0
+2010-08-09,Oppenheimer & Co,18 month,5,outperform,31.0
+2010-08-06,UBS,Not Provided,3,neutral,27.0
+2010-08-06,J.P. Morgan,6 month,3,neutral,23.0
+2010-08-06,"Keefe, Bruyette & Woods",12 month,3,market perform,27.0
+2010-08-06,Raymond James,Not Provided,3,market perform,-0.0
+2010-08-06,Barclays,Not Provided,3,equalwt/neutral,25.0
+2010-08-05,Goldman Sachs,12 month,3,neutral/neutral,27.0
+2010-10-01,BMO Capital Markets,Not Provided,3,market perform,27.0
+2010-10-01,Macquarie,12 month,5,outperform,29.0
+2010-09-24,"Sandler O'Neill & Partners, LP",12 month,3,hold,23.0
+2010-09-22,Goldman Sachs,12 month,3,neutral/neutral,25.0
+2010-09-20,Barclays,Not Provided,3,equalwt/neutral,24.0
+2010-09-15,"Keefe, Bruyette & Woods",12 month,3,market perform,25.0
+2010-09-13,J.P. Morgan,6 month,3,neutral,22.0
+2010-09-09,Ticonderoga Securities LLC,12 month,1,sell,20.0
+2010-09-03,UBS,Not Provided,3,neutral,23.0
+2010-09-02,Raymond James,Not Provided,3,market perform,-0.0
+2010-09-01,Credit Suisse,Not Provided,3,neutral,27.0
+2010-08-18,IPOfinancial.com,Not Provided,5,buy,-0.0
+2010-08-10,Stifel,Not Provided,3,hold,-0.0
+2010-08-09,Oppenheimer & Co,18 month,5,outperform,31.0
+2010-11-01,BMO Capital Markets,Not Provided,3,market perform,24.0
+2010-10-22,Macquarie,12 month,5,outperform,29.0
+2010-10-14,"Keefe, Bruyette & Woods",12 month,3,market perform,23.0
+2010-10-13,J.P. Morgan,15 month,3,neutral,23.0
+2010-10-13,Raymond James,Not Provided,3,market perform,-0.0
+2010-10-13,"Sandler O'Neill & Partners, LP",12 month,3,hold,23.0
+2010-10-13,Ticonderoga Securities LLC,12 month,1,sell,20.0
+2010-10-10,Oppenheimer & Co,12 month,5,outperform,27.0
+2010-10-07,Goldman Sachs,12 month,3,neutral/neutral,24.0
+2010-10-06,Stifel,Not Provided,3,hold,-0.0
+2010-10-05,Barclays,Not Provided,3,equalwt/neutral,24.0
+2010-10-04,Credit Suisse,Not Provided,3,neutral,25.0
+2010-10-04,UBS,Not Provided,3,neutral,23.0
+2010-08-18,IPOfinancial.com,Not Provided,5,buy,-0.0
+2010-12-01,BMO Capital Markets,Not Provided,3,market perform,25.0
+2010-11-29,Credit Suisse,Not Provided,3,neutral,-0.0
+2010-11-29,UBS,Not Provided,-2147483648,suspended coverage,-0.0
+2010-11-29,"Sandler O'Neill & Partners, LP",12 month,3,hold,25.0
+2010-11-24,"Keefe, Bruyette & Woods",12 month,3,market perform,23.0
+2010-11-24,Stifel,Not Provided,3,hold,-0.0
+2010-11-24,Barclays,Not Provided,3,equalwt/neutral,26.0
+2010-11-24,Ticonderoga Securities LLC,12 month,1,sell,20.0
+2010-11-05,J.P. Morgan,15 month,3,neutral,23.0
+2010-11-05,Raymond James,Not Provided,3,market perform,-0.0
+2010-11-05,Oppenheimer & Co,12 month,5,outperform,29.0
+2010-11-04,Goldman Sachs,12 month,3,neutral/neutral,25.0
+2010-10-22,Macquarie,12 month,5,outperform,29.0
+2010-08-18,IPOfinancial.com,Not Provided,5,buy,-0.0
+2010-12-31,Macquarie,12 month,5,outperform,32.0
+2010-12-28,Credit Suisse,Not Provided,3,neutral,26.0
+2010-12-27,Jefferies,12 month,3,hold,26.0
+2010-12-23,BMO Capital Markets,Not Provided,3,market perform,25.0
+2010-12-20,UBS,12 month,3,neutral,25.0
+2010-12-20,IPOfinancial.com,Not Provided,5,buy,-0.0
+2010-11-29,"Sandler O'Neill & Partners, LP",12 month,3,hold,25.0
+2010-11-24,"Keefe, Bruyette & Woods",12 month,3,market perform,23.0
+2010-11-24,Stifel,Not Provided,3,hold,-0.0
+2010-11-24,Barclays,Not Provided,3,equalwt/neutral,26.0
+2010-11-05,J.P. Morgan,15 month,3,neutral,23.0
+2010-11-05,Raymond James,Not Provided,3,market perform,-0.0
+2010-11-05,Oppenheimer & Co,12 month,5,outperform,29.0
+2010-11-04,Goldman Sachs,12 month,3,neutral/neutral,25.0
+2011-02-01,Macquarie,12 month,5,outperform,32.0
+2011-02-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,25.0
+2011-01-31,Evercore ISI,12 month,3,equalweight,23.5
+2011-01-28,Jefferies,12 month,3,hold,26.0
+2011-01-21,BMO Capital Markets,Not Provided,3,market perform,25.0
+2011-01-14,Barclays,Not Provided,3,equalwt/neutral,26.0
+2011-01-11,"Keefe, Bruyette & Woods",12 month,3,market perform,23.0
+2011-01-11,Stifel,Not Provided,3,hold,-0.0
+2011-01-07,Oppenheimer & Co,12 month,5,outperform,30.0
+2011-01-04,UBS,12 month,3,neutral,25.0
+2011-01-04,J.P. Morgan,12 month,3,neutral,23.0
+2011-01-03,Credit Suisse,Not Provided,3,neutral,26.0
+2010-12-20,IPOfinancial.com,Not Provided,5,buy,-0.0
+2010-11-05,Raymond James,Not Provided,3,market perform,-0.0
+2010-11-04,Goldman Sachs,12 month,3,neutral/neutral,25.0
+2011-03-01,BMO Capital Markets,Not Provided,3,market perform,26.0
+2011-03-01,Raymond James,Not Provided,3,market perform,-0.0
+2011-03-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,30.0
+2011-02-28,Evercore ISI,12 month,3,equalweight,29.5
+2011-02-25,Credit Suisse,Not Provided,5,outperform,32.0
+2011-02-25,Jefferies,12 month,3,hold,26.0
+2011-02-11,UBS,12 month,3,neutral,27.0
+2011-02-11,J.P. Morgan,12 month,3,neutral,25.0
+2011-02-11,"Keefe, Bruyette & Woods",12 month,3,market perform,25.0
+2011-02-11,Macquarie,12 month,5,outperform,34.0
+2011-02-11,Stifel,Not Provided,3,hold,-0.0
+2011-02-11,IPOfinancial.com,Not Provided,5,buy,-0.0
+2011-02-11,Barclays,Not Provided,3,equalwt/neutral,26.0
+2011-02-10,Goldman Sachs,12 month,3,neutral/neutral,28.0
+2011-02-10,Oppenheimer & Co,12 month,5,outperform,32.0
+2011-04-01,Credit Suisse,Not Provided,5,outperform,32.0
+2011-04-01,Evercore ISI,12 month,1,underweight,22.5
+2011-03-25,BMO Capital Markets,Not Provided,3,market perform,26.0
+2011-03-25,Jefferies,12 month,3,hold,27.0
+2011-03-16,Raymond James,Not Provided,3,market perform,-0.0
+2011-03-16,Stifel,Not Provided,3,hold,-0.0
+2011-03-11,"Keefe, Bruyette & Woods",12 month,3,market perform,25.0
+2011-03-03,J.P. Morgan,9 month,3,neutral,26.5
+2011-03-02,UBS,12 month,3,neutral,27.0
+2011-03-02,"Sandler O'Neill & Partners, LP",12 month,3,hold,30.0
+2011-03-02,Barclays,Not Provided,3,equalwt/neutral,26.0
+2011-02-11,Macquarie,12 month,5,outperform,34.0
+2011-02-11,IPOfinancial.com,Not Provided,5,buy,-0.0
+2011-02-10,Goldman Sachs,12 month,3,neutral/neutral,28.0
+2011-02-10,Oppenheimer & Co,12 month,5,outperform,32.0
+2011-04-19,Raymond James,Not Provided,3,market perform,-0.0
+2011-04-15,Jefferies,12 month,3,hold,26.0
+2011-04-12,Stifel,Not Provided,3,hold,-0.0
+2011-04-11,BMO Capital Markets,Not Provided,3,market perform,26.0
+2011-04-11,"Sandler O'Neill & Partners, LP",12 month,3,hold,28.0
+2011-04-07,"Keefe, Bruyette & Woods",12 month,3,market perform,25.0
+2011-04-07,Oppenheimer & Co,12 month,5,outperform,32.0
+2011-04-04,UBS,12 month,3,neutral,27.0
+2011-04-04,Barclays,Not Provided,3,equalwt/neutral,26.0
+2011-04-01,Credit Suisse,Not Provided,5,outperform,32.0
+2011-04-01,Evercore ISI,12 month,1,underweight,22.5
+2011-03-03,J.P. Morgan,9 month,3,neutral,26.5
+2011-02-11,Macquarie,12 month,5,outperform,34.0
+2011-02-11,IPOfinancial.com,Not Provided,5,buy,-0.0
+2011-02-10,Goldman Sachs,12 month,3,neutral/neutral,28.0
+2011-06-01,Credit Suisse,Not Provided,5,outperform,31.0
+2011-06-01,Macquarie,12 month,5,outperform,34.0
+2011-06-01,Evercore ISI,12 month,1,underweight,22.5
+2011-05-27,Jefferies,12 month,3,hold,26.0
+2011-05-24,Stifel,Not Provided,1,sell,-0.0
+2011-05-10,J.P. Morgan,3 month,3,neutral,26.5
+2011-05-10,"Keefe, Bruyette & Woods",12 month,3,market perform,25.0
+2011-05-06,UBS,12 month,3,neutral,27.0
+2011-05-06,Raymond James,Not Provided,3,market perform,-0.0
+2011-05-06,"Sandler O'Neill & Partners, LP",12 month,3,hold,27.0
+2011-05-06,Barclays,Not Provided,3,equalwt/neutral,25.0
+2011-05-05,Oppenheimer & Co,12 month,5,outperform,29.0
+2011-02-11,IPOfinancial.com,Not Provided,5,buy,-0.0
+2011-02-10,Goldman Sachs,12 month,3,neutral/neutral,28.0
+2011-07-01,Credit Suisse,Not Provided,5,outperform,31.0
+2011-07-01,Raymond James,Not Provided,3,market perform,-0.0
+2011-06-29,Evercore ISI,12 month,1,underweight,22.5
+2011-06-24,Jefferies,12 month,3,hold,26.0
+2011-06-22,IPOfinancial.com,Not Provided,3,hold,-0.0
+2011-06-17,Macquarie,12 month,5,outperform,34.0
+2011-06-07,Goldman Sachs,12 month,1,Sell/Neutral,23.0
+2011-06-02,Barclays,Not Provided,3,equalwt/neutral,24.0
+2011-05-24,Stifel,Not Provided,1,sell,-0.0
+2011-05-10,J.P. Morgan,3 month,3,neutral,26.5
+2011-05-10,"Keefe, Bruyette & Woods",12 month,3,market perform,25.0
+2011-05-06,UBS,12 month,3,neutral,27.0
+2011-05-06,"Sandler O'Neill & Partners, LP",12 month,3,hold,27.0
+2011-05-05,Oppenheimer & Co,12 month,5,outperform,29.0
+2011-08-01,BMO Capital Markets,Not Provided,3,market perform,24.0
+2011-08-01,Evercore ISI,12 month,1,underweight,22.5
+2011-08-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-07-29,Jefferies,12 month,3,hold,26.0
+2011-07-25,Stifel,Not Provided,3,hold,-0.0
+2011-07-11,UBS,12 month,3,neutral,25.0
+2011-07-08,Oppenheimer & Co,12 month,5,outperform,29.0
+2011-07-06,"Keefe, Bruyette & Woods",12 month,3,market perform,25.0
+2011-07-05,Goldman Sachs,12 month,1,Sell/Neutral,24.0
+2011-07-05,Raymond James,Not Provided,3,market perform,-0.0
+2011-07-05,"Sandler O'Neill & Partners, LP",12 month,3,hold,27.0
+2011-07-05,Barclays,Not Provided,3,equalwt/neutral,24.0
+2011-07-01,Credit Suisse,Not Provided,5,outperform,31.0
+2011-06-22,IPOfinancial.com,Not Provided,3,hold,-0.0
+2011-06-17,Macquarie,12 month,5,outperform,34.0
+2011-05-10,J.P. Morgan,3 month,3,neutral,26.5
+2011-09-01,BMO Capital Markets,Not Provided,3,market perform,24.0
+2011-09-01,Credit Suisse,Not Provided,5,outperform,31.0
+2011-09-01,J.P. Morgan,3 month,3,neutral,26.5
+2011-09-01,Raymond James,12 month,5,outperform,27.5
+2011-09-01,Evercore ISI,12 month,3,equalweight,22.5
+2011-08-31,Macquarie,12 month,5,outperform,32.0
+2011-08-31,IPOfinancial.com,Not Provided,3,hold,-0.0
+2011-08-26,"Sandler O'Neill & Partners, LP",12 month,3,hold,25.0
+2011-08-19,Jefferies,12 month,3,hold,25.0
+2011-08-16,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-08-11,Goldman Sachs,12 month,1,Sell/Neutral,22.0
+2011-08-10,Oppenheimer & Co,12 month,5,outperform,27.0
+2011-08-10,Barclays,Not Provided,3,equalwt/neutral,27.0
+2011-08-05,Stifel,Not Provided,3,hold,-0.0
+2011-08-04,"Keefe, Bruyette & Woods",12 month,3,market perform,25.0
+2011-07-11,UBS,12 month,3,neutral,25.0
+2011-09-30,Jefferies,12 month,3,hold,27.0
+2011-09-30,Raymond James,Not Provided,3,market perform,-0.0
+2011-09-30,Macquarie,12 month,5,outperform,32.0
+2011-09-30,"Sandler O'Neill & Partners, LP",12 month,3,hold,25.0
+2011-09-30,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-09-29,Credit Suisse,Not Provided,5,outperform,31.0
+2011-09-29,Barclays,Not Provided,3,equalwt/neutral,28.0
+2011-09-25,Goldman Sachs,12 month,1,Sell/Neutral,24.0
+2011-09-09,BMO Capital Markets,Not Provided,3,market perform,24.0
+2011-09-08,"Keefe, Bruyette & Woods",12 month,3,market perform,28.0
+2011-09-07,UBS,12 month,3,neutral,25.0
+2011-09-06,Stifel,Not Provided,3,hold,-0.0
+2011-09-06,Evercore ISI,12 month,3,equalweight,23.0
+2011-09-01,J.P. Morgan,3 month,3,neutral,26.5
+2011-08-31,IPOfinancial.com,Not Provided,3,hold,-0.0
+2011-08-10,Oppenheimer & Co,12 month,5,outperform,27.0
+2011-11-01,BMO Capital Markets,Not Provided,3,market perform,24.0
+2011-11-01,Evercore ISI,12 month,3,equalweight,23.0
+2011-10-31,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-10-21,"Sandler O'Neill & Partners, LP",12 month,3,hold,25.0
+2011-10-17,Raymond James,Not Provided,3,market perform,-0.0
+2011-10-14,Jefferies,12 month,3,hold,27.0
+2011-10-12,Macquarie,12 month,5,outperform,32.0
+2011-10-12,Stifel,Not Provided,3,hold,-0.0
+2011-10-11,Oppenheimer & Co,12 month,5,outperform,29.0
+2011-10-06,Credit Suisse,Not Provided,5,outperform,31.0
+2011-10-06,"Keefe, Bruyette & Woods",12 month,3,market perform,28.0
+2011-10-06,Barclays,Not Provided,3,equalwt/neutral,28.0
+2011-10-05,J.P. Morgan,3 month,3,neutral,29.0
+2011-09-25,Goldman Sachs,12 month,1,Sell/Neutral,24.0
+2011-09-07,UBS,12 month,3,neutral,25.0
+2011-08-31,IPOfinancial.com,Not Provided,3,hold,-0.0
+2011-12-01,Raymond James,Not Provided,3,market perform,-0.0
+2011-12-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,27.0
+2011-12-01,Evercore ISI,12 month,3,equalweight,23.0
+2011-11-30,BMO Capital Markets,Not Provided,3,market perform,25.0
+2011-11-28,IPOfinancial.com,Not Provided,3,hold,-0.0
+2011-11-28,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-11-26,Macquarie,12 month,5,outperform,34.0
+2011-11-21,"Keefe, Bruyette & Woods",12 month,3,market perform,28.0
+2011-11-18,Jefferies,12 month,3,hold,27.0
+2011-11-04,Goldman Sachs,12 month,1,Sell/Neutral,26.0
+2011-11-04,UBS,12 month,3,neutral,25.0
+2011-11-04,J.P. Morgan,12 month,3,neutral,29.0
+2011-11-04,Stifel,Not Provided,3,hold,-0.0
+2011-11-04,Oppenheimer & Co,12 month,5,outperform,29.0
+2011-11-04,Barclays,Not Provided,3,equalwt/neutral,28.0
+2011-11-03,Credit Suisse,Not Provided,5,outperform,31.0
+2011-12-30,Macquarie,12 month,3,neutral,32.0
+2011-12-29,BMO Capital Markets,Not Provided,3,market perform,25.0
+2011-12-23,Jefferies,12 month,3,hold,27.0
+2011-12-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-12-16,Credit Suisse,Not Provided,5,outperform,31.0
+2011-12-15,"Keefe, Bruyette & Woods",12 month,3,market perform,27.0
+2011-12-09,J.P. Morgan,9 month,3,neutral,27.0
+2011-12-02,Raymond James,Not Provided,3,market perform,-0.0
+2011-12-02,"Sandler O'Neill & Partners, LP",Not Provided,3,hold,27.0
+2011-12-02,Evercore ISI,12 month,3,equalweight,23.0
+2011-12-02,Barclays,Not Provided,3,equalwt/neutral,27.0
+2011-11-04,Goldman Sachs,12 month,1,Sell/Neutral,26.0
+2011-11-04,UBS,12 month,3,neutral,25.0
+2011-11-04,Stifel,Not Provided,3,hold,-0.0
+2011-11-04,Oppenheimer & Co,12 month,5,outperform,29.0
+2012-02-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-01-30,BMO Capital Markets,Not Provided,3,market perform,25.0
+2012-01-18,Raymond James,Not Provided,3,market perform,-0.0
+2012-01-17,Stifel,Not Provided,3,hold,-0.0
+2012-01-16,Goldman Sachs,12 month,1,Sell/Neutral,23.0
+2012-01-13,Jefferies,12 month,3,hold,27.0
+2012-01-10,Macquarie,12 month,3,neutral,32.0
+2012-01-09,Evercore ISI,12 month,3,equalweight,23.0
+2012-01-06,Barclays,Not Provided,3,equalwt/neutral,26.0
+2012-01-05,UBS,12 month,3,neutral,25.0
+2012-01-04,"Sandler O'Neill & Partners, LP",12 month,3,hold,27.0
+2012-01-04,Oppenheimer & Co,12 month,5,outperform,29.0
+2012-01-03,Credit Suisse,Not Provided,5,outperform,31.0
+2011-12-15,"Keefe, Bruyette & Woods",12 month,3,market perform,27.0
+2011-12-09,J.P. Morgan,9 month,3,neutral,27.0
+2012-03-01,Credit Suisse,Not Provided,3,neutral,28.0
+2012-03-01,Jefferies,12 month,3,hold,26.0
+2012-03-01,Raymond James,Not Provided,3,market perform,-0.0
+2012-03-01,Macquarie,12 month,3,neutral,32.0
+2012-03-01,Evercore ISI,12 month,3,equalweight,23.0
+2012-03-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-03-01,Barclays,Not Provided,3,equalwt/neutral,25.0
+2012-02-29,BMO Capital Markets,Not Provided,3,market perform,25.0
+2012-02-13,EVA Dimensions,Not Provided,5,buy,-0.0
+2012-02-10,UBS,12 month,3,neutral,25.0
+2012-02-10,Stifel,Not Provided,3,hold,-0.0
+2012-02-09,J.P. Morgan,12 month,3,neutral,28.5
+2012-02-09,"Keefe, Bruyette & Woods",12 month,1,underperform,22.0
+2012-02-09,"Sandler O'Neill & Partners, LP",12 month,3,hold,27.0
+2012-02-09,Oppenheimer & Co,18 month,5,outperform,32.0
+2012-03-31,Macquarie,12 month,3,neutral,32.0
+2012-03-30,Jefferies,12 month,3,hold,26.0
+2012-03-26,Evercore ISI,12 month,1,underweight,25.0
+2012-03-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-03-20,UBS,12 month,3,neutral,28.0
+2012-03-20,Stifel,Not Provided,3,hold,-0.0
+2012-03-16,BMO Capital Markets,Not Provided,3,market perform,25.0
+2012-03-02,J.P. Morgan,9 month,3,neutral,28.5
+2012-03-02,Raymond James,Not Provided,3,market perform,-0.0
+2012-03-02,"Sandler O'Neill & Partners, LP",12 month,3,hold,28.0
+2012-03-01,Credit Suisse,Not Provided,3,neutral,28.0
+2012-03-01,Barclays,Not Provided,3,equalwt/neutral,25.0
+2012-02-13,EVA Dimensions,Not Provided,5,buy,-0.0
+2012-02-09,"Keefe, Bruyette & Woods",12 month,1,underperform,22.0
+2012-02-09,Oppenheimer & Co,18 month,5,outperform,32.0
+2012-05-01,BMO Capital Markets,Not Provided,3,market perform,27.0
+2012-05-01,J.P. Morgan,6 month,3,neutral,28.0
+2012-05-01,Jefferies,12 month,3,hold,26.0
+2012-05-01,"Keefe, Bruyette & Woods",12 month,1,underperform,23.0
+2012-05-01,Evercore ISI,12 month,1,underweight,25.0
+2012-05-01,Oppenheimer & Co,12 month,5,outperform,30.0
+2012-04-23,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-04-17,Stifel,Not Provided,3,hold,-0.0
+2012-04-05,Macquarie,12 month,3,neutral,32.0
+2012-04-03,Credit Suisse,Not Provided,3,neutral,28.0
+2012-04-03,Raymond James,Not Provided,3,market perform,-0.0
+2012-04-03,"Sandler O'Neill & Partners, LP",12 month,3,hold,28.0
+2012-04-03,Barclays,Not Provided,3,equalwt/neutral,25.0
+2012-03-20,UBS,12 month,3,neutral,28.0
+2012-02-13,EVA Dimensions,Not Provided,5,buy,-0.0
+2012-06-01,Credit Suisse,Not Provided,3,neutral,27.0
+2012-06-01,Macquarie,12 month,3,neutral,32.0
+2012-05-25,Jefferies,12 month,3,hold,26.0
+2012-05-21,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-05-19,EVA Dimensions,Not Provided,3,hold,-0.0
+2012-05-18,Evercore ISI,12 month,3,equalweight,25.0
+2012-05-17,Raymond James,Not Provided,3,market perform,-0.0
+2012-05-02,BMO Capital Markets,Not Provided,3,market perform,27.0
+2012-05-02,"Sandler O'Neill & Partners, LP",12 month,3,hold,28.0
+2012-05-02,Stifel,Not Provided,3,hold,-0.0
+2012-05-02,Barclays,Not Provided,3,equalwt/neutral,24.0
+2012-05-01,J.P. Morgan,6 month,3,neutral,28.0
+2012-05-01,"Keefe, Bruyette & Woods",12 month,1,underperform,23.0
+2012-05-01,Oppenheimer & Co,12 month,5,outperform,30.0
+2012-03-20,UBS,12 month,3,neutral,28.0
+2012-07-01,BMO Capital Markets,Not Provided,3,market perform,27.0
+2012-06-29,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-06-22,Jefferies,12 month,3,hold,26.0
+2012-06-11,"Keefe, Bruyette & Woods",12 month,1,underperform,23.0
+2012-06-04,Raymond James,Not Provided,3,market perform,-0.0
+2012-06-04,"Sandler O'Neill & Partners, LP",Not Provided,3,hold,28.0
+2012-06-04,Barclays,Not Provided,3,equalwt/neutral,25.0
+2012-06-01,Credit Suisse,Not Provided,3,neutral,27.0
+2012-06-01,Macquarie,12 month,3,neutral,32.0
+2012-05-19,EVA Dimensions,Not Provided,3,hold,-0.0
+2012-05-18,Evercore ISI,12 month,3,equalweight,25.0
+2012-05-02,Stifel,Not Provided,3,hold,-0.0
+2012-05-01,J.P. Morgan,6 month,3,neutral,28.0
+2012-05-01,Oppenheimer & Co,12 month,5,outperform,30.0
+2012-03-20,UBS,12 month,3,neutral,28.0
+2012-08-01,"Keefe, Bruyette & Woods",12 month,1,underperform,23.0
+2012-08-01,Stifel,Not Provided,3,hold,-0.0
+2012-07-31,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-07-25,S&P Capital IQ,12 month,5,buy,32.0
+2012-07-18,BMO Capital Markets,Not Provided,3,market perform,27.0
+2012-07-13,Jefferies,12 month,3,hold,26.0
+2012-07-03,J.P. Morgan,3 month,3,neutral,28.0
+2012-07-03,Raymond James,Not Provided,3,market perform,-0.0
+2012-07-03,Macquarie,12 month,3,neutral,32.0
+2012-07-03,"Sandler O'Neill & Partners, LP",12 month,3,hold,28.0
+2012-07-02,Credit Suisse,Not Provided,3,neutral,27.0
+2012-07-02,Evercore ISI,12 month,3,equalweight,25.0
+2012-07-02,Barclays,Not Provided,3,equalweight,25.0
+2012-05-19,EVA Dimensions,Not Provided,3,hold,-0.0
+2012-03-20,UBS,12 month,3,neutral,28.0
+2012-08-31,BMO Capital Markets,Not Provided,3,market perform,26.0
+2012-08-31,Jefferies,12 month,3,hold,26.0
+2012-08-31,Macquarie,12 month,3,neutral,32.0
+2012-08-31,Stifel,Not Provided,3,hold,-0.0
+2012-08-20,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-08-15,Evercore ISI,12 month,3,equalweight,25.0
+2012-08-09,EVA Dimensions,Not Provided,5,overweight,-0.0
+2012-08-03,J.P. Morgan,3 month,3,neutral,28.0
+2012-08-03,"Sandler O'Neill & Partners, LP",Not Provided,3,hold,28.0
+2012-08-03,Barclays,Not Provided,3,equalweight,24.0
+2012-08-02,Credit Suisse,Not Provided,3,neutral,27.0
+2012-08-02,"Keefe, Bruyette & Woods",12 month,1,underperform,24.0
+2012-08-02,Raymond James,Not Provided,3,market perform,-0.0
+2012-07-25,S&P Capital IQ,12 month,5,buy,32.0
+2012-03-20,UBS,12 month,3,neutral,28.0
+2012-10-01,Credit Suisse,Not Provided,1,underperform,27.0
+2012-10-01,Macquarie,12 month,3,neutral,32.0
+2012-10-01,Evercore ISI,12 month,3,equalweight,25.0
+2012-10-01,Barclays,Not Provided,3,equalweight,24.0
+2012-09-28,Jefferies,12 month,3,hold,26.0
+2012-09-27,Raymond James,12 month,5,outperform,34.0
+2012-09-25,BMO Capital Markets,Not Provided,3,market perform,26.0
+2012-09-24,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-09-24,S&P Capital IQ,Not Provided,5,strong buy,38.0
+2012-09-19,"Keefe, Bruyette & Woods",12 month,1,underperform,24.0
+2012-09-14,BGB Securities Inc.,12 month,3,hold,27.0
+2012-09-06,J.P. Morgan,15 month,3,neutral,30.5
+2012-09-05,"Sandler O'Neill & Partners, LP",Not Provided,3,hold,29.0
+2012-08-31,Stifel,Not Provided,3,hold,-0.0
+2012-08-09,EVA Dimensions,Not Provided,5,overweight,-0.0
+2012-03-20,UBS,12 month,3,neutral,28.0
+2012-11-01,BMO Capital Markets,Not Provided,3,market perform,26.0
+2012-11-01,Credit Suisse,Not Provided,1,underperform,27.0
+2012-11-01,Jefferies,12 month,3,hold,28.0
+2012-11-01,"Keefe, Bruyette & Woods",12 month,3,market perform,30.0
+2012-11-01,Raymond James,12 month,5,outperform,32.0
+2012-11-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,30.0
+2012-11-01,Evercore ISI,12 month,3,equalweight,25.0
+2012-11-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-11-01,BGB Securities Inc.,12 month,3,hold,27.0
+2012-11-01,Barclays,Not Provided,3,equalweight,25.0
+2012-10-22,Goldman Sachs,12 month,3,neutral/neutral,30.0
+2012-10-11,Macquarie,12 month,3,neutral,32.0
+2012-10-03,J.P. Morgan,12 month,3,neutral,30.5
+2012-10-02,Stifel,Not Provided,3,hold,-0.0
+2012-09-24,S&P Capital IQ,Not Provided,5,strong buy,38.0
+2012-08-09,EVA Dimensions,Not Provided,5,overweight,-0.0
+2012-03-20,UBS,12 month,3,neutral,28.0
+2012-12-01,Macquarie,12 month,3,neutral,34.0
+2012-11-30,Jefferies,12 month,3,hold,28.0
+2012-11-25,"Keefe, Bruyette & Woods",12 month,3,market perform,30.0
+2012-11-20,BMO Capital Markets,Not Provided,3,market perform,26.0
+2012-11-19,Credit Suisse,Not Provided,1,underperform,27.0
+2012-11-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-11-14,"Sandler O'Neill & Partners, LP",12 month,3,hold,30.0
+2012-11-13,Barclays,Not Provided,3,equalweight,25.0
+2012-11-07,EVA Dimensions,Not Provided,1,underweight,-0.0
+2012-11-05,J.P. Morgan,12 month,3,neutral,33.0
+2012-11-02,UBS,12 month,3,neutral,30.0
+2012-11-02,Raymond James,12 month,5,outperform,32.0
+2012-11-02,Stifel,Not Provided,3,hold,-0.0
+2012-11-01,Evercore ISI,12 month,3,equalweight,25.0
+2012-11-01,BGB Securities Inc.,12 month,3,hold,27.0
+2012-10-22,Goldman Sachs,12 month,3,neutral/neutral,30.0
+2012-09-24,S&P Capital IQ,Not Provided,5,strong buy,38.0
+2012-12-17,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-12-13,"Keefe, Bruyette & Woods",12 month,3,market perform,30.0
+2012-12-11,BMO Capital Markets,Not Provided,3,market perform,26.0
+2012-12-11,Credit Suisse,Not Provided,1,underperform,28.0
+2012-12-11,"Sandler O'Neill & Partners, LP",12 month,3,hold,30.0
+2012-12-07,J.P. Morgan,12 month,3,neutral,32.5
+2012-12-07,Jefferies,12 month,3,hold,28.0
+2012-12-05,Evercore ISI,12 month,3,equalweight,29.0
+2012-12-03,Raymond James,12 month,5,outperform,32.0
+2012-12-03,Stifel,Not Provided,3,hold,-0.0
+2012-12-03,Barclays,Not Provided,3,equalweight,25.0
+2012-12-01,Macquarie,12 month,3,neutral,34.0
+2012-11-07,EVA Dimensions,Not Provided,1,underweight,-0.0
+2012-11-02,UBS,12 month,3,neutral,30.0
+2012-11-01,BGB Securities Inc.,12 month,3,hold,27.0
+2012-10-22,Goldman Sachs,12 month,3,neutral/neutral,30.0
+2012-09-24,S&P Capital IQ,Not Provided,5,strong buy,38.0
+2013-02-01,Jefferies,12 month,3,hold,28.0
+2013-01-28,Raymond James,Not Provided,3,market perform,-0.0
+2013-01-28,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-01-22,BMO Capital Markets,Not Provided,3,market perform,26.0
+2013-01-15,Macquarie,12 month,3,neutral,33.0
+2013-01-15,EVA Dimensions,Not Provided,1,underweight,-0.0
+2013-01-10,Goldman Sachs,12 month,3,neutral/neutral,31.0
+2013-01-09,"Keefe, Bruyette & Woods",12 month,3,market perform,30.0
+2013-01-09,Barclays,Not Provided,3,equalweight,29.0
+2013-01-09,Compass Point Research & Trading LLC,12 month,3,neutral,30.0
+2013-01-04,J.P. Morgan,12 month,3,neutral,34.0
+2013-01-03,"Sandler O'Neill & Partners, LP",Not Provided,3,hold,31.0
+2013-01-03,Stifel,Not Provided,3,hold,-0.0
+2013-01-02,Credit Suisse,Not Provided,1,underperform,28.0
+2013-01-02,Evercore ISI,12 month,3,equalweight,29.0
+2012-11-02,UBS,12 month,3,neutral,30.0
+2012-09-24,S&P Capital IQ,Not Provided,5,strong buy,38.0
+2013-03-01,Credit Suisse,Not Provided,1,underperform,29.0
+2013-03-01,Raymond James,Not Provided,3,market perform,-0.0
+2013-03-01,Barclays,Not Provided,3,equalweight,29.0
+2013-02-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-02-25,BMO Capital Markets,Not Provided,3,market perform,26.0
+2013-02-15,Jefferies,12 month,3,hold,35.0
+2013-02-14,S&P Capital IQ,Not Provided,5,strong buy,41.0
+2013-02-11,J.P. Morgan,6 month,3,neutral,36.0
+2013-02-11,EVA Dimensions,Not Provided,5,overweight,-0.0
+2013-02-11,Compass Point Research & Trading LLC,12 month,3,neutral,32.0
+2013-02-09,Macquarie,12 month,3,neutral,33.0
+2013-02-08,Goldman Sachs,12 month,3,neutral/neutral,35.0
+2013-02-08,"Keefe, Bruyette & Woods",12 month,3,market perform,32.0
+2013-02-08,"Sandler O'Neill & Partners, LP",12 month,3,hold,35.0
+2013-02-08,Evercore ISI,12 month,3,equalweight,29.0
+2012-11-02,UBS,12 month,3,neutral,30.0
+2013-04-01,Credit Suisse,Not Provided,1,underperform,33.0
+2013-04-01,Raymond James,Not Provided,3,market perform,-0.0
+2013-04-01,Macquarie,12 month,3,neutral,33.0
+2013-03-25,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-03-22,Jefferies,12 month,3,hold,35.0
+2013-03-20,"Sandler O'Neill & Partners, LP",Not Provided,3,hold,36.0
+2013-03-17,BMO Capital Markets,Not Provided,3,market perform,26.0
+2013-03-13,"Keefe, Bruyette & Woods",12 month,3,market perform,38.0
+2013-03-13,Evercore ISI,12 month,3,equalweight,29.0
+2013-03-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-03-01,Barclays,Not Provided,3,equalweight,29.0
+2013-02-14,S&P Capital IQ,Not Provided,5,strong buy,41.0
+2013-02-11,J.P. Morgan,6 month,3,neutral,36.0
+2013-02-11,Compass Point Research & Trading LLC,12 month,3,neutral,32.0
+2013-02-08,Goldman Sachs,12 month,3,neutral/neutral,35.0
+2012-11-02,UBS,12 month,3,neutral,30.0
+2013-04-29,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-04-19,Jefferies,12 month,3,hold,35.0
+2013-04-16,Compass Point Research & Trading LLC,12 month,3,neutral,35.0
+2013-04-11,Macquarie,12 month,3,neutral,33.0
+2013-04-10,BMO Capital Markets,Not Provided,3,market perform,28.0
+2013-04-09,"Keefe, Bruyette & Woods",12 month,3,market perform,38.0
+2013-04-03,Goldman Sachs,12 month,3,neutral/neutral,37.0
+2013-04-03,UBS,12 month,3,neutral,38.0
+2013-04-02,"Sandler O'Neill & Partners, LP",12 month,3,hold,37.0
+2013-04-02,Barclays,Not Provided,3,equalweight,30.0
+2013-04-01,Credit Suisse,Not Provided,1,underperform,33.0
+2013-04-01,Raymond James,Not Provided,3,market perform,-0.0
+2013-03-13,Evercore ISI,12 month,3,equalweight,29.0
+2013-03-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-02-14,S&P Capital IQ,Not Provided,5,strong buy,41.0
+2013-02-11,J.P. Morgan,6 month,3,neutral,36.0
+2013-05-29,Barclays,Not Provided,3,equalweight,40.0
+2013-05-24,Jefferies,12 month,3,hold,38.0
+2013-05-21,Macquarie,12 month,3,neutral,39.0
+2013-05-20,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-05-17,BMO Capital Markets,Not Provided,-2147483648,not rated,-0.0
+2013-05-08,S&P Capital IQ,Not Provided,5,strong buy,45.0
+2013-05-06,J.P. Morgan,6 month,3,neutral,38.5
+2013-05-03,Credit Suisse,Not Provided,1,underperform,33.0
+2013-05-03,UBS,12 month,3,neutral,41.0
+2013-05-03,"Keefe, Bruyette & Woods",12 month,3,market perform,41.0
+2013-05-03,Raymond James,Not Provided,3,market perform,-0.0
+2013-05-03,"Sandler O'Neill & Partners, LP",12 month,3,hold,39.0
+2013-05-03,Evercore ISI,12 month,3,equalweight,38.0
+2013-05-03,Compass Point Research & Trading LLC,12 month,3,neutral,37.0
+2013-04-03,Goldman Sachs,12 month,3,neutral/neutral,37.0
+2013-03-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-07-01,Credit Suisse,Not Provided,1,underperform,35.0
+2013-07-01,Raymond James,Not Provided,3,market perform,-0.0
+2013-07-01,Macquarie,12 month,3,neutral,39.0
+2013-07-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-07-01,Barclays,Not Provided,3,equalweight,43.0
+2013-06-28,Jefferies,12 month,3,hold,38.0
+2013-06-27,Evercore ISI,12 month,3,equalweight,45.0
+2013-06-24,Goldman Sachs,12 month,5,Buy/Neutral,47.0
+2013-06-12,"Keefe, Bruyette & Woods",12 month,3,market perform,43.0
+2013-06-11,"Sandler O'Neill & Partners, LP",12 month,3,hold,43.0
+2013-06-11,S&P Capital IQ,12 month,5,strong buy,50.0
+2013-06-05,J.P. Morgan,6 month,3,neutral,39.5
+2013-05-17,BMO Capital Markets,Not Provided,-2147483648,not rated,-0.0
+2013-05-03,UBS,12 month,3,neutral,41.0
+2013-05-03,Compass Point Research & Trading LLC,12 month,3,neutral,37.0
+2013-03-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-07-31,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-07-30,"Sandler O'Neill & Partners, LP",Not Provided,3,hold,50.0
+2013-07-19,Jefferies,12 month,3,hold,47.0
+2013-07-16,Compass Point Research & Trading LLC,12 month,3,neutral,42.0
+2013-07-15,"Keefe, Bruyette & Woods",12 month,3,market perform,51.0
+2013-07-03,J.P. Morgan,3 month,3,neutral,42.0
+2013-07-02,Macquarie,12 month,3,neutral,46.0
+2013-07-02,Evercore ISI,12 month,3,equalweight,45.0
+2013-07-01,Credit Suisse,Not Provided,1,underperform,35.0
+2013-07-01,Raymond James,Not Provided,3,market perform,-0.0
+2013-07-01,Barclays,Not Provided,3,equalweight,43.0
+2013-06-24,Goldman Sachs,12 month,5,Buy/Neutral,47.0
+2013-06-11,S&P Capital IQ,12 month,5,strong buy,50.0
+2013-05-17,BMO Capital Markets,Not Provided,-2147483648,not rated,-0.0
+2013-05-03,UBS,12 month,3,neutral,41.0
+2013-03-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-08-30,Macquarie,12 month,3,neutral,46.0
+2013-08-22,"Sandler O'Neill & Partners, LP",12 month,3,hold,50.0
+2013-08-16,Jefferies,12 month,3,hold,51.0
+2013-08-05,Goldman Sachs,12 month,3,neutral/neutral,49.0
+2013-08-05,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-08-02,Credit Suisse,Not Provided,1,underperform,42.0
+2013-08-02,J.P. Morgan,Not Provided,3,neutral,41.5
+2013-08-02,"Keefe, Bruyette & Woods",12 month,3,market perform,51.0
+2013-08-02,Raymond James,Not Provided,3,market perform,-0.0
+2013-08-02,Evercore ISI,12 month,3,equalweight,45.0
+2013-08-02,S&P Capital IQ,Not Provided,5,strong buy,60.0
+2013-08-02,Barclays,Not Provided,3,equalweight,42.0
+2013-08-02,Compass Point Research & Trading LLC,12 month,3,neutral,50.0
+2013-05-17,BMO Capital Markets,Not Provided,-2147483648,not rated,-0.0
+2013-05-03,UBS,12 month,3,neutral,41.0
+2013-03-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-10-01,Credit Suisse,Not Provided,1,underperform,42.0
+2013-10-01,Raymond James,Not Provided,3,market perform,-0.0
+2013-10-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-09-30,Macquarie,12 month,3,neutral,46.0
+2013-09-30,Evercore ISI,12 month,3,equalweight,45.0
+2013-09-27,Jefferies,12 month,3,hold,51.0
+2013-09-24,"Keefe, Bruyette & Woods",12 month,3,market perform,51.0
+2013-09-13,Barclays,Not Provided,3,equalweight,42.0
+2013-09-05,UBS,12 month,3,neutral,45.0
+2013-09-04,"Sandler O'Neill & Partners, LP",12 month,3,hold,50.0
+2013-09-03,BMO Capital Markets,Not Provided,3,market perform,45.0
+2013-08-05,Goldman Sachs,12 month,3,neutral/neutral,49.0
+2013-08-02,J.P. Morgan,Not Provided,3,neutral,41.5
+2013-08-02,S&P Capital IQ,Not Provided,5,strong buy,60.0
+2013-08-02,Compass Point Research & Trading LLC,12 month,3,neutral,50.0
+2013-03-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-11-01,BMO Capital Markets,Not Provided,3,market perform,48.0
+2013-11-01,Goldman Sachs,12 month,3,neutral/neutral,51.0
+2013-11-01,Credit Suisse,Not Provided,1,underperform,42.0
+2013-11-01,Jefferies,12 month,3,hold,51.0
+2013-11-01,Raymond James,Not Provided,3,market perform,-0.0
+2013-11-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,50.0
+2013-11-01,Evercore ISI,12 month,3,equalweight,45.0
+2013-11-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-11-01,S&P Capital IQ,Not Provided,5,strong buy,55.0
+2013-11-01,Barclays,Not Provided,3,equalweight,48.0
+2013-10-29,Macquarie,12 month,5,outperform,57.0
+2013-10-22,J.P. Morgan,12 month,3,neutral,48.0
+2013-10-18,UBS,12 month,5,buy,56.0
+2013-10-16,Compass Point Research & Trading LLC,12 month,3,neutral,45.0
+2013-09-24,"Keefe, Bruyette & Woods",12 month,3,market perform,51.0
+2013-03-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-11-22,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-11-15,Jefferies,12 month,3,hold,51.0
+2013-11-05,Compass Point Research & Trading LLC,12 month,3,neutral,45.0
+2013-11-04,J.P. Morgan,12 month,3,neutral,49.0
+2013-11-04,Macquarie,12 month,5,outperform,57.0
+2013-11-03,"Keefe, Bruyette & Woods",12 month,3,market perform,55.0
+2013-11-01,BMO Capital Markets,Not Provided,3,market perform,48.0
+2013-11-01,Goldman Sachs,12 month,3,neutral/neutral,51.0
+2013-11-01,Credit Suisse,Not Provided,1,underperform,42.0
+2013-11-01,Raymond James,Not Provided,3,market perform,-0.0
+2013-11-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,50.0
+2013-11-01,Evercore ISI,12 month,3,equalweight,45.0
+2013-11-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-11-01,S&P Capital IQ,Not Provided,5,strong buy,55.0
+2013-11-01,Barclays,Not Provided,3,equalweight,48.0
+2013-10-18,UBS,12 month,5,buy,56.0
+2013-12-30,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2013-12-11,"Sandler O'Neill & Partners, LP",12 month,3,hold,53.0
+2013-12-11,Compass Point Research & Trading LLC,12 month,3,neutral,45.0
+2013-12-10,"Keefe, Bruyette & Woods",12 month,3,market perform,55.0
+2013-12-09,Credit Suisse,Not Provided,1,underperform,41.6
+2013-12-06,Goldman Sachs,12 month,3,neutral/neutral,50.0
+2013-12-03,S&P Capital IQ,12 month,3,hold,55.0
+2013-12-02,Raymond James,Not Provided,3,market perform,-0.0
+2013-12-02,Barclays,Not Provided,3,equalweight,47.0
+2013-11-22,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-11-15,Jefferies,12 month,3,hold,51.0
+2013-11-04,J.P. Morgan,12 month,3,neutral,49.0
+2013-11-01,BMO Capital Markets,Not Provided,3,market perform,48.0
+2013-11-01,Evercore ISI,12 month,3,equalweight,45.0
+2013-10-18,UBS,12 month,5,buy,56.0
+2014-01-28,J.P. Morgan,9 month,3,neutral,49.5
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2014-01-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-01-24,Jefferies,12 month,3,hold,51.0
+2014-01-13,Evercore ISI,12 month,3,equalweight,45.0
+2014-01-10,BMO Capital Markets,Not Provided,3,market perform,48.0
+2014-01-08,"Keefe, Bruyette & Woods",12 month,3,market perform,55.0
+2014-01-03,"Sandler O'Neill & Partners, LP",12 month,3,hold,53.0
+2014-01-02,Credit Suisse,Not Provided,1,underperform,42.0
+2014-01-02,Raymond James,Not Provided,3,market perform,-0.0
+2014-01-02,Barclays,Not Provided,3,equalweight,48.0
+2013-12-11,Compass Point Research & Trading LLC,12 month,3,neutral,45.0
+2013-12-06,Goldman Sachs,12 month,3,neutral/neutral,50.0
+2013-11-22,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-10-18,UBS,12 month,5,buy,56.0
+2014-02-28,"Sandler O'Neill & Partners, LP",12 month,3,hold,54.0
+2014-02-21,Barclays,Not Provided,3,equalweight,49.0
+2014-02-20,EVA Dimensions,Not Provided,5,overweight,-0.0
+2014-02-18,Credit Suisse,Not Provided,1,underperform,48.0
+2014-02-18,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-02-14,Jefferies,12 month,3,hold,51.0
+2014-02-10,UBS,12 month,5,buy,60.0
+2014-02-10,J.P. Morgan,6 month,3,neutral,50.0
+2014-02-07,BMO Capital Markets,Not Provided,3,market perform,55.0
+2014-02-07,Goldman Sachs,12 month,3,neutral/neutral,54.0
+2014-02-07,Raymond James,Not Provided,3,market perform,-0.0
+2014-02-07,Evercore ISI,12 month,3,equalweight,45.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2014-01-08,"Keefe, Bruyette & Woods",12 month,3,market perform,55.0
+2013-12-11,Compass Point Research & Trading LLC,12 month,3,neutral,45.0
+2014-04-01,Credit Suisse,Not Provided,1,underperform,50.0
+2014-04-01,Raymond James,Not Provided,3,market perform,-0.0
+2014-04-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-04-01,Barclays,Not Provided,3,equalweight,49.0
+2014-04-01,EVA Dimensions,Not Provided,5,overweight,-0.0
+2014-03-28,"Keefe, Bruyette & Woods",12 month,3,market perform,55.0
+2014-03-18,BMO Capital Markets,Not Provided,3,market perform,55.0
+2014-03-18,"Sandler O'Neill & Partners, LP",12 month,3,hold,56.0
+2014-03-13,Jefferies,12 month,3,hold,51.0
+2014-02-10,UBS,12 month,5,buy,60.0
+2014-02-10,J.P. Morgan,6 month,3,neutral,50.0
+2014-02-07,Goldman Sachs,12 month,3,neutral/neutral,54.0
+2014-02-07,Evercore ISI,12 month,3,equalweight,45.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2014-04-28,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-04-16,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-04-10,Goldman Sachs,12 month,3,neutral/neutral,53.0
+2014-04-10,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-04-09,BMO Capital Markets,Not Provided,3,market perform,55.0
+2014-04-07,Jefferies,12 month,3,hold,51.0
+2014-04-02,"Sandler O'Neill & Partners, LP",Not Provided,3,hold,56.0
+2014-04-01,Credit Suisse,Not Provided,1,underperform,50.0
+2014-04-01,Raymond James,Not Provided,3,market perform,-0.0
+2014-04-01,Barclays,Not Provided,3,equalweight,49.0
+2014-03-28,"Keefe, Bruyette & Woods",12 month,3,market perform,55.0
+2014-02-10,UBS,12 month,5,buy,60.0
+2014-02-10,J.P. Morgan,6 month,3,neutral,50.0
+2014-02-07,Evercore ISI,12 month,3,equalweight,45.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2014-05-22,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-05-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-05-12,Jefferies,12 month,3,hold,51.0
+2014-05-08,BMO Capital Markets,Not Provided,3,market perform,55.0
+2014-05-07,UBS,12 month,5,buy,58.0
+2014-05-06,Goldman Sachs,12 month,3,neutral/neutral,51.0
+2014-05-06,Credit Suisse,Not Provided,1,underperform,50.0
+2014-05-06,J.P. Morgan,6 month,3,neutral,52.5
+2014-05-06,"Keefe, Bruyette & Woods",12 month,3,market perform,55.0
+2014-05-06,Raymond James,Not Provided,3,market perform,-0.0
+2014-05-06,"Sandler O'Neill & Partners, LP",12 month,3,hold,56.0
+2014-05-06,Evercore ISI,12 month,3,equalweight,45.0
+2014-05-06,Barclays,Not Provided,3,equalweight,48.0
+2014-04-10,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2014-07-01,Goldman Sachs,12 month,3,neutral/neutral,49.0
+2014-07-01,Credit Suisse,Not Provided,1,underperform,49.0
+2014-07-01,Barclays,Not Provided,3,equalweight,46.0
+2014-06-23,"Keefe, Bruyette & Woods",Not Provided,3,market perform,50.0
+2014-06-23,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-06-11,BMO Capital Markets,Not Provided,3,market perform,55.0
+2014-06-10,J.P. Morgan,6 month,3,neutral,49.0
+2014-06-10,"Sandler O'Neill & Partners, LP",12 month,3,hold,52.0
+2014-06-02,UBS,12 month,5,buy,57.0
+2014-06-02,Raymond James,Not Provided,3,market perform,-0.0
+2014-06-02,Evercore ISI,12 month,3,equalweight,45.0
+2014-05-22,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-05-12,Jefferies,12 month,3,hold,51.0
+2014-04-10,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2014-08-01,BMO Capital Markets,Not Provided,3,market perform,50.0
+2014-08-01,Credit Suisse,Not Provided,1,underperform,48.0
+2014-08-01,Jefferies,12 month,3,hold,51.0
+2014-08-01,"Keefe, Bruyette & Woods",12 month,3,market perform,54.0
+2014-08-01,Raymond James,Not Provided,3,market perform,-0.0
+2014-08-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,52.0
+2014-08-01,Evercore ISI,12 month,3,equalweight,45.0
+2014-08-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-08-01,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-08-01,Barclays,Not Provided,3,equalweight,46.0
+2014-07-08,J.P. Morgan,3 month,3,neutral,48.5
+2014-07-01,Goldman Sachs,12 month,3,neutral/neutral,49.0
+2014-06-02,UBS,12 month,5,buy,57.0
+2014-04-10,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2014-08-27,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-08-25,Raymond James,12 month,5,outperform,60.0
+2014-08-18,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-08-13,Barclays,Not Provided,3,equalweight,48.0
+2014-08-04,J.P. Morgan,Not Provided,3,neutral,53.0
+2014-08-04,Jefferies,12 month,3,hold,51.0
+2014-08-01,BMO Capital Markets,Not Provided,3,market perform,50.0
+2014-08-01,Credit Suisse,Not Provided,1,underperform,48.0
+2014-08-01,"Keefe, Bruyette & Woods",12 month,3,market perform,54.0
+2014-08-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,52.0
+2014-08-01,Evercore ISI,12 month,3,equalweight,45.0
+2014-07-01,Goldman Sachs,12 month,3,neutral/neutral,49.0
+2014-06-02,UBS,12 month,5,buy,57.0
+2014-04-10,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2014-10-01,Goldman Sachs,12 month,3,neutral/neutral,51.0
+2014-10-01,Raymond James,12 month,5,outperform,60.0
+2014-10-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,54.0
+2014-10-01,Evercore ISI,12 month,3,equalweight,52.0
+2014-10-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-10-01,Barclays,Not Provided,3,equalweight,48.0
+2014-09-29,Credit Suisse,Not Provided,1,underperform,49.0
+2014-08-27,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-08-04,J.P. Morgan,Not Provided,3,neutral,53.0
+2014-08-04,Jefferies,12 month,3,hold,51.0
+2014-08-01,BMO Capital Markets,Not Provided,3,market perform,50.0
+2014-08-01,"Keefe, Bruyette & Woods",12 month,3,market perform,54.0
+2014-06-02,UBS,12 month,5,buy,57.0
+2014-04-10,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2014-10-31,BMO Capital Markets,Not Provided,3,market perform,60.0
+2014-10-31,Goldman Sachs,12 month,3,neutral/neutral,58.0
+2014-10-31,Credit Suisse,Not Provided,1,underperform,56.0
+2014-10-31,Jefferies,12 month,3,hold,54.0
+2014-10-31,"Keefe, Bruyette & Woods",12 month,3,market perform,59.0
+2014-10-31,Raymond James,12 month,5,outperform,66.0
+2014-10-31,"Sandler O'Neill & Partners, LP",12 month,3,hold,59.0
+2014-10-31,Evercore ISI,12 month,3,hold,55.0
+2014-10-31,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-10-31,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-10-31,Barclays,Not Provided,3,equalweight,48.0
+2014-10-10,J.P. Morgan,Not Provided,3,neutral,55.0
+2014-06-02,UBS,12 month,5,buy,57.0
+2014-04-10,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2014-12-01,Credit Suisse,Not Provided,1,underperform,56.0
+2014-12-01,Raymond James,12 month,5,outperform,66.0
+2014-12-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-12-01,Barclays,Not Provided,3,equalweight,52.0
+2014-12-01,EVA Dimensions,Not Provided,5,overweight,-0.0
+2014-11-12,"Keefe, Bruyette & Woods",Not Provided,3,market perform,59.0
+2014-11-11,Evercore ISI,12 month,1,sell,55.0
+2014-11-03,UBS,12 month,5,buy,66.0
+2014-11-03,J.P. Morgan,18 month,3,neutral,56.0
+2014-10-31,BMO Capital Markets,Not Provided,3,market perform,60.0
+2014-10-31,Goldman Sachs,12 month,3,neutral/neutral,58.0
+2014-10-31,Jefferies,12 month,3,hold,54.0
+2014-10-31,"Sandler O'Neill & Partners, LP",12 month,3,hold,59.0
+2014-10-31,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2014-12-26,Credit Suisse,Not Provided,1,underperform,56.0
+2014-12-26,J.P. Morgan,12 month,3,neutral,57.0
+2014-12-22,"Keefe, Bruyette & Woods",12 month,3,market perform,59.0
+2014-12-22,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2014-12-02,"Sandler O'Neill & Partners, LP",12 month,3,hold,61.0
+2014-12-02,Evercore ISI,12 month,1,sell,55.0
+2014-12-02,EVA Dimensions,Not Provided,5,overweight,-0.0
+2014-12-01,Raymond James,12 month,5,outperform,66.0
+2014-12-01,Barclays,Not Provided,3,equalweight,52.0
+2014-11-03,UBS,12 month,5,buy,66.0
+2014-10-31,BMO Capital Markets,Not Provided,3,market perform,60.0
+2014-10-31,Goldman Sachs,12 month,3,neutral/neutral,58.0
+2014-10-31,Jefferies,12 month,3,hold,54.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2015-01-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-01-13,Goldman Sachs,12 month,1,Sell/Neutral,56.0
+2015-01-13,J.P. Morgan,12 month,3,neutral,57.0
+2015-01-13,Barclays,Not Provided,3,equalweight,56.0
+2015-01-11,"Keefe, Bruyette & Woods",Not Provided,3,market perform,62.0
+2015-01-07,Jefferies,12 month,3,hold,61.0
+2015-01-05,Credit Suisse,Not Provided,1,underperform,63.0
+2015-01-05,Raymond James,12 month,5,outperform,68.0
+2015-01-05,"Sandler O'Neill & Partners, LP",12 month,3,hold,65.0
+2015-01-05,Evercore ISI,12 month,1,sell,55.0
+2014-12-02,EVA Dimensions,Not Provided,5,overweight,-0.0
+2014-11-03,UBS,12 month,5,buy,66.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2015-02-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-02-20,Barclays,Not Provided,3,equalweight,54.0
+2015-02-18,Credit Suisse,Not Provided,1,underperform,63.0
+2015-02-13,Raymond James,12 month,5,outperform,68.0
+2015-02-10,EVA Dimensions,Not Provided,5,overweight,-0.0
+2015-02-09,Goldman Sachs,12 month,1,Sell/Neutral,53.0
+2015-02-09,UBS,12 month,3,neutral,62.0
+2015-02-09,J.P. Morgan,12 month,3,neutral,56.0
+2015-02-06,Jefferies,12 month,3,hold,61.0
+2015-02-06,"Keefe, Bruyette & Woods",12 month,3,market perform,62.0
+2015-02-06,"Sandler O'Neill & Partners, LP",12 month,3,hold,64.0
+2015-02-06,Evercore ISI,12 month,1,sell,55.0
+2014-01-28,S&P Capital IQ,Not Provided,5,strong buy,57.0
+2015-04-01,Credit Suisse,Not Provided,1,underperform,58.0
+2015-04-01,Raymond James,12 month,5,outperform,63.0
+2015-04-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-04-01,Barclays,Not Provided,3,equalweight,52.0
+2015-03-31,Goldman Sachs,12 month,1,Sell/Neutral,50.0
+2015-03-26,Evercore ISI,12 month,1,sell,55.0
+2015-03-17,"Keefe, Bruyette & Woods",Not Provided,3,market perform,62.0
+2015-03-05,J.P. Morgan,9 month,3,neutral,55.0
+2015-03-03,"Sandler O'Neill & Partners, LP",12 month,3,hold,64.0
+2015-03-02,UBS,12 month,3,neutral,60.0
+2015-02-10,EVA Dimensions,Not Provided,5,overweight,-0.0
+2015-02-06,Jefferies,12 month,3,hold,61.0
+2015-05-01,Goldman Sachs,12 month,1,Sell/Neutral,48.0
+2015-05-01,Credit Suisse,Not Provided,1,underperform,55.0
+2015-05-01,J.P. Morgan,9 month,3,neutral,55.0
+2015-05-01,Jefferies,12 month,3,hold,57.0
+2015-05-01,"Keefe, Bruyette & Woods",12 month,3,market perform,62.0
+2015-05-01,Raymond James,12 month,5,outperform,63.0
+2015-05-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,59.0
+2015-05-01,Evercore ISI,12 month,1,sell,55.0
+2015-05-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-05-01,Barclays,Not Provided,3,equalweight,48.0
+2015-04-02,UBS,12 month,3,neutral,57.0
+2015-02-10,EVA Dimensions,Not Provided,5,overweight,-0.0
+2015-06-01,Raymond James,12 month,5,outperform,63.0
+2015-06-01,Evercore ISI,12 month,1,sell,55.0
+2015-05-29,Barclays,Not Provided,3,equalweight,48.0
+2015-05-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-05-14,"Keefe, Bruyette & Woods",12 month,3,market perform,62.0
+2015-05-08,EVA Dimensions,Not Provided,3,hold,-0.0
+2015-05-01,Goldman Sachs,12 month,1,Sell/Neutral,48.0
+2015-05-01,Credit Suisse,Not Provided,1,underperform,55.0
+2015-05-01,J.P. Morgan,9 month,3,neutral,55.0
+2015-05-01,Jefferies,12 month,3,hold,57.0
+2015-05-01,"Sandler O'Neill & Partners, LP",12 month,3,hold,59.0
+2015-04-02,UBS,12 month,3,neutral,57.0
+2015-07-01,Credit Suisse,Not Provided,1,underperform,55.0
+2015-07-01,"Keefe, Bruyette & Woods",12 month,3,market perform,63.0
+2015-07-01,Raymond James,12 month,5,outperform,63.0
+2015-07-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-06-15,"Sandler O'Neill & Partners, LP",12 month,3,hold,59.0
+2015-06-08,Evercore ISI,12 month,3,hold,55.0
+2015-06-08,Barclays,Not Provided,3,equalweight,48.0
+2015-06-05,J.P. Morgan,6 month,3,neutral,50.0
+2015-05-08,EVA Dimensions,Not Provided,3,hold,-0.0
+2015-05-01,Goldman Sachs,12 month,1,Sell/Neutral,48.0
+2015-05-01,Jefferies,12 month,3,hold,57.0
+2015-04-02,UBS,12 month,3,neutral,57.0
+2015-07-31,Credit Suisse,Not Provided,1,underperform,57.0
+2015-07-31,Jefferies,12 month,3,hold,57.0
+2015-07-31,"Keefe, Bruyette & Woods",12 month,3,market perform,65.0
+2015-07-31,Raymond James,12 month,5,outperform,67.0
+2015-07-31,"Sandler O'Neill & Partners, LP",12 month,3,hold,63.0
+2015-07-31,Evercore ISI,12 month,3,hold,55.0
+2015-07-31,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-07-31,Barclays,Not Provided,3,equalweight,54.0
+2015-07-10,J.P. Morgan,6 month,3,neutral,50.0
+2015-07-02,UBS,12 month,3,neutral,59.0
+2015-05-08,EVA Dimensions,Not Provided,3,hold,-0.0
+2015-05-01,Goldman Sachs,12 month,1,Sell/Neutral,48.0
+2015-09-01,UBS,12 month,3,neutral,66.0
+2015-09-01,"Keefe, Bruyette & Woods",12 month,3,market perform,65.0
+2015-09-01,Evercore ISI,12 month,3,hold,59.0
+2015-09-01,Barclays,Not Provided,3,equalweight,57.0
+2015-08-26,"Sandler O'Neill & Partners, LP",12 month,3,hold,63.0
+2015-08-21,Raymond James,12 month,5,outperform,69.0
+2015-08-05,EVA Dimensions,Not Provided,5,overweight,-0.0
+2015-08-04,Jefferies,12 month,3,hold,57.0
+2015-08-03,J.P. Morgan,6 month,3,neutral,50.0
+2015-08-02,Goldman Sachs,12 month,1,Sell/Neutral,49.0
+2015-07-31,Credit Suisse,Not Provided,1,underperform,57.0
+2015-07-31,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-10-01,Credit Suisse,Not Provided,1,underperform,57.0
+2015-10-01,UBS,12 month,3,neutral,67.0
+2015-10-01,"Keefe, Bruyette & Woods",12 month,3,market perform,67.0
+2015-10-01,Raymond James,12 month,5,outperform,72.0
+2015-10-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-10-01,Barclays,Not Provided,3,equalweight,58.0
+2015-09-15,Goldman Sachs,12 month,1,Sell/Neutral,51.0
+2015-09-04,J.P. Morgan,6 month,3,neutral,55.0
+2015-09-02,"Sandler O'Neill & Partners, LP",12 month,3,hold,63.0
+2015-09-01,Evercore ISI,12 month,3,hold,59.0
+2015-08-05,EVA Dimensions,Not Provided,5,overweight,-0.0
+2015-08-04,Jefferies,12 month,3,hold,57.0
+2015-11-01,"Keefe, Bruyette & Woods",12 month,3,market perform,70.0
+2015-10-30,Credit Suisse,Not Provided,1,underperform,57.0
+2015-10-30,J.P. Morgan,18 month,3,neutral,63.0
+2015-10-30,Jefferies,12 month,3,hold,62.0
+2015-10-30,Raymond James,12 month,5,outperform,72.0
+2015-10-30,"Sandler O'Neill & Partners, LP",12 month,3,hold,68.0
+2015-10-30,Evercore ISI,12 month,3,hold,59.0
+2015-10-30,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-10-30,Barclays,Not Provided,3,equalweight,59.0
+2015-10-06,Goldman Sachs,12 month,1,Sell/Neutral,53.0
+2015-10-01,UBS,12 month,3,neutral,67.0
+2015-08-05,EVA Dimensions,Not Provided,5,overweight,-0.0
+2015-12-01,Credit Suisse,Not Provided,1,underperform,57.0
+2015-12-01,"Keefe, Bruyette & Woods",12 month,3,market perform,70.0
+2015-12-01,Raymond James,Not Provided,3,market perform,-0.0
+2015-12-01,Evercore ISI,12 month,3,hold,59.0
+2015-12-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-11-04,Barclays,Not Provided,3,equalweight,61.0
+2015-10-30,J.P. Morgan,18 month,3,neutral,63.0
+2015-10-30,Jefferies,12 month,3,hold,62.0
+2015-10-30,"Sandler O'Neill & Partners, LP",12 month,3,hold,68.0
+2015-10-06,Goldman Sachs,12 month,1,Sell/Neutral,53.0
+2015-10-01,UBS,12 month,3,neutral,67.0
+2015-08-05,EVA Dimensions,Not Provided,5,overweight,-0.0
+2015-12-21,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-12-18,RBC Capital Markets,12 month,5,outperform,82.0
+2015-12-08,Barclays,Not Provided,1,underweight,59.0
+2015-12-02,"Sandler O'Neill & Partners, LP",12 month,3,hold,71.0
+2015-12-01,Credit Suisse,Not Provided,1,underperform,57.0
+2015-12-01,"Keefe, Bruyette & Woods",12 month,3,market perform,70.0
+2015-12-01,Raymond James,Not Provided,3,market perform,-0.0
+2015-12-01,Evercore ISI,12 month,3,hold,59.0
+2015-10-30,J.P. Morgan,18 month,3,neutral,63.0
+2015-10-30,Jefferies,12 month,3,hold,62.0
+2015-10-06,Goldman Sachs,12 month,1,Sell/Neutral,53.0
+2015-10-01,UBS,12 month,3,neutral,67.0
+2015-08-05,EVA Dimensions,Not Provided,5,overweight,-0.0
+2016-02-01,"Keefe, Bruyette & Woods",12 month,3,market perform,69.0
+2016-01-25,RBC Capital Markets,12 month,5,outperform,82.0
+2016-01-11,Goldman Sachs,12 month,1,Sell/Neutral,58.0
+2016-01-11,Jefferies,12 month,3,hold,62.0
+2016-01-11,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2016-01-11,Barclays,Not Provided,1,underweight,54.0
+2016-01-07,J.P. Morgan,12 month,3,neutral,62.0
+2016-01-07,Evercore ISI,Not Provided,3,hold,59.0
+2016-01-05,Credit Suisse,Not Provided,1,underperform,60.0
+2016-01-05,UBS,12 month,3,neutral,65.0
+2016-01-05,"Sandler O'Neill & Partners, LP",12 month,3,hold,70.0
+2016-01-04,Raymond James,Not Provided,3,market perform,-0.0
+2015-08-05,EVA Dimensions,Not Provided,5,overweight,-0.0
+2016-03-01,"Keefe, Bruyette & Woods",12 month,3,market perform,69.0
+2016-03-01,Barclays,Not Provided,1,underweight,54.0
+2016-02-29,Jefferies,12 month,3,hold,62.0
+2016-02-22,Credit Suisse,Not Provided,1,underperform,60.0
+2016-02-22,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2016-02-04,RBC Capital Markets,12 month,5,outperform,82.0
+2016-02-03,J.P. Morgan,12 month,3,neutral,62.0
+2016-02-03,Raymond James,Not Provided,3,market perform,-0.0
+2016-02-03,"Sandler O'Neill & Partners, LP",12 month,3,hold,70.0
+2016-02-03,Evercore ISI,12 month,3,hold,59.0
+2016-02-03,EVA Dimensions,Not Provided,3,hold,-0.0
+2016-01-11,Goldman Sachs,12 month,1,Sell/Neutral,58.0
+2016-01-05,UBS,12 month,3,neutral,65.0
+2016-03-28,Evercore ISI,Not Provided,3,hold,59.0
+2016-03-24,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2016-03-07,Raymond James,Not Provided,3,market perform,-0.0
+2016-03-02,Credit Suisse,Not Provided,1,underperform,60.0
+2016-03-02,J.P. Morgan,9 month,3,neutral,60.0
+2016-03-02,"Sandler O'Neill & Partners, LP",12 month,3,hold,70.0
+2016-03-01,"Keefe, Bruyette & Woods",12 month,3,market perform,69.0
+2016-03-01,Barclays,Not Provided,1,underweight,54.0
+2016-02-29,Jefferies,12 month,3,hold,62.0
+2016-02-04,RBC Capital Markets,12 month,5,outperform,82.0
+2016-02-03,EVA Dimensions,Not Provided,3,hold,-0.0
+2016-01-11,Goldman Sachs,12 month,1,Sell/Neutral,58.0
+2016-01-05,UBS,12 month,3,neutral,65.0
+2016-05-01,Goldman Sachs,12 month,1,Sell/Neutral,55.0
+2016-05-01,"Keefe, Bruyette & Woods",12 month,3,market perform,64.0
+2016-05-01,Evercore ISI,12 month,3,hold,58.0
+2016-04-29,RBC Capital Markets,12 month,5,outperform,78.0
+2016-04-29,Credit Suisse,Not Provided,1,underperform,60.0
+2016-04-29,Jefferies,12 month,3,hold,62.0
+2016-04-29,Raymond James,Not Provided,3,market perform,-0.0
+2016-04-29,"Sandler O'Neill & Partners, LP",12 month,3,hold,70.0
+2016-04-29,Buckingham Research Group,12 month,3,neutral,66.0
+2016-04-29,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2016-04-29,Barclays,Not Provided,1,underweight,53.0
+2016-04-14,EVA Dimensions,Not Provided,5,overweight,-0.0
+2016-04-11,J.P. Morgan,9 month,3,neutral,60.0
+2016-01-05,UBS,12 month,3,neutral,65.0
+2016-06-01,Credit Suisse,Not Provided,1,underperform,60.0
+2016-06-01,"Keefe, Bruyette & Woods",12 month,3,market perform,64.0
+2016-05-23,Evercore ISI,Not Provided,3,hold,58.0
+2016-05-20,Sterne Agee CRT,12 month,1,underperform,56.0
+2016-05-16,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2016-05-05,Barclays,Not Provided,1,underweight,51.0
+2016-05-02,UBS,12 month,3,neutral,63.0
+2016-05-02,J.P. Morgan,9 month,3,neutral,60.0
+2016-05-02,Jefferies,12 month,3,hold,62.0
+2016-05-01,Goldman Sachs,12 month,1,Sell/Neutral,55.0
+2016-04-29,RBC Capital Markets,12 month,5,outperform,78.0
+2016-04-29,Raymond James,Not Provided,3,market perform,-0.0
+2016-04-29,"Sandler O'Neill & Partners, LP",12 month,3,hold,70.0
+2016-04-29,Buckingham Research Group,12 month,3,neutral,66.0
+2016-04-14,EVA Dimensions,Not Provided,5,overweight,-0.0
+2016-07-01,Buckingham Research Group,12 month,3,neutral,66.0
+2016-06-27,RBC Capital Markets,12 month,5,outperform,78.0
+2016-06-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2016-06-23,J.P. Morgan,6 month,3,neutral,58.0
+2016-06-21,"Sandler O'Neill & Partners, LP",12 month,3,hold,68.0
+2016-06-06,Barclays,Not Provided,1,underweight,51.0
+2016-06-01,Credit Suisse,Not Provided,1,underperform,60.0
+2016-06-01,"Keefe, Bruyette & Woods",12 month,3,market perform,64.0
+2016-05-23,Evercore ISI,Not Provided,3,hold,58.0
+2016-05-02,UBS,12 month,3,neutral,63.0
+2016-05-02,Jefferies,12 month,3,hold,62.0
+2016-05-01,Goldman Sachs,12 month,1,Sell/Neutral,55.0
+2016-04-29,Raymond James,Not Provided,3,market perform,-0.0
+2016-04-14,EVA Dimensions,Not Provided,5,overweight,-0.0
+2016-08-01,Goldman Sachs,12 month,1,Sell/Neutral,60.0
+2016-08-01,RBC Capital Markets,12 month,5,outperform,78.0
+2016-07-31,"Keefe, Bruyette & Woods",12 month,3,market perform,65.0
+2016-07-29,Credit Suisse,Not Provided,1,underperform,60.0
+2016-07-29,Jefferies,12 month,3,hold,62.0
+2016-07-29,Raymond James,Not Provided,3,market perform,-0.0
+2016-07-29,"Sandler O'Neill & Partners, LP",12 month,3,hold,69.0
+2016-07-29,Buckingham Research Group,12 month,3,neutral,66.0
+2016-07-29,Evercore ISI,12 month,3,hold,59.0
+2016-07-29,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2016-07-29,Barclays,Not Provided,1,underweight,53.0
+2016-07-12,J.P. Morgan,6 month,3,neutral,58.0
+2016-05-02,UBS,12 month,3,neutral,63.0
+2016-04-14,EVA Dimensions,Not Provided,5,overweight,-0.0
+2016-09-01,Credit Suisse,Not Provided,1,underperform,60.0
+2016-09-01,"Keefe, Bruyette & Woods",12 month,3,market perform,65.0
+2016-09-01,Evercore ISI,12 month,3,hold,65.0
+2016-08-09,Barclays,Not Provided,1,underweight,54.0
+2016-08-02,UBS,12 month,3,neutral,70.0
+2016-08-02,J.P. Morgan,6 month,3,neutral,61.0
+2016-08-02,Jefferies,12 month,3,hold,62.0
+2016-08-01,Goldman Sachs,12 month,1,Sell/Neutral,60.0
+2016-08-01,RBC Capital Markets,12 month,5,outperform,78.0
+2016-07-29,Raymond James,Not Provided,3,market perform,-0.0
+2016-07-29,"Sandler O'Neill & Partners, LP",12 month,3,hold,69.0
+2016-07-29,Buckingham Research Group,12 month,3,neutral,66.0
+2016-07-29,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2016-04-14,EVA Dimensions,Not Provided,5,overweight,-0.0
+2016-09-27,RBC Capital Markets,12 month,3,sector perform,68.0
+2016-09-27,Credit Suisse,Not Provided,3,neutral,67.0
+2016-09-27,Buckingham Research Group,12 month,5,buy,77.0
+2016-09-27,Evercore ISI,12 month,3,hold,65.0
+2016-09-26,Jefferies,12 month,3,hold,62.0
+2016-09-26,"Keefe, Bruyette & Woods",12 month,3,market perform,71.5
+2016-09-26,Raymond James,Not Provided,3,market perform,-0.0
+2016-09-26,"Sandler O'Neill & Partners, LP",12 month,3,hold,69.0
+2016-09-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2016-09-26,Barclays,Not Provided,-2147483648,suspended coverage,-0.0
+2016-09-20,Goldman Sachs,12 month,1,Sell/Neutral,61.0
+2016-08-02,UBS,12 month,3,neutral,70.0
+2016-08-02,J.P. Morgan,6 month,3,neutral,61.0
+2016-04-14,EVA Dimensions,Not Provided,5,overweight,-0.0
+2016-10-31,Goldman Sachs,12 month,1,Sell/Neutral,60.0
+2016-10-31,UBS,12 month,3,neutral,62.0
+2016-10-28,RBC Capital Markets,12 month,3,sector perform,65.0
+2016-10-28,Credit Suisse,Not Provided,3,neutral,67.0
+2016-10-28,J.P. Morgan,18 month,3,neutral,78.0
+2016-10-28,Jefferies,12 month,3,hold,66.0
+2016-10-28,"Keefe, Bruyette & Woods",12 month,3,market perform,69.0
+2016-10-28,Raymond James,Not Provided,3,market perform,-0.0
+2016-10-28,"Sandler O'Neill & Partners, LP",12 month,3,hold,67.0
+2016-10-28,Buckingham Research Group,12 month,5,buy,77.0
+2016-10-28,Evercore ISI,12 month,5,buy,74.0
+2016-10-28,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2016-09-26,Barclays,Not Provided,-2147483648,suspended coverage,-0.0
+2016-04-14,EVA Dimensions,Not Provided,5,overweight,-0.0
+2016-12-01,Goldman Sachs,12 month,1,Sell/Neutral,63.0
+2016-11-29,Evercore ISI,Not Provided,5,buy,71.0
+2016-11-23,Jefferies,12 month,3,hold,66.0
+2016-11-15,"Keefe, Bruyette & Woods",Not Provided,3,market perform,69.0
+2016-11-14,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2016-11-03,Buckingham Research Group,12 month,5,buy,77.0
+2016-10-31,UBS,12 month,3,neutral,62.0
+2016-10-28,RBC Capital Markets,12 month,3,sector perform,65.0
+2016-10-28,Credit Suisse,Not Provided,3,neutral,67.0
+2016-10-28,J.P. Morgan,18 month,3,neutral,78.0
+2016-10-28,Raymond James,Not Provided,3,market perform,-0.0
+2016-10-28,"Sandler O'Neill & Partners, LP",12 month,3,hold,67.0
+2016-09-26,Barclays,Not Provided,-2147483648,suspended coverage,-0.0
+2016-04-14,EVA Dimensions,Not Provided,5,overweight,-0.0
+2016-12-19,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2016-12-17,EVA Dimensions,Not Provided,3,hold,-0.0
+2016-12-08,"Keefe, Bruyette & Woods",Not Provided,3,market perform,73.0
+2016-12-07,UBS,12 month,3,neutral,73.0
+2016-12-06,Buckingham Research Group,12 month,5,buy,85.0
+2016-12-05,"Sandler O'Neill & Partners, LP",12 month,3,hold,73.0
+2016-12-04,Evercore ISI,12 month,5,buy,86.0
+2016-12-02,J.P. Morgan,12 month,5,overweight,84.0
+2016-12-01,Goldman Sachs,12 month,1,Sell/Neutral,63.0
+2016-11-23,Jefferies,12 month,3,hold,66.0
+2016-10-28,RBC Capital Markets,12 month,3,sector perform,65.0
+2016-10-28,Credit Suisse,Not Provided,3,neutral,67.0
+2016-10-28,Raymond James,Not Provided,3,market perform,-0.0
+2016-09-26,Barclays,Not Provided,-2147483648,suspended coverage,-0.0
+2017-01-31,Buckingham Research Group,12 month,5,buy,85.0
+2017-01-30,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-01-26,Evercore ISI,Not Provided,5,buy,81.0
+2017-01-17,"Sandler O'Neill & Partners, LP",12 month,3,hold,76.0
+2017-01-13,RBC Capital Markets,Not Provided,-2147483648,suspended coverage,-0.0
+2017-01-13,Credit Suisse,Not Provided,5,outperform,85.0
+2017-01-13,"Keefe, Bruyette & Woods",Not Provided,3,market perform,73.0
+2017-01-11,J.P. Morgan,12 month,5,overweight,84.0
+2017-01-06,Jefferies,Not Provided,3,hold,75.0
+2017-01-05,Raymond James,Not Provided,3,market perform,-0.0
+2017-01-04,Goldman Sachs,12 month,5,Buy/Neutral,83.0
+2016-12-17,EVA Dimensions,Not Provided,3,hold,-0.0
+2016-12-07,UBS,12 month,3,neutral,73.0
+2017-02-21,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-02-16,Credit Suisse,Not Provided,5,outperform,85.0
+2017-02-16,"Keefe, Bruyette & Woods",12 month,3,market perform,78.0
+2017-02-13,Buckingham Research Group,12 month,5,buy,85.0
+2017-02-07,UBS,12 month,3,neutral,78.0
+2017-02-07,J.P. Morgan,12 month,5,overweight,84.0
+2017-02-07,"Sandler O'Neill & Partners, LP",12 month,3,hold,78.0
+2017-02-06,Goldman Sachs,12 month,5,Buy/Neutral,84.0
+2017-02-06,Jefferies,12 month,3,hold,75.0
+2017-02-06,Raymond James,Not Provided,3,market perform,-0.0
+2017-02-06,Evercore ISI,Not Provided,5,buy,81.0
+2017-01-13,RBC Capital Markets,Not Provided,-2147483648,suspended coverage,-0.0
+2016-12-17,EVA Dimensions,Not Provided,3,hold,-0.0
+2017-03-30,RBC Capital Markets,12 month,5,outperform,90.0
+2017-03-30,Buckingham Research Group,12 month,5,buy,88.0
+2017-03-27,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-03-16,"Keefe, Bruyette & Woods",12 month,3,market perform,78.0
+2017-03-08,Credit Suisse,Not Provided,5,outperform,85.0
+2017-03-03,Goldman Sachs,12 month,5,Buy/Neutral,87.0
+2017-03-02,Evercore ISI,Not Provided,5,outperform,81.0
+2017-02-07,UBS,12 month,3,neutral,78.0
+2017-02-07,J.P. Morgan,12 month,5,overweight,84.0
+2017-02-07,"Sandler O'Neill & Partners, LP",12 month,3,hold,78.0
+2017-02-06,Jefferies,12 month,3,hold,75.0
+2017-02-06,Raymond James,Not Provided,3,market perform,-0.0
+2016-12-17,EVA Dimensions,Not Provided,3,hold,-0.0
+2017-04-19,RBC Capital Markets,12 month,5,outperform,89.0
+2017-04-18,Credit Suisse,Not Provided,5,outperform,85.0
+2017-04-18,EVA Dimensions,Not Provided,3,hold,-0.0
+2017-04-13,"Sandler O'Neill & Partners, LP",12 month,3,hold,85.0
+2017-04-11,"Keefe, Bruyette & Woods",12 month,3,market perform,84.0
+2017-04-10,Jefferies,Not Provided,3,hold,85.0
+2017-04-10,Evercore ISI,12 month,5,outperform,87.0
+2017-04-07,J.P. Morgan,9 month,5,overweight,84.0
+2017-04-07,Raymond James,Not Provided,3,market perform,-0.0
+2017-04-06,Buckingham Research Group,12 month,5,buy,88.0
+2017-04-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-03-03,Goldman Sachs,12 month,5,Buy/Neutral,87.0
+2017-02-07,UBS,12 month,3,neutral,78.0
+2017-04-19,RBC Capital Markets,12 month,5,outperform,89.0
+2017-04-18,Credit Suisse,Not Provided,5,outperform,85.0
+2017-04-18,EVA Dimensions,Not Provided,3,hold,-0.0
+2017-04-13,"Sandler O'Neill & Partners, LP",12 month,3,hold,85.0
+2017-04-11,"Keefe, Bruyette & Woods",12 month,3,market perform,84.0
+2017-04-10,Jefferies,Not Provided,3,hold,85.0
+2017-04-10,Evercore ISI,12 month,5,outperform,87.0
+2017-04-07,J.P. Morgan,9 month,5,overweight,84.0
+2017-04-07,Raymond James,Not Provided,3,market perform,-0.0
+2017-04-06,Buckingham Research Group,12 month,5,buy,88.0
+2017-04-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-03-03,Goldman Sachs,12 month,5,Buy/Neutral,87.0
+2017-02-07,UBS,12 month,3,neutral,78.0
+2017-04-19,RBC Capital Markets,12 month,5,outperform,89.0
+2017-04-18,Credit Suisse,Not Provided,5,outperform,85.0
+2017-04-18,EVA Dimensions,Not Provided,3,hold,-0.0
+2017-04-13,"Sandler O'Neill & Partners, LP",12 month,3,hold,85.0
+2017-04-11,"Keefe, Bruyette & Woods",12 month,3,market perform,84.0
+2017-04-10,Jefferies,Not Provided,3,hold,85.0
+2017-04-10,Evercore ISI,12 month,5,outperform,87.0
+2017-04-07,J.P. Morgan,9 month,5,overweight,84.0
+2017-04-07,Raymond James,Not Provided,3,market perform,-0.0
+2017-04-06,Buckingham Research Group,12 month,5,buy,88.0
+2017-04-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-03-03,Goldman Sachs,12 month,5,Buy/Neutral,87.0
+2017-02-07,UBS,12 month,3,neutral,78.0
+2017-04-19,RBC Capital Markets,12 month,5,outperform,89.0
+2017-04-18,Credit Suisse,Not Provided,5,outperform,85.0
+2017-04-18,EVA Dimensions,Not Provided,3,hold,-0.0
+2017-04-13,"Sandler O'Neill & Partners, LP",12 month,3,hold,85.0
+2017-04-11,"Keefe, Bruyette & Woods",12 month,3,market perform,84.0
+2017-04-10,Jefferies,Not Provided,3,hold,85.0
+2017-04-10,Evercore ISI,12 month,5,outperform,87.0
+2017-04-07,J.P. Morgan,9 month,5,overweight,84.0
+2017-04-07,Raymond James,Not Provided,3,market perform,-0.0
+2017-04-06,Buckingham Research Group,12 month,5,buy,88.0
+2017-04-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-03-03,Goldman Sachs,12 month,5,Buy/Neutral,87.0
+2017-02-07,UBS,12 month,3,neutral,78.0
+2017-04-19,RBC Capital Markets,12 month,5,outperform,89.0
+2017-04-18,Credit Suisse,Not Provided,5,outperform,85.0
+2017-04-18,EVA Dimensions,Not Provided,3,hold,-0.0
+2017-04-13,"Sandler O'Neill & Partners, LP",12 month,3,hold,85.0
+2017-04-11,"Keefe, Bruyette & Woods",12 month,3,market perform,84.0
+2017-04-10,Jefferies,Not Provided,3,hold,85.0
+2017-04-10,Evercore ISI,12 month,5,outperform,87.0
+2017-04-07,J.P. Morgan,9 month,5,overweight,84.0
+2017-04-07,Raymond James,Not Provided,3,market perform,-0.0
+2017-04-06,Buckingham Research Group,12 month,5,buy,88.0
+2017-04-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-03-03,Goldman Sachs,12 month,5,Buy/Neutral,87.0
+2017-02-07,UBS,12 month,3,neutral,78.0
+2017-04-19,RBC Capital Markets,12 month,5,outperform,89.0
+2017-04-18,Credit Suisse,Not Provided,5,outperform,85.0
+2017-04-18,EVA Dimensions,Not Provided,3,hold,-0.0
+2017-04-13,"Sandler O'Neill & Partners, LP",12 month,3,hold,85.0
+2017-04-11,"Keefe, Bruyette & Woods",12 month,3,market perform,84.0
+2017-04-10,Jefferies,Not Provided,3,hold,85.0
+2017-04-10,Evercore ISI,12 month,5,outperform,87.0
+2017-04-07,J.P. Morgan,9 month,5,overweight,84.0
+2017-04-07,Raymond James,Not Provided,3,market perform,-0.0
+2017-04-06,Buckingham Research Group,12 month,5,buy,88.0
+2017-04-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-03-03,Goldman Sachs,12 month,5,Buy/Neutral,87.0
+2017-02-07,UBS,12 month,3,neutral,78.0
+2017-04-19,RBC Capital Markets,12 month,5,outperform,89.0
+2017-04-18,Credit Suisse,Not Provided,5,outperform,85.0
+2017-04-18,EVA Dimensions,Not Provided,3,hold,-0.0
+2017-04-13,"Sandler O'Neill & Partners, LP",12 month,3,hold,85.0
+2017-04-11,"Keefe, Bruyette & Woods",12 month,3,market perform,84.0
+2017-04-10,Jefferies,Not Provided,3,hold,85.0
+2017-04-10,Evercore ISI,12 month,5,outperform,87.0
+2017-04-07,J.P. Morgan,9 month,5,overweight,84.0
+2017-04-07,Raymond James,Not Provided,3,market perform,-0.0
+2017-04-06,Buckingham Research Group,12 month,5,buy,88.0
+2017-04-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-03-03,Goldman Sachs,12 month,5,Buy/Neutral,87.0
+2017-02-07,UBS,12 month,3,neutral,78.0
+2017-04-19,RBC Capital Markets,12 month,5,outperform,89.0
+2017-04-18,Credit Suisse,Not Provided,5,outperform,85.0
+2017-04-18,EVA Dimensions,Not Provided,3,hold,-0.0
+2017-04-13,"Sandler O'Neill & Partners, LP",12 month,3,hold,85.0
+2017-04-11,"Keefe, Bruyette & Woods",12 month,3,market perform,84.0
+2017-04-10,Jefferies,Not Provided,3,hold,85.0
+2017-04-10,Evercore ISI,12 month,5,outperform,87.0
+2017-04-07,J.P. Morgan,9 month,5,overweight,84.0
+2017-04-07,Raymond James,Not Provided,3,market perform,-0.0
+2017-04-06,Buckingham Research Group,12 month,5,buy,88.0
+2017-04-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-03-03,Goldman Sachs,12 month,5,Buy/Neutral,87.0
+2017-02-07,UBS,12 month,3,neutral,78.0
+2017-04-19,RBC Capital Markets,12 month,5,outperform,89.0
+2017-04-18,Credit Suisse,Not Provided,5,outperform,85.0
+2017-04-18,EVA Dimensions,Not Provided,3,hold,-0.0
+2017-04-13,"Sandler O'Neill & Partners, LP",12 month,3,hold,85.0
+2017-04-11,"Keefe, Bruyette & Woods",12 month,3,market perform,84.0
+2017-04-10,Jefferies,Not Provided,3,hold,85.0
+2017-04-10,Evercore ISI,12 month,5,outperform,87.0
+2017-04-07,J.P. Morgan,9 month,5,overweight,84.0
+2017-04-07,Raymond James,Not Provided,3,market perform,-0.0
+2017-04-06,Buckingham Research Group,12 month,5,buy,88.0
+2017-04-06,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2017-03-03,Goldman Sachs,12 month,5,Buy/Neutral,87.0
+2017-02-07,UBS,12 month,3,neutral,78.0

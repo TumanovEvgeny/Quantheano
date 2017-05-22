@@ -1,0 +1,221 @@
+,index,1 Year Return,Action Code,BARR,Date,Firm Name,Period,Rating,Recommendation,Target Price,Unnamed: 0
+0,0,-0.0,N,-2147483648,2015-07-01,Morgan Stanley,12 month,3,Equalwt/In-Line,35.0,0.0
+1,1,-0.0,N,-2147483648,2015-07-01,Goldman Sachs,12 month,3,neutral/attractive,36.0,1.0
+2,2,-0.0,N,-2147483648,2015-07-01,Edward Jones,Not Provided,3,hold,-0.0,2.0
+3,3,-0.0,M,-2147483648,2015-07-01,"Morningstar, Inc",Not Provided,3,hold,-0.0,3.0
+4,4,-0.0,N,-2147483648,2015-06-30,Credit Suisse,Not Provided,5,outperform,37.0,4.0
+5,5,-0.0,M,-2147483648,2015-06-22,J.P. Morgan,6 month,3,neutral,33.0,5.0
+6,6,-0.0,N,-2147483648,2015-06-16,Spin-Off Research,Not Provided,3,neutral,38.0,6.0
+7,7,-0.0,M,-2147483648,2015-07-31,Morgan Stanley,12 month,3,Equalwt/In-Line,35.0,7.0
+8,8,-0.0,M,-2147483648,2015-07-31,Spin-Off Research,Not Provided,3,neutral,35.0,8.0
+9,9,-0.0,M,-2147483648,2015-07-31,Barclays,Not Provided,5,overweight,38.0,9.0
+10,10,-0.0,M,-2147483648,2015-07-30,Edward Jones,Not Provided,3,hold,-0.0,10.0
+11,11,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,11.0
+12,12,-0.0,M,-2147483648,2015-07-30,Cowen,12 month,5,outperform,39.0,12.0
+13,13,-0.0,M,-2147483648,2015-07-30,"Morningstar, Inc",Not Provided,3,hold,-0.0,13.0
+14,14,-0.0,M,-2147483648,2015-07-23,WhiteSand Research LLC,Not Provided,4,undervalued,34.0,14.0
+15,15,-0.0,N,-2147483648,2015-07-01,Goldman Sachs,12 month,3,neutral/attractive,36.0,15.0
+16,16,-0.0,N,-2147483648,2015-06-30,Credit Suisse,Not Provided,5,outperform,37.0,16.0
+17,17,-0.0,M,-2147483648,2015-08-30,Credit Suisse,Not Provided,5,outperform,42.0,17.0
+18,18,-0.0,M,-2147483648,2015-08-28,Edward Jones,Not Provided,3,hold,-0.0,18.0
+19,19,-0.0,N,-2147483648,2015-08-17,William Blair & Co,Not Provided,5,outperform,-0.0,19.0
+20,20,-0.0,N,-2147483648,2015-08-17,EVA Dimensions,Not Provided,5,overweight,-0.0,20.0
+21,21,-0.0,M,-2147483648,2015-08-14,Cowen,Not Provided,5,outperform,45.0,21.0
+22,22,-0.0,D,-2147483648,2015-08-11,Barclays,Not Provided,3,equalweight,38.0,22.0
+23,23,-0.0,M,-2147483648,2015-08-05,Spin-Off Research,Not Provided,3,neutral,35.0,23.0
+24,24,-0.0,M,-2147483648,2015-08-04,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,24.0
+25,25,-0.0,M,-2147483648,2015-08-04,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,25.0
+26,26,-0.0,M,-2147483648,2015-08-04,"Morningstar, Inc",Not Provided,3,hold,-0.0,26.0
+27,27,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,27.0
+28,28,-0.0,M,-2147483648,2015-07-23,WhiteSand Research LLC,Not Provided,4,undervalued,34.0,28.0
+29,29,-0.0,M,-2147483648,2015-09-29,"Morningstar, Inc",Not Provided,5,buy,-0.0,29.0
+30,30,-0.0,M,-2147483648,2015-09-23,Credit Suisse,Not Provided,5,outperform,42.0,30.0
+31,31,-0.0,N,-2147483648,2015-09-21,UBS,12 month,5,buy,46.0,31.0
+32,32,-0.0,M,-2147483648,2015-09-03,Edward Jones,Not Provided,3,hold,-0.0,32.0
+33,33,-0.0,M,-2147483648,2015-09-03,Cowen,12 month,5,outperform,45.0,33.0
+34,34,-0.0,N,-2147483648,2015-08-17,William Blair & Co,Not Provided,5,outperform,-0.0,34.0
+35,35,-0.0,N,-2147483648,2015-08-17,EVA Dimensions,Not Provided,5,overweight,-0.0,35.0
+36,36,-0.0,D,-2147483648,2015-08-11,Barclays,Not Provided,3,equalweight,38.0,36.0
+37,37,-0.0,M,-2147483648,2015-08-05,Spin-Off Research,Not Provided,3,neutral,35.0,37.0
+38,38,-0.0,M,-2147483648,2015-08-04,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,38.0
+39,39,-0.0,M,-2147483648,2015-08-04,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,39.0
+40,40,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,40.0
+41,41,-0.0,M,-2147483648,2015-07-23,WhiteSand Research LLC,Not Provided,4,undervalued,34.0,41.0
+42,42,-0.0,M,-2147483648,2015-10-30,"Morningstar, Inc",Not Provided,5,buy,-0.0,42.0
+43,43,-0.0,M,-2147483648,2015-10-29,Credit Suisse,Not Provided,5,outperform,42.0,43.0
+44,44,-0.0,M,-2147483648,2015-10-29,UBS,12 month,5,buy,47.0,44.0
+45,45,-0.0,M,-2147483648,2015-10-29,Edward Jones,Not Provided,3,hold,-0.0,45.0
+46,46,-0.0,M,-2147483648,2015-10-29,William Blair & Co,Not Provided,5,outperform,-0.0,46.0
+47,47,-0.0,M,-2147483648,2015-10-29,Cowen,12 month,5,outperform,43.0,47.0
+48,48,-0.0,M,-2147483648,2015-10-29,Barclays,Not Provided,3,equalweight,38.0,48.0
+49,49,-0.0,N,-2147483648,2015-10-12,New Street Research,Not Provided,5,buy,36.5,49.0
+50,50,-0.0,N,-2147483648,2015-08-17,EVA Dimensions,Not Provided,5,overweight,-0.0,50.0
+51,51,-0.0,M,-2147483648,2015-08-05,Spin-Off Research,Not Provided,3,neutral,35.0,51.0
+52,52,-0.0,M,-2147483648,2015-08-04,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,52.0
+53,53,-0.0,M,-2147483648,2015-08-04,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,53.0
+54,54,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,54.0
+55,55,-0.0,M,-2147483648,2015-07-23,WhiteSand Research LLC,Not Provided,4,undervalued,34.0,55.0
+56,56,-0.0,M,-2147483648,2015-11-30,Cowen,12 month,5,outperform,43.0,56.0
+57,57,-0.0,M,-2147483648,2015-11-15,Credit Suisse,Not Provided,5,outperform,42.0,57.0
+58,58,-0.0,M,-2147483648,2015-11-05,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,58.0
+59,59,-0.0,M,-2147483648,2015-11-02,Edward Jones,Not Provided,3,hold,-0.0,59.0
+60,60,-0.0,M,-2147483648,2015-10-30,"Morningstar, Inc",Not Provided,5,buy,-0.0,60.0
+61,61,-0.0,M,-2147483648,2015-10-29,UBS,12 month,5,buy,47.0,61.0
+62,62,-0.0,M,-2147483648,2015-10-29,William Blair & Co,Not Provided,5,outperform,-0.0,62.0
+63,63,-0.0,M,-2147483648,2015-10-29,Barclays,Not Provided,3,equalweight,38.0,63.0
+64,64,-0.0,N,-2147483648,2015-10-12,New Street Research,Not Provided,5,buy,36.5,64.0
+65,65,-0.0,N,-2147483648,2015-08-17,EVA Dimensions,Not Provided,5,overweight,-0.0,65.0
+66,66,-0.0,M,-2147483648,2015-08-05,Spin-Off Research,Not Provided,3,neutral,35.0,66.0
+67,67,-0.0,M,-2147483648,2015-08-04,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,67.0
+68,68,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,68.0
+69,69,-0.0,M,-2147483648,2015-07-23,WhiteSand Research LLC,Not Provided,4,undervalued,34.0,69.0
+70,70,-0.0,M,-2147483648,2015-12-31,Edward Jones,Not Provided,3,hold,-0.0,70.0
+71,71,-0.0,M,-2147483648,2015-12-21,Cowen,12 month,5,outperform,43.0,71.0
+72,72,-0.0,M,-2147483648,2015-12-14,Barclays,Not Provided,3,equalweight,40.0,72.0
+73,73,-0.0,M,-2147483648,2015-12-08,"Morningstar, Inc",Not Provided,3,hold,-0.0,73.0
+74,74,-0.0,M,-2147483648,2015-11-15,Credit Suisse,Not Provided,5,outperform,42.0,74.0
+75,75,-0.0,M,-2147483648,2015-11-05,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,75.0
+76,76,-0.0,M,-2147483648,2015-10-29,UBS,12 month,5,buy,47.0,76.0
+77,77,-0.0,M,-2147483648,2015-10-29,William Blair & Co,Not Provided,5,outperform,-0.0,77.0
+78,78,-0.0,N,-2147483648,2015-10-12,New Street Research,Not Provided,5,buy,36.5,78.0
+79,79,-0.0,N,-2147483648,2015-08-17,EVA Dimensions,Not Provided,5,overweight,-0.0,79.0
+80,80,-0.0,M,-2147483648,2015-08-05,Spin-Off Research,Not Provided,3,neutral,35.0,80.0
+81,81,-0.0,M,-2147483648,2015-08-04,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,81.0
+82,82,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,82.0
+83,83,-0.0,M,-2147483648,2016-01-27,Cowen,12 month,5,outperform,46.0,83.0
+84,84,-0.0,M,-2147483648,2016-01-19,Shore Capital Stockbrokers,Not Provided,-2147483648,corporate,-0.0,84.0
+85,85,-0.0,M,-2147483648,2016-01-12,Spin-Off Research,Not Provided,3,neutral,41.0,85.0
+86,86,-0.0,M,-2147483648,2016-01-11,Credit Suisse,Not Provided,5,outperform,42.0,86.0
+87,87,-0.0,M,-2147483648,2016-01-11,Edward Jones,Not Provided,3,hold,-0.0,87.0
+88,88,-0.0,M,-2147483648,2016-01-11,William Blair & Co,Not Provided,5,outperform,-0.0,88.0
+89,89,-0.0,M,-2147483648,2016-01-11,"Morningstar, Inc",Not Provided,3,hold,-0.0,89.0
+90,90,-0.0,M,-2147483648,2016-01-11,Barclays,Not Provided,-2147483648,suspended coverage,-0.0,90.0
+91,91,-0.0,M,-2147483648,2015-11-05,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,91.0
+92,92,-0.0,M,-2147483648,2015-10-29,UBS,12 month,5,buy,47.0,92.0
+93,93,-0.0,N,-2147483648,2015-10-12,New Street Research,Not Provided,5,buy,36.5,93.0
+94,94,-0.0,N,-2147483648,2015-08-17,EVA Dimensions,Not Provided,5,overweight,-0.0,94.0
+95,95,-0.0,M,-2147483648,2015-08-04,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,95.0
+96,96,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,96.0
+97,97,-0.0,M,-2147483648,2016-02-24,William Blair & Co,Not Provided,5,outperform,-0.0,97.0
+98,98,-0.0,M,-2147483648,2016-02-16,UBS,12 month,5,buy,46.0,98.0
+99,99,-0.0,M,-2147483648,2016-02-16,Edward Jones,Not Provided,3,hold,-0.0,99.0
+100,100,-0.0,M,-2147483648,2016-02-16,Cowen,12 month,5,outperform,46.0,100.0
+101,101,-0.0,M,-2147483648,2016-02-16,"Morningstar, Inc",Not Provided,5,buy,-0.0,101.0
+102,102,-0.0,M,-2147483648,2016-02-09,Shore Capital Stockbrokers,Not Provided,-2147483648,not rated,-0.0,102.0
+103,103,-0.0,M,-2147483648,2016-02-04,Credit Suisse,Not Provided,-2147483648,not rated,-0.0,103.0
+104,104,-0.0,M,-2147483648,2016-02-04,Spin-Off Research,Not Provided,3,neutral,41.0,104.0
+105,105,-0.0,M,-2147483648,2016-01-11,Barclays,Not Provided,-2147483648,suspended coverage,-0.0,105.0
+106,106,-0.0,M,-2147483648,2015-11-05,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,106.0
+107,107,-0.0,N,-2147483648,2015-10-12,New Street Research,Not Provided,5,buy,36.5,107.0
+108,108,-0.0,N,-2147483648,2015-08-17,EVA Dimensions,Not Provided,5,overweight,-0.0,108.0
+109,109,-0.0,M,-2147483648,2015-08-04,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,109.0
+110,110,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,110.0
+111,111,-0.0,M,-2147483648,2016-04-01,Edward Jones,Not Provided,3,hold,-0.0,111.0
+112,112,-0.0,M,-2147483648,2016-03-21,Credit Suisse,Not Provided,5,outperform,42.0,112.0
+113,113,-0.0,M,-2147483648,2016-03-15,UBS,12 month,5,buy,46.0,113.0
+114,114,-0.0,D,-2147483648,2016-03-09,EVA Dimensions,Not Provided,3,hold,-0.0,114.0
+115,115,-0.0,M,-2147483648,2016-03-07,Shore Capital Stockbrokers,Not Provided,-2147483648,not rated,-0.0,115.0
+116,116,-0.0,M,-2147483648,2016-02-24,William Blair & Co,Not Provided,5,outperform,-0.0,116.0
+117,117,-0.0,M,-2147483648,2016-02-16,Cowen,12 month,5,outperform,46.0,117.0
+118,118,-0.0,M,-2147483648,2016-02-16,"Morningstar, Inc",Not Provided,5,buy,-0.0,118.0
+119,119,-0.0,M,-2147483648,2016-02-04,Spin-Off Research,Not Provided,3,neutral,41.0,119.0
+120,120,-0.0,M,-2147483648,2016-01-11,Barclays,Not Provided,-2147483648,suspended coverage,-0.0,120.0
+121,121,-0.0,M,-2147483648,2015-11-05,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,121.0
+122,122,-0.0,N,-2147483648,2015-10-12,New Street Research,Not Provided,5,buy,36.5,122.0
+123,123,-0.0,M,-2147483648,2015-08-04,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,123.0
+124,124,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,124.0
+125,125,-0.0,M,-2147483648,2016-04-28,Edward Jones,Not Provided,3,hold,-0.0,125.0
+126,126,-0.0,M,-2147483648,2016-04-28,Cowen,12 month,5,outperform,46.0,126.0
+127,127,-0.0,M,-2147483648,2016-04-08,Credit Suisse,Not Provided,5,outperform,42.0,127.0
+128,128,-0.0,M,-2147483648,2016-03-15,UBS,12 month,5,buy,46.0,128.0
+129,129,-0.0,D,-2147483648,2016-03-09,EVA Dimensions,Not Provided,3,hold,-0.0,129.0
+130,130,-0.0,M,-2147483648,2016-03-07,Shore Capital Stockbrokers,Not Provided,-2147483648,not rated,-0.0,130.0
+131,131,-0.0,M,-2147483648,2016-02-24,William Blair & Co,Not Provided,5,outperform,-0.0,131.0
+132,132,-0.0,M,-2147483648,2016-02-16,"Morningstar, Inc",Not Provided,5,buy,-0.0,132.0
+133,133,-0.0,M,-2147483648,2016-02-04,Spin-Off Research,Not Provided,3,neutral,41.0,133.0
+134,134,-0.0,M,-2147483648,2016-01-11,Barclays,Not Provided,-2147483648,suspended coverage,-0.0,134.0
+135,135,-0.0,M,-2147483648,2015-11-05,Morgan Stanley,Not Provided,-2147483648,restricted,-0.0,135.0
+136,136,-0.0,N,-2147483648,2015-10-12,New Street Research,Not Provided,5,buy,36.5,136.0
+137,137,-0.0,M,-2147483648,2015-08-04,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,137.0
+138,138,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,138.0
+139,139,-0.0,M,-2147483648,2016-05-31,Morgan Stanley,Not Provided,-2147483648,not rated,-0.0,139.0
+140,140,-0.0,M,-2147483648,2016-05-26,Cowen,12 month,5,outperform,46.0,140.0
+141,141,-0.0,M,-2147483648,2016-05-16,Edward Jones,Not Provided,3,hold,-0.0,141.0
+142,142,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,142.0
+143,143,-0.0,M,-2147483648,2016-04-08,Credit Suisse,Not Provided,5,outperform,42.0,143.0
+144,144,-0.0,M,-2147483648,2016-03-15,UBS,12 month,5,buy,46.0,144.0
+145,145,-0.0,D,-2147483648,2016-03-09,EVA Dimensions,Not Provided,3,hold,-0.0,145.0
+146,146,-0.0,M,-2147483648,2016-03-07,Shore Capital Stockbrokers,Not Provided,-2147483648,not rated,-0.0,146.0
+147,147,-0.0,M,-2147483648,2016-02-24,William Blair & Co,Not Provided,5,outperform,-0.0,147.0
+148,148,-0.0,M,-2147483648,2016-02-04,Spin-Off Research,Not Provided,3,neutral,41.0,148.0
+149,149,-0.0,M,-2147483648,2016-01-11,Barclays,Not Provided,-2147483648,suspended coverage,-0.0,149.0
+150,150,-0.0,N,-2147483648,2015-10-12,New Street Research,Not Provided,5,buy,36.5,150.0
+151,151,-0.0,M,-2147483648,2015-08-04,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0,151.0
+152,152,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,152.0
+153,153,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,153.0
+154,154,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,154.0
+155,155,-0.0,M,-2147483648,2016-03-07,Shore Capital Stockbrokers,Not Provided,-2147483648,not rated,-0.0,155.0
+156,156,-0.0,N,-2147483648,2015-10-12,New Street Research,Not Provided,5,buy,36.5,156.0
+157,157,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,157.0
+158,158,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,158.0
+159,159,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,159.0
+160,160,-0.0,N,-2147483648,2015-10-12,New Street Research,Not Provided,5,buy,36.5,160.0
+161,161,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,161.0
+162,162,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,162.0
+163,163,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,163.0
+164,164,-0.0,N,-2147483648,2015-10-12,New Street Research,Not Provided,5,buy,36.5,164.0
+165,165,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,165.0
+166,166,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,166.0
+167,167,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,167.0
+168,168,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,168.0
+169,169,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,169.0
+170,170,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,170.0
+171,171,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,171.0
+172,172,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,172.0
+173,173,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,173.0
+174,174,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,174.0
+175,175,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,175.0
+176,176,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,176.0
+177,177,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,177.0
+178,178,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,178.0
+179,179,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,179.0
+180,180,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,180.0
+181,181,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,181.0
+182,182,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,182.0
+183,183,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,183.0
+184,184,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,184.0
+185,185,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,185.0
+186,186,-0.0,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,186.0
+187,187,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,187.0
+188,188,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,188.0
+189,189,0.0,M,1,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,189.0
+190,190,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,190.0
+191,191,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,191.0
+192,192,0.0,M,1,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,192.0
+193,193,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,193.0
+194,194,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,194.0
+195,195,0.0,M,1,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,195.0
+196,196,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,196.0
+197,197,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,197.0
+198,198,0.0,M,1,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,198.0
+199,199,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,199.0
+200,200,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,200.0
+201,201,0.0,M,1,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,201.0
+202,202,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,202.0
+203,203,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,203.0
+204,204,0.0,M,1,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,204.0
+205,205,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,205.0
+206,206,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,206.0
+207,207,0.0,M,1,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,207.0
+208,208,-0.0,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0,208.0
+209,209,-0.0,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.0,209.0
+210,210,0.0,M,1,2015-07-30,J.P. Morgan,18 month,3,neutral,35.0,210.0
+211,211,-0.000000,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.000000,
+212,212,-0.000000,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.000000,
+213,213,-0.000000,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.000000,
+214,214,-0.000000,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.000000,
+215,215,-0.000000,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.000000,
+216,216,-0.000000,M,-2147483648,2015-07-30,J.P. Morgan,18 month,3,neutral,35.000000,
+217,217,-0.000000,D,-2147483648,2016-06-07,EVA Dimensions,Not Provided,1,underweight,-0.000000,
+218,218,-0.000000,M,-2147483648,2016-05-06,"Morningstar, Inc",Not Provided,5,buy,-0.000000,
+219,219,0.000000,M,1,2015-07-30,J.P. Morgan,18 month,3,neutral,35.000000,

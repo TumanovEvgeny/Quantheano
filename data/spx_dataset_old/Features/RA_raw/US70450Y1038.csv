@@ -1,0 +1,1425 @@
+,index,1 Year Return,Action Code,BARR,Date,Firm Name,Period,Rating,Recommendation,Target Price,Unnamed: 0
+0,0,-0.0,M,-2147483648,2015-07-31,RBC Capital Markets,12 month,5,outperform,46.0,0.0
+1,1,-0.0,M,-2147483648,2015-07-31,Nomura,12 month,5,buy,46.0,1.0
+2,2,-0.0,N,-2147483648,2015-07-31,Compass Point Research & Trading LLC,12 month,5,buy,45.0,2.0
+3,3,-0.0,M,-2147483648,2015-07-30,First Analysis Corp,12 month,5,overweight,50.0,3.0
+4,4,-0.0,M,-2147483648,2015-07-30,Stifel,Not Provided,3,hold,-0.0,4.0
+5,5,-0.0,M,-2147483648,2015-07-29,Barclays,Not Provided,5,overweight,47.0,5.0
+6,6,-0.0,N,-2147483648,2015-07-28,Jefferies,12 month,5,buy,44.0,6.0
+7,7,-0.0,M,-2147483648,2015-07-27,Cantor Fitzgerald,12 month,5,buy,45.0,7.0
+8,8,-0.0,N,-2147483648,2015-07-23,Morgan Stanley,12 month,3,Equalwt/In-Line,36.0,8.0
+9,9,-0.0,N,-2147483648,2015-07-23,UBS,12 month,3,neutral,42.0,9.0
+10,10,-0.0,N,-2147483648,2015-07-22,FBN Securities,12 month,3,sector perform,45.0,10.0
+11,11,-0.0,M,-2147483648,2015-07-21,Baird,Not Provided,5,outperform,45.0,11.0
+12,12,-0.0,N,-2147483648,2015-07-21,Raymond James,12 month,5,outperform,45.0,12.0
+13,13,-0.0,N,-2147483648,2015-07-21,National Bank AG,Not Provided,5,buy,48.0,13.0
+14,14,-0.0,U,-2147483648,2015-07-21,Spin-Off Research,Not Provided,5,buy,46.5,14.0
+15,15,-0.0,N,-2147483648,2015-07-21,"Morningstar, Inc",Not Provided,3,hold,-0.0,15.0
+16,16,-0.0,N,-2147483648,2015-07-21,Piper Jaffray,12 month,1,underweight,30.0,16.0
+17,17,-0.0,N,-2147483648,2015-07-20,Edward Jones,Not Provided,5,buy,-0.0,17.0
+18,18,-0.0,N,-2147483648,2015-07-20,SunTrust Robinson Humphrey,12 month,5,buy,45.0,18.0
+19,19,-0.0,N,-2147483648,2015-07-20,J.P. Morgan,18 month,5,overweight,48.0,19.0
+20,20,-0.0,N,-2147483648,2015-07-20,Wells Fargo Securities,Not Provided,5,outperform,-0.0,20.0
+21,21,-0.0,N,-2147483648,2015-07-20,BTIG LLC,12 month,5,buy,48.0,21.0
+22,22,-0.0,M,-2147483648,2015-07-20,WhiteSand Research LLC,Not Provided,4,undervalued,45.0,22.0
+23,23,-0.0,N,-2147483648,2015-07-17,Wedbush,12 month,3,neutral,40.0,23.0
+24,24,-0.0,N,-2147483648,2015-07-17,Evercore ISI,12 month,1,sell,36.0,24.0
+25,25,-0.0,M,-2147483648,2015-07-16,"Keefe, Bruyette & Woods",12 month,5,outperform,43.0,25.0
+26,26,-0.0,N,-2147483648,2015-07-09,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,26.0
+27,27,-0.0,M,-2147483648,2015-07-07,Goldman Sachs,12 month,5,buy/attractive,48.0,27.0
+28,28,-0.0,M,-2147483648,2015-09-01,RBC Capital Markets,12 month,5,outperform,46.0,28.0
+29,29,-0.0,M,-2147483648,2015-08-28,Cantor Fitzgerald,Not Provided,5,buy,45.0,29.0
+30,30,-0.0,M,-2147483648,2015-08-28,Wells Fargo Securities,Not Provided,5,outperform,-0.0,30.0
+31,31,-0.0,M,-2147483648,2015-08-27,"Keefe, Bruyette & Woods",12 month,5,outperform,43.0,31.0
+32,32,-0.0,D,-2147483648,2015-08-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,32.0
+33,33,-0.0,M,-2147483648,2015-08-25,Baird,Not Provided,5,outperform,45.0,33.0
+34,34,-0.0,M,-2147483648,2015-08-20,Barclays,Not Provided,5,overweight,47.0,34.0
+35,35,-0.0,M,-2147483648,2015-08-19,Raymond James,12 month,5,outperform,45.0,35.0
+36,36,-0.0,N,-2147483648,2015-08-19,Daiwa Securities,Not Provided,3,neutral,39.0,36.0
+37,37,-0.0,M,-2147483648,2015-08-18,First Analysis Corp,12 month,5,overweight,50.0,37.0
+38,38,-0.0,M,-2147483648,2015-08-18,Susquehanna Financial,12 month,4,Positive,50.0,38.0
+39,39,-0.0,M,-2147483648,2015-08-17,Topeka Capital Markets Inc,12 month,5,buy,44.0,39.0
+40,40,-0.0,M,-2147483648,2015-08-14,Edward Jones,Not Provided,5,buy,-0.0,40.0
+41,41,-0.0,M,-2147483648,2015-08-14,J.P. Morgan,18 month,5,overweight,48.0,41.0
+42,42,-0.0,N,-2147483648,2015-08-12,EVA Dimensions,Not Provided,3,hold,-0.0,42.0
+43,43,-0.0,M,-2147483648,2015-07-31,Nomura,12 month,5,buy,46.0,43.0
+44,44,-0.0,N,-2147483648,2015-07-31,Compass Point Research & Trading LLC,12 month,5,buy,45.0,44.0
+45,45,-0.0,M,-2147483648,2015-07-30,Stifel,Not Provided,3,hold,-0.0,45.0
+46,46,-0.0,N,-2147483648,2015-07-28,Jefferies,12 month,5,buy,44.0,46.0
+47,47,-0.0,N,-2147483648,2015-07-23,Morgan Stanley,12 month,3,Equalwt/In-Line,36.0,47.0
+48,48,-0.0,N,-2147483648,2015-07-23,UBS,12 month,3,neutral,42.0,48.0
+49,49,-0.0,N,-2147483648,2015-07-22,FBN Securities,12 month,3,sector perform,45.0,49.0
+50,50,-0.0,N,-2147483648,2015-07-21,National Bank AG,Not Provided,5,buy,48.0,50.0
+51,51,-0.0,U,-2147483648,2015-07-21,Spin-Off Research,Not Provided,5,buy,46.5,51.0
+52,52,-0.0,N,-2147483648,2015-07-21,Piper Jaffray,12 month,1,underweight,30.0,52.0
+53,53,-0.0,N,-2147483648,2015-07-20,SunTrust Robinson Humphrey,12 month,5,buy,45.0,53.0
+54,54,-0.0,N,-2147483648,2015-07-20,BTIG LLC,12 month,5,buy,48.0,54.0
+55,55,-0.0,M,-2147483648,2015-07-20,WhiteSand Research LLC,Not Provided,4,undervalued,45.0,55.0
+56,56,-0.0,N,-2147483648,2015-07-17,Wedbush,12 month,3,neutral,40.0,56.0
+57,57,-0.0,N,-2147483648,2015-07-17,Evercore ISI,12 month,1,sell,36.0,57.0
+58,58,-0.0,N,-2147483648,2015-07-09,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,58.0
+59,59,-0.0,M,-2147483648,2015-07-07,Goldman Sachs,12 month,5,buy/attractive,48.0,59.0
+60,60,-0.0,M,-2147483648,2015-10-01,RBC Capital Markets,12 month,5,outperform,46.0,60.0
+61,61,-0.0,N,-2147483648,2015-10-01,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,61.0
+62,62,-0.0,M,-2147483648,2015-09-30,Canaccord Genuity,Not Provided,5,buy,43.0,62.0
+63,63,-0.0,N,-2147483648,2015-09-30,Cowen,12 month,3,market perform,33.0,63.0
+64,64,-0.0,M,-2147483648,2015-09-28,First Analysis Corp,12 month,5,overweight,50.0,64.0
+65,65,-0.0,U,-2147483648,2015-09-28,"Morningstar, Inc",Not Provided,5,buy,-0.0,65.0
+66,66,-0.0,M,-2147483648,2015-09-24,Piper Jaffray,12 month,1,underweight,30.0,66.0
+67,67,-0.0,M,-2147483648,2015-09-22,Barclays,Not Provided,5,overweight,47.0,67.0
+68,68,-0.0,M,-2147483648,2015-09-21,Stifel,12 month,5,buy,40.0,68.0
+69,69,-0.0,M,-2147483648,2015-09-21,Susquehanna Financial,12 month,4,Positive,50.0,69.0
+70,70,-0.0,M,-2147483648,2015-09-21,Topeka Capital Markets Inc,12 month,5,buy,44.0,70.0
+71,71,-0.0,M,-2147483648,2015-09-18,Jefferies,Not Provided,5,buy,44.0,71.0
+72,72,-0.0,N,-2147483648,2015-09-17,Axiom Capital,Not Provided,3,hold,36.0,72.0
+73,73,-0.0,M,-2147483648,2015-09-17,BTIG LLC,12 month,5,buy,48.0,73.0
+74,74,-0.0,M,-2147483648,2015-09-16,Edward Jones,Not Provided,5,buy,-0.0,74.0
+75,75,-0.0,M,-2147483648,2015-09-11,Argus Research Corp,Not Provided,5,buy,42.0,75.0
+76,76,-0.0,M,-2147483648,2015-09-11,Cantor Fitzgerald,Not Provided,5,buy,45.0,76.0
+77,77,-0.0,M,-2147483648,2015-09-11,Nomura,12 month,5,buy,46.0,77.0
+78,78,-0.0,M,-2147483648,2015-09-08,Goldman Sachs,12 month,5,buy/attractive,45.0,78.0
+79,79,-0.0,M,-2147483648,2015-09-04,Wells Fargo Securities,Not Provided,5,outperform,-0.0,79.0
+80,80,-0.0,M,-2147483648,2015-08-27,"Keefe, Bruyette & Woods",12 month,5,outperform,43.0,80.0
+81,81,-0.0,M,-2147483648,2015-08-25,Baird,Not Provided,5,outperform,45.0,81.0
+82,82,-0.0,M,-2147483648,2015-08-19,Raymond James,12 month,5,outperform,45.0,82.0
+83,83,-0.0,N,-2147483648,2015-08-19,Daiwa Securities,Not Provided,3,neutral,39.0,83.0
+84,84,-0.0,M,-2147483648,2015-08-14,J.P. Morgan,18 month,5,overweight,48.0,84.0
+85,85,-0.0,N,-2147483648,2015-08-12,EVA Dimensions,Not Provided,3,hold,-0.0,85.0
+86,86,-0.0,N,-2147483648,2015-07-31,Compass Point Research & Trading LLC,12 month,5,buy,45.0,86.0
+87,87,-0.0,N,-2147483648,2015-07-23,Morgan Stanley,12 month,3,Equalwt/In-Line,36.0,87.0
+88,88,-0.0,N,-2147483648,2015-07-23,UBS,12 month,3,neutral,42.0,88.0
+89,89,-0.0,N,-2147483648,2015-07-22,FBN Securities,12 month,3,sector perform,45.0,89.0
+90,90,-0.0,N,-2147483648,2015-07-21,National Bank AG,Not Provided,5,buy,48.0,90.0
+91,91,-0.0,U,-2147483648,2015-07-21,Spin-Off Research,Not Provided,5,buy,46.5,91.0
+92,92,-0.0,N,-2147483648,2015-07-20,SunTrust Robinson Humphrey,12 month,5,buy,45.0,92.0
+93,93,-0.0,M,-2147483648,2015-07-20,WhiteSand Research LLC,Not Provided,4,undervalued,45.0,93.0
+94,94,-0.0,N,-2147483648,2015-07-17,Wedbush,12 month,3,neutral,40.0,94.0
+95,95,-0.0,N,-2147483648,2015-07-17,Evercore ISI,12 month,1,sell,36.0,95.0
+96,96,-0.0,N,-2147483648,2015-07-09,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,96.0
+97,97,-0.0,M,-2147483648,2015-11-01,FBN Securities,12 month,3,sector perform,40.0,97.0
+98,98,-0.0,M,-2147483648,2015-10-30,RBC Capital Markets,12 month,5,outperform,45.0,98.0
+99,99,-0.0,M,-2147483648,2015-10-30,Jefferies,12 month,5,buy,44.0,99.0
+100,100,-0.0,M,-2147483648,2015-10-30,Daiwa Securities,Not Provided,3,neutral,37.0,100.0
+101,101,-0.0,M,-2147483648,2015-10-29,Morgan Stanley,12 month,3,Equalwt/In-Line,38.0,101.0
+102,102,-0.0,M,-2147483648,2015-10-29,UBS,12 month,3,neutral,40.0,102.0
+103,103,-0.0,M,-2147483648,2015-10-29,Edward Jones,Not Provided,5,buy,-0.0,103.0
+104,104,-0.0,M,-2147483648,2015-10-29,SunTrust Robinson Humphrey,12 month,5,buy,45.0,104.0
+105,105,-0.0,M,-2147483648,2015-10-29,J.P. Morgan,18 month,5,overweight,44.0,105.0
+106,106,-0.0,M,-2147483648,2015-10-29,Baird,12 month,5,outperform,45.0,106.0
+107,107,-0.0,M,-2147483648,2015-10-29,Wedbush,12 month,3,neutral,40.0,107.0
+108,108,-0.0,M,-2147483648,2015-10-29,Raymond James,12 month,5,outperform,45.0,108.0
+109,109,-0.0,M,-2147483648,2015-10-29,Cantor Fitzgerald,12 month,5,buy,45.0,109.0
+110,110,-0.0,M,-2147483648,2015-10-29,Stifel,12 month,5,buy,40.0,110.0
+111,111,-0.0,M,-2147483648,2015-10-29,National Bank AG,Not Provided,5,buy,48.0,111.0
+112,112,-0.0,M,-2147483648,2015-10-29,Nomura,12 month,5,buy,46.0,112.0
+113,113,-0.0,M,-2147483648,2015-10-29,Spin-Off Research,Not Provided,5,buy,42.75,113.0
+114,114,-0.0,M,-2147483648,2015-10-29,"Morningstar, Inc",Not Provided,3,hold,-0.0,114.0
+115,115,-0.0,M,-2147483648,2015-10-29,Barclays,Not Provided,5,overweight,47.0,115.0
+116,116,-0.0,M,-2147483648,2015-10-29,Topeka Capital Markets Inc,12 month,5,buy,44.0,116.0
+117,117,-0.0,M,-2147483648,2015-10-28,First Analysis Corp,Not Provided,5,overweight,50.0,117.0
+118,118,-0.0,M,-2147483648,2015-10-28,"Keefe, Bruyette & Woods",12 month,5,outperform,43.0,118.0
+119,119,-0.0,M,-2147483648,2015-10-28,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,119.0
+120,120,-0.0,M,-2147483648,2015-10-28,William Blair & Co,Not Provided,5,outperform,-0.0,120.0
+121,121,-0.0,M,-2147483648,2015-10-28,Canaccord Genuity,12 month,5,buy,44.0,121.0
+122,122,-0.0,M,-2147483648,2015-10-28,Evercore ISI,12 month,1,sell,31.0,122.0
+123,123,-0.0,M,-2147483648,2015-10-28,Wells Fargo Securities,Not Provided,5,outperform,-0.0,123.0
+124,124,-0.0,M,-2147483648,2015-10-28,Cowen,12 month,3,market perform,33.0,124.0
+125,125,-0.0,M,-2147483648,2015-10-28,Susquehanna Financial,12 month,4,Positive,50.0,125.0
+126,126,-0.0,M,-2147483648,2015-10-28,Piper Jaffray,12 month,1,underweight,30.0,126.0
+127,127,-0.0,M,-2147483648,2015-10-28,BTIG LLC,12 month,5,buy,48.0,127.0
+128,128,-0.0,M,-2147483648,2015-10-28,Compass Point Research & Trading LLC,12 month,5,buy,45.0,128.0
+129,129,-0.0,M,-2147483648,2015-10-21,M Science,Not Provided,-2147483648,no rating system,-0.0,129.0
+130,130,-0.0,D,-2147483648,2015-10-02,EVA Dimensions,Not Provided,1,underweight,-0.0,130.0
+131,131,-0.0,N,-2147483648,2015-09-17,Axiom Capital,Not Provided,3,hold,36.0,131.0
+132,132,-0.0,M,-2147483648,2015-09-11,Argus Research Corp,Not Provided,5,buy,42.0,132.0
+133,133,-0.0,M,-2147483648,2015-09-08,Goldman Sachs,12 month,5,buy/attractive,45.0,133.0
+134,134,-0.0,M,-2147483648,2015-07-20,WhiteSand Research LLC,Not Provided,4,undervalued,45.0,134.0
+135,135,-0.0,N,-2147483648,2015-07-09,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,135.0
+136,136,-0.0,M,-2147483648,2015-12-01,RBC Capital Markets,12 month,5,outperform,46.0,136.0
+137,137,-0.0,M,-2147483648,2015-12-01,Canaccord Genuity,Not Provided,5,buy,44.0,137.0
+138,138,-0.0,M,-2147483648,2015-12-01,Freedom Finance,Not Provided,5,buy,45.0,138.0
+139,139,-0.0,M,-2147483648,2015-11-30,Edward Jones,Not Provided,5,buy,-0.0,139.0
+140,140,-0.0,M,-2147483648,2015-11-30,Raymond James,12 month,5,outperform,45.0,140.0
+141,141,-0.0,M,-2147483648,2015-11-29,First Analysis Corp,12 month,5,overweight,43.0,141.0
+142,142,-0.0,M,-2147483648,2015-11-27,Topeka Capital Markets Inc,12 month,5,buy,44.0,142.0
+143,143,-0.0,M,-2147483648,2015-11-25,Cantor Fitzgerald,Not Provided,5,buy,45.0,143.0
+144,144,-0.0,M,-2147483648,2015-11-23,Susquehanna Financial,12 month,4,Positive,50.0,144.0
+145,145,-0.0,M,-2147483648,2015-11-18,Jefferies,12 month,5,buy,44.0,145.0
+146,146,-0.0,M,-2147483648,2015-11-17,Stifel,12 month,5,buy,40.0,146.0
+147,147,-0.0,M,-2147483648,2015-11-13,"Morningstar, Inc",Not Provided,3,hold,-0.0,147.0
+148,148,-0.0,M,-2147483648,2015-11-12,Baird,12 month,5,outperform,45.0,148.0
+149,149,-0.0,M,-2147483648,2015-11-12,Piper Jaffray,12 month,1,underweight,30.0,149.0
+150,150,-0.0,M,-2147483648,2015-11-12,BTIG LLC,12 month,5,buy,48.0,150.0
+151,151,-0.0,M,-2147483648,2015-11-11,M Science,Not Provided,-2147483648,no rating system,-0.0,151.0
+152,152,-0.0,M,-2147483648,2015-11-11,Evercore ISI,Not Provided,1,sell,31.0,152.0
+153,153,-0.0,M,-2147483648,2015-11-08,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,153.0
+154,154,-0.0,M,-2147483648,2015-11-04,Spin-Off Research,Not Provided,5,buy,42.75,154.0
+155,155,-0.0,M,-2147483648,2015-11-01,FBN Securities,12 month,3,sector perform,40.0,155.0
+156,156,-0.0,M,-2147483648,2015-10-30,Daiwa Securities,Not Provided,3,neutral,37.0,156.0
+157,157,-0.0,M,-2147483648,2015-10-29,Morgan Stanley,12 month,3,Equalwt/In-Line,38.0,157.0
+158,158,-0.0,M,-2147483648,2015-10-29,UBS,12 month,3,neutral,40.0,158.0
+159,159,-0.0,M,-2147483648,2015-10-29,SunTrust Robinson Humphrey,12 month,5,buy,45.0,159.0
+160,160,-0.0,M,-2147483648,2015-10-29,J.P. Morgan,18 month,5,overweight,44.0,160.0
+161,161,-0.0,M,-2147483648,2015-10-29,Wedbush,12 month,3,neutral,40.0,161.0
+162,162,-0.0,M,-2147483648,2015-10-29,National Bank AG,Not Provided,5,buy,48.0,162.0
+163,163,-0.0,M,-2147483648,2015-10-29,Nomura,12 month,5,buy,46.0,163.0
+164,164,-0.0,M,-2147483648,2015-10-29,Barclays,Not Provided,5,overweight,47.0,164.0
+165,165,-0.0,M,-2147483648,2015-10-28,"Keefe, Bruyette & Woods",12 month,5,outperform,43.0,165.0
+166,166,-0.0,M,-2147483648,2015-10-28,William Blair & Co,Not Provided,5,outperform,-0.0,166.0
+167,167,-0.0,M,-2147483648,2015-10-28,Wells Fargo Securities,Not Provided,5,outperform,-0.0,167.0
+168,168,-0.0,M,-2147483648,2015-10-28,Cowen,12 month,3,market perform,33.0,168.0
+169,169,-0.0,M,-2147483648,2015-10-28,Compass Point Research & Trading LLC,12 month,5,buy,45.0,169.0
+170,170,-0.0,D,-2147483648,2015-10-02,EVA Dimensions,Not Provided,1,underweight,-0.0,170.0
+171,171,-0.0,N,-2147483648,2015-09-17,Axiom Capital,Not Provided,3,hold,36.0,171.0
+172,172,-0.0,M,-2147483648,2015-09-11,Argus Research Corp,Not Provided,5,buy,42.0,172.0
+173,173,-0.0,M,-2147483648,2015-09-08,Goldman Sachs,12 month,5,buy/attractive,45.0,173.0
+174,174,-0.0,M,-2147483648,2015-07-20,WhiteSand Research LLC,Not Provided,4,undervalued,45.0,174.0
+175,175,-0.0,N,-2147483648,2015-07-09,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,175.0
+176,176,-0.0,M,-2147483648,2015-12-31,"Keefe, Bruyette & Woods",Not Provided,5,outperform,43.0,176.0
+177,177,-0.0,M,-2147483648,2015-12-31,Topeka Capital Markets Inc,12 month,5,buy,44.0,177.0
+178,178,-0.0,M,-2147483648,2015-12-24,Edward Jones,Not Provided,5,buy,-0.0,178.0
+179,179,-0.0,M,-2147483648,2015-12-23,RBC Capital Markets,12 month,5,outperform,46.0,179.0
+180,180,-0.0,M,-2147483648,2015-12-22,SunTrust Robinson Humphrey,Not Provided,5,buy,45.0,180.0
+181,181,-0.0,M,-2147483648,2015-12-21,M Science,Not Provided,-2147483648,no rating system,-0.0,181.0
+182,182,-0.0,M,-2147483648,2015-12-18,Cantor Fitzgerald,Not Provided,5,buy,45.0,182.0
+183,183,-0.0,M,-2147483648,2015-12-18,Barclays,Not Provided,5,overweight,47.0,183.0
+184,184,-0.0,M,-2147483648,2015-12-14,Morgan Stanley,12 month,3,Equalwt/In-Line,38.0,184.0
+185,185,-0.0,M,-2147483648,2015-12-14,Stifel,12 month,5,buy,40.0,185.0
+186,186,-0.0,N,-2147483648,2015-12-10,Credit Suisse,Not Provided,5,outperform,43.0,186.0
+187,187,-0.0,M,-2147483648,2015-12-04,Wells Fargo Securities,Not Provided,5,outperform,-0.0,187.0
+188,188,-0.0,M,-2147483648,2015-12-01,Canaccord Genuity,Not Provided,5,buy,44.0,188.0
+189,189,-0.0,M,-2147483648,2015-12-01,Freedom Finance,Not Provided,5,buy,45.0,189.0
+190,190,-0.0,M,-2147483648,2015-11-30,Raymond James,12 month,5,outperform,45.0,190.0
+191,191,-0.0,M,-2147483648,2015-11-29,First Analysis Corp,12 month,5,overweight,43.0,191.0
+192,192,-0.0,M,-2147483648,2015-11-23,Susquehanna Financial,12 month,4,Positive,50.0,192.0
+193,193,-0.0,M,-2147483648,2015-11-18,Jefferies,12 month,5,buy,44.0,193.0
+194,194,-0.0,M,-2147483648,2015-11-13,"Morningstar, Inc",Not Provided,3,hold,-0.0,194.0
+195,195,-0.0,M,-2147483648,2015-11-12,Baird,12 month,5,outperform,45.0,195.0
+196,196,-0.0,M,-2147483648,2015-11-12,Piper Jaffray,12 month,1,underweight,30.0,196.0
+197,197,-0.0,M,-2147483648,2015-11-12,BTIG LLC,12 month,5,buy,48.0,197.0
+198,198,-0.0,M,-2147483648,2015-11-11,Evercore ISI,Not Provided,1,sell,31.0,198.0
+199,199,-0.0,M,-2147483648,2015-11-08,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,199.0
+200,200,-0.0,M,-2147483648,2015-11-04,Spin-Off Research,Not Provided,5,buy,42.75,200.0
+201,201,-0.0,M,-2147483648,2015-11-01,FBN Securities,12 month,3,sector perform,40.0,201.0
+202,202,-0.0,M,-2147483648,2015-10-30,Daiwa Securities,Not Provided,3,neutral,37.0,202.0
+203,203,-0.0,M,-2147483648,2015-10-29,UBS,12 month,3,neutral,40.0,203.0
+204,204,-0.0,M,-2147483648,2015-10-29,J.P. Morgan,18 month,5,overweight,44.0,204.0
+205,205,-0.0,M,-2147483648,2015-10-29,Wedbush,12 month,3,neutral,40.0,205.0
+206,206,-0.0,M,-2147483648,2015-10-29,National Bank AG,Not Provided,5,buy,48.0,206.0
+207,207,-0.0,M,-2147483648,2015-10-29,Nomura,12 month,5,buy,46.0,207.0
+208,208,-0.0,M,-2147483648,2015-10-28,William Blair & Co,Not Provided,5,outperform,-0.0,208.0
+209,209,-0.0,M,-2147483648,2015-10-28,Cowen,12 month,3,market perform,33.0,209.0
+210,210,-0.0,M,-2147483648,2015-10-28,Compass Point Research & Trading LLC,12 month,5,buy,45.0,210.0
+211,211,-0.0,D,-2147483648,2015-10-02,EVA Dimensions,Not Provided,1,underweight,-0.0,211.0
+212,212,-0.0,N,-2147483648,2015-09-17,Axiom Capital,Not Provided,3,hold,36.0,212.0
+213,213,-0.0,M,-2147483648,2015-09-11,Argus Research Corp,Not Provided,5,buy,42.0,213.0
+214,214,-0.0,M,-2147483648,2015-09-08,Goldman Sachs,12 month,5,buy/attractive,45.0,214.0
+215,215,-0.0,N,-2147483648,2015-07-09,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,215.0
+216,216,-0.0,M,-2147483648,2016-02-01,RBC Capital Markets,12 month,5,outperform,42.0,216.0
+217,217,-0.0,M,-2147483648,2016-02-01,Cantor Fitzgerald,Not Provided,5,buy,47.0,217.0
+218,218,-0.0,M,-2147483648,2016-01-31,FBN Securities,12 month,3,sector perform,40.0,218.0
+219,219,-0.0,M,-2147483648,2016-01-29,Spin-Off Research,Not Provided,5,buy,39.75,219.0
+220,220,-0.0,M,-2147483648,2016-01-28,Morgan Stanley,12 month,3,Equalwt/In-Line,36.0,220.0
+221,221,-0.0,M,-2147483648,2016-01-28,Goldman Sachs,12 month,5,buy/attractive,40.0,221.0
+222,222,-0.0,M,-2147483648,2016-01-28,Argus Research Corp,Not Provided,5,buy,42.0,222.0
+223,223,-0.0,M,-2147483648,2016-01-28,Credit Suisse,Not Provided,5,outperform,39.0,223.0
+224,224,-0.0,M,-2147483648,2016-01-28,Edward Jones,Not Provided,5,buy,-0.0,224.0
+225,225,-0.0,M,-2147483648,2016-01-28,SunTrust Robinson Humphrey,12 month,5,buy,38.0,225.0
+226,226,-0.0,M,-2147483648,2016-01-28,First Analysis Corp,12 month,5,overweight,43.0,226.0
+227,227,-0.0,M,-2147483648,2016-01-28,J.P. Morgan,12 month,5,overweight,41.0,227.0
+228,228,-0.0,M,-2147483648,2016-01-28,Jefferies,Not Provided,5,buy,44.0,228.0
+229,229,-0.0,M,-2147483648,2016-01-28,Baird,12 month,5,outperform,45.0,229.0
+230,230,-0.0,U,-2147483648,2016-01-28,Wedbush,12 month,5,outperform,40.0,230.0
+231,231,-0.0,M,-2147483648,2016-01-28,Raymond James,12 month,5,outperform,40.0,231.0
+232,232,-0.0,M,-2147483648,2016-01-28,Stifel,12 month,5,buy,40.0,232.0
+233,233,-0.0,M,-2147483648,2016-01-28,National Bank AG,Not Provided,5,buy,42.0,233.0
+234,234,-0.0,M,-2147483648,2016-01-28,Canaccord Genuity,Not Provided,5,buy,40.0,234.0
+235,235,-0.0,M,-2147483648,2016-01-28,Nomura,12 month,5,buy,46.0,235.0
+236,236,-0.0,M,-2147483648,2016-01-28,Wells Fargo Securities,Not Provided,5,outperform,-0.0,236.0
+237,237,-0.0,M,-2147483648,2016-01-28,Susquehanna Financial,12 month,4,Positive,50.0,237.0
+238,238,-0.0,M,-2147483648,2016-01-28,Barclays,Not Provided,5,overweight,43.0,238.0
+239,239,-0.0,U,-2147483648,2016-01-28,EVA Dimensions,Not Provided,3,hold,-0.0,239.0
+240,240,-0.0,M,-2147483648,2016-01-28,Compass Point Research & Trading LLC,12 month,5,buy,41.0,240.0
+241,241,-0.0,M,-2147483648,2016-01-27,"Keefe, Bruyette & Woods",12 month,5,outperform,43.0,241.0
+242,242,-0.0,M,-2147483648,2016-01-27,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,242.0
+243,243,-0.0,M,-2147483648,2016-01-27,William Blair & Co,Not Provided,5,outperform,-0.0,243.0
+244,244,-0.0,M,-2147483648,2016-01-27,Evercore ISI,Not Provided,1,sell,31.0,244.0
+245,245,-0.0,M,-2147483648,2016-01-27,Mizuho Securities USA Inc,12 month,5,buy,40.0,245.0
+246,246,-0.0,M,-2147483648,2016-01-27,Cowen,12 month,3,market perform,33.0,246.0
+247,247,-0.0,M,-2147483648,2016-01-27,"Morningstar, Inc",Not Provided,5,buy,-0.0,247.0
+248,248,-0.0,M,-2147483648,2016-01-27,Piper Jaffray,12 month,1,underweight,33.0,248.0
+249,249,-0.0,M,-2147483648,2016-01-27,BTIG LLC,12 month,5,buy,48.0,249.0
+250,250,-0.0,U,-2147483648,2016-01-25,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,250.0
+251,251,-0.0,M,-2147483648,2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0,251.0
+252,252,-0.0,M,-2147483648,2015-12-01,Freedom Finance,Not Provided,5,buy,45.0,252.0
+253,253,-0.0,M,-2147483648,2015-10-30,Daiwa Securities,Not Provided,3,neutral,37.0,253.0
+254,254,-0.0,M,-2147483648,2015-10-29,UBS,12 month,3,neutral,40.0,254.0
+255,255,-0.0,N,-2147483648,2015-09-17,Axiom Capital,Not Provided,3,hold,36.0,255.0
+256,256,-0.0,M,-2147483648,2016-03-01,RBC Capital Markets,12 month,5,outperform,42.0,256.0
+257,257,-0.0,M,-2147483648,2016-03-01,Canaccord Genuity,Not Provided,5,buy,40.0,257.0
+258,258,-0.0,M,-2147483648,2016-02-29,M Science,Not Provided,-2147483648,no rating system,-0.0,258.0
+259,259,-0.0,M,-2147483648,2016-02-29,Jefferies,12 month,5,buy,44.0,259.0
+260,260,-0.0,M,-2147483648,2016-02-29,Cantor Fitzgerald,Not Provided,5,buy,47.0,260.0
+261,261,-0.0,M,-2147483648,2016-02-26,Edward Jones,Not Provided,5,buy,-0.0,261.0
+262,262,-0.0,D,-2147483648,2016-02-26,"Morningstar, Inc",Not Provided,3,hold,-0.0,262.0
+263,263,-0.0,M,-2147483648,2016-02-22,Barclays,Not Provided,5,overweight,43.0,263.0
+264,264,-0.0,M,-2147483648,2016-02-19,Wells Fargo Securities,Not Provided,5,outperform,-0.0,264.0
+265,265,-0.0,M,-2147483648,2016-02-17,Mizuho Securities USA Inc,Not Provided,5,buy,40.0,265.0
+266,266,-0.0,M,-2147483648,2016-02-16,Axiom Capital,Not Provided,3,hold,36.0,266.0
+267,267,-0.0,D,-2147483648,2016-02-14,EVA Dimensions,Not Provided,1,underweight,-0.0,267.0
+268,268,-0.0,M,-2147483648,2016-02-12,Daiwa Securities,Not Provided,3,neutral,35.0,268.0
+269,269,-0.0,M,-2147483648,2016-02-09,Piper Jaffray,12 month,1,underweight,33.0,269.0
+270,270,-0.0,M,-2147483648,2016-02-04,Spin-Off Research,Not Provided,5,buy,39.75,270.0
+271,271,-0.0,M,-2147483648,2016-02-03,Morgan Stanley,12 month,3,Equalwt/In-Line,36.0,271.0
+272,272,-0.0,M,-2147483648,2016-02-03,Susquehanna Financial,12 month,4,Positive,50.0,272.0
+273,273,-0.0,M,-2147483648,2016-02-02,Credit Suisse,Not Provided,5,outperform,39.0,273.0
+274,274,-0.0,M,-2147483648,2016-01-31,FBN Securities,12 month,3,sector perform,40.0,274.0
+275,275,-0.0,M,-2147483648,2016-01-28,Goldman Sachs,12 month,5,buy/attractive,40.0,275.0
+276,276,-0.0,M,-2147483648,2016-01-28,Argus Research Corp,Not Provided,5,buy,42.0,276.0
+277,277,-0.0,M,-2147483648,2016-01-28,SunTrust Robinson Humphrey,12 month,5,buy,38.0,277.0
+278,278,-0.0,M,-2147483648,2016-01-28,First Analysis Corp,12 month,5,overweight,43.0,278.0
+279,279,-0.0,M,-2147483648,2016-01-28,J.P. Morgan,12 month,5,overweight,41.0,279.0
+280,280,-0.0,M,-2147483648,2016-01-28,Baird,12 month,5,outperform,45.0,280.0
+281,281,-0.0,U,-2147483648,2016-01-28,Wedbush,12 month,5,outperform,40.0,281.0
+282,282,-0.0,M,-2147483648,2016-01-28,Raymond James,12 month,5,outperform,40.0,282.0
+283,283,-0.0,M,-2147483648,2016-01-28,Stifel,12 month,5,buy,40.0,283.0
+284,284,-0.0,M,-2147483648,2016-01-28,National Bank AG,Not Provided,5,buy,42.0,284.0
+285,285,-0.0,M,-2147483648,2016-01-28,Nomura,12 month,5,buy,46.0,285.0
+286,286,-0.0,M,-2147483648,2016-01-28,Compass Point Research & Trading LLC,12 month,5,buy,41.0,286.0
+287,287,-0.0,M,-2147483648,2016-01-27,"Keefe, Bruyette & Woods",12 month,5,outperform,43.0,287.0
+288,288,-0.0,M,-2147483648,2016-01-27,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,288.0
+289,289,-0.0,M,-2147483648,2016-01-27,William Blair & Co,Not Provided,5,outperform,-0.0,289.0
+290,290,-0.0,M,-2147483648,2016-01-27,Evercore ISI,Not Provided,1,sell,31.0,290.0
+291,291,-0.0,M,-2147483648,2016-01-27,Cowen,12 month,3,market perform,33.0,291.0
+292,292,-0.0,M,-2147483648,2016-01-27,BTIG LLC,12 month,5,buy,48.0,292.0
+293,293,-0.0,U,-2147483648,2016-01-25,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,293.0
+294,294,-0.0,M,-2147483648,2015-12-01,Freedom Finance,Not Provided,5,buy,45.0,294.0
+295,295,-0.0,M,-2147483648,2015-10-29,UBS,12 month,3,neutral,40.0,295.0
+296,296,-0.0,M,-2147483648,2016-04-01,RBC Capital Markets,12 month,5,outperform,42.0,296.0
+297,297,-0.0,M,-2147483648,2016-04-01,Cantor Fitzgerald,Not Provided,5,buy,47.0,297.0
+298,298,-0.0,M,-2147483648,2016-03-31,Credit Suisse,Not Provided,5,outperform,39.0,298.0
+299,299,-0.0,M,-2147483648,2016-03-31,Nomura,12 month,5,buy,54.0,299.0
+300,300,-0.0,M,-2147483648,2016-03-31,Piper Jaffray,12 month,1,underweight,33.0,300.0
+301,301,-0.0,M,-2147483648,2016-03-30,Morgan Stanley,12 month,3,Equalwt/In-Line,40.0,301.0
+302,302,-0.0,N,-2147483648,2016-03-29,Bernstein,12 month,3,market perform,43.0,302.0
+303,303,-0.0,N,-2147483648,2016-03-29,Atlantic Equities LLP,12 month,3,neutral,43.0,303.0
+304,304,-0.0,M,-2147483648,2016-03-28,BTIG LLC,12 month,5,buy,48.0,304.0
+305,305,-0.0,M,-2147483648,2016-03-27,First Analysis Corp,12 month,5,overweight,43.0,305.0
+306,306,-0.0,M,-2147483648,2016-03-27,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,306.0
+307,307,-0.0,N,-2147483648,2016-03-24,Sterne Agee CRT,12 month,3,neutral,46.0,307.0
+308,308,-0.0,M,-2147483648,2016-03-24,Barclays,Not Provided,5,overweight,43.0,308.0
+309,309,-0.0,M,-2147483648,2016-03-24,FBN Securities,12 month,3,sector perform,40.0,309.0
+310,310,-0.0,M,-2147483648,2016-03-23,Jefferies,12 month,5,buy,44.0,310.0
+311,311,-0.0,M,-2147483648,2016-03-23,"Morningstar, Inc",Not Provided,3,hold,-0.0,311.0
+312,312,-0.0,M,-2147483648,2016-03-23,Susquehanna Financial,12 month,4,Positive,50.0,312.0
+313,313,-0.0,M,-2147483648,2016-03-22,Edward Jones,Not Provided,5,buy,-0.0,313.0
+314,314,-0.0,M,-2147483648,2016-03-17,Raymond James,12 month,5,outperform,40.0,314.0
+315,315,-0.0,D,-2147483648,2016-03-17,Stifel,Not Provided,3,hold,-0.0,315.0
+316,316,-0.0,M,-2147483648,2016-03-16,J.P. Morgan,9 month,5,overweight,41.0,316.0
+317,317,-0.0,M,-2147483648,2016-03-16,Wedbush,12 month,5,outperform,45.0,317.0
+318,318,-0.0,M,-2147483648,2016-03-14,Baird,Not Provided,5,outperform,45.0,318.0
+319,319,-0.0,M,-2147483648,2016-03-14,CM Research,Not Provided,5,buy,47.39,319.0
+320,320,-0.0,M,-2147483648,2016-03-11,Goldman Sachs,12 month,5,buy/attractive,46.0,320.0
+321,321,-0.0,M,-2147483648,2016-03-11,Wells Fargo Securities,Not Provided,5,outperform,-0.0,321.0
+322,322,-0.0,M,-2147483648,2016-03-09,Evercore ISI,12 month,1,sell,34.0,322.0
+323,323,-0.0,M,-2147483648,2016-03-08,Canaccord Genuity,12 month,5,buy,40.0,323.0
+324,324,-0.0,M,-2147483648,2016-02-29,M Science,Not Provided,-2147483648,no rating system,-0.0,324.0
+325,325,-0.0,M,-2147483648,2016-02-17,Mizuho Securities USA Inc,Not Provided,5,buy,40.0,325.0
+326,326,-0.0,M,-2147483648,2016-02-16,Axiom Capital,Not Provided,3,hold,36.0,326.0
+327,327,-0.0,D,-2147483648,2016-02-14,EVA Dimensions,Not Provided,1,underweight,-0.0,327.0
+328,328,-0.0,M,-2147483648,2016-02-12,Daiwa Securities,Not Provided,3,neutral,35.0,328.0
+329,329,-0.0,M,-2147483648,2016-02-04,Spin-Off Research,Not Provided,5,buy,39.75,329.0
+330,330,-0.0,M,-2147483648,2016-01-28,Argus Research Corp,Not Provided,5,buy,42.0,330.0
+331,331,-0.0,M,-2147483648,2016-01-28,SunTrust Robinson Humphrey,12 month,5,buy,38.0,331.0
+332,332,-0.0,M,-2147483648,2016-01-28,National Bank AG,Not Provided,5,buy,42.0,332.0
+333,333,-0.0,M,-2147483648,2016-01-28,Compass Point Research & Trading LLC,12 month,5,buy,41.0,333.0
+334,334,-0.0,M,-2147483648,2016-01-27,"Keefe, Bruyette & Woods",12 month,5,outperform,43.0,334.0
+335,335,-0.0,M,-2147483648,2016-01-27,William Blair & Co,Not Provided,5,outperform,-0.0,335.0
+336,336,-0.0,M,-2147483648,2016-01-27,Cowen,12 month,3,market perform,33.0,336.0
+337,337,-0.0,U,-2147483648,2016-01-25,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,337.0
+338,338,-0.0,M,-2147483648,2015-12-01,Freedom Finance,Not Provided,5,buy,45.0,338.0
+339,339,-0.0,M,-2147483648,2015-10-29,UBS,12 month,3,neutral,40.0,339.0
+340,340,-0.0,M,-2147483648,2016-04-29,RBC Capital Markets,12 month,5,outperform,46.0,340.0
+341,341,-0.0,M,-2147483648,2016-04-29,Jefferies,Not Provided,5,buy,48.0,341.0
+342,342,-0.0,M,-2147483648,2016-04-29,Bernstein,12 month,3,market perform,43.0,342.0
+343,343,-0.0,M,-2147483648,2016-04-29,Sterne Agee CRT,12 month,3,neutral,46.0,343.0
+344,344,-0.0,M,-2147483648,2016-04-29,"Morningstar, Inc",Not Provided,3,hold,-0.0,344.0
+345,345,-0.0,M,-2147483648,2016-04-28,Morgan Stanley,12 month,3,Equalwt/In-Line,40.0,345.0
+346,346,-0.0,M,-2147483648,2016-04-28,Goldman Sachs,12 month,5,buy/attractive,47.0,346.0
+347,347,-0.0,M,-2147483648,2016-04-28,Argus Research Corp,Not Provided,5,buy,45.0,347.0
+348,348,-0.0,M,-2147483648,2016-04-28,UBS,12 month,3,neutral,42.0,348.0
+349,349,-0.0,M,-2147483648,2016-04-28,Edward Jones,Not Provided,5,buy,-0.0,349.0
+350,350,-0.0,M,-2147483648,2016-04-28,SunTrust Robinson Humphrey,12 month,5,buy,44.0,350.0
+351,351,-0.0,M,-2147483648,2016-04-28,First Analysis Corp,Not Provided,5,overweight,50.0,351.0
+352,352,-0.0,M,-2147483648,2016-04-28,J.P. Morgan,9 month,5,overweight,41.0,352.0
+353,353,-0.0,M,-2147483648,2016-04-28,"Keefe, Bruyette & Woods",12 month,5,outperform,46.0,353.0
+354,354,-0.0,M,-2147483648,2016-04-28,Baird,12 month,5,outperform,48.0,354.0
+355,355,-0.0,M,-2147483648,2016-04-28,William Blair & Co,Not Provided,5,outperform,-0.0,355.0
+356,356,-0.0,M,-2147483648,2016-04-28,Cantor Fitzgerald,12 month,5,buy,48.0,356.0
+357,357,-0.0,M,-2147483648,2016-04-28,National Bank AG,Not Provided,5,buy,48.0,357.0
+358,358,-0.0,M,-2147483648,2016-04-28,Mizuho Securities USA Inc,12 month,5,buy,46.0,358.0
+359,359,-0.0,M,-2147483648,2016-04-28,Nomura,12 month,5,buy,54.0,359.0
+360,360,-0.0,M,-2147483648,2016-04-28,Susquehanna Financial,12 month,4,Positive,50.0,360.0
+361,361,-0.0,M,-2147483648,2016-04-28,Atlantic Equities LLP,12 month,3,neutral,43.0,361.0
+362,362,-0.0,M,-2147483648,2016-04-28,Barclays,Not Provided,5,overweight,46.0,362.0
+363,363,-0.0,M,-2147483648,2016-04-28,FBN Securities,12 month,3,sector perform,45.0,363.0
+364,364,-0.0,M,-2147483648,2016-04-28,Compass Point Research & Trading LLC,12 month,3,neutral,40.0,364.0
+365,365,-0.0,M,-2147483648,2016-04-27,Credit Suisse,Not Provided,5,outperform,42.0,365.0
+366,366,-0.0,M,-2147483648,2016-04-27,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,366.0
+367,367,-0.0,M,-2147483648,2016-04-27,Wedbush,12 month,5,outperform,47.0,367.0
+368,368,-0.0,M,-2147483648,2016-04-27,Raymond James,12 month,5,outperform,47.0,368.0
+369,369,-0.0,M,-2147483648,2016-04-27,Stifel,Not Provided,3,hold,-0.0,369.0
+370,370,-0.0,M,-2147483648,2016-04-27,Canaccord Genuity,Not Provided,5,buy,45.0,370.0
+371,371,-0.0,M,-2147483648,2016-04-27,Evercore ISI,12 month,1,sell,34.0,371.0
+372,372,-0.0,M,-2147483648,2016-04-27,Wells Fargo Securities,Not Provided,5,outperform,-0.0,372.0
+373,373,-0.0,M,-2147483648,2016-04-27,Cowen,12 month,3,market perform,38.0,373.0
+374,374,-0.0,M,-2147483648,2016-04-27,Piper Jaffray,12 month,1,underweight,34.0,374.0
+375,375,-0.0,M,-2147483648,2016-04-27,BTIG LLC,12 month,5,buy,48.0,375.0
+376,376,-0.0,M,-2147483648,2016-03-14,CM Research,Not Provided,5,buy,47.39,376.0
+377,377,-0.0,M,-2147483648,2016-02-29,M Science,Not Provided,-2147483648,no rating system,-0.0,377.0
+378,378,-0.0,M,-2147483648,2016-02-16,Axiom Capital,Not Provided,3,hold,36.0,378.0
+379,379,-0.0,D,-2147483648,2016-02-14,EVA Dimensions,Not Provided,1,underweight,-0.0,379.0
+380,380,-0.0,M,-2147483648,2016-02-12,Daiwa Securities,Not Provided,3,neutral,35.0,380.0
+381,381,-0.0,M,-2147483648,2016-02-04,Spin-Off Research,Not Provided,5,buy,39.75,381.0
+382,382,-0.0,U,-2147483648,2016-01-25,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,382.0
+383,383,-0.0,M,-2147483648,2015-12-01,Freedom Finance,Not Provided,5,buy,45.0,383.0
+384,384,-0.0,M,-2147483648,2016-06-01,RBC Capital Markets,12 month,5,outperform,46.0,384.0
+385,385,-0.0,M,-2147483648,2016-06-01,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,385.0
+386,386,-0.0,M,-2147483648,2016-06-01,Canaccord Genuity,Not Provided,5,buy,45.0,386.0
+387,387,-0.0,U,-2147483648,2016-05-31,"Morningstar, Inc",Not Provided,5,buy,-0.0,387.0
+388,388,-0.0,N,-2147483648,2016-05-26,Needham & Co,Not Provided,3,hold,-0.0,388.0
+389,389,-0.0,M,-2147483648,2016-05-26,Sterne Agee CRT,Not Provided,3,neutral,46.0,389.0
+390,390,-0.0,M,-2147483648,2016-05-24,Edward Jones,Not Provided,5,buy,-0.0,390.0
+391,391,-0.0,M,-2147483648,2016-05-23,J.P. Morgan,6 month,5,overweight,44.0,391.0
+392,392,-0.0,M,-2147483648,2016-05-23,Bernstein,Not Provided,3,market perform,43.0,392.0
+393,393,-0.0,M,-2147483648,2016-05-23,Piper Jaffray,12 month,1,underweight,34.0,393.0
+394,394,-0.0,M,-2147483648,2016-05-20,Jefferies,Not Provided,5,buy,48.0,394.0
+395,395,-0.0,M,-2147483648,2016-05-20,Cantor Fitzgerald,12 month,5,buy,48.0,395.0
+396,396,-0.0,M,-2147483648,2016-05-20,Wells Fargo Securities,Not Provided,5,outperform,-0.0,396.0
+397,397,-0.0,M,-2147483648,2016-05-19,Morgan Stanley,12 month,3,Equalwt/In-Line,40.0,397.0
+398,398,-0.0,M,-2147483648,2016-05-19,Credit Suisse,Not Provided,5,outperform,42.0,398.0
+399,399,-0.0,M,-2147483648,2016-05-19,First Analysis Corp,12 month,5,overweight,50.0,399.0
+400,400,-0.0,M,-2147483648,2016-05-19,Baird,12 month,5,outperform,48.0,400.0
+401,401,-0.0,M,-2147483648,2016-05-19,William Blair & Co,Not Provided,5,outperform,-0.0,401.0
+402,402,-0.0,M,-2147483648,2016-05-19,Axiom Capital,Not Provided,3,hold,36.0,402.0
+403,403,-0.0,M,-2147483648,2016-05-19,Nomura,12 month,5,buy,54.0,403.0
+404,404,-0.0,M,-2147483648,2016-05-19,Cowen,12 month,3,market perform,38.0,404.0
+405,405,-0.0,M,-2147483648,2016-05-19,Susquehanna Financial,12 month,4,Positive,50.0,405.0
+406,406,-0.0,M,-2147483648,2016-05-19,Compass Point Research & Trading LLC,12 month,3,neutral,40.0,406.0
+407,407,-0.0,M,-2147483648,2016-05-18,"Keefe, Bruyette & Woods",12 month,5,outperform,46.0,407.0
+408,408,-0.0,M,-2147483648,2016-05-18,Wedbush,12 month,5,outperform,47.0,408.0
+409,409,-0.0,M,-2147483648,2016-05-18,Raymond James,12 month,5,outperform,47.0,409.0
+410,410,-0.0,M,-2147483648,2016-05-18,Stifel,Not Provided,3,hold,-0.0,410.0
+411,411,-0.0,M,-2147483648,2016-05-18,Mizuho Securities USA Inc,12 month,5,buy,46.0,411.0
+412,412,-0.0,M,-2147483648,2016-05-18,Barclays,Not Provided,5,overweight,46.0,412.0
+413,413,-0.0,M,-2147483648,2016-05-17,M Science,Not Provided,-2147483648,no rating system,-0.0,413.0
+414,414,-0.0,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,414.0
+415,415,-0.0,M,-2147483648,2016-05-12,BTIG LLC,12 month,5,buy,48.0,415.0
+416,416,-0.0,M,-2147483648,2016-05-02,Daiwa Securities,Not Provided,3,neutral,39.0,416.0
+417,417,-0.0,M,-2147483648,2016-04-28,Goldman Sachs,12 month,5,buy/attractive,47.0,417.0
+418,418,-0.0,M,-2147483648,2016-04-28,Argus Research Corp,Not Provided,5,buy,45.0,418.0
+419,419,-0.0,M,-2147483648,2016-04-28,UBS,12 month,3,neutral,42.0,419.0
+420,420,-0.0,M,-2147483648,2016-04-28,SunTrust Robinson Humphrey,12 month,5,buy,44.0,420.0
+421,421,-0.0,M,-2147483648,2016-04-28,National Bank AG,Not Provided,5,buy,48.0,421.0
+422,422,-0.0,M,-2147483648,2016-04-28,Atlantic Equities LLP,12 month,3,neutral,43.0,422.0
+423,423,-0.0,M,-2147483648,2016-04-28,FBN Securities,12 month,3,sector perform,45.0,423.0
+424,424,-0.0,M,-2147483648,2016-04-27,Evercore ISI,12 month,1,sell,34.0,424.0
+425,425,-0.0,M,-2147483648,2016-03-14,CM Research,Not Provided,5,buy,47.39,425.0
+426,426,-0.0,D,-2147483648,2016-02-14,EVA Dimensions,Not Provided,1,underweight,-0.0,426.0
+427,427,-0.0,M,-2147483648,2016-02-04,Spin-Off Research,Not Provided,5,buy,39.75,427.0
+428,428,-0.0,U,-2147483648,2016-01-25,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,428.0
+429,429,-0.0,M,-2147483648,2016-07-01,RBC Capital Markets,12 month,5,outperform,46.0,429.0
+430,430,-0.0,M,-2147483648,2016-07-01,Cantor Fitzgerald,12 month,5,buy,48.0,430.0
+431,431,-0.0,M,-2147483648,2016-06-29,Goldman Sachs,12 month,5,buy/attractive,46.0,431.0
+432,432,-0.0,M,-2147483648,2016-06-29,Compass Point Research & Trading LLC,Not Provided,3,neutral,40.0,432.0
+433,433,-0.0,M,-2147483648,2016-06-27,Piper Jaffray,12 month,1,underweight,34.0,433.0
+434,434,-0.0,M,-2147483648,2016-06-26,"Keefe, Bruyette & Woods",Not Provided,5,outperform,-0.0,434.0
+435,435,-0.0,M,-2147483648,2016-06-24,Edward Jones,Not Provided,5,buy,-0.0,435.0
+436,436,-0.0,U,-2147483648,2016-06-23,EVA Dimensions,Not Provided,3,hold,-0.0,436.0
+437,437,-0.0,M,-2147483648,2016-06-17,Bernstein,Not Provided,3,market perform,43.0,437.0
+438,438,-0.0,N,-2147483648,2016-06-16,Oppenheimer & Co,18 month,5,outperform,43.0,438.0
+439,439,-0.0,M,-2147483648,2016-06-13,Morgan Stanley,12 month,3,Equalwt/In-Line,40.0,439.0
+440,440,-0.0,M,-2147483648,2016-06-13,Credit Suisse,Not Provided,5,outperform,42.0,440.0
+441,441,-0.0,M,-2147483648,2016-06-12,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,441.0
+442,442,-0.0,M,-2147483648,2016-06-10,Cowen,Not Provided,3,market perform,38.0,442.0
+443,443,-0.0,M,-2147483648,2016-06-07,Nomura,12 month,5,buy,54.0,443.0
+444,444,-0.0,M,-2147483648,2016-06-06,Stifel,Not Provided,3,hold,-0.0,444.0
+445,445,-0.0,M,-2147483648,2016-06-02,Jefferies,12 month,5,buy,48.0,445.0
+446,446,-0.0,M,-2147483648,2016-06-01,Canaccord Genuity,Not Provided,5,buy,45.0,446.0
+447,447,-0.0,U,-2147483648,2016-05-31,"Morningstar, Inc",Not Provided,5,buy,-0.0,447.0
+448,448,-0.0,N,-2147483648,2016-05-26,Needham & Co,Not Provided,3,hold,-0.0,448.0
+449,449,-0.0,M,-2147483648,2016-05-23,J.P. Morgan,6 month,5,overweight,44.0,449.0
+450,450,-0.0,M,-2147483648,2016-05-20,Wells Fargo Securities,Not Provided,5,outperform,-0.0,450.0
+451,451,-0.0,M,-2147483648,2016-05-19,First Analysis Corp,12 month,5,overweight,50.0,451.0
+452,452,-0.0,M,-2147483648,2016-05-19,Baird,12 month,5,outperform,48.0,452.0
+453,453,-0.0,M,-2147483648,2016-05-19,William Blair & Co,Not Provided,5,outperform,-0.0,453.0
+454,454,-0.0,M,-2147483648,2016-05-19,Axiom Capital,Not Provided,3,hold,36.0,454.0
+455,455,-0.0,M,-2147483648,2016-05-19,Susquehanna Financial,12 month,4,Positive,50.0,455.0
+456,456,-0.0,M,-2147483648,2016-05-18,Wedbush,12 month,5,outperform,47.0,456.0
+457,457,-0.0,M,-2147483648,2016-05-18,Raymond James,12 month,5,outperform,47.0,457.0
+458,458,-0.0,M,-2147483648,2016-05-18,Mizuho Securities USA Inc,12 month,5,buy,46.0,458.0
+459,459,-0.0,M,-2147483648,2016-05-18,Barclays,Not Provided,5,overweight,46.0,459.0
+460,460,-0.0,M,-2147483648,2016-05-17,M Science,Not Provided,-2147483648,no rating system,-0.0,460.0
+461,461,-0.0,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,461.0
+462,462,-0.0,M,-2147483648,2016-05-12,BTIG LLC,12 month,5,buy,48.0,462.0
+463,463,-0.0,M,-2147483648,2016-05-02,Daiwa Securities,Not Provided,3,neutral,39.0,463.0
+464,464,-0.0,M,-2147483648,2016-04-28,Argus Research Corp,Not Provided,5,buy,45.0,464.0
+465,465,-0.0,M,-2147483648,2016-04-28,UBS,12 month,3,neutral,42.0,465.0
+466,466,-0.0,M,-2147483648,2016-04-28,SunTrust Robinson Humphrey,12 month,5,buy,44.0,466.0
+467,467,-0.0,M,-2147483648,2016-04-28,National Bank AG,Not Provided,5,buy,48.0,467.0
+468,468,-0.0,M,-2147483648,2016-04-28,Atlantic Equities LLP,12 month,3,neutral,43.0,468.0
+469,469,-0.0,M,-2147483648,2016-04-28,FBN Securities,12 month,3,sector perform,45.0,469.0
+470,470,-0.0,M,-2147483648,2016-04-27,Evercore ISI,12 month,1,sell,34.0,470.0
+471,471,-0.0,M,-2147483648,2016-03-14,CM Research,Not Provided,5,buy,47.39,471.0
+472,472,-0.0,M,-2147483648,2016-02-04,Spin-Off Research,Not Provided,5,buy,39.75,472.0
+473,473,-0.0,U,-2147483648,2016-01-25,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,473.0
+474,474,-0.0,M,-2147483648,2016-08-01,Nomura,12 month,5,buy,54.0,474.0
+475,475,-0.0,M,-2147483648,2016-07-31,Wedbush,12 month,5,outperform,50.0,475.0
+476,476,-0.0,M,-2147483648,2016-07-29,RBC Capital Markets,12 month,5,outperform,46.0,476.0
+477,477,-0.0,M,-2147483648,2016-07-29,Wells Fargo Securities,Not Provided,3,market perform,-0.0,477.0
+478,478,-0.0,M,-2147483648,2016-07-27,Jefferies,Not Provided,5,buy,48.0,478.0
+479,479,-0.0,M,-2147483648,2016-07-27,Susquehanna Financial,12 month,4,Positive,50.0,479.0
+480,480,-0.0,M,-2147483648,2016-07-26,Credit Suisse,Not Provided,5,outperform,43.0,480.0
+481,481,-0.0,M,-2147483648,2016-07-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,481.0
+482,482,-0.0,M,-2147483648,2016-07-25,Morgan Stanley,12 month,3,Equalwt/In-Line,39.0,482.0
+483,483,-0.0,M,-2147483648,2016-07-25,Cantor Fitzgerald,Not Provided,5,buy,46.0,483.0
+484,484,-0.0,N,-2147483648,2016-07-25,Evercore ISI,12 month,1,sell,34.0,484.0
+485,485,-0.0,M,-2147483648,2016-07-24,Oppenheimer & Co,12 month,5,outperform,43.0,485.0
+486,486,-0.0,M,-2147483648,2016-07-22,Goldman Sachs,12 month,5,buy/attractive,47.0,486.0
+487,487,-0.0,M,-2147483648,2016-07-22,Argus Research Corp,Not Provided,5,buy,47.0,487.0
+488,488,-0.0,M,-2147483648,2016-07-22,SunTrust Robinson Humphrey,12 month,5,buy,45.0,488.0
+489,489,-0.0,M,-2147483648,2016-07-22,First Analysis Corp,12 month,5,overweight,50.0,489.0
+490,490,-0.0,M,-2147483648,2016-07-22,J.P. Morgan,6 month,5,overweight,44.0,490.0
+491,491,-0.0,M,-2147483648,2016-07-22,Needham & Co,Not Provided,3,hold,-0.0,491.0
+492,492,-0.0,M,-2147483648,2016-07-22,Baird,12 month,5,outperform,48.0,492.0
+493,493,-0.0,M,-2147483648,2016-07-22,Bernstein,12 month,3,market perform,41.0,493.0
+494,494,-0.0,M,-2147483648,2016-07-22,Stephens Inc,12 month,5,overweight,45.0,494.0
+495,495,-0.0,M,-2147483648,2016-07-22,William Blair & Co,Not Provided,5,outperform,-0.0,495.0
+496,496,-0.0,M,-2147483648,2016-07-22,Raymond James,12 month,5,outperform,47.0,496.0
+497,497,-0.0,M,-2147483648,2016-07-22,Stifel,Not Provided,3,hold,-0.0,497.0
+498,498,-0.0,M,-2147483648,2016-07-22,National Bank AG,12 month,5,buy,48.0,498.0
+499,499,-0.0,M,-2147483648,2016-07-22,Mizuho Securities USA Inc,12 month,5,buy,46.0,499.0
+500,500,-0.0,M,-2147483648,2016-07-22,Cowen,12 month,3,market perform,39.0,500.0
+501,501,-0.0,U,-2147483648,2016-07-22,"Morningstar, Inc",Not Provided,5,buy,-0.0,501.0
+502,502,-0.0,M,-2147483648,2016-07-22,Atlantic Equities LLP,12 month,3,neutral,43.0,502.0
+503,503,-0.0,M,-2147483648,2016-07-22,Barclays,Not Provided,5,overweight,42.0,503.0
+504,504,-0.0,M,-2147483648,2016-07-22,FBN Securities,12 month,3,sector perform,45.0,504.0
+505,505,-0.0,M,-2147483648,2016-07-22,Compass Point Research & Trading LLC,12 month,3,neutral,40.0,505.0
+506,506,-0.0,M,-2147483648,2016-07-21,"Keefe, Bruyette & Woods",12 month,5,outperform,44.0,506.0
+507,507,-0.0,M,-2147483648,2016-07-21,Canaccord Genuity,12 month,5,buy,45.0,507.0
+508,508,-0.0,M,-2147483648,2016-07-21,Piper Jaffray,12 month,1,underweight,34.0,508.0
+509,509,-0.0,M,-2147483648,2016-07-21,BTIG LLC,12 month,5,buy,48.0,509.0
+510,510,-0.0,M,-2147483648,2016-07-19,M Science,Not Provided,-2147483648,no rating system,-0.0,510.0
+511,511,-0.0,M,-2147483648,2016-07-18,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,511.0
+512,512,-0.0,M,-2147483648,2016-07-05,Axiom Capital,Not Provided,3,hold,-0.0,512.0
+513,513,-0.0,M,-2147483648,2016-06-24,Edward Jones,Not Provided,5,buy,-0.0,513.0
+514,514,-0.0,U,-2147483648,2016-06-23,EVA Dimensions,Not Provided,3,hold,-0.0,514.0
+515,515,-0.0,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,515.0
+516,516,-0.0,M,-2147483648,2016-05-02,Daiwa Securities,Not Provided,3,neutral,39.0,516.0
+517,517,-0.0,M,-2147483648,2016-04-28,UBS,12 month,3,neutral,42.0,517.0
+518,518,-0.0,M,-2147483648,2016-03-14,CM Research,Not Provided,5,buy,47.39,518.0
+519,519,-0.0,M,-2147483648,2016-02-04,Spin-Off Research,Not Provided,5,buy,39.75,519.0
+520,520,-0.0,M,-2147483648,2016-09-01,Edward Jones,Not Provided,5,buy,-0.0,520.0
+521,521,-0.0,M,-2147483648,2016-08-31,RBC Capital Markets,12 month,5,outperform,46.0,521.0
+522,522,-0.0,M,-2147483648,2016-08-30,First Analysis Corp,12 month,5,overweight,50.0,522.0
+523,523,-0.0,M,-2147483648,2016-08-29,Bernstein,Not Provided,3,market perform,41.0,523.0
+524,524,-0.0,M,-2147483648,2016-08-29,Stifel,Not Provided,3,hold,-0.0,524.0
+525,525,-0.0,M,-2147483648,2016-08-26,Cantor Fitzgerald,Not Provided,5,buy,46.0,525.0
+526,526,-0.0,M,-2147483648,2016-08-19,J.P. Morgan,18 month,5,overweight,45.0,526.0
+527,527,-0.0,M,-2147483648,2016-08-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0,527.0
+528,528,-0.0,M,-2147483648,2016-08-18,SunTrust Robinson Humphrey,12 month,5,buy,45.0,528.0
+529,529,-0.0,M,-2147483648,2016-08-18,Evercore ISI,12 month,1,sell,34.0,529.0
+530,530,-0.0,M,-2147483648,2016-08-18,Compass Point Research & Trading LLC,Not Provided,3,neutral,40.0,530.0
+531,531,-0.0,M,-2147483648,2016-08-16,Barclays,Not Provided,5,overweight,42.0,531.0
+532,532,-0.0,M,-2147483648,2016-08-15,Baird,12 month,5,outperform,48.0,532.0
+533,533,-0.0,M,-2147483648,2016-08-15,CM Research,Not Provided,5,buy,45.68,533.0
+534,534,-0.0,M,-2147483648,2016-08-12,Susquehanna Financial,12 month,4,Positive,50.0,534.0
+535,535,-0.0,M,-2147483648,2016-08-10,Cowen,Not Provided,3,market perform,39.0,535.0
+536,536,-0.0,M,-2147483648,2016-08-05,William Blair & Co,Not Provided,5,outperform,-0.0,536.0
+537,537,-0.0,M,-2147483648,2016-08-01,Nomura,12 month,5,buy,54.0,537.0
+538,538,-0.0,M,-2147483648,2016-07-31,Wedbush,12 month,5,outperform,50.0,538.0
+539,539,-0.0,M,-2147483648,2016-07-27,Jefferies,Not Provided,5,buy,48.0,539.0
+540,540,-0.0,M,-2147483648,2016-07-26,Credit Suisse,Not Provided,5,outperform,43.0,540.0
+541,541,-0.0,M,-2147483648,2016-07-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,541.0
+542,542,-0.0,M,-2147483648,2016-07-25,Morgan Stanley,12 month,3,Equalwt/In-Line,39.0,542.0
+543,543,-0.0,M,-2147483648,2016-07-24,Oppenheimer & Co,12 month,5,outperform,43.0,543.0
+544,544,-0.0,M,-2147483648,2016-07-22,Goldman Sachs,12 month,5,buy/attractive,47.0,544.0
+545,545,-0.0,M,-2147483648,2016-07-22,Argus Research Corp,Not Provided,5,buy,47.0,545.0
+546,546,-0.0,M,-2147483648,2016-07-22,Needham & Co,Not Provided,3,hold,-0.0,546.0
+547,547,-0.0,M,-2147483648,2016-07-22,Stephens Inc,12 month,5,overweight,45.0,547.0
+548,548,-0.0,M,-2147483648,2016-07-22,Raymond James,12 month,5,outperform,47.0,548.0
+549,549,-0.0,M,-2147483648,2016-07-22,National Bank AG,12 month,5,buy,48.0,549.0
+550,550,-0.0,M,-2147483648,2016-07-22,Mizuho Securities USA Inc,12 month,5,buy,46.0,550.0
+551,551,-0.0,U,-2147483648,2016-07-22,"Morningstar, Inc",Not Provided,5,buy,-0.0,551.0
+552,552,-0.0,M,-2147483648,2016-07-22,Atlantic Equities LLP,12 month,3,neutral,43.0,552.0
+553,553,-0.0,M,-2147483648,2016-07-22,FBN Securities,12 month,3,sector perform,45.0,553.0
+554,554,-0.0,M,-2147483648,2016-07-21,"Keefe, Bruyette & Woods",12 month,5,outperform,44.0,554.0
+555,555,-0.0,M,-2147483648,2016-07-21,Canaccord Genuity,12 month,5,buy,45.0,555.0
+556,556,-0.0,M,-2147483648,2016-07-21,Piper Jaffray,12 month,1,underweight,34.0,556.0
+557,557,-0.0,M,-2147483648,2016-07-21,BTIG LLC,12 month,5,buy,48.0,557.0
+558,558,-0.0,M,-2147483648,2016-07-19,M Science,Not Provided,-2147483648,no rating system,-0.0,558.0
+559,559,-0.0,M,-2147483648,2016-07-18,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,559.0
+560,560,-0.0,M,-2147483648,2016-07-05,Axiom Capital,Not Provided,3,hold,-0.0,560.0
+561,561,-0.0,U,-2147483648,2016-06-23,EVA Dimensions,Not Provided,3,hold,-0.0,561.0
+562,562,-0.0,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,562.0
+563,563,-0.0,M,-2147483648,2016-05-02,Daiwa Securities,Not Provided,3,neutral,39.0,563.0
+564,564,-0.0,M,-2147483648,2016-04-28,UBS,12 month,3,neutral,42.0,564.0
+565,565,-0.0,M,-2147483648,2016-09-30,RBC Capital Markets,12 month,5,outperform,46.0,565.0
+566,566,-0.0,M,-2147483648,2016-09-30,J.P. Morgan,18 month,5,overweight,45.0,566.0
+567,567,-0.0,M,-2147483648,2016-09-30,Cantor Fitzgerald,Not Provided,5,buy,46.0,567.0
+568,568,-0.0,M,-2147483648,2016-09-30,Compass Point Research & Trading LLC,Not Provided,3,neutral,40.0,568.0
+569,569,-0.0,M,-2147483648,2016-09-29,Wedbush,12 month,5,outperform,50.0,569.0
+570,570,-0.0,M,-2147483648,2016-09-28,Susquehanna Financial,12 month,4,Positive,50.0,570.0
+571,571,-0.0,M,-2147483648,2016-09-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,571.0
+572,572,-0.0,M,-2147483648,2016-09-23,Jefferies,Not Provided,5,buy,48.0,572.0
+573,573,-0.0,M,-2147483648,2016-09-22,Cowen,Not Provided,3,market perform,39.0,573.0
+574,574,-0.0,M,-2147483648,2016-09-20,Craig-Hallum Capital Group LLC,12 month,5,buy,52.0,574.0
+575,575,-0.0,D,-2147483648,2016-09-19,Canaccord Genuity,Not Provided,3,hold,40.0,575.0
+576,576,-0.0,M,-2147483648,2016-09-19,CM Research,Not Provided,5,buy,47.83,576.0
+577,577,-0.0,M,-2147483648,2016-09-16,Bernstein,12 month,3,market perform,41.0,577.0
+578,578,-0.0,M,-2147483648,2016-09-13,"Keefe, Bruyette & Woods",12 month,5,outperform,44.0,578.0
+579,579,-0.0,M,-2147483648,2016-09-13,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,579.0
+580,580,-0.0,M,-2147483648,2016-09-13,Barclays,Not Provided,5,overweight,42.0,580.0
+581,581,-0.0,M,-2147483648,2016-09-07,Mizuho Securities USA Inc,12 month,5,buy,46.0,581.0
+582,582,-0.0,M,-2147483648,2016-09-06,Stephens Inc,12 month,5,overweight,45.0,582.0
+583,583,-0.0,M,-2147483648,2016-09-06,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,583.0
+584,584,-0.0,M,-2147483648,2016-09-06,Wells Fargo Securities,Not Provided,3,market perform,-0.0,584.0
+585,585,-0.0,M,-2147483648,2016-09-06,Piper Jaffray,12 month,1,underweight,34.0,585.0
+586,586,-0.0,M,-2147483648,2016-09-06,BTIG LLC,12 month,5,buy,48.0,586.0
+587,587,-0.0,M,-2147483648,2016-09-01,Edward Jones,Not Provided,5,buy,-0.0,587.0
+588,588,-0.0,M,-2147483648,2016-08-30,First Analysis Corp,12 month,5,overweight,50.0,588.0
+589,589,-0.0,M,-2147483648,2016-08-29,Stifel,Not Provided,3,hold,-0.0,589.0
+590,590,-0.0,M,-2147483648,2016-08-18,SunTrust Robinson Humphrey,12 month,5,buy,45.0,590.0
+591,591,-0.0,M,-2147483648,2016-08-18,Evercore ISI,12 month,1,sell,34.0,591.0
+592,592,-0.0,M,-2147483648,2016-08-15,Baird,12 month,5,outperform,48.0,592.0
+593,593,-0.0,M,-2147483648,2016-08-05,William Blair & Co,Not Provided,5,outperform,-0.0,593.0
+594,594,-0.0,M,-2147483648,2016-08-01,Nomura,12 month,5,buy,54.0,594.0
+595,595,-0.0,M,-2147483648,2016-07-26,Credit Suisse,Not Provided,5,outperform,43.0,595.0
+596,596,-0.0,M,-2147483648,2016-07-25,Morgan Stanley,12 month,3,Equalwt/In-Line,39.0,596.0
+597,597,-0.0,M,-2147483648,2016-07-24,Oppenheimer & Co,12 month,5,outperform,43.0,597.0
+598,598,-0.0,M,-2147483648,2016-07-22,Goldman Sachs,12 month,5,buy/attractive,47.0,598.0
+599,599,-0.0,M,-2147483648,2016-07-22,Argus Research Corp,Not Provided,5,buy,47.0,599.0
+600,600,-0.0,M,-2147483648,2016-07-22,Needham & Co,Not Provided,3,hold,-0.0,600.0
+601,601,-0.0,M,-2147483648,2016-07-22,Raymond James,12 month,5,outperform,47.0,601.0
+602,602,-0.0,M,-2147483648,2016-07-22,National Bank AG,12 month,5,buy,48.0,602.0
+603,603,-0.0,M,-2147483648,2016-07-22,Atlantic Equities LLP,12 month,3,neutral,43.0,603.0
+604,604,-0.0,M,-2147483648,2016-07-22,FBN Securities,12 month,3,sector perform,45.0,604.0
+605,605,-0.0,M,-2147483648,2016-07-19,M Science,Not Provided,-2147483648,no rating system,-0.0,605.0
+606,606,-0.0,M,-2147483648,2016-07-05,Axiom Capital,Not Provided,3,hold,-0.0,606.0
+607,607,-0.0,U,-2147483648,2016-06-23,EVA Dimensions,Not Provided,3,hold,-0.0,607.0
+608,608,-0.0,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,608.0
+609,609,-0.0,M,-2147483648,2016-05-02,Daiwa Securities,Not Provided,3,neutral,39.0,609.0
+610,610,-0.0,M,-2147483648,2016-04-28,UBS,12 month,3,neutral,42.0,610.0
+611,611,-0.0,M,-2147483648,2016-11-01,RBC Capital Markets,12 month,5,outperform,47.0,611.0
+612,612,-0.0,M,-2147483648,2016-10-31,Piper Jaffray,12 month,1,underweight,36.0,612.0
+613,613,-0.0,M,-2147483648,2016-10-30,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,613.0
+614,614,-0.0,M,-2147483648,2016-10-30,Canaccord Genuity,Not Provided,3,hold,40.0,614.0
+615,615,-0.0,M,-2147483648,2016-10-25,Susquehanna Financial,12 month,4,Positive,50.0,615.0
+616,616,-0.0,M,-2147483648,2016-10-24,Stephens Inc,12 month,5,overweight,49.0,616.0
+617,617,-0.0,M,-2147483648,2016-10-24,Cantor Fitzgerald,Not Provided,5,buy,48.0,617.0
+618,618,-0.0,M,-2147483648,2016-10-24,Mizuho Securities USA Inc,12 month,5,buy,48.0,618.0
+619,619,-0.0,M,-2147483648,2016-10-23,Credit Suisse,Not Provided,5,outperform,47.0,619.0
+620,620,-0.0,M,-2147483648,2016-10-21,Morgan Stanley,12 month,3,Equalwt/In-Line,41.0,620.0
+621,621,-0.0,M,-2147483648,2016-10-21,Goldman Sachs,12 month,5,buy/attractive,49.0,621.0
+622,622,-0.0,M,-2147483648,2016-10-21,Argus Research Corp,Not Provided,5,buy,47.0,622.0
+623,623,-0.0,M,-2147483648,2016-10-21,SunTrust Robinson Humphrey,12 month,5,buy,47.0,623.0
+624,624,-0.0,M,-2147483648,2016-10-21,J.P. Morgan,18 month,5,overweight,45.0,624.0
+625,625,-0.0,M,-2147483648,2016-10-21,Jefferies,12 month,5,buy,52.0,625.0
+626,626,-0.0,M,-2147483648,2016-10-21,Needham & Co,Not Provided,3,hold,-0.0,626.0
+627,627,-0.0,M,-2147483648,2016-10-21,Baird,12 month,5,outperform,48.0,627.0
+628,628,-0.0,M,-2147483648,2016-10-21,Bernstein,12 month,3,market perform,43.0,628.0
+629,629,-0.0,M,-2147483648,2016-10-21,William Blair & Co,Not Provided,5,outperform,-0.0,629.0
+630,630,-0.0,M,-2147483648,2016-10-21,Nomura,12 month,5,buy,54.0,630.0
+631,631,-0.0,M,-2147483648,2016-10-21,Wells Fargo Securities,Not Provided,3,market perform,-0.0,631.0
+632,632,-0.0,M,-2147483648,2016-10-21,"Morningstar, Inc",Not Provided,3,hold,-0.0,632.0
+633,633,-0.0,M,-2147483648,2016-10-21,Craig-Hallum Capital Group LLC,12 month,5,buy,52.0,633.0
+634,634,-0.0,M,-2147483648,2016-10-21,Atlantic Equities LLP,12 month,3,neutral,43.0,634.0
+635,635,-0.0,M,-2147483648,2016-10-21,Barclays,Not Provided,5,overweight,46.0,635.0
+636,636,-0.0,M,-2147483648,2016-10-21,FBN Securities,12 month,3,sector perform,47.0,636.0
+637,637,-0.0,M,-2147483648,2016-10-21,Compass Point Research & Trading LLC,Not Provided,3,neutral,40.0,637.0
+638,638,-0.0,M,-2147483648,2016-10-20,Edward Jones,Not Provided,5,buy,-0.0,638.0
+639,639,-0.0,M,-2147483648,2016-10-20,First Analysis Corp,12 month,5,overweight,50.0,639.0
+640,640,-0.0,M,-2147483648,2016-10-20,"Keefe, Bruyette & Woods",12 month,5,outperform,48.0,640.0
+641,641,-0.0,M,-2147483648,2016-10-20,Wedbush,Not Provided,5,outperform,54.0,641.0
+642,642,-0.0,U,-2147483648,2016-10-20,Stifel,12 month,5,buy,49.0,642.0
+643,643,-0.0,M,-2147483648,2016-10-20,Evercore ISI,12 month,5,buy,46.0,643.0
+644,644,-0.0,M,-2147483648,2016-10-20,Oppenheimer & Co,12 month,5,outperform,45.0,644.0
+645,645,-0.0,M,-2147483648,2016-10-20,Cowen,12 month,3,market perform,40.0,645.0
+646,646,-0.0,M,-2147483648,2016-10-20,BTIG LLC,12 month,5,buy,48.0,646.0
+647,647,-0.0,M,-2147483648,2016-10-19,Raymond James,12 month,5,outperform,47.0,647.0
+648,648,-0.0,M,-2147483648,2016-10-14,M Science,Not Provided,-2147483648,no rating system,-0.0,648.0
+649,649,-0.0,M,-2147483648,2016-09-19,CM Research,Not Provided,5,buy,47.83,649.0
+650,650,-0.0,M,-2147483648,2016-09-06,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,650.0
+651,651,-0.0,M,-2147483648,2016-07-22,National Bank AG,12 month,5,buy,48.0,651.0
+652,652,-0.0,M,-2147483648,2016-07-05,Axiom Capital,Not Provided,3,hold,-0.0,652.0
+653,653,-0.0,U,-2147483648,2016-06-23,EVA Dimensions,Not Provided,3,hold,-0.0,653.0
+654,654,-0.0,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,654.0
+655,655,-0.0,M,-2147483648,2016-05-02,Daiwa Securities,Not Provided,3,neutral,39.0,655.0
+656,656,-0.0,M,-2147483648,2016-04-28,UBS,12 month,3,neutral,42.0,656.0
+657,657,-0.0,M,-2147483648,2016-12-01,Jefferies,12 month,5,buy,52.0,657.0
+658,658,-0.0,M,-2147483648,2016-12-01,Baird,12 month,5,outperform,48.0,658.0
+659,659,-0.0,M,-2147483648,2016-12-01,William Blair & Co,Not Provided,5,outperform,-0.0,659.0
+660,660,-0.0,M,-2147483648,2016-11-30,RBC Capital Markets,12 month,5,outperform,47.0,660.0
+661,661,-0.0,M,-2147483648,2016-11-28,Cantor Fitzgerald,Not Provided,5,buy,48.0,661.0
+662,662,-0.0,M,-2147483648,2016-11-28,Craig-Hallum Capital Group LLC,12 month,5,buy,52.0,662.0
+663,663,-0.0,M,-2147483648,2016-11-27,First Analysis Corp,12 month,5,overweight,50.0,663.0
+664,664,-0.0,M,-2147483648,2016-11-22,M Science,Not Provided,-2147483648,no rating system,-0.0,664.0
+665,665,-0.0,M,-2147483648,2016-11-22,Susquehanna Financial,12 month,4,Positive,50.0,665.0
+666,666,-0.0,M,-2147483648,2016-11-21,Edward Jones,Not Provided,5,buy,-0.0,666.0
+667,667,-0.0,M,-2147483648,2016-11-21,Compass Point Research & Trading LLC,Not Provided,3,neutral,40.0,667.0
+668,668,-0.0,M,-2147483648,2016-11-18,Bernstein,Not Provided,3,market perform,43.0,668.0
+669,669,-0.0,M,-2147483648,2016-11-15,"Keefe, Bruyette & Woods",Not Provided,5,outperform,48.0,669.0
+670,670,-0.0,N,-2147483648,2016-11-15,Nomura Instinet,12 month,5,buy,54.0,670.0
+671,671,-0.0,M,-2147483648,2016-11-14,Credit Suisse,Not Provided,5,outperform,47.0,671.0
+672,672,-0.0,M,-2147483648,2016-11-14,Stifel,12 month,5,buy,49.0,672.0
+673,673,-0.0,M,-2147483648,2016-11-11,CM Research,Not Provided,5,buy,49.51,673.0
+674,674,-0.0,M,-2147483648,2016-11-04,Wells Fargo Securities,Not Provided,3,market perform,-0.0,674.0
+675,675,-0.0,M,-2147483648,2016-10-31,Piper Jaffray,12 month,1,underweight,36.0,675.0
+676,676,-0.0,M,-2147483648,2016-10-30,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,676.0
+677,677,-0.0,M,-2147483648,2016-10-30,Canaccord Genuity,Not Provided,3,hold,40.0,677.0
+678,678,-0.0,M,-2147483648,2016-10-24,Stephens Inc,12 month,5,overweight,49.0,678.0
+679,679,-0.0,M,-2147483648,2016-10-24,Mizuho Securities USA Inc,12 month,5,buy,48.0,679.0
+680,680,-0.0,M,-2147483648,2016-10-21,Morgan Stanley,12 month,3,Equalwt/In-Line,41.0,680.0
+681,681,-0.0,M,-2147483648,2016-10-21,Goldman Sachs,12 month,5,buy/attractive,49.0,681.0
+682,682,-0.0,M,-2147483648,2016-10-21,Argus Research Corp,Not Provided,5,buy,47.0,682.0
+683,683,-0.0,M,-2147483648,2016-10-21,SunTrust Robinson Humphrey,12 month,5,buy,47.0,683.0
+684,684,-0.0,M,-2147483648,2016-10-21,J.P. Morgan,18 month,5,overweight,45.0,684.0
+685,685,-0.0,M,-2147483648,2016-10-21,Needham & Co,Not Provided,3,hold,-0.0,685.0
+686,686,-0.0,M,-2147483648,2016-10-21,"Morningstar, Inc",Not Provided,3,hold,-0.0,686.0
+687,687,-0.0,M,-2147483648,2016-10-21,Atlantic Equities LLP,12 month,3,neutral,43.0,687.0
+688,688,-0.0,M,-2147483648,2016-10-21,Barclays,Not Provided,5,overweight,46.0,688.0
+689,689,-0.0,M,-2147483648,2016-10-21,FBN Securities,12 month,3,sector perform,47.0,689.0
+690,690,-0.0,M,-2147483648,2016-10-20,Wedbush,Not Provided,5,outperform,54.0,690.0
+691,691,-0.0,M,-2147483648,2016-10-20,Evercore ISI,12 month,5,buy,46.0,691.0
+692,692,-0.0,M,-2147483648,2016-10-20,Oppenheimer & Co,12 month,5,outperform,45.0,692.0
+693,693,-0.0,M,-2147483648,2016-10-20,Cowen,12 month,3,market perform,40.0,693.0
+694,694,-0.0,M,-2147483648,2016-10-20,BTIG LLC,12 month,5,buy,48.0,694.0
+695,695,-0.0,M,-2147483648,2016-10-19,Raymond James,12 month,5,outperform,47.0,695.0
+696,696,-0.0,M,-2147483648,2016-09-06,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,696.0
+697,697,-0.0,M,-2147483648,2016-07-22,National Bank AG,12 month,5,buy,48.0,697.0
+698,698,-0.0,U,-2147483648,2016-06-23,EVA Dimensions,Not Provided,3,hold,-0.0,698.0
+699,699,-0.0,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,699.0
+700,700,-0.0,M,-2147483648,2016-05-02,Daiwa Securities,Not Provided,3,neutral,39.0,700.0
+701,701,-0.0,M,-2147483648,2016-04-28,UBS,12 month,3,neutral,42.0,701.0
+702,702,-0.0,M,-2147483648,2016-12-28,Compass Point Research & Trading LLC,Not Provided,3,neutral,40.0,702.0
+703,703,-0.0,M,-2147483648,2016-12-23,Edward Jones,Not Provided,5,buy,-0.0,703.0
+704,704,-0.0,M,-2147483648,2016-12-21,M Science,Not Provided,-2147483648,no rating system,-0.0,704.0
+705,705,-0.0,M,-2147483648,2016-12-21,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,705.0
+706,706,-0.0,M,-2147483648,2016-12-19,RBC Capital Markets,12 month,5,outperform,47.0,706.0
+707,707,-0.0,M,-2147483648,2016-12-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0,707.0
+708,708,-0.0,D,-2147483648,2016-12-17,EVA Dimensions,Not Provided,1,underweight,-0.0,708.0
+709,709,-0.0,M,-2147483648,2016-12-16,Cantor Fitzgerald,Not Provided,5,overweight,48.0,709.0
+710,710,-0.0,M,-2147483648,2016-12-16,Craig-Hallum Capital Group LLC,12 month,5,buy,52.0,710.0
+711,711,-0.0,M,-2147483648,2016-12-16,Piper Jaffray,12 month,1,underweight,38.0,711.0
+712,712,-0.0,M,-2147483648,2016-12-15,Jefferies,12 month,5,buy,52.0,712.0
+713,713,-0.0,M,-2147483648,2016-12-15,"Keefe, Bruyette & Woods",12 month,5,outperform,48.0,713.0
+714,714,-0.0,M,-2147483648,2016-12-15,Evercore ISI,12 month,5,buy,46.0,714.0
+715,715,-0.0,M,-2147483648,2016-12-14,Cowen,12 month,3,market perform,40.0,715.0
+716,716,-0.0,M,-2147483648,2016-12-13,Bernstein,Not Provided,3,market perform,43.0,716.0
+717,717,-0.0,M,-2147483648,2016-12-12,SunTrust Robinson Humphrey,12 month,5,buy,47.0,717.0
+718,718,-0.0,M,-2147483648,2016-12-12,Baird,12 month,5,outperform,48.0,718.0
+719,719,-0.0,M,-2147483648,2016-12-12,"Morningstar, Inc",Not Provided,3,hold,-0.0,719.0
+720,720,-0.0,M,-2147483648,2016-12-09,J.P. Morgan,12 month,5,overweight,45.0,720.0
+721,721,-0.0,M,-2147483648,2016-12-08,Barclays,Not Provided,5,overweight,46.0,721.0
+722,722,-0.0,M,-2147483648,2016-12-05,Canaccord Genuity,Not Provided,3,hold,40.0,722.0
+723,723,-0.0,M,-2147483648,2016-12-05,"Monness, Crespi, Hardt & Co",Not Provided,3,neutral,-0.0,723.0
+724,724,-0.0,M,-2147483648,2016-12-01,William Blair & Co,Not Provided,5,outperform,-0.0,724.0
+725,725,-0.0,M,-2147483648,2016-11-27,First Analysis Corp,12 month,5,overweight,50.0,725.0
+726,726,-0.0,M,-2147483648,2016-11-22,Susquehanna Financial,12 month,4,Positive,50.0,726.0
+727,727,-0.0,N,-2147483648,2016-11-15,Nomura Instinet,12 month,5,buy,54.0,727.0
+728,728,-0.0,M,-2147483648,2016-11-14,Credit Suisse,Not Provided,5,outperform,47.0,728.0
+729,729,-0.0,M,-2147483648,2016-11-14,Stifel,12 month,5,buy,49.0,729.0
+730,730,-0.0,M,-2147483648,2016-11-11,CM Research,Not Provided,5,buy,49.51,730.0
+731,731,-0.0,M,-2147483648,2016-10-24,Stephens Inc,12 month,5,overweight,49.0,731.0
+732,732,-0.0,M,-2147483648,2016-10-24,Mizuho Securities USA Inc,12 month,5,buy,48.0,732.0
+733,733,-0.0,M,-2147483648,2016-10-21,Morgan Stanley,12 month,3,Equalwt/In-Line,41.0,733.0
+734,734,-0.0,M,-2147483648,2016-10-21,Goldman Sachs,12 month,5,buy/attractive,49.0,734.0
+735,735,-0.0,M,-2147483648,2016-10-21,Argus Research Corp,Not Provided,5,buy,47.0,735.0
+736,736,-0.0,M,-2147483648,2016-10-21,Needham & Co,Not Provided,3,hold,-0.0,736.0
+737,737,-0.0,M,-2147483648,2016-10-21,Atlantic Equities LLP,12 month,3,neutral,43.0,737.0
+738,738,-0.0,M,-2147483648,2016-10-21,FBN Securities,12 month,3,sector perform,47.0,738.0
+739,739,-0.0,M,-2147483648,2016-10-20,Wedbush,Not Provided,5,outperform,54.0,739.0
+740,740,-0.0,M,-2147483648,2016-10-20,Oppenheimer & Co,12 month,5,outperform,45.0,740.0
+741,741,-0.0,M,-2147483648,2016-10-20,BTIG LLC,12 month,5,buy,48.0,741.0
+742,742,-0.0,M,-2147483648,2016-10-19,Raymond James,12 month,5,outperform,47.0,742.0
+743,743,-0.0,M,-2147483648,2016-07-22,National Bank AG,12 month,5,buy,48.0,743.0
+744,744,-0.0,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,744.0
+745,745,-0.0,M,-2147483648,2016-05-02,Daiwa Securities,Not Provided,3,neutral,39.0,745.0
+746,746,-0.0,M,-2147483648,2016-04-28,UBS,12 month,3,neutral,42.0,746.0
+747,747,-0.0,M,-2147483648,2017-02-01,RBC Capital Markets,12 month,5,outperform,50.0,747.0
+748,748,-0.0,M,-2147483648,2017-02-01,Nomura Instinet,12 month,5,buy,54.0,748.0
+749,749,-0.0,M,-2147483648,2017-01-29,Renaissance Macro Research LLC,12 month,5,overweight,48.0,749.0
+750,750,-0.0,M,-2147483648,2017-01-27,BMO Capital Markets,Not Provided,5,outperform,47.0,750.0
+751,751,-0.0,M,-2147483648,2017-01-27,Morgan Stanley,12 month,3,Equalwt/In-Line,42.0,751.0
+752,752,-0.0,M,-2147483648,2017-01-27,Goldman Sachs,12 month,5,buy/attractive,50.0,752.0
+753,753,-0.0,M,-2147483648,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.0,753.0
+754,754,-0.0,M,-2147483648,2017-01-27,Credit Suisse,Not Provided,5,outperform,47.0,754.0
+755,755,-0.0,M,-2147483648,2017-01-27,First Analysis Corp,12 month,5,overweight,50.0,755.0
+756,756,-0.0,M,-2147483648,2017-01-27,J.P. Morgan,12 month,5,overweight,47.0,756.0
+757,757,-0.0,M,-2147483648,2017-01-27,Jefferies,12 month,5,buy,52.0,757.0
+758,758,-0.0,M,-2147483648,2017-01-27,Needham & Co,Not Provided,3,hold,-0.0,758.0
+759,759,-0.0,M,-2147483648,2017-01-27,Bernstein,12 month,3,market perform,44.0,759.0
+760,760,-0.0,M,-2147483648,2017-01-27,Stephens Inc,12 month,5,overweight,50.0,760.0
+761,761,-0.0,M,-2147483648,2017-01-27,Wedbush,12 month,5,outperform,54.0,761.0
+762,762,-0.0,M,-2147483648,2017-01-27,William Blair & Co,Not Provided,5,outperform,-0.0,762.0
+763,763,-0.0,M,-2147483648,2017-01-27,Raymond James,12 month,5,outperform,47.0,763.0
+764,764,-0.0,M,-2147483648,2017-01-27,Cantor Fitzgerald,12 month,5,overweight,48.0,764.0
+765,765,-0.0,M,-2147483648,2017-01-27,Stifel,12 month,5,buy,49.0,765.0
+766,766,-0.0,M,-2147483648,2017-01-27,National Bank AG,12 month,5,buy,48.0,766.0
+767,767,-0.0,M,-2147483648,2017-01-27,Loop Capital Markets,12 month,3,hold,44.0,767.0
+768,768,-0.0,M,-2147483648,2017-01-27,Mizuho Securities USA Inc,12 month,5,buy,48.0,768.0
+769,769,-0.0,M,-2147483648,2017-01-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,769.0
+770,770,-0.0,M,-2147483648,2017-01-27,Cowen,12 month,3,market perform,39.0,770.0
+771,771,-0.0,M,-2147483648,2017-01-27,Craig-Hallum Capital Group LLC,12 month,5,buy,52.0,771.0
+772,772,-0.0,M,-2147483648,2017-01-27,Susquehanna Financial,12 month,4,Positive,50.0,772.0
+773,773,-0.0,M,-2147483648,2017-01-27,Atlantic Equities LLP,12 month,3,neutral,43.0,773.0
+774,774,-0.0,M,-2147483648,2017-01-27,Barclays,Not Provided,5,overweight,47.0,774.0
+775,775,-0.0,U,-2147483648,2017-01-27,EVA Dimensions,Not Provided,3,hold,-0.0,775.0
+776,776,-0.0,M,-2147483648,2017-01-27,FBN Securities,12 month,3,sector perform,47.0,776.0
+777,777,-0.0,M,-2147483648,2017-01-27,Compass Point Research & Trading LLC,Not Provided,3,neutral,40.0,777.0
+778,778,-0.0,M,-2147483648,2017-01-26,Edward Jones,Not Provided,5,buy,-0.0,778.0
+779,779,-0.0,M,-2147483648,2017-01-26,SunTrust Robinson Humphrey,12 month,5,buy,47.0,779.0
+780,780,-0.0,M,-2147483648,2017-01-26,"Keefe, Bruyette & Woods",12 month,5,outperform,48.0,780.0
+781,781,-0.0,M,-2147483648,2017-01-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,781.0
+782,782,-0.0,M,-2147483648,2017-01-26,Baird,12 month,5,outperform,48.0,782.0
+783,783,-0.0,M,-2147483648,2017-01-26,Canaccord Genuity,12 month,3,hold,40.0,783.0
+784,784,-0.0,M,-2147483648,2017-01-26,Evercore ISI,12 month,5,buy,45.0,784.0
+785,785,-0.0,M,-2147483648,2017-01-26,Oppenheimer & Co,12 month,5,outperform,45.0,785.0
+786,786,-0.0,M,-2147483648,2017-01-26,Guggenheim Securities,12 month,5,buy,46.0,786.0
+787,787,-0.0,M,-2147483648,2017-01-26,"Morningstar, Inc",Not Provided,3,hold,-0.0,787.0
+788,788,-0.0,M,-2147483648,2017-01-26,Piper Jaffray,12 month,1,underweight,41.0,788.0
+789,789,-0.0,M,-2147483648,2017-01-26,BTIG LLC,12 month,5,buy,48.0,789.0
+790,790,-0.0,M,-2147483648,2017-01-20,M Science,Not Provided,-2147483648,no rating system,-0.0,790.0
+791,791,-0.0,M,-2147483648,2017-01-17,UBS,12 month,3,neutral,44.0,791.0
+792,792,-0.0,N,-2147483648,2017-01-09,Berenberg,Not Provided,5,buy,51.0,792.0
+793,793,-0.0,M,-2147483648,2017-01-09,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,50.0,793.0
+794,794,-0.0,M,-2147483648,2016-11-11,CM Research,Not Provided,5,buy,49.51,794.0
+795,795,-0.0,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,795.0
+796,796,-0.0,M,-2147483648,2016-05-02,Daiwa Securities,Not Provided,3,neutral,39.0,796.0
+797,797,-0.0,M,-2147483648,2017-03-01,RBC Capital Markets,12 month,5,outperform,50.0,797.0
+798,798,-0.0,M,-2147483648,2017-03-01,Bernstein,12 month,3,market perform,44.0,798.0
+799,799,-0.0,M,-2147483648,2017-03-01,Craig-Hallum Capital Group LLC,12 month,5,buy,52.0,799.0
+800,800,-0.0,M,-2147483648,2017-02-27,Cantor Fitzgerald,Not Provided,5,overweight,48.0,800.0
+801,801,-0.0,M,-2147483648,2017-02-27,Stifel,Not Provided,5,buy,49.0,801.0
+802,802,-0.0,M,-2147483648,2017-02-27,Susquehanna Financial,12 month,4,Positive,50.0,802.0
+803,803,-0.0,M,-2147483648,2017-02-24,Canaccord Genuity,Not Provided,3,hold,40.0,803.0
+804,804,-0.0,M,-2147483648,2017-02-24,Nomura Instinet,12 month,5,buy,54.0,804.0
+805,805,-0.0,M,-2147483648,2017-02-24,Barclays,Not Provided,5,overweight,47.0,805.0
+806,806,-0.0,M,-2147483648,2017-02-24,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.0,806.0
+807,807,-0.0,M,-2147483648,2017-02-23,Edward Jones,Not Provided,5,buy,-0.0,807.0
+808,808,-0.0,M,-2147483648,2017-02-21,CM Research,Not Provided,5,buy,50.35,808.0
+809,809,-0.0,M,-2147483648,2017-02-16,Wedbush,12 month,5,outperform,54.0,809.0
+810,810,-0.0,M,-2147483648,2017-02-15,Morgan Stanley,12 month,3,Equalwt/In-Line,42.0,810.0
+811,811,-0.0,M,-2147483648,2017-02-15,First Analysis Corp,12 month,5,overweight,50.0,811.0
+812,812,-0.0,M,-2147483648,2017-02-15,Stephens Inc,12 month,5,overweight,50.0,812.0
+813,813,-0.0,M,-2147483648,2017-02-15,Raymond James,12 month,5,outperform,47.0,813.0
+814,814,-0.0,M,-2147483648,2017-02-15,"Morningstar, Inc",Not Provided,3,hold,-0.0,814.0
+815,815,-0.0,M,-2147483648,2017-02-14,Jefferies,12 month,5,buy,52.0,815.0
+816,816,-0.0,M,-2147483648,2017-02-14,"Keefe, Bruyette & Woods",12 month,5,outperform,48.0,816.0
+817,817,-0.0,M,-2147483648,2017-02-14,William Blair & Co,Not Provided,5,outperform,-0.0,817.0
+818,818,-0.0,M,-2147483648,2017-02-14,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,50.0,818.0
+819,819,-0.0,M,-2147483648,2017-02-14,Cowen,12 month,3,market perform,39.0,819.0
+820,820,-0.0,M,-2147483648,2017-02-14,Piper Jaffray,12 month,1,underweight,41.0,820.0
+821,821,-0.0,M,-2147483648,2017-02-14,BTIG LLC,12 month,5,buy,48.0,821.0
+822,822,-0.0,M,-2147483648,2017-02-13,Renaissance Macro Research LLC,12 month,5,overweight,48.0,822.0
+823,823,-0.0,M,-2147483648,2017-02-09,Guggenheim Securities,Not Provided,5,buy,46.0,823.0
+824,824,-0.0,M,-2147483648,2017-02-02,Atlantic Equities LLP,12 month,3,neutral,45.0,824.0
+825,825,-0.0,M,-2147483648,2017-01-27,BMO Capital Markets,Not Provided,5,outperform,47.0,825.0
+826,826,-0.0,M,-2147483648,2017-01-27,Goldman Sachs,12 month,5,buy/attractive,50.0,826.0
+827,827,-0.0,M,-2147483648,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.0,827.0
+828,828,-0.0,M,-2147483648,2017-01-27,Credit Suisse,Not Provided,5,outperform,47.0,828.0
+829,829,-0.0,M,-2147483648,2017-01-27,J.P. Morgan,12 month,5,overweight,47.0,829.0
+830,830,-0.0,M,-2147483648,2017-01-27,Needham & Co,Not Provided,3,hold,-0.0,830.0
+831,831,-0.0,M,-2147483648,2017-01-27,National Bank AG,12 month,5,buy,48.0,831.0
+832,832,-0.0,M,-2147483648,2017-01-27,Loop Capital Markets,12 month,3,hold,44.0,832.0
+833,833,-0.0,M,-2147483648,2017-01-27,Mizuho Securities USA Inc,12 month,5,buy,48.0,833.0
+834,834,-0.0,M,-2147483648,2017-01-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,834.0
+835,835,-0.0,U,-2147483648,2017-01-27,EVA Dimensions,Not Provided,3,hold,-0.0,835.0
+836,836,-0.0,M,-2147483648,2017-01-27,FBN Securities,12 month,3,sector perform,47.0,836.0
+837,837,-0.0,M,-2147483648,2017-01-26,SunTrust Robinson Humphrey,12 month,5,buy,47.0,837.0
+838,838,-0.0,M,-2147483648,2017-01-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,838.0
+839,839,-0.0,M,-2147483648,2017-01-26,Baird,12 month,5,outperform,48.0,839.0
+840,840,-0.0,M,-2147483648,2017-01-26,Evercore ISI,12 month,5,buy,45.0,840.0
+841,841,-0.0,M,-2147483648,2017-01-26,Oppenheimer & Co,12 month,5,outperform,45.0,841.0
+842,842,-0.0,M,-2147483648,2017-01-20,M Science,Not Provided,-2147483648,no rating system,-0.0,842.0
+843,843,-0.0,M,-2147483648,2017-01-17,UBS,12 month,3,neutral,44.0,843.0
+844,844,-0.0,N,-2147483648,2017-01-09,Berenberg,Not Provided,5,buy,51.0,844.0
+845,845,-0.0,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,845.0
+846,846,-0.0,M,-2147483648,2016-05-02,Daiwa Securities,Not Provided,3,neutral,39.0,846.0
+847,847,-0.0,M,-2147483648,2017-03-31,RBC Capital Markets,12 month,5,outperform,50.0,847.0
+848,848,-0.0,M,-2147483648,2017-03-31,Jefferies,Not Provided,5,buy,52.0,848.0
+849,849,-0.0,M,-2147483648,2017-03-31,Cantor Fitzgerald,Not Provided,5,overweight,48.0,849.0
+850,850,-0.0,M,-2147483648,2017-03-31,"Morningstar, Inc",Not Provided,3,hold,-0.0,850.0
+851,851,-0.0,M,-2147483648,2017-03-29,Bernstein,12 month,3,market perform,44.0,851.0
+852,852,-0.0,M,-2147483648,2017-03-28,Craig-Hallum Capital Group LLC,12 month,5,buy,52.0,852.0
+853,853,-0.0,M,-2147483648,2017-03-27,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,50.0,853.0
+854,854,-0.0,M,-2147483648,2017-03-24,Edward Jones,Not Provided,5,buy,-0.0,854.0
+855,855,-0.0,M,-2147483648,2017-03-23,Susquehanna Financial,12 month,4,Positive,50.0,855.0
+856,856,-0.0,M,-2147483648,2017-03-22,Nomura Instinet,12 month,5,buy,54.0,856.0
+857,857,-0.0,M,-2147483648,2017-03-22,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.0,857.0
+858,858,-0.0,M,-2147483648,2017-03-17,Barclays,Not Provided,5,overweight,48.0,858.0
+859,859,-0.0,M,-2147483648,2017-03-09,Guggenheim Securities,Not Provided,5,buy,46.0,859.0
+860,860,-0.0,M,-2147483648,2017-03-06,Baird,Not Provided,5,outperform,48.0,860.0
+861,861,-0.0,M,-2147483648,2017-03-03,First Analysis Corp,12 month,5,overweight,50.0,861.0
+862,862,-0.0,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.0,862.0
+863,863,-0.0,M,-2147483648,2017-03-02,SunTrust Robinson Humphrey,Not Provided,5,buy,49.0,863.0
+864,864,-0.0,M,-2147483648,2017-02-27,Stifel,Not Provided,5,buy,49.0,864.0
+865,865,-0.0,M,-2147483648,2017-02-24,Canaccord Genuity,Not Provided,3,hold,40.0,865.0
+866,866,-0.0,M,-2147483648,2017-02-21,CM Research,Not Provided,5,buy,50.35,866.0
+867,867,-0.0,M,-2147483648,2017-02-16,Wedbush,12 month,5,outperform,54.0,867.0
+868,868,-0.0,M,-2147483648,2017-02-15,Morgan Stanley,12 month,3,Equalwt/In-Line,42.0,868.0
+869,869,-0.0,M,-2147483648,2017-02-15,Stephens Inc,12 month,5,overweight,50.0,869.0
+870,870,-0.0,M,-2147483648,2017-02-15,Raymond James,12 month,5,outperform,47.0,870.0
+871,871,-0.0,M,-2147483648,2017-02-14,"Keefe, Bruyette & Woods",12 month,5,outperform,48.0,871.0
+872,872,-0.0,M,-2147483648,2017-02-14,William Blair & Co,Not Provided,5,outperform,-0.0,872.0
+873,873,-0.0,M,-2147483648,2017-02-14,Cowen,12 month,3,market perform,39.0,873.0
+874,874,-0.0,M,-2147483648,2017-02-14,Piper Jaffray,12 month,1,underweight,41.0,874.0
+875,875,-0.0,M,-2147483648,2017-02-14,BTIG LLC,12 month,5,buy,48.0,875.0
+876,876,-0.0,M,-2147483648,2017-02-13,Renaissance Macro Research LLC,12 month,5,overweight,48.0,876.0
+877,877,-0.0,M,-2147483648,2017-02-02,Atlantic Equities LLP,12 month,3,neutral,45.0,877.0
+878,878,-0.0,M,-2147483648,2017-01-27,BMO Capital Markets,Not Provided,5,outperform,47.0,878.0
+879,879,-0.0,M,-2147483648,2017-01-27,Goldman Sachs,12 month,5,buy/attractive,50.0,879.0
+880,880,-0.0,M,-2147483648,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.0,880.0
+881,881,-0.0,M,-2147483648,2017-01-27,Credit Suisse,Not Provided,5,outperform,47.0,881.0
+882,882,-0.0,M,-2147483648,2017-01-27,J.P. Morgan,12 month,5,overweight,47.0,882.0
+883,883,-0.0,M,-2147483648,2017-01-27,Needham & Co,Not Provided,3,hold,-0.0,883.0
+884,884,-0.0,M,-2147483648,2017-01-27,National Bank AG,12 month,5,buy,48.0,884.0
+885,885,-0.0,M,-2147483648,2017-01-27,Loop Capital Markets,12 month,3,hold,44.0,885.0
+886,886,-0.0,M,-2147483648,2017-01-27,Mizuho Securities USA Inc,12 month,5,buy,48.0,886.0
+887,887,-0.0,M,-2147483648,2017-01-27,Wells Fargo Securities,Not Provided,3,market perform,-0.0,887.0
+888,888,-0.0,U,-2147483648,2017-01-27,EVA Dimensions,Not Provided,3,hold,-0.0,888.0
+889,889,-0.0,M,-2147483648,2017-01-27,FBN Securities,12 month,3,sector perform,47.0,889.0
+890,890,-0.0,M,-2147483648,2017-01-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,890.0
+891,891,-0.0,M,-2147483648,2017-01-26,Evercore ISI,12 month,5,buy,45.0,891.0
+892,892,-0.0,M,-2147483648,2017-01-26,Oppenheimer & Co,12 month,5,outperform,45.0,892.0
+893,893,-0.0,M,-2147483648,2017-01-17,UBS,12 month,3,neutral,44.0,893.0
+894,894,-0.0,N,-2147483648,2017-01-09,Berenberg,Not Provided,5,buy,51.0,894.0
+895,895,-0.0,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,895.0
+896,896,-0.0,M,-2147483648,2017-04-27,BMO Capital Markets,Not Provided,5,outperform,52.0,896.0
+897,897,0.0,M,10,2017-04-27,Morgan Stanley,12 month,3,Equalwt/In-Line,44.0,897.0
+898,898,11.78,M,4,2017-04-27,Goldman Sachs,12 month,5,buy/attractive,54.0,898.0
+899,899,11.78,M,4,2017-04-27,RBC Capital Markets,12 month,5,outperform,52.0,899.0
+900,900,0.0,M,10,2017-04-27,UBS,12 month,3,neutral,48.0,900.0
+901,901,-0.0,M,-2147483648,2017-04-27,SunTrust Robinson Humphrey,Not Provided,5,buy,53.0,901.0
+902,902,11.78,M,4,2017-04-27,First Analysis Corp,12 month,5,overweight,50.0,902.0
+903,903,11.78,M,4,2017-04-27,J.P. Morgan,9 month,5,overweight,47.0,903.0
+904,904,0.0,M,10,2017-04-27,Needham & Co,Not Provided,3,hold,-0.0,904.0
+905,905,11.78,M,4,2017-04-27,Baird,12 month,5,outperform,54.0,905.0
+906,906,0.0,M,10,2017-04-27,Bernstein,12 month,3,market perform,46.0,906.0
+907,907,22.27,M,1,2017-04-27,Stephens Inc,12 month,5,overweight,51.0,907.0
+908,908,-0.0,M,-2147483648,2017-04-27,Wedbush,12 month,5,outperform,54.0,908.0
+909,909,11.78,M,4,2017-04-27,Raymond James,12 month,5,outperform,52.0,909.0
+910,910,-0.0,M,-2147483648,2017-04-27,Cantor Fitzgerald,12 month,5,overweight,53.0,910.0
+911,911,10.78,M,5,2017-04-27,Stifel,12 month,5,buy,51.0,911.0
+912,912,-0.0,M,-2147483648,2017-04-27,Loop Capital Markets,12 month,3,hold,46.0,912.0
+913,913,0.7,M,9,2017-04-27,Canaccord Genuity,12 month,3,hold,45.0,913.0
+914,914,-0.0,M,-2147483648,2017-04-27,Berenberg,Not Provided,5,buy,51.0,914.0
+915,915,10.34,M,6,2017-04-27,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,54.0,915.0
+916,916,-0.0,M,-2147483648,2017-04-27,Guggenheim Securities,Not Provided,5,buy,53.0,916.0
+917,917,0.0,M,10,2017-04-27,Cowen,Not Provided,3,market perform,42.0,917.0
+918,918,12.26,M,3,2017-04-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,918.0
+919,919,-0.0,M,-2147483648,2017-04-27,Craig-Hallum Capital Group LLC,12 month,5,buy,54.0,919.0
+920,920,11.78,M,4,2017-04-27,Susquehanna Financial,12 month,4,Positive,55.0,920.0
+921,921,0.0,M,10,2017-04-27,Atlantic Equities LLP,12 month,3,neutral,45.0,921.0
+922,922,-29.85,M,12,2017-04-27,Piper Jaffray,12 month,3,neutral,45.0,922.0
+923,923,11.78,M,4,2017-04-27,BTIG LLC,12 month,5,buy,53.0,923.0
+924,924,11.78,M,4,2017-04-27,Barclays,Not Provided,5,overweight,50.0,924.0
+925,925,6.58,D,7,2017-04-27,EVA Dimensions,Not Provided,1,underweight,-0.0,925.0
+926,926,0.0,M,10,2017-04-27,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.0,926.0
+927,927,11.78,M,4,2017-04-26,Credit Suisse,Not Provided,5,outperform,49.0,927.0
+928,928,-0.0,M,-2147483648,2017-04-26,Jefferies,12 month,5,buy,52.0,928.0
+929,929,11.78,M,4,2017-04-26,"Keefe, Bruyette & Woods",12 month,5,outperform,55.0,929.0
+930,930,0.0,M,10,2017-04-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,930.0
+931,931,11.78,M,4,2017-04-26,William Blair & Co,Not Provided,5,outperform,-0.0,931.0
+932,932,-0.0,M,-2147483648,2017-04-26,Evercore ISI,12 month,5,outperform,50.0,932.0
+933,933,20.12,M,2,2017-04-26,Oppenheimer & Co,12 month,5,outperform,50.0,933.0
+934,934,-5.81,M,11,2017-04-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0,934.0
+935,935,-0.0,M,-2147483648,2017-04-26,Nomura Instinet,12 month,5,buy,54.0,935.0
+936,936,3.42,D,8,2017-04-11,National Bank AG,Not Provided,1,sell,-0.0,936.0
+937,937,11.78,M,4,2017-03-24,Edward Jones,Not Provided,5,buy,-0.0,937.0
+938,938,-0.0,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.0,938.0
+939,939,11.78,M,4,2017-02-21,CM Research,Not Provided,5,buy,50.35,939.0
+940,940,-0.0,M,-2147483648,2017-02-13,Renaissance Macro Research LLC,12 month,5,overweight,48.0,940.0
+941,941,11.78,M,4,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.0,941.0
+942,942,0.0,M,10,2017-01-27,FBN Securities,12 month,3,sector perform,47.0,942.0
+943,943,11.78,M,4,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,943.0
+944,944,-0.0,M,-2147483648,2017-04-27,BMO Capital Markets,Not Provided,5,outperform,52.0,944.0
+945,945,0.0,M,10,2017-04-27,Morgan Stanley,12 month,3,Equalwt/In-Line,44.0,945.0
+946,946,11.78,M,4,2017-04-27,Goldman Sachs,12 month,5,buy/attractive,54.0,946.0
+947,947,11.78,M,4,2017-04-27,RBC Capital Markets,12 month,5,outperform,52.0,947.0
+948,948,0.0,M,10,2017-04-27,UBS,12 month,3,neutral,48.0,948.0
+949,949,-0.0,M,-2147483648,2017-04-27,SunTrust Robinson Humphrey,Not Provided,5,buy,53.0,949.0
+950,950,11.78,M,4,2017-04-27,First Analysis Corp,12 month,5,overweight,50.0,950.0
+951,951,11.78,M,4,2017-04-27,J.P. Morgan,9 month,5,overweight,47.0,951.0
+952,952,0.0,M,10,2017-04-27,Needham & Co,Not Provided,3,hold,-0.0,952.0
+953,953,11.78,M,4,2017-04-27,Baird,12 month,5,outperform,54.0,953.0
+954,954,0.0,M,10,2017-04-27,Bernstein,12 month,3,market perform,46.0,954.0
+955,955,22.27,M,1,2017-04-27,Stephens Inc,12 month,5,overweight,51.0,955.0
+956,956,-0.0,M,-2147483648,2017-04-27,Wedbush,12 month,5,outperform,54.0,956.0
+957,957,11.78,M,4,2017-04-27,Raymond James,12 month,5,outperform,52.0,957.0
+958,958,-0.0,M,-2147483648,2017-04-27,Cantor Fitzgerald,12 month,5,overweight,53.0,958.0
+959,959,10.78,M,5,2017-04-27,Stifel,12 month,5,buy,51.0,959.0
+960,960,-0.0,M,-2147483648,2017-04-27,Loop Capital Markets,12 month,3,hold,46.0,960.0
+961,961,0.7,M,9,2017-04-27,Canaccord Genuity,12 month,3,hold,45.0,961.0
+962,962,-0.0,M,-2147483648,2017-04-27,Berenberg,Not Provided,5,buy,51.0,962.0
+963,963,10.34,M,6,2017-04-27,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,54.0,963.0
+964,964,-0.0,M,-2147483648,2017-04-27,Guggenheim Securities,Not Provided,5,buy,53.0,964.0
+965,965,0.0,M,10,2017-04-27,Cowen,Not Provided,3,market perform,42.0,965.0
+966,966,12.26,M,3,2017-04-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,966.0
+967,967,-0.0,M,-2147483648,2017-04-27,Craig-Hallum Capital Group LLC,12 month,5,buy,54.0,967.0
+968,968,11.78,M,4,2017-04-27,Susquehanna Financial,12 month,4,Positive,55.0,968.0
+969,969,0.0,M,10,2017-04-27,Atlantic Equities LLP,12 month,3,neutral,45.0,969.0
+970,970,-29.85,M,12,2017-04-27,Piper Jaffray,12 month,3,neutral,45.0,970.0
+971,971,11.78,M,4,2017-04-27,BTIG LLC,12 month,5,buy,53.0,971.0
+972,972,11.78,M,4,2017-04-27,Barclays,Not Provided,5,overweight,50.0,972.0
+973,973,6.58,D,7,2017-04-27,EVA Dimensions,Not Provided,1,underweight,-0.0,973.0
+974,974,0.0,M,10,2017-04-27,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.0,974.0
+975,975,11.78,M,4,2017-04-26,Credit Suisse,Not Provided,5,outperform,49.0,975.0
+976,976,-0.0,M,-2147483648,2017-04-26,Jefferies,12 month,5,buy,52.0,976.0
+977,977,11.78,M,4,2017-04-26,"Keefe, Bruyette & Woods",12 month,5,outperform,55.0,977.0
+978,978,0.0,M,10,2017-04-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,978.0
+979,979,11.78,M,4,2017-04-26,William Blair & Co,Not Provided,5,outperform,-0.0,979.0
+980,980,-0.0,M,-2147483648,2017-04-26,Evercore ISI,12 month,5,outperform,50.0,980.0
+981,981,20.12,M,2,2017-04-26,Oppenheimer & Co,12 month,5,outperform,50.0,981.0
+982,982,-5.81,M,11,2017-04-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0,982.0
+983,983,-0.0,M,-2147483648,2017-04-26,Nomura Instinet,12 month,5,buy,54.0,983.0
+984,984,3.42,D,8,2017-04-11,National Bank AG,Not Provided,1,sell,-0.0,984.0
+985,985,11.78,M,4,2017-03-24,Edward Jones,Not Provided,5,buy,-0.0,985.0
+986,986,-0.0,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.0,986.0
+987,987,11.78,M,4,2017-02-21,CM Research,Not Provided,5,buy,50.35,987.0
+988,988,-0.0,M,-2147483648,2017-02-13,Renaissance Macro Research LLC,12 month,5,overweight,48.0,988.0
+989,989,11.78,M,4,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.0,989.0
+990,990,0.0,M,10,2017-01-27,FBN Securities,12 month,3,sector perform,47.0,990.0
+991,991,11.78,M,4,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,991.0
+992,992,-0.0,M,-2147483648,2017-04-27,BMO Capital Markets,Not Provided,5,outperform,52.0,992.0
+993,993,0.0,M,10,2017-04-27,Morgan Stanley,12 month,3,Equalwt/In-Line,44.0,993.0
+994,994,11.78,M,4,2017-04-27,Goldman Sachs,12 month,5,buy/attractive,54.0,994.0
+995,995,11.78,M,4,2017-04-27,RBC Capital Markets,12 month,5,outperform,52.0,995.0
+996,996,0.0,M,10,2017-04-27,UBS,12 month,3,neutral,48.0,996.0
+997,997,-0.0,M,-2147483648,2017-04-27,SunTrust Robinson Humphrey,Not Provided,5,buy,53.0,997.0
+998,998,11.78,M,4,2017-04-27,First Analysis Corp,12 month,5,overweight,50.0,998.0
+999,999,11.78,M,4,2017-04-27,J.P. Morgan,9 month,5,overweight,47.0,999.0
+1000,1000,0.0,M,10,2017-04-27,Needham & Co,Not Provided,3,hold,-0.0,1000.0
+1001,1001,11.78,M,4,2017-04-27,Baird,12 month,5,outperform,54.0,1001.0
+1002,1002,0.0,M,10,2017-04-27,Bernstein,12 month,3,market perform,46.0,1002.0
+1003,1003,22.27,M,1,2017-04-27,Stephens Inc,12 month,5,overweight,51.0,1003.0
+1004,1004,-0.0,M,-2147483648,2017-04-27,Wedbush,12 month,5,outperform,54.0,1004.0
+1005,1005,11.78,M,4,2017-04-27,Raymond James,12 month,5,outperform,52.0,1005.0
+1006,1006,-0.0,M,-2147483648,2017-04-27,Cantor Fitzgerald,12 month,5,overweight,53.0,1006.0
+1007,1007,10.78,M,5,2017-04-27,Stifel,12 month,5,buy,51.0,1007.0
+1008,1008,-0.0,M,-2147483648,2017-04-27,Loop Capital Markets,12 month,3,hold,46.0,1008.0
+1009,1009,0.7,M,9,2017-04-27,Canaccord Genuity,12 month,3,hold,45.0,1009.0
+1010,1010,-0.0,M,-2147483648,2017-04-27,Berenberg,Not Provided,5,buy,51.0,1010.0
+1011,1011,10.34,M,6,2017-04-27,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,54.0,1011.0
+1012,1012,-0.0,M,-2147483648,2017-04-27,Guggenheim Securities,Not Provided,5,buy,53.0,1012.0
+1013,1013,0.0,M,10,2017-04-27,Cowen,Not Provided,3,market perform,42.0,1013.0
+1014,1014,12.26,M,3,2017-04-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,1014.0
+1015,1015,-0.0,M,-2147483648,2017-04-27,Craig-Hallum Capital Group LLC,12 month,5,buy,54.0,1015.0
+1016,1016,11.78,M,4,2017-04-27,Susquehanna Financial,12 month,4,Positive,55.0,1016.0
+1017,1017,0.0,M,10,2017-04-27,Atlantic Equities LLP,12 month,3,neutral,45.0,1017.0
+1018,1018,-29.85,M,12,2017-04-27,Piper Jaffray,12 month,3,neutral,45.0,1018.0
+1019,1019,11.78,M,4,2017-04-27,BTIG LLC,12 month,5,buy,53.0,1019.0
+1020,1020,11.78,M,4,2017-04-27,Barclays,Not Provided,5,overweight,50.0,1020.0
+1021,1021,6.58,D,7,2017-04-27,EVA Dimensions,Not Provided,1,underweight,-0.0,1021.0
+1022,1022,0.0,M,10,2017-04-27,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.0,1022.0
+1023,1023,11.78,M,4,2017-04-26,Credit Suisse,Not Provided,5,outperform,49.0,1023.0
+1024,1024,-0.0,M,-2147483648,2017-04-26,Jefferies,12 month,5,buy,52.0,1024.0
+1025,1025,11.78,M,4,2017-04-26,"Keefe, Bruyette & Woods",12 month,5,outperform,55.0,1025.0
+1026,1026,0.0,M,10,2017-04-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,1026.0
+1027,1027,11.78,M,4,2017-04-26,William Blair & Co,Not Provided,5,outperform,-0.0,1027.0
+1028,1028,-0.0,M,-2147483648,2017-04-26,Evercore ISI,12 month,5,outperform,50.0,1028.0
+1029,1029,20.12,M,2,2017-04-26,Oppenheimer & Co,12 month,5,outperform,50.0,1029.0
+1030,1030,-5.81,M,11,2017-04-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0,1030.0
+1031,1031,-0.0,M,-2147483648,2017-04-26,Nomura Instinet,12 month,5,buy,54.0,1031.0
+1032,1032,3.42,D,8,2017-04-11,National Bank AG,Not Provided,1,sell,-0.0,1032.0
+1033,1033,11.78,M,4,2017-03-24,Edward Jones,Not Provided,5,buy,-0.0,1033.0
+1034,1034,-0.0,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.0,1034.0
+1035,1035,11.78,M,4,2017-02-21,CM Research,Not Provided,5,buy,50.35,1035.0
+1036,1036,-0.0,M,-2147483648,2017-02-13,Renaissance Macro Research LLC,12 month,5,overweight,48.0,1036.0
+1037,1037,11.78,M,4,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.0,1037.0
+1038,1038,0.0,M,10,2017-01-27,FBN Securities,12 month,3,sector perform,47.0,1038.0
+1039,1039,11.78,M,4,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,1039.0
+1040,1040,-0.0,M,-2147483648,2017-04-27,BMO Capital Markets,Not Provided,5,outperform,52.0,1040.0
+1041,1041,0.0,M,10,2017-04-27,Morgan Stanley,12 month,3,Equalwt/In-Line,44.0,1041.0
+1042,1042,11.78,M,4,2017-04-27,Goldman Sachs,12 month,5,buy/attractive,54.0,1042.0
+1043,1043,11.78,M,4,2017-04-27,RBC Capital Markets,12 month,5,outperform,52.0,1043.0
+1044,1044,0.0,M,10,2017-04-27,UBS,12 month,3,neutral,48.0,1044.0
+1045,1045,-0.0,M,-2147483648,2017-04-27,SunTrust Robinson Humphrey,Not Provided,5,buy,53.0,1045.0
+1046,1046,11.78,M,4,2017-04-27,First Analysis Corp,12 month,5,overweight,50.0,1046.0
+1047,1047,11.78,M,4,2017-04-27,J.P. Morgan,9 month,5,overweight,47.0,1047.0
+1048,1048,0.0,M,10,2017-04-27,Needham & Co,Not Provided,3,hold,-0.0,1048.0
+1049,1049,11.78,M,4,2017-04-27,Baird,12 month,5,outperform,54.0,1049.0
+1050,1050,0.0,M,10,2017-04-27,Bernstein,12 month,3,market perform,46.0,1050.0
+1051,1051,22.27,M,1,2017-04-27,Stephens Inc,12 month,5,overweight,51.0,1051.0
+1052,1052,-0.0,M,-2147483648,2017-04-27,Wedbush,12 month,5,outperform,54.0,1052.0
+1053,1053,11.78,M,4,2017-04-27,Raymond James,12 month,5,outperform,52.0,1053.0
+1054,1054,-0.0,M,-2147483648,2017-04-27,Cantor Fitzgerald,12 month,5,overweight,53.0,1054.0
+1055,1055,10.78,M,5,2017-04-27,Stifel,12 month,5,buy,51.0,1055.0
+1056,1056,-0.0,M,-2147483648,2017-04-27,Loop Capital Markets,12 month,3,hold,46.0,1056.0
+1057,1057,0.7,M,9,2017-04-27,Canaccord Genuity,12 month,3,hold,45.0,1057.0
+1058,1058,-0.0,M,-2147483648,2017-04-27,Berenberg,Not Provided,5,buy,51.0,1058.0
+1059,1059,10.34,M,6,2017-04-27,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,54.0,1059.0
+1060,1060,-0.0,M,-2147483648,2017-04-27,Guggenheim Securities,Not Provided,5,buy,53.0,1060.0
+1061,1061,0.0,M,10,2017-04-27,Cowen,Not Provided,3,market perform,42.0,1061.0
+1062,1062,12.26,M,3,2017-04-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,1062.0
+1063,1063,-0.0,M,-2147483648,2017-04-27,Craig-Hallum Capital Group LLC,12 month,5,buy,54.0,1063.0
+1064,1064,11.78,M,4,2017-04-27,Susquehanna Financial,12 month,4,Positive,55.0,1064.0
+1065,1065,0.0,M,10,2017-04-27,Atlantic Equities LLP,12 month,3,neutral,45.0,1065.0
+1066,1066,-29.85,M,12,2017-04-27,Piper Jaffray,12 month,3,neutral,45.0,1066.0
+1067,1067,11.78,M,4,2017-04-27,BTIG LLC,12 month,5,buy,53.0,1067.0
+1068,1068,11.78,M,4,2017-04-27,Barclays,Not Provided,5,overweight,50.0,1068.0
+1069,1069,6.58,D,7,2017-04-27,EVA Dimensions,Not Provided,1,underweight,-0.0,1069.0
+1070,1070,0.0,M,10,2017-04-27,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.0,1070.0
+1071,1071,11.78,M,4,2017-04-26,Credit Suisse,Not Provided,5,outperform,49.0,1071.0
+1072,1072,-0.0,M,-2147483648,2017-04-26,Jefferies,12 month,5,buy,52.0,1072.0
+1073,1073,11.78,M,4,2017-04-26,"Keefe, Bruyette & Woods",12 month,5,outperform,55.0,1073.0
+1074,1074,0.0,M,10,2017-04-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,1074.0
+1075,1075,11.78,M,4,2017-04-26,William Blair & Co,Not Provided,5,outperform,-0.0,1075.0
+1076,1076,-0.0,M,-2147483648,2017-04-26,Evercore ISI,12 month,5,outperform,50.0,1076.0
+1077,1077,20.12,M,2,2017-04-26,Oppenheimer & Co,12 month,5,outperform,50.0,1077.0
+1078,1078,-5.81,M,11,2017-04-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0,1078.0
+1079,1079,-0.0,M,-2147483648,2017-04-26,Nomura Instinet,12 month,5,buy,54.0,1079.0
+1080,1080,3.42,D,8,2017-04-11,National Bank AG,Not Provided,1,sell,-0.0,1080.0
+1081,1081,11.78,M,4,2017-03-24,Edward Jones,Not Provided,5,buy,-0.0,1081.0
+1082,1082,-0.0,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.0,1082.0
+1083,1083,11.78,M,4,2017-02-21,CM Research,Not Provided,5,buy,50.35,1083.0
+1084,1084,-0.0,M,-2147483648,2017-02-13,Renaissance Macro Research LLC,12 month,5,overweight,48.0,1084.0
+1085,1085,11.78,M,4,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.0,1085.0
+1086,1086,0.0,M,10,2017-01-27,FBN Securities,12 month,3,sector perform,47.0,1086.0
+1087,1087,11.78,M,4,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,1087.0
+1088,1088,-0.0,M,-2147483648,2017-04-27,BMO Capital Markets,Not Provided,5,outperform,52.0,1088.0
+1089,1089,0.0,M,10,2017-04-27,Morgan Stanley,12 month,3,Equalwt/In-Line,44.0,1089.0
+1090,1090,11.78,M,4,2017-04-27,Goldman Sachs,12 month,5,buy/attractive,54.0,1090.0
+1091,1091,11.78,M,4,2017-04-27,RBC Capital Markets,12 month,5,outperform,52.0,1091.0
+1092,1092,0.0,M,10,2017-04-27,UBS,12 month,3,neutral,48.0,1092.0
+1093,1093,-0.0,M,-2147483648,2017-04-27,SunTrust Robinson Humphrey,Not Provided,5,buy,53.0,1093.0
+1094,1094,11.78,M,4,2017-04-27,First Analysis Corp,12 month,5,overweight,50.0,1094.0
+1095,1095,11.78,M,4,2017-04-27,J.P. Morgan,9 month,5,overweight,47.0,1095.0
+1096,1096,0.0,M,10,2017-04-27,Needham & Co,Not Provided,3,hold,-0.0,1096.0
+1097,1097,11.78,M,4,2017-04-27,Baird,12 month,5,outperform,54.0,1097.0
+1098,1098,0.0,M,10,2017-04-27,Bernstein,12 month,3,market perform,46.0,1098.0
+1099,1099,22.27,M,1,2017-04-27,Stephens Inc,12 month,5,overweight,51.0,1099.0
+1100,1100,-0.0,M,-2147483648,2017-04-27,Wedbush,12 month,5,outperform,54.0,1100.0
+1101,1101,11.78,M,4,2017-04-27,Raymond James,12 month,5,outperform,52.0,1101.0
+1102,1102,-0.0,M,-2147483648,2017-04-27,Cantor Fitzgerald,12 month,5,overweight,53.0,1102.0
+1103,1103,10.78,M,5,2017-04-27,Stifel,12 month,5,buy,51.0,1103.0
+1104,1104,-0.0,M,-2147483648,2017-04-27,Loop Capital Markets,12 month,3,hold,46.0,1104.0
+1105,1105,0.7,M,9,2017-04-27,Canaccord Genuity,12 month,3,hold,45.0,1105.0
+1106,1106,-0.0,M,-2147483648,2017-04-27,Berenberg,Not Provided,5,buy,51.0,1106.0
+1107,1107,10.34,M,6,2017-04-27,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,54.0,1107.0
+1108,1108,-0.0,M,-2147483648,2017-04-27,Guggenheim Securities,Not Provided,5,buy,53.0,1108.0
+1109,1109,0.0,M,10,2017-04-27,Cowen,Not Provided,3,market perform,42.0,1109.0
+1110,1110,12.26,M,3,2017-04-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,1110.0
+1111,1111,-0.0,M,-2147483648,2017-04-27,Craig-Hallum Capital Group LLC,12 month,5,buy,54.0,1111.0
+1112,1112,11.78,M,4,2017-04-27,Susquehanna Financial,12 month,4,Positive,55.0,1112.0
+1113,1113,0.0,M,10,2017-04-27,Atlantic Equities LLP,12 month,3,neutral,45.0,1113.0
+1114,1114,-29.85,M,12,2017-04-27,Piper Jaffray,12 month,3,neutral,45.0,1114.0
+1115,1115,11.78,M,4,2017-04-27,BTIG LLC,12 month,5,buy,53.0,1115.0
+1116,1116,11.78,M,4,2017-04-27,Barclays,Not Provided,5,overweight,50.0,1116.0
+1117,1117,6.58,D,7,2017-04-27,EVA Dimensions,Not Provided,1,underweight,-0.0,1117.0
+1118,1118,0.0,M,10,2017-04-27,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.0,1118.0
+1119,1119,11.78,M,4,2017-04-26,Credit Suisse,Not Provided,5,outperform,49.0,1119.0
+1120,1120,-0.0,M,-2147483648,2017-04-26,Jefferies,12 month,5,buy,52.0,1120.0
+1121,1121,11.78,M,4,2017-04-26,"Keefe, Bruyette & Woods",12 month,5,outperform,55.0,1121.0
+1122,1122,0.0,M,10,2017-04-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,1122.0
+1123,1123,11.78,M,4,2017-04-26,William Blair & Co,Not Provided,5,outperform,-0.0,1123.0
+1124,1124,-0.0,M,-2147483648,2017-04-26,Evercore ISI,12 month,5,outperform,50.0,1124.0
+1125,1125,20.12,M,2,2017-04-26,Oppenheimer & Co,12 month,5,outperform,50.0,1125.0
+1126,1126,-5.81,M,11,2017-04-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0,1126.0
+1127,1127,-0.0,M,-2147483648,2017-04-26,Nomura Instinet,12 month,5,buy,54.0,1127.0
+1128,1128,3.42,D,8,2017-04-11,National Bank AG,Not Provided,1,sell,-0.0,1128.0
+1129,1129,11.78,M,4,2017-03-24,Edward Jones,Not Provided,5,buy,-0.0,1129.0
+1130,1130,-0.0,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.0,1130.0
+1131,1131,11.78,M,4,2017-02-21,CM Research,Not Provided,5,buy,50.35,1131.0
+1132,1132,-0.0,M,-2147483648,2017-02-13,Renaissance Macro Research LLC,12 month,5,overweight,48.0,1132.0
+1133,1133,11.78,M,4,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.0,1133.0
+1134,1134,0.0,M,10,2017-01-27,FBN Securities,12 month,3,sector perform,47.0,1134.0
+1135,1135,11.78,M,4,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,1135.0
+1136,1136,-0.0,M,-2147483648,2017-04-27,BMO Capital Markets,Not Provided,5,outperform,52.0,1136.0
+1137,1137,0.0,M,10,2017-04-27,Morgan Stanley,12 month,3,Equalwt/In-Line,44.0,1137.0
+1138,1138,11.78,M,4,2017-04-27,Goldman Sachs,12 month,5,buy/attractive,54.0,1138.0
+1139,1139,11.78,M,4,2017-04-27,RBC Capital Markets,12 month,5,outperform,52.0,1139.0
+1140,1140,0.0,M,10,2017-04-27,UBS,12 month,3,neutral,48.0,1140.0
+1141,1141,-0.0,M,-2147483648,2017-04-27,SunTrust Robinson Humphrey,Not Provided,5,buy,53.0,1141.0
+1142,1142,11.78,M,4,2017-04-27,First Analysis Corp,12 month,5,overweight,50.0,1142.0
+1143,1143,11.78,M,4,2017-04-27,J.P. Morgan,9 month,5,overweight,47.0,1143.0
+1144,1144,0.0,M,10,2017-04-27,Needham & Co,Not Provided,3,hold,-0.0,1144.0
+1145,1145,11.78,M,4,2017-04-27,Baird,12 month,5,outperform,54.0,1145.0
+1146,1146,0.0,M,10,2017-04-27,Bernstein,12 month,3,market perform,46.0,1146.0
+1147,1147,22.27,M,1,2017-04-27,Stephens Inc,12 month,5,overweight,51.0,1147.0
+1148,1148,-0.0,M,-2147483648,2017-04-27,Wedbush,12 month,5,outperform,54.0,1148.0
+1149,1149,11.78,M,4,2017-04-27,Raymond James,12 month,5,outperform,52.0,1149.0
+1150,1150,-0.0,M,-2147483648,2017-04-27,Cantor Fitzgerald,12 month,5,overweight,53.0,1150.0
+1151,1151,10.78,M,5,2017-04-27,Stifel,12 month,5,buy,51.0,1151.0
+1152,1152,-0.0,M,-2147483648,2017-04-27,Loop Capital Markets,12 month,3,hold,46.0,1152.0
+1153,1153,0.7,M,9,2017-04-27,Canaccord Genuity,12 month,3,hold,45.0,1153.0
+1154,1154,-0.0,M,-2147483648,2017-04-27,Berenberg,Not Provided,5,buy,51.0,1154.0
+1155,1155,10.34,M,6,2017-04-27,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,54.0,1155.0
+1156,1156,-0.0,M,-2147483648,2017-04-27,Guggenheim Securities,Not Provided,5,buy,53.0,1156.0
+1157,1157,0.0,M,10,2017-04-27,Cowen,Not Provided,3,market perform,42.0,1157.0
+1158,1158,12.26,M,3,2017-04-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,1158.0
+1159,1159,-0.0,M,-2147483648,2017-04-27,Craig-Hallum Capital Group LLC,12 month,5,buy,54.0,1159.0
+1160,1160,11.78,M,4,2017-04-27,Susquehanna Financial,12 month,4,Positive,55.0,1160.0
+1161,1161,0.0,M,10,2017-04-27,Atlantic Equities LLP,12 month,3,neutral,45.0,1161.0
+1162,1162,-29.85,M,12,2017-04-27,Piper Jaffray,12 month,3,neutral,45.0,1162.0
+1163,1163,11.78,M,4,2017-04-27,BTIG LLC,12 month,5,buy,53.0,1163.0
+1164,1164,11.78,M,4,2017-04-27,Barclays,Not Provided,5,overweight,50.0,1164.0
+1165,1165,6.58,D,7,2017-04-27,EVA Dimensions,Not Provided,1,underweight,-0.0,1165.0
+1166,1166,0.0,M,10,2017-04-27,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.0,1166.0
+1167,1167,11.78,M,4,2017-04-26,Credit Suisse,Not Provided,5,outperform,49.0,1167.0
+1168,1168,-0.0,M,-2147483648,2017-04-26,Jefferies,12 month,5,buy,52.0,1168.0
+1169,1169,11.78,M,4,2017-04-26,"Keefe, Bruyette & Woods",12 month,5,outperform,55.0,1169.0
+1170,1170,0.0,M,10,2017-04-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,1170.0
+1171,1171,11.78,M,4,2017-04-26,William Blair & Co,Not Provided,5,outperform,-0.0,1171.0
+1172,1172,-0.0,M,-2147483648,2017-04-26,Evercore ISI,12 month,5,outperform,50.0,1172.0
+1173,1173,20.12,M,2,2017-04-26,Oppenheimer & Co,12 month,5,outperform,50.0,1173.0
+1174,1174,-5.81,M,11,2017-04-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0,1174.0
+1175,1175,-0.0,M,-2147483648,2017-04-26,Nomura Instinet,12 month,5,buy,54.0,1175.0
+1176,1176,3.42,D,8,2017-04-11,National Bank AG,Not Provided,1,sell,-0.0,1176.0
+1177,1177,11.78,M,4,2017-03-24,Edward Jones,Not Provided,5,buy,-0.0,1177.0
+1178,1178,-0.0,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.0,1178.0
+1179,1179,11.78,M,4,2017-02-21,CM Research,Not Provided,5,buy,50.35,1179.0
+1180,1180,-0.0,M,-2147483648,2017-02-13,Renaissance Macro Research LLC,12 month,5,overweight,48.0,1180.0
+1181,1181,11.78,M,4,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.0,1181.0
+1182,1182,0.0,M,10,2017-01-27,FBN Securities,12 month,3,sector perform,47.0,1182.0
+1183,1183,11.78,M,4,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,1183.0
+1184,1184,-0.0,M,-2147483648,2017-04-27,BMO Capital Markets,Not Provided,5,outperform,52.0,1184.0
+1185,1185,0.0,M,10,2017-04-27,Morgan Stanley,12 month,3,Equalwt/In-Line,44.0,1185.0
+1186,1186,11.78,M,4,2017-04-27,Goldman Sachs,12 month,5,buy/attractive,54.0,1186.0
+1187,1187,11.78,M,4,2017-04-27,RBC Capital Markets,12 month,5,outperform,52.0,1187.0
+1188,1188,0.0,M,10,2017-04-27,UBS,12 month,3,neutral,48.0,1188.0
+1189,1189,-0.0,M,-2147483648,2017-04-27,SunTrust Robinson Humphrey,Not Provided,5,buy,53.0,1189.0
+1190,1190,11.78,M,4,2017-04-27,First Analysis Corp,12 month,5,overweight,50.0,1190.0
+1191,1191,11.78,M,4,2017-04-27,J.P. Morgan,9 month,5,overweight,47.0,1191.0
+1192,1192,0.0,M,10,2017-04-27,Needham & Co,Not Provided,3,hold,-0.0,1192.0
+1193,1193,11.78,M,4,2017-04-27,Baird,12 month,5,outperform,54.0,1193.0
+1194,1194,0.0,M,10,2017-04-27,Bernstein,12 month,3,market perform,46.0,1194.0
+1195,1195,22.27,M,1,2017-04-27,Stephens Inc,12 month,5,overweight,51.0,1195.0
+1196,1196,-0.0,M,-2147483648,2017-04-27,Wedbush,12 month,5,outperform,54.0,1196.0
+1197,1197,11.78,M,4,2017-04-27,Raymond James,12 month,5,outperform,52.0,1197.0
+1198,1198,-0.0,M,-2147483648,2017-04-27,Cantor Fitzgerald,12 month,5,overweight,53.0,1198.0
+1199,1199,10.78,M,5,2017-04-27,Stifel,12 month,5,buy,51.0,1199.0
+1200,1200,-0.0,M,-2147483648,2017-04-27,Loop Capital Markets,12 month,3,hold,46.0,1200.0
+1201,1201,0.7,M,9,2017-04-27,Canaccord Genuity,12 month,3,hold,45.0,1201.0
+1202,1202,-0.0,M,-2147483648,2017-04-27,Berenberg,Not Provided,5,buy,51.0,1202.0
+1203,1203,10.34,M,6,2017-04-27,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,54.0,1203.0
+1204,1204,-0.0,M,-2147483648,2017-04-27,Guggenheim Securities,Not Provided,5,buy,53.0,1204.0
+1205,1205,0.0,M,10,2017-04-27,Cowen,Not Provided,3,market perform,42.0,1205.0
+1206,1206,12.26,M,3,2017-04-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,1206.0
+1207,1207,-0.0,M,-2147483648,2017-04-27,Craig-Hallum Capital Group LLC,12 month,5,buy,54.0,1207.0
+1208,1208,11.78,M,4,2017-04-27,Susquehanna Financial,12 month,4,Positive,55.0,1208.0
+1209,1209,0.0,M,10,2017-04-27,Atlantic Equities LLP,12 month,3,neutral,45.0,1209.0
+1210,1210,-29.85,M,12,2017-04-27,Piper Jaffray,12 month,3,neutral,45.0,1210.0
+1211,1211,11.78,M,4,2017-04-27,BTIG LLC,12 month,5,buy,53.0,1211.0
+1212,1212,11.78,M,4,2017-04-27,Barclays,Not Provided,5,overweight,50.0,1212.0
+1213,1213,6.58,D,7,2017-04-27,EVA Dimensions,Not Provided,1,underweight,-0.0,1213.0
+1214,1214,0.0,M,10,2017-04-27,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.0,1214.0
+1215,1215,11.78,M,4,2017-04-26,Credit Suisse,Not Provided,5,outperform,49.0,1215.0
+1216,1216,-0.0,M,-2147483648,2017-04-26,Jefferies,12 month,5,buy,52.0,1216.0
+1217,1217,11.78,M,4,2017-04-26,"Keefe, Bruyette & Woods",12 month,5,outperform,55.0,1217.0
+1218,1218,0.0,M,10,2017-04-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,1218.0
+1219,1219,11.78,M,4,2017-04-26,William Blair & Co,Not Provided,5,outperform,-0.0,1219.0
+1220,1220,-0.0,M,-2147483648,2017-04-26,Evercore ISI,12 month,5,outperform,50.0,1220.0
+1221,1221,20.12,M,2,2017-04-26,Oppenheimer & Co,12 month,5,outperform,50.0,1221.0
+1222,1222,-5.81,M,11,2017-04-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0,1222.0
+1223,1223,-0.0,M,-2147483648,2017-04-26,Nomura Instinet,12 month,5,buy,54.0,1223.0
+1224,1224,3.42,D,8,2017-04-11,National Bank AG,Not Provided,1,sell,-0.0,1224.0
+1225,1225,11.78,M,4,2017-03-24,Edward Jones,Not Provided,5,buy,-0.0,1225.0
+1226,1226,-0.0,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.0,1226.0
+1227,1227,11.78,M,4,2017-02-21,CM Research,Not Provided,5,buy,50.35,1227.0
+1228,1228,-0.0,M,-2147483648,2017-02-13,Renaissance Macro Research LLC,12 month,5,overweight,48.0,1228.0
+1229,1229,11.78,M,4,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.0,1229.0
+1230,1230,0.0,M,10,2017-01-27,FBN Securities,12 month,3,sector perform,47.0,1230.0
+1231,1231,11.78,M,4,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,1231.0
+1232,1232,-0.0,M,-2147483648,2017-04-27,BMO Capital Markets,Not Provided,5,outperform,52.0,1232.0
+1233,1233,0.0,M,10,2017-04-27,Morgan Stanley,12 month,3,Equalwt/In-Line,44.0,1233.0
+1234,1234,11.78,M,4,2017-04-27,Goldman Sachs,12 month,5,buy/attractive,54.0,1234.0
+1235,1235,11.78,M,4,2017-04-27,RBC Capital Markets,12 month,5,outperform,52.0,1235.0
+1236,1236,0.0,M,10,2017-04-27,UBS,12 month,3,neutral,48.0,1236.0
+1237,1237,-0.0,M,-2147483648,2017-04-27,SunTrust Robinson Humphrey,Not Provided,5,buy,53.0,1237.0
+1238,1238,11.78,M,4,2017-04-27,First Analysis Corp,12 month,5,overweight,50.0,1238.0
+1239,1239,11.78,M,4,2017-04-27,J.P. Morgan,9 month,5,overweight,47.0,1239.0
+1240,1240,0.0,M,10,2017-04-27,Needham & Co,Not Provided,3,hold,-0.0,1240.0
+1241,1241,11.78,M,4,2017-04-27,Baird,12 month,5,outperform,54.0,1241.0
+1242,1242,0.0,M,10,2017-04-27,Bernstein,12 month,3,market perform,46.0,1242.0
+1243,1243,22.27,M,1,2017-04-27,Stephens Inc,12 month,5,overweight,51.0,1243.0
+1244,1244,-0.0,M,-2147483648,2017-04-27,Wedbush,12 month,5,outperform,54.0,1244.0
+1245,1245,11.78,M,4,2017-04-27,Raymond James,12 month,5,outperform,52.0,1245.0
+1246,1246,-0.0,M,-2147483648,2017-04-27,Cantor Fitzgerald,12 month,5,overweight,53.0,1246.0
+1247,1247,10.78,M,5,2017-04-27,Stifel,12 month,5,buy,51.0,1247.0
+1248,1248,-0.0,M,-2147483648,2017-04-27,Loop Capital Markets,12 month,3,hold,46.0,1248.0
+1249,1249,0.7,M,9,2017-04-27,Canaccord Genuity,12 month,3,hold,45.0,1249.0
+1250,1250,-0.0,M,-2147483648,2017-04-27,Berenberg,Not Provided,5,buy,51.0,1250.0
+1251,1251,10.34,M,6,2017-04-27,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,54.0,1251.0
+1252,1252,-0.0,M,-2147483648,2017-04-27,Guggenheim Securities,Not Provided,5,buy,53.0,1252.0
+1253,1253,0.0,M,10,2017-04-27,Cowen,Not Provided,3,market perform,42.0,1253.0
+1254,1254,12.26,M,3,2017-04-27,"Morningstar, Inc",Not Provided,3,hold,-0.0,1254.0
+1255,1255,-0.0,M,-2147483648,2017-04-27,Craig-Hallum Capital Group LLC,12 month,5,buy,54.0,1255.0
+1256,1256,11.78,M,4,2017-04-27,Susquehanna Financial,12 month,4,Positive,55.0,1256.0
+1257,1257,0.0,M,10,2017-04-27,Atlantic Equities LLP,12 month,3,neutral,45.0,1257.0
+1258,1258,-29.85,M,12,2017-04-27,Piper Jaffray,12 month,3,neutral,45.0,1258.0
+1259,1259,11.78,M,4,2017-04-27,BTIG LLC,12 month,5,buy,53.0,1259.0
+1260,1260,11.78,M,4,2017-04-27,Barclays,Not Provided,5,overweight,50.0,1260.0
+1261,1261,6.58,D,7,2017-04-27,EVA Dimensions,Not Provided,1,underweight,-0.0,1261.0
+1262,1262,0.0,M,10,2017-04-27,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.0,1262.0
+1263,1263,11.78,M,4,2017-04-26,Credit Suisse,Not Provided,5,outperform,49.0,1263.0
+1264,1264,-0.0,M,-2147483648,2017-04-26,Jefferies,12 month,5,buy,52.0,1264.0
+1265,1265,11.78,M,4,2017-04-26,"Keefe, Bruyette & Woods",12 month,5,outperform,55.0,1265.0
+1266,1266,0.0,M,10,2017-04-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.0,1266.0
+1267,1267,11.78,M,4,2017-04-26,William Blair & Co,Not Provided,5,outperform,-0.0,1267.0
+1268,1268,-0.0,M,-2147483648,2017-04-26,Evercore ISI,12 month,5,outperform,50.0,1268.0
+1269,1269,20.12,M,2,2017-04-26,Oppenheimer & Co,12 month,5,outperform,50.0,1269.0
+1270,1270,-5.81,M,11,2017-04-26,Wells Fargo Securities,Not Provided,3,market perform,-0.0,1270.0
+1271,1271,-0.0,M,-2147483648,2017-04-26,Nomura Instinet,12 month,5,buy,54.0,1271.0
+1272,1272,3.42,D,8,2017-04-11,National Bank AG,Not Provided,1,sell,-0.0,1272.0
+1273,1273,11.78,M,4,2017-03-24,Edward Jones,Not Provided,5,buy,-0.0,1273.0
+1274,1274,-0.0,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.0,1274.0
+1275,1275,11.78,M,4,2017-02-21,CM Research,Not Provided,5,buy,50.35,1275.0
+1276,1276,-0.0,M,-2147483648,2017-02-13,Renaissance Macro Research LLC,12 month,5,overweight,48.0,1276.0
+1277,1277,11.78,M,4,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.0,1277.0
+1278,1278,0.0,M,10,2017-01-27,FBN Securities,12 month,3,sector perform,47.0,1278.0
+1279,1279,11.78,M,4,2016-05-16,Freedom Finance,Not Provided,5,buy,44.0,1279.0
+1280,1280,-0.000000,M,-2147483648,2017-03-31,RBC Capital Markets,12 month,5,outperform,50.000000,
+1281,1281,-0.000000,M,-2147483648,2017-03-31,Jefferies,Not Provided,5,buy,52.000000,
+1282,1282,-0.000000,M,-2147483648,2017-03-31,Cantor Fitzgerald,Not Provided,5,overweight,48.000000,
+1283,1283,-0.000000,M,-2147483648,2017-03-31,"Morningstar, Inc",Not Provided,3,hold,-0.000000,
+1284,1284,-0.000000,M,-2147483648,2017-03-29,Bernstein,12 month,3,market perform,44.000000,
+1285,1285,-0.000000,M,-2147483648,2017-03-28,Craig-Hallum Capital Group LLC,12 month,5,buy,52.000000,
+1286,1286,-0.000000,M,-2147483648,2017-03-27,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,50.000000,
+1287,1287,-0.000000,M,-2147483648,2017-03-24,Edward Jones,Not Provided,5,buy,-0.000000,
+1288,1288,-0.000000,M,-2147483648,2017-03-23,Susquehanna Financial,12 month,4,Positive,50.000000,
+1289,1289,-0.000000,M,-2147483648,2017-03-22,Nomura Instinet,12 month,5,buy,54.000000,
+1290,1290,-0.000000,M,-2147483648,2017-03-22,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.000000,
+1291,1291,-0.000000,M,-2147483648,2017-03-17,Barclays,Not Provided,5,overweight,48.000000,
+1292,1292,-0.000000,M,-2147483648,2017-03-09,Guggenheim Securities,Not Provided,5,buy,46.000000,
+1293,1293,-0.000000,M,-2147483648,2017-03-06,Baird,Not Provided,5,outperform,48.000000,
+1294,1294,-0.000000,M,-2147483648,2017-03-03,First Analysis Corp,12 month,5,overweight,50.000000,
+1295,1295,-0.000000,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.000000,
+1296,1296,-0.000000,M,-2147483648,2017-03-02,SunTrust Robinson Humphrey,Not Provided,5,buy,49.000000,
+1297,1297,-0.000000,M,-2147483648,2017-02-27,Stifel,Not Provided,5,buy,49.000000,
+1298,1298,-0.000000,M,-2147483648,2017-02-24,Canaccord Genuity,Not Provided,3,hold,40.000000,
+1299,1299,-0.000000,M,-2147483648,2017-02-21,CM Research,Not Provided,5,buy,50.350000,
+1300,1300,-0.000000,M,-2147483648,2017-02-16,Wedbush,12 month,5,outperform,54.000000,
+1301,1301,-0.000000,M,-2147483648,2017-02-15,Morgan Stanley,12 month,3,Equalwt/In-Line,42.000000,
+1302,1302,-0.000000,M,-2147483648,2017-02-15,Stephens Inc,12 month,5,overweight,50.000000,
+1303,1303,-0.000000,M,-2147483648,2017-02-15,Raymond James,12 month,5,outperform,47.000000,
+1304,1304,-0.000000,M,-2147483648,2017-02-14,"Keefe, Bruyette & Woods",12 month,5,outperform,48.000000,
+1305,1305,-0.000000,M,-2147483648,2017-02-14,William Blair & Co,Not Provided,5,outperform,-0.000000,
+1306,1306,-0.000000,M,-2147483648,2017-02-14,Cowen,12 month,3,market perform,39.000000,
+1307,1307,-0.000000,M,-2147483648,2017-02-14,Piper Jaffray,12 month,1,underweight,41.000000,
+1308,1308,-0.000000,M,-2147483648,2017-02-14,BTIG LLC,12 month,5,buy,48.000000,
+1309,1309,-0.000000,M,-2147483648,2017-02-13,Renaissance Macro Research LLC,12 month,5,overweight,48.000000,
+1310,1310,-0.000000,M,-2147483648,2017-02-02,Atlantic Equities LLP,12 month,3,neutral,45.000000,
+1311,1311,-0.000000,M,-2147483648,2017-01-27,BMO Capital Markets,Not Provided,5,outperform,47.000000,
+1312,1312,-0.000000,M,-2147483648,2017-01-27,Goldman Sachs,12 month,5,buy/attractive,50.000000,
+1313,1313,-0.000000,M,-2147483648,2017-01-27,Argus Research Corp,Not Provided,5,buy,47.000000,
+1314,1314,-0.000000,M,-2147483648,2017-01-27,Credit Suisse,Not Provided,5,outperform,47.000000,
+1315,1315,-0.000000,M,-2147483648,2017-01-27,J.P. Morgan,12 month,5,overweight,47.000000,
+1316,1316,-0.000000,M,-2147483648,2017-01-27,Needham & Co,Not Provided,3,hold,-0.000000,
+1317,1317,-0.000000,M,-2147483648,2017-01-27,National Bank AG,12 month,5,buy,48.000000,
+1318,1318,-0.000000,M,-2147483648,2017-01-27,Loop Capital Markets,12 month,3,hold,44.000000,
+1319,1319,-0.000000,M,-2147483648,2017-01-27,Mizuho Securities USA Inc,12 month,5,buy,48.000000,
+1320,1320,-0.000000,M,-2147483648,2017-01-27,Wells Fargo Securities,Not Provided,3,market perform,-0.000000,
+1321,1321,-0.000000,U,-2147483648,2017-01-27,EVA Dimensions,Not Provided,3,hold,-0.000000,
+1322,1322,-0.000000,M,-2147483648,2017-01-27,FBN Securities,12 month,3,sector perform,47.000000,
+1323,1323,-0.000000,M,-2147483648,2017-01-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.000000,
+1324,1324,-0.000000,M,-2147483648,2017-01-26,Evercore ISI,12 month,5,buy,45.000000,
+1325,1325,-0.000000,M,-2147483648,2017-01-26,Oppenheimer & Co,12 month,5,outperform,45.000000,
+1326,1326,-0.000000,M,-2147483648,2017-01-17,UBS,12 month,3,neutral,44.000000,
+1327,1327,-0.000000,N,-2147483648,2017-01-09,Berenberg,Not Provided,5,buy,51.000000,
+1328,1328,-0.000000,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.000000,
+1329,1329,-0.000000,M,-2147483648,2017-05-01,RBC Capital Markets,12 month,5,outperform,52.000000,
+1330,1330,-0.000000,M,-2147483648,2017-05-01,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,54.000000,
+1331,1331,-0.000000,M,-2147483648,2017-05-01,"Morningstar, Inc",Not Provided,3,hold,-0.000000,
+1332,1332,-0.000000,M,-2147483648,2017-05-01,Barclays,Not Provided,5,overweight,52.000000,
+1333,1333,-0.000000,M,-2147483648,2017-05-01,FBN Securities,12 month,5,outperform,55.000000,
+1334,1334,-0.000000,M,-2147483648,2017-04-30,Renaissance Macro Research LLC,12 month,5,overweight,55.000000,
+1335,1335,-0.000000,M,-2147483648,2017-04-28,Jefferies,Not Provided,5,buy,55.000000,
+1336,1336,-0.000000,M,-2147483648,2017-04-27,BMO Capital Markets,Not Provided,5,outperform,52.000000,
+1337,1337,-0.000000,M,-2147483648,2017-04-27,Morgan Stanley,12 month,3,Equalwt/In-Line,44.000000,
+1338,1338,-0.000000,M,-2147483648,2017-04-27,Goldman Sachs,12 month,5,buy/attractive,54.000000,
+1339,1339,-0.000000,M,-2147483648,2017-04-27,Argus Research Corp,Not Provided,5,buy,53.000000,
+1340,1340,-0.000000,M,-2147483648,2017-04-27,UBS,12 month,3,neutral,48.000000,
+1341,1341,-0.000000,M,-2147483648,2017-04-27,SunTrust Robinson Humphrey,Not Provided,5,buy,53.000000,
+1342,1342,-0.000000,M,-2147483648,2017-04-27,First Analysis Corp,12 month,5,overweight,50.000000,
+1343,1343,-0.000000,M,-2147483648,2017-04-27,J.P. Morgan,9 month,5,overweight,47.000000,
+1344,1344,-0.000000,M,-2147483648,2017-04-27,Needham & Co,Not Provided,3,hold,-0.000000,
+1345,1345,-0.000000,M,-2147483648,2017-04-27,Baird,12 month,5,outperform,54.000000,
+1346,1346,-0.000000,M,-2147483648,2017-04-27,Bernstein,12 month,3,market perform,46.000000,
+1347,1347,-0.000000,M,-2147483648,2017-04-27,Stephens Inc,12 month,5,overweight,51.000000,
+1348,1348,-0.000000,M,-2147483648,2017-04-27,Wedbush,12 month,5,outperform,54.000000,
+1349,1349,-0.000000,M,-2147483648,2017-04-27,Raymond James,12 month,5,outperform,52.000000,
+1350,1350,-0.000000,M,-2147483648,2017-04-27,Cantor Fitzgerald,12 month,5,overweight,53.000000,
+1351,1351,-0.000000,M,-2147483648,2017-04-27,Stifel,12 month,5,buy,51.000000,
+1352,1352,-0.000000,M,-2147483648,2017-04-27,Loop Capital Markets,12 month,3,hold,46.000000,
+1353,1353,-0.000000,M,-2147483648,2017-04-27,Canaccord Genuity,12 month,3,hold,45.000000,
+1354,1354,-0.000000,M,-2147483648,2017-04-27,Berenberg,Not Provided,5,buy,51.000000,
+1355,1355,-0.000000,M,-2147483648,2017-04-27,Guggenheim Securities,Not Provided,5,buy,53.000000,
+1356,1356,-0.000000,M,-2147483648,2017-04-27,Cowen,Not Provided,3,market perform,42.000000,
+1357,1357,-0.000000,M,-2147483648,2017-04-27,Craig-Hallum Capital Group LLC,12 month,5,buy,54.000000,
+1358,1358,-0.000000,M,-2147483648,2017-04-27,Susquehanna Financial,12 month,4,Positive,55.000000,
+1359,1359,-0.000000,M,-2147483648,2017-04-27,Atlantic Equities LLP,12 month,3,neutral,45.000000,
+1360,1360,-0.000000,M,-2147483648,2017-04-27,Piper Jaffray,12 month,3,neutral,45.000000,
+1361,1361,-0.000000,M,-2147483648,2017-04-27,BTIG LLC,12 month,5,buy,53.000000,
+1362,1362,-0.000000,D,-2147483648,2017-04-27,EVA Dimensions,Not Provided,1,underweight,-0.000000,
+1363,1363,-0.000000,M,-2147483648,2017-04-27,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.000000,
+1364,1364,-0.000000,M,-2147483648,2017-04-26,Credit Suisse,Not Provided,5,outperform,49.000000,
+1365,1365,-0.000000,M,-2147483648,2017-04-26,"Keefe, Bruyette & Woods",12 month,5,outperform,55.000000,
+1366,1366,-0.000000,M,-2147483648,2017-04-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.000000,
+1367,1367,-0.000000,M,-2147483648,2017-04-26,William Blair & Co,Not Provided,5,outperform,-0.000000,
+1368,1368,-0.000000,M,-2147483648,2017-04-26,Evercore ISI,12 month,5,outperform,50.000000,
+1369,1369,-0.000000,M,-2147483648,2017-04-26,Oppenheimer & Co,12 month,5,outperform,50.000000,
+1370,1370,-0.000000,M,-2147483648,2017-04-26,Wells Fargo Securities,Not Provided,3,market perform,-0.000000,
+1371,1371,-0.000000,M,-2147483648,2017-04-26,Nomura Instinet,12 month,5,buy,54.000000,
+1372,1372,-0.000000,D,-2147483648,2017-04-11,National Bank AG,Not Provided,1,sell,-0.000000,
+1373,1373,-0.000000,M,-2147483648,2017-03-24,Edward Jones,Not Provided,5,buy,-0.000000,
+1374,1374,-0.000000,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.000000,
+1375,1375,-0.000000,M,-2147483648,2017-02-21,CM Research,Not Provided,5,buy,50.350000,
+1376,1376,-0.000000,M,-2147483648,2016-05-16,Freedom Finance,Not Provided,5,buy,44.000000,
+1377,1377,25.700000,M,3,2017-05-03,RBC Capital Markets,12 month,5,outperform,52.000000,
+1378,1378,-0.000000,M,-2147483648,2017-05-03,Craig-Hallum Capital Group LLC,12 month,5,buy,54.000000,
+1379,1379,21.860000,M,5,2017-05-01,"Monness, Crespi, Hardt & Co",Not Provided,5,buy,54.000000,
+1380,1380,12.260000,M,6,2017-05-01,"Morningstar, Inc",Not Provided,3,hold,-0.000000,
+1381,1381,25.700000,M,3,2017-05-01,Barclays,Not Provided,5,overweight,52.000000,
+1382,1382,4.030000,M,7,2017-05-01,FBN Securities,12 month,5,outperform,55.000000,
+1383,1383,-0.000000,M,-2147483648,2017-04-30,Renaissance Macro Research LLC,12 month,5,overweight,55.000000,
+1384,1384,-0.000000,M,-2147483648,2017-04-28,Jefferies,Not Provided,5,buy,55.000000,
+1385,1385,-0.000000,M,-2147483648,2017-04-27,BMO Capital Markets,Not Provided,5,outperform,52.000000,
+1386,1386,0.000000,M,10,2017-04-27,Morgan Stanley,12 month,3,Equalwt/In-Line,44.000000,
+1387,1387,25.700000,M,3,2017-04-27,Goldman Sachs,12 month,5,buy/attractive,54.000000,
+1388,1388,25.700000,M,3,2017-04-27,Argus Research Corp,Not Provided,5,buy,53.000000,
+1389,1389,0.000000,M,10,2017-04-27,UBS,12 month,3,neutral,48.000000,
+1390,1390,-0.000000,M,-2147483648,2017-04-27,SunTrust Robinson Humphrey,Not Provided,5,buy,53.000000,
+1391,1391,25.700000,M,3,2017-04-27,First Analysis Corp,12 month,5,overweight,50.000000,
+1392,1392,25.700000,M,3,2017-04-27,J.P. Morgan,9 month,5,overweight,47.000000,
+1393,1393,0.000000,M,10,2017-04-27,Needham & Co,Not Provided,3,hold,-0.000000,
+1394,1394,25.700000,M,3,2017-04-27,Baird,12 month,5,outperform,54.000000,
+1395,1395,0.000000,M,10,2017-04-27,Bernstein,12 month,3,market perform,46.000000,
+1396,1396,35.050000,M,1,2017-04-27,Stephens Inc,12 month,5,overweight,51.000000,
+1397,1397,-0.000000,M,-2147483648,2017-04-27,Wedbush,12 month,5,outperform,54.000000,
+1398,1398,25.700000,M,3,2017-04-27,Raymond James,12 month,5,outperform,52.000000,
+1399,1399,-0.000000,M,-2147483648,2017-04-27,Cantor Fitzgerald,12 month,5,overweight,53.000000,
+1400,1400,22.350000,M,4,2017-04-27,Stifel,12 month,5,buy,51.000000,
+1401,1401,-0.000000,M,-2147483648,2017-04-27,Loop Capital Markets,12 month,3,hold,46.000000,
+1402,1402,2.540000,M,8,2017-04-27,Canaccord Genuity,12 month,3,hold,45.000000,
+1403,1403,-0.000000,M,-2147483648,2017-04-27,Berenberg,Not Provided,5,buy,51.000000,
+1404,1404,-0.000000,M,-2147483648,2017-04-27,Guggenheim Securities,Not Provided,5,buy,53.000000,
+1405,1405,0.000000,M,10,2017-04-27,Cowen,Not Provided,3,market perform,42.000000,
+1406,1406,25.700000,M,3,2017-04-27,Susquehanna Financial,12 month,4,Positive,55.000000,
+1407,1407,0.000000,M,10,2017-04-27,Atlantic Equities LLP,12 month,3,neutral,45.000000,
+1408,1408,-29.850000,M,12,2017-04-27,Piper Jaffray,12 month,3,neutral,45.000000,
+1409,1409,25.700000,M,3,2017-04-27,BTIG LLC,12 month,5,buy,53.000000,
+1410,1410,0.870000,D,9,2017-04-27,EVA Dimensions,Not Provided,1,underweight,-0.000000,
+1411,1411,0.000000,M,10,2017-04-27,Compass Point Research & Trading LLC,Not Provided,3,neutral,44.000000,
+1412,1412,25.700000,M,3,2017-04-26,Credit Suisse,Not Provided,5,outperform,49.000000,
+1413,1413,25.700000,M,3,2017-04-26,"Keefe, Bruyette & Woods",12 month,5,outperform,55.000000,
+1414,1414,0.000000,M,10,2017-04-26,Pacific Crest Securities,Not Provided,3,sector weight,-0.000000,
+1415,1415,25.700000,M,3,2017-04-26,William Blair & Co,Not Provided,5,outperform,-0.000000,
+1416,1416,-0.000000,M,-2147483648,2017-04-26,Evercore ISI,12 month,5,outperform,50.000000,
+1417,1417,32.680000,M,2,2017-04-26,Oppenheimer & Co,12 month,5,outperform,50.000000,
+1418,1418,-4.100000,M,11,2017-04-26,Wells Fargo Securities,Not Provided,3,market perform,-0.000000,
+1419,1419,-0.000000,M,-2147483648,2017-04-26,Nomura Instinet,12 month,5,buy,54.000000,
+1420,1420,25.700000,M,3,2017-03-24,Edward Jones,Not Provided,5,buy,-0.000000,
+1421,1421,-0.000000,M,-2147483648,2017-03-02,M Science,Not Provided,-2147483648,no rating system,-0.000000,
+1422,1422,25.700000,M,3,2017-02-21,CM Research,Not Provided,5,buy,50.350000,
+1423,1423,25.700000,M,3,2016-05-16,Freedom Finance,Not Provided,5,buy,44.000000,

@@ -1,0 +1,769 @@
+ISIN,sector,cyclical
+AN8068571086,Energy
+BMG491BT1088,Financial
+BMG6359F1032,Energy
+BMG812761002,Consumer, Cyclical
+BMG982941046,Financial
+CH0044328745,Financial
+CH0048265513,Energy
+CH0102993182,Industrial
+CH0114405324,Industrial
+GB00B4VLR192,Energy
+GB00B5BT0K07,Financial
+GB00BDSFG982,Energy
+GB00BFG3KF26,Energy
+GB00BWFY5505,Consumer, Non-cyclical
+IE00B40K9117,Industrial
+IE00B4BNMY34,Technology
+IE00B58JVZ52,Technology
+IE00B6330302,Industrial
+IE00B68SQD29,Consumer, Non-cyclical
+IE00B8KQN827,Industrial
+IE00BBGT3753,Consumer, Non-cyclical
+IE00BDB6Q211,Financial
+IE00BFRT3W74,Industrial
+IE00BGH1M568,Consumer, Non-cyclical
+IE00BJ3V9050,Consumer, Non-cyclical
+IE00BLS09M33,Industrial
+IE00BTN1Y115,Consumer, Non-cyclical
+IE00BY7QL619,Industrial
+IE00BY9D5467,Consumer, Non-cyclical
+JE00B783TY65,Consumer, Cyclical
+LR0008862868,Consumer, Cyclical
+NL0009434992,Basic Materials
+NL0011031208,Consumer, Non-cyclical
+PA1436583006,Consumer, Cyclical
+SG9999014823,Technology
+US0008863096,Communications
+US00101J1060,Consumer, Non-cyclical
+US0010551028,Financial
+US0012041069,Utilities
+US00130H1059,Utilities
+US0015471081,Basic Materials
+US00206R1023,Communications
+US0028241000,Consumer, Non-cyclical
+US00287Y1091,Consumer, Non-cyclical
+US0028962076,Consumer, Cyclical
+US00507V1098,Technology
+US00508Y1029,Industrial
+US00724F1012,Technology
+US00751Y1064,Consumer, Cyclical
+US0079031078,Technology
+US00817Y1082,Consumer, Non-cyclical
+US0081901003,Technology
+US0082521081,Financial
+US00846U1016,Industrial
+US0091581068,Basic Materials
+US0093631028,Basic Materials
+US00971T1016,Technology
+US0116591092,Consumer, Cyclical
+US0126531013,Basic Materials
+US0130781000,Consumer, Non-cyclical
+US0131041040,Consumer, Non-cyclical
+US0152711091,Financial
+US0153511094,Consumer, Non-cyclical
+US0173611064,Utilities
+US01741R1023,Basic Materials
+US0184901025,Consumer, Non-cyclical
+US0185811082,Financial
+US0188021085,Utilities
+US0195893088,Industrial
+US0200021014,Financial
+US0200391037,Communications
+US02076X1028,Energy
+US02079K1079,Communications
+US02079K3059,Communications
+US0214411003,Technology
+US02209S1033,Consumer, Non-cyclical
+US0231351067,Communications
+US0231391089,Financial
+US0236081024,Utilities
+US02376R1023,Consumer, Cyclical
+US02503Y1038,Financial
+US0255371017,Utilities
+US0258161092,Financial
+US0268747849,Financial
+US0290661075,Industrial
+US03027X1000,Financial
+US0304201033,Utilities
+US03073E1055,Consumer, Non-cyclical
+US03076C1062,Financial
+US0311001004,Industrial
+US0311621009,Consumer, Non-cyclical
+US0320951017,Industrial
+US0321651020,Financial
+US0325111070,Energy
+US0326541051,Technology
+US0344251089,Communications
+US0352291035,Consumer, Non-cyclical
+US0367521038,Consumer, Non-cyclical
+US0374111054,Energy
+US03748R1014,Financial
+US0376041051,Consumer, Non-cyclical
+US0378331005,Technology
+US0381491002,Industrial
+US0382221051,Technology
+US03822W4069,Technology
+US0394831020,Consumer, Non-cyclical
+US0395831094,Financial
+US03965L1008,Industrial
+US0441861046,Basic Materials
+US04621X1081,Financial
+US0527691069,Technology
+US0530151036,Consumer, Non-cyclical
+US05329W1027,Consumer, Cyclical
+US0533321024,Consumer, Cyclical
+US0534841012,Financial
+US0534991098,Communications
+US0536111091,Consumer, Non-cyclical
+US0537741052,Consumer, Non-cyclical
+US0543031027,Consumer, Non-cyclical
+US0549371070,Financial
+US0554821035,Energy
+US0556071050,Industrial
+US0572241075,Energy
+US0584981064,Industrial
+US0605051046,Financial
+US0640581007,Financial
+US0673831097,Consumer, Non-cyclical
+US0683061099,Consumer, Non-cyclical
+US0717071031,Consumer, Non-cyclical
+US07177M1036,Consumer, Non-cyclical
+US0718131099,Consumer, Non-cyclical
+US0737301038,Consumer, Non-cyclical
+US0739021089,Financial
+US0758871091,Consumer, Non-cyclical
+US0758961009,Consumer, Cyclical
+US0798601029,Communications
+US0814371052,Industrial
+US0846707026,Financial
+US0865161014,Consumer, Cyclical
+US0893021032,Consumer, Cyclical
+US0906131000,Consumer, Non-cyclical
+US09062X1037,Consumer, Non-cyclical
+US0917971006,Industrial
+US09247X1019,Financial
+US0936711052,Consumer, Non-cyclical
+US0970231058,Industrial
+US0997241064,Consumer, Cyclical
+US1011211018,Financial
+US1011371077,Consumer, Non-cyclical
+US1101221083,Consumer, Non-cyclical
+US1113201073,Technology
+US1156372096,Consumer, Non-cyclical
+US1170431092,Consumer, Cyclical
+US12189T1043,Industrial
+US1220141030,Energy
+US1248572026,Communications
+US12503M1080,Financial
+US12504L1098,Financial
+US1252691001,Basic Materials
+US12541W2098,Industrial
+US1255091092,Consumer, Non-cyclical
+US12572Q1058,Financial
+US1258961002,Utilities
+US1264081035,Industrial
+US12650T1043,Technology
+US1266501006,Consumer, Cyclical
+US12673P1057,Technology
+US12686C1099,Communications
+US1270971039,Energy
+US13342B1052,Energy
+US1344291091,Consumer, Non-cyclical
+US14040H1059,Financial
+US14149Y1082,Consumer, Non-cyclical
+US1417051034,Consumer, Non-cyclical
+US14170T1016,Consumer, Non-cyclical
+US1431301027,Consumer, Cyclical
+US1491231015,Industrial
+US1510201049,Consumer, Non-cyclical
+US15135B1017,Consumer, Non-cyclical
+US15189T1079,Utilities
+US1523121044,Consumer, Cyclical
+US1567001060,Communications
+US1567081096,Consumer, Non-cyclical
+US1567821046,Technology
+US16119P1084,Communications
+US1651671075,Energy
+US1667641005,Energy
+US1696561059,Consumer, Cyclical
+US1700401094,Consumer, Non-cyclical
+US1712321017,Financial
+US1713401024,Consumer, Non-cyclical
+US1717793095,Communications
+US1717981013,Energy
+US1720621010,Financial
+US1724741087,Utilities
+US1727371080,Consumer, Cyclical
+US17275R1023,Communications
+US1729081059,Consumer, Non-cyclical
+US1729674242,Financial
+US1746101054,Financial
+US1773761002,Technology
+US1845021021,Communications
+US18683K1016,Basic Materials
+US1890541097,Consumer, Non-cyclical
+US1897541041,Consumer, Cyclical
+US1912161007,Consumer, Non-cyclical
+US19122T1097,Consumer, Non-cyclical
+US1924461023,Technology
+US1941621039,Consumer, Non-cyclical
+US1982801094,Energy
+US20030N1019,Communications
+US20030N2009,Communications
+US2003401070,Financial
+US2005191067,Financial
+US20449H1095,Financial
+US2053631048,Technology
+US2056381096,Technology
+US2058624022,Communications
+US2058871029,Consumer, Non-cyclical
+US20605P1012,Energy
+US20825C1045,Energy
+US20854P1093,Energy
+US2091151041,Utilities
+US21036P1084,Consumer, Non-cyclical
+US2103711006,Utilities
+US2124851062,Technology
+US2166484020,Consumer, Non-cyclical
+US2168311072,Consumer, Cyclical
+US2193501051,Industrial
+US22160K1051,Consumer, Cyclical
+US2220702037,Consumer, Non-cyclical
+US2223721042,Financial
+US2228621049,Consumer, Non-cyclical
+US22822V1017,Financial
+US2310211063,Industrial
+US23317H1023,Financial
+US23331A1097,Consumer, Cyclical
+US2333311072,Utilities
+US23355L1061,Technology
+US2358111068,Consumer, Cyclical
+US2358511028,Consumer, Non-cyclical
+US2371941053,Consumer, Cyclical
+US23918K1088,Consumer, Non-cyclical
+US2423702032,Consumer, Non-cyclical
+US2441991054,Industrial
+US24702R1014,Technology
+US2473617023,Consumer, Cyclical
+US2479162081,Energy
+US24906P1093,Consumer, Non-cyclical
+US25179M1036,Energy
+US2518931033,Consumer, Non-cyclical
+US25271C1027,Energy
+US2538681030,Financial
+US2540671011,Consumer, Cyclical
+US2546871060,Communications
+US2547091080,Financial
+US25470F1049,Communications
+US25470F3029,Communications
+US25470M1099,Communications
+US25490A3095,Communications
+US2566771059,Consumer, Cyclical
+US2567461080,Consumer, Cyclical
+US25746U1097,Utilities
+US2578672006,Consumer, Non-cyclical
+US2600031080,Industrial
+US2605431038,Basic Materials
+US2605611050,Communications
+US26138E1091,Consumer, Non-cyclical
+US2635341090,Basic Materials
+US26441C2044,Utilities
+US26483E1001,Technology
+US26817R1086,Utilities
+US2686481027,Technology
+US26875P1012,Energy
+US26884L1098,Energy
+US2692464017,Financial
+US2774321002,Basic Materials
+US2774611097,Technology
+US2786421030,Communications
+US2788651006,Consumer, Non-cyclical
+US2810201077,Utilities
+US28176E1082,Consumer, Non-cyclical
+US28336L1098,Energy
+US2855121099,Technology
+US2856611049,Technology
+US29078E1055,Communications
+US2910111044,Industrial
+US2928451044,Basic Materials
+US29364G1031,Utilities
+US29414D1000,Consumer, Non-cyclical
+US2944291051,Consumer, Non-cyclical
+US29444U7000,Financial
+US2947411037,Financial
+US29476L1070,Financial
+US2971781057,Financial
+US30040W1080,Utilities
+US30161N1019,Utilities
+US30212P3038,Communications
+US3021301094,Industrial
+US30219G1085,Consumer, Non-cyclical
+US30225T1025,Financial
+US30231G1022,Energy
+US3024451011,Industrial
+US3024913036,Basic Materials
+US30303M1027,Communications
+US3070001090,Consumer, Cyclical
+US3119001044,Consumer, Cyclical
+US3134003017,Financial
+US3135861090,Financial
+US3137472060,Financial
+US3142111034,Financial
+US31428X1063,Industrial
+US3156161024,Communications
+US31620M1062,Technology
+US3167731005,Financial
+US3199631041,Technology
+US3205171057,Financial
+US3364331070,Energy
+US3377381088,Technology
+US3379321074,Utilities
+US3380322046,Consumer, Non-cyclical
+US3434121022,Industrial
+US34354P1057,Industrial
+US3448491049,Consumer, Cyclical
+US3453708600,Consumer, Cyclical
+US3458381064,Consumer, Non-cyclical
+US34959J1088,Industrial
+US34964C1062,Industrial
+US34988V1061,Consumer, Cyclical
+US3546131018,Financial
+US35671D8570,Basic Materials
+US35687M2061,Technology
+US35906A1088,Communications
+US36174X1019,Financial
+US3635761097,Financial
+US36467W1099,Consumer, Cyclical
+US3647601083,Consumer, Cyclical
+US3666511072,Consumer, Non-cyclical
+US3676261080,Technology
+US3695501086,Industrial
+US3696041033,Industrial
+US3703341046,Consumer, Non-cyclical
+US37045V1008,Consumer, Cyclical
+US3724601055,Consumer, Cyclical
+US37247D1063,Financial
+US3729171047,Consumer, Non-cyclical
+US3755581036,Consumer, Non-cyclical
+US37940X1028,Consumer, Non-cyclical
+US3813171069,Financial
+US38141G1040,Financial
+US3823881061,Industrial
+US3825501014,Consumer, Cyclical
+US3846371041,Consumer, Non-cyclical
+US3848021040,Consumer, Cyclical
+US4016981056,Consumer, Non-cyclical
+US40412C1018,Consumer, Non-cyclical
+US40414L1098,Financial
+US40434L1052,Technology
+US4062161017,Energy
+US4103451021,Consumer, Cyclical
+US4128221086,Consumer, Cyclical
+US4130861093,Consumer, Cyclical
+US4136191073,Consumer, Cyclical
+US4138751056,Industrial
+US4165151048,Financial
+US4180561072,Consumer, Cyclical
+US4219331026,Consumer, Non-cyclical
+US4230741039,Consumer, Non-cyclical
+US4234521015,Energy
+US4270561065,Basic Materials
+US4278661081,Consumer, Non-cyclical
+US42809H1077,Energy
+US42824C1099,Technology
+US4325891095,Consumer, Non-cyclical
+US4328481092,Consumer, Cyclical
+US4364401012,Consumer, Non-cyclical
+US4370761029,Consumer, Cyclical
+US4385161066,Industrial
+US4404521001,Consumer, Non-cyclical
+US4410601003,Consumer, Non-cyclical
+US44107P1049,Financial
+US4436831071,Financial
+US4448591028,Consumer, Non-cyclical
+US4456581077,Industrial
+US4461501045,Financial
+US44919P5089,Communications
+US4499341083,Technology
+US45073V1089,Industrial
+US45168D1046,Consumer, Non-cyclical
+US4523081093,Industrial
+US4523271090,Consumer, Non-cyclical
+US45337C1027,Consumer, Non-cyclical
+US4581401001,Technology
+US45822P1057,Utilities
+US45866F1049,Financial
+US4592001014,Technology
+US4595061015,Basic Materials
+US4599021023,Consumer, Cyclical
+US4601461035,Basic Materials
+US4606901001,Communications
+US4612021034,Technology
+US46120E6023,Consumer, Non-cyclical
+US46284V1017,Financial
+US46625H1005,Financial
+US4663131039,Industrial
+US4698141078,Industrial
+US47102X1054,Financial
+US4750701082,Financial
+US4781601046,Consumer, Non-cyclical
+US4783661071,Consumer, Cyclical
+US48020T1016,Consumer, Cyclical
+US4811651086,Industrial
+US48203R1041,Communications
+US4824801009,Technology
+US4851703029,Industrial
+US4858651098,Consumer, Cyclical
+US48666K1097,Consumer, Cyclical
+US4878361082,Consumer, Non-cyclical
+US4923861078,Energy
+US49271M1009,Consumer, Non-cyclical
+US4932671088,Financial
+US49337W1009,Utilities
+US4943681035,Consumer, Non-cyclical
+US49446R1095,Financial
+US49456B1017,Energy
+US4955821081,Consumer, Non-cyclical
+US4990401030,Communications
+US5002551043,Consumer, Cyclical
+US5007541064,Consumer, Non-cyclical
+US5010441013,Consumer, Non-cyclical
+US5017971046,Consumer, Cyclical
+US5018892084,Consumer, Cyclical
+US5021611026,Technology
+US5024131071,Industrial
+US50540R4092,Consumer, Non-cyclical
+US5128071082,Technology
+US5184391044,Consumer, Non-cyclical
+US5246601075,Consumer, Cyclical
+US5249011058,Financial
+US5249081002,Financial
+US5253271028,Technology
+US5260571048,Consumer, Cyclical
+US5272881047,Diversified
+US52729N3089,Communications
+US5297711070,Technology
+US53217V1098,Consumer, Non-cyclical
+US5324571083,Consumer, Non-cyclical
+US5341871094,Financial
+US5356781063,Technology
+US5398301094,Industrial
+US5404241086,Financial
+US5441471019,Consumer, Non-cyclical
+US5463471053,Industrial
+US5486611073,Consumer, Cyclical
+US5494631071,Communications
+US55261F1049,Financial
+US55262C1009,Financial
+US5528481030,Financial
+US5543821012,Financial
+US55616P1049,Consumer, Cyclical
+US5635711089,Industrial
+US5640551017,Consumer, Non-cyclical
+US5658491064,Energy
+US56585A1025,Energy
+US5717481023,Financial
+US5718371033,Financial
+US5719032022,Consumer, Cyclical
+US5732841060,Industrial
+US5745991068,Industrial
+US5762061068,Energy
+US57636Q1040,Financial
+US5770811025,Consumer, Cyclical
+US57772K1016,Technology
+US5785921074,Consumer, Cyclical
+US5790641063,Communications
+US5797802064,Consumer, Non-cyclical
+US5801351017,Consumer, Cyclical
+US58155Q1031,Consumer, Non-cyclical
+US5828391061,Consumer, Non-cyclical
+US58405U1025,Consumer, Non-cyclical
+US5846991025,Consumer, Non-cyclical
+US58551A1088,Financial
+US58933Y1055,Consumer, Non-cyclical
+US5894051094,Technology
+US5894331017,Communications
+US5901881087,Financial
+US59156R1086,Financial
+US5926881054,Industrial
+US5949181045,Technology
+US5950171042,Technology
+US5951121038,Technology
+US59522J1034,Financial
+US6010731098,Consumer, Non-cyclical
+US6081901042,Consumer, Cyclical
+US6085541018,Industrial
+US60871R2094,Consumer, Non-cyclical
+US6092071058,Consumer, Non-cyclical
+US61166W1018,Basic Materials
+US6117421072,Consumer, Non-cyclical
+US61174X1090,Consumer, Non-cyclical
+US6153691059,Consumer, Non-cyclical
+US6174464486,Financial
+US61945C1036,Basic Materials
+US6200763075,Communications
+US6200971058,Communications
+US6267171022,Energy
+US62886E1082,Technology
+US6293775085,Utilities
+US6294911010,Financial
+US6311031081,Financial
+US6354051038,Financial
+US6370711011,Energy
+US6376401039,Technology
+US63934E1082,Consumer, Cyclical
+US63938C1080,Financial
+US64110D1046,Technology
+US64110L1061,Communications
+US6501111073,Communications
+US6512291062,Consumer, Cyclical
+US6512901082,Energy
+US6516391066,Basic Materials
+US65249B1098,Communications
+US65249B2088,Communications
+US65339F1012,Utilities
+US6540861076,Utilities
+US6541061031,Consumer, Cyclical
+US65473P1057,Utilities
+US6550441058,Energy
+US6556641008,Consumer, Cyclical
+US6558441084,Industrial
+US6594241050,Financial
+US6658591044,Financial
+US6668071029,Industrial
+US6700061053,Technology
+US6700081010,Technology
+US6703461052,Basic Materials
+US67066G1040,Technology
+US67103H1077,Consumer, Cyclical
+US6745991058,Energy
+US6762201068,Consumer, Cyclical
+US6819191064,Communications
+US6826801036,Energy
+US68389X1054,Technology
+US6907684038,Industrial
+US69331C1080,Utilities
+US69344F1066,Technology
+US6934751057,Financial
+US6935061076,Basic Materials
+US69351T1060,Utilities
+US6936561009,Consumer, Cyclical
+US6937181088,Consumer, Cyclical
+US6952571056,Industrial
+US6964293079,Industrial
+US6988841036,Technology
+US7010941042,Industrial
+US7033951036,Consumer, Non-cyclical
+US7043261079,Technology
+US70450Y1038,Consumer, Non-cyclical
+US7045492037,Energy
+US7081601061,Consumer, Cyclical
+US7110301063,Utilities
+US7127041058,Financial
+US7132911022,Utilities
+US7134091005,Consumer, Non-cyclical
+US7134481081,Consumer, Non-cyclical
+US7140461093,Industrial
+US7167681060,Consumer, Cyclical
+US7170811035,Consumer, Non-cyclical
+US7172651025,Basic Materials
+US7181721090,Consumer, Non-cyclical
+US7185461040,Energy
+US7234841010,Utilities
+US7237871071,Energy
+US7244791007,Technology
+US7292511083,Financial
+US74005P1049,Basic Materials
+US7401891053,Industrial
+US74144T1088,Financial
+US7415034039,Communications
+US74251V1026,Financial
+US7427181091,Consumer, Non-cyclical
+US7432631056,Utilities
+US7433151039,Financial
+US74340W1036,Financial
+US7443201022,Financial
+US7445731067,Utilities
+US74460D1090,Financial
+US7458671010,Consumer, Cyclical
+US7472771010,Technology
+US74733V1008,Energy
+US74736K1016,Technology
+US7475251036,Technology
+US74762E1029,Consumer, Non-cyclical
+US74834L1008,Consumer, Non-cyclical
+US7483561020,Utilities
+US7491211097,Communications
+US74979E1010,Consumer, Cyclical
+US7512121010,Consumer, Cyclical
+US75281A1097,Energy
+US7547301090,Financial
+US7551115071,Industrial
+US75605Y1064,Financial
+US7561091049,Financial
+US7565771026,Technology
+US7581101000,Consumer, Cyclical
+US7588491032,Financial
+US75886F1075,Consumer, Non-cyclical
+US7591EP1005,Financial
+US7607591002,Industrial
+US7617131062,Consumer, Non-cyclical
+US7703231032,Consumer, Non-cyclical
+US7739031091,Industrial
+US7743411016,Industrial
+US7753711073,Basic Materials
+US7766961061,Industrial
+US7782961038,Consumer, Cyclical
+US7835491082,Industrial
+US78409V1044,Consumer, Non-cyclical
+US78440X1019,Financial
+US78442P1066,Financial
+US7859051002,Consumer, Cyclical
+US7864291007,Financial
+US7865142084,Consumer, Non-cyclical
+US7908491035,Consumer, Non-cyclical
+US79466L3024,Technology
+US80004C1018,Technology
+US8010561020,Industrial
+US80589M1027,Utilities
+US8064071025,Consumer, Non-cyclical
+US8066051017,Consumer, Non-cyclical
+US8085131055,Financial
+US8086551046,Communications
+US8110544025,Communications
+US8110651010,Communications
+US81211K1007,Industrial
+US8123501061,Consumer, Cyclical
+US8168511090,Utilities
+US8243481061,Basic Materials
+US8261701028,Technology
+US8265521018,Basic Materials
+US8288061091,Financial
+US83088M1027,Technology
+US8321101003,Energy
+US8326964058,Consumer, Non-cyclical
+US8330341012,Industrial
+US8341821077,Industrial
+US8425871071,Utilities
+US8447411088,Consumer, Cyclical
+US8454671095,Energy
+US8459051087,Financial
+US8475601097,Energy
+US8520611000,Communications
+US8545021011,Industrial
+US8550301027,Consumer, Cyclical
+US8552441094,Consumer, Cyclical
+US85590A4013,Consumer, Cyclical
+US8574771031,Financial
+US8589121081,Industrial
+US8636671013,Consumer, Non-cyclical
+US8668102036,Technology
+US86732Y1091,Energy
+US86764P1093,Energy
+US8679141031,Financial
+US8715031089,Communications
+US8715081076,Industrial
+US8716071076,Technology
+US87161C5013,Financial
+US87165B1035,Financial
+US8718291078,Consumer, Non-cyclical
+US8723751009,Utilities
+US8725401090,Consumer, Cyclical
+US8725901040,Communications
+US8731681081,Utilities
+US87612E1064,Consumer, Cyclical
+US87901J1051,Communications
+US8791311009,Industrial
+US8796641004,Communications
+US8798681073,Industrial
+US88033G4073,Consumer, Non-cyclical
+US88076W1036,Technology
+US8807701029,Technology
+US8807791038,Industrial
+US8816091016,Energy
+US8825081040,Technology
+US8832031012,Industrial
+US8835561023,Consumer, Non-cyclical
+US88579Y1010,Industrial
+US8865471085,Consumer, Cyclical
+US8873173038,Communications
+US88732J2078,Communications
+US8883392073,Basic Materials
+US8910271043,Financial
+US8919061098,Consumer, Non-cyclical
+US8923561067,Consumer, Cyclical
+US8928931083,Industrial
+US8936411003,Industrial
+US89417E1091,Financial
+US8960471071,Communications
+US8969452015,Communications
+US90130A1016,Communications
+US90130A2006,Communications
+US9024941034,Consumer, Non-cyclical
+US9026531049,Financial
+US9029111062,Consumer, Non-cyclical
+US9029733048,Financial
+US90384S3031,Consumer, Cyclical
+US9043111072,Consumer, Cyclical
+US9043112062,Consumer, Cyclical
+US9078181081,Industrial
+US9092143067,Technology
+US9100471096,Consumer, Cyclical
+US9113121068,Industrial
+US9113631090,Consumer, Non-cyclical
+US9129091081,Basic Materials
+US9130171096,Industrial
+US91324P1021,Consumer, Non-cyclical
+US9139031002,Consumer, Non-cyclical
+US9149061023,Communications
+US91529Y1064,Financial
+US9170471026,Consumer, Cyclical
+US9182041080,Consumer, Cyclical
+US91913Y1001,Energy
+US92220P1057,Consumer, Non-cyclical
+US92276F1003,Financial
+US92343E1029,Communications
+US92343V1044,Communications
+US92345Y1064,Consumer, Non-cyclical
+US92532F1003,Consumer, Non-cyclical
+US92553P2011,Communications
+US9255501051,Communications
+US92826C8394,Financial
+US92839U2069,Consumer, Cyclical
+US9290421091,Financial
+US9291601097,Industrial
+US92936P1003,Financial
+US92939U1060,Utilities
+US9299031024,Financial
+US9311421039,Consumer, Cyclical
+US9314271084,Consumer, Cyclical
+US94106L1098,Industrial
+US9418481035,Industrial
+US9497461015,Financial
+US95040Q1040,Financial
+US9505901093,Consumer, Cyclical
+US9581021055,Technology
+US9598021098,Consumer, Non-cyclical
+US96145D1054,Industrial
+US9621661043,Financial
+US9633201069,Consumer, Cyclical
+US9668371068,Consumer, Non-cyclical
+US9694571004,Energy
+US97382A2006,Communications
+US98212B1035,Energy
+US9825261053,Consumer, Non-cyclical
+US9830241009,Consumer, Non-cyclical
+US98310W1080,Consumer, Cyclical
+US9831341071,Consumer, Cyclical
+US98385X1063,Energy
+US98389B1008,Utilities
+US9839191015,Technology
+US9841211033,Technology
+US98419M1009,Industrial
+US9843321061,Communications
+US9884981013,Consumer, Cyclical
+US98956P1021,Consumer, Non-cyclical
+US9897011071,Financial
+US98978V1035,Consumer, Non-cyclical
+VGG607541015,Consumer, Cyclical

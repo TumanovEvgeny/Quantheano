@@ -1,0 +1,543 @@
+,index,Unnamed: 0,1 Year Return,Action Code,BARR,Date,Firm Name,Period,Rating,Recommendation,Target Price
+0,0,0,-0.0,R,-2147483648,2005-12-15,Piper Jaffray,Not Provided,5,outperform,11.52
+1,1,1,-0.0,M,-2147483648,2005-08-29,EVA Dimensions,Not Provided,1,strong sell,-0.0
+2,2,2,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+3,3,3,-0.0,R,-2147483648,2006-01-27,Piper Jaffray,Not Provided,5,outperform,11.52
+4,4,4,-0.0,M,-2147483648,2006-01-13,EVA Dimensions,Not Provided,1,strong sell,-0.0
+5,5,5,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+6,6,6,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+7,7,7,-0.0,R,-2147483648,2006-02-16,Piper Jaffray,Not Provided,5,outperform,11.52
+8,8,8,-0.0,M,-2147483648,2006-01-13,EVA Dimensions,Not Provided,1,strong sell,-0.0
+9,9,9,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+10,10,10,-0.0,R,-2147483648,2006-03-10,Piper Jaffray,Not Provided,5,outperform,11.52
+11,11,11,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+12,12,12,-0.0,M,-2147483648,2006-01-13,EVA Dimensions,Not Provided,1,strong sell,-0.0
+13,13,13,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+14,14,14,-0.0,U,-2147483648,2006-04-19,EVA Dimensions,Not Provided,1,sell,-0.0
+15,15,15,-0.0,R,-2147483648,2006-04-17,Piper Jaffray,Not Provided,5,outperform,9.6
+16,16,16,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+17,17,17,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+18,18,18,-0.0,R,-2147483648,2006-05-17,Piper Jaffray,Not Provided,5,outperform,9.6
+19,19,19,-0.0,U,-2147483648,2006-04-19,EVA Dimensions,Not Provided,1,sell,-0.0
+20,20,20,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+21,21,21,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+22,22,22,-0.0,R,-2147483648,2006-05-17,Piper Jaffray,Not Provided,5,outperform,9.6
+23,23,23,-0.0,U,-2147483648,2006-04-19,EVA Dimensions,Not Provided,1,sell,-0.0
+24,24,24,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+25,25,25,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+26,26,26,-0.0,D,-2147483648,2006-07-25,EVA Dimensions,Not Provided,1,sell,-0.0
+27,27,27,-0.0,R,-2147483648,2006-07-21,Piper Jaffray,Not Provided,5,outperform,9.6
+28,28,28,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+29,29,29,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+30,30,30,-0.0,R,-2147483648,2006-08-23,Piper Jaffray,Not Provided,5,outperform,9.6
+31,31,31,-0.0,U,-2147483648,2006-08-16,EVA Dimensions,Not Provided,3,hold,-0.0
+32,32,32,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+33,33,33,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+34,34,34,-0.0,D,-2147483648,2006-09-28,EVA Dimensions,Not Provided,1,sell,-0.0
+35,35,35,-0.0,R,-2147483648,2006-08-23,Piper Jaffray,Not Provided,5,outperform,9.6
+36,36,36,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+37,37,37,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+38,38,38,-0.0,R,-2147483648,2006-10-27,Piper Jaffray,Not Provided,5,outperform,9.6
+39,39,39,-0.0,U,-2147483648,2006-10-17,EVA Dimensions,Not Provided,3,hold,-0.0
+40,40,40,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+41,41,41,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+42,42,42,-0.0,D,-2147483648,2006-11-15,EVA Dimensions,Not Provided,1,sell,-0.0
+43,43,43,-0.0,R,-2147483648,2006-10-27,Piper Jaffray,Not Provided,5,outperform,9.6
+44,44,44,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+45,45,45,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+46,46,46,-0.0,D,-2147483648,2006-11-15,EVA Dimensions,Not Provided,1,sell,-0.0
+47,47,47,-0.0,R,-2147483648,2006-10-27,Piper Jaffray,Not Provided,5,outperform,9.6
+48,48,48,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+49,49,49,-0.0,N,-2147483648,2004-09-17,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+50,50,50,-0.0,M,-2147483648,2007-01-25,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+51,51,51,-0.0,D,-2147483648,2006-11-15,EVA Dimensions,Not Provided,1,sell,-0.0
+52,52,52,-0.0,R,-2147483648,2006-10-27,Piper Jaffray,Not Provided,5,outperform,9.6
+53,53,53,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+54,54,54,-0.0,M,-2147483648,2007-02-13,EVA Dimensions,Not Provided,1,sell,-0.0
+55,55,55,-0.0,M,-2147483648,2007-01-25,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+56,56,56,-0.0,R,-2147483648,2006-10-27,Piper Jaffray,Not Provided,5,outperform,9.6
+57,57,57,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+58,58,58,-0.0,M,-2147483648,2007-02-13,EVA Dimensions,Not Provided,1,sell,-0.0
+59,59,59,-0.0,M,-2147483648,2007-01-25,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+60,60,60,-0.0,R,-2147483648,2006-10-27,Piper Jaffray,Not Provided,5,outperform,9.6
+61,61,61,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+62,62,62,-0.0,D,-2147483648,2007-04-19,Piper Jaffray,12 month,3,market perform,9.6
+63,63,63,-0.0,M,-2147483648,2007-01-25,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+64,64,64,-0.0,N,-2147483648,2006-03-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+65,65,65,-0.0,N,-2147483648,2007-05-31,GC Research Ltd,Not Provided,5,overweight,13.92
+66,66,66,-0.0,D,-2147483648,2007-05-18,EVA Dimensions,Not Provided,1,strong sell,-0.0
+67,67,67,-0.0,M,-2147483648,2007-05-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+68,68,68,-0.0,M,-2147483648,2007-05-16,Piper Jaffray,12 month,3,market perform,10.56
+69,69,69,-0.0,M,-2147483648,2007-01-25,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+70,70,70,-0.0,N,-2147483648,2007-05-31,GC Research Ltd,Not Provided,5,overweight,13.92
+71,71,71,-0.0,D,-2147483648,2007-05-18,EVA Dimensions,Not Provided,1,strong sell,-0.0
+72,72,72,-0.0,M,-2147483648,2007-05-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+73,73,73,-0.0,M,-2147483648,2007-05-16,Piper Jaffray,12 month,3,market perform,10.56
+74,74,74,-0.0,M,-2147483648,2007-01-25,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+75,75,75,-0.0,M,-2147483648,2007-07-27,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+76,76,76,-0.0,M,-2147483648,2007-07-27,Piper Jaffray,12 month,3,market perform,9.6
+77,77,77,-0.0,U,-2147483648,2007-07-13,EVA Dimensions,Not Provided,1,sell,-0.0
+78,78,78,-0.0,M,-2147483648,2007-07-11,J.P. Morgan,Not Provided,3,neutral,-0.0
+79,79,79,-0.0,M,-2147483648,2007-07-11,GC Research Ltd,Not Provided,5,overweight,12.48
+80,80,80,-0.0,M,-2147483648,2007-08-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+81,81,81,-0.0,M,-2147483648,2007-07-27,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+82,82,82,-0.0,M,-2147483648,2007-07-27,Piper Jaffray,12 month,3,market perform,9.6
+83,83,83,-0.0,U,-2147483648,2007-07-13,EVA Dimensions,Not Provided,1,sell,-0.0
+84,84,84,-0.0,M,-2147483648,2007-07-11,GC Research Ltd,Not Provided,5,overweight,12.48
+85,85,85,-0.0,M,-2147483648,2007-09-18,EVA Dimensions,Not Provided,1,sell,-0.0
+86,86,86,-0.0,M,-2147483648,2007-08-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+87,87,87,-0.0,M,-2147483648,2007-07-27,Piper Jaffray,12 month,3,market perform,9.6
+88,88,88,-0.0,M,-2147483648,2007-07-11,GC Research Ltd,Not Provided,5,overweight,12.48
+89,89,89,-0.0,M,-2147483648,2007-10-25,Piper Jaffray,12 month,3,market perform,10.56
+90,90,90,-0.0,D,-2147483648,2007-10-25,EVA Dimensions,Not Provided,1,strong sell,-0.0
+91,91,91,-0.0,M,-2147483648,2007-08-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+92,92,92,-0.0,M,-2147483648,2007-07-11,GC Research Ltd,Not Provided,5,overweight,12.48
+93,93,93,-0.0,M,-2147483648,2007-10-25,Piper Jaffray,12 month,3,market perform,10.56
+94,94,94,-0.0,D,-2147483648,2007-10-25,EVA Dimensions,Not Provided,1,strong sell,-0.0
+95,95,95,-0.0,M,-2147483648,2007-08-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+96,96,96,-0.0,M,-2147483648,2007-07-11,GC Research Ltd,Not Provided,5,overweight,12.48
+97,97,97,-0.0,M,-2147483648,2007-10-25,Piper Jaffray,12 month,3,market perform,10.56
+98,98,98,-0.0,D,-2147483648,2007-10-25,EVA Dimensions,Not Provided,1,strong sell,-0.0
+99,99,99,-0.0,M,-2147483648,2007-08-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+100,100,100,-0.0,M,-2147483648,2007-07-11,GC Research Ltd,Not Provided,5,overweight,12.48
+101,101,101,-0.0,D,-2147483648,2008-01-31,EVA Dimensions,Not Provided,1,strong sell,-0.0
+102,102,102,-0.0,U,-2147483648,2008-01-25,Piper Jaffray,Not Provided,5,overweight,8.64
+103,103,103,-0.0,M,-2147483648,2007-08-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+104,104,104,-0.0,M,-2147483648,2007-07-11,GC Research Ltd,Not Provided,5,overweight,12.48
+105,105,105,-0.0,D,-2147483648,2008-01-31,EVA Dimensions,Not Provided,1,strong sell,-0.0
+106,106,106,-0.0,U,-2147483648,2008-01-25,Piper Jaffray,Not Provided,5,overweight,8.64
+107,107,107,-0.0,M,-2147483648,2007-08-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+108,108,108,-0.0,M,-2147483648,2007-07-11,GC Research Ltd,Not Provided,5,overweight,12.48
+109,109,109,-0.0,U,-2147483648,2008-03-31,EVA Dimensions,Not Provided,1,sell,-0.0
+110,110,110,-0.0,U,-2147483648,2008-01-25,Piper Jaffray,Not Provided,5,overweight,8.64
+111,111,111,-0.0,M,-2147483648,2007-08-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+112,112,112,-0.0,M,-2147483648,2008-04-15,Piper Jaffray,Not Provided,5,overweight,8.64
+113,113,113,-0.0,U,-2147483648,2008-03-31,EVA Dimensions,Not Provided,1,sell,-0.0
+114,114,114,-0.0,M,-2147483648,2007-08-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+115,115,115,-0.0,D,-2147483648,2008-05-21,EVA Dimensions,Not Provided,1,strong sell,-0.0
+116,116,116,-0.0,M,-2147483648,2008-05-16,Piper Jaffray,Not Provided,5,overweight,11.04
+117,117,117,-0.0,M,-2147483648,2007-08-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+118,118,118,-0.0,D,-2147483648,2008-05-21,EVA Dimensions,Not Provided,1,strong sell,-0.0
+119,119,119,-0.0,M,-2147483648,2007-08-16,J.P. Morgan,Not Provided,3,neutral,-0.0
+120,120,120,-0.0,U,-2147483648,2008-07-02,J.P. Morgan,Not Provided,5,overweight,-0.0
+121,121,121,-0.0,D,-2147483648,2008-05-21,EVA Dimensions,Not Provided,1,strong sell,-0.0
+122,122,122,-0.0,U,-2147483648,2008-08-12,EVA Dimensions,Not Provided,1,sell,-0.0
+123,123,123,-0.0,U,-2147483648,2008-07-02,J.P. Morgan,Not Provided,5,overweight,-0.0
+124,124,124,-0.0,U,-2147483648,2008-08-12,EVA Dimensions,Not Provided,1,sell,-0.0
+125,125,125,-0.0,U,-2147483648,2008-07-02,J.P. Morgan,Not Provided,5,overweight,-0.0
+126,126,126,-0.0,D,-2147483648,2008-10-08,J.P. Morgan,Not Provided,1,underweight,-0.0
+127,127,127,-0.0,U,-2147483648,2008-08-12,EVA Dimensions,Not Provided,1,sell,-0.0
+128,128,128,-0.0,N,-2147483648,2008-12-01,Cowen,Not Provided,3,neutral,-0.0
+129,129,129,-0.0,M,-2147483648,2008-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+130,130,130,-0.0,D,-2147483648,2008-10-08,J.P. Morgan,Not Provided,1,underweight,-0.0
+131,131,131,-0.0,N,-2147483648,2008-12-01,Cowen,Not Provided,3,neutral,-0.0
+132,132,132,-0.0,M,-2147483648,2008-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+133,133,133,-0.0,M,-2147483648,2009-01-30,Cowen,Not Provided,3,neutral,-0.0
+134,134,134,-0.0,M,-2147483648,2008-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+135,135,135,-0.0,M,-2147483648,2009-02-24,EVA Dimensions,Not Provided,1,sell,-0.0
+136,136,136,-0.0,M,-2147483648,2009-01-30,Cowen,Not Provided,3,neutral,-0.0
+137,137,137,-0.0,M,-2147483648,2009-03-27,Cowen,Not Provided,5,outperform,-0.0
+138,138,138,-0.0,M,-2147483648,2009-02-24,EVA Dimensions,Not Provided,1,sell,-0.0
+139,139,139,-0.0,M,-2147483648,2009-03-27,Cowen,Not Provided,5,outperform,-0.0
+140,140,140,-0.0,M,-2147483648,2009-02-24,EVA Dimensions,Not Provided,1,sell,-0.0
+141,141,141,-0.0,M,-2147483648,2009-05-29,Cowen,Not Provided,5,outperform,-0.0
+142,142,142,-0.0,M,-2147483648,2009-02-24,EVA Dimensions,Not Provided,1,sell,-0.0
+143,143,143,-0.0,M,-2147483648,2009-05-29,Cowen,Not Provided,5,outperform,-0.0
+144,144,144,-0.0,M,-2147483648,2009-02-24,EVA Dimensions,Not Provided,1,sell,-0.0
+145,145,145,-0.0,M,-2147483648,2009-08-01,EVA Dimensions,Not Provided,3,hold,-0.0
+146,146,146,-0.0,M,-2147483648,2009-07-24,Cowen,Not Provided,5,outperform,-0.0
+147,147,147,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+148,148,148,-0.0,M,-2147483648,2009-07-24,Cowen,Not Provided,5,outperform,-0.0
+149,149,149,-0.0,N,-2147483648,2009-09-27,Rafferty Capital Markets,Not Provided,5,buy,8.64
+150,150,150,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+151,151,151,-0.0,N,-2147483648,2009-09-27,Rafferty Capital Markets,Not Provided,5,buy,8.64
+152,152,152,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+153,153,153,-0.0,M,-2147483648,2009-11-11,Rafferty Capital Markets,12 month,5,buy,8.64
+154,154,154,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+155,155,155,-0.0,M,-2147483648,2009-11-11,Rafferty Capital Markets,12 month,5,buy,8.64
+156,156,156,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+157,157,157,-0.0,M,-2147483648,2010-01-29,Noble Financial Group,Not Provided,5,buy,9.6
+158,158,158,-0.0,M,-2147483648,2010-01-29,Rafferty Capital Markets,12 month,5,buy,8.64
+159,159,159,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+160,160,160,-0.0,M,-2147483648,2010-01-29,Noble Financial Group,Not Provided,5,buy,9.6
+161,161,161,-0.0,M,-2147483648,2010-01-29,Rafferty Capital Markets,12 month,5,buy,8.64
+162,162,162,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+163,163,163,-0.0,M,-2147483648,2010-03-21,Rafferty Capital Markets,12 month,5,buy,10.08
+164,164,164,-0.0,M,-2147483648,2010-03-12,Noble Financial Group,Not Provided,5,buy,9.6
+165,165,165,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+166,166,166,-0.0,N,-2147483648,2010-04-22,Mizuho Securities USA Inc,Not Provided,5,buy,11.04
+167,167,167,-0.0,M,-2147483648,2010-04-20,Rafferty Capital Markets,12 month,5,buy,10.08
+168,168,168,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+169,169,169,-0.0,M,-2147483648,2010-05-26,Northland Securities Inc,12 month,5,outperform,9.12
+170,170,170,-0.0,M,-2147483648,2010-05-21,Mizuho Securities USA Inc,12 month,5,buy,11.04
+171,171,171,-0.0,M,-2147483648,2010-05-21,Noble Financial Group,Not Provided,5,buy,9.6
+172,172,172,-0.0,M,-2147483648,2010-05-20,Rafferty Capital Markets,12 month,5,buy,10.08
+173,173,173,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+174,174,174,-0.0,M,-2147483648,2010-06-17,Mizuho Securities USA Inc,12 month,5,buy,11.04
+175,175,175,-0.0,M,-2147483648,2010-06-17,Noble Financial Group,Not Provided,5,buy,9.6
+176,176,176,-0.0,M,-2147483648,2010-06-11,Northland Securities Inc,Not Provided,5,outperform,9.12
+177,177,177,-0.0,N,-2147483648,2010-06-09,Wedbush,12 month,5,outperform,10.08
+178,178,178,-0.0,M,-2147483648,2010-06-02,Rafferty Capital Markets,12 month,5,buy,10.08
+179,179,179,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+180,180,180,-0.0,M,-2147483648,2010-07-28,Rafferty Capital Markets,12 month,5,buy,10.08
+181,181,181,-0.0,M,-2147483648,2010-07-23,Wedbush,12 month,5,outperform,10.08
+182,182,182,-0.0,M,-2147483648,2010-07-23,Mizuho Securities USA Inc,12 month,5,buy,10.08
+183,183,183,-0.0,M,-2147483648,2010-07-23,Noble Financial Group,12 month,5,buy,9.6
+184,184,184,-0.0,M,-2147483648,2010-07-23,Northland Securities Inc,Not Provided,5,outperform,9.12
+185,185,185,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+186,186,186,-0.0,M,-2147483648,2010-08-30,Mizuho Securities USA Inc,12 month,5,buy,10.08
+187,187,187,-0.0,M,-2147483648,2010-08-16,Noble Financial Group,12 month,5,buy,9.6
+188,188,188,-0.0,M,-2147483648,2010-07-23,Wedbush,12 month,5,outperform,10.08
+189,189,189,-0.0,M,-2147483648,2010-07-23,Northland Securities Inc,Not Provided,5,outperform,9.12
+190,190,190,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+191,191,191,-0.0,M,-2147483648,2010-09-21,Noble Financial Group,Not Provided,5,buy,9.6
+192,192,192,-0.0,N,-2147483648,2010-09-15,MKM Partners,12 month,5,buy,9.6
+193,193,193,-0.0,M,-2147483648,2010-09-08,Evercore ISI,12 month,5,overweight,10.08
+194,194,194,-0.0,M,-2147483648,2010-09-07,Northland Securities Inc,12 month,5,outperform,9.12
+195,195,195,-0.0,M,-2147483648,2010-08-30,Mizuho Securities USA Inc,12 month,5,buy,10.08
+196,196,196,-0.0,M,-2147483648,2010-07-23,Wedbush,12 month,5,outperform,10.08
+197,197,197,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+198,198,198,-0.0,M,-2147483648,2010-10-22,Wedbush,12 month,5,outperform,10.56
+199,199,199,-0.0,M,-2147483648,2010-10-22,Evercore ISI,12 month,5,overweight,10.56
+200,200,200,-0.0,M,-2147483648,2010-10-22,Mizuho Securities USA Inc,12 month,5,buy,11.52
+201,201,201,-0.0,M,-2147483648,2010-10-22,Noble Financial Group,12 month,5,buy,11.52
+202,202,202,-0.0,M,-2147483648,2010-10-22,MKM Partners,12 month,5,buy,9.6
+203,203,203,-0.0,M,-2147483648,2010-10-22,Northland Securities Inc,Not Provided,5,outperform,10.08
+204,204,204,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+205,205,205,-0.0,N,-2147483648,2010-11-30,Susquehanna Financial,12 month,4,Positive,12.48
+206,206,206,-0.0,M,-2147483648,2010-11-17,Evercore ISI,12 month,5,overweight,10.56
+207,207,207,-0.0,M,-2147483648,2010-11-17,MKM Partners,12 month,5,buy,11.52
+208,208,208,-0.0,M,-2147483648,2010-11-11,Mizuho Securities USA Inc,12 month,5,buy,11.52
+209,209,209,-0.0,M,-2147483648,2010-10-22,Wedbush,12 month,5,outperform,10.56
+210,210,210,-0.0,M,-2147483648,2010-10-22,Noble Financial Group,12 month,5,buy,11.52
+211,211,211,-0.0,M,-2147483648,2010-10-22,Northland Securities Inc,Not Provided,5,outperform,10.08
+212,212,212,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+213,213,213,-0.0,M,-2147483648,2010-12-21,Evercore ISI,12 month,5,overweight,13.44
+214,214,214,-0.0,M,-2147483648,2010-12-21,Mizuho Securities USA Inc,12 month,5,buy,13.44
+215,215,215,-0.0,M,-2147483648,2010-12-16,MKM Partners,12 month,5,buy,11.52
+216,216,216,-0.0,M,-2147483648,2010-12-10,Susquehanna Financial,12 month,4,Positive,12.48
+217,217,217,-0.0,M,-2147483648,2010-12-06,Northland Securities Inc,12 month,5,outperform,11.52
+218,218,218,-0.0,M,-2147483648,2010-10-22,Wedbush,12 month,5,outperform,10.56
+219,219,219,-0.0,M,-2147483648,2010-10-22,Noble Financial Group,12 month,5,buy,11.52
+220,220,220,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+221,221,221,-0.0,M,-2147483648,2011-01-28,Wedbush,12 month,5,outperform,13.44
+222,222,222,-0.0,M,-2147483648,2011-01-28,Evercore ISI,12 month,5,overweight,13.44
+223,223,223,-0.0,M,-2147483648,2011-01-28,Mizuho Securities USA Inc,12 month,5,buy,14.4
+224,224,224,-0.0,M,-2147483648,2011-01-28,Noble Financial Group,12 month,5,buy,13.44
+225,225,225,-0.0,M,-2147483648,2011-01-28,Susquehanna Financial,12 month,4,Positive,13.44
+226,226,226,-0.0,M,-2147483648,2011-01-28,MKM Partners,6 month,5,buy,12.48
+227,227,227,-0.0,M,-2147483648,2011-01-28,Northland Securities Inc,12 month,5,outperform,12.0
+228,228,228,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+229,229,229,-0.0,M,-2147483648,2011-02-23,MKM Partners,6 month,5,buy,12.48
+230,230,230,-0.0,M,-2147483648,2011-02-15,Mizuho Securities USA Inc,12 month,5,buy,14.4
+231,231,231,-0.0,M,-2147483648,2011-02-10,Susquehanna Financial,12 month,4,Positive,13.44
+232,232,232,-0.0,M,-2147483648,2011-02-04,Evercore ISI,12 month,5,overweight,13.44
+233,233,233,-0.0,M,-2147483648,2011-01-28,Wedbush,12 month,5,outperform,13.44
+234,234,234,-0.0,M,-2147483648,2011-01-28,Noble Financial Group,12 month,5,buy,13.44
+235,235,235,-0.0,M,-2147483648,2011-01-28,Northland Securities Inc,12 month,5,outperform,12.0
+236,236,236,-0.0,M,-2147483648,2009-08-13,EVA Dimensions,Not Provided,3,hold,-0.0
+237,237,237,-0.0,M,-2147483648,2011-03-25,Mizuho Securities USA Inc,12 month,5,buy,14.4
+238,238,238,-0.0,M,-2147483648,2011-03-25,Susquehanna Financial,12 month,4,Positive,13.44
+239,239,239,-0.0,M,-2147483648,2011-03-21,Noble Financial Group,12 month,5,buy,13.44
+240,240,240,-0.0,M,-2147483648,2011-03-12,EVA Dimensions,Not Provided,3,hold,-0.0
+241,241,241,-0.0,M,-2147483648,2011-03-09,Evercore ISI,12 month,5,overweight,13.44
+242,242,242,-0.0,M,-2147483648,2011-03-07,Northland Securities Inc,12 month,5,outperform,12.0
+243,243,243,-0.0,M,-2147483648,2011-02-23,MKM Partners,6 month,5,buy,12.48
+244,244,244,-0.0,M,-2147483648,2011-01-28,Wedbush,12 month,5,outperform,13.44
+245,245,245,-0.0,M,-2147483648,2011-04-18,Evercore ISI,12 month,5,overweight,13.44
+246,246,246,-0.0,M,-2147483648,2011-04-14,Wedbush,12 month,5,outperform,13.44
+247,247,247,-0.0,M,-2147483648,2011-04-14,Mizuho Securities USA Inc,12 month,5,buy,14.4
+248,248,248,-0.0,M,-2147483648,2011-04-14,Noble Financial Group,12 month,5,buy,13.44
+249,249,249,-0.0,M,-2147483648,2011-04-14,Susquehanna Financial,12 month,4,Positive,13.44
+250,250,250,-0.0,M,-2147483648,2011-04-14,MKM Partners,6 month,5,buy,12.48
+251,251,251,-0.0,M,-2147483648,2011-04-14,Northland Securities Inc,12 month,5,outperform,12.0
+252,252,252,-0.0,M,-2147483648,2011-03-12,EVA Dimensions,Not Provided,3,hold,-0.0
+253,253,253,-0.0,M,-2147483648,2011-05-25,Evercore ISI,12 month,5,overweight,12.48
+254,254,254,-0.0,M,-2147483648,2011-05-25,Mizuho Securities USA Inc,12 month,5,buy,12.96
+255,255,255,-0.0,M,-2147483648,2011-05-25,Noble Financial Group,Not Provided,5,buy,13.44
+256,256,256,-0.0,M,-2147483648,2011-05-25,Susquehanna Financial,12 month,4,Positive,13.44
+257,257,257,-0.0,M,-2147483648,2011-05-25,Northland Securities Inc,12 month,5,outperform,12.0
+258,258,258,-0.0,M,-2147483648,2011-03-12,EVA Dimensions,Not Provided,3,hold,-0.0
+259,259,259,-0.0,D,-2147483648,2011-07-01,EVA Dimensions,Not Provided,3,hold,-0.0
+260,260,260,-0.0,M,-2147483648,2011-06-14,Evercore ISI,12 month,5,overweight,12.48
+261,261,261,-0.0,M,-2147483648,2011-06-07,Mizuho Securities USA Inc,12 month,5,buy,12.96
+262,262,262,-0.0,M,-2147483648,2011-06-07,Susquehanna Financial,12 month,4,Positive,13.44
+263,263,263,-0.0,M,-2147483648,2011-06-06,Noble Financial Group,Not Provided,5,buy,13.44
+264,264,264,-0.0,M,-2147483648,2011-05-25,Northland Securities Inc,12 month,5,outperform,12.0
+265,265,265,-0.0,M,-2147483648,2011-07-25,Mizuho Securities USA Inc,12 month,5,buy,13.44
+266,266,266,-0.0,D,-2147483648,2011-07-23,EVA Dimensions,Not Provided,3,hold,-0.0
+267,267,267,-0.0,M,-2147483648,2011-07-22,Noble Financial Group,Not Provided,5,buy,13.44
+268,268,268,-0.0,M,-2147483648,2011-07-22,Susquehanna Financial,12 month,4,Positive,13.44
+269,269,269,-0.0,M,-2147483648,2011-07-22,Northland Securities Inc,12 month,5,outperform,12.0
+270,270,270,-0.0,M,-2147483648,2011-07-21,Evercore ISI,12 month,5,overweight,12.48
+271,271,271,-0.0,D,-2147483648,2011-09-01,EVA Dimensions,Not Provided,3,hold,-0.0
+272,272,272,-0.0,M,-2147483648,2011-08-25,Mizuho Securities USA Inc,12 month,5,buy,11.52
+273,273,273,-0.0,M,-2147483648,2011-08-19,Evercore ISI,12 month,5,overweight,12.48
+274,274,274,-0.0,N,-2147483648,2011-08-18,Jefferies,12 month,5,buy,10.56
+275,275,275,-0.0,M,-2147483648,2011-08-08,Susquehanna Financial,12 month,4,Positive,13.44
+276,276,276,-0.0,M,-2147483648,2011-07-22,Noble Financial Group,Not Provided,5,buy,13.44
+277,277,277,-0.0,M,-2147483648,2011-07-22,Northland Securities Inc,12 month,5,outperform,12.0
+278,278,278,-0.0,U,-2147483648,2011-10-01,EVA Dimensions,Not Provided,5,buy,-0.0
+279,279,279,-0.0,M,-2147483648,2011-09-30,Mizuho Securities USA Inc,12 month,5,buy,11.52
+280,280,280,-0.0,M,-2147483648,2011-09-14,Susquehanna Financial,12 month,4,Positive,11.52
+281,281,281,-0.0,M,-2147483648,2011-09-13,Northland Securities Inc,12 month,5,outperform,12.0
+282,282,282,-0.0,M,-2147483648,2011-09-08,Evercore ISI,12 month,5,overweight,12.48
+283,283,283,-0.0,N,-2147483648,2011-08-18,Jefferies,12 month,5,buy,10.56
+284,284,284,-0.0,M,-2147483648,2011-07-22,Noble Financial Group,Not Provided,5,buy,13.44
+285,285,285,-0.0,M,-2147483648,2011-10-21,Jefferies,12 month,5,buy,10.08
+286,286,286,-0.0,M,-2147483648,2011-10-21,Evercore ISI,12 month,5,overweight,12.48
+287,287,287,-0.0,M,-2147483648,2011-10-21,Mizuho Securities USA Inc,12 month,5,buy,11.04
+288,288,288,-0.0,M,-2147483648,2011-10-21,Noble Financial Group,Not Provided,5,buy,13.44
+289,289,289,-0.0,M,-2147483648,2011-10-21,Susquehanna Financial,12 month,4,Positive,10.08
+290,290,290,-0.0,M,-2147483648,2011-10-21,Northland Securities Inc,12 month,5,outperform,12.0
+291,291,291,-0.0,M,-2147483648,2011-10-19,EVA Dimensions,Not Provided,3,hold,-0.0
+292,292,292,-0.0,M,-2147483648,2011-11-21,Northland Securities Inc,Not Provided,5,outperform,12.0
+293,293,293,-0.0,M,-2147483648,2011-11-18,EVA Dimensions,Not Provided,3,hold,-0.0
+294,294,294,-0.0,M,-2147483648,2011-11-16,Evercore ISI,12 month,5,overweight,12.48
+295,295,295,-0.0,M,-2147483648,2011-10-21,Jefferies,12 month,5,buy,10.08
+296,296,296,-0.0,M,-2147483648,2011-10-21,Mizuho Securities USA Inc,12 month,5,buy,11.04
+297,297,297,-0.0,M,-2147483648,2011-10-21,Noble Financial Group,Not Provided,5,buy,13.44
+298,298,298,-0.0,M,-2147483648,2011-10-21,Susquehanna Financial,12 month,4,Positive,10.08
+299,299,299,-0.0,M,-2147483648,2011-12-22,Susquehanna Financial,12 month,4,Positive,10.08
+300,300,300,-0.0,M,-2147483648,2011-12-15,Evercore ISI,12 month,5,overweight,12.48
+301,301,301,-0.0,M,-2147483648,2011-12-12,Noble Financial Group,12 month,5,buy,13.44
+302,302,302,-0.0,M,-2147483648,2011-12-09,Jefferies,12 month,5,buy,10.08
+303,303,303,-0.0,M,-2147483648,2011-12-09,Mizuho Securities USA Inc,12 month,5,buy,12.48
+304,304,304,-0.0,M,-2147483648,2011-12-09,Northland Securities Inc,12 month,5,outperform,12.0
+305,305,305,-0.0,M,-2147483648,2011-11-18,EVA Dimensions,Not Provided,3,hold,-0.0
+306,306,306,-0.0,D,-2147483648,2012-01-28,EVA Dimensions,Not Provided,3,hold,-0.0
+307,307,307,-0.0,M,-2147483648,2012-01-27,Mizuho Securities USA Inc,12 month,5,buy,11.52
+308,308,308,-0.0,M,-2147483648,2012-01-27,Noble Financial Group,12 month,5,buy,10.56
+309,309,309,-0.0,M,-2147483648,2012-01-27,Susquehanna Financial,12 month,4,Positive,10.08
+310,310,310,-0.0,M,-2147483648,2012-01-27,Northland Securities Inc,12 month,5,outperform,11.04
+311,311,311,-0.0,M,-2147483648,2012-01-26,Jefferies,12 month,5,buy,8.64
+312,312,312,-0.0,M,-2147483648,2012-01-26,Evercore ISI,12 month,5,overweight,11.52
+313,313,313,-0.0,M,-2147483648,2012-02-21,Jefferies,12 month,5,buy,9.6
+314,314,314,-0.0,M,-2147483648,2012-02-16,Evercore ISI,12 month,5,overweight,11.52
+315,315,315,-0.0,M,-2147483648,2012-02-15,Noble Financial Group,12 month,5,buy,10.56
+316,316,316,-0.0,D,-2147483648,2012-01-28,EVA Dimensions,Not Provided,3,hold,-0.0
+317,317,317,-0.0,M,-2147483648,2012-01-27,Mizuho Securities USA Inc,12 month,5,buy,11.52
+318,318,318,-0.0,M,-2147483648,2012-01-27,Susquehanna Financial,12 month,4,Positive,10.08
+319,319,319,-0.0,M,-2147483648,2012-01-27,Northland Securities Inc,12 month,5,outperform,11.04
+320,320,320,-0.0,M,-2147483648,2012-04-01,Evercore ISI,12 month,5,overweight,11.52
+321,321,321,-0.0,M,-2147483648,2012-03-13,Northland Securities Inc,12 month,5,outperform,11.04
+322,322,322,-0.0,M,-2147483648,2012-02-21,Jefferies,12 month,5,buy,9.6
+323,323,323,-0.0,M,-2147483648,2012-02-15,Noble Financial Group,12 month,5,buy,10.56
+324,324,324,-0.0,D,-2147483648,2012-01-28,EVA Dimensions,Not Provided,3,hold,-0.0
+325,325,325,-0.0,M,-2147483648,2012-01-27,Mizuho Securities USA Inc,12 month,5,buy,11.52
+326,326,326,-0.0,M,-2147483648,2012-01-27,Susquehanna Financial,12 month,4,Positive,10.08
+327,327,327,-0.0,N,-2147483648,2012-04-25,BOE Securities,12 month,5,buy,9.7
+328,328,328,-0.0,M,-2147483648,2012-04-18,Evercore ISI,12 month,5,overweight,11.52
+329,329,329,-0.0,M,-2147483648,2012-04-18,Mizuho Securities USA Inc,12 month,5,buy,11.52
+330,330,330,-0.0,M,-2147483648,2012-04-10,Susquehanna Financial,12 month,4,Positive,10.08
+331,331,331,-0.0,M,-2147483648,2012-03-13,Northland Securities Inc,12 month,5,outperform,11.04
+332,332,332,-0.0,M,-2147483648,2012-02-21,Jefferies,12 month,5,buy,9.6
+333,333,333,-0.0,M,-2147483648,2012-02-15,Noble Financial Group,12 month,5,buy,10.56
+334,334,334,-0.0,D,-2147483648,2012-01-28,EVA Dimensions,Not Provided,3,hold,-0.0
+335,335,335,-0.0,M,-2147483648,2012-05-31,Northland Securities Inc,12 month,5,outperform,11.04
+336,336,336,-0.0,M,-2147483648,2012-05-23,Jefferies,12 month,5,buy,9.6
+337,337,337,-0.0,M,-2147483648,2012-05-23,Evercore ISI,12 month,5,overweight,11.52
+338,338,338,-0.0,M,-2147483648,2012-05-23,Mizuho Securities USA Inc,12 month,5,buy,11.04
+339,339,339,-0.0,M,-2147483648,2012-05-23,Noble Financial Group,12 month,5,buy,10.56
+340,340,340,-0.0,M,-2147483648,2012-05-23,Susquehanna Financial,12 month,4,Positive,11.52
+341,341,341,-0.0,N,-2147483648,2012-04-25,BOE Securities,12 month,5,buy,9.7
+342,342,342,-0.0,D,-2147483648,2012-01-28,EVA Dimensions,Not Provided,3,hold,-0.0
+343,343,343,-0.0,M,-2147483648,2012-06-28,Northland Securities Inc,12 month,5,outperform,11.04
+344,344,344,-0.0,M,-2147483648,2012-06-19,Evercore ISI,12 month,5,overweight,11.52
+345,345,345,-0.0,M,-2147483648,2012-06-19,Mizuho Securities USA Inc,12 month,5,buy,11.04
+346,346,346,-0.0,M,-2147483648,2012-06-13,Noble Financial Group,12 month,5,buy,10.56
+347,347,347,-0.0,M,-2147483648,2012-06-11,Jefferies,12 month,5,buy,9.6
+348,348,348,-0.0,D,-2147483648,2012-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0
+349,349,349,-0.0,M,-2147483648,2012-05-23,Susquehanna Financial,12 month,4,Positive,11.52
+350,350,350,-0.0,N,-2147483648,2012-04-25,BOE Securities,12 month,5,buy,9.7
+351,351,351,-0.0,M,-2147483648,2012-07-31,Evercore ISI,12 month,5,overweight,11.52
+352,352,352,-0.0,M,-2147483648,2012-07-30,Mizuho Securities USA Inc,12 month,5,buy,9.6
+353,353,353,-0.0,M,-2147483648,2012-07-25,Noble Financial Group,12 month,5,buy,10.56
+354,354,354,-0.0,M,-2147483648,2012-07-25,Susquehanna Financial,12 month,4,Positive,10.56
+355,355,355,-0.0,M,-2147483648,2012-07-25,Northland Securities Inc,12 month,5,outperform,11.04
+356,356,356,-0.0,M,-2147483648,2012-07-24,Jefferies,12 month,5,buy,9.6
+357,357,357,-0.0,D,-2147483648,2012-06-07,EVA Dimensions,Not Provided,1,underweight,-0.0
+358,358,358,-0.0,N,-2147483648,2012-04-25,BOE Securities,12 month,5,buy,9.7
+359,359,359,-0.0,M,-2147483648,2012-08-14,Evercore ISI,12 month,5,overweight,11.52
+360,360,360,-0.0,U,-2147483648,2012-08-11,EVA Dimensions,Not Provided,3,hold,-0.0
+361,361,361,-0.0,M,-2147483648,2012-07-30,Mizuho Securities USA Inc,12 month,5,buy,9.6
+362,362,362,-0.0,M,-2147483648,2012-07-25,Noble Financial Group,12 month,5,buy,10.56
+363,363,363,-0.0,M,-2147483648,2012-07-25,Susquehanna Financial,12 month,4,Positive,10.56
+364,364,364,-0.0,M,-2147483648,2012-07-25,Northland Securities Inc,12 month,5,outperform,11.04
+365,365,365,-0.0,M,-2147483648,2012-07-24,Jefferies,12 month,5,buy,9.6
+366,366,366,-0.0,N,-2147483648,2012-04-25,BOE Securities,12 month,5,buy,9.7
+367,367,367,-0.0,M,-2147483648,2012-09-26,Evercore ISI,12 month,5,overweight,11.52
+368,368,368,-0.0,M,-2147483648,2012-09-11,BOE Securities,12 month,5,buy,10.56
+369,369,369,-0.0,U,-2147483648,2012-08-11,EVA Dimensions,Not Provided,3,hold,-0.0
+370,370,370,-0.0,M,-2147483648,2012-07-30,Mizuho Securities USA Inc,12 month,5,buy,9.6
+371,371,371,-0.0,M,-2147483648,2012-07-25,Noble Financial Group,12 month,5,buy,10.56
+372,372,372,-0.0,M,-2147483648,2012-07-25,Susquehanna Financial,12 month,4,Positive,10.56
+373,373,373,-0.0,M,-2147483648,2012-07-25,Northland Securities Inc,12 month,5,outperform,11.04
+374,374,374,-0.0,M,-2147483648,2012-07-24,Jefferies,12 month,5,buy,9.6
+375,375,375,-0.0,M,-2147483648,2012-11-01,Evercore ISI,12 month,5,overweight,10.56
+376,376,376,-0.0,M,-2147483648,2012-10-31,Susquehanna Financial,12 month,4,Positive,10.56
+377,377,377,-0.0,M,-2147483648,2012-10-24,Mizuho Securities USA Inc,12 month,5,buy,10.08
+378,378,378,-0.0,M,-2147483648,2012-10-24,Noble Financial Group,12 month,5,buy,10.56
+379,379,379,-0.0,M,-2147483648,2012-10-24,Northland Securities Inc,Not Provided,5,outperform,9.6
+380,380,380,-0.0,M,-2147483648,2012-10-23,Jefferies,12 month,5,buy,9.6
+381,381,381,-0.0,M,-2147483648,2012-09-11,BOE Securities,12 month,5,buy,10.56
+382,382,382,-0.0,U,-2147483648,2012-08-11,EVA Dimensions,Not Provided,3,hold,-0.0
+383,383,383,-0.0,M,-2147483648,2012-11-28,Evercore ISI,12 month,5,overweight,10.56
+384,384,384,-0.0,M,-2147483648,2012-11-20,Jefferies,12 month,5,buy,9.6
+385,385,385,-0.0,M,-2147483648,2012-11-02,Susquehanna Financial,12 month,4,Positive,10.56
+386,386,386,-0.0,M,-2147483648,2012-10-24,Mizuho Securities USA Inc,12 month,5,buy,10.08
+387,387,387,-0.0,M,-2147483648,2012-10-24,Noble Financial Group,12 month,5,buy,10.56
+388,388,388,-0.0,M,-2147483648,2012-10-24,Northland Securities Inc,Not Provided,5,outperform,9.6
+389,389,389,-0.0,M,-2147483648,2012-09-11,BOE Securities,12 month,5,buy,10.56
+390,390,390,-0.0,U,-2147483648,2012-08-11,EVA Dimensions,Not Provided,3,hold,-0.0
+391,391,391,-0.0,D,-2147483648,2012-12-21,Mizuho Securities USA Inc,12 month,3,neutral,10.56
+392,392,392,-0.0,D,-2147483648,2012-12-21,Susquehanna Financial,12 month,3,neutral,10.56
+393,393,393,-0.0,D,-2147483648,2012-12-19,Northland Securities Inc,12 month,3,market perform,10.56
+394,394,394,-0.0,D,-2147483648,2012-12-18,Noble Financial Group,12 month,3,hold,10.56
+395,395,395,-0.0,M,-2147483648,2012-12-17,Jefferies,12 month,5,buy,10.56
+396,396,396,-0.0,M,-2147483648,2012-12-12,Evercore ISI,12 month,5,overweight,11.52
+397,397,397,-0.0,U,-2147483648,2012-08-11,EVA Dimensions,Not Provided,3,hold,-0.0
+398,398,398,-0.0,M,-2147483648,2013-02-01,Susquehanna Financial,12 month,3,neutral,11.52
+399,399,399,-0.0,M,-2147483648,2013-01-30,Evercore ISI,12 month,5,overweight,14.4
+400,400,400,-0.0,U,-2147483648,2013-01-28,Noble Financial Group,12 month,5,buy,12.96
+401,401,401,-0.0,M,-2147483648,2013-01-25,Jefferies,12 month,5,buy,11.52
+402,402,402,-0.0,M,-2147483648,2013-01-23,Northland Securities Inc,12 month,3,market perform,10.56
+403,403,403,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0
+404,404,404,-0.0,M,-2147483648,2013-03-01,Spin-Off Research,Not Provided,3,hold,11.52
+405,405,405,-0.0,M,-2147483648,2013-02-27,Evercore ISI,12 month,5,overweight,14.4
+406,406,406,-0.0,M,-2147483648,2013-02-01,Susquehanna Financial,12 month,3,neutral,11.52
+407,407,407,-0.0,U,-2147483648,2013-01-28,Noble Financial Group,12 month,5,buy,12.96
+408,408,408,-0.0,M,-2147483648,2013-01-25,Jefferies,12 month,5,buy,11.52
+409,409,409,-0.0,M,-2147483648,2013-01-23,Northland Securities Inc,12 month,3,market perform,10.56
+410,410,410,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0
+411,411,411,-0.0,M,-2147483648,2013-03-19,Evercore ISI,Not Provided,5,overweight,14.4
+412,412,412,-0.0,M,-2147483648,2013-03-08,Spin-Off Research,Not Provided,3,hold,11.52
+413,413,413,-0.0,M,-2147483648,2013-02-01,Susquehanna Financial,12 month,3,neutral,11.52
+414,414,414,-0.0,U,-2147483648,2013-01-28,Noble Financial Group,12 month,5,buy,12.96
+415,415,415,-0.0,M,-2147483648,2013-01-25,Jefferies,12 month,5,buy,11.52
+416,416,416,-0.0,M,-2147483648,2013-01-23,Northland Securities Inc,12 month,3,market perform,10.56
+417,417,417,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0
+418,418,418,-0.0,M,-2147483648,2013-05-01,Evercore ISI,12 month,5,overweight,14.4
+419,419,419,-0.0,M,-2147483648,2013-04-04,Jefferies,12 month,5,buy,11.52
+420,420,420,-0.0,M,-2147483648,2013-04-04,Noble Financial Group,12 month,5,buy,12.96
+421,421,421,-0.0,M,-2147483648,2013-04-04,Susquehanna Financial,12 month,3,neutral,10.56
+422,422,422,-0.0,M,-2147483648,2013-04-04,Northland Securities Inc,12 month,3,market perform,10.56
+423,423,423,-0.0,M,-2147483648,2013-03-08,Spin-Off Research,Not Provided,3,hold,11.52
+424,424,424,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0
+425,425,425,-0.0,M,-2147483648,2013-05-23,Spin-Off Research,Not Provided,3,hold,11.52
+426,426,426,-0.0,M,-2147483648,2013-05-22,Jefferies,12 month,5,buy,12.48
+427,427,427,-0.0,M,-2147483648,2013-05-22,Evercore ISI,12 month,5,overweight,12.96
+428,428,428,-0.0,M,-2147483648,2013-05-22,Noble Financial Group,12 month,5,buy,12.96
+429,429,429,-0.0,M,-2147483648,2013-05-22,Susquehanna Financial,12 month,3,neutral,10.56
+430,430,430,-0.0,M,-2147483648,2013-05-22,Northland Securities Inc,12 month,3,market perform,10.56
+431,431,431,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0
+432,432,432,-0.0,M,-2147483648,2013-06-27,Evercore ISI,12 month,5,overweight,12.96
+433,433,433,-0.0,M,-2147483648,2013-05-23,Spin-Off Research,Not Provided,3,hold,11.52
+434,434,434,-0.0,M,-2147483648,2013-05-22,Jefferies,12 month,5,buy,12.48
+435,435,435,-0.0,M,-2147483648,2013-05-22,Noble Financial Group,12 month,5,buy,12.96
+436,436,436,-0.0,M,-2147483648,2013-05-22,Susquehanna Financial,12 month,3,neutral,10.56
+437,437,437,-0.0,M,-2147483648,2013-05-22,Northland Securities Inc,12 month,3,market perform,10.56
+438,438,438,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0
+439,439,439,-0.0,M,-2147483648,2013-07-26,Evercore ISI,12 month,5,overweight,12.48
+440,440,440,-0.0,M,-2147483648,2013-07-24,Noble Financial Group,12 month,5,buy,12.96
+441,441,441,-0.0,U,-2147483648,2013-07-24,Spin-Off Research,12 month,5,buy,12.0
+442,442,442,-0.0,M,-2147483648,2013-07-24,Susquehanna Financial,12 month,3,neutral,12.0
+443,443,443,-0.0,M,-2147483648,2013-07-24,Northland Securities Inc,12 month,3,market perform,10.56
+444,444,444,-0.0,M,-2147483648,2013-07-23,Jefferies,12 month,5,buy,12.48
+445,445,445,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0
+446,446,446,-0.0,M,-2147483648,2013-08-20,Evercore ISI,12 month,5,overweight,12.48
+447,447,447,-0.0,M,-2147483648,2013-07-24,Noble Financial Group,12 month,5,buy,12.96
+448,448,448,-0.0,U,-2147483648,2013-07-24,Spin-Off Research,12 month,5,buy,12.0
+449,449,449,-0.0,M,-2147483648,2013-07-24,Susquehanna Financial,12 month,3,neutral,12.0
+450,450,450,-0.0,M,-2147483648,2013-07-24,Northland Securities Inc,12 month,3,market perform,10.56
+451,451,451,-0.0,M,-2147483648,2013-07-23,Jefferies,12 month,5,buy,12.48
+452,452,452,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0
+453,453,453,-0.0,M,-2147483648,2013-09-30,Jefferies,12 month,5,buy,12.48
+454,454,454,-0.0,M,-2147483648,2013-09-27,Spin-Off Research,Not Provided,5,buy,12.0
+455,455,455,-0.0,M,-2147483648,2013-09-18,Susquehanna Financial,12 month,3,neutral,12.0
+456,456,456,-0.0,M,-2147483648,2013-09-11,Evercore ISI,Not Provided,-2147483648,suspended coverage,-0.0
+457,457,457,-0.0,M,-2147483648,2013-07-24,Noble Financial Group,12 month,5,buy,12.96
+458,458,458,-0.0,M,-2147483648,2013-07-24,Northland Securities Inc,12 month,3,market perform,10.56
+459,459,459,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0
+460,460,460,-0.0,M,-2147483648,2013-10-30,Evercore ISI,12 month,5,overweight,12.48
+461,461,461,-0.0,M,-2147483648,2013-10-25,Jefferies,12 month,5,buy,12.48
+462,462,462,-0.0,M,-2147483648,2013-10-25,Noble Financial Group,12 month,5,buy,12.96
+463,463,463,-0.0,M,-2147483648,2013-10-25,Spin-Off Research,Not Provided,5,buy,12.0
+464,464,464,-0.0,M,-2147483648,2013-10-25,Susquehanna Financial,12 month,3,neutral,12.0
+465,465,465,-0.0,M,-2147483648,2013-10-25,Northland Securities Inc,12 month,3,market perform,10.56
+466,466,466,-0.0,M,-2147483648,2013-01-15,EVA Dimensions,Not Provided,3,hold,-0.0
+467,467,467,-0.0,M,-2147483648,2013-11-20,Evercore ISI,12 month,5,overweight,12.48
+468,468,468,-0.0,M,-2147483648,2013-11-08,Spin-Off Research,Not Provided,5,buy,12.0
+469,469,469,-0.0,U,-2147483648,2013-11-05,EVA Dimensions,Not Provided,5,overweight,-0.0
+470,470,470,-0.0,M,-2147483648,2013-10-25,Jefferies,12 month,5,buy,12.48
+471,471,471,-0.0,M,-2147483648,2013-10-25,Noble Financial Group,12 month,5,buy,12.96
+472,472,472,-0.0,M,-2147483648,2013-10-25,Susquehanna Financial,12 month,3,neutral,12.0
+473,473,473,-0.0,M,-2147483648,2013-10-25,Northland Securities Inc,12 month,3,market perform,10.56
+474,474,474,-0.0,M,-2147483648,2013-12-05,Evercore ISI,12 month,5,overweight,12.48
+475,475,475,-0.0,M,-2147483648,2013-11-08,Spin-Off Research,Not Provided,5,buy,12.0
+476,476,476,-0.0,U,-2147483648,2013-11-05,EVA Dimensions,Not Provided,5,overweight,-0.0
+477,477,477,-0.0,M,-2147483648,2013-10-25,Jefferies,12 month,5,buy,12.48
+478,478,478,-0.0,M,-2147483648,2013-10-25,Noble Financial Group,12 month,5,buy,12.96
+479,479,479,-0.0,M,-2147483648,2013-10-25,Susquehanna Financial,12 month,3,neutral,12.0
+480,480,480,-0.0,M,-2147483648,2014-01-30,Evercore ISI,12 month,5,overweight,12.48
+481,481,481,-0.0,M,-2147483648,2014-01-27,Noble Financial Group,12 month,5,buy,12.96
+482,482,482,-0.0,M,-2147483648,2014-01-27,Spin-Off Research,Not Provided,5,buy,12.0
+483,483,483,-0.0,M,-2147483648,2014-01-24,Jefferies,12 month,5,buy,12.48
+484,484,484,-0.0,M,-2147483648,2014-01-24,Susquehanna Financial,12 month,3,neutral,11.52
+485,485,485,-0.0,U,-2147483648,2013-11-05,EVA Dimensions,Not Provided,5,overweight,-0.0
+486,486,486,-0.0,M,-2147483648,2014-02-28,Jefferies,12 month,5,buy,12.48
+487,487,487,-0.0,M,-2147483648,2014-02-28,Evercore ISI,12 month,5,overweight,12.0
+488,488,488,-0.0,M,-2147483648,2014-01-27,Noble Financial Group,12 month,5,buy,12.96
+489,489,489,-0.0,M,-2147483648,2014-01-27,Spin-Off Research,Not Provided,5,buy,12.0
+490,490,490,-0.0,M,-2147483648,2014-01-24,Susquehanna Financial,12 month,3,neutral,11.52
+491,491,491,-0.0,U,-2147483648,2013-11-05,EVA Dimensions,Not Provided,5,overweight,-0.0
+492,492,492,-0.0,M,-2147483648,2014-04-01,EVA Dimensions,Not Provided,5,overweight,-0.0
+493,493,493,-0.0,M,-2147483648,2014-03-26,Evercore ISI,12 month,5,overweight,12.0
+494,494,494,-0.0,M,-2147483648,2014-02-28,Jefferies,12 month,5,buy,12.48
+495,495,495,-0.0,M,-2147483648,2014-01-27,Noble Financial Group,12 month,5,buy,12.96
+496,496,496,-0.0,M,-2147483648,2014-01-27,Spin-Off Research,Not Provided,5,buy,12.0
+497,497,497,-0.0,M,-2147483648,2014-01-24,Susquehanna Financial,12 month,3,neutral,11.52
+498,498,498,-0.0,M,-2147483648,2014-04-17,Evercore ISI,12 month,5,overweight,12.0
+499,499,499,-0.0,M,-2147483648,2014-04-10,EVA Dimensions,Not Provided,5,overweight,-0.0
+500,500,500,-0.0,M,-2147483648,2014-02-28,Jefferies,12 month,5,buy,12.48
+501,501,501,-0.0,M,-2147483648,2014-01-27,Noble Financial Group,12 month,5,buy,12.96
+502,502,502,-0.0,M,-2147483648,2014-01-27,Spin-Off Research,Not Provided,5,buy,12.0
+503,503,503,-0.0,M,-2147483648,2014-01-24,Susquehanna Financial,12 month,3,neutral,11.52
+504,504,504,-0.0,M,-2147483648,2014-05-27,Susquehanna Financial,12 month,3,neutral,10.56
+505,505,505,-0.0,M,-2147483648,2014-05-23,Noble Financial Group,12 month,5,buy,12.0
+506,506,506,-0.0,U,-2147483648,2014-05-23,EVA Dimensions,Not Provided,5,buy,-0.0
+507,507,507,-0.0,M,-2147483648,2014-05-22,Evercore ISI,12 month,5,overweight,12.0
+508,508,508,-0.0,M,-2147483648,2014-02-28,Jefferies,12 month,5,buy,12.48
+509,509,509,-0.0,M,-2147483648,2014-01-27,Spin-Off Research,Not Provided,5,buy,12.0
+510,510,510,-0.0,M,-2147483648,2014-06-29,Evercore ISI,Not Provided,5,overweight,12.0
+511,511,511,-0.0,D,-2147483648,2014-06-09,EVA Dimensions,Not Provided,3,hold,-0.0
+512,512,512,-0.0,M,-2147483648,2014-05-27,Susquehanna Financial,12 month,3,neutral,10.56
+513,513,513,-0.0,M,-2147483648,2014-05-23,Noble Financial Group,12 month,5,buy,12.0
+514,514,514,-0.0,M,-2147483648,2014-01-27,Spin-Off Research,Not Provided,5,buy,12.0
+515,515,515,-0.0,M,-2147483648,2014-07-30,Evercore ISI,12 month,5,overweight,11.04
+516,516,516,-0.0,M,-2147483648,2014-07-30,Noble Financial Group,12 month,5,buy,11.14
+517,517,517,-0.0,M,-2147483648,2014-07-30,Susquehanna Financial,12 month,3,neutral,10.56
+518,518,518,-0.0,D,-2147483648,2014-06-09,EVA Dimensions,Not Provided,3,hold,-0.0
+519,519,519,-0.0,M,-2147483648,2014-01-27,Spin-Off Research,Not Provided,5,buy,12.0
+520,520,520,-0.0,U,-2147483648,2014-08-06,EVA Dimensions,Not Provided,5,overweight,-0.0
+521,521,521,-0.0,M,-2147483648,2014-07-30,Evercore ISI,12 month,5,overweight,11.04
+522,522,522,-0.0,M,-2147483648,2014-07-30,Noble Financial Group,12 month,5,buy,11.14
+523,523,523,-0.0,M,-2147483648,2014-07-30,Susquehanna Financial,12 month,3,neutral,10.56
+524,524,524,-0.0,M,-2147483648,2014-01-27,Spin-Off Research,Not Provided,5,buy,12.0
+525,525,525,-0.0,M,-2147483648,2014-09-25,Evercore ISI,Not Provided,3,equalweight,10.56
+526,526,526,-0.0,M,-2147483648,2014-09-03,Susquehanna Financial,12 month,3,neutral,10.56
+527,527,527,-0.0,D,-2147483648,2014-09-03,EVA Dimensions,Not Provided,3,hold,-0.0
+528,528,528,-0.0,M,-2147483648,2014-09-02,BOE Securities,Not Provided,3,hold,9.6
+529,529,529,-0.0,M,-2147483648,2014-01-27,Spin-Off Research,Not Provided,5,buy,12.0
+530,530,530,-0.0,M,-2147483648,2014-10-30,Evercore ISI,Not Provided,3,hold,10.25
+531,531,531,-0.0,M,-2147483648,2014-10-17,Spin-Off Research,12 month,3,hold,10.56
+532,532,532,-0.0,M,-2147483648,2014-09-03,Susquehanna Financial,12 month,3,neutral,10.56
+533,533,533,-0.0,D,-2147483648,2014-09-03,EVA Dimensions,Not Provided,3,hold,-0.0
+534,534,534,-0.0,M,-2147483648,2014-09-02,BOE Securities,Not Provided,3,hold,9.6
+535,535,535,-0.0,M,-2147483648,2014-11-30,Evercore ISI,12 month,3,hold,10.25
+536,536,536,-0.0,M,-2147483648,2014-11-04,Spin-Off Research,Not Provided,3,hold,10.75
+537,537,537,-0.0,M,-2147483648,2014-09-03,Susquehanna Financial,12 month,3,neutral,10.56
+538,538,538,-0.0,D,-2147483648,2014-09-03,EVA Dimensions,Not Provided,3,hold,-0.0
+539,539,539,-0.0,M,-2147483648,2014-09-02,BOE Securities,Not Provided,3,hold,9.6
+540,540,540,-0.0,M,-2147483648,2014-11-04,Spin-Off Research,Not Provided,3,hold,10.75
+541,541,541,-0.0,D,-2147483648,2014-09-03,EVA Dimensions,Not Provided,3,hold,-0.0

@@ -1,0 +1,579 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2012-10-01,Spin-Off Research,Not Provided,5,buy,41.5
+2012-09-20,Barclays,Not Provided,3,equalweight,38.0
+2012-10-29,Barclays,Not Provided,3,equalweight,38.0
+2012-10-25,Morgan Stanley,12 month,3,Equalwt/In-Line,40.0
+2012-10-17,Credit Suisse,Not Provided,5,outperform,45.0
+2012-10-15,Argus Research Corp,Not Provided,3,hold,-0.0
+2012-10-03,Spin-Off Research,Not Provided,5,buy,41.5
+2012-10-02,Imperial Capital LLC,12 month,5,outperform,41.0
+2012-10-02,EVA Dimensions,Not Provided,3,hold,-0.0
+2012-11-29,Morgan Stanley,12 month,3,Equalwt/In-Line,46.0
+2012-11-29,Credit Suisse,Not Provided,5,outperform,50.0
+2012-11-29,Spin-Off Research,Not Provided,3,hold,47.0
+2012-11-28,Imperial Capital LLC,12 month,5,outperform,48.0
+2012-11-28,Barclays,Not Provided,3,equalweight,43.0
+2012-11-27,Oppenheimer & Co,18 month,5,outperform,50.0
+2012-10-15,Argus Research Corp,Not Provided,3,hold,-0.0
+2012-10-02,EVA Dimensions,Not Provided,3,hold,-0.0
+2012-12-19,EVA Dimensions,Not Provided,1,underweight,-0.0
+2012-12-07,Argus Research Corp,Not Provided,3,hold,-0.0
+2012-11-29,Morgan Stanley,12 month,3,Equalwt/In-Line,46.0
+2012-11-29,Credit Suisse,Not Provided,5,outperform,50.0
+2012-11-29,Spin-Off Research,Not Provided,3,hold,47.0
+2012-11-28,Imperial Capital LLC,12 month,5,outperform,48.0
+2012-11-28,Barclays,Not Provided,3,equalweight,43.0
+2012-11-27,Oppenheimer & Co,18 month,5,outperform,50.0
+2013-02-01,Morgan Stanley,12 month,3,Equalwt/In-Line,50.0
+2013-01-31,William Blair & Co,12 month,5,outperform,60.0
+2013-01-31,Stifel,12 month,5,buy,56.0
+2013-01-31,Imperial Capital LLC,12 month,5,outperform,54.0
+2013-01-31,Spin-Off Research,Not Provided,5,buy,53.5
+2013-01-30,Credit Suisse,Not Provided,5,outperform,55.0
+2013-01-30,Oppenheimer & Co,12 month,5,outperform,55.0
+2013-01-30,Barclays,Not Provided,3,equalweight,47.0
+2013-01-17,EVA Dimensions,Not Provided,3,hold,-0.0
+2012-12-07,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-02-25,Oppenheimer & Co,12 month,5,outperform,55.0
+2013-02-21,Morgan Stanley,12 month,3,Equalwt/In-Line,50.0
+2013-01-31,William Blair & Co,12 month,5,outperform,60.0
+2013-01-31,Stifel,12 month,5,buy,56.0
+2013-01-31,Imperial Capital LLC,12 month,5,outperform,54.0
+2013-01-31,Spin-Off Research,Not Provided,5,buy,53.5
+2013-01-30,Credit Suisse,Not Provided,5,outperform,55.0
+2013-01-30,Barclays,Not Provided,3,equalweight,47.0
+2013-01-17,EVA Dimensions,Not Provided,3,hold,-0.0
+2012-12-07,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-04-01,Stifel,12 month,5,buy,56.0
+2013-03-28,William Blair & Co,12 month,5,outperform,60.0
+2013-03-25,Credit Suisse,Not Provided,5,outperform,55.0
+2013-03-20,Imperial Capital LLC,12 month,5,outperform,54.0
+2013-03-19,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-03-08,Spin-Off Research,Not Provided,5,buy,53.5
+2013-02-25,Oppenheimer & Co,12 month,5,outperform,55.0
+2013-02-21,Morgan Stanley,12 month,3,Equalwt/In-Line,50.0
+2013-01-30,Barclays,Not Provided,3,equalweight,47.0
+2013-01-17,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-05-01,Morgan Stanley,12 month,1,Underwt/In-Line,48.0
+2013-05-01,Credit Suisse,Not Provided,5,outperform,55.0
+2013-05-01,Stifel,12 month,5,buy,56.0
+2013-05-01,Imperial Capital LLC,12 month,5,outperform,53.0
+2013-05-01,Oppenheimer & Co,12 month,5,outperform,49.0
+2013-05-01,Barclays,Not Provided,3,equalweight,44.0
+2013-03-28,William Blair & Co,12 month,5,outperform,60.0
+2013-03-19,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-03-08,Spin-Off Research,Not Provided,5,buy,53.5
+2013-01-17,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-05-22,William Blair & Co,12 month,5,outperform,59.0
+2013-05-06,Morgan Stanley,12 month,3,Equalwt/In-Line,47.0
+2013-05-06,Imperial Capital LLC,12 month,5,outperform,53.0
+2013-05-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-05-02,Credit Suisse,Not Provided,5,outperform,55.0
+2013-05-02,Spin-Off Research,12 month,5,buy,54.5
+2013-05-01,Stifel,12 month,5,buy,56.0
+2013-05-01,Oppenheimer & Co,12 month,5,outperform,49.0
+2013-05-01,Barclays,Not Provided,3,equalweight,44.0
+2013-03-19,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-06-21,Imperial Capital LLC,12 month,5,outperform,53.0
+2013-06-17,Stifel,12 month,5,buy,56.0
+2013-06-14,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-06-14,William Blair & Co,12 month,5,outperform,59.0
+2013-06-03,Credit Suisse,Not Provided,5,outperform,55.0
+2013-05-06,Morgan Stanley,12 month,3,Equalwt/In-Line,47.0
+2013-05-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-05-02,Spin-Off Research,12 month,5,buy,54.5
+2013-05-01,Oppenheimer & Co,12 month,5,outperform,49.0
+2013-05-01,Barclays,Not Provided,3,equalweight,44.0
+2013-08-01,William Blair & Co,12 month,5,outperform,59.0
+2013-08-01,Imperial Capital LLC,12 month,5,outperform,53.0
+2013-08-01,Spin-Off Research,12 month,5,buy,48.5
+2013-07-31,Morgan Stanley,12 month,3,Equalwt/In-Line,46.0
+2013-07-31,Credit Suisse,Not Provided,5,outperform,55.0
+2013-07-31,Stifel,12 month,5,buy,56.0
+2013-07-31,Oppenheimer & Co,18 month,5,outperform,49.0
+2013-07-31,Barclays,Not Provided,3,equalweight,44.0
+2013-06-14,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-05-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-08-09,William Blair & Co,12 month,5,outperform,59.0
+2013-08-08,Morgan Stanley,12 month,3,Equalwt/In-Line,43.0
+2013-08-08,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-08-02,Credit Suisse,Not Provided,5,outperform,55.0
+2013-08-01,Imperial Capital LLC,12 month,5,outperform,53.0
+2013-08-01,Spin-Off Research,12 month,5,buy,48.5
+2013-07-31,Stifel,12 month,5,buy,56.0
+2013-07-31,Oppenheimer & Co,18 month,5,outperform,49.0
+2013-07-31,Barclays,Not Provided,3,equalweight,44.0
+2013-05-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-09-23,Morgan Stanley,12 month,3,Equalwt/In-Line,43.0
+2013-09-23,Stifel,12 month,5,buy,56.0
+2013-09-18,Imperial Capital LLC,12 month,5,outperform,53.0
+2013-08-09,William Blair & Co,12 month,5,outperform,59.0
+2013-08-08,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-08-02,Credit Suisse,Not Provided,5,outperform,55.0
+2013-08-01,Spin-Off Research,12 month,5,buy,48.5
+2013-07-31,Oppenheimer & Co,18 month,5,outperform,49.0
+2013-07-31,Barclays,Not Provided,3,equalweight,44.0
+2013-05-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-11-01,Imperial Capital LLC,12 month,5,outperform,53.0
+2013-10-21,William Blair & Co,12 month,5,outperform,59.0
+2013-10-07,Credit Suisse,Not Provided,5,outperform,55.0
+2013-10-07,Barclays,Not Provided,3,equalweight,43.0
+2013-09-23,Morgan Stanley,12 month,3,Equalwt/In-Line,43.0
+2013-09-23,Stifel,12 month,5,buy,56.0
+2013-08-08,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-08-01,Spin-Off Research,12 month,5,buy,48.5
+2013-07-31,Oppenheimer & Co,18 month,5,outperform,49.0
+2013-05-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2013-11-25,Credit Suisse,Not Provided,5,outperform,55.0
+2013-11-25,William Blair & Co,Not Provided,5,outperform,68.0
+2013-11-25,Stifel,12 month,5,buy,55.0
+2013-11-25,Imperial Capital LLC,12 month,5,outperform,53.0
+2013-11-22,Spin-Off Research,12 month,5,buy,49.25
+2013-11-21,Morgan Stanley,12 month,3,Equalwt/In-Line,43.0
+2013-11-21,R.F. Lafferty & Co,12 month,5,buy,55.0
+2013-11-21,EVA Dimensions,Not Provided,1,underweight,-0.0
+2013-11-20,Oppenheimer & Co,18 month,5,outperform,49.0
+2013-11-20,Barclays,Not Provided,3,equalweight,45.0
+2013-08-08,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-12-16,Imperial Capital LLC,12 month,5,outperform,53.0
+2013-12-10,R.F. Lafferty & Co,12 month,5,buy,55.0
+2013-12-09,Morgan Stanley,12 month,3,Equalwt/In-Line,43.0
+2013-12-09,Stifel,12 month,5,buy,55.0
+2013-12-09,Barclays,Not Provided,3,equalweight,45.0
+2013-12-08,William Blair & Co,Not Provided,5,outperform,-0.0
+2013-12-06,Credit Suisse,Not Provided,5,outperform,55.0
+2013-12-06,Oppenheimer & Co,12 month,5,outperform,44.0
+2013-12-05,Spin-Off Research,Not Provided,5,buy,49.25
+2013-11-21,EVA Dimensions,Not Provided,1,underweight,-0.0
+2013-08-08,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-01-31,Morgan Stanley,12 month,3,Equalwt/In-Line,35.0
+2014-01-31,R.F. Lafferty & Co,12 month,5,buy,39.0
+2014-01-31,EVA Dimensions,Not Provided,1,underweight,-0.0
+2014-01-30,Stifel,Not Provided,3,hold,-0.0
+2014-01-30,Imperial Capital LLC,12 month,5,outperform,50.0
+2014-01-30,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2014-01-30,Barclays,Not Provided,3,equalweight,37.0
+2014-01-15,Credit Suisse,Not Provided,5,outperform,55.0
+2014-01-02,Argus Research Corp,Not Provided,3,hold,-0.0
+2013-12-08,William Blair & Co,Not Provided,5,outperform,-0.0
+2013-12-05,Spin-Off Research,Not Provided,5,buy,49.25
+2014-02-25,William Blair & Co,Not Provided,5,outperform,59.0
+2014-02-17,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-02-11,Imperial Capital LLC,12 month,5,outperform,46.0
+2014-02-10,Credit Suisse,Not Provided,5,outperform,42.0
+2014-02-03,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-02-03,Spin-Off Research,12 month,5,buy,40.5
+2014-01-31,Morgan Stanley,12 month,3,Equalwt/In-Line,35.0
+2014-01-31,R.F. Lafferty & Co,12 month,5,buy,39.0
+2014-01-31,EVA Dimensions,Not Provided,1,underweight,-0.0
+2014-01-30,Stifel,Not Provided,3,hold,-0.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2014-01-30,Barclays,Not Provided,3,equalweight,37.0
+2014-04-01,William Blair & Co,12 month,5,outperform,59.0
+2014-04-01,EVA Dimensions,Not Provided,1,underweight,-0.0
+2014-03-25,Imperial Capital LLC,12 month,5,outperform,46.0
+2014-03-20,Morgan Stanley,12 month,3,Equalwt/In-Line,35.0
+2014-02-17,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-02-10,Credit Suisse,Not Provided,5,outperform,42.0
+2014-02-03,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-02-03,Spin-Off Research,12 month,5,buy,40.5
+2014-01-31,R.F. Lafferty & Co,12 month,5,buy,39.0
+2014-01-30,Stifel,Not Provided,3,hold,-0.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2014-01-30,Barclays,Not Provided,3,equalweight,37.0
+2014-05-01,R.F. Lafferty & Co,12 month,5,buy,38.0
+2014-05-01,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-05-01,Barclays,Not Provided,3,equalweight,37.0
+2014-04-30,Morgan Stanley,12 month,3,Equalwt/In-Line,33.0
+2014-04-30,William Blair & Co,12 month,5,outperform,59.0
+2014-04-30,Stifel,Not Provided,3,hold,-0.0
+2014-04-30,Imperial Capital LLC,12 month,5,outperform,46.0
+2014-04-30,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-04-29,EVA Dimensions,Not Provided,1,underweight,-0.0
+2014-04-14,Credit Suisse,Not Provided,5,outperform,42.0
+2014-02-03,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-02-03,Spin-Off Research,12 month,5,buy,40.5
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2014-05-27,William Blair & Co,12 month,5,outperform,59.0
+2014-05-27,Stifel,Not Provided,3,hold,-0.0
+2014-05-27,Imperial Capital LLC,Not Provided,5,outperform,43.0
+2014-05-15,Barclays,Not Provided,3,equalweight,37.0
+2014-05-13,Morgan Stanley,12 month,3,Equalwt/In-Line,33.0
+2014-05-12,Credit Suisse,Not Provided,5,outperform,43.0
+2014-05-02,Spin-Off Research,12 month,5,buy,35.0
+2014-05-02,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-05-01,R.F. Lafferty & Co,12 month,5,buy,38.0
+2014-04-30,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-04-29,EVA Dimensions,Not Provided,1,underweight,-0.0
+2014-02-03,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2014-07-01,William Blair & Co,12 month,5,outperform,59.0
+2014-06-30,Imperial Capital LLC,Not Provided,5,outperform,43.0
+2014-06-27,M Science,Not Provided,-2147483648,no rating system,-0.0
+2014-06-18,EVA Dimensions,Not Provided,1,underweight,-0.0
+2014-06-12,Stifel,Not Provided,3,hold,-0.0
+2014-05-15,Barclays,Not Provided,3,equalweight,37.0
+2014-05-13,Morgan Stanley,12 month,3,Equalwt/In-Line,33.0
+2014-05-12,Credit Suisse,Not Provided,5,outperform,43.0
+2014-05-02,Spin-Off Research,12 month,5,buy,35.0
+2014-05-02,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-05-01,R.F. Lafferty & Co,12 month,5,buy,38.0
+2014-04-30,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-02-03,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2014-08-01,EVA Dimensions,Not Provided,1,underweight,-0.0
+2014-07-31,Credit Suisse,Not Provided,5,outperform,43.0
+2014-07-31,Imperial Capital LLC,12 month,5,outperform,43.0
+2014-07-31,R.F. Lafferty & Co,12 month,5,buy,44.0
+2014-07-30,Morgan Stanley,12 month,3,Equalwt/In-Line,33.0
+2014-07-30,William Blair & Co,12 month,5,outperform,60.0
+2014-07-30,Stifel,Not Provided,3,hold,-0.0
+2014-07-30,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-07-30,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-07-30,Barclays,Not Provided,3,equalweight,37.0
+2014-07-25,M Science,Not Provided,-2147483648,no rating system,-0.0
+2014-05-02,Spin-Off Research,12 month,5,buy,35.0
+2014-02-03,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2014-08-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-08-05,William Blair & Co,12 month,5,outperform,60.0
+2014-08-04,Morgan Stanley,12 month,3,Equalwt/In-Line,35.0
+2014-07-31,Credit Suisse,Not Provided,5,outperform,43.0
+2014-07-31,Imperial Capital LLC,12 month,5,outperform,43.0
+2014-07-31,R.F. Lafferty & Co,12 month,5,buy,44.0
+2014-07-30,Stifel,Not Provided,3,hold,-0.0
+2014-07-30,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-07-30,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-07-30,Barclays,Not Provided,3,equalweight,37.0
+2014-07-25,M Science,Not Provided,-2147483648,no rating system,-0.0
+2014-05-02,Spin-Off Research,12 month,5,buy,35.0
+2014-02-03,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2014-09-29,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-09-26,M Science,Not Provided,-2147483648,no rating system,-0.0
+2014-09-24,Imperial Capital LLC,Not Provided,5,outperform,43.0
+2014-09-23,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-09-18,William Blair & Co,12 month,5,outperform,60.0
+2014-09-10,Stifel,Not Provided,3,hold,-0.0
+2014-08-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-08-04,Morgan Stanley,12 month,3,Equalwt/In-Line,35.0
+2014-07-31,Credit Suisse,Not Provided,5,outperform,43.0
+2014-07-31,R.F. Lafferty & Co,12 month,5,buy,44.0
+2014-07-30,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-07-30,Barclays,Not Provided,3,equalweight,37.0
+2014-05-02,Spin-Off Research,12 month,5,buy,35.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2014-10-27,Imperial Capital LLC,Not Provided,5,outperform,43.0
+2014-10-07,Credit Suisse,Not Provided,5,outperform,43.0
+2014-10-06,Barclays,Not Provided,3,equalweight,36.0
+2014-09-29,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-09-26,M Science,Not Provided,-2147483648,no rating system,-0.0
+2014-09-23,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-09-18,William Blair & Co,12 month,5,outperform,60.0
+2014-09-10,Stifel,Not Provided,3,hold,-0.0
+2014-08-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-08-04,Morgan Stanley,12 month,3,Equalwt/In-Line,35.0
+2014-07-31,R.F. Lafferty & Co,12 month,5,buy,44.0
+2014-07-30,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-05-02,Spin-Off Research,12 month,5,buy,35.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2014-11-20,Credit Suisse,Not Provided,5,outperform,43.0
+2014-11-20,William Blair & Co,12 month,5,outperform,60.0
+2014-11-17,Morgan Stanley,12 month,3,Equalwt/In-Line,36.0
+2014-11-17,R.F. Lafferty & Co,12 month,5,buy,45.0
+2014-11-13,Barclays,Not Provided,3,equalweight,39.0
+2014-11-12,Stifel,Not Provided,3,hold,-0.0
+2014-11-12,Imperial Capital LLC,12 month,5,outperform,43.0
+2014-11-12,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-11-12,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-11-06,M Science,Not Provided,-2147483648,no rating system,-0.0
+2014-09-23,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-08-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-05-02,Spin-Off Research,12 month,5,buy,35.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2014-12-30,Imperial Capital LLC,12 month,5,outperform,43.0
+2014-12-23,R.F. Lafferty & Co,12 month,5,buy,45.0
+2014-12-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2014-12-18,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2014-12-11,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-12-09,Barclays,Not Provided,1,underweight,35.0
+2014-12-05,William Blair & Co,12 month,5,outperform,60.0
+2014-11-20,Credit Suisse,Not Provided,5,outperform,43.0
+2014-11-17,Morgan Stanley,12 month,3,Equalwt/In-Line,36.0
+2014-11-12,Stifel,Not Provided,3,hold,-0.0
+2014-11-12,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2014-08-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2015-01-29,Morgan Stanley,12 month,1,Underwt/In-Line,34.0
+2015-01-29,Imperial Capital LLC,12 month,5,outperform,43.0
+2015-01-29,R.F. Lafferty & Co,12 month,5,buy,45.0
+2015-01-28,William Blair & Co,12 month,5,outperform,60.0
+2015-01-28,Raymond James,12 month,5,outperform,39.0
+2015-01-28,Stifel,Not Provided,3,hold,-0.0
+2015-01-28,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2015-01-28,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-01-28,Barclays,Not Provided,1,underweight,35.0
+2015-01-22,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-01-15,Credit Suisse,Not Provided,5,outperform,43.0
+2015-01-13,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-08-06,EVA Dimensions,Not Provided,3,hold,-0.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2015-02-25,Imperial Capital LLC,Not Provided,5,outperform,43.0
+2015-02-17,Barclays,Not Provided,1,underweight,35.0
+2015-02-16,Oppenheimer & Co,18 month,5,outperform,45.0
+2015-02-10,EVA Dimensions,Not Provided,1,underweight,-0.0
+2015-02-06,Credit Suisse,Not Provided,5,outperform,46.0
+2015-01-29,Morgan Stanley,12 month,1,Underwt/In-Line,34.0
+2015-01-29,R.F. Lafferty & Co,12 month,5,buy,45.0
+2015-01-28,William Blair & Co,12 month,5,outperform,60.0
+2015-01-28,Raymond James,12 month,5,outperform,39.0
+2015-01-28,Stifel,Not Provided,3,hold,-0.0
+2015-01-28,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-01-22,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-01-13,Argus Research Corp,Not Provided,3,hold,-0.0
+2014-01-30,S&P Capital IQ,Not Provided,5,buy,37.0
+2015-03-24,Oppenheimer & Co,12 month,5,outperform,45.0
+2015-03-18,Raymond James,12 month,5,outperform,45.0
+2015-03-17,Imperial Capital LLC,Not Provided,5,outperform,43.0
+2015-03-17,Barclays,Not Provided,1,underweight,35.0
+2015-03-12,Morgan Stanley,12 month,1,Underwt/In-Line,34.0
+2015-03-10,Argus Research Corp,Not Provided,3,hold,-0.0
+2015-02-10,EVA Dimensions,Not Provided,1,underweight,-0.0
+2015-02-06,Credit Suisse,Not Provided,5,outperform,46.0
+2015-01-29,R.F. Lafferty & Co,12 month,5,buy,45.0
+2015-01-28,William Blair & Co,12 month,5,outperform,60.0
+2015-01-28,Stifel,Not Provided,3,hold,-0.0
+2015-01-28,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-01-22,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-05-01,Oppenheimer & Co,12 month,5,outperform,45.0
+2015-05-01,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-04-30,William Blair & Co,12 month,5,outperform,60.0
+2015-04-30,Stifel,Not Provided,3,hold,-0.0
+2015-04-30,Imperial Capital LLC,12 month,5,outperform,43.0
+2015-04-30,R.F. Lafferty & Co,12 month,5,buy,45.0
+2015-04-30,Barclays,Not Provided,1,underweight,35.0
+2015-04-29,Morgan Stanley,12 month,1,Underwt/In-Line,34.0
+2015-04-29,Raymond James,12 month,5,outperform,45.0
+2015-04-16,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-04-07,Credit Suisse,Not Provided,5,outperform,46.0
+2015-03-10,Argus Research Corp,Not Provided,3,hold,-0.0
+2015-02-10,EVA Dimensions,Not Provided,1,underweight,-0.0
+2015-06-01,Argus Research Corp,Not Provided,3,hold,-0.0
+2015-05-27,Imperial Capital LLC,12 month,5,outperform,43.0
+2015-05-26,Morgan Stanley,12 month,1,Underwt/In-Line,34.0
+2015-05-21,William Blair & Co,12 month,5,outperform,60.0
+2015-05-15,Raymond James,12 month,5,outperform,45.0
+2015-05-15,Stifel,Not Provided,3,hold,-0.0
+2015-05-14,Credit Suisse,Not Provided,5,outperform,46.0
+2015-05-14,Oppenheimer & Co,12 month,5,outperform,45.0
+2015-05-11,Barclays,Not Provided,1,underweight,35.0
+2015-05-01,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-04-30,R.F. Lafferty & Co,12 month,5,buy,45.0
+2015-04-16,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-02-10,EVA Dimensions,Not Provided,1,underweight,-0.0
+2015-06-29,Credit Suisse,Not Provided,5,outperform,46.0
+2015-06-23,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-06-11,Raymond James,12 month,5,outperform,45.0
+2015-06-10,William Blair & Co,12 month,5,outperform,60.0
+2015-06-05,Imperial Capital LLC,12 month,5,outperform,43.0
+2015-06-01,Argus Research Corp,Not Provided,3,hold,-0.0
+2015-05-26,Morgan Stanley,12 month,1,Underwt/In-Line,34.0
+2015-05-15,Stifel,Not Provided,3,hold,-0.0
+2015-05-14,Oppenheimer & Co,12 month,5,outperform,45.0
+2015-05-11,Barclays,Not Provided,1,underweight,35.0
+2015-04-30,R.F. Lafferty & Co,12 month,5,buy,45.0
+2015-04-16,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-02-10,EVA Dimensions,Not Provided,1,underweight,-0.0
+2015-07-31,Credit Suisse,Not Provided,5,outperform,46.0
+2015-07-30,Morgan Stanley,12 month,1,Underwt/In-Line,33.0
+2015-07-30,Argus Research Corp,Not Provided,3,hold,-0.0
+2015-07-30,William Blair & Co,12 month,5,outperform,60.0
+2015-07-30,Oppenheimer & Co,12 month,5,outperform,45.0
+2015-07-30,R.F. Lafferty & Co,12 month,5,buy,45.0
+2015-07-30,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-07-29,Raymond James,12 month,5,outperform,45.0
+2015-07-29,Stifel,Not Provided,3,hold,-0.0
+2015-07-29,Imperial Capital LLC,12 month,5,outperform,43.0
+2015-07-29,Barclays,Not Provided,1,underweight,35.0
+2015-04-16,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-02-10,EVA Dimensions,Not Provided,1,underweight,-0.0
+2015-08-31,R.F. Lafferty & Co,12 month,5,buy,42.0
+2015-08-14,William Blair & Co,12 month,5,outperform,60.0
+2015-08-10,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-08-10,Barclays,Not Provided,1,underweight,35.0
+2015-08-06,Imperial Capital LLC,Not Provided,5,outperform,43.0
+2015-08-04,Argus Research Corp,Not Provided,3,hold,-0.0
+2015-07-31,Credit Suisse,Not Provided,5,outperform,46.0
+2015-07-30,Morgan Stanley,12 month,1,Underwt/In-Line,33.0
+2015-07-30,Oppenheimer & Co,12 month,5,outperform,45.0
+2015-07-29,Raymond James,12 month,5,outperform,45.0
+2015-07-29,Stifel,Not Provided,3,hold,-0.0
+2015-04-16,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-02-10,EVA Dimensions,Not Provided,1,underweight,-0.0
+2015-10-01,Raymond James,12 month,5,outperform,45.0
+2015-09-29,Credit Suisse,Not Provided,5,outperform,46.0
+2015-09-22,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-09-21,Morgan Stanley,12 month,1,Underwt/In-Line,33.0
+2015-09-21,William Blair & Co,12 month,5,outperform,60.0
+2015-09-02,Imperial Capital LLC,Not Provided,5,outperform,43.0
+2015-08-31,R.F. Lafferty & Co,12 month,5,buy,42.0
+2015-08-10,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-08-10,Barclays,Not Provided,1,underweight,35.0
+2015-08-04,Argus Research Corp,Not Provided,3,hold,-0.0
+2015-07-30,Oppenheimer & Co,12 month,5,outperform,45.0
+2015-07-29,Stifel,Not Provided,3,hold,-0.0
+2015-02-10,EVA Dimensions,Not Provided,1,underweight,-0.0
+2015-10-12,Barclays,Not Provided,3,equalweight,30.0
+2015-10-07,Morgan Stanley,12 month,1,Underwt/In-Line,32.0
+2015-10-01,Raymond James,12 month,5,outperform,45.0
+2015-09-29,Credit Suisse,Not Provided,5,outperform,46.0
+2015-09-22,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-09-21,William Blair & Co,12 month,5,outperform,60.0
+2015-09-02,Imperial Capital LLC,Not Provided,5,outperform,43.0
+2015-08-31,R.F. Lafferty & Co,12 month,5,buy,42.0
+2015-08-10,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-08-04,Argus Research Corp,Not Provided,3,hold,-0.0
+2015-07-30,Oppenheimer & Co,12 month,5,outperform,45.0
+2015-07-29,Stifel,Not Provided,3,hold,-0.0
+2015-02-10,EVA Dimensions,Not Provided,1,underweight,-0.0
+2015-11-27,EVA Dimensions,Not Provided,3,hold,-0.0
+2015-11-23,Argus Research Corp,Not Provided,3,hold,-0.0
+2015-11-16,Barclays,Not Provided,3,equalweight,30.0
+2015-11-12,Morgan Stanley,12 month,1,Underwt/In-Line,32.0
+2015-11-12,Stifel,Not Provided,3,hold,-0.0
+2015-11-11,Credit Suisse,Not Provided,5,outperform,46.0
+2015-11-11,William Blair & Co,12 month,5,outperform,60.0
+2015-11-11,Raymond James,12 month,5,outperform,45.0
+2015-11-11,Imperial Capital LLC,12 month,5,outperform,43.0
+2015-11-11,Oppenheimer & Co,12 month,5,outperform,45.0
+2015-11-11,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-11-09,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-12-16,Imperial Capital LLC,Not Provided,5,outperform,43.0
+2015-12-16,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-12-14,Credit Suisse,Not Provided,5,outperform,45.0
+2015-11-27,EVA Dimensions,Not Provided,3,hold,-0.0
+2015-11-23,Argus Research Corp,Not Provided,3,hold,-0.0
+2015-11-16,Barclays,Not Provided,3,equalweight,30.0
+2015-11-12,Morgan Stanley,12 month,1,Underwt/In-Line,32.0
+2015-11-12,Stifel,Not Provided,3,hold,-0.0
+2015-11-11,William Blair & Co,12 month,5,outperform,60.0
+2015-11-11,Raymond James,12 month,5,outperform,45.0
+2015-11-11,Oppenheimer & Co,12 month,5,outperform,45.0
+2015-11-09,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-01-29,Imperial Capital LLC,12 month,5,outperform,43.0
+2016-01-25,Raymond James,12 month,5,outperform,39.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-01-19,Barclays,Not Provided,3,equalweight,31.0
+2016-01-06,Credit Suisse,Not Provided,5,outperform,45.0
+2016-01-04,Stifel,Not Provided,3,hold,-0.0
+2015-12-16,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2015-11-27,EVA Dimensions,Not Provided,3,hold,-0.0
+2015-11-23,Argus Research Corp,Not Provided,3,hold,-0.0
+2015-11-12,Morgan Stanley,12 month,1,Underwt/In-Line,32.0
+2015-11-11,William Blair & Co,12 month,5,outperform,60.0
+2015-11-11,Oppenheimer & Co,12 month,5,outperform,45.0
+2016-02-24,Imperial Capital LLC,Not Provided,3,in-line,42.0
+2016-02-19,Raymond James,Not Provided,3,market perform,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-02-16,Morgan Stanley,12 month,3,Equalwt/In-Line,42.0
+2016-02-16,Credit Suisse,Not Provided,5,outperform,42.0
+2016-02-16,William Blair & Co,12 month,5,outperform,41.0
+2016-02-16,Stifel,Not Provided,3,hold,-0.0
+2016-02-16,Oppenheimer & Co,Not Provided,-2147483648,not rated,-0.0
+2016-02-16,Barclays,Not Provided,-2147483648,suspended coverage,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-11-23,Argus Research Corp,Not Provided,3,hold,-0.0
+2016-02-24,Imperial Capital LLC,Not Provided,3,in-line,42.0
+2016-02-19,Raymond James,Not Provided,3,market perform,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-02-16,Morgan Stanley,12 month,3,Equalwt/In-Line,42.0
+2016-02-16,Credit Suisse,Not Provided,5,outperform,42.0
+2016-02-16,William Blair & Co,12 month,5,outperform,41.0
+2016-02-16,Stifel,Not Provided,3,hold,-0.0
+2016-02-16,Oppenheimer & Co,Not Provided,-2147483648,not rated,-0.0
+2016-02-16,Barclays,Not Provided,-2147483648,suspended coverage,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2015-11-23,Argus Research Corp,Not Provided,3,hold,-0.0
+2016-04-25,Imperial Capital LLC,Not Provided,3,in-line,42.0
+2016-04-12,Argus Research Corp,Not Provided,1,sell,-0.0
+2016-04-04,Credit Suisse,Not Provided,3,neutral,42.0
+2016-02-19,Raymond James,Not Provided,3,market perform,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-02-16,Morgan Stanley,12 month,3,Equalwt/In-Line,42.0
+2016-02-16,William Blair & Co,12 month,5,outperform,41.0
+2016-02-16,Stifel,Not Provided,3,hold,-0.0
+2016-02-16,Oppenheimer & Co,Not Provided,-2147483648,not rated,-0.0
+2016-02-16,Barclays,Not Provided,-2147483648,suspended coverage,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-02-16,Oppenheimer & Co,Not Provided,-2147483648,not rated,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-02-16,Oppenheimer & Co,Not Provided,-2147483648,not rated,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3,hold,-0.0
+2016-02-17,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-01-19,M Science,Not Provided,-2147483648,no rating system,-0.0

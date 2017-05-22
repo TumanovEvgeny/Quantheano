@@ -1,0 +1,540 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2010-12-22,CL King & Associates,Not Provided,5,strong buy,40.0
+2010-12-21,RBC Capital Markets,12 month,3,sector perform,30.0
+2011-02-01,CL King & Associates,Not Provided,5,strong buy,40.0
+2011-01-31,UBS,12 month,3,neutral,33.0
+2011-01-31,Nomura,Not Provided,2,reduce,22.5
+2011-01-31,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2011-01-30,BMO Capital Markets,Not Provided,3,market perform,30.0
+2011-01-28,Canaccord Genuity,12 month,3,hold,27.0
+2011-01-27,Morgan Keegan,12 month,3,market perform,33.0
+2011-01-27,Morgan Stanley,12 month,5,Overwt/In-Line,36.0
+2011-01-27,RBC Capital Markets,12 month,3,sector perform,38.0
+2011-01-27,Credit Suisse,Not Provided,5,outperform,41.0
+2011-01-27,J.P. Morgan,12 month,1,underweight,24.0
+2011-01-27,Jefferies,12 month,3,hold,33.0
+2011-01-27,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-01-27,Bernstein,12 month,3,market perform,28.0
+2011-01-27,Raymond James,12 month,5,strong buy,40.0
+2011-01-27,Stifel,12 month,5,buy,41.0
+2011-01-27,Evercore ISI,12 month,5,overweight,37.0
+2011-01-27,Cowen,Not Provided,5,outperform,-0.0
+2011-01-27,Hudson Securities Inc,12 month,5,buy,38.0
+2011-01-27,Gleacher & Company,12 month,5,buy,40.0
+2011-01-27,Susquehanna Financial,12 month,4,Positive,37.0
+2011-01-27,Barclays,Not Provided,5,overwt/neutral,38.0
+2011-01-27,"Avian Securities, LLC",Not Provided,4,Positive,36.0
+2011-01-27,Blaylock Beal Van LLC,Not Provided,5,buy,-0.0
+2011-01-26,Oppenheimer & Co,12 month,5,outperform,36.0
+2011-01-24,Berenberg,12 month,1,sell,28.0
+2011-01-21,Goldman Sachs,12 month,5,Buy/Neutral,39.0
+2011-01-19,MKM Partners,12 month,5,buy,40.0
+2011-01-06,Argus Research Corp,Not Provided,3,hold,-0.0
+2011-01-04,"Ameriprise Advisor Services, Inc",Not Provided,5,buy,-0.0
+2011-03-01,Canaccord Genuity,12 month,3,hold,27.0
+2011-03-01,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2011-02-25,UBS,12 month,3,neutral,33.0
+2011-02-23,CL King & Associates,12 month,5,strong buy,40.0
+2011-02-22,Evercore ISI,12 month,5,overweight,37.0
+2011-02-18,Blaylock Beal Van LLC,Not Provided,5,buy,-0.0
+2011-02-16,Stifel,12 month,5,buy,41.0
+2011-02-16,Nomura,Not Provided,2,reduce,22.5
+2011-02-16,Gleacher & Company,12 month,5,buy,40.0
+2011-02-15,Cowen,Not Provided,5,outperform,-0.0
+2011-02-11,BMO Capital Markets,Not Provided,3,market perform,30.0
+2011-02-08,Bernstein,12 month,3,market perform,28.0
+2011-02-07,Argus Research Corp,Not Provided,3,hold,-0.0
+2011-02-04,"Ameriprise Advisor Services, Inc",Not Provided,5,buy,-0.0
+2011-02-04,Hudson Securities Inc,12 month,5,buy,38.0
+2011-02-04,Susquehanna Financial,12 month,4,Positive,37.0
+2011-01-27,Morgan Keegan,12 month,3,market perform,33.0
+2011-01-27,Morgan Stanley,12 month,5,Overwt/In-Line,36.0
+2011-01-27,RBC Capital Markets,12 month,3,sector perform,38.0
+2011-01-27,Credit Suisse,Not Provided,5,outperform,41.0
+2011-01-27,J.P. Morgan,12 month,1,underweight,24.0
+2011-01-27,Jefferies,12 month,3,hold,33.0
+2011-01-27,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-01-27,Raymond James,12 month,5,strong buy,40.0
+2011-01-27,Barclays,Not Provided,5,overwt/neutral,38.0
+2011-01-27,"Avian Securities, LLC",Not Provided,4,Positive,36.0
+2011-01-26,Oppenheimer & Co,12 month,5,outperform,36.0
+2011-01-24,Berenberg,12 month,1,sell,28.0
+2011-01-21,Goldman Sachs,12 month,5,Buy/Neutral,39.0
+2011-01-19,MKM Partners,12 month,5,buy,40.0
+2011-04-01,RBC Capital Markets,12 month,3,sector perform,33.0
+2011-04-01,Nomura,Not Provided,3,neutral,23.7
+2011-03-29,Bernstein,12 month,3,market perform,28.0
+2011-03-29,Evercore ISI,12 month,5,overweight,37.0
+2011-03-29,MKM Partners,12 month,5,buy,40.0
+2011-03-25,Blaylock Beal Van LLC,Not Provided,5,buy,-0.0
+2011-03-24,Canaccord Genuity,12 month,3,hold,27.0
+2011-03-24,Cowen,Not Provided,3,neutral,-0.0
+2011-03-23,Barclays,Not Provided,5,overwt/neutral,38.0
+2011-03-21,BMO Capital Markets,Not Provided,3,market perform,30.0
+2011-03-21,CL King & Associates,12 month,5,buy,34.0
+2011-03-21,Gleacher & Company,12 month,3,neutral,27.0
+2011-03-18,UBS,12 month,5,buy,34.0
+2011-03-18,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2011-03-14,Oppenheimer & Co,12 month,5,outperform,32.0
+2011-03-11,Jefferies,12 month,3,hold,28.0
+2011-03-11,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-03-07,Berenberg,12 month,1,sell,23.0
+2011-03-04,Hudson Securities Inc,12 month,5,buy,38.0
+2011-03-03,Societe Generale,12 month,1,sell,28.0
+2011-02-07,Argus Research Corp,Not Provided,3,hold,-0.0
+2011-02-04,"Ameriprise Advisor Services, Inc",Not Provided,5,buy,-0.0
+2011-02-04,Susquehanna Financial,12 month,4,Positive,37.0
+2011-01-27,Morgan Keegan,12 month,3,market perform,33.0
+2011-01-27,Morgan Stanley,12 month,5,Overwt/In-Line,36.0
+2011-01-27,Credit Suisse,Not Provided,5,outperform,41.0
+2011-01-27,J.P. Morgan,12 month,1,underweight,24.0
+2011-01-27,Raymond James,12 month,5,strong buy,40.0
+2011-01-27,"Avian Securities, LLC",Not Provided,4,Positive,36.0
+2011-01-21,Goldman Sachs,12 month,5,Buy/Neutral,39.0
+2011-05-01,Canaccord Genuity,12 month,3,hold,25.0
+2011-04-29,Morgan Keegan,12 month,5,outperform,30.0
+2011-04-29,Morgan Stanley,12 month,5,Overwt/In-Line,36.0
+2011-04-29,RBC Capital Markets,12 month,3,sector perform,33.0
+2011-04-29,Credit Suisse,Not Provided,5,outperform,31.0
+2011-04-29,UBS,12 month,5,buy,34.0
+2011-04-29,J.P. Morgan,9 month,1,underweight,21.0
+2011-04-29,Jefferies,12 month,3,hold,26.0
+2011-04-29,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-04-29,Bernstein,12 month,3,market perform,28.0
+2011-04-29,CL King & Associates,12 month,5,buy,29.0
+2011-04-29,Evercore ISI,12 month,5,overweight,37.0
+2011-04-29,Oppenheimer & Co,12 month,5,outperform,28.0
+2011-04-29,Nomura,Not Provided,3,neutral,24.5
+2011-04-29,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2011-04-29,Cowen,Not Provided,3,neutral,-0.0
+2011-04-29,Hudson Securities Inc,12 month,5,buy,35.0
+2011-04-29,Gleacher & Company,12 month,3,neutral,27.0
+2011-04-29,Susquehanna Financial,12 month,4,Positive,32.0
+2011-04-29,MKM Partners,12 month,5,buy,35.0
+2011-04-29,Barclays,Not Provided,5,overwt/neutral,38.0
+2011-04-29,"Avian Securities, LLC",Not Provided,4,Positive,29.5
+2011-04-28,BMO Capital Markets,Not Provided,3,market perform,26.0
+2011-04-22,Goldman Sachs,12 month,5,Buy/Neutral,34.0
+2011-04-15,Societe Generale,12 month,5,buy,28.0
+2011-04-08,Raymond James,12 month,5,strong buy,40.0
+2011-03-07,Berenberg,12 month,1,sell,23.0
+2011-02-07,Argus Research Corp,Not Provided,3,hold,-0.0
+2011-02-04,"Ameriprise Advisor Services, Inc",Not Provided,5,buy,-0.0
+2011-06-01,CL King & Associates,12 month,5,buy,29.0
+2011-06-01,Evercore ISI,12 month,5,overweight,37.0
+2011-05-31,UBS,12 month,5,buy,34.0
+2011-05-31,Rodman & Renshaw,12 month,4,market outperform,35.0
+2011-05-26,Jefferies,12 month,3,hold,26.0
+2011-05-20,Macquarie,12 month,5,outperform,29.0
+2011-05-19,ThinkEquity LLC,12 month,5,buy,30.0
+2011-05-19,MKM Partners,12 month,5,buy,35.0
+2011-05-17,Bernstein,12 month,3,market perform,28.0
+2011-05-16,BMO Capital Markets,Not Provided,3,market perform,26.0
+2011-05-13,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2011-05-12,Needham & Co,Not Provided,3,hold,-0.0
+2011-05-09,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-05-08,Canaccord Genuity,12 month,3,hold,25.0
+2011-05-05,Barclays,Not Provided,5,overwt/neutral,38.0
+2011-05-04,Argus Research Corp,Not Provided,3,hold,-0.0
+2011-05-03,Nomura,12 month,3,neutral,24.5
+2011-05-02,Raymond James,12 month,5,strong buy,40.0
+2011-04-29,Morgan Keegan,12 month,5,outperform,30.0
+2011-04-29,Morgan Stanley,12 month,5,Overwt/In-Line,36.0
+2011-04-29,RBC Capital Markets,12 month,3,sector perform,33.0
+2011-04-29,Credit Suisse,Not Provided,5,outperform,31.0
+2011-04-29,J.P. Morgan,9 month,1,underweight,21.0
+2011-04-29,Oppenheimer & Co,12 month,5,outperform,28.0
+2011-04-29,Cowen,Not Provided,3,neutral,-0.0
+2011-04-29,Gleacher & Company,12 month,3,neutral,27.0
+2011-04-29,Susquehanna Financial,12 month,4,Positive,32.0
+2011-04-29,"Avian Securities, LLC",Not Provided,4,Positive,29.5
+2011-04-22,Goldman Sachs,12 month,5,Buy/Neutral,34.0
+2011-04-15,Societe Generale,12 month,5,buy,28.0
+2011-03-07,Berenberg,12 month,1,sell,23.0
+2011-02-04,"Ameriprise Advisor Services, Inc",Not Provided,5,buy,-0.0
+2011-07-01,Blaylock Beal Van LLC,12 month,5,strong buy,34.8
+2011-06-28,CL King & Associates,12 month,5,buy,29.0
+2011-06-27,BMO Capital Markets,Not Provided,1,underperform,19.0
+2011-06-27,MKM Partners,12 month,5,buy,35.0
+2011-06-22,Bernstein,12 month,3,market perform,28.0
+2011-06-21,Credit Suisse,Not Provided,1,underperform,19.0
+2011-06-21,Gabelli & Co,Not Provided,5,buy,-0.0
+2011-06-17,Morgan Stanley,12 month,5,Overwt/In-Line,36.0
+2011-06-17,Wells Fargo Securities,Not Provided,5,outperform,-0.0
+2011-06-15,UBS,12 month,5,buy,34.0
+2011-06-14,Jefferies,12 month,3,hold,27.0
+2011-06-13,Evercore ISI,12 month,5,overweight,37.0
+2011-06-13,Nomura,12 month,3,neutral,24.5
+2011-06-12,Canaccord Genuity,12 month,3,hold,25.0
+2011-06-08,Berenberg,12 month,1,sell,20.0
+2011-06-07,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-06-07,Raymond James,12 month,5,strong buy,40.0
+2011-06-07,Oppenheimer & Co,12 month,5,outperform,28.0
+2011-05-31,Rodman & Renshaw,12 month,4,market outperform,35.0
+2011-05-20,Macquarie,12 month,5,outperform,29.0
+2011-05-19,ThinkEquity LLC,12 month,5,buy,30.0
+2011-05-12,Needham & Co,Not Provided,3,hold,-0.0
+2011-05-05,Barclays,Not Provided,5,overwt/neutral,38.0
+2011-05-04,Argus Research Corp,Not Provided,3,hold,-0.0
+2011-04-29,Morgan Keegan,12 month,5,outperform,30.0
+2011-04-29,RBC Capital Markets,12 month,3,sector perform,33.0
+2011-04-29,J.P. Morgan,9 month,1,underweight,21.0
+2011-04-29,Cowen,Not Provided,3,neutral,-0.0
+2011-04-29,Gleacher & Company,12 month,3,neutral,27.0
+2011-04-29,Susquehanna Financial,12 month,4,Positive,32.0
+2011-04-29,"Avian Securities, LLC",Not Provided,4,Positive,29.5
+2011-04-22,Goldman Sachs,12 month,5,Buy/Neutral,34.0
+2011-04-15,Societe Generale,12 month,5,buy,28.0
+2011-02-04,"Ameriprise Advisor Services, Inc",Not Provided,5,buy,-0.0
+2011-08-01,BMO Capital Markets,Not Provided,1,underperform,18.0
+2011-08-01,Argus Research Corp,Not Provided,3,hold,-0.0
+2011-08-01,Baird,12 month,3,neutral,23.0
+2011-07-31,Canaccord Genuity,12 month,3,hold,22.0
+2011-07-29,Morgan Keegan,12 month,5,outperform,28.0
+2011-07-29,Societe Generale,12 month,5,buy,26.0
+2011-07-29,Morgan Stanley,12 month,5,Overwt/In-Line,36.0
+2011-07-29,Goldman Sachs,12 month,5,Buy/Neutral,31.0
+2011-07-29,RBC Capital Markets,12 month,3,sector perform,27.0
+2011-07-29,Credit Suisse,Not Provided,1,underperform,16.0
+2011-07-29,UBS,12 month,5,buy,31.0
+2011-07-29,J.P. Morgan,3 month,1,underweight,19.5
+2011-07-29,Jefferies,12 month,3,hold,26.0
+2011-07-29,Needham & Co,Not Provided,3,hold,-0.0
+2011-07-29,Bernstein,12 month,3,market perform,24.0
+2011-07-29,Raymond James,12 month,5,strong buy,40.0
+2011-07-29,Macquarie,12 month,5,outperform,32.0
+2011-07-29,CL King & Associates,12 month,5,buy,27.0
+2011-07-29,ThinkEquity LLC,12 month,5,buy,27.0
+2011-07-29,Rodman & Renshaw,12 month,4,market outperform,30.0
+2011-07-29,Nomura,Not Provided,3,neutral,22.0
+2011-07-29,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-07-29,Cowen,Not Provided,3,neutral,-0.0
+2011-07-29,Gabelli & Co,Not Provided,5,buy,-0.0
+2011-07-29,Merriman Capital,Not Provided,5,buy,-0.0
+2011-07-29,Gleacher & Company,12 month,3,neutral,23.0
+2011-07-29,Susquehanna Financial,12 month,4,Positive,31.0
+2011-07-29,MKM Partners,12 month,5,buy,30.0
+2011-07-29,Barclays,Not Provided,5,overwt/neutral,30.0
+2011-07-29,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2011-07-29,Blaylock Beal Van LLC,12 month,5,strong buy,32.0
+2011-07-28,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-07-28,Evercore ISI,12 month,5,overweight,32.0
+2011-07-28,Oppenheimer & Co,12 month,5,outperform,28.0
+2011-07-15,"Avian Securities, LLC",Not Provided,4,Positive,29.5
+2011-06-08,Berenberg,12 month,1,sell,20.0
+2011-02-04,"Ameriprise Advisor Services, Inc",Not Provided,5,buy,-0.0
+2011-08-30,CL King & Associates,Not Provided,3,neutral,-0.0
+2011-08-29,Evercore ISI,12 month,3,equalweight,40.0
+2011-08-23,Barclays,Not Provided,3,equalwt/neutral,40.0
+2011-08-21,Canaccord Genuity,12 month,3,hold,40.0
+2011-08-19,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-08-18,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2011-08-17,J.P. Morgan,15 month,3,neutral,40.0
+2011-08-17,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-08-17,Macquarie,12 month,5,outperform,41.0
+2011-08-16,BMO Capital Markets,Not Provided,3,market perform,40.0
+2011-08-16,Morgan Stanley,12 month,5,Overwt/In-Line,36.0
+2011-08-16,Argus Research Corp,Not Provided,1,sell,-0.0
+2011-08-16,UBS,12 month,3,neutral,40.0
+2011-08-16,Jefferies,12 month,3,hold,40.0
+2011-08-16,Baird,12 month,3,neutral,40.0
+2011-08-16,Bernstein,12 month,3,market perform,24.0
+2011-08-16,Raymond James,Not Provided,1,underperform,-0.0
+2011-08-16,Nomura,Not Provided,3,neutral,40.0
+2011-08-16,Gabelli & Co,Not Provided,3,hold,-0.0
+2011-08-16,"Avian Securities, LLC",Not Provided,3,neutral,40.0
+2011-08-15,Morgan Keegan,12 month,3,market perform,40.0
+2011-08-15,Goldman Sachs,12 month,3,neutral/neutral,37.0
+2011-08-15,RBC Capital Markets,12 month,3,sector perform,38.0
+2011-08-15,Credit Suisse,Not Provided,3,neutral,40.0
+2011-08-15,Needham & Co,Not Provided,3,hold,-0.0
+2011-08-15,Rodman & Renshaw,Not Provided,3,market perform,-0.0
+2011-08-15,Cowen,Not Provided,3,neutral,-0.0
+2011-08-15,Susquehanna Financial,12 month,3,neutral,40.0
+2011-08-15,MKM Partners,12 month,3,neutral,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2011-08-12,Societe Generale,12 month,5,buy,26.0
+2011-07-29,ThinkEquity LLC,12 month,5,buy,27.0
+2011-07-29,Merriman Capital,Not Provided,5,buy,-0.0
+2011-07-29,Blaylock Beal Van LLC,12 month,5,strong buy,32.0
+2011-09-21,RBC Capital Markets,12 month,3,sector perform,38.0
+2011-09-19,BMO Capital Markets,Not Provided,3,market perform,40.0
+2011-09-12,Bernstein,12 month,3,market perform,40.0
+2011-09-09,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-09-08,Rodman & Renshaw,Not Provided,3,market perform,-0.0
+2011-09-06,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-09-05,Canaccord Genuity,12 month,3,hold,40.0
+2011-09-02,Morgan Stanley,12 month,3,Equalwt/In-Line,40.0
+2011-09-02,Jefferies,12 month,3,hold,40.0
+2011-08-30,CL King & Associates,Not Provided,3,neutral,-0.0
+2011-08-29,Evercore ISI,12 month,3,equalweight,40.0
+2011-08-23,Barclays,Not Provided,3,equalwt/neutral,40.0
+2011-08-18,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2011-08-17,J.P. Morgan,15 month,3,neutral,40.0
+2011-08-17,Macquarie,12 month,5,outperform,41.0
+2011-08-16,Argus Research Corp,Not Provided,1,sell,-0.0
+2011-08-16,UBS,12 month,3,neutral,40.0
+2011-08-16,Baird,12 month,3,neutral,40.0
+2011-08-16,Raymond James,Not Provided,1,underperform,-0.0
+2011-08-16,Nomura,Not Provided,3,neutral,40.0
+2011-08-16,Gabelli & Co,Not Provided,3,hold,-0.0
+2011-08-16,"Avian Securities, LLC",Not Provided,3,neutral,40.0
+2011-08-15,Morgan Keegan,12 month,3,market perform,40.0
+2011-08-15,Goldman Sachs,12 month,3,neutral/neutral,37.0
+2011-08-15,Credit Suisse,Not Provided,3,neutral,40.0
+2011-08-15,Needham & Co,Not Provided,3,hold,-0.0
+2011-08-15,Cowen,Not Provided,3,neutral,-0.0
+2011-08-15,Susquehanna Financial,12 month,3,neutral,40.0
+2011-08-15,MKM Partners,12 month,3,neutral,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2011-08-12,Societe Generale,12 month,5,buy,26.0
+2011-07-29,ThinkEquity LLC,12 month,5,buy,27.0
+2011-07-29,Merriman Capital,Not Provided,5,buy,-0.0
+2011-07-29,Blaylock Beal Van LLC,12 month,5,strong buy,32.0
+2011-11-01,Raymond James,Not Provided,1,underperform,-0.0
+2011-10-31,Societe Generale,12 month,1,sell,34.0
+2011-10-28,Morgan Keegan,12 month,3,market perform,40.0
+2011-10-28,Morgan Stanley,12 month,3,Equalwt/In-Line,40.0
+2011-10-28,Argus Research Corp,Not Provided,1,sell,-0.0
+2011-10-28,Credit Suisse,Not Provided,3,neutral,40.0
+2011-10-28,UBS,12 month,3,neutral,40.0
+2011-10-28,Jefferies,12 month,3,hold,40.0
+2011-10-28,Baird,12 month,3,neutral,40.0
+2011-10-28,CL King & Associates,Not Provided,3,neutral,-0.0
+2011-10-28,ThinkEquity LLC,12 month,3,hold,40.0
+2011-10-28,Nomura,12 month,3,neutral,40.0
+2011-10-28,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-10-28,Cowen,Not Provided,3,neutral,-0.0
+2011-10-28,Gabelli & Co,Not Provided,3,hold,-0.0
+2011-10-28,Susquehanna Financial,12 month,3,neutral,40.0
+2011-10-28,MKM Partners,12 month,3,neutral,40.0
+2011-10-28,Barclays,Not Provided,3,equalwt/neutral,40.0
+2011-10-27,BMO Capital Markets,Not Provided,3,market perform,40.0
+2011-10-27,J.P. Morgan,12 month,3,neutral,40.0
+2011-10-27,Canaccord Genuity,12 month,3,hold,40.0
+2011-10-27,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2011-10-17,Macquarie,12 month,5,outperform,40.0
+2011-10-16,Evercore ISI,12 month,3,equalweight,40.0
+2011-10-05,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-10-03,Bernstein,12 month,3,market perform,40.0
+2011-09-21,RBC Capital Markets,12 month,3,sector perform,38.0
+2011-08-16,"Avian Securities, LLC",Not Provided,3,neutral,40.0
+2011-08-15,Goldman Sachs,12 month,3,neutral/neutral,37.0
+2011-08-15,Needham & Co,Not Provided,3,hold,-0.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2011-07-29,Blaylock Beal Van LLC,12 month,5,strong buy,32.0
+2011-11-30,Societe Generale,12 month,1,sell,34.0
+2011-11-25,Jefferies,12 month,3,hold,40.0
+2011-11-07,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-11-04,Macquarie,12 month,5,outperform,40.0
+2011-11-04,Canaccord Genuity,12 month,3,hold,40.0
+2011-11-03,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-11-02,Bernstein,12 month,3,market perform,40.0
+2011-11-01,Raymond James,Not Provided,1,underperform,-0.0
+2011-10-28,Morgan Keegan,12 month,3,market perform,40.0
+2011-10-28,Morgan Stanley,12 month,3,Equalwt/In-Line,40.0
+2011-10-28,Argus Research Corp,Not Provided,1,sell,-0.0
+2011-10-28,Credit Suisse,Not Provided,3,neutral,40.0
+2011-10-28,UBS,12 month,3,neutral,40.0
+2011-10-28,Baird,12 month,3,neutral,40.0
+2011-10-28,CL King & Associates,Not Provided,3,neutral,-0.0
+2011-10-28,ThinkEquity LLC,12 month,3,hold,40.0
+2011-10-28,Nomura,12 month,3,neutral,40.0
+2011-10-28,Cowen,Not Provided,3,neutral,-0.0
+2011-10-28,Gabelli & Co,Not Provided,3,hold,-0.0
+2011-10-28,Susquehanna Financial,12 month,3,neutral,40.0
+2011-10-28,MKM Partners,12 month,3,neutral,40.0
+2011-10-28,Barclays,Not Provided,3,equalwt/neutral,40.0
+2011-10-27,BMO Capital Markets,Not Provided,3,market perform,40.0
+2011-10-27,J.P. Morgan,12 month,3,neutral,40.0
+2011-10-27,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2011-10-16,Evercore ISI,12 month,3,equalweight,40.0
+2011-09-21,RBC Capital Markets,12 month,3,sector perform,38.0
+2011-08-16,"Avian Securities, LLC",Not Provided,3,neutral,40.0
+2011-08-15,Goldman Sachs,12 month,3,neutral/neutral,37.0
+2011-08-15,Needham & Co,Not Provided,3,hold,-0.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2011-07-29,Blaylock Beal Van LLC,12 month,5,strong buy,32.0
+2011-12-30,CL King & Associates,Not Provided,3,neutral,-0.0
+2011-12-30,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2011-12-22,Evercore ISI,12 month,3,equalweight,40.0
+2011-12-20,MKM Partners,12 month,3,neutral,40.0
+2011-12-19,Morgan Stanley,12 month,3,Equalwt/Cautious,40.0
+2011-12-09,Jefferies,12 month,3,hold,40.0
+2011-12-05,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-12-05,Canaccord Genuity,12 month,3,hold,40.0
+2011-11-30,Societe Generale,12 month,1,sell,34.0
+2011-11-04,Macquarie,12 month,5,outperform,40.0
+2011-11-02,Bernstein,12 month,3,market perform,40.0
+2011-11-01,Raymond James,Not Provided,1,underperform,-0.0
+2011-10-28,Morgan Keegan,12 month,3,market perform,40.0
+2011-10-28,Argus Research Corp,Not Provided,1,sell,-0.0
+2011-10-28,Credit Suisse,Not Provided,3,neutral,40.0
+2011-10-28,UBS,12 month,3,neutral,40.0
+2011-10-28,Baird,12 month,3,neutral,40.0
+2011-10-28,ThinkEquity LLC,12 month,3,hold,40.0
+2011-10-28,Nomura,12 month,3,neutral,40.0
+2011-10-28,Cowen,Not Provided,3,neutral,-0.0
+2011-10-28,Gabelli & Co,Not Provided,3,hold,-0.0
+2011-10-28,Susquehanna Financial,12 month,3,neutral,40.0
+2011-10-28,Barclays,Not Provided,3,equalwt/neutral,40.0
+2011-10-27,BMO Capital Markets,Not Provided,3,market perform,40.0
+2011-10-27,J.P. Morgan,12 month,3,neutral,40.0
+2011-10-27,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2011-09-21,RBC Capital Markets,12 month,3,sector perform,38.0
+2011-08-16,"Avian Securities, LLC",Not Provided,3,neutral,40.0
+2011-08-15,Goldman Sachs,12 month,3,neutral/neutral,37.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2012-01-31,Nomura,12 month,3,neutral,40.0
+2012-01-30,Macquarie,12 month,5,outperform,40.0
+2012-01-30,CL King & Associates,Not Provided,3,neutral,-0.0
+2012-01-27,Morgan Keegan,12 month,3,market perform,40.0
+2012-01-27,Morgan Stanley,12 month,3,Equalwt/Cautious,40.0
+2012-01-27,Goldman Sachs,12 month,3,neutral/neutral,35.0
+2012-01-27,UBS,12 month,3,neutral,40.0
+2012-01-27,J.P. Morgan,9 month,3,neutral,40.0
+2012-01-27,Jefferies,12 month,3,hold,40.0
+2012-01-27,Baird,12 month,3,neutral,40.0
+2012-01-27,Raymond James,Not Provided,1,underperform,-0.0
+2012-01-27,ThinkEquity LLC,12 month,3,hold,40.0
+2012-01-27,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2012-01-27,Cowen,Not Provided,3,neutral,-0.0
+2012-01-27,Barclays,Not Provided,3,equalwt/neutral,40.0
+2012-01-26,BMO Capital Markets,Not Provided,3,market perform,40.0
+2012-01-26,Credit Suisse,Not Provided,3,neutral,40.0
+2012-01-26,Canaccord Genuity,12 month,3,hold,40.0
+2012-01-24,Bernstein,12 month,3,market perform,40.0
+2012-01-20,Evercore ISI,12 month,3,equalweight,40.0
+2012-01-13,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-01-10,Argus Research Corp,Not Provided,1,sell,-0.0
+2012-01-09,Gabelli & Co,Not Provided,3,hold,-0.0
+2012-01-06,Susquehanna Financial,Not Provided,-2147483648,suspended coverage,-0.0
+2012-01-04,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2011-12-20,MKM Partners,12 month,3,neutral,40.0
+2011-11-30,Societe Generale,12 month,1,sell,34.0
+2011-09-21,RBC Capital Markets,12 month,3,sector perform,38.0
+2011-08-16,"Avian Securities, LLC",Not Provided,3,neutral,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2012-03-01,Baird,12 month,3,neutral,40.0
+2012-02-27,Jefferies,12 month,3,hold,40.0
+2012-02-24,BMO Capital Markets,Not Provided,3,market perform,40.0
+2012-02-23,CL King & Associates,Not Provided,3,neutral,-0.0
+2012-02-22,Bernstein,12 month,3,market perform,40.0
+2012-02-22,EVA Dimensions,Not Provided,1,underweight,-0.0
+2012-02-08,Argus Research Corp,Not Provided,1,sell,-0.0
+2012-02-08,Canaccord Genuity,12 month,3,hold,40.0
+2012-02-06,Societe Generale,12 month,1,sell,34.0
+2012-02-06,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2012-01-31,Nomura,12 month,3,neutral,40.0
+2012-01-30,Macquarie,12 month,5,outperform,40.0
+2012-01-27,Morgan Keegan,12 month,3,market perform,40.0
+2012-01-27,Morgan Stanley,12 month,3,Equalwt/Cautious,40.0
+2012-01-27,Goldman Sachs,12 month,3,neutral/neutral,35.0
+2012-01-27,UBS,12 month,3,neutral,40.0
+2012-01-27,J.P. Morgan,9 month,3,neutral,40.0
+2012-01-27,Raymond James,Not Provided,1,underperform,-0.0
+2012-01-27,ThinkEquity LLC,12 month,3,hold,40.0
+2012-01-27,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2012-01-27,Cowen,Not Provided,3,neutral,-0.0
+2012-01-27,Barclays,Not Provided,3,equalwt/neutral,40.0
+2012-01-26,Credit Suisse,Not Provided,3,neutral,40.0
+2012-01-20,Evercore ISI,12 month,3,equalweight,40.0
+2012-01-13,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-01-09,Gabelli & Co,Not Provided,3,hold,-0.0
+2012-01-06,Susquehanna Financial,Not Provided,-2147483648,suspended coverage,-0.0
+2011-12-20,MKM Partners,12 month,3,neutral,40.0
+2011-09-21,RBC Capital Markets,12 month,3,sector perform,38.0
+2011-08-16,"Avian Securities, LLC",Not Provided,3,neutral,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2012-04-01,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2012-04-01,Canaccord Genuity,12 month,3,hold,40.0
+2012-03-27,BMO Capital Markets,Not Provided,3,market perform,40.0
+2012-03-23,Jefferies,12 month,3,hold,40.0
+2012-03-19,Societe Generale,12 month,1,sell,34.0
+2012-03-13,CL King & Associates,Not Provided,3,neutral,-0.0
+2012-03-08,Bernstein,12 month,3,market perform,40.0
+2012-03-05,Daiwa Securities,Not Provided,3,neutral,-0.0
+2012-03-01,Baird,12 month,3,neutral,40.0
+2012-02-22,EVA Dimensions,Not Provided,1,underweight,-0.0
+2012-02-08,Argus Research Corp,Not Provided,1,sell,-0.0
+2012-01-31,Nomura,12 month,3,neutral,40.0
+2012-01-30,Macquarie,12 month,5,outperform,40.0
+2012-01-27,Morgan Stanley,12 month,3,Equalwt/Cautious,40.0
+2012-01-27,Goldman Sachs,12 month,3,neutral/neutral,35.0
+2012-01-27,UBS,12 month,3,neutral,40.0
+2012-01-27,J.P. Morgan,9 month,3,neutral,40.0
+2012-01-27,Raymond James,Not Provided,1,underperform,-0.0
+2012-01-27,ThinkEquity LLC,12 month,3,hold,40.0
+2012-01-27,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2012-01-27,Cowen,Not Provided,3,neutral,-0.0
+2012-01-27,Barclays,Not Provided,3,equalwt/neutral,40.0
+2012-01-26,Credit Suisse,Not Provided,3,neutral,40.0
+2012-01-20,Evercore ISI,12 month,3,equalweight,40.0
+2012-01-13,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-01-09,Gabelli & Co,Not Provided,3,hold,-0.0
+2012-01-06,Susquehanna Financial,Not Provided,-2147483648,suspended coverage,-0.0
+2011-12-20,MKM Partners,12 month,3,neutral,40.0
+2011-09-21,RBC Capital Markets,12 month,3,sector perform,38.0
+2011-08-16,"Avian Securities, LLC",Not Provided,3,neutral,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2012-05-01,BMO Capital Markets,Not Provided,3,market perform,40.0
+2012-05-01,Canaccord Genuity,12 month,3,hold,40.0
+2012-04-30,J.P. Morgan,6 month,3,neutral,40.0
+2012-04-26,Raymond James,Not Provided,-2147483648,suspended coverage,-0.0
+2012-04-16,Bernstein,12 month,3,market perform,40.0
+2012-04-16,Evercore ISI,12 month,3,equalweight,40.0
+2012-04-11,Baird,12 month,3,neutral,40.0
+2012-04-10,Morgan Stanley,12 month,3,Equalwt/Attractive,40.0
+2012-04-01,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2012-03-23,Jefferies,12 month,3,hold,40.0
+2012-03-19,Societe Generale,12 month,1,sell,34.0
+2012-03-05,Daiwa Securities,Not Provided,3,neutral,-0.0
+2012-02-22,EVA Dimensions,Not Provided,1,underweight,-0.0
+2012-02-08,Argus Research Corp,Not Provided,1,sell,-0.0
+2012-01-31,Nomura,12 month,3,neutral,40.0
+2012-01-30,Macquarie,12 month,5,outperform,40.0
+2012-01-27,Goldman Sachs,12 month,3,neutral/neutral,35.0
+2012-01-27,UBS,12 month,3,neutral,40.0
+2012-01-27,ThinkEquity LLC,12 month,3,hold,40.0
+2012-01-27,Oppenheimer & Co,Not Provided,3,market perform,-0.0
+2012-01-27,Cowen,Not Provided,3,neutral,-0.0
+2012-01-27,Barclays,Not Provided,3,equalwt/neutral,40.0
+2012-01-26,Credit Suisse,Not Provided,3,neutral,40.0
+2012-01-13,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2012-01-09,Gabelli & Co,Not Provided,3,hold,-0.0
+2011-12-20,MKM Partners,12 month,3,neutral,40.0
+2011-09-21,RBC Capital Markets,12 month,3,sector perform,38.0
+2011-08-16,"Avian Securities, LLC",Not Provided,3,neutral,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2012-05-25,Jefferies,12 month,3,hold,40.0
+2012-05-23,EVA Dimensions,Not Provided,5,overweight,-0.0
+2012-05-22,BMO Capital Markets,Not Provided,3,market perform,40.0
+2012-05-07,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2012-01-27,ThinkEquity LLC,12 month,3,hold,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2012-05-25,Jefferies,12 month,3,hold,40.0
+2012-05-23,EVA Dimensions,Not Provided,5,overweight,-0.0
+2012-05-22,BMO Capital Markets,Not Provided,3,market perform,40.0
+2012-05-07,Pacific Crest Securities,Not Provided,3,sector perform,-0.0
+2012-01-27,ThinkEquity LLC,12 month,3,hold,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2012-05-25,Jefferies,12 month,3,hold,40.0
+2012-05-23,EVA Dimensions,Not Provided,5,overweight,-0.0
+2012-05-22,BMO Capital Markets,Not Provided,3,market perform,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2012-05-25,Jefferies,12 month,3,hold,40.0
+2012-05-23,EVA Dimensions,Not Provided,5,overweight,-0.0
+2012-05-22,BMO Capital Markets,Not Provided,3,market perform,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2012-05-25,Jefferies,12 month,3,hold,40.0
+2012-05-23,EVA Dimensions,Not Provided,5,overweight,-0.0
+2012-05-22,BMO Capital Markets,Not Provided,3,market perform,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2012-05-25,Jefferies,12 month,3,hold,40.0
+2012-05-23,EVA Dimensions,Not Provided,5,overweight,-0.0
+2012-05-22,BMO Capital Markets,Not Provided,3,market perform,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0
+2012-05-25,Jefferies,12 month,3,hold,40.0
+2012-05-23,EVA Dimensions,Not Provided,5,overweight,-0.0
+2012-05-22,BMO Capital Markets,Not Provided,3,market perform,40.0
+2011-08-15,Wedge Partners,Not Provided,-2147483648,no rating system,-0.0

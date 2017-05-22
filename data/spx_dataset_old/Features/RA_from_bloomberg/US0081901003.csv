@@ -1,0 +1,672 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2005-12-30,Baird,Not Provided,5,outperform,65.0
+2005-12-27,Morgan Stanley,Not Provided,3,Equalwt/In-Line,59.0
+2005-12-23,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2005-12-20,Cowen,Not Provided,-2147483648,no rating system,-0.0
+2005-12-14,UBS,12 month,2,reduce 2,47.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2005-12-01,Stifel,Not Provided,3,hold,-0.0
+2005-11-15,Piper Jaffray,Not Provided,3,market perform,52.0
+2005-11-15,EVA Dimensions,Not Provided,3,hold,-0.0
+2005-10-21,Jefferies,Not Provided,5,buy,57.0
+2005-10-21,Thomas Weisel Partners,Not Provided,5,outperform,-0.0
+2005-10-17,RBC Capital Markets,Not Provided,3,sector perform,55.0
+2005-09-15,Goldman Sachs,Not Provided,3,in-line,-0.0
+2005-08-17,KeyBanc Capital Markets,12 month,5,buy,60.0
+2005-08-04,Bear Stearns & Co,Not Provided,5,outperform,75.0
+2005-06-03,J.P. Morgan,Not Provided,3,neutral,-0.0
+2005-05-13,A.G. Edwards & Sons Inc,Not Provided,5,buy,64.0
+2005-04-22,Lehman Brothers,Not Provided,5,overwt/neutral,60.0
+2004-10-21,CIBC World Markets,Not Provided,5,sector outperform,70.0
+2006-01-27,Morgan Stanley,Not Provided,3,Equalwt/In-Line,59.0
+2006-01-27,Lehman Brothers,Not Provided,5,overwt/neutral,65.0
+2006-01-27,Goldman Sachs,Not Provided,3,in-line,-0.0
+2006-01-27,RBC Capital Markets,Not Provided,3,sector perform,56.0
+2006-01-27,UBS,12 month,3,neutral 2,60.0
+2006-01-27,Jefferies,Not Provided,5,buy,70.0
+2006-01-27,Baird,Not Provided,5,outperform,65.0
+2006-01-27,CIBC World Markets,Not Provided,5,sector outperform,70.0
+2006-01-27,Stifel,Not Provided,5,buy,78.0
+2006-01-27,Cowen,Not Provided,-2147483648,no rating system,-0.0
+2006-01-27,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-01-25,Thomas Weisel Partners,Not Provided,5,outperform,-0.0
+2006-01-23,A.G. Edwards & Sons Inc,Not Provided,5,buy,71.0
+2006-01-19,Bear Stearns & Co,Not Provided,5,outperform,-0.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2005-11-15,EVA Dimensions,Not Provided,3,hold,-0.0
+2005-08-17,KeyBanc Capital Markets,12 month,5,buy,60.0
+2005-06-03,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-03-01,Thomas Weisel Partners,Not Provided,5,outperform,-0.0
+2006-02-21,Cowen,Not Provided,5,outperform,-0.0
+2006-02-17,Credit Suisse,12 month,1,underperform,63.0
+2006-02-14,EVA Dimensions,Not Provided,3,hold,-0.0
+2006-01-27,Morgan Stanley,Not Provided,3,Equalwt/In-Line,59.0
+2006-01-27,Goldman Sachs,Not Provided,3,in-line,-0.0
+2006-01-27,RBC Capital Markets,Not Provided,3,sector perform,56.0
+2006-01-27,UBS,12 month,3,neutral 2,60.0
+2006-01-27,Jefferies,Not Provided,5,buy,70.0
+2006-01-27,Baird,Not Provided,5,outperform,65.0
+2006-01-27,CIBC World Markets,Not Provided,5,sector outperform,70.0
+2006-01-27,Stifel,Not Provided,5,buy,78.0
+2006-01-27,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-01-23,A.G. Edwards & Sons Inc,Not Provided,5,buy,71.0
+2006-01-19,Bear Stearns & Co,Not Provided,5,outperform,-0.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2005-08-17,KeyBanc Capital Markets,12 month,5,buy,60.0
+2005-06-03,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-03-22,Stifel,Not Provided,5,buy,72.0
+2006-03-21,UBS,12 month,3,neutral 2,63.0
+2006-03-20,Jefferies,Not Provided,5,buy,70.0
+2006-03-20,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-03-13,Thomas Weisel Partners,Not Provided,5,outperform,-0.0
+2006-02-21,Cowen,Not Provided,5,outperform,-0.0
+2006-02-17,Credit Suisse,12 month,1,underperform,63.0
+2006-02-14,EVA Dimensions,Not Provided,3,hold,-0.0
+2006-01-27,Goldman Sachs,Not Provided,3,in-line,-0.0
+2006-01-27,RBC Capital Markets,Not Provided,3,sector perform,56.0
+2006-01-27,Baird,Not Provided,5,outperform,65.0
+2006-01-27,CIBC World Markets,Not Provided,5,sector outperform,70.0
+2006-01-23,A.G. Edwards & Sons Inc,Not Provided,5,buy,71.0
+2006-01-19,Bear Stearns & Co,Not Provided,5,outperform,-0.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2005-08-17,KeyBanc Capital Markets,12 month,5,buy,60.0
+2005-06-03,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-04-28,Goldman Sachs,Not Provided,3,in-line/attractive,-0.0
+2006-04-28,Bear Stearns & Co,Not Provided,5,outperform,65.0
+2006-04-28,Credit Suisse,12 month,1,underperform,58.0
+2006-04-28,UBS,12 month,3,neutral 2,59.0
+2006-04-28,Jefferies,Not Provided,5,buy,70.0
+2006-04-28,CIBC World Markets,18 month,5,sector outperform,65.0
+2006-04-28,Stifel,Not Provided,5,buy,66.0
+2006-04-28,Thomas Weisel Partners,Not Provided,5,outperform,-0.0
+2006-04-28,Cowen,Not Provided,5,outperform,-0.0
+2006-04-28,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-04-25,RBC Capital Markets,Not Provided,3,sector perform,56.0
+2006-02-14,EVA Dimensions,Not Provided,3,hold,-0.0
+2006-01-27,Baird,Not Provided,5,outperform,65.0
+2006-01-23,A.G. Edwards & Sons Inc,Not Provided,5,buy,71.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2005-08-17,KeyBanc Capital Markets,12 month,5,buy,60.0
+2005-06-03,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-06-01,Cowen,Not Provided,5,outperform,-0.0
+2006-05-22,Thomas Weisel Partners,Not Provided,5,outperform,-0.0
+2006-05-15,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-05-11,UBS,12 month,3,neutral 2,56.0
+2006-05-11,Stifel,Not Provided,5,buy,66.0
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-05-04,EVA Dimensions,Not Provided,3,hold,-0.0
+2006-05-03,A.G. Edwards & Sons Inc,Not Provided,5,buy,68.0
+2006-04-28,Goldman Sachs,Not Provided,3,in-line/attractive,-0.0
+2006-04-28,Bear Stearns & Co,Not Provided,5,outperform,65.0
+2006-04-28,Credit Suisse,12 month,1,underperform,58.0
+2006-04-28,Jefferies,Not Provided,5,buy,70.0
+2006-04-28,CIBC World Markets,18 month,5,sector outperform,65.0
+2006-04-25,RBC Capital Markets,Not Provided,3,sector perform,56.0
+2006-01-27,Baird,Not Provided,5,outperform,65.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2006-06-26,Goldman Sachs,Not Provided,3,in-line/neutral,62.77
+2006-06-21,Thomas Weisel Partners,Not Provided,5,outperform,-0.0
+2006-06-13,Jefferies,Not Provided,5,buy,70.0
+2006-06-13,Stifel,Not Provided,5,buy,66.0
+2006-06-13,Cowen,Not Provided,5,outperform,-0.0
+2006-06-13,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-05-11,UBS,12 month,3,neutral 2,56.0
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-05-04,EVA Dimensions,Not Provided,3,hold,-0.0
+2006-05-03,A.G. Edwards & Sons Inc,Not Provided,5,buy,68.0
+2006-04-28,Bear Stearns & Co,Not Provided,5,outperform,65.0
+2006-04-28,Credit Suisse,12 month,1,underperform,58.0
+2006-04-25,RBC Capital Markets,Not Provided,3,sector perform,56.0
+2006-01-27,Baird,Not Provided,5,outperform,65.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2006-07-20,Stifel,Not Provided,5,buy,66.0
+2006-07-14,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-07-12,Cowen,Not Provided,5,outperform,-0.0
+2006-06-26,Goldman Sachs,Not Provided,3,in-line/neutral,62.77
+2006-06-21,Thomas Weisel Partners,Not Provided,5,outperform,-0.0
+2006-06-13,Jefferies,Not Provided,5,buy,70.0
+2006-05-11,UBS,12 month,3,neutral 2,56.0
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-05-04,EVA Dimensions,Not Provided,3,hold,-0.0
+2006-05-03,A.G. Edwards & Sons Inc,Not Provided,5,buy,68.0
+2006-04-28,Bear Stearns & Co,Not Provided,5,outperform,65.0
+2006-04-28,Credit Suisse,12 month,1,underperform,58.0
+2006-04-25,RBC Capital Markets,Not Provided,3,sector perform,56.0
+2006-01-27,Baird,Not Provided,5,outperform,65.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2006-08-10,RBC Capital Markets,Not Provided,3,sector perform,50.0
+2006-08-10,Bear Stearns & Co,Not Provided,3,peerperform,-0.0
+2006-08-10,Credit Suisse,12 month,1,underperform,53.0
+2006-08-10,UBS,12 month,3,neutral 2,52.0
+2006-08-10,Jefferies,Not Provided,5,buy,70.0
+2006-08-10,Baird,Not Provided,5,outperform,55.0
+2006-08-10,Stifel,Not Provided,5,buy,58.0
+2006-08-10,Thomas Weisel Partners,Not Provided,5,outperform,-0.0
+2006-08-10,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-07-12,Cowen,Not Provided,5,outperform,-0.0
+2006-06-26,Goldman Sachs,Not Provided,3,in-line/neutral,62.77
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-05-04,EVA Dimensions,Not Provided,3,hold,-0.0
+2006-05-03,A.G. Edwards & Sons Inc,Not Provided,5,buy,68.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2006-09-26,RBC Capital Markets,Not Provided,1,underperform,48.0
+2006-09-18,Cowen,Not Provided,5,outperform,-0.0
+2006-09-08,UBS,12 month,3,neutral 2,56.0
+2006-09-05,Goldman Sachs,Not Provided,5,Buy/Neutral,66.1
+2006-09-05,EVA Dimensions,Not Provided,3,hold,-0.0
+2006-08-10,Bear Stearns & Co,Not Provided,3,peerperform,-0.0
+2006-08-10,Credit Suisse,12 month,1,underperform,53.0
+2006-08-10,Jefferies,Not Provided,5,buy,70.0
+2006-08-10,Baird,Not Provided,5,outperform,55.0
+2006-08-10,Stifel,Not Provided,5,buy,58.0
+2006-08-10,Thomas Weisel Partners,Not Provided,5,outperform,-0.0
+2006-08-10,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-05-03,A.G. Edwards & Sons Inc,Not Provided,5,buy,68.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2006-11-01,Credit Suisse,12 month,1,underperform,53.0
+2006-10-20,EVA Dimensions,Not Provided,3,hold,-0.0
+2006-10-18,Cowen,Not Provided,5,outperform,-0.0
+2006-10-16,Thomas Weisel Partners,Not Provided,5,outperform,-0.0
+2006-09-26,RBC Capital Markets,Not Provided,1,underperform,48.0
+2006-09-08,UBS,12 month,3,neutral 2,56.0
+2006-09-05,Goldman Sachs,Not Provided,5,Buy/Neutral,66.1
+2006-08-10,Bear Stearns & Co,Not Provided,3,peerperform,-0.0
+2006-08-10,Jefferies,Not Provided,5,buy,70.0
+2006-08-10,Baird,Not Provided,5,outperform,55.0
+2006-08-10,Stifel,Not Provided,5,buy,58.0
+2006-08-10,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-05-03,A.G. Edwards & Sons Inc,Not Provided,5,buy,68.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2006-11-27,Credit Suisse,12 month,1,underperform,53.0
+2006-11-27,Stifel,Not Provided,3,hold,-0.0
+2006-11-27,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-11-16,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2006-11-05,UBS,12 month,3,neutral 2,51.0
+2006-11-03,EVA Dimensions,Not Provided,5,buy,-0.0
+2006-10-18,Cowen,Not Provided,5,outperform,-0.0
+2006-09-26,RBC Capital Markets,Not Provided,1,underperform,48.0
+2006-09-05,Goldman Sachs,Not Provided,5,Buy/Neutral,66.1
+2006-08-10,Bear Stearns & Co,Not Provided,3,peerperform,-0.0
+2006-08-10,Jefferies,Not Provided,5,buy,70.0
+2006-08-10,Baird,Not Provided,5,outperform,55.0
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-05-03,A.G. Edwards & Sons Inc,Not Provided,5,buy,68.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2006-12-15,Baird,Not Provided,5,outperform,55.0
+2006-12-14,Stifel,Not Provided,3,hold,-0.0
+2006-12-14,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2006-12-06,UBS,Not Provided,2,reduce 2,48.0
+2006-12-05,Credit Suisse,12 month,1,underperform,53.0
+2006-11-27,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-11-03,EVA Dimensions,Not Provided,5,buy,-0.0
+2006-10-18,Cowen,Not Provided,5,outperform,-0.0
+2006-09-26,RBC Capital Markets,Not Provided,1,underperform,48.0
+2006-09-05,Goldman Sachs,Not Provided,5,Buy/Neutral,66.1
+2006-08-10,Bear Stearns & Co,Not Provided,3,peerperform,-0.0
+2006-08-10,Jefferies,Not Provided,5,buy,70.0
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2006-05-03,A.G. Edwards & Sons Inc,Not Provided,5,buy,68.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2007-01-29,Stifel,Not Provided,3,hold,-0.0
+2007-01-26,EVA Dimensions,Not Provided,3,hold,-0.0
+2007-01-25,Baird,Not Provided,5,outperform,54.0
+2007-01-25,Cowen,Not Provided,5,outperform,-0.0
+2007-01-24,A.G. Edwards & Sons Inc,Not Provided,5,buy,68.0
+2007-01-24,Credit Suisse,12 month,1,underperform,50.0
+2007-01-24,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2007-01-24,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2006-12-06,UBS,Not Provided,2,reduce 2,48.0
+2006-09-26,RBC Capital Markets,Not Provided,1,underperform,48.0
+2006-09-05,Goldman Sachs,Not Provided,5,Buy/Neutral,66.1
+2006-08-10,Bear Stearns & Co,Not Provided,3,peerperform,-0.0
+2006-08-10,Jefferies,Not Provided,5,buy,70.0
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2007-02-26,Stifel,Not Provided,3,hold,-0.0
+2007-02-14,Goldman Sachs,Not Provided,5,Buy/Neutral,60.5
+2007-02-14,RBC Capital Markets,Not Provided,5,outperform,60.0
+2007-02-14,Credit Suisse,12 month,3,neutral,55.0
+2007-02-14,Baird,Not Provided,5,outperform,55.0
+2007-02-14,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2007-02-14,Cowen,Not Provided,5,outperform,-0.0
+2007-02-14,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2007-01-26,EVA Dimensions,Not Provided,3,hold,-0.0
+2007-01-24,A.G. Edwards & Sons Inc,Not Provided,5,buy,68.0
+2006-12-06,UBS,Not Provided,2,reduce 2,48.0
+2006-08-10,Bear Stearns & Co,Not Provided,3,peerperform,-0.0
+2006-08-10,Jefferies,Not Provided,5,buy,70.0
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2005-12-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2007-03-27,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+2007-03-26,Jefferies,Not Provided,3,hold,60.0
+2007-03-22,Goldman Sachs,Not Provided,3,neutral/neutral,60.5
+2007-03-21,Bear Stearns & Co,Not Provided,3,peerperform,-0.0
+2007-03-21,Baird,Not Provided,3,neutral,59.0
+2007-03-20,Credit Suisse,12 month,3,neutral,55.0
+2007-03-20,UBS,Not Provided,3,neutral 2,60.0
+2007-03-20,Stifel,Not Provided,3,hold,-0.0
+2007-03-20,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2007-02-14,RBC Capital Markets,Not Provided,5,outperform,60.0
+2007-02-14,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2007-02-14,Cowen,Not Provided,5,outperform,-0.0
+2007-01-26,EVA Dimensions,Not Provided,3,hold,-0.0
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2007-04-30,Credit Suisse,12 month,3,neutral,55.0
+2007-04-23,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2007-03-27,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+2007-03-26,Jefferies,Not Provided,3,hold,60.0
+2007-03-22,Goldman Sachs,Not Provided,3,neutral/neutral,60.5
+2007-03-21,Baird,Not Provided,3,neutral,59.0
+2007-03-20,UBS,Not Provided,3,neutral 2,60.0
+2007-03-20,Stifel,Not Provided,3,hold,-0.0
+2007-03-20,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2007-02-14,RBC Capital Markets,Not Provided,5,outperform,60.0
+2007-02-14,Cowen,Not Provided,5,outperform,-0.0
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2007-05-29,EVA Dimensions,Not Provided,3,hold,-0.0
+2007-05-02,RBC Capital Markets,Not Provided,3,sector perform,62.0
+2007-05-02,Credit Suisse,12 month,3,neutral,55.0
+2007-05-02,UBS,Not Provided,3,neutral 2,62.0
+2007-05-02,Baird,Not Provided,3,neutral,62.0
+2007-05-02,Stifel,Not Provided,3,hold,-0.0
+2007-05-02,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2007-05-02,Cowen,Not Provided,5,outperform,-0.0
+2007-05-02,Prudential Equity Group Inc,Not Provided,3,neutral weight,58.0
+2007-03-27,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+2007-03-26,Jefferies,Not Provided,3,hold,60.0
+2007-03-22,Goldman Sachs,Not Provided,3,neutral/neutral,60.5
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2007-06-04,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2007-05-29,EVA Dimensions,Not Provided,3,hold,-0.0
+2007-05-02,RBC Capital Markets,Not Provided,3,sector perform,62.0
+2007-05-02,Credit Suisse,12 month,3,neutral,55.0
+2007-05-02,UBS,Not Provided,3,neutral 2,62.0
+2007-05-02,Stifel,Not Provided,3,hold,-0.0
+2007-05-02,Cowen,Not Provided,5,outperform,-0.0
+2007-03-27,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+2007-03-26,Jefferies,Not Provided,3,hold,60.0
+2007-03-22,Goldman Sachs,Not Provided,3,neutral/neutral,60.5
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2007-07-13,UBS,Not Provided,3,neutral,62.0
+2007-06-04,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2007-05-29,EVA Dimensions,Not Provided,3,hold,-0.0
+2007-05-02,RBC Capital Markets,Not Provided,3,sector perform,62.0
+2007-05-02,Credit Suisse,12 month,3,neutral,55.0
+2007-05-02,Stifel,Not Provided,3,hold,-0.0
+2007-05-02,Cowen,Not Provided,5,outperform,-0.0
+2007-03-27,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+2007-03-26,Jefferies,Not Provided,3,hold,60.0
+2007-03-22,Goldman Sachs,Not Provided,3,neutral/neutral,60.5
+2006-05-10,J.P. Morgan,Not Provided,3,neutral,-0.0
+2007-08-31,Cowen,Not Provided,5,outperform,-0.0
+2007-08-23,A.G. Edwards & Sons Inc,Not Provided,3,hold,-0.0
+2007-08-22,Goldman Sachs,Not Provided,3,neutral/neutral,60.0
+2007-08-22,RBC Capital Markets,Not Provided,3,sector perform,55.0
+2007-08-22,UBS,12 month,3,neutral,56.0
+2007-08-22,J.P. Morgan,Not Provided,3,neutral,-0.0
+2007-08-16,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2007-05-29,EVA Dimensions,Not Provided,3,hold,-0.0
+2007-05-02,Stifel,Not Provided,3,hold,-0.0
+2007-03-26,Jefferies,Not Provided,3,hold,60.0
+2007-09-10,EVA Dimensions,Not Provided,3,hold,-0.0
+2007-08-31,Cowen,Not Provided,5,outperform,-0.0
+2007-08-22,Goldman Sachs,Not Provided,3,neutral/neutral,60.0
+2007-08-22,RBC Capital Markets,Not Provided,3,sector perform,55.0
+2007-08-22,UBS,12 month,3,neutral,56.0
+2007-08-22,J.P. Morgan,Not Provided,3,neutral,-0.0
+2007-08-16,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2007-05-02,Stifel,Not Provided,3,hold,-0.0
+2007-03-26,Jefferies,Not Provided,3,hold,60.0
+2007-11-01,Credit Suisse,12 month,3,neutral,55.0
+2007-10-31,Thomas Weisel Partners,Not Provided,5,overweight,60.0
+2007-10-31,Cowen,Not Provided,5,outperform,-0.0
+2007-09-10,EVA Dimensions,Not Provided,3,hold,-0.0
+2007-08-22,Goldman Sachs,Not Provided,3,neutral/neutral,60.0
+2007-08-22,RBC Capital Markets,Not Provided,3,sector perform,55.0
+2007-08-22,UBS,12 month,3,neutral,56.0
+2007-08-22,J.P. Morgan,Not Provided,3,neutral,-0.0
+2007-05-02,Stifel,Not Provided,3,hold,-0.0
+2007-03-26,Jefferies,Not Provided,3,hold,60.0
+2007-11-29,Credit Suisse,12 month,3,neutral,55.0
+2007-11-27,Goldman Sachs,12 month,3,neutral/neutral,46.0
+2007-11-27,Stifel,Not Provided,5,buy,51.0
+2007-11-26,Thomas Weisel Partners,Not Provided,5,overweight,60.0
+2007-11-13,EVA Dimensions,Not Provided,3,hold,-0.0
+2007-11-08,UBS,12 month,3,neutral,51.0
+2007-11-02,RBC Capital Markets,Not Provided,3,sector perform,53.0
+2007-11-02,Jefferies,Not Provided,3,hold,50.0
+2007-10-31,Cowen,Not Provided,5,outperform,-0.0
+2007-08-22,J.P. Morgan,Not Provided,3,neutral,-0.0
+2007-11-29,Credit Suisse,12 month,3,neutral,55.0
+2007-11-27,Goldman Sachs,12 month,3,neutral/neutral,46.0
+2007-11-27,Stifel,Not Provided,5,buy,51.0
+2007-11-26,Thomas Weisel Partners,Not Provided,5,overweight,60.0
+2007-11-13,EVA Dimensions,Not Provided,3,hold,-0.0
+2007-11-08,UBS,12 month,3,neutral,51.0
+2007-11-02,RBC Capital Markets,Not Provided,3,sector perform,53.0
+2007-11-02,Jefferies,Not Provided,3,hold,50.0
+2007-10-31,Cowen,Not Provided,5,outperform,-0.0
+2007-08-22,J.P. Morgan,Not Provided,3,neutral,-0.0
+2008-02-01,Goldman Sachs,6 month,3,neutral/neutral,52.0
+2008-02-01,RBC Capital Markets,12 month,5,outperform,59.0
+2008-02-01,Credit Suisse,Not Provided,5,outperform,55.0
+2008-02-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+2008-02-01,Stifel,Not Provided,5,buy,52.0
+2008-02-01,Thomas Weisel Partners,Not Provided,5,overweight,63.0
+2008-02-01,EVA Dimensions,Not Provided,3,hold,-0.0
+2008-01-30,Cowen,Not Provided,5,outperform,-0.0
+2008-01-14,UBS,12 month,5,buy,51.0
+2007-11-02,Jefferies,Not Provided,3,hold,50.0
+2008-02-29,UBS,12 month,5,buy,61.0
+2008-02-26,Credit Suisse,Not Provided,5,outperform,61.0
+2008-02-08,Thomas Weisel Partners,Not Provided,5,overweight,63.0
+2008-02-07,Goldman Sachs,6 month,3,neutral/neutral,52.0
+2008-02-01,RBC Capital Markets,12 month,5,outperform,59.0
+2008-02-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+2008-02-01,Stifel,Not Provided,5,buy,52.0
+2008-02-01,EVA Dimensions,Not Provided,3,hold,-0.0
+2008-01-30,Cowen,Not Provided,5,outperform,-0.0
+2007-11-02,Jefferies,Not Provided,3,hold,50.0
+2008-03-20,UBS,12 month,5,buy,61.0
+2008-03-05,Stifel,Not Provided,5,buy,52.0
+2008-02-26,Credit Suisse,Not Provided,5,outperform,61.0
+2008-02-08,Thomas Weisel Partners,Not Provided,5,overweight,63.0
+2008-02-07,Goldman Sachs,6 month,3,neutral/neutral,52.0
+2008-02-01,RBC Capital Markets,12 month,5,outperform,59.0
+2008-02-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+2008-02-01,EVA Dimensions,Not Provided,3,hold,-0.0
+2008-01-30,Cowen,Not Provided,5,outperform,-0.0
+2007-11-02,Jefferies,Not Provided,3,hold,50.0
+2008-05-01,Credit Suisse,Not Provided,5,outperform,61.0
+2008-04-30,Cowen,Not Provided,5,outperform,-0.0
+2008-04-29,Goldman Sachs,6 month,5,Buy/Neutral,62.0
+2008-04-28,Thomas Weisel Partners,Not Provided,5,overweight,63.0
+2008-04-18,Stifel,Not Provided,3,hold,-0.0
+2008-03-20,UBS,12 month,5,buy,61.0
+2008-02-01,RBC Capital Markets,12 month,5,outperform,59.0
+2008-02-01,J.P. Morgan,Not Provided,3,neutral,-0.0
+2008-02-01,EVA Dimensions,Not Provided,3,hold,-0.0
+2007-11-02,Jefferies,Not Provided,3,hold,50.0
+2008-05-29,Jefferies,Not Provided,5,buy,63.0
+2008-05-16,RBC Capital Markets,12 month,5,outperform,63.0
+2008-05-16,Credit Suisse,Not Provided,5,outperform,61.0
+2008-05-16,UBS,12 month,5,buy,61.0
+2008-05-16,Stifel,Not Provided,3,hold,-0.0
+2008-05-16,Thomas Weisel Partners,Not Provided,5,overweight,66.0
+2008-05-13,EVA Dimensions,Not Provided,3,hold,-0.0
+2008-05-02,J.P. Morgan,Not Provided,3,neutral,-0.0
+2008-05-02,Cowen,Not Provided,5,outperform,-0.0
+2008-04-29,Goldman Sachs,6 month,5,Buy/Neutral,62.0
+2008-06-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2008-05-29,Jefferies,Not Provided,5,buy,63.0
+2008-05-16,RBC Capital Markets,12 month,5,outperform,63.0
+2008-05-16,Credit Suisse,Not Provided,5,outperform,61.0
+2008-05-16,UBS,12 month,5,buy,61.0
+2008-05-16,Stifel,Not Provided,3,hold,-0.0
+2008-05-16,Thomas Weisel Partners,Not Provided,5,overweight,66.0
+2008-05-13,EVA Dimensions,Not Provided,3,hold,-0.0
+2008-05-02,J.P. Morgan,Not Provided,3,neutral,-0.0
+2008-05-02,Cowen,Not Provided,5,outperform,-0.0
+2008-04-29,Goldman Sachs,6 month,5,Buy/Neutral,62.0
+2008-07-24,Thomas Weisel Partners,Not Provided,5,overweight,65.0
+2008-07-23,Stifel,Not Provided,3,hold,-0.0
+2008-06-12,William Blair & Co,Not Provided,3,market perform,-0.0
+2008-05-29,Jefferies,Not Provided,5,buy,63.0
+2008-05-16,Credit Suisse,Not Provided,5,outperform,61.0
+2008-05-16,UBS,12 month,5,buy,61.0
+2008-05-13,EVA Dimensions,Not Provided,3,hold,-0.0
+2008-05-02,J.P. Morgan,Not Provided,3,neutral,-0.0
+2008-05-02,Cowen,Not Provided,5,outperform,-0.0
+2008-04-29,Goldman Sachs,6 month,5,Buy/Neutral,62.0
+2008-08-19,Goldman Sachs,6 month,3,neutral/neutral,56.0
+2008-08-08,Credit Suisse,Not Provided,5,outperform,61.0
+2008-08-08,Jefferies,Not Provided,5,buy,63.0
+2008-08-08,Stifel,Not Provided,3,hold,-0.0
+2008-08-08,Cowen,Not Provided,5,outperform,-0.0
+2008-08-07,William Blair & Co,Not Provided,3,market perform,-0.0
+2008-08-07,Thomas Weisel Partners,Not Provided,5,overweight,65.0
+2008-05-16,UBS,12 month,5,buy,61.0
+2008-05-13,EVA Dimensions,Not Provided,3,hold,-0.0
+2008-05-02,J.P. Morgan,Not Provided,3,neutral,-0.0
+2008-09-12,Cowen,Not Provided,5,outperform,-0.0
+2008-09-03,Thomas Weisel Partners,Not Provided,5,overweight,65.0
+2008-08-19,Goldman Sachs,6 month,3,neutral/neutral,56.0
+2008-08-08,Credit Suisse,Not Provided,5,outperform,61.0
+2008-08-08,Jefferies,Not Provided,5,buy,63.0
+2008-08-08,Stifel,Not Provided,3,hold,-0.0
+2008-08-07,William Blair & Co,Not Provided,3,market perform,-0.0
+2008-05-16,UBS,12 month,5,buy,61.0
+2008-05-13,EVA Dimensions,Not Provided,3,hold,-0.0
+2008-05-02,J.P. Morgan,Not Provided,3,neutral,-0.0
+2008-10-31,Thomas Weisel Partners,12 month,5,overweight,50.0
+2008-10-31,Cowen,Not Provided,5,outperform,-0.0
+2008-10-31,Susquehanna Financial,Not Provided,4,Positive,47.0
+2008-10-30,Credit Suisse,Not Provided,5,outperform,61.0
+2008-10-24,EVA Dimensions,Not Provided,1,sell,-0.0
+2008-10-22,Stifel,Not Provided,3,hold,-0.0
+2008-10-15,Goldman Sachs,12 month,3,neutral/neutral,47.0
+2008-10-13,UBS,Not Provided,5,buy,50.0
+2008-08-08,Jefferies,Not Provided,5,buy,63.0
+2008-08-07,William Blair & Co,Not Provided,3,market perform,-0.0
+2008-05-02,J.P. Morgan,Not Provided,3,neutral,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2008-11-12,Susquehanna Financial,Not Provided,4,Positive,47.0
+2008-10-31,Thomas Weisel Partners,12 month,5,overweight,50.0
+2008-10-31,Cowen,Not Provided,5,outperform,-0.0
+2008-10-30,Credit Suisse,Not Provided,5,outperform,61.0
+2008-10-24,EVA Dimensions,Not Provided,1,sell,-0.0
+2008-10-22,Stifel,Not Provided,3,hold,-0.0
+2008-10-15,Goldman Sachs,12 month,3,neutral/neutral,47.0
+2008-10-13,UBS,Not Provided,5,buy,50.0
+2008-08-08,Jefferies,Not Provided,5,buy,63.0
+2008-08-07,William Blair & Co,Not Provided,3,market perform,-0.0
+2008-05-02,J.P. Morgan,Not Provided,3,neutral,-0.0
+2009-01-01,J.P. Morgan,9 month,3,neutral,48.0
+2008-12-24,Susquehanna Financial,Not Provided,4,Positive,47.0
+2008-12-22,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2008-12-19,JM Financial Institutional Securities P,Not Provided,-2147483648,not rated,-0.0
+2008-12-10,Stifel,Not Provided,3,hold,-0.0
+2008-12-09,Thomas Weisel Partners,12 month,5,overweight,50.0
+2008-12-04,Goldman Sachs,12 month,3,neutral/neutral,40.0
+2008-12-03,Credit Suisse,Not Provided,5,outperform,61.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2008-10-31,Cowen,Not Provided,5,outperform,-0.0
+2008-10-24,EVA Dimensions,Not Provided,1,sell,-0.0
+2008-10-13,UBS,Not Provided,5,buy,50.0
+2008-08-08,Jefferies,Not Provided,5,buy,63.0
+2008-08-07,William Blair & Co,Not Provided,3,market perform,-0.0
+2009-01-30,UBS,Not Provided,5,buy,54.0
+2009-01-30,Jefferies,Not Provided,5,buy,63.0
+2009-01-30,Stifel,Not Provided,3,hold,-0.0
+2009-01-30,Thomas Weisel Partners,9 month,5,overweight,52.0
+2009-01-30,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-01-30,Cowen,Not Provided,5,outperform,-0.0
+2009-01-30,Susquehanna Financial,Not Provided,4,Positive,48.0
+2009-01-29,Goldman Sachs,12 month,3,neutral/neutral,45.0
+2009-01-29,Credit Suisse,Not Provided,5,outperform,61.0
+2009-01-22,EVA Dimensions,Not Provided,1,sell,-0.0
+2009-01-01,J.P. Morgan,9 month,3,neutral,48.0
+2008-12-19,JM Financial Institutional Securities P,Not Provided,-2147483648,not rated,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2008-08-07,William Blair & Co,Not Provided,3,market perform,-0.0
+2009-02-27,Thomas Weisel Partners,9 month,5,overweight,52.0
+2009-02-23,Cowen,Not Provided,5,outperform,-0.0
+2009-02-19,Susquehanna Financial,Not Provided,4,Positive,55.0
+2009-01-30,UBS,Not Provided,5,buy,54.0
+2009-01-30,Jefferies,Not Provided,5,buy,63.0
+2009-01-30,Stifel,Not Provided,3,hold,-0.0
+2009-01-30,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-01-29,Goldman Sachs,12 month,3,neutral/neutral,45.0
+2009-01-29,Credit Suisse,Not Provided,5,outperform,61.0
+2009-01-22,EVA Dimensions,Not Provided,1,sell,-0.0
+2009-01-01,J.P. Morgan,9 month,3,neutral,48.0
+2008-12-19,JM Financial Institutional Securities P,Not Provided,-2147483648,not rated,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2008-08-07,William Blair & Co,Not Provided,3,market perform,-0.0
+2009-03-27,Stifel,Not Provided,5,buy,55.0
+2009-03-25,Thomas Weisel Partners,9 month,5,overweight,52.0
+2009-03-25,Cowen,Not Provided,5,outperform,-0.0
+2009-03-17,UBS,Not Provided,5,buy,54.0
+2009-03-10,Goldman Sachs,12 month,3,neutral/neutral,48.0
+2009-02-19,Susquehanna Financial,Not Provided,4,Positive,55.0
+2009-01-30,Jefferies,Not Provided,5,buy,63.0
+2009-01-30,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-01-29,Credit Suisse,Not Provided,5,outperform,61.0
+2009-01-22,EVA Dimensions,Not Provided,1,sell,-0.0
+2009-01-01,J.P. Morgan,9 month,3,neutral,48.0
+2008-12-19,JM Financial Institutional Securities P,Not Provided,-2147483648,not rated,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2008-08-07,William Blair & Co,Not Provided,3,market perform,-0.0
+2009-05-01,UBS,Not Provided,5,buy,54.0
+2009-05-01,Jefferies,12 month,5,buy,63.0
+2009-05-01,Stifel,12 month,5,buy,55.0
+2009-05-01,Thomas Weisel Partners,6 month,5,overweight,52.0
+2009-05-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-05-01,Cowen,Not Provided,5,outperform,-0.0
+2009-05-01,Susquehanna Financial,Not Provided,4,Positive,55.0
+2009-04-30,Credit Suisse,Not Provided,5,outperform,61.0
+2009-04-30,William Blair & Co,Not Provided,3,market perform,-0.0
+2009-03-10,Goldman Sachs,12 month,3,neutral/neutral,48.0
+2009-01-22,EVA Dimensions,Not Provided,1,sell,-0.0
+2009-01-01,J.P. Morgan,9 month,3,neutral,48.0
+2008-12-19,JM Financial Institutional Securities P,Not Provided,-2147483648,not rated,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-06-01,J.P. Morgan,Not Provided,3,neutral,52.0
+2009-05-28,Cowen,Not Provided,5,outperform,-0.0
+2009-05-27,Thomas Weisel Partners,6 month,5,overweight,52.0
+2009-05-11,Stifel,12 month,5,buy,55.0
+2009-05-01,UBS,Not Provided,5,buy,54.0
+2009-05-01,Jefferies,12 month,5,buy,63.0
+2009-05-01,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-05-01,Susquehanna Financial,Not Provided,4,Positive,55.0
+2009-04-30,Credit Suisse,Not Provided,5,outperform,61.0
+2009-04-30,William Blair & Co,Not Provided,3,market perform,-0.0
+2009-03-10,Goldman Sachs,12 month,3,neutral/neutral,48.0
+2009-01-22,EVA Dimensions,Not Provided,1,sell,-0.0
+2008-12-19,JM Financial Institutional Securities P,Not Provided,-2147483648,not rated,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-07-01,Kaufman Bros,12 month,3,hold,48.0
+2009-06-22,Stifel,12 month,5,buy,55.0
+2009-06-18,Credit Suisse,Not Provided,5,outperform,61.0
+2009-06-18,Thomas Weisel Partners,12 month,5,overweight,52.0
+2009-06-18,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-06-15,Cowen,Not Provided,5,outperform,-0.0
+2009-06-14,Goldman Sachs,12 month,3,neutral/neutral,52.0
+2009-06-12,J.P. Morgan,6 month,3,neutral,52.0
+2009-06-11,UBS,Not Provided,5,buy,54.0
+2009-05-01,Jefferies,12 month,5,buy,63.0
+2009-05-01,Susquehanna Financial,Not Provided,4,Positive,55.0
+2009-04-30,William Blair & Co,Not Provided,3,market perform,-0.0
+2009-01-22,EVA Dimensions,Not Provided,1,sell,-0.0
+2008-12-19,JM Financial Institutional Securities P,Not Provided,-2147483648,not rated,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-08-01,EVA Dimensions,Not Provided,3,hold,-0.0
+2009-07-30,Credit Suisse,Not Provided,5,outperform,61.0
+2009-07-30,Thomas Weisel Partners,12 month,5,overweight,52.0
+2009-07-29,UBS,Not Provided,5,buy,54.0
+2009-07-29,Susquehanna Financial,Not Provided,4,Positive,55.0
+2009-07-27,J.P. Morgan,6 month,3,neutral,52.0
+2009-07-23,Stifel,12 month,5,buy,54.0
+2009-07-21,Cowen,Not Provided,5,outperform,-0.0
+2009-07-01,Kaufman Bros,12 month,3,hold,48.0
+2009-06-18,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-06-14,Goldman Sachs,12 month,3,neutral/neutral,52.0
+2009-05-01,Jefferies,12 month,5,buy,63.0
+2009-04-30,William Blair & Co,Not Provided,3,market perform,-0.0
+2008-12-19,JM Financial Institutional Securities P,Not Provided,-2147483648,not rated,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-08-26,Stifel,12 month,5,buy,53.0
+2009-08-18,Kaufman Bros,Not Provided,3,hold,52.0
+2009-08-13,EVA Dimensions,Not Provided,5,buy,-0.0
+2009-08-07,Goldman Sachs,12 month,3,neutral/neutral,50.0
+2009-08-07,Credit Suisse,Not Provided,5,outperform,61.0
+2009-08-07,UBS,Not Provided,5,buy,54.0
+2009-08-07,J.P. Morgan,6 month,3,neutral,52.0
+2009-08-07,Jefferies,12 month,5,buy,62.0
+2009-08-07,Thomas Weisel Partners,12 month,5,overweight,52.0
+2009-08-07,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-08-07,Cowen,Not Provided,5,outperform,-0.0
+2009-08-07,Susquehanna Financial,Not Provided,4,Positive,55.0
+2009-08-06,William Blair & Co,Not Provided,3,market perform,-0.0
+2008-12-19,JM Financial Institutional Securities P,Not Provided,-2147483648,not rated,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-09-30,UBS,Not Provided,3,neutral,58.0
+2009-09-30,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2009-09-29,Jefferies,12 month,5,buy,62.0
+2009-09-29,Kaufman Bros,12 month,3,hold,55.0
+2009-09-29,Stifel,Not Provided,3,hold,-0.0
+2009-09-29,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-09-29,Cowen,Not Provided,5,outperform,-0.0
+2009-09-28,J.P. Morgan,Not Provided,-2147483648,restricted,-0.0
+2009-09-28,William Blair & Co,Not Provided,3,market perform,-0.0
+2009-09-20,Goldman Sachs,12 month,3,neutral/neutral,51.0
+2009-09-18,Susquehanna Financial,Not Provided,4,Positive,55.0
+2009-08-13,EVA Dimensions,Not Provided,5,buy,-0.0
+2009-08-07,Credit Suisse,Not Provided,5,outperform,61.0
+2008-12-19,JM Financial Institutional Securities P,Not Provided,-2147483648,not rated,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-10-26,Cowen,Not Provided,5,outperform,-0.0
+2009-10-23,Credit Suisse,Not Provided,5,outperform,61.0
+2009-10-23,Kaufman Bros,12 month,3,hold,58.0
+2009-10-23,Stifel,Not Provided,3,hold,-0.0
+2009-10-23,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2009-10-23,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-10-23,Susquehanna Financial,Not Provided,3,neutral,-0.0
+2009-10-22,William Blair & Co,Not Provided,3,market perform,-0.0
+2009-10-14,Goldman Sachs,12 month,3,neutral/neutral,58.0
+2009-09-30,UBS,Not Provided,3,neutral,58.0
+2009-09-29,Jefferies,12 month,5,buy,62.0
+2009-09-28,J.P. Morgan,Not Provided,-2147483648,restricted,-0.0
+2009-08-13,EVA Dimensions,Not Provided,5,buy,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-11-20,Cowen,Not Provided,5,outperform,-0.0
+2009-11-03,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0
+2009-10-23,Credit Suisse,Not Provided,5,outperform,61.0
+2009-10-23,Kaufman Bros,12 month,3,hold,58.0
+2009-10-23,Stifel,Not Provided,3,hold,-0.0
+2009-10-23,Thomas Weisel Partners,Not Provided,5,overweight,-0.0
+2009-10-23,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-10-23,Susquehanna Financial,Not Provided,3,neutral,-0.0
+2009-10-22,William Blair & Co,Not Provided,3,market perform,-0.0
+2009-09-30,UBS,Not Provided,3,neutral,58.0
+2009-09-29,Jefferies,12 month,5,buy,62.0
+2009-09-28,J.P. Morgan,Not Provided,-2147483648,restricted,-0.0
+2009-08-13,EVA Dimensions,Not Provided,5,buy,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-12-29,Stifel,Not Provided,3,hold,-0.0
+2009-12-21,Thomas Weisel Partners,Not Provided,-2147483648,suspended coverage,-0.0
+2009-11-20,Cowen,Not Provided,5,outperform,-0.0
+2009-11-03,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0
+2009-10-23,Credit Suisse,Not Provided,5,outperform,61.0
+2009-10-23,Kaufman Bros,12 month,3,hold,58.0
+2009-10-23,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2009-10-23,Susquehanna Financial,Not Provided,3,neutral,-0.0
+2009-10-22,William Blair & Co,Not Provided,3,market perform,-0.0
+2009-09-30,UBS,Not Provided,3,neutral,58.0
+2009-09-29,Jefferies,12 month,5,buy,62.0
+2009-09-28,J.P. Morgan,Not Provided,-2147483648,restricted,-0.0
+2009-08-13,EVA Dimensions,Not Provided,5,buy,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2010-02-01,Stifel,Not Provided,3,hold,-0.0
+2010-01-29,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2010-01-22,Kaufman Bros,12 month,3,hold,64.0
+2010-01-19,Cowen,Not Provided,5,outperform,-0.0
+2009-12-21,Thomas Weisel Partners,Not Provided,-2147483648,suspended coverage,-0.0
+2009-11-03,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0
+2009-10-23,Credit Suisse,Not Provided,5,outperform,61.0
+2009-09-30,UBS,Not Provided,3,neutral,58.0
+2009-09-29,Jefferies,12 month,5,buy,62.0
+2009-09-28,J.P. Morgan,Not Provided,-2147483648,restricted,-0.0
+2009-08-13,EVA Dimensions,Not Provided,5,buy,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-12-21,Thomas Weisel Partners,Not Provided,-2147483648,suspended coverage,-0.0
+2009-09-28,J.P. Morgan,Not Provided,-2147483648,restricted,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-12-21,Thomas Weisel Partners,Not Provided,-2147483648,suspended coverage,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-12-21,Thomas Weisel Partners,Not Provided,-2147483648,suspended coverage,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0
+2009-12-21,Thomas Weisel Partners,Not Provided,-2147483648,suspended coverage,-0.0
+2008-11-19,UBS,12 month,5,buy,50.0

@@ -1,0 +1,218 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-07-01,Jefferies,12 month,3,hold,28.0
+2015-06-22,Wolfe Research,12 month,5,outperform,35.0
+2015-06-18,Spin-Off Research,Not Provided,3,neutral,29.0
+2015-06-17,US Capital Advisors,Not Provided,-2147483648,not rated,34.0
+2015-07-23,Edward Jones,Not Provided,5,buy,-0.0
+2015-07-09,J.P. Morgan,6 month,3,neutral,32.0
+2015-07-08,US Capital Advisors,Not Provided,5,overweight,34.0
+2015-07-06,Spin-Off Research,Not Provided,3,neutral,28.0
+2015-07-03,UBS,12 month,5,buy,33.0
+2015-07-02,Credit Suisse,Not Provided,5,outperform,35.0
+2015-07-01,Jefferies,12 month,3,hold,28.0
+2015-06-22,Wolfe Research,12 month,5,outperform,35.0
+2015-09-01,Wolfe Research,12 month,5,outperform,34.0
+2015-08-28,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-08-26,Edward Jones,Not Provided,5,buy,-0.0
+2015-08-25,US Capital Advisors,Not Provided,5,overweight,34.0
+2015-08-03,Credit Suisse,Not Provided,5,outperform,35.0
+2015-07-09,J.P. Morgan,6 month,3,neutral,32.0
+2015-07-06,Spin-Off Research,Not Provided,3,neutral,28.0
+2015-07-03,UBS,12 month,5,buy,33.0
+2015-07-01,Jefferies,12 month,3,hold,28.0
+2015-09-30,Wolfe Research,Not Provided,5,outperform,34.0
+2015-09-22,Edward Jones,Not Provided,5,buy,-0.0
+2015-09-21,UBS,12 month,5,buy,32.0
+2015-09-08,Barclays,Not Provided,3,equalweight,28.0
+2015-08-28,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-08-25,US Capital Advisors,Not Provided,5,overweight,34.0
+2015-08-03,Credit Suisse,Not Provided,5,outperform,35.0
+2015-07-09,J.P. Morgan,6 month,3,neutral,32.0
+2015-07-06,Spin-Off Research,Not Provided,3,neutral,28.0
+2015-07-01,Jefferies,12 month,3,hold,28.0
+2015-11-01,Wolfe Research,Not Provided,5,outperform,34.0
+2015-10-29,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-10-22,Edward Jones,Not Provided,5,buy,-0.0
+2015-10-20,US Capital Advisors,Not Provided,5,overweight,34.0
+2015-10-13,Credit Suisse,Not Provided,3,neutral,27.0
+2015-10-08,Jefferies,Not Provided,5,buy,26.0
+2015-09-21,UBS,12 month,5,buy,32.0
+2015-09-08,Barclays,Not Provided,3,equalweight,28.0
+2015-07-09,J.P. Morgan,6 month,3,neutral,32.0
+2015-07-06,Spin-Off Research,Not Provided,3,neutral,28.0
+2015-12-01,Credit Suisse,Not Provided,-2147483648,not rated,-0.0
+2015-12-01,Edward Jones,Not Provided,5,buy,-0.0
+2015-11-23,US Capital Advisors,Not Provided,5,overweight,26.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2015-11-05,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-11-05,Barclays,Not Provided,3,equalweight,24.0
+2015-11-03,Wolfe Research,12 month,5,outperform,31.0
+2015-10-08,Jefferies,Not Provided,5,buy,26.0
+2015-09-21,UBS,12 month,5,buy,32.0
+2015-07-09,J.P. Morgan,6 month,3,neutral,32.0
+2015-07-06,Spin-Off Research,Not Provided,3,neutral,28.0
+2015-12-21,Edward Jones,Not Provided,5,buy,-0.0
+2015-12-18,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2015-12-08,UBS,12 month,5,buy,29.0
+2015-12-07,Jefferies,Not Provided,5,buy,24.0
+2015-12-02,Credit Suisse,Not Provided,3,neutral,27.0
+2015-12-02,Barclays,Not Provided,3,equalweight,24.0
+2015-12-02,Wolfe Research,12 month,5,outperform,28.0
+2015-11-23,US Capital Advisors,Not Provided,5,overweight,26.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2015-07-09,J.P. Morgan,6 month,3,neutral,32.0
+2015-07-06,Spin-Off Research,Not Provided,3,neutral,28.0
+2016-01-29,Edward Jones,Not Provided,5,buy,-0.0
+2016-01-29,J.P. Morgan,12 month,3,neutral,24.0
+2016-01-27,US Capital Advisors,Not Provided,5,overweight,26.0
+2016-01-25,Wolfe Research,12 month,5,outperform,28.0
+2016-01-15,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2016-01-14,Jefferies,Not Provided,5,buy,24.0
+2016-01-11,Barclays,Not Provided,3,equalweight,21.0
+2016-01-07,Spin-Off Research,Not Provided,3,neutral,21.0
+2015-12-08,UBS,12 month,5,buy,29.0
+2015-12-02,Credit Suisse,Not Provided,3,neutral,27.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-03-01,Wolfe Research,12 month,5,outperform,25.0
+2016-02-26,Morgan Stanley,12 month,3,Equalwt/No Rating,20.0
+2016-02-23,Wells Fargo Securities,Not Provided,3,market perform,-0.0
+2016-02-22,Credit Suisse,Not Provided,3,neutral,23.0
+2016-02-19,US Capital Advisors,Not Provided,5,overweight,26.0
+2016-02-18,Edward Jones,Not Provided,5,buy,-0.0
+2016-02-18,Barclays,Not Provided,3,equalweight,21.0
+2016-01-29,J.P. Morgan,12 month,3,neutral,24.0
+2016-01-14,Jefferies,Not Provided,5,buy,24.0
+2016-01-07,Spin-Off Research,Not Provided,3,neutral,21.0
+2015-12-08,UBS,12 month,5,buy,29.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-03-24,US Capital Advisors,Not Provided,3,hold,25.5
+2016-03-22,Morgan Stanley,12 month,3,Equalwt/No Rating,25.0
+2016-03-22,Edward Jones,Not Provided,1,sell,-0.0
+2016-03-22,Spin-Off Research,Not Provided,3,neutral,24.0
+2016-03-18,Jefferies,Not Provided,3,hold,25.5
+2016-03-18,Barclays,Not Provided,3,equalweight,25.0
+2016-03-17,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0
+2016-03-17,Credit Suisse,Not Provided,1,underperform,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-17,Wolfe Research,Not Provided,-2147483648,not rated,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-12-08,UBS,12 month,5,buy,29.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-05-01,Wolfe Research,Not Provided,-2147483648,not rated,-0.0
+2016-04-20,Edward Jones,Not Provided,1,sell,-0.0
+2016-04-19,BMO Capital Markets,Not Provided,3,market perform,25.5
+2016-04-19,Credit Suisse,Not Provided,1,underperform,25.5
+2016-04-18,Jefferies,Not Provided,3,hold,25.5
+2016-04-18,US Capital Advisors,Not Provided,3,hold,25.5
+2016-04-12,Morgan Stanley,12 month,3,Equalwt/In-Line,25.5
+2016-04-06,Spin-Off Research,Not Provided,3,neutral,24.0
+2016-03-18,Barclays,Not Provided,3,equalweight,25.0
+2016-03-17,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-12-08,UBS,12 month,5,buy,29.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-05-26,Edward Jones,Not Provided,1,sell,-0.0
+2016-05-24,Jefferies,Not Provided,3,hold,25.5
+2016-05-18,US Capital Advisors,Not Provided,3,hold,25.5
+2016-05-03,Credit Suisse,Not Provided,1,underperform,25.5
+2016-05-01,Wolfe Research,Not Provided,-2147483648,not rated,-0.0
+2016-04-19,BMO Capital Markets,Not Provided,3,market perform,25.5
+2016-04-12,Morgan Stanley,12 month,3,Equalwt/In-Line,25.5
+2016-04-06,Spin-Off Research,Not Provided,3,neutral,24.0
+2016-03-18,Barclays,Not Provided,3,equalweight,25.0
+2016-03-17,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-12-08,UBS,12 month,5,buy,29.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-05-24,Jefferies,Not Provided,3,hold,25.5
+2016-04-19,BMO Capital Markets,Not Provided,3,market perform,25.5
+2016-04-12,Morgan Stanley,12 month,3,Equalwt/In-Line,25.5
+2016-04-06,Spin-Off Research,Not Provided,3,neutral,24.0
+2016-03-18,Barclays,Not Provided,3,equalweight,25.0
+2016-03-17,Goldman Sachs,Not Provided,-2147483648,not rated,-0.0
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-04-06,Spin-Off Research,Not Provided,3,neutral,24.0
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0
+2016-07-08,Jefferies,12 month,3,hold,25.5
+2016-03-17,Wells Fargo Securities,Not Provided,-2147483648,suspended coverage,-0.0
+2016-03-03,J.P. Morgan,9 month,3,neutral,24.0
+2015-11-12,EVA Dimensions,Not Provided,1,sell,-0.0

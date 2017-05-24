@@ -1,0 +1,835 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2003-05-27,Anderson & Strudwick,Not Provided,5.0,outperform,9.43
+2005-01-05,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2005-05-30,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2005-07-14,UBS,Not Provided,3.0,neutral 1,9.43
+2005-07-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2005-08-31,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2005-10-12,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2005-11-04,Edward Jones,Not Provided,3.0,hold,-0.0
+2005-11-07,Baird,Not Provided,3.0,neutral,9.04
+2005-11-07,Barclays,Not Provided,3.0,equalwt/negative,8.25
+2006-01-05,Anderson & Strudwick,12 month,5.0,outperform,10.61
+2006-01-05,Credit Suisse,12 month,3.0,neutral,8.25
+2006-01-13,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-01-31,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2006-02-01,Credit Suisse,12 month,3.0,neutral,8.25
+2006-02-07,Baird,Not Provided,3.0,neutral,9.04
+2006-02-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2006-03-10,Barclays,Not Provided,3.0,equalwt/negative,8.25
+2006-03-14,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2006-04-06,Credit Suisse,12 month,1.0,underperform,8.25
+2006-04-19,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2006-05-03,Credit Suisse,12 month,1.0,underperform,8.25
+2006-05-04,Baird,Not Provided,3.0,neutral,9.04
+2006-05-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2006-05-09,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2006-06-30,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2006-07-13,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2006-08-03,Credit Suisse,12 month,1.0,underperform,8.25
+2006-08-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2006-08-03,Barclays,Not Provided,3.0,equalwt/negative,7.86
+2006-08-08,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2006-10-31,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2006-11-02,Barclays,Not Provided,3.0,equalwt/negative,8.25
+2006-11-03,Baird,Not Provided,3.0,neutral,9.43
+2006-11-03,UBS,Not Provided,3.0,neutral 1,9.43
+2006-11-06,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2006-11-06,J.P. Morgan,Not Provided,1.0,underweight,-0.0
+2006-11-06,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-11-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2006-12-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2007-01-31,Wells Fargo Securities,18 month,3.0,market perform,10.22
+2007-01-31,UBS,Not Provided,3.0,neutral 1,10.22
+2007-01-31,Baird,Not Provided,3.0,neutral,9.43
+2007-02-07,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2007-03-07,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-03-26,Baird,Not Provided,3.0,neutral,9.43
+2007-05-03,Barclays,Not Provided,3.0,equalwt/negative,9.04
+2007-05-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-05-03,Wells Fargo Securities,18 month,3.0,market perform,8.25
+2007-05-04,Baird,Not Provided,3.0,neutral,9.43
+2007-05-06,UBS,12 month,5.0,buy,8.25
+2007-05-08,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-05-30,Barclays,Not Provided,3.0,equalwt/negative,8.25
+2007-05-31,J.P. Morgan,Not Provided,1.0,underweight,-0.0
+2007-05-31,Credit Suisse,12 month,3.0,neutral,8.65
+2007-05-31,Edward Jones,Not Provided,1.0,sell,-0.0
+2007-05-31,Baird,Not Provided,3.0,neutral,9.04
+2007-06-04,Wells Fargo Securities,18 month,3.0,market perform,8.25
+2007-06-26,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-07-13,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2007-07-20,J.P. Morgan,Not Provided,1.0,underweight,-0.0
+2007-07-24,Barclays,Not Provided,1.0,underwt/negative,7.47
+2007-07-30,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2007-08-02,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-08-02,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2007-08-03,Credit Suisse,12 month,3.0,neutral,8.65
+2007-08-04,UBS,Not Provided,5.0,buy,6.68
+2007-08-06,Wells Fargo Securities,18 month,3.0,market perform,8.25
+2007-08-13,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-08-14,Barclays,Not Provided,3.0,equalwt/negative,2.94
+2007-08-30,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-09-04,Anderson & Strudwick,12 month,5.0,outperform,10.61
+2007-09-04,Barclays,Not Provided,3.0,equalwt/neutral,7.47
+2007-10-03,Edward Jones,Not Provided,1.0,sell,-0.0
+2007-10-09,KeyBanc Capital Markets,12 month,5.0,buy,8.65
+2007-10-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-11-02,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2007-11-02,Wells Fargo Securities,Not Provided,3.0,market perform,7.66
+2007-11-05,Credit Suisse,12 month,3.0,neutral,8.65
+2007-12-20,Edward Jones,Not Provided,1.0,sell,-0.0
+2007-12-31,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2008-01-30,Barclays,Not Provided,3.0,equalwt/neutral,7.07
+2008-01-30,Wells Fargo Securities,Not Provided,3.0,market perform,7.66
+2008-02-19,Wells Fargo Securities,Not Provided,3.0,market perform,7.66
+2008-02-19,Edward Jones,Not Provided,1.0,sell,-0.0
+2008-04-14,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2008-04-30,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-05-06,Wells Fargo Securities,Not Provided,3.0,market perform,7.66
+2008-05-07,Barclays,Not Provided,3.0,equalwt/neutral,7.07
+2008-06-26,BMO Capital Markets,12 month,3.0,market perform,7.86
+2008-07-01,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-08-05,Barclays,Not Provided,3.0,equalwt/neutral,6.29
+2008-08-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2008-08-05,UBS,12 month,5.0,buy,8.25
+2008-08-06,BMO Capital Markets,12 month,3.0,market perform,7.86
+2008-08-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2008-08-13,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2008-09-24,Barclays,Not Provided,3.0,equalwt/neutral,6.29
+2008-09-26,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-09-26,Barclays,Not Provided,3.0,equalwt/neutral,5.89
+2008-10-10,UBS,12 month,5.0,buy,7.47
+2008-10-21,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2008-10-24,Barclays,Not Provided,3.0,equalwt/neutral,5.11
+2008-11-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2008-11-07,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2008-11-10,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2008-11-14,BMO Capital Markets,Not Provided,3.0,market perform,5.89
+2008-11-26,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2008-12-23,UBS,Not Provided,5.0,buy,7.07
+2009-01-05,Barclays,Not Provided,3.0,equalwt/neutral,4.72
+2009-01-05,UBS,Not Provided,5.0,buy,6.68
+2009-01-09,Barclays,Not Provided,3.0,equalwt/neutral,4.32
+2009-01-15,UBS,Not Provided,5.0,buy,6.29
+2009-01-25,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2009-01-30,UBS,Not Provided,3.0,neutral,3.93
+2009-02-02,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2009-02-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-02-04,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2009-02-05,BMO Capital Markets,Not Provided,3.0,market perform,4.72
+2009-02-11,J.P. Morgan,9 month,3.0,neutral,3.93
+2009-02-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-03-05,Barclays,Not Provided,3.0,equalwt/neutral,3.54
+2009-04-01,Barclays,Not Provided,3.0,equalwt/neutral,3.93
+2009-04-28,Barclays,Not Provided,3.0,equalwt/neutral,3.93
+2009-05-01,Barclays,Not Provided,3.0,equalwt/neutral,3.93
+2009-05-04,BMO Capital Markets,Not Provided,3.0,market perform,4.72
+2009-05-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-05-12,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2009-05-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-05-25,J.P. Morgan,6 month,3.0,neutral,4.32
+2009-06-23,UBS,Not Provided,3.0,neutral,4.32
+2009-07-27,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-08-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-04,J.P. Morgan,15 month,3.0,neutral,5.5
+2009-08-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-08-05,UBS,Not Provided,3.0,neutral,5.3
+2009-08-05,BMO Capital Markets,Not Provided,3.0,market perform,5.5
+2009-08-05,Barclays,Not Provided,3.0,equalwt/neutral,4.32
+2009-08-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-10,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-18,Wunderlich Securities,Not Provided,3.0,hold,5.3
+2009-09-11,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2009-10-22,Wunderlich Securities,Not Provided,3.0,hold,5.3
+2009-10-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-10-30,Barclays,Not Provided,3.0,equalwt/neutral,4.32
+2009-11-02,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-11-02,Wunderlich Securities,18 month,3.0,hold,5.3
+2009-11-02,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2009-11-02,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2009-11-03,J.P. Morgan,12 month,3.0,neutral,5.5
+2009-11-26,J.P. Morgan,12 month,3.0,neutral,6.29
+2009-12-30,UBS,Not Provided,3.0,neutral,5.8
+2010-01-05,Wunderlich Securities,18 month,3.0,hold,5.3
+2010-01-11,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-01-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-01-21,Wunderlich Securities,18 month,3.0,hold,5.5
+2010-01-25,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-02-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-02-01,BMO Capital Markets,12 month,3.0,market perform,6.68
+2010-02-01,UBS,Not Provided,3.0,neutral,6.09
+2010-02-02,J.P. Morgan,9 month,3.0,neutral,6.29
+2010-02-02,Wunderlich Securities,18 month,3.0,hold,5.5
+2010-02-02,Barclays,Not Provided,3.0,equalwt/neutral,5.11
+2010-02-02,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-02-04,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-02-15,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-02-25,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2010-03-02,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-03-16,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-03-22,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-03-30,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-04-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-04-15,UBS,Not Provided,3.0,neutral,6.48
+2010-04-19,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-04-20,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-04-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-04-21,Wunderlich Securities,18 month,3.0,hold,5.5
+2010-04-22,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-04-26,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-05-04,Barclays,Not Provided,3.0,equalwt/positive,6.29
+2010-05-04,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2010-05-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-05-05,J.P. Morgan,6 month,3.0,neutral,5.89
+2010-05-05,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-05-17,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-05-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-06-06,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-07-01,KeyBanc Capital Markets,12 month,5.0,buy,6.29
+2010-07-02,KeyBanc Capital Markets,12 month,5.0,buy,6.29
+2010-07-15,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-07-16,Barclays,Not Provided,3.0,equalwt/positive,6.29
+2010-07-19,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-07-20,KeyBanc Capital Markets,12 month,5.0,buy,6.68
+2010-07-23,Barclays,Not Provided,3.0,equalwt/positive,6.68
+2010-07-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-07-26,Wunderlich Securities,18 month,3.0,hold,6.09
+2010-07-26,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-08-03,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2010-08-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-08-03,Barclays,Not Provided,3.0,equalwt/positive,6.68
+2010-08-04,J.P. Morgan,15 month,3.0,neutral,6.68
+2010-08-04,Wunderlich Securities,18 month,3.0,hold,6.09
+2010-08-04,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-08-10,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-08-12,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-08-16,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-08-24,BMO Capital Markets,Not Provided,3.0,market perform,6.68
+2010-08-25,KeyBanc Capital Markets,12 month,5.0,buy,6.68
+2010-08-26,Wunderlich Securities,18 month,3.0,hold,6.68
+2010-08-26,Barclays,Not Provided,3.0,equalwt/positive,7.07
+2010-08-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-08-27,UBS,Not Provided,3.0,neutral,6.68
+2010-08-30,BMO Capital Markets,Not Provided,3.0,market perform,7.07
+2010-09-07,KeyBanc Capital Markets,12 month,3.0,hold,6.68
+2010-09-07,BMO Capital Markets,Not Provided,3.0,market perform,7.07
+2010-09-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-09-09,Barclays,Not Provided,3.0,equalwt/positive,7.07
+2010-09-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-10-11,UBS,Not Provided,3.0,neutral,7.07
+2010-10-12,UBS,12 month,3.0,neutral,7.07
+2010-10-15,Wunderlich Securities,18 month,3.0,hold,6.68
+2010-10-19,Barclays,Not Provided,3.0,equalwt/positive,7.07
+2010-10-29,BMO Capital Markets,Not Provided,3.0,market perform,7.07
+2010-10-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-10-29,Barclays,Not Provided,3.0,equalwt/positive,7.07
+2010-10-29,J.P. Morgan,12 month,3.0,neutral,6.68
+2010-11-09,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2010-11-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-11-22,Barclays,Not Provided,3.0,equalwt/positive,7.07
+2010-11-22,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-11-29,BMO Capital Markets,Not Provided,3.0,market perform,7.07
+2010-12-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-12-15,Credit Suisse,Not Provided,3.0,neutral,7.07
+2011-01-06,Morgan Stanley,12 month,3.0,Equalwt/Attractive,7.47
+2011-01-10,BMO Capital Markets,Not Provided,3.0,market perform,7.47
+2011-01-20,Barclays,Not Provided,3.0,equalwt/positive,7.07
+2011-01-25,KeyBanc Capital Markets,12 month,3.0,hold,6.68
+2011-02-01,Credit Suisse,Not Provided,3.0,neutral,7.07
+2011-02-01,Morgan Stanley,12 month,3.0,Equalwt/Attractive,7.86
+2011-02-01,BMO Capital Markets,Not Provided,3.0,market perform,7.47
+2011-02-02,J.P. Morgan,9 month,3.0,neutral,7.07
+2011-02-02,Wunderlich Securities,12 month,3.0,hold,7.07
+2011-02-03,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2011-02-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-02-06,Credit Suisse,Not Provided,3.0,neutral,7.47
+2011-02-11,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-04-19,Wunderlich Securities,18 month,3.0,hold,7.07
+2011-04-20,Barclays,Not Provided,3.0,equalwt/positive,7.07
+2011-04-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-05-03,Morgan Stanley,12 month,3.0,Equalwt/Attractive,8.25
+2011-05-04,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2011-05-04,BMO Capital Markets,Not Provided,3.0,market perform,7.47
+2011-05-04,Wunderlich Securities,12 month,3.0,hold,7.47
+2011-05-05,J.P. Morgan,3 month,3.0,neutral,7.47
+2011-05-06,UBS,12 month,3.0,neutral,7.47
+2011-05-06,Credit Suisse,Not Provided,3.0,neutral,7.86
+2011-06-16,Credit Suisse,Not Provided,3.0,neutral,7.86
+2011-06-21,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2011-06-22,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2011-07-13,Wunderlich Securities,18 month,3.0,hold,7.47
+2011-07-19,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2011-07-19,Morgan Stanley,12 month,3.0,Equalwt/Attractive,8.25
+2011-07-20,Wunderlich Securities,18 month,3.0,hold,7.47
+2011-07-21,UBS,12 month,3.0,neutral,7.86
+2011-07-26,Barclays,Not Provided,3.0,equalwt/positive,8.25
+2011-08-02,Morgan Stanley,12 month,3.0,Equalwt/Attractive,9.04
+2011-08-02,BMO Capital Markets,Not Provided,3.0,market perform,8.25
+2011-08-03,Credit Suisse,Not Provided,3.0,neutral,8.25
+2011-08-03,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2011-08-03,Wunderlich Securities,18 month,3.0,hold,8.25
+2011-10-04,UBS,12 month,3.0,neutral,8.65
+2011-10-10,BMO Capital Markets,Not Provided,3.0,market perform,8.25
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-19,Wunderlich Securities,18 month,3.0,hold,8.25
+2011-10-20,Barclays,Not Provided,3.0,equalwt/positive,8.25
+2011-10-23,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2011-10-28,Credit Suisse,Not Provided,3.0,neutral,9.43
+2011-10-28,Morgan Stanley,12 month,3.0,Equalwt/Attractive,9.82
+2011-10-31,Wunderlich Securities,18 month,3.0,hold,9.04
+2011-10-31,BMO Capital Markets,Not Provided,3.0,market perform,9.04
+2011-11-01,Barclays,Not Provided,3.0,equalwt/positive,8.65
+2011-11-01,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-30,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2011-12-06,BMO Capital Markets,Not Provided,3.0,market perform,9.04
+2012-01-18,BMO Capital Markets,Not Provided,3.0,market perform,9.43
+2012-01-23,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-01-24,Barclays,Not Provided,3.0,equalwt/positive,8.65
+2012-02-01,Barclays,Not Provided,3.0,equalwt/positive,9.04
+2012-02-01,Morgan Stanley,12 month,3.0,Equalwt/Attractive,9.82
+2012-02-02,Wunderlich Securities,18 month,3.0,hold,9.04
+2012-02-02,Credit Suisse,Not Provided,3.0,neutral,9.43
+2012-02-06,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2012-02-08,UBS,12 month,3.0,neutral,8.65
+2012-02-22,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-02-28,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2012-02-29,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2012-03-14,UBS,12 month,3.0,neutral,9.04
+2012-03-21,KeyBanc Capital Markets,12 month,5.0,buy,10.41
+2012-04-18,Morgan Stanley,12 month,3.0,Equalwt/Attractive,10.22
+2012-04-23,KeyBanc Capital Markets,12 month,5.0,buy,10.41
+2012-04-24,Barclays,Not Provided,3.0,equalwt/positive,9.04
+2012-05-01,BMO Capital Markets,Not Provided,3.0,market perform,9.82
+2012-05-01,Morgan Stanley,12 month,3.0,Equalwt/Attractive,10.22
+2012-05-01,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2012-05-01,Barclays,Not Provided,3.0,equalwt/positive,9.82
+2012-05-02,Wunderlich Securities,18 month,3.0,hold,10.22
+2012-05-02,Credit Suisse,Not Provided,3.0,neutral,10.22
+2012-05-31,UBS,12 month,3.0,neutral,9.43
+2012-07-09,Morgan Stanley,12 month,3.0,Equalwt/Attractive,10.22
+2012-07-09,Barclays,Not Provided,3.0,equalwt/positive,10.22
+2012-07-20,KeyBanc Capital Markets,12 month,5.0,buy,10.41
+2012-07-31,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2012-07-31,UBS,12 month,3.0,neutral,10.22
+2012-07-31,Morgan Stanley,12 month,3.0,Equalwt/Attractive,11.0
+2012-07-31,Barclays,Not Provided,3.0,equalweight,10.22
+2012-08-01,Credit Suisse,Not Provided,3.0,neutral,10.61
+2012-08-01,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-08-02,Wunderlich Securities,18 month,3.0,hold,10.22
+2012-08-09,Credit Suisse,Not Provided,3.0,neutral,10.61
+2012-08-22,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-09-05,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-09-13,Morgan Stanley,12 month,3.0,Equalwt/Attractive,11.0
+2012-09-13,BMO Capital Markets,Not Provided,3.0,market perform,10.22
+2012-09-13,Wunderlich Securities,18 month,3.0,hold,10.22
+2012-09-13,Barclays,Not Provided,3.0,equalweight,10.22
+2012-09-14,UBS,12 month,3.0,neutral,10.22
+2012-09-14,KeyBanc Capital Markets,12 month,5.0,buy,10.81
+2012-10-21,KeyBanc Capital Markets,12 month,5.0,buy,10.81
+2012-10-23,Wunderlich Securities,18 month,3.0,hold,10.22
+2012-10-24,Barclays,Not Provided,3.0,equalweight,10.22
+2012-10-29,Credit Suisse,Not Provided,3.0,neutral,10.61
+2012-11-02,Morgan Stanley,12 month,3.0,Equalwt/Attractive,11.0
+2012-11-05,BMO Capital Markets,Not Provided,3.0,market perform,10.61
+2012-11-05,Wunderlich Securities,18 month,3.0,hold,10.22
+2012-11-06,Credit Suisse,Not Provided,3.0,neutral,10.61
+2012-11-08,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2012-12-03,Barclays,Not Provided,5.0,overweight,10.61
+2012-12-07,KeyBanc Capital Markets,12 month,5.0,buy,10.81
+2012-12-10,US Capital Advisors,Not Provided,3.0,hold,10.22
+2012-12-12,KeyBanc Capital Markets,12 month,5.0,buy,10.81
+2012-12-21,US Capital Advisors,Not Provided,3.0,hold,10.22
+2013-01-04,US Capital Advisors,Not Provided,3.0,hold,10.22
+2013-01-11,US Capital Advisors,Not Provided,3.0,hold,10.22
+2013-01-15,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-01-22,KeyBanc Capital Markets,12 month,5.0,buy,10.81
+2013-01-24,Wunderlich Securities,18 month,3.0,hold,10.22
+2013-01-25,Barclays,Not Provided,5.0,overweight,10.61
+2013-02-01,US Capital Advisors,Not Provided,3.0,hold,10.22
+2013-02-12,US Capital Advisors,Not Provided,3.0,hold,10.22
+2013-02-18,KeyBanc Capital Markets,12 month,5.0,buy,11.2
+2013-02-19,UBS,12 month,3.0,neutral,10.61
+2013-02-19,Morgan Stanley,12 month,3.0,Equalwt/Attractive,11.4
+2013-02-20,Barclays,Not Provided,5.0,overweight,11.4
+2013-02-20,Credit Suisse,Not Provided,3.0,neutral,11.4
+2013-02-20,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-02-20,Wunderlich Securities,18 month,3.0,hold,10.22
+2013-02-21,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2013-03-06,US Capital Advisors,Not Provided,3.0,hold,10.22
+2013-03-22,US Capital Advisors,Not Provided,3.0,hold,10.22
+2013-03-26,KeyBanc Capital Markets,12 month,5.0,buy,11.99
+2013-04-03,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-04-10,Morgan Stanley,12 month,3.0,Equalwt/Attractive,11.79
+2013-04-15,US Capital Advisors,Not Provided,3.0,hold,10.22
+2013-04-19,Wunderlich Securities,18 month,3.0,hold,10.22
+2013-04-22,KeyBanc Capital Markets,12 month,5.0,buy,12.57
+2013-04-24,BMO Capital Markets,Not Provided,3.0,market perform,12.18
+2013-04-24,Barclays,Not Provided,5.0,overweight,12.57
+2013-04-30,Barclays,Not Provided,5.0,overweight,12.57
+2013-04-30,UBS,12 month,3.0,neutral,11.79
+2013-04-30,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2013-04-30,Morgan Stanley,12 month,3.0,Equalwt/Attractive,11.79
+2013-05-01,Wunderlich Securities,18 month,3.0,hold,11.79
+2013-05-01,Credit Suisse,Not Provided,3.0,neutral,12.18
+2013-05-13,US Capital Advisors,12 month,3.0,hold,10.22
+2013-05-31,US Capital Advisors,Not Provided,3.0,hold,10.61
+2013-06-05,US Capital Advisors,Not Provided,3.0,hold,10.61
+2013-06-05,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-06-18,US Capital Advisors,Not Provided,3.0,hold,10.61
+2013-07-11,US Capital Advisors,Not Provided,3.0,hold,10.61
+2013-07-15,Barclays,Not Provided,5.0,overweight,12.57
+2013-07-16,Credit Suisse,Not Provided,3.0,neutral,12.18
+2013-07-21,Morgan Stanley,12 month,3.0,Equalwt/Attractive,11.79
+2013-07-24,Barclays,Not Provided,5.0,overweight,12.57
+2013-07-24,US Capital Advisors,Not Provided,3.0,hold,10.61
+2013-07-31,Morgan Stanley,12 month,3.0,Equalwt/Attractive,11.79
+2013-07-31,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2013-08-01,Wunderlich Securities,18 month,3.0,hold,12.57
+2013-08-01,BMO Capital Markets,Not Provided,3.0,market perform,12.57
+2013-08-01,Credit Suisse,Not Provided,3.0,neutral,12.57
+2013-08-05,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-08-06,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-08-13,US Capital Advisors,Not Provided,3.0,hold,10.61
+2013-08-16,US Capital Advisors,Not Provided,3.0,hold,11.4
+2013-10-16,US Capital Advisors,Not Provided,3.0,hold,11.4
+2013-10-20,KeyBanc Capital Markets,12 month,5.0,buy,12.77
+2013-10-31,Barclays,Not Provided,5.0,overweight,12.97
+2013-10-31,US Capital Advisors,Not Provided,3.0,hold,11.4
+2013-10-31,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2013-10-31,Morgan Stanley,12 month,3.0,Equalwt/Attractive,12.57
+2013-11-01,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-11-01,BMO Capital Markets,Not Provided,3.0,market perform,12.97
+2013-11-01,US Capital Advisors,Not Provided,3.0,hold,11.4
+2013-11-01,Credit Suisse,Not Provided,3.0,neutral,12.97
+2013-11-25,US Capital Advisors,Not Provided,3.0,hold,12.57
+2013-12-03,KeyBanc Capital Markets,12 month,5.0,buy,12.77
+2013-12-10,KeyBanc Capital Markets,12 month,5.0,buy,12.77
+2014-01-02,KeyBanc Capital Markets,12 month,5.0,buy,13.16
+2014-01-06,Barclays,Not Provided,5.0,overweight,13.36
+2014-01-07,US Capital Advisors,12 month,3.0,hold,12.57
+2014-01-08,Morgan Stanley,12 month,3.0,Equalwt/Attractive,13.36
+2014-01-13,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-01-15,US Capital Advisors,Not Provided,3.0,hold,12.57
+2014-01-22,KeyBanc Capital Markets,12 month,5.0,buy,13.95
+2014-01-24,US Capital Advisors,Not Provided,3.0,hold,12.57
+2014-01-27,Barclays,Not Provided,5.0,overweight,13.36
+2014-01-28,Credit Suisse,Not Provided,3.0,neutral,13.75
+2014-02-03,US Capital Advisors,Not Provided,3.0,hold,12.57
+2014-02-04,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-02-18,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2014-02-18,Morgan Stanley,12 month,3.0,Equalwt/Attractive,14.15
+2014-02-19,Credit Suisse,Not Provided,3.0,neutral,14.93
+2014-02-19,BMO Capital Markets,Not Provided,3.0,market perform,13.36
+2014-02-19,Barclays,Not Provided,5.0,overweight,14.15
+2014-02-20,KeyBanc Capital Markets,12 month,5.0,buy,14.34
+2014-03-14,US Capital Advisors,Not Provided,3.0,hold,12.57
+2014-03-20,KeyBanc Capital Markets,12 month,5.0,buy,14.34
+2014-03-27,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-02,Jefferies,12 month,3.0,hold,13.36
+2014-04-03,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-04,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-04-10,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-15,US Capital Advisors,Not Provided,3.0,hold,12.57
+2014-04-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-17,Jefferies,12 month,3.0,hold,13.36
+2014-04-21,KeyBanc Capital Markets,12 month,5.0,buy,14.93
+2014-04-21,Credit Suisse,Not Provided,3.0,neutral,15.33
+2014-04-28,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-30,Barclays,Not Provided,5.0,overweight,14.93
+2014-04-30,Morgan Stanley,12 month,3.0,Equalwt/Attractive,15.72
+2014-04-30,Credit Suisse,Not Provided,3.0,neutral,15.72
+2014-04-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-30,Jefferies,12 month,3.0,hold,13.36
+2014-05-01,BMO Capital Markets,Not Provided,3.0,market perform,14.15
+2014-05-01,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2014-05-06,Jefferies,12 month,3.0,hold,13.36
+2014-05-13,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-05-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-30,US Capital Advisors,Not Provided,3.0,hold,14.93
+2014-06-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-16,BMO Capital Markets,Not Provided,3.0,market perform,14.93
+2014-06-17,US Capital Advisors,Not Provided,3.0,hold,14.93
+2014-06-26,KeyBanc Capital Markets,12 month,5.0,buy,16.11
+2014-06-30,Morgan Stanley,12 month,3.0,Equalwt/Attractive,15.72
+2014-07-11,US Capital Advisors,Not Provided,3.0,hold,14.93
+2014-07-21,KeyBanc Capital Markets,Not Provided,5.0,buy,16.11
+2014-07-22,US Capital Advisors,Not Provided,3.0,hold,14.93
+2014-07-22,Jefferies,Not Provided,3.0,hold,14.54
+2014-07-29,US Capital Advisors,Not Provided,3.0,hold,14.93
+2014-07-31,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-31,Morgan Stanley,12 month,3.0,Equalwt/Attractive,16.9
+2014-07-31,BMO Capital Markets,Not Provided,3.0,market perform,14.93
+2014-07-31,Credit Suisse,Not Provided,3.0,neutral,16.11
+2014-08-01,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2014-08-04,Jefferies,12 month,3.0,hold,14.54
+2014-08-08,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-08-13,US Capital Advisors,Not Provided,3.0,hold,14.93
+2014-08-28,US Capital Advisors,Not Provided,3.0,hold,14.93
+2014-09-17,US Capital Advisors,Not Provided,3.0,hold,15.72
+2014-09-22,Jefferies,12 month,3.0,hold,15.72
+2014-09-28,Jefferies,12 month,3.0,hold,15.72
+2014-09-29,KeyBanc Capital Markets,12 month,5.0,buy,17.29
+2014-09-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-29,Barclays,Not Provided,-2147483648.0,suspended coverage,-0.0
+2014-09-30,Credit Suisse,Not Provided,5.0,outperform,19.65
+2014-09-30,Morgan Stanley,12 month,3.0,Equalwt/Attractive,17.68
+2014-10-01,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2014-10-01,Wolfe Research,12 month,5.0,outperform,19.26
+2014-10-01,BMO Capital Markets,Not Provided,3.0,market perform,16.5
+2014-10-02,Morgan Stanley,12 month,3.0,Equalwt/Attractive,17.68
+2014-10-03,US Capital Advisors,Not Provided,3.0,hold,15.72
+2014-10-07,Jefferies,Not Provided,3.0,hold,15.72
+2014-10-10,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-10-15,US Capital Advisors,Not Provided,3.0,hold,15.72
+2014-10-20,Wolfe Research,Not Provided,5.0,outperform,19.26
+2014-10-30,BMO Capital Markets,Not Provided,3.0,market perform,16.5
+2014-10-30,Jefferies,12 month,3.0,hold,15.72
+2014-10-30,Wolfe Research,12 month,5.0,outperform,19.26
+2014-10-31,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-31,Morgan Stanley,12 month,3.0,Equalwt/Attractive,17.68
+2014-10-31,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-10-31,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2014-10-31,Credit Suisse,Not Provided,5.0,outperform,19.65
+2014-11-03,Spin-Off Research,Not Provided,3.0,neutral,14.93
+2014-11-09,Wolfe Research,Not Provided,5.0,outperform,19.26
+2014-11-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-16,Wolfe Research,12 month,5.0,outperform,19.26
+2014-11-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-02,US Capital Advisors,Not Provided,3.0,hold,15.72
+2014-12-08,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-12-11,Credit Suisse,Not Provided,-2147483648.0,restricted,-0.0
+2014-12-16,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2014-12-26,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-12-31,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-01-05,Wolfe Research,12 month,5.0,outperform,20.04
+2015-01-12,US Capital Advisors,Not Provided,3.0,hold,16.9
+2015-01-15,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-01-20,US Capital Advisors,Not Provided,3.0,hold,16.9
+2015-01-21,US Capital Advisors,Not Provided,3.0,hold,16.9
+2015-01-22,KeyBanc Capital Markets,Not Provided,5.0,buy,18.08
+2015-01-26,Jefferies,Not Provided,3.0,hold,16.9
+2015-01-26,Barclays,Not Provided,-2147483648.0,suspended coverage,-0.0
+2015-01-26,Wolfe Research,Not Provided,5.0,outperform,20.04
+2015-01-27,Spin-Off Research,Not Provided,3.0,neutral,16.9
+2015-02-01,Wolfe Research,12 month,5.0,outperform,20.04
+2015-02-03,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-02-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-08,Wolfe Research,12 month,5.0,outperform,20.04
+2015-02-09,Spin-Off Research,Not Provided,3.0,neutral,16.9
+2015-02-18,Wolfe Research,12 month,5.0,outperform,20.04
+2015-02-18,Jefferies,12 month,3.0,hold,16.9
+2015-02-19,BMO Capital Markets,Not Provided,3.0,market perform,16.9
+2015-02-19,Spin-Off Research,Not Provided,3.0,neutral,18.08
+2015-02-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-20,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-02-24,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-03-01,Wolfe Research,12 month,5.0,outperform,20.04
+2015-03-01,KeyBanc Capital Markets,Not Provided,5.0,overweight,18.08
+2015-03-11,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-03-13,Jefferies,12 month,3.0,hold,16.9
+2015-03-17,US Capital Advisors,Not Provided,5.0,overweight,19.26
+2015-03-18,J.P. Morgan,9 month,3.0,neutral,18.08
+2015-03-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-18,Credit Suisse,Not Provided,5.0,outperform,19.65
+2015-03-18,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2015-03-23,Credit Suisse,Not Provided,5.0,outperform,19.65
+2015-04-05,Wolfe Research,12 month,5.0,outperform,20.04
+2015-04-14,US Capital Advisors,Not Provided,5.0,overweight,19.26
+2015-04-15,J.P. Morgan,Not Provided,3.0,neutral,18.08
+2015-04-21,Barclays,Not Provided,-2147483648.0,suspended coverage,-0.0
+2015-04-21,KeyBanc Capital Markets,Not Provided,5.0,overweight,18.08
+2015-04-30,Wolfe Research,12 month,5.0,outperform,19.65
+2015-04-30,KeyBanc Capital Markets,Not Provided,5.0,overweight,18.08
+2015-04-30,BMO Capital Markets,Not Provided,3.0,market perform,18.08
+2015-04-30,Jefferies,12 month,3.0,hold,16.9
+2015-05-01,Credit Suisse,Not Provided,5.0,outperform,19.65
+2015-05-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-04,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-05-11,UBS,12 month,5.0,buy,19.26
+2015-05-11,Jefferies,12 month,3.0,hold,17.29
+2015-05-13,US Capital Advisors,12 month,5.0,overweight,19.26
+2015-05-13,Wolfe Research,12 month,5.0,outperform,19.65
+2015-05-14,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-05-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-15,Credit Suisse,Not Provided,5.0,outperform,21.22
+2015-05-15,Wolfe Research,12 month,5.0,outperform,19.65
+2015-05-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-28,KeyBanc Capital Markets,12 month,5.0,overweight,19.84
+2015-06-01,Wolfe Research,12 month,5.0,outperform,19.65
+2015-06-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-12,Spin-Off Research,Not Provided,3.0,neutral,18.08
+2015-06-14,Wolfe Research,12 month,5.0,outperform,21.22
+2015-06-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-17,Jefferies,Not Provided,3.0,hold,17.29
+2015-06-17,US Capital Advisors,Not Provided,5.0,overweight,21.22
+2015-06-18,Spin-Off Research,Not Provided,3.0,neutral,19.26
+2015-06-26,US Capital Advisors,Not Provided,5.0,overweight,21.22
+2015-06-30,Argus Research Corp,Not Provided,1.0,sell,-0.0
+2015-07-01,Jefferies,12 month,3.0,hold,6.68
+2015-07-02,Credit Suisse,Not Provided,5.0,outperform,19.0
+2015-07-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-07-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-03,UBS,12 month,5.0,buy,19.0
+2015-07-06,US Capital Advisors,12 month,5.0,overweight,20.0
+2015-07-06,Wolfe Research,12 month,5.0,outperform,19.0
+2015-07-06,Barclays,Not Provided,3.0,equalweight,17.0
+2015-07-06,Spin-Off Research,Not Provided,5.0,buy,20.0
+2015-07-09,J.P. Morgan,18 month,5.0,overweight,20.0
+2015-07-09,KeyBanc Capital Markets,12 month,5.0,overweight,19.84
+2015-07-13,BMO Capital Markets,Not Provided,3.0,market perform,18.0
+2015-07-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-07-20,KeyBanc Capital Markets,Not Provided,5.0,overweight,18.5
+2015-07-22,Barclays,Not Provided,3.0,equalweight,17.0
+2015-07-24,US Capital Advisors,Not Provided,5.0,overweight,20.0
+2015-07-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-03,Barclays,Not Provided,3.0,equalweight,17.0
+2015-08-03,Wolfe Research,12 month,5.0,outperform,19.0
+2015-08-03,KeyBanc Capital Markets,12 month,5.0,overweight,18.5
+2015-08-03,Jefferies,12 month,3.0,hold,6.68
+2015-08-03,Credit Suisse,Not Provided,5.0,outperform,19.0
+2015-08-04,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-08-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-08-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-08-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-17,KeyBanc Capital Markets,Not Provided,5.0,overweight,19.0
+2015-08-18,KeyBanc Capital Markets,Not Provided,5.0,overweight,19.0
+2015-08-20,Jefferies,Not Provided,3.0,hold,18.0
+2015-08-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-08-27,US Capital Advisors,Not Provided,5.0,overweight,20.0
+2015-08-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-01,Wolfe Research,12 month,5.0,outperform,19.0
+2015-09-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-15,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-09-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-18,KeyBanc Capital Markets,12 month,5.0,overweight,19.0
+2015-09-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-09-29,Barclays,Not Provided,3.0,equalweight,17.0
+2015-10-04,Wolfe Research,12 month,5.0,outperform,19.0
+2015-10-05,Barclays,Not Provided,3.0,equalweight,17.0
+2015-10-08,Jefferies,Not Provided,3.0,hold,18.0
+2015-10-13,Credit Suisse,Not Provided,3.0,neutral,19.0
+2015-10-19,KeyBanc Capital Markets,Not Provided,5.0,overweight,20.5
+2015-10-19,Wolfe Research,Not Provided,5.0,outperform,19.0
+2015-10-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-11-01,Wolfe Research,Not Provided,5.0,outperform,19.0
+2015-11-03,Barclays,Not Provided,3.0,equalweight,19.0
+2015-11-03,KeyBanc Capital Markets,Not Provided,5.0,overweight,20.5
+2015-11-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-03,Jefferies,12 month,3.0,hold,18.0
+2015-11-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-11-04,J.P. Morgan,18 month,5.0,overweight,22.0
+2015-11-04,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-11-04,UBS,12 month,5.0,buy,21.0
+2015-11-04,Wolfe Research,12 month,5.0,outperform,20.0
+2015-11-05,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-11-06,Credit Suisse,Not Provided,3.0,neutral,20.0
+2015-11-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-19,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-12-01,US Capital Advisors,Not Provided,5.0,overweight,21.0
+2015-12-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-12-02,Jefferies,Not Provided,3.0,hold,19.0
+2015-12-07,Barclays,Not Provided,3.0,equalweight,19.0
+2015-12-14,J.P. Morgan,12 month,5.0,overweight,21.0
+2015-12-18,Barclays,Not Provided,3.0,equalweight,19.0
+2015-12-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-12-21,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-01-04,Barclays,Not Provided,3.0,equalweight,21.0
+2016-01-07,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-01-14,Jefferies,Not Provided,3.0,hold,19.0
+2016-01-19,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-21,KeyBanc Capital Markets,Not Provided,5.0,overweight,20.5
+2016-01-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-25,Wolfe Research,Not Provided,5.0,outperform,20.0
+2016-01-25,Barclays,Not Provided,3.0,equalweight,21.0
+2016-02-02,Credit Suisse,Not Provided,3.0,neutral,20.0
+2016-02-11,KeyBanc Capital Markets,Not Provided,5.0,overweight,22.0
+2016-02-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-02-18,Jefferies,12 month,3.0,hold,19.0
+2016-02-18,Wolfe Research,12 month,5.0,outperform,23.0
+2016-02-19,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-02-19,Credit Suisse,Not Provided,3.0,neutral,20.0
+2016-02-22,Barclays,Not Provided,3.0,equalweight,21.0
+2016-03-01,Wolfe Research,12 month,5.0,outperform,23.0
+2016-03-02,Jefferies,Not Provided,3.0,hold,20.0
+2016-03-04,J.P. Morgan,9 month,5.0,overweight,24.0
+2016-03-10,US Capital Advisors,Not Provided,3.0,hold,23.0
+2016-03-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-03-17,UBS,12 month,5.0,buy,25.0
+2016-03-18,KeyBanc Capital Markets,12 month,5.0,overweight,24.0
+2016-03-18,Barclays,Not Provided,3.0,equalweight,22.0
+2016-03-28,Barclays,Not Provided,3.0,equalweight,22.0
+2016-03-29,J.P. Morgan,9 month,3.0,neutral,24.0
+2016-04-06,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-04-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-18,KeyBanc Capital Markets,Not Provided,5.0,overweight,24.5
+2016-04-18,Jefferies,Not Provided,3.0,hold,21.0
+2016-04-19,Credit Suisse,Not Provided,3.0,neutral,20.0
+2016-04-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-20,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-04-22,Barclays,Not Provided,3.0,equalweight,22.0
+2016-04-24,Evercore ISI,12 month,3.0,hold,22.0
+2016-05-01,Wolfe Research,12 month,5.0,outperform,23.0
+2016-05-03,Evercore ISI,12 month,3.0,hold,22.0
+2016-05-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-03,Barclays,Not Provided,3.0,equalweight,22.0
+2016-05-03,Jefferies,12 month,3.0,hold,21.0
+2016-05-03,KeyBanc Capital Markets,12 month,5.0,overweight,24.5
+2016-05-03,Credit Suisse,Not Provided,3.0,neutral,24.0
+2016-05-04,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-05-05,Wolfe Research,12 month,5.0,outperform,24.0
+2016-05-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-09,J.P. Morgan,9 month,3.0,neutral,24.0
+2016-05-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-05-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-19,US Capital Advisors,Not Provided,3.0,hold,23.0
+2016-05-24,Jefferies,Not Provided,3.0,hold,22.0
+2016-05-24,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-06-08,KeyBanc Capital Markets,Not Provided,5.0,overweight,25.5
+2016-06-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-06-17,Barclays,Not Provided,3.0,equalweight,23.0
+2016-06-26,Wolfe Research,Not Provided,5.0,outperform,26.0
+2016-06-30,KeyBanc Capital Markets,Not Provided,5.0,overweight,27.0
+2016-06-30,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-07-05,Evercore ISI,Not Provided,1.0,sell,23.75
+2016-07-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-07-08,UBS,12 month,3.0,neutral,27.0
+2016-07-13,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-07-13,J.P. Morgan,6 month,3.0,neutral,26.0
+2016-07-13,Barclays,Not Provided,3.0,equalweight,24.0
+2016-07-19,KeyBanc Capital Markets,Not Provided,5.0,overweight,27.0
+2016-07-20,Barclays,Not Provided,3.0,equalweight,24.0
+2016-07-25,Jefferies,12 month,1.0,underperform,22.0
+2016-07-26,Credit Suisse,Not Provided,3.0,neutral,24.0
+2016-08-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-02,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-08-02,Jefferies,12 month,1.0,underperform,22.0
+2016-08-02,J.P. Morgan,6 month,3.0,neutral,26.0
+2016-08-02,Barclays,Not Provided,3.0,equalweight,26.0
+2016-08-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-08-02,Evercore ISI,12 month,1.0,sell,24.0
+2016-08-02,Wolfe Research,12 month,5.0,outperform,26.0
+2016-08-08,Credit Suisse,Not Provided,3.0,neutral,25.0
+2016-08-18,US Capital Advisors,Not Provided,3.0,hold,24.0
+2016-08-19,Credit Suisse,Not Provided,1.0,underperform,25.0
+2016-08-23,Barclays,Not Provided,3.0,equalweight,26.0
+2016-08-25,Evercore ISI,12 month,1.0,sell,24.0
+2016-08-26,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-08-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-08,KeyBanc Capital Markets,Not Provided,5.0,overweight,27.0
+2016-09-20,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-09-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-09-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-28,Wolfe Research,12 month,5.0,outperform,26.0
+2016-10-10,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-10-13,Jefferies,Not Provided,3.0,hold,23.0
+2016-10-14,Barclays,Not Provided,3.0,equalweight,26.0
+2016-10-17,KeyBanc Capital Markets,Not Provided,5.0,overweight,24.0
+2016-10-18,KeyBanc Capital Markets,Not Provided,5.0,overweight,24.0
+2016-10-20,Credit Suisse,Not Provided,1.0,underperform,25.0
+2016-10-21,Barclays,Not Provided,3.0,equalweight,23.0
+2016-10-23,Wolfe Research,Not Provided,5.0,outperform,26.0
+2016-10-26,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-28,Barclays,Not Provided,3.0,equalweight,23.0
+2016-11-01,KeyBanc Capital Markets,Not Provided,5.0,overweight,24.0
+2016-11-01,Credit Suisse,Not Provided,1.0,underperform,25.0
+2016-11-01,Wolfe Research,12 month,5.0,outperform,24.0
+2016-11-01,Jefferies,12 month,3.0,hold,23.0
+2016-11-01,J.P. Morgan,18 month,3.0,neutral,24.0
+2016-11-01,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-11-01,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-11-02,Barclays,Not Provided,3.0,equalweight,23.0
+2016-11-02,Evercore ISI,12 month,3.0,hold,22.0
+2016-11-03,UBS,12 month,3.0,neutral,24.0
+2016-11-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-07,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-11-08,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-11-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-17,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-11-18,UBS,12 month,3.0,neutral,23.0
+2016-11-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-11-29,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-11-30,US Capital Advisors,Not Provided,5.0,overweight,25.0
+2016-12-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-02,Barclays,Not Provided,3.0,equalweight,23.0
+2016-12-16,Goldman Sachs,12 month,3.0,neutral/neutral,23.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-12-19,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-05,Wolfe Research,Not Provided,5.0,outperform,24.0
+2017-01-09,Evercore ISI,12 month,3.0,hold,22.0
+2017-01-09,Guggenheim Securities,Not Provided,5.0,buy,25.0
+2017-01-12,Jefferies,Not Provided,3.0,hold,22.0
+2017-01-18,Evercore ISI,Not Provided,3.0,hold,23.0
+2017-01-18,J.P. Morgan,12 month,3.0,neutral,25.0
+2017-01-20,Barclays,Not Provided,3.0,equalweight,23.0
+2017-01-24,KeyBanc Capital Markets,Not Provided,5.0,overweight,25.5
+2017-01-25,Guggenheim Securities,Not Provided,5.0,buy,25.0
+2017-01-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-31,Wolfe Research,Not Provided,5.0,outperform,24.0
+2017-02-07,Guggenheim Securities,Not Provided,5.0,buy,25.0
+2017-02-22,Barclays,Not Provided,3.0,equalweight,25.0
+2017-02-22,Credit Suisse,Not Provided,1.0,underperform,25.0
+2017-02-22,Jefferies,12 month,3.0,hold,22.0
+2017-02-22,J.P. Morgan,12 month,3.0,neutral,24.0
+2017-02-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-22,Wolfe Research,12 month,5.0,outperform,25.0
+2017-02-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-23,Goldman Sachs,12 month,3.0,neutral/neutral,24.0
+2017-02-23,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2017-02-23,Evercore ISI,Not Provided,3.0,hold,23.0
+2017-02-23,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2017-02-25,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-02-27,Guggenheim Securities,Not Provided,5.0,buy,25.0
+2017-03-03,Guggenheim Securities,Not Provided,5.0,buy,25.0
+2017-03-03,Barclays,Not Provided,3.0,equalweight,25.0
+2017-03-05,Wolfe Research,Not Provided,5.0,outperform,25.0
+2017-03-05,Evercore ISI,Not Provided,3.0,in-line,23.0
+2017-03-07,UBS,12 month,3.0,neutral,24.0
+2017-03-08,KeyBanc Capital Markets,12 month,5.0,overweight,26.5
+2017-03-08,Barclays,Not Provided,3.0,equalweight,25.0
+2017-03-08,J.P. Morgan,9 month,3.0,neutral,24.0
+2017-03-08,Guggenheim Securities,12 month,5.0,buy,25.0
+2017-03-10,Evercore ISI,Not Provided,3.0,in-line,23.5
+2017-03-13,Wolfe Research,Not Provided,5.0,outperform,25.0
+2017-03-16,Guggenheim Securities,Not Provided,5.0,buy,25.0
+2017-03-20,Wolfe Research,12 month,5.0,outperform,25.0
+2017-03-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-03-22,US Capital Advisors,Not Provided,5.0,overweight,25.0
+2017-03-23,Guggenheim Securities,Not Provided,5.0,buy,25.0
+2017-03-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-30,Jefferies,12 month,3.0,hold,23.0
+2017-04-11,J.P. Morgan,9 month,3.0,neutral,25.0
+2017-04-17,Guggenheim Securities,Not Provided,5.0,buy,25.0
+2017-04-18,UBS,12 month,3.0,neutral,25.0
+2017-04-18,KeyBanc Capital Markets,Not Provided,5.0,overweight,26.5
+2017-04-18,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-04-19,KeyBanc Capital Markets,Not Provided,5.0,overweight,26.5
+2017-04-19,Jefferies,Not Provided,3.0,hold,23.0
+2017-04-20,Guggenheim Securities,Not Provided,5.0,buy,27.0
+2017-04-21,Barclays,Not Provided,3.0,equalweight,25.0
+2017-05-01,Wolfe Research,12 month,5.0,outperform,25.0
+2017-05-03,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-05-03,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2017-05-03,Jefferies,12 month,3.0,hold,23.0
+2017-05-03,Barclays,Not Provided,3.0,equalweight,25.0
+2017-05-04,Guggenheim Securities,Not Provided,5.0,buy,27.0
+2017-05-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-05,J.P. Morgan,9 month,3.0,neutral,25.0
+2017-05-05,Evercore ISI,Not Provided,3.0,in-line,23.5
+2017-05-09,Wolfe Research,12 month,5.0,outperform,26.0
+2017-05-12,Credit Suisse,Not Provided,1.0,underperform,25.0
+2017-05-19,Ladenburg Thalmann & Co,12 month,5.0,buy,27.0

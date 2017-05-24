@@ -1,0 +1,482 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2011-01-17,Goldman Sachs,6 month,3.0,neutral/neutral,66.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-04-06,Piper Jaffray,12 month,5.0,overweight,74.0
+2011-05-03,Credit Suisse,Not Provided,3.0,neutral,63.0
+2011-05-04,Scotia Howard Weil Inc,Not Provided,3.0,market perform,66.0
+2011-05-04,Jefferies,12 month,5.0,buy,80.0
+2011-05-04,BB&T Capital Markets,12 month,5.0,buy,66.0
+2011-05-04,Raymond James,12 month,5.0,strong buy,78.0
+2011-05-09,FBR Capital Markets,12 month,5.0,outperform,70.0
+2011-05-18,Macquarie,12 month,5.0,outperform,70.0
+2011-05-19,Iberia Capital Partners LLC,12 month,5.0,outperform,70.0
+2011-05-20,Brean Capital LLC,12 month,5.0,buy,77.0
+2011-06-01,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2011-06-03,Tudor Pickering & Co,Not Provided,3.0,hold,46.0
+2011-06-03,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-06-03,Stifel,Not Provided,3.0,hold,-0.0
+2011-06-03,Davenport & Co,Not Provided,5.0,buy,67.0
+2011-06-03,Cowen,12 month,5.0,buy,72.0
+2011-06-05,BMO Capital Markets,Not Provided,5.0,outperform,74.0
+2011-06-07,UBS,12 month,5.0,buy,77.0
+2011-06-08,Raymond James,12 month,5.0,strong buy,73.0
+2011-06-10,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-06-10,Stifel,Not Provided,3.0,hold,-0.0
+2011-06-13,FBR Capital Markets,12 month,5.0,outperform,72.0
+2011-06-13,Cowen,12 month,5.0,buy,72.0
+2011-06-17,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-06-17,Stifel,Not Provided,3.0,hold,-0.0
+2011-06-17,BMO Capital Markets,Not Provided,5.0,outperform,65.0
+2011-06-20,Goldman Sachs,6 month,3.0,neutral/attractive,57.0
+2011-06-21,BB&T Capital Markets,12 month,5.0,buy,66.0
+2011-06-21,Cowen,12 month,5.0,buy,68.0
+2011-06-22,Brean Capital LLC,12 month,5.0,buy,77.0
+2011-06-23,Stifel,Not Provided,3.0,hold,-0.0
+2011-06-27,Davenport & Co,Not Provided,5.0,buy,67.0
+2011-06-27,Cowen,12 month,5.0,buy,68.0
+2011-06-29,Societe Generale,12 month,5.0,buy,50.0
+2011-06-30,Iberia Capital Partners LLC,12 month,5.0,outperform,70.0
+2011-07-01,Stifel,Not Provided,3.0,hold,-0.0
+2011-07-01,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-07-05,Cowen,12 month,5.0,buy,68.0
+2011-07-08,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-07-08,Stifel,Not Provided,3.0,hold,-0.0
+2011-07-11,Cowen,12 month,5.0,buy,68.0
+2011-07-13,Scotia Howard Weil Inc,Not Provided,3.0,market perform,66.0
+2011-07-13,Iberia Capital Partners LLC,12 month,5.0,outperform,70.0
+2011-07-14,Brean Capital LLC,12 month,5.0,buy,77.0
+2011-07-14,Credit Suisse,Not Provided,3.0,neutral,53.0
+2011-07-15,Stifel,Not Provided,3.0,hold,-0.0
+2011-07-15,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-07-18,Cowen,12 month,5.0,buy,68.0
+2011-07-21,FBR Capital Markets,12 month,5.0,outperform,68.0
+2011-07-21,Raymond James,12 month,5.0,strong buy,73.0
+2011-07-22,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-07-25,Cowen,12 month,5.0,buy,68.0
+2011-07-25,Stifel,Not Provided,3.0,hold,-0.0
+2011-08-01,Cowen,12 month,5.0,buy,68.0
+2011-08-01,Stifel,Not Provided,3.0,hold,-0.0
+2011-08-04,Piper Jaffray,12 month,5.0,overweight,56.0
+2011-08-05,Credit Suisse,Not Provided,3.0,neutral,40.0
+2011-08-05,Raymond James,12 month,5.0,strong buy,51.0
+2011-08-05,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-08-05,BB&T Capital Markets,12 month,5.0,buy,48.0
+2011-08-05,Scotia Howard Weil Inc,Not Provided,3.0,market perform,60.0
+2011-08-05,Davenport & Co,12 month,5.0,buy,58.0
+2011-08-05,Brean Capital LLC,12 month,5.0,buy,63.0
+2011-08-08,UBS,12 month,5.0,buy,71.0
+2011-08-08,Tudor Pickering & Co,Not Provided,3.0,hold,44.0
+2011-08-08,Cowen,12 month,5.0,buy,54.0
+2011-08-08,FBR Capital Markets,12 month,5.0,outperform,58.0
+2011-08-09,Iberia Capital Partners LLC,12 month,5.0,outperform,50.0
+2011-08-09,Stifel,Not Provided,3.0,hold,-0.0
+2011-08-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-08-10,BMO Capital Markets,Not Provided,5.0,outperform,55.0
+2011-08-11,Goldman Sachs,6 month,3.0,neutral/attractive,37.0
+2011-08-11,FBR Capital Markets,12 month,5.0,outperform,53.0
+2011-08-15,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-08-15,Societe Generale,12 month,5.0,buy,45.0
+2011-08-15,Iberia Capital Partners LLC,12 month,5.0,outperform,50.0
+2011-08-15,Cowen,12 month,5.0,buy,54.0
+2011-08-16,Stifel,Not Provided,3.0,hold,-0.0
+2011-08-22,Davenport & Co,Not Provided,5.0,buy,50.0
+2011-08-22,Cowen,12 month,5.0,buy,54.0
+2011-08-23,Brean Capital LLC,12 month,5.0,buy,63.0
+2011-08-23,UBS,12 month,5.0,buy,71.0
+2011-08-23,BMO Capital Markets,Not Provided,5.0,outperform,55.0
+2011-08-23,Stifel,Not Provided,3.0,hold,-0.0
+2011-08-25,Davenport & Co,Not Provided,5.0,buy,50.0
+2011-08-29,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-08-29,Cowen,12 month,5.0,buy,54.0
+2011-08-30,J.P. Morgan,3 month,3.0,neutral,39.0
+2011-08-30,Stifel,Not Provided,3.0,hold,-0.0
+2011-09-01,Iberia Capital Partners LLC,12 month,5.0,outperform,50.0
+2011-09-02,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-09-06,Jefferies,12 month,5.0,buy,45.0
+2011-09-06,Stifel,Not Provided,3.0,hold,-0.0
+2011-09-06,Cowen,12 month,5.0,buy,54.0
+2011-09-08,BB&T Capital Markets,12 month,5.0,buy,40.0
+2011-09-08,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2011-09-09,FBR Capital Markets,12 month,5.0,outperform,45.0
+2011-09-12,Cowen,12 month,5.0,buy,54.0
+2011-09-13,Stifel,12 month,3.0,hold,35.0
+2011-09-16,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-09-19,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2011-09-21,Piper Jaffray,12 month,5.0,overweight,36.0
+2011-09-21,UBS,12 month,5.0,buy,68.0
+2011-09-21,Scotia Howard Weil Inc,Not Provided,3.0,market perform,60.0
+2011-09-21,Davenport & Co,12 month,5.0,buy,50.0
+2011-09-21,BB&T Capital Markets,12 month,5.0,buy,34.0
+2011-09-21,Brean Capital LLC,12 month,5.0,buy,63.0
+2011-09-21,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2011-09-22,Cowen,12 month,5.0,buy,42.0
+2011-09-22,Stifel,Not Provided,3.0,hold,-0.0
+2011-09-22,FBR Capital Markets,12 month,5.0,outperform,41.0
+2011-09-22,Credit Suisse,Not Provided,3.0,neutral,40.0
+2011-09-22,Iberia Capital Partners LLC,12 month,5.0,outperform,30.0
+2011-09-23,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2011-09-23,Scotia Howard Weil Inc,12 month,3.0,market perform,47.0
+2011-09-23,Raymond James,12 month,5.0,strong buy,37.5
+2011-09-26,Tudor Pickering & Co,Not Provided,3.0,hold,42.0
+2011-09-26,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-09-26,Stifel,Not Provided,3.0,hold,-0.0
+2011-09-27,Jefferies,12 month,5.0,buy,30.0
+2011-09-28,Davenport & Co,12 month,5.0,buy,50.0
+2011-10-03,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-10-04,Stifel,Not Provided,3.0,hold,-0.0
+2011-10-04,Credit Suisse,Not Provided,3.0,neutral,20.0
+2011-10-06,Societe Generale,12 month,5.0,buy,34.0
+2011-10-06,J.P. Morgan,15 month,3.0,neutral,34.0
+2011-10-06,Iberia Capital Partners LLC,12 month,5.0,outperform,30.0
+2011-10-07,Jefferies,12 month,5.0,buy,30.0
+2011-10-10,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-10-12,Goldman Sachs,6 month,3.0,neutral/attractive,20.0
+2011-10-13,BMO Capital Markets,Not Provided,5.0,outperform,45.0
+2011-10-13,FBR Capital Markets,12 month,5.0,outperform,38.0
+2011-10-14,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-10-17,Brean Capital LLC,12 month,5.0,buy,30.0
+2011-10-18,Davenport & Co,12 month,5.0,buy,39.0
+2011-10-19,Sterne Agee CRT,12 month,5.0,buy,35.0
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-20,Scotia Howard Weil Inc,12 month,3.0,market perform,47.0
+2011-10-20,Stifel,Not Provided,3.0,hold,-0.0
+2011-10-21,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-10-27,Stifel,Not Provided,3.0,hold,-0.0
+2011-10-28,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-11-02,Barclays,Not Provided,5.0,overwt/positive,34.0
+2011-11-03,Piper Jaffray,12 month,5.0,overweight,39.0
+2011-11-03,Davenport & Co,12 month,5.0,buy,39.0
+2011-11-03,BB&T Capital Markets,12 month,5.0,buy,34.0
+2011-11-03,Sterne Agee CRT,12 month,5.0,buy,35.0
+2011-11-03,Scotia Howard Weil Inc,12 month,3.0,market perform,47.0
+2011-11-03,Cowen,Not Provided,5.0,buy,40.0
+2011-11-03,Credit Suisse,Not Provided,3.0,neutral,20.0
+2011-11-03,BMO Capital Markets,Not Provided,5.0,outperform,45.0
+2011-11-03,Iberia Capital Partners LLC,12 month,5.0,outperform,30.0
+2011-11-04,Credit Suisse,Not Provided,3.0,neutral,30.0
+2011-11-04,Jefferies,12 month,5.0,buy,35.0
+2011-11-04,Brean Capital LLC,12 month,5.0,buy,35.0
+2011-11-04,Goldman Sachs,6 month,3.0,neutral/attractive,25.0
+2011-11-04,BMO Capital Markets,Not Provided,5.0,outperform,45.0
+2011-11-04,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-11-04,FBR Capital Markets,12 month,5.0,outperform,38.0
+2011-11-04,Sterne Agee CRT,12 month,5.0,buy,35.0
+2011-11-04,Stifel,Not Provided,3.0,hold,-0.0
+2011-11-04,Barclays,Not Provided,5.0,overwt/positive,36.0
+2011-11-07,Scotia Howard Weil Inc,Not Provided,4.0,market outperform,44.0
+2011-11-08,J.P. Morgan,12 month,3.0,neutral,35.0
+2011-11-10,Iberia Capital Partners LLC,12 month,5.0,outperform,30.0
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-14,Stifel,Not Provided,3.0,hold,-0.0
+2011-11-16,Sterne Agee CRT,12 month,5.0,buy,35.0
+2011-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-17,CRT Capital Group,12 month,3.0,Fairly Valued,26.0
+2011-11-17,Societe Generale,12 month,5.0,buy,33.0
+2011-11-17,Cowen,12 month,5.0,buy,40.0
+2011-11-18,Barclays,Not Provided,5.0,overwt/positive,36.0
+2011-11-18,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-11-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-22,BMO Capital Markets,Not Provided,5.0,outperform,45.0
+2011-11-22,Stifel,Not Provided,3.0,hold,-0.0
+2011-11-23,FBR Capital Markets,12 month,5.0,outperform,38.0
+2011-11-25,CRT Capital Group,12 month,3.0,Fairly Valued,26.0
+2011-11-28,Iberia Capital Partners LLC,12 month,5.0,outperform,30.0
+2011-11-29,Stifel,Not Provided,3.0,hold,-0.0
+2011-11-30,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2011-12-02,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-12-05,UBS,12 month,5.0,buy,64.0
+2011-12-06,Goldman Sachs,6 month,3.0,neutral/neutral,24.0
+2011-12-06,Raymond James,12 month,5.0,strong buy,37.5
+2011-12-06,Stifel,Not Provided,3.0,hold,-0.0
+2011-12-06,BB&T Capital Markets,12 month,5.0,buy,34.0
+2011-12-06,Cowen,12 month,5.0,buy,40.0
+2011-12-07,Iberia Capital Partners LLC,12 month,5.0,outperform,30.0
+2011-12-07,BMO Capital Markets,Not Provided,5.0,outperform,45.0
+2011-12-07,Sterne Agee CRT,12 month,5.0,buy,35.0
+2011-12-09,FBR Capital Markets,12 month,5.0,outperform,38.0
+2011-12-13,Brean Capital LLC,12 month,5.0,buy,29.0
+2011-12-13,Stifel,Not Provided,3.0,hold,-0.0
+2011-12-13,UBS,12 month,5.0,buy,62.0
+2011-12-14,BMO Capital Markets,Not Provided,5.0,outperform,45.0
+2011-12-16,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2011-12-19,Piper Jaffray,12 month,5.0,overweight,30.0
+2011-12-21,Stifel,Not Provided,3.0,hold,-0.0
+2011-12-23,UBS,12 month,5.0,buy,58.0
+2011-12-23,Sterne Agee CRT,12 month,5.0,buy,35.0
+2011-12-28,Stifel,Not Provided,3.0,hold,-0.0
+2011-12-29,BMO Capital Markets,Not Provided,5.0,outperform,45.0
+2012-01-03,Cowen,Not Provided,5.0,buy,40.0
+2012-01-03,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-01-03,J.P. Morgan,9 month,3.0,neutral,26.0
+2012-01-03,Brean Capital LLC,12 month,5.0,buy,29.0
+2012-01-04,CRT Capital Group,12 month,3.0,Fairly Valued,26.0
+2012-01-05,UBS,12 month,5.0,buy,54.0
+2012-01-06,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-01-08,BMO Capital Markets,Not Provided,5.0,outperform,35.0
+2012-01-09,Davenport & Co,Not Provided,5.0,buy,35.0
+2012-01-12,BB&T Capital Markets,12 month,5.0,buy,29.0
+2012-01-12,Davenport & Co,Not Provided,5.0,buy,35.0
+2012-01-12,Raymond James,12 month,5.0,strong buy,41.5
+2012-01-13,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-01-17,Stifel,Not Provided,3.0,hold,-0.0
+2012-01-17,Iberia Capital Partners LLC,12 month,5.0,outperform,30.0
+2012-01-17,Credit Suisse,Not Provided,3.0,neutral,22.0
+2012-01-18,CRT Capital Group,12 month,3.0,Fairly Valued,26.0
+2012-01-18,Cowen,Not Provided,5.0,buy,29.0
+2012-01-19,FBR Capital Markets,12 month,5.0,outperform,32.0
+2012-01-19,UBS,12 month,5.0,buy,40.0
+2012-01-20,Stifel,Not Provided,3.0,hold,-0.0
+2012-01-20,Jefferies,12 month,5.0,buy,28.0
+2012-01-20,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-01-23,Brean Capital LLC,12 month,5.0,buy,29.0
+2012-01-23,Scotia Howard Weil Inc,Not Provided,4.0,market outperform,39.0
+2012-01-23,Iberia Capital Partners LLC,12 month,5.0,outperform,30.0
+2012-01-23,Raymond James,12 month,5.0,strong buy,41.5
+2012-01-23,Davenport & Co,Not Provided,5.0,buy,35.0
+2012-01-27,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-01-31,Jefferies,12 month,5.0,buy,28.0
+2012-01-31,Stifel,Not Provided,3.0,hold,-0.0
+2012-02-01,Davenport & Co,12 month,5.0,buy,35.0
+2012-02-05,Goldman Sachs,6 month,3.0,neutral/neutral,23.0
+2012-02-06,Scotia Howard Weil Inc,Not Provided,4.0,market outperform,37.0
+2012-02-06,UBS,12 month,5.0,buy,39.0
+2012-02-06,Credit Suisse,Not Provided,3.0,neutral,22.0
+2012-02-06,Sterne Agee CRT,12 month,5.0,buy,35.0
+2012-02-06,FBR Capital Markets,12 month,5.0,outperform,32.0
+2012-02-06,Cowen,12 month,5.0,buy,29.0
+2012-02-06,Tudor Pickering & Co,Not Provided,3.0,hold,39.0
+2012-02-06,Brean Capital LLC,12 month,5.0,buy,29.0
+2012-02-06,Raymond James,12 month,5.0,strong buy,41.5
+2012-02-06,BMO Capital Markets,Not Provided,5.0,outperform,35.0
+2012-02-06,Davenport & Co,12 month,5.0,buy,32.0
+2012-02-06,Barclays,Not Provided,5.0,overwt/positive,35.0
+2012-02-07,Iberia Capital Partners LLC,12 month,5.0,outperform,30.0
+2012-02-08,Stifel,Not Provided,3.0,hold,-0.0
+2012-02-09,Davenport & Co,Not Provided,5.0,buy,32.0
+2012-02-13,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-02-14,Barclays,Not Provided,5.0,overwt/positive,32.0
+2012-02-15,CRT Capital Group,12 month,3.0,Fairly Valued,26.0
+2012-02-16,CRT Capital Group,12 month,3.0,Fairly Valued,26.0
+2012-02-17,Davenport & Co,Not Provided,5.0,buy,32.0
+2012-02-17,Stifel,Not Provided,3.0,hold,-0.0
+2012-02-17,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-02-23,Iberia Capital Partners LLC,12 month,5.0,outperform,30.0
+2012-02-24,UBS,12 month,5.0,buy,37.0
+2012-02-24,Scotia Howard Weil Inc,Not Provided,4.0,market outperform,37.0
+2012-02-24,Jefferies,12 month,5.0,buy,28.0
+2012-02-24,Piper Jaffray,12 month,5.0,overweight,28.0
+2012-02-24,Credit Suisse,Not Provided,3.0,neutral,22.0
+2012-02-27,Iberia Capital Partners LLC,12 month,5.0,outperform,25.0
+2012-02-27,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-02-27,Davenport & Co,Not Provided,5.0,buy,29.0
+2012-02-27,CRT Capital Group,Not Provided,1.0,sell,17.0
+2012-02-27,Cowen,12 month,5.0,buy,27.0
+2012-02-27,Barclays,Not Provided,5.0,overwt/positive,29.0
+2012-02-27,BB&T Capital Markets,12 month,5.0,buy,27.0
+2012-02-27,Raymond James,12 month,5.0,strong buy,26.0
+2012-02-27,Brean Capital LLC,12 month,5.0,buy,25.0
+2012-02-28,Tudor Pickering & Co,Not Provided,3.0,hold,35.0
+2012-02-28,BMO Capital Markets,Not Provided,5.0,outperform,35.0
+2012-03-01,Nomura,12 month,3.0,neutral,20.0
+2012-03-01,Stifel,Not Provided,3.0,hold,-0.0
+2012-03-02,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-03-02,J.P. Morgan,9 month,3.0,neutral,24.0
+2012-03-05,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-03-06,Brean Capital LLC,12 month,5.0,buy,25.0
+2012-03-07,CRT Capital Group,Not Provided,3.0,Fairly Valued,17.0
+2012-03-08,Barclays,Not Provided,5.0,overwt/positive,23.0
+2012-03-08,Stifel,Not Provided,3.0,hold,-0.0
+2012-03-08,BMO Capital Markets,Not Provided,5.0,outperform,25.0
+2012-03-12,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-03-13,Davenport & Co,Not Provided,5.0,buy,29.0
+2012-03-18,Goldman Sachs,6 month,3.0,neutral/neutral,18.0
+2012-03-19,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-03-19,FBR Capital Markets,12 month,5.0,outperform,32.0
+2012-03-20,Sterne Agee CRT,12 month,5.0,buy,35.0
+2012-03-20,Stifel,Not Provided,3.0,hold,-0.0
+2012-03-21,Cowen,Not Provided,5.0,buy,27.0
+2012-03-22,Davenport & Co,Not Provided,3.0,neutral,21.0
+2012-03-22,UBS,12 month,5.0,buy,34.0
+2012-03-23,Scotia Howard Weil Inc,Not Provided,4.0,market outperform,26.0
+2012-03-26,BMO Capital Markets,Not Provided,5.0,outperform,25.0
+2012-03-26,Davenport & Co,Not Provided,3.0,neutral,21.0
+2012-03-28,Sterne Agee CRT,12 month,5.0,buy,35.0
+2012-03-29,UBS,12 month,5.0,buy,28.0
+2012-03-29,Piper Jaffray,12 month,5.0,overweight,24.0
+2012-03-29,Stifel,Not Provided,3.0,hold,-0.0
+2012-03-30,CRT Capital Group,Not Provided,3.0,Fairly Valued,17.0
+2012-03-30,Davenport & Co,Not Provided,3.0,neutral,21.0
+2012-04-02,Scotia Howard Weil Inc,Not Provided,4.0,market outperform,26.0
+2012-04-04,Cowen,12 month,5.0,buy,27.0
+2012-04-04,Sterne Agee CRT,12 month,5.0,buy,30.0
+2012-04-05,Raymond James,12 month,5.0,strong buy,26.0
+2012-04-05,BMO Capital Markets,Not Provided,5.0,outperform,22.0
+2012-04-05,Stifel,Not Provided,3.0,hold,-0.0
+2012-04-09,J.P. Morgan,6 month,3.0,neutral,15.0
+2012-04-10,Barclays,Not Provided,5.0,overwt/positive,23.0
+2012-04-10,Sterne Agee CRT,12 month,5.0,buy,30.0
+2012-04-12,Nomura,12 month,5.0,buy,20.0
+2012-04-13,Stifel,Not Provided,3.0,hold,-0.0
+2012-04-13,Credit Suisse,Not Provided,3.0,neutral,18.0
+2012-04-13,FBR Capital Markets,12 month,5.0,outperform,26.0
+2012-04-13,Davenport & Co,Not Provided,3.0,neutral,21.0
+2012-04-13,Cowen,12 month,5.0,buy,19.0
+2012-04-13,CRT Capital Group,12 month,3.0,Fairly Valued,17.0
+2012-04-16,CRT Capital Group,12 month,3.0,Fairly Valued,17.0
+2012-04-16,Scotia Howard Weil Inc,Not Provided,4.0,market outperform,26.0
+2012-04-18,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-04-18,Nomura,12 month,5.0,buy,20.0
+2012-04-18,Raymond James,12 month,5.0,strong buy,25.0
+2012-04-20,Sterne Agee CRT,12 month,5.0,buy,30.0
+2012-04-20,Stifel,Not Provided,3.0,hold,-0.0
+2012-04-23,Nomura,12 month,5.0,buy,20.0
+2012-04-24,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-04-25,Stifel,Not Provided,3.0,hold,-0.0
+2012-05-01,Stifel,Not Provided,3.0,hold,-0.0
+2012-05-03,Credit Suisse,Not Provided,3.0,neutral,17.0
+2012-05-03,Barclays,Not Provided,5.0,overwt/positive,21.0
+2012-05-03,BB&T Capital Markets,12 month,5.0,buy,24.0
+2012-05-03,Jefferies,12 month,5.0,buy,24.0
+2012-05-03,Piper Jaffray,12 month,5.0,overweight,23.0
+2012-05-03,Nomura,12 month,5.0,buy,20.0
+2012-05-03,Scotia Howard Weil Inc,Not Provided,4.0,market outperform,26.0
+2012-05-03,Iberia Capital Partners LLC,Not Provided,5.0,outperform,25.0
+2012-05-04,J.P. Morgan,6 month,3.0,neutral,15.0
+2012-05-04,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-05-04,Tudor Pickering & Co,Not Provided,3.0,hold,27.0
+2012-05-04,Cowen,12 month,5.0,buy,18.0
+2012-05-04,Raymond James,12 month,5.0,strong buy,25.0
+2012-05-04,Davenport & Co,12 month,3.0,neutral,17.0
+2012-05-04,Goldman Sachs,6 month,3.0,neutral/neutral,16.0
+2012-05-04,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-05-04,Sterne Agee CRT,12 month,5.0,buy,30.0
+2012-05-04,CRT Capital Group,12 month,5.0,buy,20.0
+2012-05-07,FBR Capital Markets,12 month,5.0,outperform,25.0
+2012-05-07,Stifel,Not Provided,3.0,hold,-0.0
+2012-05-08,Scotia Howard Weil Inc,Not Provided,4.0,market outperform,22.0
+2012-05-10,CRT Capital Group,12 month,5.0,buy,20.0
+2012-05-10,Sterne Agee CRT,12 month,5.0,buy,30.0
+2012-05-10,BMO Capital Markets,Not Provided,5.0,outperform,18.0
+2012-05-11,Iberia Capital Partners LLC,12 month,5.0,outperform,20.0
+2012-05-14,Sterne Agee CRT,12 month,5.0,buy,30.0
+2012-05-14,FBR Capital Markets,12 month,5.0,outperform,25.0
+2012-05-15,BMO Capital Markets,Not Provided,5.0,outperform,18.0
+2012-05-16,CRT Capital Group,12 month,5.0,buy,20.0
+2012-05-18,Stifel,Not Provided,3.0,hold,-0.0
+2012-05-21,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-05-21,Davenport & Co,Not Provided,3.0,neutral,15.0
+2012-05-25,CRT Capital Group,12 month,5.0,buy,20.0
+2012-05-29,CRT Capital Group,12 month,5.0,buy,20.0
+2012-05-29,Stifel,Not Provided,3.0,hold,-0.0
+2012-05-30,Goldman Sachs,6 month,3.0,neutral/attractive,12.0
+2012-05-31,Seaport Global Securities,Not Provided,3.0,neutral,-0.0
+2012-06-02,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-06-04,Nomura,12 month,5.0,buy,20.0
+2012-06-06,Iberia Capital Partners LLC,12 month,5.0,outperform,20.0
+2012-06-06,Davenport & Co,Not Provided,3.0,neutral,15.0
+2012-06-07,Stifel,Not Provided,3.0,hold,-0.0
+2012-06-07,Raymond James,12 month,5.0,strong buy,25.0
+2012-06-08,BMO Capital Markets,Not Provided,5.0,outperform,18.0
+2012-06-08,Credit Suisse,Not Provided,3.0,neutral,11.0
+2012-06-11,Seaport Global Securities,Not Provided,3.0,neutral,-0.0
+2012-06-11,UBS,12 month,5.0,buy,26.0
+2012-06-11,Sterne Agee CRT,12 month,5.0,buy,30.0
+2012-06-13,Piper Jaffray,12 month,5.0,overweight,15.0
+2012-06-15,Stifel,Not Provided,3.0,hold,-0.0
+2012-06-18,Raymond James,12 month,5.0,strong buy,13.0
+2012-06-18,CRT Capital Group,Not Provided,5.0,buy,20.0
+2012-06-19,FBR Capital Markets,12 month,5.0,outperform,18.0
+2012-06-21,CRT Capital Group,12 month,5.0,buy,20.0
+2012-06-21,Nomura,Not Provided,5.0,buy,-0.0
+2012-06-25,Stifel,Not Provided,3.0,hold,-0.0
+2012-06-27,CRT Capital Group,Not Provided,5.0,buy,20.0
+2012-06-27,Raymond James,12 month,5.0,strong buy,13.0
+2012-06-29,Stifel,Not Provided,3.0,hold,-0.0
+2012-07-08,Goldman Sachs,6 month,3.0,neutral/attractive,11.0
+2012-07-09,Barclays,Not Provided,5.0,overweight,21.0
+2012-07-09,Davenport & Co,Not Provided,3.0,neutral,15.0
+2012-07-09,UBS,12 month,5.0,buy,25.0
+2012-07-10,Sterne Agee CRT,12 month,5.0,buy,30.0
+2012-07-11,Credit Suisse,Not Provided,3.0,neutral,8.0
+2012-07-13,Nomura,Not Provided,5.0,buy,20.0
+2012-07-16,BMO Capital Markets,Not Provided,1.0,underperform,5.0
+2012-07-16,Stifel,Not Provided,3.0,hold,-0.0
+2012-07-17,Raymond James,12 month,5.0,strong buy,13.0
+2012-07-17,CRT Capital Group,12 month,5.0,buy,10.0
+2012-07-18,Scotia Howard Weil Inc,12 month,4.0,market outperform,22.0
+2012-07-18,Davenport & Co,Not Provided,3.0,neutral,10.0
+2012-07-19,FBR Capital Markets,12 month,5.0,outperform,16.0
+2012-07-20,Cowen,12 month,5.0,buy,18.0
+2012-07-20,Tudor Pickering & Co,Not Provided,3.0,hold,26.0
+2012-07-23,Stifel,Not Provided,3.0,hold,-0.0
+2012-07-23,CRT Capital Group,Not Provided,5.0,buy,10.0
+2012-07-23,UBS,12 month,5.0,buy,23.0
+2012-07-24,J.P. Morgan,3 month,3.0,neutral,14.5
+2012-07-25,Tudor Pickering & Co,Not Provided,3.0,hold,28.0
+2012-07-25,Seaport Global Securities,Not Provided,3.0,neutral,-0.0
+2012-07-30,Stifel,Not Provided,3.0,hold,-0.0
+2012-08-07,UBS,12 month,5.0,buy,21.0
+2012-08-07,Stifel,Not Provided,3.0,hold,-0.0
+2012-08-08,Jefferies,12 month,5.0,buy,12.0
+2012-08-08,Piper Jaffray,12 month,5.0,overweight,12.0
+2012-08-08,Barclays,Not Provided,5.0,overweight,9.0
+2012-08-08,Credit Suisse,Not Provided,3.0,neutral,7.0
+2012-08-08,Iberia Capital Partners LLC,12 month,5.0,outperform,20.0
+2012-08-08,Goldman Sachs,6 month,3.0,neutral/attractive,10.0
+2012-08-09,Scotia Howard Weil Inc,Not Provided,4.0,market outperform,16.0
+2012-08-09,J.P. Morgan,3 month,3.0,neutral,15.5
+2012-08-09,Raymond James,12 month,5.0,strong buy,12.0
+2012-08-09,Seaport Global Securities,Not Provided,3.0,neutral,-0.0
+2012-08-09,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-08-09,BMO Capital Markets,Not Provided,1.0,underperform,5.0
+2012-08-09,Cowen,12 month,5.0,buy,13.0
+2012-08-09,CRT Capital Group,Not Provided,5.0,buy,9.0
+2012-08-09,FBR Capital Markets,12 month,5.0,outperform,13.0
+2012-08-09,Stifel,Not Provided,3.0,hold,-0.0
+2012-08-09,Davenport & Co,Not Provided,3.0,neutral,9.0
+2012-08-09,BB&T Capital Markets,12 month,5.0,buy,12.0
+2012-08-09,Nomura,12 month,5.0,buy,11.0
+2012-08-10,Sterne Agee CRT,12 month,5.0,buy,16.0
+2012-08-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-08-15,Iberia Capital Partners LLC,12 month,5.0,outperform,15.0
+2012-08-15,Davenport & Co,Not Provided,3.0,neutral,9.0
+2012-08-16,Stifel,Not Provided,3.0,hold,-0.0
+2012-08-20,Goldman Sachs,6 month,3.0,neutral/attractive,9.0
+2012-08-21,CRT Capital Group,Not Provided,5.0,buy,9.0
+2012-08-22,CRT Capital Group,Not Provided,5.0,buy,9.0
+2012-08-24,BB&T Capital Markets,12 month,5.0,buy,12.0
+2012-08-24,FBR Capital Markets,12 month,5.0,outperform,13.0
+2012-08-24,UBS,12 month,5.0,buy,20.0
+2012-08-24,Stifel,Not Provided,3.0,hold,-0.0
+2012-08-28,Nomura,12 month,5.0,buy,11.0
+2012-08-31,Stifel,Not Provided,3.0,hold,-0.0
+2012-09-04,UBS,12 month,5.0,buy,19.0
+2012-09-04,Cowen,Not Provided,3.0,hold,-0.0
+2012-09-05,Raymond James,12 month,5.0,outperform,8.0
+2012-09-06,Davenport & Co,Not Provided,3.0,neutral,8.0
+2012-09-10,Stifel,Not Provided,3.0,hold,-0.0
+2012-09-10,Tudor Pickering & Co,Not Provided,3.0,hold,11.0
+2012-09-10,Sterne Agee CRT,12 month,5.0,buy,16.0
+2012-09-18,Sterne Agee CRT,12 month,5.0,buy,16.0
+2012-09-18,Barclays,Not Provided,5.0,overweight,9.0
+2012-09-18,BB&T Capital Markets,12 month,5.0,buy,10.0
+2012-09-18,Davenport & Co,Not Provided,3.0,neutral,8.0
+2012-09-18,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-09-18,Jefferies,12 month,5.0,buy,12.0
+2012-09-18,BMO Capital Markets,Not Provided,1.0,underperform,5.0
+2012-09-18,Raymond James,12 month,5.0,outperform,9.0
+2012-09-18,UBS,12 month,5.0,buy,15.0
+2012-09-18,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-09-19,Seaport Global Securities,Not Provided,3.0,neutral,-0.0
+2012-09-19,FBR Capital Markets,12 month,5.0,outperform,13.0
+2012-09-19,CRT Capital Group,Not Provided,5.0,buy,9.0
+2012-09-19,Stifel,Not Provided,3.0,hold,-0.0
+2012-09-19,Credit Suisse,Not Provided,3.0,neutral,7.0
+2012-09-20,Piper Jaffray,12 month,3.0,neutral,6.0
+2012-09-21,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-09-24,Stifel,Not Provided,3.0,hold,-0.0
+2012-09-24,UBS,12 month,5.0,buy,14.0
+2012-09-25,CRT Capital Group,12 month,5.0,buy,9.0
+2012-09-25,Sterne Agee CRT,12 month,5.0,buy,30.0
+2012-09-25,J.P. Morgan,12 month,3.0,neutral,13.0
+2012-09-26,Raymond James,12 month,5.0,outperform,9.0

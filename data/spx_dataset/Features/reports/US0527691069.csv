@@ -1,0 +1,2265 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2005-01-25,Brean Capital LLC,18 month,5.0,buy,37.0
+2005-02-24,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2005-05-12,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2005-06-29,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2005-08-19,Thomas Weisel Partners,Not Provided,3.0,peerperform,-0.0
+2005-08-19,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2005-10-04,Barclays,Not Provided,5.0,overwt/positive,48.0
+2005-11-17,ThinkEquity LLC,12 month,5.0,buy,51.0
+2005-11-18,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,45.0
+2005-11-30,Oppenheimer & Co,Not Provided,3.0,neutral,-0.0
+2005-12-06,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2006-01-05,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-01-11,Oppenheimer & Co,Not Provided,3.0,neutral,-0.0
+2006-01-11,Piper Jaffray,Not Provided,5.0,outperform,50.0
+2006-01-11,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2006-01-17,Piper Jaffray,Not Provided,5.0,outperform,50.0
+2006-01-17,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,45.0
+2006-01-17,Oppenheimer & Co,Not Provided,3.0,neutral,-0.0
+2006-01-19,GARP Research,Not Provided,3.0,neutral,-0.0
+2006-01-23,Piper Jaffray,Not Provided,5.0,outperform,50.0
+2006-01-31,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2006-02-02,Piper Jaffray,12 month,3.0,market perform,42.0
+2006-02-02,Barclays,Not Provided,3.0,equalwt/positive,43.0
+2006-02-06,Oppenheimer & Co,Not Provided,3.0,neutral,-0.0
+2006-02-07,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,45.0
+2006-02-09,Thomas Weisel Partners,Not Provided,3.0,peerperform,-0.0
+2006-02-14,Piper Jaffray,12 month,3.0,market perform,42.0
+2006-02-23,Piper Jaffray,12 month,3.0,market perform,42.0
+2006-03-01,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,45.0
+2006-03-01,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2006-03-01,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-03-01,Piper Jaffray,12 month,3.0,market perform,42.0
+2006-03-01,Oppenheimer & Co,Not Provided,5.0,buy,46.0
+2006-03-08,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-03-17,Piper Jaffray,12 month,3.0,market perform,42.0
+2006-03-23,Piper Jaffray,12 month,3.0,market perform,42.0
+2006-03-31,Piper Jaffray,12 month,3.0,market perform,42.0
+2006-03-31,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-04-04,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-04-04,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-04-05,Oppenheimer & Co,Not Provided,5.0,buy,46.0
+2006-04-05,Piper Jaffray,12 month,3.0,market perform,42.0
+2006-04-05,GARP Research,Not Provided,3.0,neutral,-0.0
+2006-04-06,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2006-04-06,Needham & Co,12 month,5.0,buy,47.0
+2006-04-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-04-12,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-04-21,UBS,12 month,3.0,neutral 2,46.0
+2006-04-24,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2006-04-26,Piper Jaffray,12 month,3.0,market perform,42.0
+2006-05-04,Piper Jaffray,12 month,3.0,market perform,42.0
+2006-05-09,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-05-15,Piper Jaffray,12 month,3.0,market perform,42.0
+2006-05-15,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-05-19,Needham & Co,12 month,5.0,buy,47.0
+2006-05-19,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-05-19,UBS,12 month,5.0,buy 2,46.0
+2006-05-19,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-05-19,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2006-05-22,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-05-24,UBS,12 month,5.0,buy 2,46.0
+2006-05-26,KeyBanc Capital Markets,Not Provided,5.0,buy,44.0
+2006-05-31,Kaufman Bros,Not Provided,5.0,buy,45.0
+2006-06-01,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-06-02,UBS,12 month,5.0,buy 2,46.0
+2006-06-15,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-06-21,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-06-22,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-06-29,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-06-30,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-07-07,Baird,Not Provided,3.0,neutral,42.0
+2006-07-11,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-07-11,Needham & Co,12 month,5.0,strong buy,47.0
+2006-07-11,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-07-14,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2006-07-18,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-07-26,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-07-31,Barclays,Not Provided,3.0,equalwt/positive,38.0
+2006-08-01,Baird,Not Provided,3.0,neutral,42.0
+2006-08-01,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,39.0
+2006-08-03,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-08-04,Jefferies,Not Provided,3.0,hold,34.0
+2006-08-15,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-08-16,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-08-16,Jefferies,Not Provided,5.0,buy,40.0
+2006-08-18,Jefferies,Not Provided,5.0,buy,40.0
+2006-08-18,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-08-18,Needham & Co,12 month,5.0,strong buy,47.0
+2006-08-18,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2006-08-18,Kaufman Bros,Not Provided,5.0,buy,45.0
+2006-08-18,Baird,Not Provided,3.0,neutral,42.0
+2006-08-18,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,39.0
+2006-08-18,GARP Research,Not Provided,3.0,neutral,-0.0
+2006-08-23,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-08-30,Goldman Sachs,Not Provided,3.0,neutral/attractive,35.0
+2006-09-06,UBS,12 month,5.0,buy 2,46.0
+2006-09-07,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-09-07,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-09-08,Credit Suisse,12 month,5.0,outperform,42.0
+2006-09-13,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-09-20,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-10-03,Credit Suisse,12 month,5.0,outperform,42.0
+2006-10-05,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-10-09,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-10-09,Jefferies,Not Provided,5.0,buy,40.0
+2006-10-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-10-17,Jefferies,Not Provided,5.0,buy,40.0
+2006-10-18,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-10-19,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-10-24,Jefferies,Not Provided,5.0,buy,40.0
+2006-10-25,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2006-11-06,Baird,Not Provided,3.0,neutral,42.0
+2006-11-06,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-11-08,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2006-11-14,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-11-14,Gleacher & Company,Not Provided,5.0,buy,42.0
+2006-11-15,UBS,12 month,5.0,buy 2,46.0
+2006-11-15,Piper Jaffray,12 month,5.0,outperform,47.0
+2006-11-16,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-11-16,Goldman Sachs,Not Provided,3.0,neutral/attractive,38.0
+2006-11-17,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-11-17,Gleacher & Company,Not Provided,5.0,buy,37.0
+2006-11-17,Needham & Co,12 month,5.0,strong buy,49.0
+2006-11-17,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-11-17,GARP Research,Not Provided,3.0,neutral,-0.0
+2006-11-17,UBS,12 month,5.0,buy 2,47.0
+2006-11-17,Jefferies,Not Provided,5.0,buy,43.0
+2006-11-17,Baird,Not Provided,3.0,neutral,46.0
+2006-11-20,Kaufman Bros,Not Provided,5.0,buy,47.0
+2006-11-20,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2006-11-22,Piper Jaffray,12 month,5.0,outperform,50.0
+2006-11-22,Credit Suisse,12 month,5.0,outperform,46.0
+2006-11-29,Kaufman Bros,Not Provided,5.0,buy,47.0
+2006-11-29,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,39.0
+2006-11-29,Piper Jaffray,12 month,5.0,outperform,50.0
+2006-11-29,Needham & Co,12 month,5.0,strong buy,49.0
+2006-11-29,Oppenheimer & Co,12 month,5.0,buy,46.0
+2006-11-30,UBS,12 month,5.0,buy 2,47.0
+2006-12-01,ThinkEquity LLC,12 month,5.0,buy,51.0
+2006-12-04,Piper Jaffray,12 month,5.0,outperform,50.0
+2006-12-11,Jefferies,Not Provided,3.0,hold,43.0
+2006-12-20,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-01-03,Goldman Sachs,Not Provided,3.0,neutral/neutral,38.0
+2007-01-05,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-01-10,Gleacher & Company,Not Provided,5.0,buy,45.0
+2007-01-12,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2007-01-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-01-17,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-01-22,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-01-23,UBS,12 month,5.0,buy 2,47.0
+2007-01-24,Jefferies,Not Provided,3.0,hold,45.0
+2007-01-30,Gleacher & Company,Not Provided,5.0,buy,47.0
+2007-02-02,Credit Suisse,12 month,5.0,outperform,48.0
+2007-02-05,Baird,Not Provided,3.0,neutral,46.0
+2007-02-05,UBS,12 month,5.0,buy 2,47.0
+2007-02-08,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2007-02-08,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-02-09,Barclays,Not Provided,3.0,equalwt/positive,46.0
+2007-02-12,Bear Stearns & Co,Not Provided,3.0,peerperform,-0.0
+2007-02-13,UBS,12 month,5.0,buy 2,48.0
+2007-02-14,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-02-21,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-02-23,Gleacher & Company,Not Provided,5.0,buy,47.0
+2007-02-23,Oppenheimer & Co,12 month,5.0,buy,46.0
+2007-02-26,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-02-26,ThinkEquity LLC,12 month,5.0,buy,51.0
+2007-02-28,Goldman Sachs,Not Provided,3.0,neutral/neutral,40.0
+2007-02-28,Baird,Not Provided,5.0,outperform,46.0
+2007-02-28,Oppenheimer & Co,12 month,5.0,buy,46.0
+2007-02-28,UBS,12 month,5.0,buy 2,48.0
+2007-02-28,Jefferies,Not Provided,3.0,hold,45.0
+2007-02-28,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2007-02-28,Kaufman Bros,Not Provided,5.0,buy,47.0
+2007-02-28,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,39.0
+2007-02-28,Credit Suisse,12 month,5.0,outperform,48.0
+2007-02-28,Needham & Co,12 month,5.0,strong buy,53.0
+2007-02-28,Gleacher & Company,Not Provided,5.0,buy,47.0
+2007-03-05,GARP Research,Not Provided,3.0,neutral,-0.0
+2007-03-14,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-03-20,UBS,12 month,5.0,buy 2,48.0
+2007-03-21,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-04-10,Goldman Sachs,12 month,5.0,Buy/Neutral,44.0
+2007-04-10,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2007-04-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-04-18,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-04-19,UBS,12 month,5.0,buy 2,48.0
+2007-04-27,Needham & Co,12 month,5.0,strong buy,53.0
+2007-04-27,Gleacher & Company,Not Provided,5.0,buy,47.0
+2007-04-27,Piper Jaffray,12 month,5.0,outperform,50.0
+2007-04-27,UBS,12 month,5.0,buy 2,48.0
+2007-04-27,Jefferies,Not Provided,3.0,hold,45.0
+2007-04-27,Baird,Not Provided,5.0,outperform,46.0
+2007-04-30,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,39.0
+2007-04-30,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2007-05-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-05-09,Soleil Securities,12 month,5.0,buy,56.0
+2007-05-10,Gleacher & Company,Not Provided,5.0,buy,47.0
+2007-05-14,Goldman Sachs,12 month,5.0,Buy/Neutral,48.0
+2007-05-14,UBS,12 month,5.0,buy 2,48.0
+2007-05-18,Soleil Securities,12 month,5.0,buy,56.0
+2007-05-18,Credit Suisse,12 month,5.0,outperform,50.0
+2007-05-18,ThinkEquity LLC,12 month,5.0,buy,55.0
+2007-05-18,GARP Research,Not Provided,3.0,neutral,-0.0
+2007-05-18,Gleacher & Company,Not Provided,3.0,neutral,42.0
+2007-05-18,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2007-05-18,Goldman Sachs,12 month,5.0,Buy/Neutral,49.0
+2007-05-18,Piper Jaffray,12 month,5.0,outperform,52.0
+2007-05-18,Needham & Co,12 month,5.0,strong buy,54.0
+2007-05-18,Baird,Not Provided,5.0,outperform,47.0
+2007-05-18,Jefferies,Not Provided,3.0,hold,45.0
+2007-05-18,UBS,12 month,5.0,buy 2,51.0
+2007-05-18,Barclays,Not Provided,3.0,equalwt/positive,48.0
+2007-05-21,Kaufman Bros,Not Provided,5.0,buy,47.0
+2007-05-21,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,42.0
+2007-05-23,Piper Jaffray,12 month,5.0,outperform,52.0
+2007-06-05,UBS,12 month,5.0,buy 2,51.0
+2007-06-05,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2007-06-05,Jefferies,Not Provided,3.0,hold,45.0
+2007-06-06,Baird,Not Provided,5.0,outperform,47.0
+2007-06-11,Needham & Co,12 month,5.0,strong buy,54.0
+2007-06-12,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-06-14,Goldman Sachs,12 month,3.0,neutral/neutral,49.0
+2007-06-14,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-06-19,Piper Jaffray,12 month,5.0,outperform,52.0
+2007-06-20,UBS,12 month,5.0,buy 2,51.0
+2007-07-03,UBS,12 month,5.0,buy 2,51.0
+2007-07-06,Soleil Securities,12 month,5.0,buy,56.0
+2007-07-06,UBS,12 month,5.0,buy 2,51.0
+2007-07-11,Piper Jaffray,12 month,5.0,outperform,52.0
+2007-07-18,Piper Jaffray,12 month,5.0,outperform,52.0
+2007-07-20,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2007-07-20,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2007-07-20,Goldman Sachs,12 month,3.0,neutral/attractive,49.0
+2007-07-24,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-07-25,UBS,12 month,5.0,buy,52.0
+2007-07-30,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2007-08-01,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-08-02,Credit Suisse,12 month,3.0,neutral,48.0
+2007-08-06,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-08-07,UBS,12 month,5.0,buy,52.0
+2007-08-13,Gleacher & Company,Not Provided,3.0,neutral,42.0
+2007-08-14,Piper Jaffray,12 month,5.0,outperform,52.0
+2007-08-17,UBS,12 month,5.0,buy,52.0
+2007-08-17,Baird,Not Provided,5.0,outperform,47.0
+2007-08-17,Soleil Securities,12 month,5.0,buy,56.0
+2007-08-17,Gleacher & Company,Not Provided,3.0,neutral,42.0
+2007-08-17,Jefferies,Not Provided,3.0,hold,45.0
+2007-08-17,Kaufman Bros,Not Provided,5.0,buy,50.0
+2007-08-17,ThinkEquity LLC,12 month,5.0,buy,55.0
+2007-08-17,Credit Suisse,12 month,3.0,neutral,45.0
+2007-08-17,Needham & Co,12 month,5.0,strong buy,55.0
+2007-08-17,Bear Stearns & Co,Not Provided,5.0,outperform,52.0
+2007-08-21,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-08-21,Piper Jaffray,12 month,5.0,outperform,54.0
+2007-09-14,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-09-18,Piper Jaffray,12 month,5.0,outperform,54.0
+2007-10-04,UBS,12 month,5.0,buy,52.0
+2007-10-10,Baird,Not Provided,5.0,outperform,57.0
+2007-10-16,Piper Jaffray,12 month,5.0,outperform,54.0
+2007-10-17,UBS,12 month,3.0,neutral,52.0
+2007-10-22,Piper Jaffray,12 month,5.0,outperform,54.0
+2007-10-29,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2007-11-06,Piper Jaffray,12 month,5.0,outperform,54.0
+2007-11-06,Barclays,12 month,5.0,overwt/positive,60.0
+2007-11-12,Gleacher & Company,Not Provided,3.0,neutral,42.0
+2007-11-13,Goldman Sachs,12 month,5.0,buy/attractive,52.0
+2007-11-14,Jefferies,Not Provided,5.0,buy,55.0
+2007-11-14,Kaufman Bros,Not Provided,5.0,buy,50.0
+2007-11-14,Piper Jaffray,12 month,5.0,outperform,54.0
+2007-11-15,Soleil Securities,12 month,5.0,buy,56.0
+2007-11-16,Gleacher & Company,Not Provided,3.0,neutral,42.0
+2007-11-16,Soleil Securities,12 month,5.0,buy,56.0
+2007-11-16,ThinkEquity LLC,12 month,5.0,buy,55.0
+2007-11-16,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2007-11-16,Kaufman Bros,Not Provided,3.0,hold,50.0
+2007-11-16,Needham & Co,12 month,5.0,buy,56.0
+2007-11-16,Credit Suisse,12 month,3.0,neutral,45.0
+2007-11-16,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2007-11-16,Baird,Not Provided,5.0,outperform,54.0
+2007-11-16,Jefferies,Not Provided,5.0,buy,55.0
+2007-11-20,Piper Jaffray,12 month,5.0,overweight,56.0
+2007-11-20,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-11-21,UBS,12 month,3.0,neutral,52.0
+2007-11-27,Goldman Sachs,12 month,5.0,Buy/Neutral,52.0
+2007-11-28,Needham & Co,12 month,5.0,buy,56.0
+2007-11-28,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2007-11-28,Jefferies,Not Provided,5.0,buy,55.0
+2007-11-28,Baird,Not Provided,5.0,outperform,54.0
+2007-11-29,Piper Jaffray,12 month,5.0,overweight,56.0
+2007-11-29,Kaufman Bros,Not Provided,3.0,hold,50.0
+2007-11-29,UBS,12 month,3.0,neutral,52.0
+2007-12-03,Bear Stearns & Co,Not Provided,5.0,outperform,52.0
+2007-12-18,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-01-06,Goldman Sachs,12 month,5.0,Buy/Neutral,58.0
+2008-01-08,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-01-16,Jefferies,Not Provided,3.0,hold,48.0
+2008-01-17,UBS,12 month,3.0,neutral,48.0
+2008-01-22,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-01-28,UBS,12 month,3.0,neutral,48.0
+2008-01-28,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-02-11,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-02-12,Gleacher & Company,Not Provided,3.0,neutral,42.0
+2008-02-12,UBS,12 month,5.0,neutral-s/t buy,44.0
+2008-02-19,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-02-20,UBS,12 month,5.0,neutral-s/t buy,44.0
+2008-02-27,Needham & Co,Not Provided,3.0,hold,-0.0
+2008-02-27,ThinkEquity LLC,Not Provided,4.0,accumulate,42.0
+2008-02-27,GARP Research,Not Provided,3.0,neutral,-0.0
+2008-02-27,Goldman Sachs,12 month,5.0,Buy/Neutral,51.0
+2008-02-27,Credit Suisse,12 month,3.0,neutral,37.5
+2008-02-27,Jefferies,Not Provided,3.0,hold,40.0
+2008-02-27,Barclays,12 month,5.0,overwt/positive,44.0
+2008-02-27,Bear Stearns & Co,Not Provided,5.0,outperform,50.0
+2008-02-27,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-02-27,Baird,Not Provided,5.0,outperform,44.0
+2008-02-27,UBS,12 month,5.0,neutral-s/t buy,41.0
+2008-02-27,Kaufman Bros,Not Provided,3.0,hold,38.0
+2008-02-27,Gleacher & Company,Not Provided,3.0,neutral,38.0
+2008-02-27,Piper Jaffray,12 month,5.0,overweight,55.0
+2008-02-28,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2008-02-29,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-03-03,Baird,Not Provided,5.0,outperform,44.0
+2008-03-05,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2008-03-07,Bear Stearns & Co,Not Provided,5.0,outperform,38.0
+2008-03-12,Gleacher & Company,Not Provided,3.0,neutral,38.0
+2008-03-12,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-03-12,Piper Jaffray,12 month,5.0,overweight,55.0
+2008-03-18,Piper Jaffray,12 month,5.0,overweight,55.0
+2008-03-18,UBS,12 month,3.0,neutral,41.0
+2008-03-28,Kaufman Bros,Not Provided,5.0,buy,38.0
+2008-04-07,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-04-08,UBS,12 month,3.0,neutral,38.0
+2008-04-15,Piper Jaffray,12 month,5.0,overweight,55.0
+2008-04-15,Soleil Securities,Not Provided,3.0,hold,37.0
+2008-04-24,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-04-24,Credit Suisse,12 month,3.0,neutral,37.5
+2008-04-24,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-04-25,Baird,Not Provided,5.0,outperform,44.0
+2008-04-25,Jefferies,Not Provided,3.0,hold,41.0
+2008-04-25,UBS,12 month,3.0,neutral,40.0
+2008-04-25,Kaufman Bros,Not Provided,5.0,buy,43.0
+2008-04-25,Needham & Co,Not Provided,3.0,hold,-0.0
+2008-04-25,ThinkEquity LLC,Not Provided,4.0,accumulate,42.0
+2008-04-25,Soleil Securities,Not Provided,3.0,hold,-0.0
+2008-05-02,UBS,12 month,3.0,neutral,40.0
+2008-05-02,Baird,Not Provided,5.0,outperform,44.0
+2008-05-02,Kaufman Bros,Not Provided,5.0,buy,43.0
+2008-05-02,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-05-02,Needham & Co,Not Provided,3.0,hold,-0.0
+2008-05-02,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-05-16,Needham & Co,Not Provided,3.0,hold,-0.0
+2008-05-16,UBS,12 month,3.0,neutral,43.0
+2008-05-16,Baird,Not Provided,5.0,outperform,44.0
+2008-05-16,ThinkEquity LLC,Not Provided,4.0,accumulate,42.0
+2008-05-16,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-05-16,Kaufman Bros,Not Provided,5.0,buy,47.0
+2008-05-16,Credit Suisse,12 month,3.0,neutral,37.5
+2008-05-16,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-05-16,Jefferies,Not Provided,3.0,hold,41.0
+2008-05-16,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-05-21,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-05-21,Credit Suisse,12 month,3.0,neutral,37.5
+2008-05-23,Jefferies,Not Provided,3.0,hold,41.0
+2008-05-29,Gleacher & Company,Not Provided,5.0,buy,52.0
+2008-05-29,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-06-04,Gleacher & Company,Not Provided,5.0,buy,52.0
+2008-06-16,Kaufman Bros,Not Provided,5.0,buy,47.0
+2008-06-18,Credit Suisse,12 month,3.0,neutral,37.5
+2008-06-19,Baird,Not Provided,5.0,outperform,44.0
+2008-06-23,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-06-26,Credit Suisse,12 month,3.0,neutral,37.5
+2008-06-26,Jefferies,Not Provided,3.0,hold,41.0
+2008-06-26,Needham & Co,Not Provided,3.0,hold,-0.0
+2008-06-26,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-06-26,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-06-26,UBS,12 month,3.0,neutral,43.0
+2008-06-27,Soleil Securities,Not Provided,3.0,hold,38.0
+2008-06-30,Gleacher & Company,Not Provided,5.0,buy,52.0
+2008-07-09,Goldman Sachs,12 month,5.0,Buy/Neutral,45.0
+2008-07-09,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-07-21,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-07-21,UBS,12 month,1.0,sell,35.0
+2008-07-23,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-07-23,Needham & Co,Not Provided,3.0,hold,-0.0
+2008-07-23,Credit Suisse,12 month,3.0,neutral,35.0
+2008-08-07,Baird,Not Provided,5.0,outperform,44.0
+2008-08-12,Gleacher & Company,Not Provided,5.0,buy,52.0
+2008-08-12,UBS,12 month,1.0,sell,35.0
+2008-08-12,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-08-14,Kaufman Bros,Not Provided,5.0,buy,47.0
+2008-08-15,Gleacher & Company,Not Provided,5.0,buy,52.0
+2008-08-15,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-08-15,Jefferies,Not Provided,3.0,hold,41.0
+2008-08-15,ThinkEquity LLC,Not Provided,4.0,accumulate,40.0
+2008-08-15,Soleil Securities,Not Provided,3.0,hold,39.0
+2008-08-15,Needham & Co,12 month,5.0,buy,45.0
+2008-08-15,Baird,Not Provided,5.0,outperform,44.0
+2008-08-15,UBS,12 month,1.0,sell,35.0
+2008-08-15,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-08-15,Credit Suisse,12 month,3.0,neutral,35.0
+2008-08-17,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2008-08-20,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-08-20,Credit Suisse,12 month,3.0,neutral,35.0
+2008-09-17,Credit Suisse,12 month,3.0,neutral,35.0
+2008-09-17,Piper Jaffray,12 month,5.0,overweight,56.0
+2008-09-24,Gleacher & Company,Not Provided,5.0,buy,52.0
+2008-09-24,Barclays,12 month,5.0,overwt/positive,44.0
+2008-09-29,Barclays,12 month,5.0,overwt/positive,40.0
+2008-10-01,Soleil Securities,Not Provided,3.0,hold,39.0
+2008-10-01,Gleacher & Company,Not Provided,5.0,buy,52.0
+2008-10-03,Piper Jaffray,12 month,5.0,overweight,40.0
+2008-10-03,UBS,12 month,1.0,sell,30.0
+2008-10-06,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-10-07,Soleil Securities,Not Provided,3.0,hold,-0.0
+2008-10-08,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-10-13,Goldman Sachs,12 month,5.0,Buy/Neutral,29.0
+2008-10-14,Piper Jaffray,12 month,5.0,overweight,40.0
+2008-10-15,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-10-15,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2008-10-17,Needham & Co,12 month,5.0,buy,32.0
+2008-10-21,UBS,12 month,1.0,sell,25.0
+2008-10-21,Kaufman Bros,Not Provided,5.0,buy,40.0
+2008-10-22,Piper Jaffray,12 month,5.0,overweight,40.0
+2008-10-22,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-10-28,Gleacher & Company,Not Provided,5.0,buy,30.0
+2008-10-29,UBS,12 month,1.0,sell,23.0
+2008-11-04,Credit Suisse,12 month,3.0,neutral,21.5
+2008-11-04,UBS,12 month,1.0,sell,18.0
+2008-11-04,Goldman Sachs,12 month,5.0,Buy/Neutral,27.0
+2008-11-05,Barclays,Not Provided,5.0,overwt/positive,25.0
+2008-11-05,Piper Jaffray,12 month,5.0,overweight,31.0
+2008-11-05,Gleacher & Company,Not Provided,5.0,buy,30.0
+2008-11-05,Baird,Not Provided,5.0,outperform,31.0
+2008-11-05,Kaufman Bros,Not Provided,5.0,buy,30.0
+2008-11-18,Needham & Co,Not Provided,5.0,buy,27.0
+2008-11-18,Gleacher & Company,Not Provided,5.0,buy,30.0
+2008-11-19,Kaufman Bros,Not Provided,5.0,buy,30.0
+2008-11-19,Credit Suisse,Not Provided,3.0,neutral,21.5
+2008-11-19,Piper Jaffray,12 month,5.0,overweight,31.0
+2008-11-21,Barclays,Not Provided,5.0,overwt/positive,15.0
+2008-11-21,UBS,Not Provided,1.0,sell,12.5
+2008-11-21,Baird,Not Provided,3.0,neutral,20.0
+2008-11-21,Jefferies,Not Provided,3.0,hold,16.0
+2008-11-21,Credit Suisse,Not Provided,3.0,neutral,10.5
+2008-11-21,J.P. Morgan,Not Provided,3.0,neutral,17.0
+2008-11-21,Gleacher & Company,Not Provided,5.0,buy,23.0
+2008-11-21,Soleil Securities,Not Provided,3.0,hold,18.0
+2008-11-21,Kaufman Bros,Not Provided,3.0,hold,15.0
+2008-11-21,Needham & Co,Not Provided,3.0,hold,-0.0
+2008-11-21,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-11-21,Piper Jaffray,Not Provided,5.0,overweight,-0.0
+2008-12-03,Needham & Co,Not Provided,3.0,hold,-0.0
+2008-12-03,Jefferies,Not Provided,3.0,hold,16.0
+2008-12-03,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2008-12-03,Gleacher & Company,Not Provided,5.0,buy,23.0
+2008-12-03,Piper Jaffray,Not Provided,5.0,overweight,-0.0
+2008-12-04,Kaufman Bros,Not Provided,3.0,hold,15.0
+2008-12-09,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2008-12-09,KeyBanc Capital Markets,12 month,5.0,buy,23.0
+2008-12-12,J.P. Morgan,15 month,3.0,neutral,17.0
+2008-12-16,Soleil Securities,Not Provided,3.0,hold,18.0
+2008-12-17,Credit Suisse,Not Provided,3.0,neutral,10.5
+2008-12-17,Piper Jaffray,12 month,5.0,overweight,21.0
+2008-12-18,Kaufman Bros,Not Provided,3.0,hold,15.0
+2008-12-19,Soleil Securities,Not Provided,3.0,hold,18.0
+2009-01-01,J.P. Morgan,12 month,3.0,neutral,17.0
+2009-01-08,Thomas Weisel Partners,12 month,3.0,market weight,20.0
+2009-01-12,Piper Jaffray,12 month,5.0,overweight,21.0
+2009-01-15,Piper Jaffray,12 month,3.0,neutral,16.0
+2009-01-15,ThinkEquity LLC,Not Provided,1.0,source of funds,13.0
+2009-01-15,Credit Suisse,Not Provided,3.0,neutral,12.0
+2009-01-15,KeyBanc Capital Markets,12 month,5.0,buy,20.0
+2009-01-15,Thomas Weisel Partners,12 month,3.0,market weight,20.0
+2009-01-16,Baird,Not Provided,3.0,neutral,18.0
+2009-01-16,Needham & Co,Not Provided,3.0,hold,-0.0
+2009-01-16,Jefferies,Not Provided,3.0,hold,16.0
+2009-01-16,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2009-01-16,Kaufman Bros,Not Provided,3.0,hold,15.0
+2009-01-21,Piper Jaffray,12 month,3.0,neutral,16.0
+2009-02-04,Baird,Not Provided,3.0,neutral,18.0
+2009-02-05,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2009-02-18,Piper Jaffray,12 month,3.0,neutral,16.0
+2009-02-18,Thomas Weisel Partners,12 month,3.0,market weight,18.0
+2009-02-19,Soleil Securities,Not Provided,5.0,buy,22.0
+2009-02-25,UBS,Not Provided,1.0,sell,11.0
+2009-02-26,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2009-02-27,Thomas Weisel Partners,12 month,3.0,market weight,15.0
+2009-02-27,ThinkEquity LLC,Not Provided,1.0,source of funds,11.0
+2009-02-27,Needham & Co,Not Provided,3.0,hold,-0.0
+2009-02-27,Jefferies,Not Provided,3.0,hold,15.0
+2009-02-27,Soleil Securities,Not Provided,5.0,buy,20.0
+2009-02-27,UBS,Not Provided,1.0,sell,8.0
+2009-02-27,Credit Suisse,Not Provided,3.0,neutral,10.5
+2009-02-27,Piper Jaffray,12 month,3.0,neutral,13.0
+2009-03-02,Kaufman Bros,Not Provided,3.0,hold,13.0
+2009-03-04,J.P. Morgan,9 month,3.0,neutral,14.0
+2009-03-11,KeyBanc Capital Markets,12 month,1.0,underweight,10.0
+2009-03-12,Soleil Securities,Not Provided,5.0,buy,20.0
+2009-03-18,Piper Jaffray,12 month,3.0,neutral,13.0
+2009-03-18,Credit Suisse,Not Provided,3.0,neutral,10.5
+2009-03-31,UBS,Not Provided,3.0,neutral,16.0
+2009-03-31,Piper Jaffray,12 month,3.0,neutral,13.0
+2009-03-31,Soleil Securities,12 month,5.0,buy,20.0
+2009-04-01,Jefferies,12 month,3.0,hold,18.0
+2009-04-02,Piper Jaffray,12 month,3.0,neutral,17.0
+2009-04-03,UBS,Not Provided,3.0,neutral,18.0
+2009-04-03,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2009-04-03,Baird,12 month,3.0,neutral,19.0
+2009-04-03,Jefferies,12 month,3.0,hold,18.0
+2009-04-03,J.P. Morgan,6 month,3.0,neutral,18.0
+2009-04-03,Kaufman Bros,12 month,3.0,hold,19.0
+2009-04-03,Barclays,Not Provided,5.0,overwt/positive,23.0
+2009-04-03,Thomas Weisel Partners,12 month,3.0,market weight,18.0
+2009-04-03,Needham & Co,Not Provided,3.0,hold,-0.0
+2009-04-03,Soleil Securities,12 month,5.0,buy,23.0
+2009-04-03,KeyBanc Capital Markets,12 month,1.0,underweight,12.0
+2009-04-06,GARP Research,Not Provided,3.0,neutral,-0.0
+2009-04-20,Piper Jaffray,12 month,3.0,neutral,18.0
+2009-04-22,Thomas Weisel Partners,12 month,3.0,market weight,18.0
+2009-04-27,Piper Jaffray,12 month,3.0,neutral,18.0
+2009-05-20,Piper Jaffray,12 month,3.0,neutral,18.0
+2009-05-20,Credit Suisse,Not Provided,3.0,neutral,15.0
+2009-05-21,Thomas Weisel Partners,12 month,3.0,market weight,20.0
+2009-05-21,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2009-05-22,Needham & Co,Not Provided,3.0,hold,-0.0
+2009-05-22,GARP Research,Not Provided,3.0,neutral,-0.0
+2009-05-22,ThinkEquity LLC,Not Provided,1.0,source of funds,15.0
+2009-05-22,Baird,12 month,3.0,neutral,22.0
+2009-05-22,Barclays,Not Provided,5.0,overwt/positive,23.0
+2009-05-22,Credit Suisse,Not Provided,3.0,neutral,18.0
+2009-05-22,Thomas Weisel Partners,12 month,3.0,market weight,20.0
+2009-05-22,Piper Jaffray,12 month,3.0,neutral,18.0
+2009-05-22,UBS,Not Provided,3.0,neutral,21.0
+2009-05-22,Jefferies,12 month,3.0,hold,20.0
+2009-05-27,Janney Montgomery Scott LLC,12 month,3.0,neutral,19.0
+2009-05-29,Soleil Securities,12 month,5.0,buy,30.0
+2009-06-04,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2009-06-15,Soleil Securities,12 month,5.0,buy,30.0
+2009-06-24,Credit Suisse,Not Provided,3.0,neutral,18.0
+2009-06-24,Thomas Weisel Partners,12 month,3.0,market weight,20.0
+2009-06-24,Piper Jaffray,12 month,3.0,neutral,18.0
+2009-07-01,Piper Jaffray,12 month,3.0,neutral,18.0
+2009-07-10,Piper Jaffray,12 month,3.0,neutral,18.0
+2009-07-22,Pacific Crest Securities,12 month,5.0,outperform,25.0
+2009-07-22,Thomas Weisel Partners,12 month,3.0,market weight,20.0
+2009-07-22,Piper Jaffray,12 month,3.0,neutral,18.0
+2009-07-22,Credit Suisse,Not Provided,3.0,neutral,18.0
+2009-07-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-07-28,Jefferies,12 month,5.0,buy,27.0
+2009-08-03,Piper Jaffray,12 month,3.0,neutral,22.0
+2009-08-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-13,Credit Suisse,Not Provided,3.0,neutral,22.5
+2009-08-14,Needham & Co,Not Provided,3.0,hold,-0.0
+2009-08-14,Soleil Securities,12 month,5.0,buy,30.0
+2009-08-14,Thomas Weisel Partners,12 month,3.0,market weight,23.0
+2009-08-14,ThinkEquity LLC,Not Provided,4.0,accumulate,26.0
+2009-08-14,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,27.0
+2009-08-14,Kaufman Bros,Not Provided,3.0,hold,26.0
+2009-08-14,Barclays,Not Provided,5.0,overwt/positive,30.0
+2009-08-14,J.P. Morgan,6 month,3.0,neutral,26.0
+2009-08-14,Piper Jaffray,Not Provided,3.0,neutral,22.0
+2009-08-14,Jefferies,Not Provided,5.0,buy,28.0
+2009-08-19,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2009-08-19,Credit Suisse,Not Provided,3.0,neutral,22.5
+2009-08-19,Piper Jaffray,12 month,3.0,neutral,22.0
+2009-08-29,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2009-09-08,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,20.0
+2009-09-10,J.P. Morgan,6 month,3.0,neutral,26.0
+2009-09-11,ISI Group,Not Provided,1.0,sell,20.0
+2009-09-21,Piper Jaffray,12 month,3.0,neutral,22.0
+2009-09-23,ISI Group,12 month,1.0,sell,20.0
+2009-09-23,J.P. Morgan,3 month,3.0,neutral,26.0
+2009-09-29,Pacific Crest Securities,12 month,5.0,outperform,25.0
+2009-09-30,Piper Jaffray,12 month,3.0,neutral,22.0
+2009-10-07,ThinkEquity LLC,Not Provided,3.0,hold,-0.0
+2009-10-12,Barclays,Not Provided,5.0,overwt/positive,30.0
+2009-10-20,Thomas Weisel Partners,12 month,3.0,market weight,23.0
+2009-10-21,Kaufman Bros,12 month,5.0,buy,30.0
+2009-10-21,Janney Montgomery Scott LLC,12 month,3.0,neutral,27.0
+2009-10-21,Thomas Weisel Partners,12 month,3.0,market weight,23.0
+2009-10-26,ISI Group,Not Provided,1.0,sell,20.0
+2009-10-27,Jefferies,12 month,5.0,buy,30.0
+2009-10-28,Pacific Crest Securities,12 month,5.0,outperform,28.0
+2009-11-10,ISI Group,12 month,1.0,sell,20.0
+2009-11-10,Soleil Securities,12 month,5.0,buy,30.0
+2009-11-13,UBS,Not Provided,5.0,buy,35.0
+2009-11-13,Thomas Weisel Partners,12 month,3.0,market weight,23.0
+2009-11-16,Jefferies,12 month,5.0,buy,32.0
+2009-11-17,ISI Group,Not Provided,1.0,sell,22.0
+2009-11-17,Piper Jaffray,12 month,3.0,neutral,24.0
+2009-11-17,Janney Montgomery Scott LLC,12 month,3.0,neutral,27.0
+2009-11-17,Barclays,Not Provided,5.0,overwt/positive,30.0
+2009-11-18,J.P. Morgan,15 month,3.0,neutral,23.5
+2009-11-18,Jefferies,12 month,5.0,buy,30.0
+2009-11-18,Credit Suisse,Not Provided,3.0,neutral,22.5
+2009-11-18,Barclays,Not Provided,5.0,overwt/positive,30.0
+2009-11-18,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,26.0
+2009-11-18,Soleil Securities,12 month,5.0,buy,28.0
+2009-11-18,Pacific Crest Securities,12 month,5.0,outperform,28.0
+2009-11-18,Piper Jaffray,12 month,3.0,neutral,23.0
+2009-11-18,Thomas Weisel Partners,12 month,3.0,market weight,22.0
+2009-11-18,UBS,Not Provided,5.0,buy,35.0
+2009-11-18,Needham & Co,Not Provided,3.0,hold,-0.0
+2009-11-24,ISI Group,Not Provided,1.0,sell,22.0
+2009-11-29,Goldman Sachs,12 month,3.0,neutral/attractive,27.0
+2009-12-01,ISI Group,12 month,1.0,sell,22.0
+2009-12-02,Piper Jaffray,12 month,3.0,neutral,23.0
+2009-12-02,Pacific Crest Securities,12 month,5.0,outperform,28.0
+2009-12-02,UBS,Not Provided,5.0,buy,35.0
+2009-12-02,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,26.0
+2009-12-02,Needham & Co,Not Provided,3.0,hold,-0.0
+2009-12-02,Jefferies,12 month,5.0,buy,30.0
+2009-12-02,J.P. Morgan,12 month,3.0,neutral,23.5
+2009-12-02,Baird,12 month,3.0,neutral,24.0
+2009-12-02,Thomas Weisel Partners,12 month,3.0,market weight,22.0
+2009-12-03,Thomas Weisel Partners,Not Provided,3.0,market weight,22.0
+2009-12-04,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2009-12-16,Thomas Weisel Partners,12 month,3.0,market weight,22.0
+2009-12-16,Piper Jaffray,12 month,3.0,neutral,23.0
+2009-12-16,ISI Group,12 month,1.0,sell,22.0
+2009-12-16,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,26.0
+2010-01-06,ISI Group,12 month,1.0,sell,22.0
+2010-01-14,Longbow Research,Not Provided,5.0,buy,32.0
+2010-01-19,ISI Group,Not Provided,1.0,sell,22.0
+2010-01-19,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,23.0
+2010-01-20,Barclays,Not Provided,5.0,overwt/positive,30.0
+2010-01-22,Piper Jaffray,12 month,3.0,neutral,23.0
+2010-01-25,Pacific Crest Securities,12 month,5.0,outperform,28.0
+2010-01-25,Jefferies,12 month,5.0,buy,30.0
+2010-01-26,Jefferies,12 month,5.0,buy,30.0
+2010-01-28,Ticonderoga Securities LLC,12 month,5.0,buy,33.0
+2010-02-02,Ticonderoga Securities LLC,12 month,5.0,buy,33.0
+2010-02-03,UBS,Not Provided,5.0,buy,35.0
+2010-02-08,Baird,12 month,3.0,neutral,25.0
+2010-02-10,ISI Group,12 month,1.0,sell,22.0
+2010-02-11,Ticonderoga Securities LLC,12 month,5.0,buy,33.0
+2010-02-16,Goldman Sachs,12 month,5.0,buy/attractive,30.0
+2010-02-17,Barclays,Not Provided,5.0,overwt/positive,30.0
+2010-02-18,ISI Group,12 month,1.0,sell,22.0
+2010-02-19,Piper Jaffray,12 month,3.0,neutral,23.0
+2010-02-19,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,23.0
+2010-02-22,Jefferies,12 month,5.0,buy,30.0
+2010-02-22,Ticonderoga Securities LLC,12 month,5.0,buy,33.0
+2010-02-23,UBS,Not Provided,5.0,buy,36.0
+2010-02-23,Janney Montgomery Scott LLC,12 month,3.0,neutral,26.0
+2010-02-23,Thomas Weisel Partners,12 month,3.0,market weight,26.0
+2010-02-24,Goldman Sachs,12 month,5.0,buy/attractive,33.0
+2010-02-24,Ticonderoga Securities LLC,12 month,5.0,buy,33.0
+2010-02-24,Jefferies,12 month,5.0,buy,31.0
+2010-02-24,Credit Suisse,Not Provided,3.0,neutral,23.5
+2010-02-24,Baird,12 month,3.0,neutral,28.0
+2010-02-24,Barclays,Not Provided,5.0,overwt/positive,32.0
+2010-02-24,UBS,Not Provided,5.0,buy,36.0
+2010-02-24,ThinkEquity LLC,Not Provided,3.0,hold,-0.0
+2010-02-24,Needham & Co,12 month,5.0,buy,31.0
+2010-02-24,Piper Jaffray,12 month,3.0,neutral,25.0
+2010-02-24,Longbow Research,Not Provided,5.0,buy,34.0
+2010-02-24,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,24.0
+2010-02-24,Thomas Weisel Partners,12 month,3.0,market weight,26.0
+2010-02-24,J.P. Morgan,9 month,3.0,neutral,30.0
+2010-02-25,ISI Group,12 month,1.0,sell,24.0
+2010-03-01,Janney Montgomery Scott LLC,12 month,3.0,neutral,30.0
+2010-03-01,Pacific Crest Securities,12 month,5.0,outperform,32.0
+2010-03-04,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-03-04,Pacific Crest Securities,12 month,5.0,outperform,32.0
+2010-03-09,ISI Group,12 month,1.0,sell,24.0
+2010-03-12,Ticonderoga Securities LLC,12 month,5.0,buy,33.0
+2010-03-16,Goldman Sachs,12 month,5.0,buy/attractive,35.0
+2010-03-16,Baird,12 month,3.0,neutral,30.0
+2010-03-23,Ticonderoga Securities LLC,12 month,5.0,buy,33.0
+2010-03-26,Ticonderoga Securities LLC,12 month,5.0,buy,33.0
+2010-04-05,Pacific Crest Securities,12 month,5.0,outperform,40.0
+2010-04-07,UBS,Not Provided,5.0,buy,36.0
+2010-04-12,ISI Group,12 month,1.0,sell,24.0
+2010-04-15,Baird,12 month,3.0,neutral,35.0
+2010-04-16,Barclays,Not Provided,5.0,overwt/positive,36.0
+2010-04-19,Ticonderoga Securities LLC,12 month,5.0,buy,33.0
+2010-04-21,Janney Montgomery Scott LLC,12 month,3.0,neutral,30.0
+2010-04-22,Jefferies,12 month,5.0,buy,37.0
+2010-04-22,Janney Montgomery Scott LLC,12 month,3.0,neutral,30.0
+2010-04-27,Ticonderoga Securities LLC,12 month,5.0,buy,39.0
+2010-05-03,UBS,Not Provided,5.0,buy,36.0
+2010-05-03,Piper Jaffray,12 month,3.0,neutral,32.0
+2010-05-06,Jefferies,12 month,5.0,buy,37.0
+2010-05-06,ThinkEquity LLC,Not Provided,5.0,buy,-0.0
+2010-05-10,Ticonderoga Securities LLC,12 month,5.0,buy,39.0
+2010-05-11,Pacific Crest Securities,12 month,5.0,outperform,40.0
+2010-05-14,Longbow Research,Not Provided,5.0,buy,36.0
+2010-05-14,ThinkEquity LLC,Not Provided,5.0,buy,-0.0
+2010-05-17,Piper Jaffray,12 month,3.0,neutral,32.0
+2010-05-17,Pacific Crest Securities,12 month,5.0,outperform,40.0
+2010-05-17,Thomas Weisel Partners,12 month,3.0,market weight,28.0
+2010-05-18,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,24.0
+2010-05-18,Barclays,Not Provided,5.0,overwt/positive,36.0
+2010-05-19,UBS,Not Provided,5.0,buy,39.0
+2010-05-19,Janney Montgomery Scott LLC,12 month,3.0,neutral,30.0
+2010-05-20,ThinkEquity LLC,Not Provided,5.0,buy,-0.0
+2010-05-20,Thomas Weisel Partners,12 month,3.0,market weight,30.0
+2010-05-20,J.P. Morgan,9 month,3.0,neutral,33.0
+2010-05-20,Baird,12 month,3.0,neutral,35.0
+2010-05-20,Pacific Crest Securities,12 month,5.0,outperform,40.0
+2010-05-20,Piper Jaffray,12 month,3.0,neutral,33.0
+2010-05-20,Jefferies,12 month,5.0,buy,37.0
+2010-05-20,Longbow Research,Not Provided,5.0,buy,37.0
+2010-05-20,Janney Montgomery Scott LLC,12 month,3.0,neutral,31.0
+2010-05-20,UBS,Not Provided,5.0,buy,39.0
+2010-05-20,Goldman Sachs,12 month,5.0,buy/attractive,37.0
+2010-05-20,Credit Suisse,Not Provided,3.0,neutral,30.0
+2010-05-20,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,26.0
+2010-05-20,Barclays,Not Provided,5.0,overwt/positive,36.0
+2010-05-25,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-05-26,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2010-05-26,ISI Group,Not Provided,1.0,sell,28.5
+2010-06-02,Jefferies,12 month,5.0,buy,37.0
+2010-06-06,Goldman Sachs,12 month,5.0,buy/attractive,35.0
+2010-06-09,UBS,Not Provided,5.0,buy,39.0
+2010-06-11,ISI Group,12 month,1.0,sell,28.5
+2010-06-21,Pacific Crest Securities,12 month,5.0,outperform,40.0
+2010-06-21,ThinkEquity LLC,Not Provided,5.0,buy,-0.0
+2010-06-22,UBS,Not Provided,5.0,buy,39.0
+2010-06-23,Janney Montgomery Scott LLC,12 month,3.0,neutral,30.0
+2010-06-23,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,26.0
+2010-06-24,ISI Group,12 month,1.0,sell,28.5
+2010-06-24,Thomas Weisel Partners,12 month,3.0,market weight,30.0
+2010-06-24,J.P. Morgan,9 month,3.0,neutral,33.0
+2010-06-25,Thomas Weisel Partners,12 month,3.0,market weight,30.0
+2010-06-25,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,26.0
+2010-06-25,UBS,Not Provided,5.0,buy,39.0
+2010-06-25,J.P. Morgan,6 month,3.0,neutral,33.0
+2010-06-25,Jefferies,12 month,5.0,buy,37.0
+2010-06-25,ThinkEquity LLC,Not Provided,5.0,buy,-0.0
+2010-06-25,Baird,12 month,3.0,neutral,35.0
+2010-06-25,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,30.0
+2010-06-25,Pacific Crest Securities,12 month,5.0,outperform,40.0
+2010-06-25,Piper Jaffray,12 month,3.0,neutral,33.0
+2010-07-07,Goldman Sachs,12 month,3.0,neutral/attractive,27.5
+2010-07-12,Stifel,Not Provided,3.0,hold,-0.0
+2010-07-26,Janney Montgomery Scott LLC,12 month,3.0,neutral,30.0
+2010-08-02,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2010-08-03,Piper Jaffray,12 month,3.0,neutral,33.0
+2010-08-03,Pacific Crest Securities,12 month,5.0,outperform,40.0
+2010-08-06,Jefferies,12 month,3.0,hold,31.0
+2010-08-12,ISI Group,Not Provided,1.0,sell,30.0
+2010-08-12,Goldman Sachs,12 month,3.0,neutral/attractive,31.0
+2010-08-13,Pacific Crest Securities,12 month,5.0,outperform,40.0
+2010-08-13,Janney Montgomery Scott LLC,12 month,3.0,neutral,30.0
+2010-08-13,Barclays,Not Provided,5.0,overwt/positive,36.0
+2010-08-13,Baird,12 month,3.0,neutral,35.0
+2010-08-13,Stifel,Not Provided,3.0,hold,-0.0
+2010-08-13,ThinkEquity LLC,Not Provided,5.0,buy,40.0
+2010-08-13,Morgan Stanley,12 month,1.0,Underwt/In-Line,26.0
+2010-08-13,Piper Jaffray,12 month,3.0,neutral,33.0
+2010-08-13,Credit Suisse,Not Provided,3.0,neutral,30.0
+2010-08-13,UBS,Not Provided,5.0,buy,39.0
+2010-08-13,J.P. Morgan,3 month,3.0,neutral,33.0
+2010-08-13,Jefferies,12 month,3.0,hold,31.0
+2010-08-25,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-09-12,Goldman Sachs,12 month,3.0,neutral/attractive,34.0
+2010-09-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-09-28,Pacific Crest Securities,12 month,5.0,outperform,40.0
+2010-10-04,Canaccord Genuity,12 month,5.0,buy,38.0
+2010-10-05,Janney Montgomery Scott LLC,12 month,3.0,neutral,32.0
+2010-10-08,Canaccord Genuity,12 month,5.0,buy,38.0
+2010-10-12,Piper Jaffray,12 month,3.0,neutral,33.0
+2010-10-18,Canaccord Genuity,12 month,5.0,buy,38.0
+2010-10-20,Piper Jaffray,12 month,3.0,neutral,33.0
+2010-10-20,Jefferies,12 month,3.0,hold,31.0
+2010-10-20,Janney Montgomery Scott LLC,12 month,3.0,neutral,32.0
+2010-10-25,Barclays,Not Provided,5.0,overwt/positive,36.0
+2010-10-27,Jefferies,12 month,3.0,hold,35.0
+2010-11-01,UBS,Not Provided,5.0,buy,39.0
+2010-11-05,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2010-11-05,Longbow Research,Not Provided,5.0,buy,40.0
+2010-11-08,Pacific Crest Securities,12 month,5.0,outperform,40.0
+2010-11-08,Baird,12 month,3.0,neutral,35.0
+2010-11-10,Goldman Sachs,12 month,3.0,neutral/attractive,38.0
+2010-11-11,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2010-11-12,Canaccord Genuity,12 month,5.0,buy,38.0
+2010-11-15,ISI Group,12 month,5.0,buy,43.0
+2010-11-18,Goldman Sachs,12 month,3.0,neutral/attractive,39.0
+2010-11-19,ThinkEquity LLC,12 month,5.0,buy,40.0
+2010-11-19,UBS,Not Provided,5.0,buy,39.0
+2010-11-19,Barclays,Not Provided,5.0,overwt/positive,41.0
+2010-11-19,Canaccord Genuity,12 month,5.0,buy,42.0
+2010-11-19,Piper Jaffray,12 month,3.0,neutral,35.0
+2010-11-19,Stifel,Not Provided,3.0,hold,-0.0
+2010-11-19,Longbow Research,Not Provided,5.0,buy,43.0
+2010-11-19,J.P. Morgan,15 month,3.0,neutral,40.0
+2010-11-19,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2010-11-19,ISI Group,12 month,5.0,buy,44.0
+2010-11-19,Credit Suisse,Not Provided,3.0,neutral,30.0
+2010-11-19,Jefferies,12 month,3.0,hold,37.0
+2010-11-19,Baird,12 month,3.0,neutral,40.0
+2010-11-19,Murphy & Durieu LP,12 month,1.0,underweight,27.0
+2010-11-19,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2010-11-25,ISI Group,12 month,5.0,buy,44.0
+2010-11-26,Goldman Sachs,12 month,3.0,neutral/attractive,40.0
+2010-11-30,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2010-12-01,J.P. Morgan,12 month,3.0,neutral,40.0
+2010-12-01,ISI Group,12 month,5.0,buy,44.0
+2010-12-01,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2010-12-01,Baird,12 month,3.0,neutral,40.0
+2010-12-01,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2010-12-01,UBS,12 month,5.0,buy,39.0
+2010-12-01,Jefferies,12 month,3.0,hold,37.0
+2010-12-01,Stifel,Not Provided,3.0,hold,-0.0
+2010-12-02,Piper Jaffray,12 month,3.0,neutral,38.0
+2010-12-03,Canaccord Genuity,12 month,5.0,buy,42.0
+2010-12-14,ISI Group,12 month,5.0,buy,44.0
+2010-12-15,Barclays,Not Provided,5.0,overwt/positive,41.0
+2010-12-15,Jefferies,12 month,3.0,hold,37.0
+2010-12-15,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2010-12-16,National Securities,Not Provided,3.0,hold,-0.0
+2010-12-20,Canaccord Genuity,12 month,5.0,buy,42.0
+2010-12-22,Barclays,Not Provided,5.0,overwt/positive,41.0
+2011-01-04,Goldman Sachs,12 month,5.0,buy/attractive,50.0
+2011-01-06,ISI Group,12 month,5.0,buy,48.0
+2011-01-07,UBS,12 month,5.0,buy,50.0
+2011-01-07,Canaccord Genuity,12 month,5.0,buy,42.0
+2011-01-21,Canaccord Genuity,12 month,5.0,buy,42.0
+2011-01-25,Jefferies,12 month,3.0,hold,41.0
+2011-01-26,National Securities,Not Provided,3.0,hold,-0.0
+2011-01-26,Piper Jaffray,Not Provided,3.0,neutral,41.0
+2011-02-04,Longbow Research,Not Provided,5.0,buy,48.0
+2011-02-07,Baird,12 month,3.0,neutral,46.0
+2011-02-09,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2011-02-11,Canaccord Genuity,12 month,5.0,buy,42.0
+2011-02-17,ISI Group,12 month,5.0,buy,48.0
+2011-02-17,Stifel,Not Provided,3.0,hold,-0.0
+2011-02-17,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-02-17,J.P. Morgan,12 month,3.0,neutral,44.0
+2011-02-25,Goldman Sachs,12 month,5.0,buy/attractive,51.0
+2011-02-25,National Securities,12 month,3.0,hold,41.0
+2011-02-25,Canaccord Genuity,12 month,5.0,buy,46.0
+2011-02-25,Stifel,Not Provided,3.0,hold,-0.0
+2011-02-25,Barclays,Not Provided,5.0,overwt/positive,48.0
+2011-02-25,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-02-25,J.P. Morgan,9 month,3.0,neutral,44.0
+2011-02-25,Jefferies,12 month,3.0,hold,42.0
+2011-02-25,ThinkEquity LLC,12 month,5.0,buy,49.0
+2011-02-25,Credit Suisse,Not Provided,3.0,neutral,35.0
+2011-02-25,Piper Jaffray,12 month,3.0,neutral,43.0
+2011-02-25,UBS,12 month,5.0,buy,51.0
+2011-02-25,Pacific Crest Securities,12 month,5.0,outperform,46.0
+2011-02-25,Baird,12 month,3.0,neutral,46.0
+2011-02-25,ISI Group,12 month,5.0,buy,51.0
+2011-02-27,ISI Group,12 month,5.0,buy,51.0
+2011-03-03,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2011-03-04,Pacific Crest Securities,12 month,5.0,outperform,46.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-09,ISI Group,12 month,5.0,buy,51.0
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-14,Barclays,Not Provided,5.0,overwt/positive,48.0
+2011-03-21,Baird,12 month,5.0,outperform,46.0
+2011-03-21,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-03-22,Jefferies,12 month,3.0,hold,42.0
+2011-03-23,Barclays,Not Provided,5.0,overwt/positive,48.0
+2011-03-24,ISI Group,12 month,5.0,buy,51.0
+2011-03-31,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2011-04-05,Canaccord Genuity,12 month,5.0,buy,46.0
+2011-04-06,ISI Group,12 month,5.0,buy,51.0
+2011-04-11,ISI Group,12 month,5.0,buy,51.0
+2011-04-14,National Securities,12 month,3.0,hold,41.0
+2011-04-15,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2011-04-26,Piper Jaffray,12 month,3.0,neutral,43.0
+2011-04-27,ISI Group,12 month,5.0,buy,51.0
+2011-05-02,Jefferies,12 month,3.0,hold,47.0
+2011-05-02,UBS,12 month,5.0,buy,51.0
+2011-05-05,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2011-05-09,Piper Jaffray,12 month,3.0,neutral,43.0
+2011-05-09,Baird,12 month,5.0,outperform,46.0
+2011-05-16,Jefferies,12 month,3.0,hold,47.0
+2011-05-16,ThinkEquity LLC,12 month,5.0,buy,50.0
+2011-05-19,Goldman Sachs,12 month,5.0,buy/attractive,52.0
+2011-05-20,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2011-05-20,Canaccord Genuity,12 month,5.0,buy,50.0
+2011-05-20,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-05-20,UBS,12 month,5.0,buy,52.0
+2011-05-20,Jefferies,12 month,3.0,hold,47.0
+2011-05-20,ThinkEquity LLC,12 month,5.0,buy,52.0
+2011-05-20,Barclays,Not Provided,5.0,overwt/positive,51.0
+2011-05-20,Piper Jaffray,12 month,3.0,neutral,44.0
+2011-05-20,Stifel,Not Provided,3.0,hold,-0.0
+2011-05-20,Baird,12 month,5.0,outperform,46.0
+2011-05-20,J.P. Morgan,9 month,3.0,neutral,46.0
+2011-05-20,Credit Suisse,Not Provided,3.0,neutral,40.0
+2011-05-23,National Securities,Not Provided,3.0,hold,41.0
+2011-05-25,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2011-05-27,Canaccord Genuity,12 month,5.0,buy,50.0
+2011-05-31,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2011-06-03,Griffin Securities,12 month,5.0,buy,49.0
+2011-06-07,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-06-08,RBC Capital Markets,12 month,3.0,sector perform,46.0
+2011-06-08,ThinkEquity LLC,12 month,5.0,buy,52.0
+2011-06-09,National Securities,12 month,3.0,hold,41.0
+2011-06-17,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2011-06-27,Canaccord Genuity,12 month,5.0,buy,50.0
+2011-06-27,Jefferies,12 month,3.0,hold,40.0
+2011-06-28,UBS,12 month,5.0,buy,52.0
+2011-06-29,RBC Capital Markets,12 month,3.0,sector perform,46.0
+2011-06-29,J.P. Morgan,3 month,3.0,neutral,46.0
+2011-06-29,Barclays,Not Provided,5.0,overwt/positive,51.0
+2011-06-29,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2011-06-30,Canaccord Genuity,12 month,5.0,buy,50.0
+2011-06-30,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-06-30,Griffin Securities,12 month,5.0,buy,49.0
+2011-06-30,ThinkEquity LLC,12 month,5.0,buy,52.0
+2011-06-30,Stifel,Not Provided,3.0,hold,-0.0
+2011-06-30,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2011-06-30,Jefferies,12 month,3.0,hold,40.0
+2011-06-30,National Securities,12 month,3.0,hold,41.0
+2011-07-01,Baird,12 month,5.0,outperform,46.0
+2011-07-07,Griffin Securities,36 month,5.0,buy,49.0
+2011-07-12,Goldman Sachs,12 month,3.0,neutral/neutral,44.0
+2011-07-15,Griffin Securities,12 month,5.0,buy,49.0
+2011-07-21,Canaccord Genuity,12 month,5.0,buy,50.0
+2011-07-22,Griffin Securities,12 month,5.0,buy,49.0
+2011-07-25,Jefferies,12 month,5.0,buy,44.0
+2011-07-28,Jefferies,12 month,5.0,buy,44.0
+2011-07-29,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2011-08-03,Griffin Securities,12 month,5.0,buy,49.0
+2011-08-03,Baird,12 month,5.0,outperform,46.0
+2011-08-10,Griffin Securities,12 month,5.0,buy,49.0
+2011-08-12,Goldman Sachs,12 month,3.0,neutral/neutral,31.0
+2011-08-12,RBC Capital Markets,12 month,3.0,sector perform,35.0
+2011-08-15,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-08-16,Jefferies,12 month,5.0,buy,44.0
+2011-08-17,Canaccord Genuity,12 month,5.0,buy,50.0
+2011-08-17,ThinkEquity LLC,12 month,5.0,buy,52.0
+2011-08-17,Griffin Securities,12 month,5.0,buy,49.0
+2011-08-17,Credit Suisse,Not Provided,3.0,neutral,40.0
+2011-08-17,Stifel,Not Provided,3.0,hold,-0.0
+2011-08-17,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2011-08-19,Jefferies,12 month,5.0,buy,40.0
+2011-08-19,ThinkEquity LLC,12 month,5.0,buy,45.0
+2011-08-19,Longbow Research,12 month,5.0,buy,41.0
+2011-08-19,UBS,12 month,5.0,buy,47.0
+2011-08-19,National Securities,Not Provided,3.0,hold,30.0
+2011-08-19,RBC Capital Markets,12 month,3.0,sector perform,35.0
+2011-08-19,Griffin Securities,12 month,5.0,buy,40.0
+2011-08-19,Canaccord Genuity,12 month,5.0,buy,42.0
+2011-08-19,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-08-19,Baird,12 month,5.0,outperform,36.0
+2011-08-19,J.P. Morgan,3 month,3.0,neutral,32.0
+2011-08-19,Credit Suisse,Not Provided,3.0,neutral,37.5
+2011-08-19,Stifel,Not Provided,3.0,hold,-0.0
+2011-08-19,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2011-08-22,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2011-08-30,Griffin Securities,36 month,5.0,buy,40.0
+2011-09-01,Baird,12 month,5.0,outperform,36.0
+2011-09-08,Griffin Securities,12 month,5.0,buy,40.0
+2011-09-09,National Securities,12 month,3.0,hold,28.0
+2011-09-09,Canaccord Genuity,12 month,5.0,buy,42.0
+2011-09-15,RBC Capital Markets,12 month,3.0,sector perform,35.0
+2011-09-19,Griffin Securities,12 month,5.0,buy,40.0
+2011-09-21,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2011-09-21,J.P. Morgan,15 month,5.0,overweight,40.0
+2011-09-21,Jefferies,12 month,5.0,buy,40.0
+2011-09-26,Griffin Securities,12 month,5.0,buy,40.0
+2011-09-28,Baird,12 month,5.0,outperform,36.0
+2011-09-28,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2011-09-30,RBC Capital Markets,12 month,3.0,sector perform,35.0
+2011-10-05,Canaccord Genuity,12 month,5.0,buy,42.0
+2011-10-05,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2011-10-06,Cowen,Not Provided,3.0,neutral,-0.0
+2011-10-10,RBC Capital Markets,12 month,3.0,sector perform,30.0
+2011-10-11,UBS,12 month,5.0,buy,47.0
+2011-10-12,National Securities,Not Provided,3.0,hold,28.0
+2011-10-14,Cowen,Not Provided,3.0,neutral,-0.0
+2011-10-19,Griffin Securities,12 month,5.0,buy,40.0
+2011-10-19,National Securities,Not Provided,3.0,hold,28.0
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-20,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-10-24,Griffin Securities,12 month,5.0,buy,40.0
+2011-10-31,Canaccord Genuity,12 month,5.0,buy,42.0
+2011-11-01,UBS,12 month,5.0,buy,43.0
+2011-11-01,Jefferies,12 month,5.0,buy,40.0
+2011-11-01,Baird,12 month,5.0,outperform,36.0
+2011-11-02,Griffin Securities,12 month,5.0,buy,40.0
+2011-11-03,RBC Capital Markets,12 month,3.0,sector perform,30.0
+2011-11-03,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2011-11-07,Baird,12 month,5.0,outperform,36.0
+2011-11-08,Griffin Securities,12 month,5.0,buy,40.0
+2011-11-08,Stifel,Not Provided,3.0,hold,-0.0
+2011-11-09,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2011-11-10,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-15,J.P. Morgan,9 month,5.0,overweight,42.0
+2011-11-15,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2011-11-16,Canaccord Genuity,12 month,5.0,buy,44.0
+2011-11-16,Baird,12 month,5.0,outperform,36.0
+2011-11-16,Stifel,Not Provided,3.0,hold,-0.0
+2011-11-16,Cowen,Not Provided,3.0,neutral,-0.0
+2011-11-16,Griffin Securities,12 month,5.0,buy,40.0
+2011-11-16,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-11-16,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2011-11-16,Longbow Research,12 month,5.0,buy,43.0
+2011-11-16,National Securities,Not Provided,5.0,buy,38.0
+2011-11-16,Credit Suisse,Not Provided,3.0,neutral,37.5
+2011-11-16,ThinkEquity LLC,12 month,5.0,buy,45.0
+2011-11-16,Goldman Sachs,12 month,3.0,neutral/neutral,38.0
+2011-11-16,Jefferies,12 month,5.0,buy,41.0
+2011-11-17,RBC Capital Markets,12 month,3.0,sector perform,38.0
+2011-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-17,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-11-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-18,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2011-11-21,Griffin Securities,12 month,5.0,buy,40.0
+2011-11-30,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2011-11-30,RBC Capital Markets,12 month,3.0,sector perform,38.0
+2011-11-30,Canaccord Genuity,12 month,5.0,buy,44.0
+2011-11-30,Jefferies,12 month,5.0,buy,41.0
+2011-11-30,Cowen,Not Provided,3.0,neutral,-0.0
+2011-11-30,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2011-11-30,UBS,12 month,5.0,buy,43.0
+2011-11-30,Stifel,Not Provided,3.0,hold,-0.0
+2011-12-01,Baird,12 month,5.0,outperform,36.0
+2011-12-04,Canaccord Genuity,12 month,5.0,buy,44.0
+2011-12-04,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2011-12-04,Goldman Sachs,12 month,1.0,Sell/Neutral,32.0
+2011-12-05,Barclays,Not Provided,3.0,equalwt/positive,38.0
+2011-12-06,ThinkEquity LLC,12 month,5.0,buy,45.0
+2011-12-06,Jefferies,12 month,5.0,buy,41.0
+2011-12-09,Griffin Securities,12 month,5.0,buy,40.0
+2011-12-16,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2011-12-20,Griffin Securities,12 month,5.0,buy,40.0
+2011-12-21,Baird,12 month,5.0,outperform,36.0
+2011-12-28,Griffin Securities,12 month,5.0,buy,40.0
+2012-01-09,Jefferies,12 month,5.0,buy,40.0
+2012-01-10,ThinkEquity LLC,12 month,5.0,buy,45.0
+2012-01-13,Cowen,Not Provided,3.0,neutral,-0.0
+2012-01-13,Griffin Securities,12 month,5.0,buy,40.0
+2012-01-16,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-01-18,Barclays,Not Provided,3.0,equalwt/positive,38.0
+2012-01-23,Jefferies,12 month,5.0,buy,43.0
+2012-01-23,Griffin Securities,12 month,5.0,buy,40.0
+2012-01-27,National Securities,Not Provided,5.0,buy,38.0
+2012-02-01,Baird,12 month,5.0,outperform,36.0
+2012-02-01,Griffin Securities,12 month,5.0,buy,40.0
+2012-02-05,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-02-06,Baird,12 month,5.0,outperform,40.0
+2012-02-06,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2012-02-07,UBS,12 month,5.0,buy,43.0
+2012-02-08,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2012-02-13,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-02-15,Jefferies,12 month,5.0,buy,43.0
+2012-02-17,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2012-02-21,Griffin Securities,12 month,5.0,buy,40.0
+2012-02-21,Stifel,Not Provided,3.0,hold,-0.0
+2012-02-21,Credit Suisse,Not Provided,3.0,neutral,37.5
+2012-02-21,Cowen,Not Provided,3.0,neutral,-0.0
+2012-02-22,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2012-02-23,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-02-23,Canaccord Genuity,12 month,5.0,buy,47.0
+2012-02-23,ThinkEquity LLC,12 month,5.0,buy,45.0
+2012-02-23,Jefferies,12 month,5.0,buy,45.0
+2012-02-24,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2012-02-24,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-02-24,Stifel,Not Provided,3.0,hold,-0.0
+2012-02-24,ThinkEquity LLC,12 month,5.0,buy,47.0
+2012-02-24,Baird,12 month,5.0,outperform,40.0
+2012-02-24,Barclays,Not Provided,3.0,equalwt/positive,41.0
+2012-02-24,UBS,12 month,5.0,buy,44.0
+2012-02-24,J.P. Morgan,9 month,5.0,overweight,43.0
+2012-02-24,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2012-02-24,Cowen,Not Provided,3.0,neutral,-0.0
+2012-02-24,Griffin Securities,12 month,5.0,buy,40.0
+2012-02-24,Credit Suisse,Not Provided,3.0,neutral,37.5
+2012-02-24,Longbow Research,12 month,5.0,buy,46.0
+2012-02-29,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2012-03-06,Griffin Securities,12 month,5.0,buy,40.0
+2012-03-07,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2012-03-12,Griffin Securities,12 month,5.0,buy,40.0
+2012-03-13,J.P. Morgan,6 month,5.0,overweight,43.0
+2012-03-13,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-03-16,Griffin Securities,12 month,5.0,buy,40.0
+2012-03-19,National Securities,12 month,5.0,buy,46.0
+2012-03-19,Jefferies,12 month,5.0,buy,47.0
+2012-03-19,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2012-03-20,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2012-03-27,Griffin Securities,12 month,5.0,buy,40.0
+2012-03-29,Longbow Research,12 month,5.0,buy,49.0
+2012-03-29,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-04-03,Griffin Securities,12 month,5.0,buy,40.0
+2012-04-04,UBS,12 month,5.0,buy,44.0
+2012-04-09,Griffin Securities,12 month,5.0,buy,40.0
+2012-04-10,MKM Partners,12 month,3.0,neutral,46.0
+2012-04-12,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-04-16,Barclays,Not Provided,3.0,equalwt/positive,41.0
+2012-04-17,Griffin Securities,12 month,5.0,buy,40.0
+2012-04-23,Jefferies,12 month,5.0,buy,47.0
+2012-04-25,Griffin Securities,12 month,5.0,buy,40.0
+2012-05-02,Longbow Research,12 month,3.0,neutral,49.0
+2012-05-02,Griffin Securities,12 month,5.0,buy,40.0
+2012-05-04,National Securities,12 month,5.0,buy,46.0
+2012-05-06,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-05-07,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2012-05-09,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2012-05-10,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2012-05-17,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-05-18,Griffin Securities,12 month,5.0,buy,40.0
+2012-05-18,RBC Capital Markets,12 month,3.0,sector perform,40.0
+2012-05-18,Jefferies,12 month,5.0,buy,43.0
+2012-05-18,Canaccord Genuity,Not Provided,5.0,buy,47.0
+2012-05-18,National Securities,12 month,5.0,buy,40.0
+2012-05-18,Barclays,Not Provided,3.0,equalwt/positive,41.0
+2012-05-18,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-05-18,ThinkEquity LLC,12 month,5.0,buy,47.0
+2012-05-18,Cowen,Not Provided,3.0,neutral,-0.0
+2012-05-18,MKM Partners,12 month,3.0,neutral,38.0
+2012-05-18,UBS,12 month,5.0,buy,43.0
+2012-05-18,Credit Suisse,Not Provided,3.0,neutral,37.5
+2012-05-18,J.P. Morgan,6 month,5.0,overweight,43.0
+2012-05-18,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2012-05-18,Stifel,Not Provided,3.0,hold,-0.0
+2012-05-18,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2012-05-18,Baird,12 month,5.0,outperform,45.0
+2012-05-22,Griffin Securities,12 month,5.0,buy,40.0
+2012-05-24,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2012-06-01,Baird,12 month,5.0,outperform,45.0
+2012-06-04,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-06-04,Jefferies,12 month,5.0,buy,43.0
+2012-06-05,Griffin Securities,12 month,5.0,buy,40.0
+2012-06-07,Canaccord Genuity,Not Provided,5.0,buy,47.0
+2012-06-10,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-06-11,Barclays,Not Provided,3.0,equalweight,41.0
+2012-06-13,Griffin Securities,12 month,5.0,buy,40.0
+2012-06-13,Goldman Sachs,12 month,1.0,Sell/Neutral,29.0
+2012-06-15,RBC Capital Markets,12 month,3.0,sector perform,40.0
+2012-06-18,National Securities,12 month,5.0,buy,40.0
+2012-06-19,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-06-19,J.P. Morgan,3 month,5.0,overweight,43.0
+2012-06-19,Cowen,Not Provided,3.0,neutral,-0.0
+2012-06-19,Baird,12 month,5.0,outperform,40.0
+2012-06-19,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-06-19,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2012-06-20,RBC Capital Markets,12 month,3.0,sector perform,40.0
+2012-06-20,ThinkEquity LLC,12 month,5.0,buy,47.0
+2012-06-20,Canaccord Genuity,12 month,5.0,buy,47.0
+2012-06-20,Jefferies,12 month,5.0,buy,43.0
+2012-06-25,Griffin Securities,12 month,5.0,buy,40.0
+2012-07-02,Jefferies,12 month,5.0,buy,40.0
+2012-07-02,Griffin Securities,12 month,5.0,buy,40.0
+2012-07-02,Baird,12 month,5.0,outperform,40.0
+2012-07-12,UBS,12 month,5.0,buy,40.0
+2012-07-13,Griffin Securities,12 month,5.0,buy,40.0
+2012-07-17,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2012-07-19,Jefferies,12 month,5.0,buy,40.0
+2012-07-22,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-07-23,Griffin Securities,12 month,5.0,buy,40.0
+2012-07-25,Griffin Securities,12 month,5.0,buy,40.0
+2012-07-29,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-07-30,MKM Partners,12 month,3.0,neutral,38.0
+2012-08-01,Griffin Securities,12 month,5.0,buy,40.0
+2012-08-06,Baird,12 month,5.0,outperform,40.0
+2012-08-13,Griffin Securities,12 month,5.0,buy,40.0
+2012-08-13,Canaccord Genuity,12 month,5.0,buy,47.0
+2012-08-15,Barclays,Not Provided,3.0,equalweight,41.0
+2012-08-16,Cowen,Not Provided,3.0,neutral,-0.0
+2012-08-16,MKM Partners,12 month,3.0,neutral,38.0
+2012-08-17,RBC Capital Markets,12 month,3.0,sector perform,40.0
+2012-08-17,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-08-20,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2012-08-20,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2012-08-21,Canaccord Genuity,12 month,5.0,buy,47.0
+2012-08-21,Stifel,Not Provided,3.0,hold,-0.0
+2012-08-23,Pacific Crest Securities,12 month,5.0,outperform,39.0
+2012-08-24,MKM Partners,12 month,3.0,neutral,30.0
+2012-08-24,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-08-24,Jefferies,12 month,5.0,buy,37.0
+2012-08-24,Baird,12 month,5.0,outperform,34.0
+2012-08-24,Griffin Securities,12 month,5.0,buy,35.0
+2012-08-24,J.P. Morgan,3 month,3.0,neutral,32.5
+2012-08-24,Goldman Sachs,12 month,1.0,Sell/Neutral,25.0
+2012-08-24,UBS,12 month,5.0,buy,36.0
+2012-08-24,ThinkEquity LLC,12 month,5.0,buy,36.0
+2012-08-24,RBC Capital Markets,12 month,3.0,sector perform,33.0
+2012-08-24,Credit Suisse,Not Provided,3.0,neutral,35.0
+2012-08-24,Stifel,Not Provided,3.0,hold,-0.0
+2012-08-24,Canaccord Genuity,12 month,3.0,hold,32.0
+2012-08-24,Cowen,Not Provided,3.0,neutral,-0.0
+2012-08-24,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2012-08-24,Barclays,Not Provided,3.0,equalweight,38.0
+2012-08-27,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2012-09-05,Griffin Securities,12 month,5.0,buy,35.0
+2012-09-10,Pacific Crest Securities,12 month,5.0,outperform,39.0
+2012-09-12,Griffin Securities,12 month,5.0,buy,35.0
+2012-09-13,Wedbush,12 month,3.0,neutral,36.0
+2012-09-17,Jefferies,12 month,5.0,buy,39.0
+2012-09-24,Wedbush,12 month,3.0,neutral,36.0
+2012-09-24,Griffin Securities,12 month,5.0,buy,35.0
+2012-09-27,Griffin Securities,12 month,5.0,buy,35.0
+2012-10-01,MKM Partners,12 month,3.0,neutral,30.0
+2012-10-01,Baird,12 month,5.0,outperform,34.0
+2012-10-02,Pacific Crest Securities,12 month,5.0,outperform,39.0
+2012-10-09,J.P. Morgan,12 month,3.0,neutral,37.5
+2012-10-09,Griffin Securities,12 month,5.0,buy,35.0
+2012-10-10,UBS,12 month,5.0,buy,36.0
+2012-10-15,Baird,12 month,5.0,outperform,37.0
+2012-10-16,Stifel,Not Provided,3.0,hold,-0.0
+2012-10-16,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2012-10-22,Stifel,Not Provided,3.0,hold,-0.0
+2012-10-24,Griffin Securities,12 month,5.0,buy,35.0
+2012-10-28,Pacific Crest Securities,12 month,5.0,outperform,39.0
+2012-10-29,MKM Partners,12 month,3.0,neutral,30.0
+2012-10-31,Griffin Securities,12 month,5.0,buy,35.0
+2012-11-01,Baird,12 month,5.0,outperform,37.0
+2012-11-05,Canaccord Genuity,12 month,3.0,hold,32.0
+2012-11-07,MKM Partners,12 month,3.0,neutral,30.0
+2012-11-08,Jefferies,12 month,3.0,hold,34.0
+2012-11-08,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-11-08,Barclays,Not Provided,3.0,equalweight,38.0
+2012-11-15,Canaccord Genuity,12 month,3.0,hold,32.0
+2012-11-15,Credit Suisse,Not Provided,3.0,neutral,32.5
+2012-11-15,Wedbush,12 month,3.0,neutral,34.0
+2012-11-15,J.P. Morgan,12 month,3.0,neutral,37.5
+2012-11-15,Pacific Crest Securities,12 month,5.0,outperform,39.0
+2012-11-16,RBC Capital Markets,12 month,3.0,sector perform,33.0
+2012-11-16,Stifel,Not Provided,3.0,hold,-0.0
+2012-11-16,Baird,12 month,5.0,outperform,35.0
+2012-11-16,Barclays,Not Provided,3.0,equalweight,36.0
+2012-11-16,Jefferies,12 month,3.0,hold,34.0
+2012-11-16,Griffin Securities,12 month,5.0,buy,35.0
+2012-11-16,MKM Partners,12 month,3.0,neutral,30.0
+2012-11-16,UBS,12 month,5.0,buy,35.0
+2012-11-16,Cowen,Not Provided,3.0,neutral,-0.0
+2012-11-16,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-11-20,Jefferies,12 month,3.0,hold,34.0
+2012-11-21,Griffin Securities,12 month,5.0,buy,35.0
+2012-11-27,Jefferies,12 month,3.0,hold,34.0
+2012-11-28,UBS,12 month,5.0,buy,35.0
+2012-11-28,Pacific Crest Securities,12 month,5.0,outperform,39.0
+2012-11-28,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-11-28,MKM Partners,12 month,3.0,neutral,30.0
+2012-11-28,Cowen,Not Provided,3.0,neutral,-0.0
+2012-11-29,Stifel,Not Provided,3.0,hold,-0.0
+2012-11-30,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2012-12-03,Griffin Securities,12 month,5.0,buy,35.0
+2012-12-03,Baird,12 month,5.0,outperform,35.0
+2012-12-05,Jefferies,12 month,3.0,hold,34.0
+2012-12-10,Griffin Securities,36 month,5.0,buy,35.0
+2012-12-11,Griffin Securities,36 month,5.0,buy,35.0
+2012-12-12,J.P. Morgan,9 month,3.0,neutral,37.5
+2012-12-13,MKM Partners,12 month,3.0,neutral,30.0
+2012-12-18,Griffin Securities,36 month,5.0,buy,35.0
+2012-12-19,Credit Suisse,Not Provided,3.0,neutral,32.5
+2012-12-20,Canaccord Genuity,12 month,3.0,hold,32.0
+2013-01-02,Baird,12 month,5.0,outperform,38.0
+2013-01-07,Barclays,Not Provided,3.0,equalweight,42.0
+2013-01-08,UBS,12 month,5.0,buy,42.0
+2013-01-10,Pacific Crest Securities,12 month,5.0,outperform,43.0
+2013-01-11,UBS,12 month,5.0,buy,42.0
+2013-01-15,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2013-01-15,Griffin Securities,12 month,5.0,buy,35.0
+2013-01-23,Credit Suisse,Not Provided,3.0,neutral,32.5
+2013-01-24,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-01-24,Canaccord Genuity,12 month,3.0,hold,32.0
+2013-01-25,Goldman Sachs,12 month,5.0,Buy/Neutral,45.0
+2013-01-29,Jefferies,12 month,3.0,hold,40.0
+2013-01-29,Wedbush,12 month,5.0,outperform,45.0
+2013-01-30,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2013-02-04,Baird,12 month,5.0,outperform,43.0
+2013-02-05,Griffin Securities,12 month,5.0,buy,35.0
+2013-02-10,Pacific Crest Securities,12 month,5.0,outperform,43.0
+2013-02-11,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-02-12,Barclays,Not Provided,3.0,equalweight,42.0
+2013-02-13,Griffin Securities,12 month,5.0,buy,35.0
+2013-02-14,Wedbush,12 month,5.0,outperform,45.0
+2013-02-15,MKM Partners,Not Provided,3.0,neutral,41.0
+2013-02-20,Stifel,Not Provided,3.0,hold,-0.0
+2013-02-20,Credit Suisse,Not Provided,3.0,neutral,32.5
+2013-02-20,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-02-21,Cowen,Not Provided,3.0,neutral,-0.0
+2013-02-21,Griffin Securities,12 month,5.0,buy,35.0
+2013-02-21,Wedbush,12 month,5.0,outperform,45.0
+2013-02-25,Canaccord Genuity,12 month,3.0,hold,38.0
+2013-02-25,Credit Suisse,Not Provided,3.0,neutral,35.0
+2013-02-25,UBS,12 month,5.0,buy,44.0
+2013-02-25,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2013-02-26,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-02-26,Cowen,Not Provided,3.0,neutral,-0.0
+2013-02-26,J.P. Morgan,6 month,3.0,neutral,37.5
+2013-02-26,Baird,12 month,5.0,outperform,43.0
+2013-02-26,MKM Partners,12 month,3.0,neutral,41.0
+2013-02-26,Wedbush,12 month,5.0,outperform,45.0
+2013-02-26,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2013-02-26,Barclays,Not Provided,3.0,equalweight,42.0
+2013-02-26,Stifel,Not Provided,3.0,hold,-0.0
+2013-02-26,Griffin Securities,12 month,5.0,buy,42.0
+2013-02-26,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-03-01,Jefferies,12 month,5.0,buy,45.0
+2013-03-01,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-03-08,Wedbush,12 month,5.0,outperform,45.0
+2013-03-12,Griffin Securities,12 month,5.0,buy,42.0
+2013-03-18,Griffin Securities,12 month,5.0,buy,42.0
+2013-03-20,Jefferies,12 month,5.0,buy,47.0
+2013-03-20,Credit Suisse,Not Provided,3.0,neutral,35.0
+2013-03-26,Griffin Securities,12 month,5.0,buy,42.0
+2013-03-26,Wedbush,12 month,5.0,outperform,45.0
+2013-04-01,Baird,12 month,5.0,outperform,43.0
+2013-04-04,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2013-04-05,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-04-09,CM Research,Not Provided,5.0,buy,63.0
+2013-04-11,Wedbush,12 month,5.0,outperform,45.0
+2013-04-12,Canaccord Genuity,12 month,3.0,hold,38.0
+2013-04-15,Griffin Securities,36 month,5.0,buy,42.0
+2013-04-16,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2013-04-21,Evercore ISI,12 month,3.0,equalweight,40.0
+2013-04-24,Credit Suisse,Not Provided,3.0,neutral,35.0
+2013-04-24,Wedbush,12 month,5.0,outperform,45.0
+2013-04-25,Jefferies,12 month,5.0,buy,47.0
+2013-04-29,Griffin Securities,36 month,5.0,buy,42.0
+2013-04-30,Pacific Crest Securities,12 month,5.0,outperform,45.0
+2013-05-05,Evercore ISI,12 month,3.0,equalweight,40.0
+2013-05-05,Wedbush,12 month,5.0,outperform,45.0
+2013-05-09,Evercore ISI,12 month,3.0,equalweight,40.0
+2013-05-10,Baird,12 month,5.0,outperform,43.0
+2013-05-10,Cowen,Not Provided,3.0,neutral,-0.0
+2013-05-10,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-05-12,Wedbush,12 month,5.0,outperform,45.0
+2013-05-12,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-05-13,Barclays,Not Provided,3.0,equalweight,42.0
+2013-05-16,UBS,12 month,5.0,buy,42.0
+2013-05-16,Canaccord Genuity,12 month,3.0,hold,38.0
+2013-05-16,Evercore ISI,12 month,3.0,equalweight,37.0
+2013-05-16,Jefferies,12 month,5.0,buy,46.0
+2013-05-17,Credit Suisse,Not Provided,3.0,neutral,35.0
+2013-05-17,J.P. Morgan,3 month,3.0,neutral,37.5
+2013-05-17,Griffin Securities,12 month,5.0,buy,42.0
+2013-05-17,Cowen,Not Provided,3.0,neutral,-0.0
+2013-05-17,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-05-17,Baird,12 month,5.0,outperform,41.0
+2013-05-17,MKM Partners,12 month,3.0,neutral,41.0
+2013-05-17,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-05-17,Barclays,Not Provided,3.0,equalweight,40.0
+2013-05-17,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-05-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-05-17,Stifel,Not Provided,3.0,hold,-0.0
+2013-05-17,Wedbush,12 month,5.0,outperform,43.0
+2013-05-17,Goldman Sachs,12 month,5.0,Buy/Neutral,50.0
+2013-05-22,Evercore ISI,12 month,3.0,equalweight,37.0
+2013-05-22,Jefferies,12 month,5.0,buy,46.0
+2013-05-24,Wedbush,12 month,5.0,outperform,43.0
+2013-05-30,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-05-31,Wedbush,12 month,5.0,outperform,43.0
+2013-06-03,Baird,12 month,5.0,outperform,41.0
+2013-06-05,Goldman Sachs,12 month,5.0,buy/attractive,50.0
+2013-06-06,Evercore ISI,12 month,3.0,equalweight,37.0
+2013-06-06,Jefferies,12 month,5.0,buy,46.0
+2013-06-06,Griffin Securities,12 month,5.0,buy,42.0
+2013-06-13,Wedbush,12 month,5.0,outperform,43.0
+2013-06-19,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-06-19,Jefferies,12 month,5.0,buy,46.0
+2013-06-20,Wedbush,12 month,5.0,outperform,43.0
+2013-06-20,Evercore ISI,12 month,3.0,equalweight,37.0
+2013-06-27,Evercore ISI,12 month,3.0,equalweight,37.0
+2013-06-28,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-06-28,Barclays,Not Provided,3.0,equalweight,40.0
+2013-07-01,Baird,12 month,5.0,outperform,41.0
+2013-07-03,Evercore ISI,12 month,3.0,equalweight,37.0
+2013-07-09,B Riley & Co,12 month,3.0,neutral,38.5
+2013-07-10,Griffin Securities,12 month,5.0,buy,42.0
+2013-07-11,Evercore ISI,12 month,3.0,equalweight,37.0
+2013-07-14,Canaccord Genuity,12 month,3.0,hold,38.0
+2013-07-21,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-07-22,Griffin Securities,12 month,5.0,buy,42.0
+2013-07-24,Jefferies,12 month,5.0,buy,46.0
+2013-07-24,Wedbush,12 month,5.0,outperform,43.0
+2013-08-01,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-08-01,Wedbush,12 month,5.0,outperform,43.0
+2013-08-01,Baird,12 month,5.0,outperform,41.0
+2013-08-02,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2013-08-05,Jefferies,12 month,5.0,buy,42.0
+2013-08-12,Barclays,Not Provided,3.0,equalweight,40.0
+2013-08-13,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-08-14,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-08-15,Griffin Securities,12 month,5.0,buy,42.0
+2013-08-16,Cowen,12 month,3.0,market perform,36.0
+2013-08-20,Evercore ISI,12 month,3.0,equalweight,37.0
+2013-08-20,MKM Partners,12 month,3.0,neutral,41.0
+2013-08-21,Credit Suisse,Not Provided,3.0,neutral,35.0
+2013-08-21,Jefferies,12 month,5.0,buy,42.0
+2013-08-22,Credit Suisse,Not Provided,3.0,neutral,35.0
+2013-08-22,Evercore ISI,12 month,3.0,equalweight,37.0
+2013-08-22,Canaccord Genuity,Not Provided,3.0,hold,35.0
+2013-08-23,Griffin Securities,12 month,5.0,buy,42.0
+2013-08-23,Wedbush,12 month,5.0,outperform,43.0
+2013-08-23,MKM Partners,12 month,3.0,neutral,41.0
+2013-08-23,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-08-23,Jefferies,12 month,5.0,buy,42.0
+2013-08-23,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-08-23,B Riley & Co,Not Provided,5.0,buy,42.0
+2013-08-23,Barclays,Not Provided,3.0,equalweight,40.0
+2013-08-23,Cowen,12 month,3.0,market perform,36.0
+2013-08-23,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-08-23,J.P. Morgan,15 month,3.0,neutral,37.5
+2013-08-23,Baird,12 month,5.0,outperform,41.0
+2013-08-26,S&P Capital IQ,Not Provided,3.0,hold,42.0
+2013-08-29,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-09-03,Baird,12 month,5.0,outperform,41.0
+2013-09-03,B Riley & Co,Not Provided,5.0,buy,42.0
+2013-09-04,Griffin Securities,12 month,5.0,buy,42.0
+2013-09-04,Jefferies,12 month,5.0,buy,42.0
+2013-09-09,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-09-11,Wedbush,12 month,5.0,outperform,43.0
+2013-09-12,Griffin Securities,36 month,5.0,buy,42.0
+2013-09-18,MKM Partners,12 month,3.0,neutral,41.0
+2013-09-25,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-09-26,Canaccord Genuity,12 month,3.0,hold,42.0
+2013-09-26,Baird,12 month,5.0,outperform,43.0
+2013-10-01,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-10-02,Wedbush,12 month,5.0,outperform,49.0
+2013-10-02,UBS,12 month,5.0,buy,49.0
+2013-10-02,Canaccord Genuity,12 month,3.0,hold,42.0
+2013-10-03,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-10-03,Griffin Securities,12 month,5.0,buy,48.0
+2013-10-03,Evercore ISI,12 month,3.0,equalweight,40.0
+2013-10-03,Baird,12 month,5.0,outperform,45.0
+2013-10-03,Cowen,12 month,3.0,market perform,42.0
+2013-10-03,B Riley & Co,Not Provided,5.0,buy,55.0
+2013-10-03,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-10-03,J.P. Morgan,12 month,3.0,neutral,45.0
+2013-10-03,MKM Partners,12 month,3.0,neutral,41.0
+2013-10-03,Jefferies,12 month,5.0,buy,48.0
+2013-10-03,Barclays,Not Provided,3.0,equalweight,45.0
+2013-10-03,Goldman Sachs,12 month,5.0,buy/attractive,55.0
+2013-10-08,Evercore ISI,12 month,3.0,equalweight,40.0
+2013-10-09,Griffin Securities,12 month,5.0,buy,48.0
+2013-10-10,Cowen,12 month,3.0,neutral,42.0
+2013-10-10,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-10-11,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-10-14,Griffin Securities,12 month,5.0,buy,48.0
+2013-10-15,Evercore ISI,12 month,3.0,equalweight,40.0
+2013-10-17,Baird,12 month,5.0,outperform,45.0
+2013-10-21,Griffin Securities,12 month,5.0,buy,48.0
+2013-10-22,Evercore ISI,12 month,3.0,equalweight,40.0
+2013-10-23,Baird,12 month,5.0,outperform,45.0
+2013-10-24,Wedbush,12 month,5.0,outperform,49.0
+2013-11-01,Baird,12 month,5.0,outperform,45.0
+2013-11-01,Wedbush,12 month,5.0,outperform,49.0
+2013-11-04,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-11-05,Evercore ISI,12 month,3.0,equalweight,40.0
+2013-11-06,Griffin Securities,12 month,5.0,buy,48.0
+2013-11-07,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-11-07,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-11-07,Cowen,12 month,3.0,market perform,42.0
+2013-11-08,Jefferies,12 month,5.0,buy,48.0
+2013-11-10,Wedbush,12 month,5.0,outperform,49.0
+2013-11-11,Baird,12 month,5.0,outperform,45.0
+2013-11-11,MKM Partners,12 month,3.0,neutral,41.0
+2013-11-12,Barclays,Not Provided,3.0,equalweight,45.0
+2013-11-14,Griffin Securities,12 month,5.0,buy,48.0
+2013-11-15,Griffin Securities,12 month,5.0,buy,48.0
+2013-11-18,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-11-19,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2013-11-19,Cowen,12 month,3.0,market perform,42.0
+2013-11-19,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-11-21,Jefferies,12 month,5.0,buy,48.0
+2013-11-21,Canaccord Genuity,12 month,3.0,hold,42.0
+2013-11-21,Evercore ISI,12 month,3.0,equalweight,42.0
+2013-11-22,Griffin Securities,18 month,5.0,buy,48.0
+2013-11-22,J.P. Morgan,9 month,3.0,neutral,45.0
+2013-11-22,RBC Capital Markets,12 month,5.0,outperform,55.0
+2013-11-22,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-11-22,Baird,12 month,5.0,outperform,50.0
+2013-11-22,Wedbush,12 month,5.0,outperform,49.0
+2013-11-22,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-11-22,Credit Suisse,Not Provided,3.0,neutral,45.0
+2013-11-22,Barclays,Not Provided,3.0,equalweight,45.0
+2013-11-22,Cowen,12 month,3.0,market perform,45.0
+2013-11-24,MKM Partners,12 month,3.0,neutral,45.0
+2013-11-25,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-12-04,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-12-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-12-04,Evercore ISI,12 month,3.0,equalweight,42.0
+2013-12-04,Baird,12 month,5.0,outperform,50.0
+2013-12-04,Cowen,12 month,3.0,market perform,45.0
+2013-12-04,RBC Capital Markets,12 month,5.0,outperform,55.0
+2013-12-04,Griffin Securities,12 month,5.0,buy,48.0
+2013-12-04,Wedbush,12 month,5.0,outperform,49.0
+2013-12-04,Jefferies,12 month,5.0,buy,56.0
+2013-12-08,Griffin Securities,12 month,5.0,buy,48.0
+2013-12-09,Jefferies,12 month,5.0,buy,56.0
+2013-12-17,Griffin Securities,12 month,5.0,buy,48.0
+2013-12-30,MKM Partners,12 month,3.0,neutral,45.0
+2014-01-02,Baird,12 month,5.0,outperform,50.0
+2014-01-05,Evercore ISI,12 month,3.0,equalweight,42.0
+2014-01-07,UBS,12 month,5.0,buy,57.0
+2014-01-08,Evercore ISI,12 month,5.0,overweight,58.0
+2014-01-13,MKM Partners,12 month,3.0,neutral,45.0
+2014-01-13,Morgan Stanley,12 month,5.0,Overwt/In-Line,60.0
+2014-01-13,Jefferies,12 month,5.0,buy,56.0
+2014-01-13,Goldman Sachs,12 month,5.0,buy/attractive,60.0
+2014-01-15,RBC Capital Markets,12 month,5.0,outperform,55.0
+2014-01-16,Canaccord Genuity,Not Provided,3.0,hold,50.0
+2014-01-21,Griffin Securities,36 month,5.0,buy,48.0
+2014-01-22,Evercore ISI,12 month,5.0,overweight,58.0
+2014-01-27,MKM Partners,12 month,3.0,neutral,45.0
+2014-01-29,Wedbush,12 month,5.0,outperform,58.0
+2014-01-30,Evercore ISI,12 month,5.0,overweight,58.0
+2014-01-30,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2014-01-30,J.P. Morgan,9 month,5.0,overweight,66.0
+2014-02-03,Baird,12 month,5.0,outperform,50.0
+2014-02-05,Griffin Securities,12 month,5.0,buy,48.0
+2014-02-07,Jefferies,12 month,5.0,buy,56.0
+2014-02-10,MKM Partners,12 month,3.0,neutral,45.0
+2014-02-11,Griffin Securities,12 month,5.0,buy,48.0
+2014-02-13,Evercore ISI,12 month,5.0,overweight,58.0
+2014-02-19,Baird,12 month,5.0,outperform,55.0
+2014-02-19,Morgan Stanley,12 month,5.0,Overwt/In-Line,60.0
+2014-02-20,Barclays,Not Provided,3.0,equalweight,50.0
+2014-02-20,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2014-02-26,Canaccord Genuity,Not Provided,3.0,hold,52.0
+2014-02-27,Evercore ISI,12 month,5.0,overweight,66.0
+2014-02-27,Wedbush,12 month,5.0,outperform,62.0
+2014-02-27,Griffin Securities,12 month,5.0,buy,68.0
+2014-02-27,RBC Capital Markets,12 month,5.0,outperform,65.0
+2014-02-27,MKM Partners,12 month,3.0,neutral,50.0
+2014-02-27,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2014-02-27,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2014-02-27,Jefferies,12 month,5.0,buy,64.0
+2014-02-27,Credit Suisse,Not Provided,3.0,neutral,50.0
+2014-02-27,Goldman Sachs,12 month,5.0,buy/attractive,68.0
+2014-02-27,Barclays,Not Provided,3.0,equalweight,50.0
+2014-02-27,Morgan Stanley,12 month,5.0,Overwt/In-Line,65.0
+2014-02-27,J.P. Morgan,6 month,5.0,overweight,66.0
+2014-02-27,UBS,12 month,5.0,buy,64.0
+2014-02-27,Cowen,12 month,3.0,market perform,50.0
+2014-02-27,Baird,12 month,5.0,outperform,60.0
+2014-03-03,Baird,12 month,5.0,outperform,55.0
+2014-03-05,Wedbush,12 month,5.0,outperform,62.0
+2014-03-05,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-03-05,Evercore ISI,12 month,5.0,overweight,66.0
+2014-03-11,Griffin Securities,12 month,5.0,buy,68.0
+2014-03-13,Evercore ISI,12 month,5.0,overweight,66.0
+2014-03-14,Baird,12 month,5.0,outperform,60.0
+2014-03-16,Jefferies,12 month,5.0,buy,64.0
+2014-03-17,MKM Partners,12 month,3.0,neutral,50.0
+2014-03-26,Evercore ISI,12 month,5.0,overweight,66.0
+2014-03-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-04-01,RBC Capital Markets,12 month,5.0,outperform,65.0
+2014-04-01,Baird,12 month,5.0,outperform,60.0
+2014-04-03,Evercore ISI,12 month,5.0,overweight,66.0
+2014-04-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-04-10,Griffin Securities,12 month,5.0,buy,68.0
+2014-04-10,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2014-04-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-04-11,Cowen,12 month,3.0,market perform,50.0
+2014-04-16,Evercore ISI,12 month,5.0,overweight,66.0
+2014-04-16,Griffin Securities,12 month,5.0,buy,68.0
+2014-04-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-17,Baird,12 month,5.0,outperform,56.0
+2014-04-28,MKM Partners,12 month,3.0,neutral,50.0
+2014-04-28,Pacific Crest Securities,12 month,5.0,outperform,60.0
+2014-05-02,Wedbush,12 month,5.0,outperform,62.0
+2014-05-07,Griffin Securities,12 month,5.0,buy,68.0
+2014-05-08,Evercore ISI,12 month,5.0,overweight,66.0
+2014-05-15,Canaccord Genuity,12 month,5.0,buy,60.0
+2014-05-15,Wedbush,12 month,5.0,outperform,64.0
+2014-05-15,UBS,12 month,5.0,buy,60.0
+2014-05-15,Evercore ISI,12 month,5.0,overweight,66.0
+2014-05-16,Pacific Crest Securities,12 month,5.0,outperform,60.0
+2014-05-16,Baird,12 month,5.0,outperform,56.0
+2014-05-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-16,J.P. Morgan,3 month,5.0,overweight,66.0
+2014-05-16,Barclays,Not Provided,3.0,equalweight,51.0
+2014-05-16,RBC Capital Markets,12 month,5.0,outperform,65.0
+2014-05-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,65.0
+2014-05-16,Cowen,12 month,3.0,market perform,52.0
+2014-05-16,Griffin Securities,12 month,5.0,buy,68.0
+2014-05-20,Griffin Securities,12 month,5.0,buy,68.0
+2014-05-21,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-05-27,Morgan Stanley,12 month,5.0,Overwt/Attractive,65.0
+2014-05-28,Credit Suisse,Not Provided,3.0,neutral,50.0
+2014-06-02,Baird,Not Provided,5.0,outperform,56.0
+2014-06-02,Griffin Securities,12 month,5.0,buy,68.0
+2014-06-03,Baird,Not Provided,5.0,outperform,56.0
+2014-06-06,Canaccord Genuity,12 month,5.0,buy,65.0
+2014-06-09,Griffin Securities,12 month,5.0,buy,68.0
+2014-06-09,Wedbush,Not Provided,5.0,outperform,64.0
+2014-06-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,65.0
+2014-06-12,Pacific Crest Securities,Not Provided,5.0,outperform,60.0
+2014-06-16,Evercore ISI,Not Provided,5.0,overweight,66.0
+2014-06-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-30,Pacific Crest Securities,12 month,5.0,outperform,60.0
+2014-06-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-30,Evercore ISI,Not Provided,5.0,overweight,66.0
+2014-06-30,RBC Capital Markets,12 month,5.0,outperform,65.0
+2014-06-30,Griffin Securities,12 month,5.0,buy,68.0
+2014-06-30,Canaccord Genuity,12 month,5.0,buy,65.0
+2014-06-30,Barclays,Not Provided,3.0,equalweight,51.0
+2014-07-01,Baird,12 month,5.0,outperform,60.0
+2014-07-01,Cowen,12 month,3.0,market perform,58.0
+2014-07-01,Wedbush,12 month,5.0,outperform,64.0
+2014-07-01,Pacific Crest Securities,12 month,5.0,outperform,60.0
+2014-07-01,Morgan Stanley,12 month,5.0,Overwt/In-Line,65.0
+2014-07-07,Evercore ISI,Not Provided,5.0,overweight,66.0
+2014-07-09,Pacific Crest Securities,12 month,5.0,outperform,60.0
+2014-07-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-10,Griffin Securities,12 month,5.0,buy,68.0
+2014-07-10,Barclays,Not Provided,5.0,overweight,65.0
+2014-07-15,Evercore ISI,Not Provided,5.0,overweight,66.0
+2014-07-17,Morgan Stanley,12 month,5.0,Overwt/In-Line,65.0
+2014-07-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-23,Credit Suisse,Not Provided,3.0,neutral,50.0
+2014-07-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-08-01,Baird,12 month,5.0,outperform,60.0
+2014-08-03,Pacific Crest Securities,12 month,5.0,outperform,60.0
+2014-08-06,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-08-08,Baird,12 month,5.0,outperform,60.0
+2014-08-10,RBC Capital Markets,12 month,5.0,outperform,65.0
+2014-08-10,Wedbush,12 month,5.0,outperform,64.0
+2014-08-10,Canaccord Genuity,12 month,5.0,buy,65.0
+2014-08-11,Morgan Stanley,12 month,5.0,Overwt/In-Line,65.0
+2014-08-11,Cowen,12 month,3.0,market perform,58.0
+2014-08-12,Evercore ISI,12 month,5.0,overweight,66.0
+2014-08-14,Wedbush,12 month,5.0,outperform,65.0
+2014-08-14,Evercore ISI,12 month,5.0,overweight,66.0
+2014-08-14,Canaccord Genuity,12 month,5.0,buy,65.0
+2014-08-14,UBS,12 month,5.0,buy,65.0
+2014-08-14,Pacific Crest Securities,12 month,5.0,outperform,66.0
+2014-08-15,Barclays,Not Provided,5.0,overweight,65.0
+2014-08-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-08-15,RBC Capital Markets,12 month,5.0,outperform,70.0
+2014-08-15,Morgan Stanley,12 month,5.0,Overwt/In-Line,65.0
+2014-08-15,Cowen,12 month,3.0,market perform,65.0
+2014-08-15,J.P. Morgan,15 month,5.0,overweight,73.0
+2014-08-18,Baird,12 month,5.0,outperform,62.0
+2014-08-21,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-08-25,Canaccord Genuity,12 month,5.0,buy,65.0
+2014-08-28,Credit Suisse,Not Provided,3.0,neutral,50.0
+2014-09-02,Baird,Not Provided,5.0,outperform,62.0
+2014-09-04,Barclays,Not Provided,5.0,overweight,65.0
+2014-09-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-14,Pacific Crest Securities,12 month,5.0,outperform,66.0
+2014-09-24,RBC Capital Markets,12 month,5.0,outperform,70.0
+2014-09-29,Morgan Stanley,12 month,5.0,Overwt/In-Line,65.0
+2014-10-01,Pacific Crest Securities,12 month,5.0,outperform,66.0
+2014-10-01,Evercore ISI,12 month,5.0,overweight,66.0
+2014-10-01,Baird,Not Provided,5.0,outperform,62.0
+2014-10-01,J.P. Morgan,12 month,5.0,overweight,73.0
+2014-10-01,Barclays,Not Provided,5.0,overweight,65.0
+2014-10-01,RBC Capital Markets,12 month,5.0,outperform,70.0
+2014-10-01,Canaccord Genuity,12 month,5.0,buy,65.0
+2014-10-02,Wedbush,12 month,5.0,outperform,65.0
+2014-10-02,RBC Capital Markets,12 month,5.0,outperform,70.0
+2014-10-02,Canaccord Genuity,12 month,5.0,buy,65.0
+2014-10-02,Cowen,12 month,5.0,outperform,65.0
+2014-10-02,Baird,12 month,5.0,outperform,62.0
+2014-10-02,Credit Suisse,Not Provided,5.0,outperform,70.0
+2014-10-02,Barclays,Not Provided,5.0,overweight,65.0
+2014-10-02,Morgan Stanley,12 month,5.0,Overwt/In-Line,65.0
+2014-10-09,Canaccord Genuity,12 month,5.0,buy,65.0
+2014-10-10,Evercore ISI,Not Provided,5.0,buy,66.0
+2014-10-13,Pacific Crest Securities,Not Provided,5.0,outperform,66.0
+2014-10-15,Wedbush,12 month,5.0,outperform,65.0
+2014-10-16,Wedbush,12 month,5.0,outperform,65.0
+2014-10-17,Evercore ISI,Not Provided,5.0,buy,66.0
+2014-10-19,Pacific Crest Securities,12 month,5.0,outperform,66.0
+2014-10-22,Credit Suisse,Not Provided,5.0,outperform,70.0
+2014-10-27,Evercore ISI,Not Provided,5.0,buy,66.0
+2014-10-30,Evercore ISI,Not Provided,5.0,buy,66.0
+2014-11-03,Baird,Not Provided,5.0,outperform,62.0
+2014-11-13,Baird,12 month,5.0,outperform,65.0
+2014-11-14,Evercore ISI,12 month,5.0,buy,66.0
+2014-11-16,Wedbush,12 month,5.0,outperform,65.0
+2014-11-17,Canaccord Genuity,12 month,5.0,buy,65.0
+2014-11-18,RBC Capital Markets,12 month,5.0,outperform,70.0
+2014-11-18,Morgan Stanley,12 month,5.0,Overwt/In-Line,70.0
+2014-11-18,Cowen,12 month,5.0,outperform,73.0
+2014-11-19,J.P. Morgan,12 month,5.0,overweight,73.0
+2014-11-20,Pacific Crest Securities,12 month,5.0,outperform,66.0
+2014-11-20,UBS,12 month,5.0,buy,69.0
+2014-11-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-21,RBC Capital Markets,12 month,5.0,outperform,70.0
+2014-11-21,Barclays,Not Provided,5.0,overweight,70.0
+2014-11-21,Baird,12 month,5.0,outperform,65.0
+2014-11-21,Morgan Stanley,12 month,5.0,Overwt/In-Line,70.0
+2014-11-21,Wedbush,12 month,5.0,outperform,67.0
+2014-11-21,Canaccord Genuity,12 month,5.0,buy,70.0
+2014-11-21,Evercore ISI,12 month,5.0,buy,70.0
+2014-11-21,Goldman Sachs,12 month,5.0,buy/attractive,73.0
+2014-11-21,J.P. Morgan,18 month,5.0,overweight,73.0
+2014-11-21,Cowen,12 month,5.0,outperform,73.0
+2014-11-24,Credit Suisse,Not Provided,5.0,outperform,70.0
+2014-12-01,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-12-02,Barclays,Not Provided,5.0,overweight,70.0
+2014-12-02,Canaccord Genuity,12 month,5.0,buy,70.0
+2014-12-02,Evercore ISI,12 month,5.0,buy,73.0
+2014-12-02,Pacific Crest Securities,12 month,5.0,outperform,66.0
+2014-12-02,Wedbush,12 month,5.0,outperform,67.0
+2014-12-03,Cowen,12 month,5.0,outperform,73.0
+2014-12-04,Morgan Stanley,12 month,5.0,Overwt/In-Line,70.0
+2014-12-04,RBC Capital Markets,12 month,5.0,outperform,70.0
+2014-12-04,Baird,12 month,5.0,outperform,65.0
+2014-12-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-16,Cowen,12 month,5.0,outperform,73.0
+2014-12-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-22,Wedbush,12 month,5.0,outperform,67.0
+2015-01-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-01-05,Baird,Not Provided,5.0,outperform,65.0
+2015-01-06,Barclays,Not Provided,5.0,overweight,70.0
+2015-01-07,Evercore ISI,12 month,5.0,buy,70.0
+2015-01-07,RBC Capital Markets,12 month,5.0,outperform,70.0
+2015-01-08,Pacific Crest Securities,12 month,5.0,outperform,66.0
+2015-01-09,Canaccord Genuity,Not Provided,5.0,buy,70.0
+2015-01-18,Evercore ISI,Not Provided,5.0,buy,73.0
+2015-01-20,Pacific Crest Securities,Not Provided,5.0,outperform,66.0
+2015-01-20,Baird,12 month,5.0,outperform,65.0
+2015-01-21,Morgan Stanley,12 month,5.0,Overwt/In-Line,73.0
+2015-01-21,Barclays,Not Provided,5.0,overweight,70.0
+2015-01-28,Griffin Securities,36 month,5.0,buy,70.0
+2015-02-04,Cowen,12 month,5.0,outperform,73.0
+2015-02-04,J.P. Morgan,12 month,5.0,overweight,73.0
+2015-02-04,Baird,12 month,5.0,outperform,65.0
+2015-02-04,Griffin Securities,36 month,5.0,buy,70.0
+2015-02-04,Wedbush,12 month,5.0,outperform,67.0
+2015-02-05,Barclays,Not Provided,5.0,overweight,70.0
+2015-02-06,Evercore ISI,Not Provided,5.0,buy,73.0
+2015-02-09,Pacific Crest Securities,Not Provided,5.0,outperform,66.0
+2015-02-09,Morgan Stanley,12 month,5.0,Overwt/In-Line,73.0
+2015-02-10,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-02-12,Griffin Securities,36 month,5.0,buy,70.0
+2015-02-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-13,Cowen,12 month,5.0,outperform,73.0
+2015-02-15,Evercore ISI,Not Provided,5.0,buy,73.0
+2015-02-17,Baird,12 month,5.0,outperform,65.0
+2015-02-18,Barclays,Not Provided,5.0,overweight,70.0
+2015-02-22,Canaccord Genuity,12 month,5.0,buy,70.0
+2015-02-23,Pacific Crest Securities,12 month,5.0,outperform,66.0
+2015-02-24,RBC Capital Markets,12 month,5.0,outperform,70.0
+2015-02-25,Evercore ISI,12 month,5.0,buy,73.0
+2015-02-26,Canaccord Genuity,12 month,5.0,buy,73.0
+2015-02-26,Credit Suisse,Not Provided,5.0,outperform,75.0
+2015-02-26,Pacific Crest Securities,12 month,5.0,outperform,81.0
+2015-02-27,Griffin Securities,12 month,5.0,buy,76.0
+2015-02-27,Cowen,12 month,5.0,outperform,75.0
+2015-02-27,Barclays,Not Provided,5.0,overweight,73.0
+2015-02-27,J.P. Morgan,12 month,5.0,overweight,73.0
+2015-02-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-27,RBC Capital Markets,12 month,5.0,outperform,75.0
+2015-02-27,UBS,12 month,5.0,buy,74.0
+2015-02-27,Morgan Stanley,12 month,5.0,Overwt/In-Line,73.0
+2015-02-27,Baird,12 month,5.0,outperform,70.0
+2015-02-27,Wedbush,12 month,5.0,outperform,69.0
+2015-02-28,Evercore ISI,Not Provided,5.0,buy,73.0
+2015-03-04,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-03-08,Evercore ISI,Not Provided,5.0,buy,73.0
+2015-03-13,Evercore ISI,Not Provided,5.0,buy,73.0
+2015-03-16,Griffin Securities,12 month,5.0,buy,76.0
+2015-03-18,Barclays,Not Provided,5.0,overweight,73.0
+2015-03-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-20,Evercore ISI,Not Provided,5.0,buy,73.0
+2015-03-20,Griffin Securities,12 month,5.0,buy,76.0
+2015-03-27,Evercore ISI,Not Provided,5.0,buy,73.0
+2015-03-31,Pacific Crest Securities,12 month,5.0,outperform,81.0
+2015-04-01,Griffin Securities,12 month,5.0,buy,76.0
+2015-04-02,RBC Capital Markets,12 month,5.0,outperform,75.0
+2015-04-05,Pacific Crest Securities,12 month,5.0,outperform,81.0
+2015-04-06,Baird,Not Provided,5.0,outperform,70.0
+2015-04-06,Canaccord Genuity,Not Provided,5.0,buy,73.0
+2015-04-08,Berenberg,Not Provided,5.0,buy,75.0
+2015-04-08,Morgan Stanley,12 month,5.0,Overwt/In-Line,73.0
+2015-04-08,Wedbush,12 month,5.0,outperform,69.0
+2015-04-10,Evercore ISI,Not Provided,5.0,buy,73.0
+2015-04-13,Pacific Crest Securities,12 month,5.0,outperform,81.0
+2015-04-26,Pacific Crest Securities,Not Provided,5.0,overweight,81.0
+2015-05-01,Berenberg,Not Provided,5.0,buy,75.0
+2015-05-07,Evercore ISI,Not Provided,5.0,buy,73.0
+2015-05-08,RBC Capital Markets,12 month,5.0,outperform,75.0
+2015-05-08,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-05-08,Credit Suisse,Not Provided,5.0,outperform,75.0
+2015-05-10,Wedbush,12 month,5.0,outperform,69.0
+2015-05-12,Griffin Securities,Not Provided,5.0,buy,76.0
+2015-05-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,73.0
+2015-05-14,Cowen,12 month,5.0,outperform,75.0
+2015-05-14,Baird,12 month,5.0,outperform,70.0
+2015-05-19,Pacific Crest Securities,Not Provided,5.0,overweight,81.0
+2015-05-19,Credit Suisse,Not Provided,5.0,outperform,75.0
+2015-05-19,Canaccord Genuity,12 month,5.0,buy,70.0
+2015-05-19,Wedbush,12 month,5.0,outperform,64.0
+2015-05-20,Morgan Stanley,12 month,5.0,Overwt/In-Line,73.0
+2015-05-20,Cowen,12 month,5.0,outperform,75.0
+2015-05-20,Evercore ISI,12 month,5.0,buy,68.0
+2015-05-20,Berenberg,Not Provided,5.0,buy,75.0
+2015-05-20,Baird,12 month,5.0,outperform,70.0
+2015-05-20,RBC Capital Markets,12 month,5.0,outperform,75.0
+2015-05-20,J.P. Morgan,9 month,5.0,overweight,73.0
+2015-05-20,UBS,12 month,5.0,buy,70.0
+2015-05-20,Griffin Securities,12 month,5.0,buy,76.0
+2015-05-20,Barclays,Not Provided,5.0,overweight,68.0
+2015-05-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-28,Griffin Securities,36 month,5.0,buy,76.0
+2015-05-29,Evercore ISI,Not Provided,5.0,buy,68.0
+2015-06-04,Griffin Securities,36 month,5.0,buy,76.0
+2015-06-05,Evercore ISI,Not Provided,5.0,buy,68.0
+2015-06-07,Canaccord Genuity,Not Provided,5.0,buy,70.0
+2015-06-08,Berenberg,Not Provided,5.0,buy,75.0
+2015-06-11,Wedbush,12 month,3.0,neutral,57.0
+2015-06-23,Griffin Securities,36 month,5.0,buy,76.0
+2015-06-25,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-06-27,Evercore ISI,Not Provided,5.0,buy,68.0
+2015-06-29,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2015-07-01,Baird,12 month,5.0,outperform,70.0
+2015-07-02,Canaccord Genuity,Not Provided,5.0,buy,70.0
+2015-07-06,Credit Suisse,Not Provided,5.0,outperform,80.0
+2015-07-07,Griffin Securities,36 month,5.0,buy,76.0
+2015-07-15,Baird,12 month,5.0,outperform,60.0
+2015-07-15,Morgan Stanley,12 month,5.0,Overwt/In-Line,73.0
+2015-07-20,Griffin Securities,36 month,5.0,buy,76.0
+2015-07-21,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-07-28,Griffin Securities,36 month,5.0,buy,76.0
+2015-07-29,Cowen,12 month,5.0,outperform,75.0
+2015-08-02,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2015-08-03,UBS,12 month,5.0,buy,65.0
+2015-08-03,Credit Suisse,Not Provided,5.0,outperform,80.0
+2015-08-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-08-06,Wedbush,12 month,3.0,neutral,57.0
+2015-08-10,Griffin Securities,36 month,5.0,buy,76.0
+2015-08-11,RBC Capital Markets,12 month,5.0,outperform,75.0
+2015-08-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-08-19,Morgan Stanley,12 month,5.0,Overwt/In-Line,68.0
+2015-08-20,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-08-20,Cowen,12 month,5.0,outperform,75.0
+2015-08-20,Baird,12 month,5.0,outperform,60.0
+2015-08-21,Canaccord Genuity,Not Provided,5.0,buy,70.0
+2015-08-24,Griffin Securities,12 month,5.0,buy,76.0
+2015-08-27,UBS,12 month,5.0,buy,60.0
+2015-08-27,Canaccord Genuity,12 month,5.0,buy,65.0
+2015-08-27,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2015-08-27,Credit Suisse,Not Provided,5.0,outperform,80.0
+2015-08-28,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-08-28,Barclays,Not Provided,5.0,overweight,62.0
+2015-08-28,Goldman Sachs,12 month,5.0,buy/attractive,65.0
+2015-08-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-08-28,Berenberg,Not Provided,5.0,buy,75.0
+2015-08-28,Wedbush,12 month,3.0,neutral,51.0
+2015-08-28,Baird,12 month,5.0,outperform,60.0
+2015-08-28,Griffin Securities,36 month,5.0,buy,70.0
+2015-08-28,J.P. Morgan,18 month,5.0,overweight,73.0
+2015-08-28,RBC Capital Markets,12 month,5.0,outperform,70.0
+2015-08-28,Morgan Stanley,12 month,5.0,Overwt/In-Line,68.0
+2015-08-28,Cowen,12 month,5.0,outperform,75.0
+2015-08-31,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-09-01,Morgan Stanley,12 month,5.0,Overwt/In-Line,68.0
+2015-09-01,Griffin Securities,12 month,5.0,buy,70.0
+2015-09-03,Canaccord Genuity,12 month,5.0,buy,65.0
+2015-09-03,Barclays,Not Provided,5.0,overweight,62.0
+2015-09-03,RBC Capital Markets,12 month,5.0,outperform,70.0
+2015-09-03,Cowen,12 month,5.0,outperform,75.0
+2015-09-03,J.P. Morgan,12 month,5.0,overweight,73.0
+2015-09-03,Baird,12 month,5.0,outperform,60.0
+2015-09-21,Griffin Securities,12 month,5.0,buy,70.0
+2015-09-23,Berenberg,Not Provided,5.0,buy,69.0
+2015-09-24,Griffin Securities,12 month,5.0,buy,70.0
+2015-09-24,Canaccord Genuity,12 month,5.0,buy,65.0
+2015-09-25,Wedbush,12 month,3.0,neutral,51.0
+2015-09-29,Barclays,Not Provided,5.0,overweight,62.0
+2015-09-29,J.P. Morgan,12 month,5.0,overweight,73.0
+2015-09-29,RBC Capital Markets,12 month,5.0,outperform,70.0
+2015-09-29,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2015-09-29,Credit Suisse,Not Provided,5.0,outperform,80.0
+2015-09-30,Griffin Securities,12 month,5.0,buy,70.0
+2015-09-30,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-09-30,Morgan Stanley,12 month,5.0,Overwt/In-Line,68.0
+2015-09-30,Berenberg,Not Provided,5.0,buy,69.0
+2015-09-30,Wedbush,12 month,3.0,neutral,51.0
+2015-09-30,UBS,12 month,5.0,buy,56.0
+2015-09-30,RBC Capital Markets,12 month,5.0,outperform,70.0
+2015-09-30,Canaccord Genuity,12 month,5.0,buy,60.0
+2015-09-30,J.P. Morgan,12 month,5.0,overweight,73.0
+2015-09-30,Barclays,Not Provided,5.0,overweight,57.0
+2015-09-30,Cowen,12 month,5.0,outperform,70.0
+2015-10-02,Baird,12 month,5.0,outperform,58.0
+2015-10-05,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-10-08,Barclays,Not Provided,5.0,overweight,57.0
+2015-10-11,Wedbush,Not Provided,3.0,neutral,51.0
+2015-10-12,J.P. Morgan,12 month,5.0,overweight,73.0
+2015-10-13,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2015-10-13,Griffin Securities,36 month,5.0,buy,70.0
+2015-10-15,Wedbush,12 month,3.0,neutral,51.0
+2015-10-21,RBC Capital Markets,12 month,5.0,outperform,70.0
+2015-10-25,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2015-10-26,Griffin Securities,36 month,5.0,buy,70.0
+2015-10-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-01,Pacific Crest Securities,Not Provided,5.0,overweight,81.0
+2015-11-02,RBC Capital Markets,12 month,5.0,outperform,70.0
+2015-11-05,Wedbush,12 month,3.0,neutral,51.0
+2015-11-05,Cowen,12 month,5.0,outperform,70.0
+2015-11-05,Berenberg,Not Provided,5.0,buy,69.0
+2015-11-09,UBS,12 month,3.0,neutral,65.0
+2015-11-09,Canaccord Genuity,12 month,3.0,hold,60.0
+2015-11-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,68.0
+2015-11-10,Baird,12 month,5.0,outperform,65.0
+2015-11-11,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-11-15,Canaccord Genuity,12 month,3.0,hold,60.0
+2015-11-17,Griffin Securities,12 month,5.0,buy,70.0
+2015-11-17,RBC Capital Markets,12 month,5.0,outperform,70.0
+2015-11-17,Cowen,12 month,5.0,outperform,75.0
+2015-11-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,68.0
+2015-11-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-11-19,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2015-11-19,Credit Suisse,Not Provided,5.0,outperform,85.0
+2015-11-20,Wedbush,12 month,3.0,neutral,55.0
+2015-11-20,RBC Capital Markets,12 month,3.0,sector perform,65.0
+2015-11-20,Canaccord Genuity,12 month,3.0,hold,60.0
+2015-11-20,Barclays,Not Provided,5.0,overweight,70.0
+2015-11-20,Cowen,12 month,5.0,outperform,75.0
+2015-11-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-20,Griffin Securities,12 month,5.0,buy,70.0
+2015-11-20,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-11-20,Baird,12 month,5.0,outperform,65.0
+2015-11-20,J.P. Morgan,12 month,5.0,overweight,73.0
+2015-11-20,Morgan Stanley,12 month,3.0,Equalwt/In-Line,64.0
+2015-11-23,Berenberg,Not Provided,5.0,buy,69.0
+2015-12-01,J.P. Morgan,12 month,5.0,overweight,73.0
+2015-12-01,RBC Capital Markets,12 month,3.0,sector perform,65.0
+2015-12-01,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2015-12-02,Canaccord Genuity,12 month,3.0,hold,60.0
+2015-12-02,Cowen,12 month,5.0,outperform,75.0
+2015-12-02,Baird,12 month,5.0,outperform,65.0
+2015-12-02,Wedbush,12 month,3.0,neutral,55.0
+2015-12-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-12-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,68.0
+2015-12-04,RBC Capital Markets,12 month,3.0,sector perform,67.0
+2015-12-07,Griffin Securities,12 month,5.0,buy,70.0
+2015-12-09,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-12-09,Cowen,12 month,5.0,outperform,75.0
+2015-12-14,Griffin Securities,12 month,5.0,buy,70.0
+2015-12-16,RBC Capital Markets,12 month,3.0,sector perform,67.0
+2016-01-04,RBC Capital Markets,12 month,3.0,sector perform,67.0
+2016-01-06,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2016-01-06,Barclays,Not Provided,5.0,overweight,70.0
+2016-01-13,Canaccord Genuity,Not Provided,3.0,hold,55.0
+2016-01-14,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2016-01-14,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-19,Morgan Stanley,12 month,3.0,Equalwt/Attractive,65.0
+2016-01-19,Griffin Securities,12 month,5.0,buy,70.0
+2016-01-20,RBC Capital Markets,12 month,3.0,sector perform,67.0
+2016-01-20,Cowen,Not Provided,5.0,outperform,75.0
+2016-01-26,Canaccord Genuity,Not Provided,3.0,hold,55.0
+2016-01-27,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-01-27,Baird,Not Provided,5.0,outperform,60.0
+2016-02-01,RBC Capital Markets,12 month,3.0,sector perform,67.0
+2016-02-01,Griffin Securities,12 month,5.0,buy,70.0
+2016-02-03,Morgan Stanley,12 month,3.0,Equalwt/Attractive,65.0
+2016-02-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-03,Griffin Securities,12 month,5.0,buy,70.0
+2016-02-03,Credit Suisse,Not Provided,5.0,outperform,85.0
+2016-02-03,Canaccord Genuity,12 month,3.0,hold,55.0
+2016-02-03,Barclays,Not Provided,5.0,overweight,70.0
+2016-02-03,Baird,12 month,5.0,outperform,60.0
+2016-02-03,Pacific Crest Securities,Not Provided,5.0,overweight,81.0
+2016-02-04,J.P. Morgan,12 month,5.0,overweight,75.0
+2016-02-05,Cowen,Not Provided,5.0,outperform,75.0
+2016-02-05,Wedbush,12 month,3.0,neutral,50.0
+2016-02-08,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2016-02-08,"MUFG Securities Americas, Inc",12 month,3.0,neutral,50.0
+2016-02-11,Wedbush,Not Provided,3.0,neutral,50.0
+2016-02-15,UBS,12 month,3.0,neutral,45.0
+2016-02-15,Berenberg,Not Provided,5.0,buy,69.0
+2016-02-16,Baird,12 month,5.0,outperform,55.0
+2016-02-19,Cowen,Not Provided,5.0,outperform,75.0
+2016-02-19,Morgan Stanley,12 month,3.0,Equalwt/Attractive,65.0
+2016-02-21,Canaccord Genuity,12 month,3.0,hold,55.0
+2016-02-22,Barclays,Not Provided,5.0,overweight,65.0
+2016-02-25,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2016-02-25,Canaccord Genuity,12 month,3.0,hold,55.0
+2016-02-26,UBS,12 month,3.0,neutral,53.0
+2016-02-26,Baird,12 month,5.0,outperform,55.0
+2016-02-26,Berenberg,Not Provided,5.0,buy,69.0
+2016-02-26,Barclays,Not Provided,5.0,overweight,70.0
+2016-02-26,Credit Suisse,Not Provided,5.0,outperform,100.0
+2016-02-26,"MUFG Securities Americas, Inc",12 month,3.0,neutral,50.0
+2016-02-26,J.P. Morgan,12 month,5.0,overweight,82.0
+2016-02-26,Morgan Stanley,12 month,3.0,Equalwt/Attractive,65.0
+2016-02-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-02-26,Wedbush,12 month,3.0,neutral,50.0
+2016-02-26,Griffin Securities,12 month,5.0,buy,70.0
+2016-02-26,Cowen,12 month,5.0,outperform,68.0
+2016-02-26,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-03-01,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2016-03-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-08,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-03-11,J.P. Morgan,12 month,5.0,overweight,82.0
+2016-03-11,Barclays,Not Provided,5.0,overweight,70.0
+2016-03-11,Berenberg,Not Provided,5.0,buy,69.0
+2016-03-11,"MUFG Securities Americas, Inc",12 month,3.0,neutral,50.0
+2016-03-11,Cowen,12 month,5.0,outperform,68.0
+2016-03-14,Griffin Securities,12 month,5.0,buy,70.0
+2016-03-22,Berenberg,Not Provided,5.0,buy,69.0
+2016-03-23,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2016-03-23,Cowen,12 month,5.0,outperform,68.0
+2016-03-25,Griffin Securities,12 month,5.0,buy,70.0
+2016-03-28,Baird,12 month,5.0,outperform,62.0
+2016-04-01,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2016-04-04,Baird,12 month,5.0,outperform,62.0
+2016-04-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-20,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2016-04-27,Griffin Securities,12 month,5.0,buy,70.0
+2016-05-09,Cowen,12 month,5.0,outperform,68.0
+2016-05-09,Griffin Securities,Not Provided,5.0,buy,70.0
+2016-05-11,Wedbush,12 month,3.0,neutral,55.0
+2016-05-12,Cowen,12 month,5.0,outperform,68.0
+2016-05-13,Baird,12 month,5.0,outperform,62.0
+2016-05-13,Morgan Stanley,12 month,3.0,Equalwt/Attractive,65.0
+2016-05-13,Barclays,Not Provided,5.0,overweight,70.0
+2016-05-15,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2016-05-16,Canaccord Genuity,12 month,3.0,hold,55.0
+2016-05-16,UBS,12 month,3.0,neutral,58.0
+2016-05-16,Griffin Securities,36 month,5.0,buy,70.0
+2016-05-17,Wedbush,12 month,3.0,neutral,55.0
+2016-05-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-18,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2016-05-19,Canaccord Genuity,Not Provided,3.0,hold,60.0
+2016-05-19,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2016-05-19,J.P. Morgan,9 month,5.0,overweight,82.0
+2016-05-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-20,Cowen,12 month,5.0,outperform,68.0
+2016-05-20,Rosenblatt Securities,12 month,3.0,hold,54.0
+2016-05-20,"MUFG Securities Americas, Inc",12 month,3.0,neutral,50.0
+2016-05-20,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-20,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2016-05-20,Berenberg,Not Provided,5.0,buy,69.0
+2016-05-20,Wedbush,12 month,3.0,neutral,57.0
+2016-05-20,Barclays,Not Provided,5.0,overweight,70.0
+2016-05-20,Goldman Sachs,12 month,5.0,buy/attractive,70.0
+2016-05-23,Baird,12 month,5.0,outperform,65.0
+2016-05-23,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-05-25,Griffin Securities,12 month,5.0,buy,70.0
+2016-05-25,Morgan Stanley,12 month,3.0,Equalwt/Attractive,65.0
+2016-05-25,Credit Suisse,Not Provided,5.0,outperform,100.0
+2016-05-31,Canaccord Genuity,12 month,3.0,hold,60.0
+2016-06-07,Griffin Securities,12 month,5.0,buy,70.0
+2016-06-13,Berenberg,Not Provided,5.0,buy,69.0
+2016-06-14,J.P. Morgan,12 month,5.0,overweight,82.0
+2016-06-16,Baird,12 month,5.0,outperform,65.0
+2016-06-19,Wedbush,12 month,3.0,neutral,57.0
+2016-06-22,Barclays,Not Provided,5.0,overweight,70.0
+2016-06-29,Goldman Sachs,12 month,5.0,buy/attractive,68.0
+2016-06-30,Wedbush,12 month,3.0,neutral,57.0
+2016-06-30,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-07-01,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2016-07-07,Pacific Crest Securities,Not Provided,5.0,overweight,81.0
+2016-07-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-11,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2016-07-13,Griffin Securities,12 month,5.0,buy,70.0
+2016-07-14,Canaccord Genuity,Not Provided,3.0,hold,60.0
+2016-07-18,Griffin Securities,12 month,5.0,buy,70.0
+2016-07-20,Barclays,Not Provided,5.0,overweight,70.0
+2016-07-20,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2016-08-01,Baird,12 month,5.0,outperform,65.0
+2016-08-01,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2016-08-08,Griffin Securities,12 month,5.0,buy,70.0
+2016-08-11,Baird,12 month,5.0,outperform,65.0
+2016-08-12,Wedbush,12 month,3.0,neutral,57.0
+2016-08-18,Morgan Stanley,12 month,3.0,Equalwt/Attractive,65.0
+2016-08-18,Canaccord Genuity,Not Provided,3.0,hold,60.0
+2016-08-18,Barclays,Not Provided,5.0,overweight,70.0
+2016-08-19,RBC Capital Markets,12 month,3.0,sector perform,64.0
+2016-08-19,Cowen,12 month,5.0,outperform,68.0
+2016-08-24,Rosenblatt Securities,12 month,3.0,neutral,54.0
+2016-08-25,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2016-08-25,Canaccord Genuity,Not Provided,3.0,hold,65.0
+2016-08-26,Wedbush,12 month,3.0,neutral,60.0
+2016-08-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-26,Cowen,12 month,5.0,outperform,71.0
+2016-08-26,J.P. Morgan,18 month,5.0,overweight,92.0
+2016-08-26,UBS,12 month,3.0,neutral,66.0
+2016-08-26,Goldman Sachs,12 month,5.0,buy/attractive,76.0
+2016-08-26,Barclays,Not Provided,5.0,overweight,75.0
+2016-08-26,RBC Capital Markets,12 month,3.0,sector perform,65.0
+2016-08-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-08-26,Baird,12 month,5.0,outperform,75.0
+2016-08-26,Berenberg,Not Provided,5.0,buy,69.0
+2016-08-26,Morgan Stanley,12 month,3.0,Equalwt/Attractive,65.0
+2016-08-26,Griffin Securities,12 month,5.0,buy,76.0
+2016-08-29,"MUFG Securities Americas, Inc",12 month,1.0,underweight,50.0
+2016-08-30,Rosenblatt Securities,12 month,1.0,sell,54.0
+2016-08-30,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-09-01,RBC Capital Markets,12 month,3.0,sector perform,65.0
+2016-09-07,Griffin Securities,12 month,5.0,buy,76.0
+2016-09-08,Wedbush,12 month,3.0,neutral,60.0
+2016-09-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-12,Barclays,Not Provided,5.0,overweight,75.0
+2016-09-16,Griffin Securities,12 month,5.0,buy,76.0
+2016-09-19,Evercore ISI,12 month,5.0,buy,80.0
+2016-09-19,J.P. Morgan,Not Provided,5.0,overweight,92.0
+2016-09-21,Barclays,Not Provided,5.0,overweight,75.0
+2016-09-21,RBC Capital Markets,12 month,3.0,sector perform,65.0
+2016-09-21,Griffin Securities,Not Provided,5.0,buy,76.0
+2016-09-23,Baird,12 month,5.0,outperform,75.0
+2016-09-30,Evercore ISI,Not Provided,5.0,buy,80.0
+2016-10-03,RBC Capital Markets,12 month,3.0,sector perform,65.0
+2016-10-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-19,RBC Capital Markets,12 month,3.0,sector perform,65.0
+2016-10-19,Pacific Crest Securities,Not Provided,5.0,overweight,81.0
+2016-10-19,Barclays,Not Provided,5.0,overweight,75.0
+2016-10-22,Evercore ISI,Not Provided,5.0,buy,80.0
+2016-10-29,Evercore ISI,Not Provided,5.0,buy,80.0
+2016-11-01,RBC Capital Markets,12 month,3.0,sector perform,65.0
+2016-11-16,Cowen,12 month,5.0,outperform,79.0
+2016-11-16,Griffin Securities,12 month,5.0,buy,76.0
+2016-11-18,Morgan Stanley,12 month,3.0,Equalwt/Attractive,65.0
+2016-11-18,Barclays,Not Provided,5.0,overweight,81.0
+2016-11-20,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2016-11-21,Rosenblatt Securities,12 month,1.0,sell,54.0
+2016-11-21,RBC Capital Markets,12 month,3.0,sector perform,70.0
+2016-11-21,Baird,12 month,5.0,outperform,85.0
+2016-11-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-21,Goldman Sachs,12 month,5.0,buy/attractive,83.0
+2016-11-22,Wedbush,12 month,3.0,neutral,70.0
+2016-11-22,Cowen,12 month,5.0,outperform,79.0
+2016-11-25,Evercore ISI,Not Provided,5.0,buy,80.0
+2016-11-28,Morgan Stanley,12 month,3.0,Equalwt/Attractive,65.0
+2016-11-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-29,Canaccord Genuity,12 month,3.0,hold,70.0
+2016-11-29,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2016-11-29,RBC Capital Markets,12 month,3.0,sector perform,70.0
+2016-11-30,Baird,12 month,5.0,outperform,85.0
+2016-11-30,Berenberg,Not Provided,5.0,buy,69.0
+2016-11-30,"MUFG Securities Americas, Inc",12 month,1.0,underweight,50.0
+2016-11-30,Cowen,12 month,5.0,outperform,79.0
+2016-11-30,Rosenblatt Securities,12 month,1.0,sell,54.0
+2016-11-30,Goldman Sachs,12 month,5.0,buy/attractive,85.0
+2016-11-30,Morgan Stanley,12 month,3.0,Equalwt/Attractive,69.0
+2016-11-30,Evercore ISI,12 month,5.0,buy,80.0
+2016-11-30,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-30,Wedbush,12 month,3.0,neutral,76.0
+2016-11-30,Barclays,Not Provided,5.0,overweight,81.0
+2016-12-01,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-12-01,RBC Capital Markets,12 month,3.0,sector perform,71.0
+2016-12-02,Griffin Securities,12 month,5.0,buy,94.0
+2016-12-05,UBS,12 month,3.0,neutral,71.0
+2016-12-06,J.P. Morgan,12 month,5.0,overweight,101.0
+2016-12-06,Pacific Crest Securities,12 month,5.0,overweight,81.0
+2016-12-07,Wedbush,12 month,3.0,neutral,76.0
+2016-12-07,Barclays,Not Provided,5.0,overweight,100.0
+2016-12-07,Cowen,12 month,5.0,outperform,87.0
+2016-12-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-12-07,Griffin Securities,12 month,5.0,buy,94.0
+2016-12-07,Goldman Sachs,12 month,5.0,buy/attractive,90.0
+2016-12-07,Baird,12 month,5.0,outperform,85.0
+2016-12-07,Evercore ISI,12 month,5.0,buy,90.0
+2016-12-07,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2016-12-07,Morgan Stanley,12 month,3.0,Equalwt/Attractive,69.0
+2016-12-08,Canaccord Genuity,12 month,5.0,buy,95.0
+2016-12-08,Rosenblatt Securities,12 month,3.0,neutral,81.0
+2016-12-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-15,Pacific Crest Securities,12 month,5.0,overweight,95.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-12-20,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2016-12-22,Evercore ISI,Not Provided,5.0,buy,90.0
+2016-12-23,Canaccord Genuity,Not Provided,5.0,buy,95.0
+2016-12-28,Griffin Securities,12 month,5.0,buy,94.0
+2017-01-03,Canaccord Genuity,Not Provided,5.0,buy,95.0
+2017-01-03,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2017-01-04,Baird,12 month,5.0,outperform,85.0
+2017-01-06,Evercore ISI,Not Provided,5.0,buy,90.0
+2017-01-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-17,Cowen,Not Provided,5.0,outperform,87.0
+2017-01-18,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2017-01-20,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-01-20,Evercore ISI,Not Provided,5.0,buy,90.0
+2017-01-27,Evercore ISI,Not Provided,5.0,buy,90.0
+2017-01-30,Griffin Securities,12 month,5.0,buy,94.0
+2017-02-01,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2017-02-07,Canaccord Genuity,Not Provided,5.0,buy,95.0
+2017-02-07,"MUFG Securities Americas, Inc",12 month,1.0,underweight,50.0
+2017-02-07,J.P. Morgan,12 month,5.0,overweight,101.0
+2017-02-07,Pacific Crest Securities,12 month,5.0,overweight,95.0
+2017-02-07,Cowen,12 month,5.0,outperform,87.0
+2017-02-07,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-02-07,RBC Capital Markets,12 month,3.0,sector perform,84.0
+2017-02-07,Barclays,Not Provided,5.0,overweight,100.0
+2017-02-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-07,Evercore ISI,Not Provided,5.0,buy,90.0
+2017-02-08,Griffin Securities,12 month,5.0,buy,94.0
+2017-02-08,Wedbush,12 month,3.0,neutral,80.0
+2017-02-10,UBS,12 month,3.0,neutral,71.0
+2017-02-13,CM Research,Not Provided,5.0,buy,100.66
+2017-02-17,Baird,12 month,5.0,outperform,85.0
+2017-02-21,CM Research,Not Provided,3.0,hold,88.13
+2017-02-21,Pacific Crest Securities,12 month,5.0,overweight,95.0
+2017-02-21,Griffin Securities,Not Provided,5.0,buy,94.0
+2017-02-22,RBC Capital Markets,12 month,3.0,sector perform,84.0
+2017-02-23,Cowen,12 month,5.0,outperform,95.0
+2017-02-26,Canaccord Genuity,Not Provided,5.0,buy,95.0
+2017-02-27,Barclays,Not Provided,5.0,overweight,100.0
+2017-02-27,Morgan Stanley,12 month,3.0,Equalwt/Attractive,69.0
+2017-03-02,Pacific Crest Securities,12 month,5.0,overweight,105.0
+2017-03-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-02,Canaccord Genuity,12 month,5.0,buy,100.0
+2017-03-02,"MUFG Securities Americas, Inc",12 month,1.0,underweight,49.0
+2017-03-03,Barclays,Not Provided,5.0,overweight,105.0
+2017-03-03,J.P. Morgan,9 month,5.0,overweight,101.0
+2017-03-03,Cowen,12 month,5.0,outperform,95.0
+2017-03-03,Wedbush,12 month,3.0,neutral,78.0
+2017-03-03,Berenberg,Not Provided,5.0,buy,69.0
+2017-03-03,Morgan Stanley,12 month,3.0,Equalwt/Attractive,69.0
+2017-03-03,Griffin Securities,12 month,5.0,buy,99.0
+2017-03-03,Baird,12 month,5.0,outperform,100.0
+2017-03-03,Evercore ISI,12 month,5.0,outperform,96.0
+2017-03-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-03,UBS,12 month,3.0,neutral,89.0
+2017-03-03,RBC Capital Markets,12 month,3.0,sector perform,87.0
+2017-03-03,Goldman Sachs,12 month,5.0,buy/attractive,102.0
+2017-03-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-13,Canaccord Genuity,Not Provided,5.0,buy,100.0
+2017-03-20,Griffin Securities,12 month,5.0,buy,99.0
+2017-03-22,RBC Capital Markets,12 month,3.0,sector perform,87.0
+2017-03-23,Griffin Securities,12 month,5.0,buy,99.0
+2017-03-24,Baird,12 month,5.0,outperform,100.0
+2017-04-03,RBC Capital Markets,12 month,3.0,sector perform,87.0
+2017-04-09,RBC Capital Markets,12 month,3.0,sector perform,87.0
+2017-04-10,Griffin Securities,Not Provided,5.0,buy,99.0
+2017-04-12,Pacific Crest Securities,12 month,5.0,overweight,105.0
+2017-04-12,Canaccord Genuity,Not Provided,5.0,buy,105.0
+2017-04-12,Guggenheim Securities,Not Provided,3.0,neutral,80.0
+2017-04-17,Cowen,Not Provided,5.0,outperform,95.0
+2017-04-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-19,RBC Capital Markets,12 month,3.0,sector perform,87.0
+2017-04-21,Goldman Sachs,12 month,5.0,buy/attractive,105.0
+2017-04-23,Evercore ISI,Not Provided,5.0,outperform,96.0
+2017-04-24,Baird,Not Provided,5.0,outperform,100.0
+2017-04-27,Credit Suisse,Not Provided,5.0,outperform,115.0
+2017-04-30,Pacific Crest Securities,Not Provided,5.0,overweight,105.0
+2017-05-02,Morgan Stanley,12 month,5.0,Overwt/Attractive,115.0
+2017-05-02,RBC Capital Markets,12 month,3.0,sector perform,87.0
+2017-05-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-08,Pacific Crest Securities,12 month,5.0,overweight,105.0
+2017-05-09,Wedbush,12 month,5.0,outperform,120.0
+2017-05-14,Pacific Crest Securities,12 month,5.0,overweight,105.0
+2017-05-15,Barclays,Not Provided,5.0,overweight,105.0
+2017-05-15,Griffin Securities,12 month,5.0,buy,99.0
+2017-05-15,Morgan Stanley,12 month,5.0,Overwt/Attractive,115.0
+2017-05-16,Cowen,12 month,5.0,outperform,105.0
+2017-05-16,Credit Suisse,Not Provided,5.0,outperform,115.0
+2017-05-17,RBC Capital Markets,12 month,3.0,sector perform,95.0
+2017-05-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-18,Canaccord Genuity,Not Provided,5.0,buy,120.0
+2017-05-18,Pacific Crest Securities,Not Provided,5.0,overweight,115.0
+2017-05-18,J.P. Morgan,9 month,5.0,overweight,115.0
+2017-05-18,"MUFG Securities Americas, Inc",12 month,1.0,underweight,49.0
+2017-05-18,Wells Fargo Securities,12 month,5.0,outperform,125.0
+2017-05-19,Credit Suisse,Not Provided,5.0,outperform,120.0
+2017-05-19,Baird,12 month,5.0,outperform,110.0
+2017-05-19,Goldman Sachs,12 month,5.0,buy/attractive,120.0
+2017-05-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-19,Griffin Securities,12 month,5.0,buy,130.0
+2017-05-19,Guggenheim Securities,12 month,3.0,neutral,105.0
+2017-05-19,Cowen,12 month,5.0,outperform,115.0
+2017-05-19,Barclays,Not Provided,5.0,overweight,114.0
+2017-05-19,RBC Capital Markets,12 month,5.0,outperform,125.0
+2017-05-19,Wedbush,12 month,5.0,outperform,125.0
+2017-05-19,Evercore ISI,Not Provided,5.0,outperform,115.0
+2017-05-19,Morgan Stanley,12 month,5.0,Overwt/Attractive,115.0
+2017-05-22,Morgan Stanley,12 month,5.0,Overwt/Attractive,115.0
+2017-05-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-23,Argus Research Corp,Not Provided,3.0,hold,-0.0

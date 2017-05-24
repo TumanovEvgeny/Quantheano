@@ -1,0 +1,93 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-05-08,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-07-29,Janney Montgomery Scott LLC,12 month,3.0,neutral,370.0
+2016-07-29,Baird,12 month,3.0,neutral,372.0
+2016-07-29,Evercore ISI,12 month,3.0,hold,402.0
+2016-07-29,Goldman Sachs,12 month,3.0,neutral/attractive,385.0
+2016-07-29,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-08-01,Morgan Stanley,12 month,3.0,Equalwt/In-Line,345.0
+2016-08-01,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-08-01,J.P. Morgan,18 month,3.0,neutral,400.0
+2016-08-02,Jefferies,12 month,3.0,hold,400.0
+2016-08-05,UBS,12 month,3.0,neutral,415.0
+2016-08-29,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-09-02,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-09-13,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-09-13,Jefferies,Not Provided,3.0,hold,400.0
+2016-09-13,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-09-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-12,Baird,Not Provided,3.0,neutral,372.0
+2016-10-14,Evercore ISI,Not Provided,3.0,hold,415.0
+2016-10-17,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,370.0
+2016-10-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-10-28,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-10-28,Morgan Stanley,12 month,3.0,Equalwt/In-Line,345.0
+2016-11-03,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-11-03,Evercore ISI,Not Provided,3.0,hold,415.0
+2016-11-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-11-03,Goldman Sachs,12 month,3.0,neutral/attractive,419.0
+2016-11-04,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-11-04,Jefferies,12 month,3.0,hold,400.0
+2016-11-04,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-11-04,Janney Montgomery Scott LLC,12 month,3.0,neutral,380.0
+2016-11-04,Baird,12 month,3.0,neutral,385.0
+2016-11-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,392.0
+2016-11-07,J.P. Morgan,12 month,3.0,neutral,400.0
+2016-11-14,Morgan Stanley,12 month,3.0,Equalwt/In-Line,392.0
+2016-11-16,Morgan Stanley,12 month,3.0,Equalwt/In-Line,392.0
+2016-12-01,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-12-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,392.0
+2016-12-12,Goldman Sachs,12 month,3.0,neutral/neutral,414.0
+2016-12-13,Morgan Stanley,12 month,3.0,Equalwt/In-Line,392.0
+2016-12-14,J.P. Morgan,12 month,3.0,neutral,400.0
+2016-12-17,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2016-12-20,Janney Montgomery Scott LLC,12 month,3.0,neutral,380.0
+2016-12-22,Baird,Not Provided,3.0,neutral,385.0
+2016-12-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-01-03,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,425.0
+2017-01-04,Evercore ISI,Not Provided,3.0,hold,428.0
+2017-01-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-01-09,Evercore ISI,Not Provided,3.0,hold,428.0
+2017-01-13,Janney Montgomery Scott LLC,12 month,3.0,neutral,380.0
+2017-01-19,Goldman Sachs,12 month,3.0,neutral/neutral,413.0
+2017-01-23,Jefferies,Not Provided,3.0,hold,400.0
+2017-01-27,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2017-02-02,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-02,J.P. Morgan,12 month,3.0,neutral,425.0
+2017-02-02,Evercore ISI,12 month,3.0,hold,442.0
+2017-02-02,Baird,12 month,3.0,neutral,435.0
+2017-02-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-02-03,Goldman Sachs,12 month,3.0,neutral/neutral,444.0
+2017-02-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,453.0
+2017-02-03,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2017-02-03,UBS,12 month,3.0,neutral,450.0
+2017-02-03,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-02-03,Janney Montgomery Scott LLC,12 month,3.0,neutral,430.0
+2017-02-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-14,Jefferies,12 month,3.0,hold,455.0
+2017-02-14,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-02-15,Baird,12 month,3.0,neutral,435.0
+2017-02-15,Morgan Stanley,12 month,3.0,Equalwt/In-Line,453.0
+2017-03-02,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-03-02,Evercore ISI,Not Provided,3.0,in-line,477.0
+2017-03-08,Morgan Stanley,12 month,3.0,Equalwt/In-Line,453.0
+2017-04-03,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-04-04,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-04-04,Evercore ISI,Not Provided,3.0,in-line,484.0
+2017-04-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,477.0
+2017-04-10,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,430.0
+2017-04-19,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,430.0
+2017-04-26,Morgan Stanley,12 month,3.0,Equalwt/In-Line,477.0
+2017-05-04,Evercore ISI,12 month,3.0,in-line,527.0
+2017-05-04,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-05-04,Baird,12 month,3.0,neutral,496.0
+2017-05-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-05,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,550.0
+2017-05-05,J.P. Morgan,9 month,3.0,neutral,525.0
+2017-05-05,Goldman Sachs,12 month,3.0,neutral/neutral,502.0
+2017-05-05,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2017-05-05,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-05-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,533.0
+2017-05-08,Jefferies,12 month,3.0,hold,550.0
+2017-05-18,Morgan Stanley,12 month,3.0,Equalwt/In-Line,533.0

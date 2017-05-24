@@ -1,0 +1,618 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2010-08-06,"Miller Tabak + Co., LLC",Not Provided,3.0,neutral,-0.0
+2012-08-11,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2012-08-15,Jefferies,12 month,3.0,hold,71.0
+2012-08-15,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-08-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-08-15,Barclays,Not Provided,3.0,equalweight,70.0
+2012-08-15,UBS,12 month,5.0,buy,80.0
+2012-08-15,RBC Capital Markets,12 month,5.0,outperform,78.0
+2012-08-15,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-08-16,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2012-08-16,Oppenheimer & Co,18 month,5.0,outperform,70.0
+2012-08-16,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-08-16,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2012-08-16,S&P Capital IQ,Not Provided,3.0,hold,76.0
+2012-08-16,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,77.0
+2012-08-17,Piper Jaffray,12 month,5.0,overweight,80.0
+2012-08-27,Wedbush,12 month,5.0,outperform,78.0
+2012-08-29,J.P. Morgan,Not Provided,3.0,neutral,68.0
+2012-09-03,Morgan Stanley,12 month,5.0,Overwt/Cautious,77.0
+2012-09-07,Nomura,12 month,3.0,neutral,72.0
+2012-09-14,Baird,12 month,3.0,neutral,72.0
+2012-09-24,Goldman Sachs,12 month,3.0,neutral/neutral,72.0
+2012-09-26,Needham & Co,Not Provided,3.0,hold,-0.0
+2012-10-05,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-10-08,Credit Suisse,Not Provided,5.0,outperform,78.0
+2012-10-09,Stifel,Not Provided,3.0,hold,-0.0
+2012-10-15,Baird,12 month,3.0,neutral,72.0
+2012-10-15,Needham & Co,Not Provided,3.0,hold,-0.0
+2012-10-15,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-10-21,Telsey Advisory Group,12 month,-2147483648.0,no rating system,77.0
+2012-10-23,RBC Capital Markets,12 month,5.0,outperform,78.0
+2012-11-02,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-11-07,Morgan Stanley,12 month,5.0,Overwt/Cautious,77.0
+2012-11-07,Barclays,Not Provided,3.0,equalweight,70.0
+2012-11-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-11-09,Jefferies,12 month,3.0,hold,71.0
+2012-11-09,Telsey Advisory Group,12 month,-2147483648.0,no rating system,77.0
+2012-11-09,Stifel,Not Provided,3.0,hold,-0.0
+2012-11-14,Jefferies,12 month,3.0,hold,71.0
+2012-11-14,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-11-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-11-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-11-14,Wedbush,12 month,5.0,outperform,80.0
+2012-11-14,Barclays,Not Provided,3.0,equalweight,75.0
+2012-11-15,UBS,12 month,5.0,buy,80.0
+2012-11-15,J.P. Morgan,9 month,3.0,neutral,72.0
+2012-11-15,Needham & Co,Not Provided,3.0,hold,-0.0
+2012-11-15,Oppenheimer & Co,12 month,5.0,outperform,70.0
+2012-11-15,Nomura,12 month,3.0,neutral,72.0
+2012-11-15,S&P Capital IQ,Not Provided,5.0,buy,82.0
+2012-11-15,Piper Jaffray,12 month,5.0,overweight,82.0
+2012-11-15,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-11-15,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2012-11-15,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2012-11-15,RBC Capital Markets,12 month,5.0,outperform,79.0
+2012-11-15,Credit Suisse,Not Provided,5.0,outperform,78.0
+2012-11-15,Morgan Stanley,12 month,5.0,Overwt/Cautious,79.0
+2012-11-15,Baird,12 month,3.0,neutral,74.0
+2012-11-15,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-11-15,Stifel,Not Provided,3.0,hold,-0.0
+2012-11-15,Telsey Advisory Group,12 month,-2147483648.0,no rating system,81.0
+2012-11-19,Barclays,Not Provided,5.0,overweight,75.0
+2012-11-23,Stifel,Not Provided,3.0,hold,-0.0
+2012-11-25,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,81.0
+2012-12-03,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2012-12-17,Baird,12 month,3.0,neutral,74.0
+2012-12-21,Stifel,Not Provided,3.0,hold,-0.0
+2013-01-02,Stifel,Not Provided,3.0,hold,-0.0
+2013-01-04,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2013-01-08,Morgan Stanley,12 month,5.0,Overwt/In-Line,79.0
+2013-01-11,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-01-15,Stifel,Not Provided,3.0,hold,-0.0
+2013-01-15,Baird,12 month,3.0,neutral,74.0
+2013-01-16,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2013-01-22,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-01-22,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-01-22,Barclays,Not Provided,5.0,overweight,75.0
+2013-01-23,Telsey Advisory Group,12 month,-2147483648.0,no rating system,81.0
+2013-01-28,Nomura,12 month,2.0,reduce,55.0
+2013-01-28,Stifel,Not Provided,3.0,hold,-0.0
+2013-01-29,Credit Suisse,Not Provided,5.0,outperform,78.0
+2013-01-29,Baird,12 month,3.0,neutral,71.0
+2013-01-30,RBC Capital Markets,12 month,5.0,outperform,79.0
+2013-02-02,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2013-02-04,Stifel,Not Provided,3.0,hold,-0.0
+2013-02-08,Johnson Rice & Co,Not Provided,5.0,overweight,-0.0
+2013-02-10,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,81.0
+2013-02-11,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2013-02-12,Credit Suisse,Not Provided,5.0,outperform,78.0
+2013-02-13,Baird,12 month,3.0,neutral,71.0
+2013-02-14,Stifel,Not Provided,3.0,hold,-0.0
+2013-02-19,Morgan Stanley,12 month,5.0,Overwt/In-Line,81.0
+2013-02-22,Nomura,12 month,2.0,reduce,55.0
+2013-02-25,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2013-02-25,Stifel,Not Provided,3.0,hold,-0.0
+2013-02-25,Baird,12 month,3.0,neutral,71.0
+2013-02-28,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-02-28,Wedbush,12 month,5.0,outperform,80.0
+2013-03-01,Telsey Advisory Group,12 month,-2147483648.0,no rating system,80.0
+2013-03-01,Nomura,12 month,2.0,reduce,55.0
+2013-03-06,J.P. Morgan,6 month,3.0,neutral,72.0
+2013-03-06,Oppenheimer & Co,12 month,5.0,outperform,70.0
+2013-03-06,Barclays,Not Provided,5.0,overweight,75.0
+2013-03-06,Jefferies,12 month,3.0,hold,66.0
+2013-03-06,RBC Capital Markets,12 month,5.0,outperform,79.0
+2013-03-07,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-03-07,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-03-07,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-03-07,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2013-03-07,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-03-07,S&P Capital IQ,Not Provided,5.0,buy,80.0
+2013-03-07,UBS,12 month,5.0,buy,77.0
+2013-03-07,Goldman Sachs,12 month,3.0,neutral/neutral,74.0
+2013-03-07,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2013-03-07,Baird,12 month,3.0,neutral,66.0
+2013-03-07,Nomura,12 month,2.0,reduce,55.0
+2013-03-07,Credit Suisse,Not Provided,5.0,outperform,78.0
+2013-03-07,Telsey Advisory Group,12 month,-2147483648.0,no rating system,75.0
+2013-03-07,Piper Jaffray,12 month,3.0,neutral,68.0
+2013-03-07,Morgan Stanley,12 month,5.0,Overwt/In-Line,77.0
+2013-03-07,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-03-07,Wedbush,12 month,5.0,outperform,80.0
+2013-03-07,Stifel,Not Provided,3.0,hold,-0.0
+2013-03-08,Needham & Co,Not Provided,3.0,hold,-0.0
+2013-03-13,Baird,12 month,3.0,neutral,66.0
+2013-03-13,Stifel,Not Provided,3.0,hold,-0.0
+2013-03-18,Stifel,Not Provided,3.0,hold,-0.0
+2013-03-26,Stifel,Not Provided,3.0,hold,-0.0
+2013-04-02,Stifel,Not Provided,3.0,hold,-0.0
+2013-04-05,Nomura,12 month,2.0,reduce,55.0
+2013-04-08,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-04-08,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2013-04-11,Stifel,Not Provided,3.0,hold,-0.0
+2013-04-12,Baird,12 month,3.0,neutral,66.0
+2013-04-12,Nomura,12 month,2.0,reduce,55.0
+2013-04-15,Needham & Co,Not Provided,3.0,hold,-0.0
+2013-04-15,Wedbush,12 month,5.0,outperform,80.0
+2013-04-18,Morgan Stanley,12 month,5.0,Overwt/In-Line,77.0
+2013-04-18,Jefferies,12 month,3.0,hold,66.0
+2013-04-19,RBC Capital Markets,12 month,5.0,outperform,79.0
+2013-04-29,Stifel,Not Provided,3.0,hold,-0.0
+2013-05-03,Oppenheimer & Co,18 month,3.0,market perform,70.0
+2013-05-06,Wedbush,12 month,5.0,outperform,82.0
+2013-05-07,Stifel,Not Provided,3.0,hold,-0.0
+2013-05-10,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2013-05-13,Baird,12 month,3.0,neutral,66.0
+2013-05-15,Wedbush,12 month,5.0,outperform,82.0
+2013-05-16,Barclays,Not Provided,5.0,overweight,75.0
+2013-05-16,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-05-16,Telsey Advisory Group,12 month,-2147483648.0,no rating system,75.0
+2013-05-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,81.0
+2013-05-20,Baird,12 month,3.0,neutral,66.0
+2013-05-20,Piper Jaffray,12 month,3.0,neutral,68.0
+2013-05-20,Nomura,12 month,2.0,reduce,55.0
+2013-05-20,Stifel,Not Provided,3.0,hold,-0.0
+2013-05-22,Nomura,12 month,2.0,reduce,58.0
+2013-05-22,Barclays,Not Provided,5.0,overweight,75.0
+2013-05-22,Piper Jaffray,12 month,3.0,neutral,68.0
+2013-05-22,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-05-22,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-05-22,Wedbush,12 month,5.0,outperform,82.0
+2013-05-23,Morgan Stanley,12 month,5.0,Overwt/In-Line,81.0
+2013-05-23,Telsey Advisory Group,12 month,-2147483648.0,no rating system,75.0
+2013-05-23,Oppenheimer & Co,12 month,3.0,market perform,70.0
+2013-05-23,S&P Capital IQ,Not Provided,5.0,buy,84.0
+2013-05-23,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-05-23,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2013-05-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-05-23,Goldman Sachs,12 month,3.0,neutral/neutral,78.0
+2013-05-23,RBC Capital Markets,12 month,5.0,outperform,81.0
+2013-05-23,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2013-05-23,Credit Suisse,Not Provided,5.0,outperform,78.0
+2013-05-23,UBS,12 month,5.0,buy,78.0
+2013-05-23,J.P. Morgan,6 month,3.0,neutral,72.0
+2013-05-23,Jefferies,12 month,3.0,hold,66.0
+2013-05-23,Baird,12 month,3.0,neutral,74.0
+2013-05-23,Needham & Co,Not Provided,3.0,hold,-0.0
+2013-05-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-05-23,Stifel,Not Provided,3.0,hold,-0.0
+2013-06-04,Stifel,Not Provided,3.0,hold,-0.0
+2013-06-13,Baird,12 month,3.0,neutral,74.0
+2013-06-17,Stifel,Not Provided,3.0,hold,-0.0
+2013-06-25,Baird,12 month,3.0,neutral,74.0
+2013-06-26,J.P. Morgan,3 month,3.0,neutral,72.0
+2013-06-27,Stifel,Not Provided,3.0,hold,-0.0
+2013-07-02,Needham & Co,Not Provided,3.0,hold,-0.0
+2013-07-09,UBS,12 month,5.0,buy,79.0
+2013-07-09,Stifel,Not Provided,3.0,hold,-0.0
+2013-07-15,Baird,12 month,3.0,neutral,74.0
+2013-07-15,Stifel,Not Provided,3.0,hold,-0.0
+2013-07-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-19,Jefferies,12 month,3.0,hold,66.0
+2013-07-19,Baird,12 month,3.0,neutral,74.0
+2013-07-24,Stifel,Not Provided,3.0,hold,-0.0
+2013-07-29,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-08-05,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2013-08-09,RBC Capital Markets,12 month,5.0,outperform,81.0
+2013-08-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,82.0
+2013-08-13,Stifel,Not Provided,3.0,hold,-0.0
+2013-08-13,Baird,12 month,3.0,neutral,74.0
+2013-08-14,Wedbush,12 month,5.0,outperform,82.0
+2013-08-14,Barclays,Not Provided,5.0,overweight,75.0
+2013-08-15,Telsey Advisory Group,12 month,-2147483648.0,no rating system,79.0
+2013-08-16,UBS,12 month,5.0,buy,82.0
+2013-08-20,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-08-21,Oppenheimer & Co,18 month,3.0,market perform,70.0
+2013-08-21,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-08-21,Piper Jaffray,12 month,3.0,neutral,68.0
+2013-08-21,J.P. Morgan,Not Provided,3.0,neutral,73.0
+2013-08-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-08-21,Wedbush,12 month,5.0,outperform,82.0
+2013-08-21,Jefferies,12 month,3.0,hold,66.0
+2013-08-21,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2013-08-21,RBC Capital Markets,12 month,5.0,outperform,81.0
+2013-08-21,Baird,12 month,3.0,neutral,75.0
+2013-08-21,Barclays,Not Provided,5.0,overweight,75.0
+2013-08-21,Stifel,Not Provided,3.0,hold,-0.0
+2013-08-21,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2013-08-21,Nomura,12 month,2.0,reduce,58.0
+2013-08-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-08-22,Morgan Stanley,12 month,5.0,Overwt/In-Line,82.0
+2013-08-22,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-08-22,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2013-08-22,Telsey Advisory Group,12 month,-2147483648.0,no rating system,79.0
+2013-08-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-08-22,Stifel,Not Provided,3.0,hold,-0.0
+2013-08-23,Credit Suisse,Not Provided,5.0,outperform,78.0
+2013-08-26,Needham & Co,Not Provided,3.0,hold,-0.0
+2013-09-03,Stifel,Not Provided,3.0,hold,-0.0
+2013-09-10,Stifel,Not Provided,3.0,hold,-0.0
+2013-09-13,Baird,12 month,3.0,neutral,75.0
+2013-09-24,Stifel,Not Provided,3.0,hold,-0.0
+2013-09-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-09-26,Goldman Sachs,12 month,3.0,neutral/neutral,79.0
+2013-09-26,Barclays,Not Provided,5.0,overweight,82.0
+2013-09-27,Stifel,Not Provided,3.0,hold,-0.0
+2013-09-30,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2013-10-03,RBC Capital Markets,12 month,5.0,outperform,85.0
+2013-10-07,Wedbush,12 month,5.0,outperform,82.0
+2013-10-09,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-11,Baird,12 month,3.0,neutral,75.0
+2013-10-16,Credit Suisse,Not Provided,5.0,outperform,78.0
+2013-10-17,Barclays,Not Provided,5.0,overweight,82.0
+2013-10-17,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-17,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-10-17,Wedbush,12 month,5.0,outperform,82.0
+2013-10-17,RBC Capital Markets,12 month,5.0,outperform,85.0
+2013-10-17,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2013-10-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-10-18,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,79.0
+2013-10-18,Piper Jaffray,12 month,3.0,neutral,68.0
+2013-10-18,Jefferies,12 month,3.0,hold,66.0
+2013-10-18,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-10-18,J.P. Morgan,12 month,3.0,neutral,73.0
+2013-10-18,RBC Capital Markets,12 month,5.0,outperform,81.0
+2013-10-18,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-18,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2013-10-18,Baird,12 month,3.0,neutral,75.0
+2013-10-21,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-10-21,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2013-10-21,Needham & Co,Not Provided,3.0,hold,-0.0
+2013-10-22,Evercore ISI,12 month,3.0,neutral,78.0
+2013-10-29,Baird,12 month,3.0,neutral,75.0
+2013-11-11,Evercore ISI,12 month,3.0,neutral,78.0
+2013-11-12,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2013-11-12,Wolfe Research,12 month,1.0,underperform,66.0
+2013-11-12,Stifel,Not Provided,3.0,hold,-0.0
+2013-11-15,RBC Capital Markets,12 month,5.0,outperform,81.0
+2013-11-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-11-15,Barclays,Not Provided,5.0,overweight,82.0
+2013-11-18,Telsey Advisory Group,12 month,-2147483648.0,no rating system,79.0
+2013-11-18,Wedbush,12 month,5.0,outperform,82.0
+2013-11-18,Wolfe Research,12 month,1.0,underperform,66.0
+2013-11-20,Baird,12 month,3.0,neutral,75.0
+2013-11-22,J.P. Morgan,9 month,3.0,neutral,73.0
+2013-11-22,Wedbush,12 month,5.0,outperform,82.0
+2013-11-22,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-11-22,RBC Capital Markets,12 month,5.0,outperform,83.0
+2013-11-22,Barclays,Not Provided,5.0,overweight,82.0
+2013-11-22,Oppenheimer & Co,18 month,3.0,market perform,70.0
+2013-11-22,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-11-22,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-11-22,S&P Capital IQ,Not Provided,5.0,buy,84.0
+2013-11-22,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-11-22,Stifel,Not Provided,3.0,hold,-0.0
+2013-11-22,Baird,12 month,3.0,neutral,75.0
+2013-11-24,Goldman Sachs,12 month,3.0,neutral/neutral,78.0
+2013-11-25,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2013-11-25,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2013-11-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-11-25,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2013-11-25,Jefferies,12 month,3.0,hold,66.0
+2013-11-25,Credit Suisse,Not Provided,5.0,outperform,78.0
+2013-11-25,Needham & Co,Not Provided,3.0,hold,-0.0
+2013-11-25,Evercore ISI,12 month,3.0,neutral,76.0
+2013-11-25,Wolfe Research,12 month,1.0,underperform,66.0
+2013-12-04,Stifel,Not Provided,3.0,hold,-0.0
+2013-12-05,Wolfe Research,12 month,1.0,underperform,66.0
+2013-12-08,Evercore ISI,12 month,3.0,neutral,76.0
+2013-12-10,Wolfe Research,12 month,1.0,underperform,66.0
+2013-12-12,Baird,12 month,3.0,neutral,75.0
+2013-12-12,Needham & Co,Not Provided,3.0,hold,-0.0
+2013-12-12,Stifel,Not Provided,3.0,hold,-0.0
+2013-12-20,Needham & Co,Not Provided,3.0,hold,-0.0
+2013-12-26,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-03,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-01-05,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-06,Evercore ISI,12 month,3.0,neutral,76.0
+2014-01-12,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-14,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-01-14,Wolfe Research,12 month,1.0,underperform,62.0
+2014-01-15,Baird,12 month,3.0,neutral,75.0
+2014-01-15,UBS,12 month,3.0,neutral,72.0
+2014-01-15,Telsey Advisory Group,12 month,-2147483648.0,no rating system,79.0
+2014-01-15,Credit Suisse,Not Provided,3.0,neutral,70.0
+2014-01-16,Wedbush,12 month,5.0,outperform,78.0
+2014-01-16,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-17,RBC Capital Markets,12 month,5.0,outperform,78.0
+2014-01-24,Jefferies,12 month,3.0,hold,66.0
+2014-01-27,Evercore ISI,12 month,3.0,neutral,76.0
+2014-01-28,Baird,12 month,3.0,neutral,71.0
+2014-01-28,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-31,Wolfe Research,12 month,1.0,underperform,62.0
+2014-02-03,Piper Jaffray,12 month,3.0,neutral,66.0
+2014-02-03,Wedbush,12 month,5.0,outperform,78.0
+2014-02-03,Stifel,Not Provided,3.0,hold,-0.0
+2014-02-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-02-10,Stifel,Not Provided,3.0,hold,-0.0
+2014-02-10,Wolfe Research,12 month,1.0,underperform,62.0
+2014-02-12,RBC Capital Markets,12 month,5.0,outperform,75.0
+2014-02-12,Evercore ISI,12 month,3.0,neutral,76.0
+2014-02-13,Baird,12 month,3.0,neutral,71.0
+2014-02-18,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2014-02-18,Wolfe Research,12 month,1.0,underperform,62.0
+2014-02-21,Wolfe Research,12 month,1.0,underperform,62.0
+2014-02-24,Oppenheimer & Co,18 month,3.0,market perform,70.0
+2014-02-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-02-26,Barclays,Not Provided,5.0,overweight,82.0
+2014-03-05,Jefferies,12 month,3.0,hold,68.0
+2014-03-05,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2014-03-05,Credit Suisse,Not Provided,3.0,neutral,70.0
+2014-03-05,Needham & Co,Not Provided,3.0,hold,-0.0
+2014-03-05,Wedbush,12 month,5.0,outperform,78.0
+2014-03-05,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-03-05,Oppenheimer & Co,12 month,3.0,market perform,70.0
+2014-03-05,Barclays,Not Provided,5.0,overweight,82.0
+2014-03-05,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-03-05,Wolfe Research,12 month,1.0,underperform,60.0
+2014-03-05,Stifel,Not Provided,3.0,hold,-0.0
+2014-03-05,RBC Capital Markets,12 month,5.0,outperform,77.0
+2014-03-06,Piper Jaffray,12 month,3.0,neutral,66.0
+2014-03-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-03-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-03-06,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-03-06,J.P. Morgan,6 month,3.0,neutral,73.0
+2014-03-06,Goldman Sachs,12 month,3.0,neutral/neutral,71.0
+2014-03-06,Telsey Advisory Group,12 month,-2147483648.0,no rating system,76.0
+2014-03-06,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2014-03-06,Evercore ISI,12 month,3.0,neutral,72.0
+2014-03-06,Baird,12 month,3.0,neutral,71.0
+2014-03-07,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2014-03-09,Evercore ISI,12 month,3.0,neutral,72.0
+2014-03-10,Stifel,Not Provided,3.0,hold,-0.0
+2014-03-11,Wolfe Research,12 month,1.0,underperform,60.0
+2014-03-13,RBC Capital Markets,12 month,5.0,outperform,77.0
+2014-03-13,Baird,12 month,3.0,neutral,71.0
+2014-03-14,Wolfe Research,12 month,1.0,underperform,60.0
+2014-03-24,Wolfe Research,Not Provided,3.0,peerperform,65.0
+2014-03-26,Stifel,Not Provided,3.0,hold,-0.0
+2014-03-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-04-01,Stifel,Not Provided,3.0,hold,-0.0
+2014-04-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-04-04,Wolfe Research,12 month,3.0,peerperform,65.0
+2014-04-07,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,76.0
+2014-04-07,Evercore ISI,12 month,3.0,neutral,72.0
+2014-04-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-04-10,Stifel,Not Provided,3.0,hold,-0.0
+2014-04-11,S&P Capital IQ,12 month,3.0,hold,76.0
+2014-04-11,Stifel,Not Provided,3.0,hold,-0.0
+2014-04-14,Baird,Not Provided,3.0,neutral,71.0
+2014-04-15,Wolfe Research,12 month,3.0,peerperform,65.0
+2014-04-16,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-04-17,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2014-04-20,Stifel,Not Provided,3.0,hold,-0.0
+2014-04-29,Stifel,Not Provided,3.0,hold,-0.0
+2014-05-02,Telsey Advisory Group,12 month,-2147483648.0,no rating system,76.0
+2014-05-06,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-05-09,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-05-12,Evercore ISI,12 month,3.0,neutral,72.0
+2014-05-13,Janney Montgomery Scott LLC,12 month,3.0,neutral,59.0
+2014-05-13,Baird,Not Provided,3.0,neutral,71.0
+2014-05-14,Jefferies,12 month,3.0,hold,58.0
+2014-05-14,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-05-15,Telsey Advisory Group,12 month,-2147483648.0,no rating system,76.0
+2014-05-21,UBS,12 month,3.0,neutral,62.0
+2014-05-21,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-05-21,Barclays,Not Provided,5.0,overweight,63.0
+2014-05-21,Jefferies,12 month,3.0,hold,55.0
+2014-05-21,Janney Montgomery Scott LLC,12 month,3.0,neutral,57.0
+2014-05-21,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-05-21,Wolfe Research,12 month,1.0,underperform,50.0
+2014-05-21,Oppenheimer & Co,12 month,3.0,market perform,58.0
+2014-05-21,Evercore ISI,12 month,3.0,neutral,60.0
+2014-05-21,Stifel,Not Provided,3.0,hold,-0.0
+2014-05-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-05-21,Baird,12 month,3.0,neutral,62.0
+2014-05-22,Goldman Sachs,12 month,3.0,neutral/neutral,62.0
+2014-05-22,Telsey Advisory Group,12 month,-2147483648.0,no rating system,61.0
+2014-05-22,RBC Capital Markets,12 month,5.0,outperform,66.0
+2014-05-22,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2014-05-22,Piper Jaffray,12 month,3.0,neutral,57.0
+2014-05-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-05-22,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-05-22,Needham & Co,Not Provided,3.0,hold,-0.0
+2014-05-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-05-26,Stifel,Not Provided,3.0,hold,-0.0
+2014-05-27,Credit Suisse,Not Provided,3.0,neutral,65.0
+2014-05-29,Evercore ISI,Not Provided,3.0,neutral,60.0
+2014-05-29,S&P Capital IQ,12 month,3.0,hold,64.0
+2014-06-05,Wolfe Research,Not Provided,1.0,underperform,50.0
+2014-06-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-06-09,Oppenheimer & Co,12 month,3.0,market perform,54.0
+2014-06-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-06-13,Baird,Not Provided,3.0,neutral,62.0
+2014-06-13,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-06-13,Credit Suisse,Not Provided,3.0,neutral,65.0
+2014-06-17,Stifel,Not Provided,3.0,hold,-0.0
+2014-06-17,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-06-19,Credit Suisse,Not Provided,3.0,neutral,65.0
+2014-06-19,Wedbush,12 month,3.0,neutral,60.0
+2014-06-20,J.P. Morgan,3 month,3.0,neutral,63.0
+2014-06-23,Morgan Stanley,12 month,1.0,Underwt/In-Line,60.0
+2014-06-25,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-06-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-06-26,Needham & Co,Not Provided,3.0,hold,-0.0
+2014-06-30,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-06-30,Wolfe Research,Not Provided,1.0,underperform,50.0
+2014-07-03,S&P Capital IQ,12 month,3.0,hold,73.0
+2014-07-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-07-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-03,Janney Montgomery Scott LLC,12 month,3.0,neutral,57.0
+2014-07-03,Jefferies,12 month,3.0,hold,55.0
+2014-07-06,Wolfe Research,12 month,1.0,underperform,50.0
+2014-07-07,Wedbush,12 month,3.0,neutral,64.0
+2014-07-07,RBC Capital Markets,12 month,5.0,outperform,66.0
+2014-07-07,Baird,12 month,3.0,neutral,62.0
+2014-07-07,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-07-07,Morgan Stanley,12 month,3.0,Equalwt/In-Line,71.0
+2014-07-07,Stifel,Not Provided,3.0,hold,-0.0
+2014-07-08,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-07-08,Piper Jaffray,12 month,3.0,neutral,57.0
+2014-07-08,Credit Suisse,Not Provided,3.0,neutral,65.0
+2014-07-09,Jefferies,12 month,3.0,hold,70.0
+2014-07-09,Wedbush,12 month,3.0,neutral,64.0
+2014-07-10,Makor Capital,12 month,5.0,buy,80.0
+2014-07-11,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-07-11,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2014-07-14,Credit Suisse,Not Provided,3.0,neutral,65.0
+2014-07-15,Morgan Stanley,12 month,3.0,Equalwt/In-Line,71.0
+2014-07-15,Stifel,Not Provided,3.0,hold,-0.0
+2014-07-16,Credit Suisse,Not Provided,3.0,neutral,65.0
+2014-07-17,RBC Capital Markets,12 month,3.0,sector perform,66.0
+2014-07-17,Evercore ISI,12 month,3.0,neutral,60.0
+2014-07-20,Stifel,Not Provided,3.0,hold,-0.0
+2014-07-21,Needham & Co,Not Provided,3.0,hold,-0.0
+2014-07-21,Telsey Advisory Group,12 month,-2147483648.0,no rating system,61.0
+2014-07-22,Wolfe Research,12 month,1.0,underperform,50.0
+2014-07-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-24,Janney Montgomery Scott LLC,12 month,3.0,neutral,57.0
+2014-07-29,Stifel,Not Provided,3.0,hold,-0.0
+2014-07-31,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-08-03,Stifel,Not Provided,3.0,hold,-0.0
+2014-08-08,Wolfe Research,12 month,1.0,underperform,50.0
+2014-08-10,Stifel,Not Provided,3.0,hold,-0.0
+2014-08-11,Telsey Advisory Group,12 month,-2147483648.0,no rating system,61.0
+2014-08-11,Evercore ISI,12 month,3.0,neutral,60.0
+2014-08-11,Janney Montgomery Scott LLC,12 month,3.0,neutral,57.0
+2014-08-12,Jefferies,Not Provided,3.0,hold,70.0
+2014-08-13,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2014-08-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-08-15,Wolfe Research,12 month,1.0,underperform,55.0
+2014-08-15,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-08-15,Wedbush,12 month,3.0,neutral,64.0
+2014-08-18,Baird,12 month,3.0,neutral,62.0
+2014-08-19,J.P. Morgan,Not Provided,-2147483648.0,Rating Suspended,-0.0
+2014-08-19,Stifel,Not Provided,3.0,hold,-0.0
+2014-08-19,Barclays,Not Provided,5.0,overweight,63.0
+2014-08-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-08-20,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-08-20,Piper Jaffray,12 month,3.0,neutral,67.0
+2014-08-20,UBS,12 month,3.0,neutral,71.0
+2014-08-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-08-20,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-08-20,Janney Montgomery Scott LLC,12 month,3.0,neutral,57.0
+2014-08-20,RBC Capital Markets,12 month,3.0,sector perform,65.0
+2014-08-20,Wolfe Research,12 month,1.0,underperform,55.0
+2014-08-20,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-08-20,Jefferies,12 month,3.0,hold,70.0
+2014-08-20,Morgan Stanley,12 month,3.0,Equalwt/In-Line,71.0
+2014-08-20,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2014-08-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-08-20,Baird,12 month,3.0,neutral,62.0
+2014-08-20,Credit Suisse,Not Provided,3.0,neutral,65.0
+2014-08-20,Evercore ISI,12 month,3.0,neutral,62.0
+2014-08-20,Stifel,Not Provided,3.0,hold,-0.0
+2014-08-21,Barclays,Not Provided,5.0,overweight,75.0
+2014-08-21,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-08-21,Goldman Sachs,12 month,3.0,neutral/neutral,68.0
+2014-08-21,Wedbush,12 month,3.0,neutral,64.0
+2014-08-21,Needham & Co,Not Provided,3.0,hold,-0.0
+2014-08-21,Telsey Advisory Group,12 month,-2147483648.0,no rating system,61.0
+2014-08-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-09-01,Stifel,Not Provided,3.0,hold,-0.0
+2014-09-02,Evercore ISI,12 month,3.0,neutral,62.0
+2014-09-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-09-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-11,Telsey Advisory Group,Not Provided,3.0,market perform,65.0
+2014-09-12,Baird,12 month,3.0,neutral,62.0
+2014-09-14,Stifel,Not Provided,3.0,hold,-0.0
+2014-09-15,Wedbush,12 month,3.0,neutral,64.0
+2014-09-19,Credit Suisse,Not Provided,3.0,neutral,65.0
+2014-09-24,Wedbush,12 month,3.0,neutral,64.0
+2014-09-28,Stifel,Not Provided,3.0,hold,-0.0
+2014-10-03,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2014-10-06,Barclays,Not Provided,3.0,equalweight,70.0
+2014-10-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-10-10,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-10-10,Evercore ISI,12 month,3.0,hold,62.0
+2014-10-15,Stifel,Not Provided,3.0,hold,-0.0
+2014-10-15,Credit Suisse,Not Provided,3.0,neutral,65.0
+2014-10-15,Wolfe Research,12 month,1.0,underperform,55.0
+2014-10-15,Baird,12 month,3.0,neutral,62.0
+2014-10-23,Stifel,Not Provided,3.0,hold,-0.0
+2014-10-24,Evercore ISI,12 month,3.0,hold,70.0
+2014-10-29,RBC Capital Markets,12 month,3.0,sector perform,65.0
+2014-10-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-11-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-11-10,Telsey Advisory Group,12 month,3.0,market perform,65.0
+2014-11-12,Wolfe Research,Not Provided,1.0,underperform,55.0
+2014-11-14,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-11-18,Credit Suisse,Not Provided,3.0,neutral,75.0
+2014-11-18,UBS,12 month,3.0,neutral,77.0
+2014-11-19,Jefferies,12 month,3.0,hold,78.0
+2014-11-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,76.0
+2014-11-19,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-11-19,Piper Jaffray,12 month,3.0,neutral,76.0
+2014-11-19,Wedbush,12 month,3.0,neutral,80.0
+2014-11-19,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-11-19,Wolfe Research,12 month,1.0,underperform,60.0
+2014-11-19,Telsey Advisory Group,12 month,3.0,market perform,80.0
+2014-11-19,Barclays,Not Provided,3.0,equalweight,72.0
+2014-11-19,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2014-11-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-11-19,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-11-19,Stifel,Not Provided,3.0,hold,-0.0
+2014-11-19,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-11-19,Baird,12 month,3.0,neutral,78.0
+2014-11-19,Janney Montgomery Scott LLC,12 month,3.0,neutral,70.0
+2014-11-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-19,Evercore ISI,12 month,3.0,hold,75.0
+2014-11-19,RBC Capital Markets,12 month,3.0,sector perform,70.0
+2014-11-20,RBC Capital Markets,12 month,3.0,sector perform,70.0
+2014-11-20,Needham & Co,Not Provided,3.0,hold,-0.0
+2014-11-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-24,Evercore ISI,Not Provided,3.0,hold,75.0
+2014-11-25,Wedbush,12 month,3.0,neutral,80.0
+2014-11-26,Goldman Sachs,12 month,3.0,neutral/neutral,77.0
+2014-12-04,Stifel,Not Provided,3.0,hold,-0.0
+2014-12-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-12-09,Wolfe Research,Not Provided,1.0,underperform,60.0
+2014-12-14,Stifel,Not Provided,3.0,hold,-0.0
+2014-12-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-12-15,Wolfe Research,Not Provided,-2147483648.0,suspended coverage,-0.0
+2014-12-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-15,Wedbush,12 month,3.0,neutral,83.0
+2014-12-15,Janney Montgomery Scott LLC,12 month,3.0,neutral,83.0
+2014-12-15,UBS,12 month,3.0,neutral,83.0
+2014-12-15,Barclays,Not Provided,-2147483648.0,suspended coverage,-0.0
+2014-12-15,Telsey Advisory Group,12 month,3.0,market perform,83.0
+2014-12-15,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-12-15,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-12-15,Baird,12 month,3.0,neutral,83.0
+2014-12-15,Evercore ISI,12 month,3.0,hold,75.0
+2014-12-15,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-12-15,Johnson Rice & Co,Not Provided,3.0,equalweight,-0.0
+2014-12-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-01-05,Piper Jaffray,Not Provided,3.0,neutral,76.0
+2015-01-09,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2015-01-14,Baird,Not Provided,3.0,neutral,83.0
+2015-01-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-01-22,Baird,Not Provided,3.0,neutral,83.0
+2015-01-23,Oppenheimer & Co,Not Provided,-2147483648.0,not rated,-0.0
+2015-02-01,Evercore ISI,Not Provided,3.0,hold,75.0
+2015-02-02,Johnson Rice & Co,Not Provided,3.0,hold,-0.0
+2015-02-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-02-09,Janney Montgomery Scott LLC,12 month,3.0,neutral,83.0
+2015-02-09,Johnson Rice & Co,Not Provided,3.0,hold,-0.0
+2015-02-09,Stifel,Not Provided,3.0,hold,-0.0
+2015-02-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-09,Telsey Advisory Group,12 month,3.0,market perform,83.0
+2015-02-09,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2015-02-10,Goldman Sachs,12 month,3.0,neutral/neutral,79.0
+2015-02-12,Baird,Not Provided,3.0,neutral,83.0
+2015-02-12,Evercore ISI,12 month,3.0,hold,83.0
+2015-02-17,Telsey Advisory Group,12 month,3.0,market perform,83.0
+2015-02-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-02-23,RBC Capital Markets,12 month,3.0,sector perform,83.0
+2015-02-24,Needham & Co,Not Provided,3.0,hold,-0.0
+2015-03-04,Telsey Advisory Group,12 month,3.0,market perform,83.0
+2015-03-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-04,Johnson Rice & Co,Not Provided,3.0,hold,-0.0
+2015-03-04,Stifel,Not Provided,3.0,hold,-0.0
+2015-03-04,RBC Capital Markets,12 month,3.0,sector perform,83.0
+2015-03-04,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-03-04,Evercore ISI,Not Provided,3.0,hold,-0.0
+2015-03-09,Northcoast Research,Not Provided,3.0,neutral,-0.0

@@ -1,0 +1,575 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-01-23,CM Research,Not Provided,1.0,sell,16.0
+2015-02-24,Jyske Bank,Not Provided,5.0,strong buy,28.0
+2015-05-12,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-07-29,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-08-04,Ascendiant Capital Markets,12 month,5.0,buy,33.0
+2015-08-04,UBS,12 month,5.0,buy,30.0
+2015-08-05,Barclays,Not Provided,5.0,overweight,30.0
+2015-08-05,Jefferies,12 month,5.0,buy,33.0
+2015-08-05,Atlantic Equities LLP,12 month,5.0,overweight,32.0
+2015-08-05,Pacific Crest Securities,12 month,5.0,overweight,30.0
+2015-08-05,Brean Capital LLC,12 month,5.0,buy,32.0
+2015-08-05,Credit Suisse,Not Provided,5.0,outperform,35.0
+2015-08-05,Macquarie,12 month,5.0,outperform,28.0
+2015-08-05,Wedbush,12 month,5.0,outperform,37.0
+2015-08-05,Baird,12 month,5.0,outperform,30.0
+2015-08-06,Benchmark Company LLC,12 month,5.0,buy,32.53
+2015-08-06,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-08-10,Stifel,12 month,5.0,buy,33.0
+2015-08-14,Piper Jaffray,12 month,5.0,overweight,33.0
+2015-08-18,Argus Research Corp,Not Provided,5.0,buy,34.0
+2015-08-24,Mizuho Securities USA Inc,Not Provided,5.0,buy,31.0
+2015-08-24,Cowen,12 month,5.0,outperform,28.0
+2015-08-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-31,MKM Partners,Not Provided,5.0,buy,32.0
+2015-08-31,Sterne Agee CRT,12 month,5.0,buy,32.0
+2015-09-01,Stifel,12 month,5.0,buy,33.0
+2015-09-08,MKM Partners,Not Provided,5.0,buy,32.0
+2015-09-08,Cowen,12 month,5.0,outperform,28.0
+2015-09-08,Sterne Agee CRT,Not Provided,5.0,buy,32.0
+2015-09-09,Argus Research Corp,Not Provided,5.0,buy,34.0
+2015-09-09,Cowen,Not Provided,5.0,outperform,28.0
+2015-09-11,Piper Jaffray,12 month,5.0,overweight,33.0
+2015-09-14,Stifel,12 month,5.0,buy,33.0
+2015-09-14,MKM Partners,Not Provided,5.0,buy,32.0
+2015-09-14,Sterne Agee CRT,12 month,5.0,buy,32.0
+2015-09-14,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-09-15,Barclays,Not Provided,5.0,overweight,35.0
+2015-09-17,Barclays,Not Provided,5.0,overweight,35.0
+2015-09-21,Stifel,12 month,5.0,buy,33.0
+2015-09-21,Cowen,12 month,5.0,outperform,28.0
+2015-09-21,MKM Partners,Not Provided,5.0,buy,32.0
+2015-09-22,Baird,12 month,5.0,outperform,36.0
+2015-09-22,Mizuho Securities USA Inc,Not Provided,5.0,buy,31.0
+2015-09-28,Cowen,12 month,5.0,outperform,35.0
+2015-09-28,Piper Jaffray,12 month,5.0,overweight,36.0
+2015-09-28,MKM Partners,Not Provided,5.0,buy,32.0
+2015-10-01,Atlantic Equities LLP,12 month,5.0,overweight,38.0
+2015-10-01,Stifel,12 month,5.0,buy,37.0
+2015-10-01,UBS,12 month,-2147483648.0,Under Review,30.0
+2015-10-05,Baird,Not Provided,5.0,outperform,36.0
+2015-10-05,MKM Partners,Not Provided,5.0,buy,32.0
+2015-10-05,Cowen,12 month,5.0,outperform,35.0
+2015-10-07,UBS,12 month,5.0,buy,36.0
+2015-10-12,MKM Partners,Not Provided,5.0,buy,32.0
+2015-10-13,Piper Jaffray,12 month,5.0,overweight,36.0
+2015-10-13,Cowen,12 month,5.0,outperform,35.0
+2015-10-19,MKM Partners,Not Provided,5.0,buy,32.0
+2015-10-20,Piper Jaffray,12 month,5.0,overweight,36.0
+2015-10-20,Cowen,12 month,5.0,outperform,35.0
+2015-10-21,Cowen,12 month,5.0,outperform,35.0
+2015-10-22,Credit Suisse,Not Provided,5.0,outperform,38.0
+2015-10-22,Jefferies,12 month,5.0,buy,33.0
+2015-10-22,Barclays,Not Provided,5.0,overweight,35.0
+2015-10-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-22,Pacific Crest Securities,12 month,5.0,overweight,30.0
+2015-10-26,Wedbush,12 month,5.0,outperform,37.0
+2015-10-26,MKM Partners,12 month,5.0,buy,38.0
+2015-10-26,Sterne Agee CRT,Not Provided,5.0,buy,39.0
+2015-10-27,Piper Jaffray,12 month,5.0,overweight,38.0
+2015-10-27,Benchmark Company LLC,12 month,5.0,buy,40.19
+2015-10-28,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-10-28,Stifel,12 month,5.0,buy,37.0
+2015-10-29,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-11-03,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-11-03,MKM Partners,12 month,5.0,buy,38.0
+2015-11-03,Jefferies,12 month,5.0,buy,33.0
+2015-11-03,Piper Jaffray,12 month,5.0,overweight,39.0
+2015-11-03,Mizuho Securities USA Inc,12 month,5.0,buy,42.0
+2015-11-03,Barclays,Not Provided,5.0,overweight,35.0
+2015-11-03,Cowen,12 month,5.0,outperform,35.0
+2015-11-03,Baird,12 month,5.0,outperform,38.0
+2015-11-03,Credit Suisse,Not Provided,5.0,outperform,40.0
+2015-11-03,Sterne Agee CRT,Not Provided,5.0,buy,39.0
+2015-11-03,Pacific Crest Securities,12 month,5.0,overweight,41.0
+2015-11-04,Benchmark Company LLC,12 month,5.0,buy,43.21
+2015-11-04,UBS,12 month,5.0,buy,40.0
+2015-11-04,Macquarie,12 month,5.0,outperform,36.0
+2015-11-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-05,Ascendiant Capital Markets,12 month,5.0,buy,46.0
+2015-11-06,Jefferies,12 month,5.0,buy,45.0
+2015-11-08,Stifel,12 month,5.0,buy,43.0
+2015-11-08,Mizuho Securities USA Inc,12 month,5.0,buy,42.0
+2015-11-08,Pacific Crest Securities,12 month,5.0,overweight,41.0
+2015-11-09,Baird,12 month,5.0,outperform,38.0
+2015-11-09,MKM Partners,Not Provided,5.0,buy,38.0
+2015-11-09,Wedbush,12 month,5.0,outperform,47.0
+2015-11-09,Barclays,Not Provided,5.0,overweight,40.0
+2015-11-09,Cowen,12 month,5.0,outperform,44.0
+2015-11-09,Credit Suisse,Not Provided,5.0,outperform,40.0
+2015-11-09,Piper Jaffray,12 month,5.0,overweight,42.0
+2015-11-09,Atlantic Equities LLP,12 month,5.0,overweight,45.0
+2015-11-09,Sterne Agee CRT,12 month,5.0,buy,39.0
+2015-11-11,Argus Research Corp,Not Provided,5.0,buy,41.0
+2015-11-11,Barclays,Not Provided,5.0,overweight,40.0
+2015-11-11,Sterne Agee CRT,12 month,5.0,buy,39.0
+2015-11-11,Mizuho Securities USA Inc,12 month,5.0,buy,42.0
+2015-11-13,Piper Jaffray,12 month,5.0,overweight,42.0
+2015-11-16,Cowen,12 month,5.0,outperform,44.0
+2015-11-16,MKM Partners,Not Provided,5.0,buy,38.0
+2015-11-20,MKM Partners,Not Provided,5.0,buy,38.0
+2015-11-22,Sterne Agee CRT,12 month,5.0,buy,39.0
+2015-11-24,Mizuho Securities USA Inc,Not Provided,5.0,buy,42.0
+2015-11-30,MKM Partners,Not Provided,5.0,buy,38.0
+2015-11-30,Cowen,12 month,5.0,outperform,44.0
+2015-12-01,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-12-02,Stifel,12 month,5.0,buy,43.0
+2015-12-07,MKM Partners,Not Provided,5.0,buy,38.0
+2015-12-07,Sterne Agee CRT,12 month,5.0,buy,39.0
+2015-12-09,Cowen,12 month,5.0,outperform,44.0
+2015-12-10,Pacific Crest Securities,12 month,5.0,overweight,41.0
+2015-12-11,Cowen,12 month,5.0,outperform,44.0
+2015-12-11,Piper Jaffray,12 month,5.0,overweight,42.0
+2015-12-14,MKM Partners,Not Provided,5.0,buy,38.0
+2015-12-21,MKM Partners,Not Provided,5.0,buy,38.0
+2015-12-28,Pacific Crest Securities,12 month,5.0,overweight,41.0
+2015-12-28,MKM Partners,Not Provided,5.0,buy,38.0
+2016-01-04,Baird,12 month,5.0,outperform,38.0
+2016-01-05,Sterne Agee CRT,12 month,5.0,buy,45.0
+2016-01-07,Cowen,Not Provided,5.0,outperform,44.0
+2016-01-08,MKM Partners,Not Provided,5.0,buy,38.0
+2016-01-11,Stifel,12 month,5.0,buy,43.0
+2016-01-12,UBS,12 month,5.0,buy,44.0
+2016-01-15,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-01-15,Cowen,12 month,5.0,outperform,44.0
+2016-01-15,MKM Partners,Not Provided,5.0,buy,38.0
+2016-01-19,Stifel,Not Provided,5.0,buy,43.0
+2016-01-19,Sterne Agee CRT,12 month,5.0,buy,45.0
+2016-01-20,Barclays,Not Provided,5.0,overweight,40.0
+2016-01-25,MKM Partners,Not Provided,5.0,buy,38.0
+2016-01-25,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-01-25,Cowen,12 month,5.0,outperform,44.0
+2016-01-25,Credit Suisse,Not Provided,5.0,outperform,41.0
+2016-01-26,Benchmark Company LLC,12 month,5.0,buy,43.07
+2016-01-27,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-01-27,Baird,Not Provided,5.0,outperform,38.0
+2016-01-27,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-02-01,MKM Partners,Not Provided,5.0,buy,38.0
+2016-02-01,Stifel,Not Provided,5.0,buy,43.0
+2016-02-04,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-04,Ascendiant Capital Markets,12 month,5.0,buy,46.0
+2016-02-05,Wedbush,12 month,5.0,outperform,47.0
+2016-02-07,Stifel,12 month,5.0,buy,43.0
+2016-02-08,Mizuho Securities USA Inc,12 month,5.0,buy,42.0
+2016-02-08,MKM Partners,Not Provided,5.0,buy,38.0
+2016-02-11,Pacific Crest Securities,12 month,5.0,overweight,36.0
+2016-02-12,Mizuho Securities USA Inc,12 month,5.0,buy,35.0
+2016-02-12,Piper Jaffray,12 month,5.0,overweight,39.0
+2016-02-12,Sterne Agee CRT,12 month,5.0,buy,45.0
+2016-02-12,Ascendiant Capital Markets,12 month,5.0,buy,38.0
+2016-02-12,Barclays,Not Provided,5.0,overweight,32.0
+2016-02-12,Atlantic Equities LLP,12 month,5.0,overweight,40.0
+2016-02-12,Cowen,12 month,5.0,outperform,44.0
+2016-02-12,UBS,12 month,5.0,buy,36.0
+2016-02-12,Credit Suisse,Not Provided,5.0,outperform,41.0
+2016-02-12,Baird,12 month,5.0,outperform,38.0
+2016-02-12,Jefferies,12 month,5.0,buy,45.0
+2016-02-12,Wedbush,12 month,5.0,outperform,40.0
+2016-02-12,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-12,Macquarie,12 month,5.0,outperform,33.0
+2016-02-12,Benchmark Company LLC,12 month,5.0,buy,37.63
+2016-02-15,Stifel,12 month,5.0,buy,35.0
+2016-02-16,Hilliard Lyons,12 month,5.0,buy,34.0
+2016-02-16,MKM Partners,Not Provided,5.0,buy,34.0
+2016-02-17,Mizuho Securities USA Inc,Not Provided,5.0,buy,35.0
+2016-02-22,MKM Partners,Not Provided,5.0,buy,34.0
+2016-02-24,Piper Jaffray,12 month,5.0,overweight,39.0
+2016-02-26,MKM Partners,Not Provided,5.0,buy,34.0
+2016-03-04,Argus Research Corp,Not Provided,5.0,buy,41.0
+2016-03-07,MKM Partners,Not Provided,5.0,buy,34.0
+2016-03-08,Cowen,12 month,5.0,outperform,44.0
+2016-03-11,Piper Jaffray,12 month,5.0,overweight,39.0
+2016-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-03-14,CM Research,Not Provided,1.0,sell,25.22
+2016-03-14,Sterne Agee CRT,12 month,5.0,buy,45.0
+2016-03-14,MKM Partners,Not Provided,5.0,buy,34.0
+2016-03-15,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-03-17,Atlantic Equities LLP,12 month,5.0,overweight,40.0
+2016-03-17,Barclays,Not Provided,5.0,overweight,35.0
+2016-03-20,Sterne Agee CRT,12 month,5.0,buy,45.0
+2016-03-21,Baird,12 month,5.0,outperform,38.0
+2016-03-21,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-03-21,Stifel,12 month,5.0,buy,35.0
+2016-03-21,MKM Partners,Not Provided,5.0,buy,34.0
+2016-03-25,Mizuho Securities USA Inc,Not Provided,5.0,buy,35.0
+2016-03-28,MKM Partners,Not Provided,5.0,buy,34.0
+2016-03-28,Stifel,12 month,5.0,buy,35.0
+2016-03-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-30,Hilliard Lyons,12 month,5.0,long-term buy,40.0
+2016-03-30,Piper Jaffray,12 month,5.0,overweight,39.0
+2016-04-01,Barclays,Not Provided,5.0,overweight,35.0
+2016-04-03,Sterne Agee CRT,12 month,5.0,buy,45.0
+2016-04-04,MKM Partners,Not Provided,5.0,buy,34.0
+2016-04-06,Cowen,Not Provided,5.0,outperform,44.0
+2016-04-08,MKM Partners,Not Provided,5.0,buy,34.0
+2016-04-12,Cowen,Not Provided,5.0,outperform,44.0
+2016-04-13,Stifel,12 month,5.0,buy,40.0
+2016-04-15,Cowen,Not Provided,5.0,outperform,44.0
+2016-04-15,Mizuho Securities USA Inc,Not Provided,5.0,buy,35.0
+2016-04-15,Piper Jaffray,12 month,5.0,overweight,39.0
+2016-04-18,MKM Partners,Not Provided,5.0,buy,34.0
+2016-04-19,Jefferies,12 month,5.0,buy,45.0
+2016-04-20,Barclays,Not Provided,5.0,overweight,35.0
+2016-04-25,MKM Partners,Not Provided,5.0,buy,34.0
+2016-04-25,Sterne Agee CRT,Not Provided,5.0,buy,45.0
+2016-04-26,Piper Jaffray,12 month,5.0,overweight,39.0
+2016-04-26,BMO Capital Markets,Not Provided,3.0,market perform,32.0
+2016-05-02,Cowen,12 month,5.0,outperform,44.0
+2016-05-02,Wedbush,12 month,5.0,outperform,40.0
+2016-05-02,Pacific Crest Securities,12 month,5.0,overweight,36.0
+2016-05-03,MKM Partners,12 month,5.0,buy,38.0
+2016-05-03,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-05-03,Piper Jaffray,12 month,5.0,overweight,39.0
+2016-05-04,Credit Suisse,Not Provided,5.0,outperform,41.0
+2016-05-04,Baird,12 month,5.0,outperform,38.0
+2016-05-05,Pacific Crest Securities,12 month,5.0,overweight,41.0
+2016-05-05,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-05-05,Jefferies,12 month,5.0,buy,45.0
+2016-05-06,UBS,12 month,5.0,buy,42.0
+2016-05-06,Wedbush,12 month,5.0,outperform,43.0
+2016-05-06,Atlantic Equities LLP,12 month,5.0,overweight,46.0
+2016-05-06,Mizuho Securities USA Inc,12 month,5.0,buy,42.0
+2016-05-06,Baird,12 month,5.0,outperform,42.0
+2016-05-06,Macquarie,12 month,5.0,outperform,36.0
+2016-05-06,Credit Suisse,Not Provided,5.0,outperform,43.0
+2016-05-06,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-05-06,Barclays,Not Provided,5.0,overweight,38.0
+2016-05-06,BMO Capital Markets,Not Provided,3.0,market perform,34.0
+2016-05-06,Ascendiant Capital Markets,12 month,5.0,buy,48.0
+2016-05-09,Hilliard Lyons,12 month,5.0,long-term buy,45.0
+2016-05-09,Stifel,12 month,5.0,buy,45.0
+2016-05-10,Cowen,12 month,5.0,outperform,44.0
+2016-05-10,Sterne Agee CRT,12 month,5.0,buy,45.0
+2016-05-10,MKM Partners,12 month,5.0,buy,40.0
+2016-05-12,Mizuho Securities USA Inc,Not Provided,5.0,buy,42.0
+2016-05-12,Baird,12 month,5.0,outperform,42.0
+2016-05-13,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-05-13,Barclays,Not Provided,5.0,overweight,38.0
+2016-05-13,Cowen,12 month,5.0,outperform,44.0
+2016-05-13,MKM Partners,12 month,5.0,buy,40.0
+2016-05-15,Sterne Agee CRT,12 month,5.0,buy,45.0
+2016-05-17,Argus Research Corp,Not Provided,5.0,buy,48.0
+2016-05-20,BMO Capital Markets,Not Provided,3.0,market perform,34.0
+2016-05-20,Jefferies,Not Provided,5.0,buy,45.0
+2016-05-23,MKM Partners,Not Provided,5.0,buy,40.0
+2016-05-24,Barclays,Not Provided,5.0,overweight,38.0
+2016-05-25,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-05-25,Macquarie,12 month,5.0,outperform,40.0
+2016-05-26,Jefferies,12 month,5.0,buy,45.0
+2016-05-31,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-05-31,MKM Partners,Not Provided,5.0,buy,40.0
+2016-06-02,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-06-02,Sterne Agee CRT,12 month,5.0,buy,45.0
+2016-06-02,Mizuho Securities USA Inc,12 month,5.0,buy,42.0
+2016-06-02,Pacific Crest Securities,12 month,5.0,overweight,43.0
+2016-06-02,Stifel,12 month,5.0,buy,45.0
+2016-06-03,Baird,12 month,5.0,outperform,42.0
+2016-06-06,MKM Partners,Not Provided,5.0,buy,40.0
+2016-06-07,Barclays,Not Provided,5.0,overweight,38.0
+2016-06-07,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-06-08,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-06-09,Cowen,Not Provided,5.0,outperform,44.0
+2016-06-09,Mizuho Securities USA Inc,12 month,5.0,buy,42.0
+2016-06-10,Cowen,Not Provided,5.0,outperform,44.0
+2016-06-15,Mizuho Securities USA Inc,12 month,5.0,buy,42.0
+2016-06-15,Pacific Crest Securities,12 month,5.0,overweight,43.0
+2016-06-15,Wedbush,Not Provided,5.0,outperform,43.0
+2016-06-16,Baird,Not Provided,5.0,outperform,43.0
+2016-06-16,MKM Partners,12 month,5.0,buy,40.0
+2016-06-16,Barclays,Not Provided,5.0,overweight,42.0
+2016-06-16,BMO Capital Markets,Not Provided,3.0,market perform,34.0
+2016-06-16,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-06-17,Baird,12 month,5.0,outperform,43.0
+2016-06-17,Cowen,12 month,5.0,outperform,44.0
+2016-06-17,Atlantic Equities LLP,12 month,5.0,overweight,46.0
+2016-06-20,MKM Partners,Not Provided,5.0,buy,40.0
+2016-06-20,Stifel,12 month,5.0,buy,45.0
+2016-06-21,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-06-23,Pacific Crest Securities,12 month,5.0,overweight,43.0
+2016-06-27,Stifel,12 month,5.0,buy,45.0
+2016-06-27,MKM Partners,Not Provided,5.0,buy,40.0
+2016-06-30,Baird,12 month,5.0,outperform,43.0
+2016-06-30,Cowen,12 month,5.0,outperform,44.0
+2016-07-04,Wedbush,12 month,5.0,outperform,43.0
+2016-07-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-08,Cowen,Not Provided,5.0,outperform,44.0
+2016-07-08,MKM Partners,Not Provided,5.0,buy,40.0
+2016-07-11,BMO Capital Markets,Not Provided,3.0,market perform,34.0
+2016-07-12,Atlantic Equities LLP,12 month,5.0,overweight,46.0
+2016-07-14,Baird,12 month,5.0,outperform,43.0
+2016-07-15,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-07-15,MKM Partners,Not Provided,5.0,buy,40.0
+2016-07-15,Mizuho Securities USA Inc,Not Provided,5.0,buy,42.0
+2016-07-15,Cowen,Not Provided,5.0,outperform,44.0
+2016-07-17,Pacific Crest Securities,Not Provided,5.0,overweight,43.0
+2016-07-18,Barclays,Not Provided,5.0,overweight,42.0
+2016-07-18,UBS,12 month,5.0,buy,50.0
+2016-07-19,Cowen,Not Provided,5.0,outperform,44.0
+2016-07-22,MKM Partners,Not Provided,5.0,buy,40.0
+2016-07-26,Baird,Not Provided,5.0,outperform,43.0
+2016-07-27,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-07-27,Jefferies,Not Provided,5.0,buy,45.0
+2016-07-27,Stifel,12 month,5.0,buy,45.0
+2016-07-29,MKM Partners,Not Provided,3.0,neutral,42.0
+2016-07-29,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-07-29,Pacific Crest Securities,12 month,5.0,overweight,43.0
+2016-08-04,Pacific Crest Securities,12 month,5.0,overweight,45.0
+2016-08-05,Stifel,12 month,5.0,buy,45.0
+2016-08-05,Barclays,Not Provided,5.0,overweight,45.0
+2016-08-05,Baird,12 month,5.0,outperform,46.0
+2016-08-05,Mizuho Securities USA Inc,12 month,5.0,buy,46.0
+2016-08-05,Cowen,12 month,5.0,outperform,45.0
+2016-08-05,Piper Jaffray,12 month,5.0,overweight,46.0
+2016-08-05,MKM Partners,12 month,3.0,neutral,44.0
+2016-08-05,Hilliard Lyons,12 month,5.0,long-term buy,49.0
+2016-08-05,Atlantic Equities LLP,12 month,5.0,overweight,49.0
+2016-08-05,UBS,12 month,5.0,buy,52.0
+2016-08-05,Jefferies,12 month,5.0,buy,55.0
+2016-08-05,Wedbush,12 month,5.0,outperform,48.0
+2016-08-05,BMO Capital Markets,Not Provided,3.0,market perform,38.0
+2016-08-05,Credit Suisse,Not Provided,5.0,outperform,47.0
+2016-08-07,Stifel,12 month,5.0,buy,46.0
+2016-08-08,MKM Partners,Not Provided,3.0,neutral,44.0
+2016-08-10,Macquarie,12 month,5.0,outperform,44.0
+2016-08-11,Mizuho Securities USA Inc,Not Provided,5.0,buy,46.0
+2016-08-12,Cowen,12 month,5.0,outperform,45.0
+2016-08-12,Piper Jaffray,12 month,5.0,overweight,46.0
+2016-08-15,Stifel,12 month,5.0,buy,46.0
+2016-08-16,Jefferies,12 month,5.0,buy,55.0
+2016-08-22,Piper Jaffray,12 month,5.0,overweight,46.0
+2016-08-22,Cowen,Not Provided,5.0,outperform,45.0
+2016-08-24,Argus Research Corp,Not Provided,5.0,buy,48.0
+2016-08-25,Mizuho Securities USA Inc,Not Provided,5.0,buy,46.0
+2016-08-26,MKM Partners,Not Provided,3.0,neutral,44.0
+2016-08-29,Baird,12 month,5.0,outperform,46.0
+2016-08-29,Stifel,12 month,5.0,buy,46.0
+2016-09-02,MKM Partners,Not Provided,3.0,neutral,44.0
+2016-09-06,Barclays,Not Provided,5.0,overweight,45.0
+2016-09-06,Baird,12 month,5.0,outperform,46.0
+2016-09-07,Argus Research Corp,Not Provided,5.0,buy,48.0
+2016-09-08,Mizuho Securities USA Inc,Not Provided,5.0,buy,48.0
+2016-09-09,Cowen,12 month,5.0,outperform,45.0
+2016-09-09,Piper Jaffray,12 month,5.0,overweight,46.0
+2016-09-12,MKM Partners,Not Provided,3.0,neutral,44.0
+2016-09-12,Stifel,12 month,5.0,buy,46.0
+2016-09-15,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-09-15,Piper Jaffray,12 month,5.0,overweight,46.0
+2016-09-19,Cowen,Not Provided,5.0,outperform,45.0
+2016-09-19,MKM Partners,Not Provided,3.0,neutral,44.0
+2016-09-21,Benchmark Company LLC,12 month,5.0,buy,49.79
+2016-09-21,Macquarie,12 month,5.0,outperform,44.0
+2016-09-23,BMO Capital Markets,Not Provided,3.0,market perform,38.0
+2016-09-23,Jefferies,12 month,5.0,buy,55.0
+2016-09-23,Morgan Stanley,12 month,5.0,Overwt/In-Line,56.0
+2016-09-23,MKM Partners,Not Provided,3.0,neutral,44.0
+2016-09-26,Stifel,12 month,5.0,buy,46.0
+2016-09-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-03,Stifel,12 month,5.0,buy,46.0
+2016-10-03,Cowen,Not Provided,5.0,outperform,49.0
+2016-10-03,Jefferies,Not Provided,5.0,buy,55.0
+2016-10-03,MKM Partners,Not Provided,3.0,neutral,44.0
+2016-10-07,Cowen,Not Provided,5.0,outperform,49.0
+2016-10-10,MKM Partners,Not Provided,3.0,neutral,44.0
+2016-10-10,Stifel,12 month,5.0,buy,46.0
+2016-10-12,BMO Capital Markets,Not Provided,3.0,market perform,38.0
+2016-10-13,Barclays,Not Provided,5.0,overweight,45.0
+2016-10-13,Mizuho Securities USA Inc,Not Provided,5.0,buy,48.0
+2016-10-13,Oppenheimer & Co,18 month,5.0,outperform,53.0
+2016-10-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-14,Piper Jaffray,12 month,5.0,overweight,51.0
+2016-10-17,MKM Partners,Not Provided,3.0,neutral,44.0
+2016-10-17,Cowen,Not Provided,5.0,outperform,49.0
+2016-10-20,Baird,12 month,5.0,outperform,46.0
+2016-10-20,Mizuho Securities USA Inc,Not Provided,5.0,buy,48.0
+2016-10-21,MKM Partners,Not Provided,3.0,neutral,44.0
+2016-10-24,Piper Jaffray,12 month,5.0,overweight,51.0
+2016-10-24,Stifel,12 month,5.0,buy,46.0
+2016-10-26,Wedbush,12 month,5.0,outperform,48.0
+2016-10-26,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-10-27,Credit Suisse,Not Provided,5.0,outperform,50.0
+2016-10-28,Cowen,Not Provided,5.0,outperform,49.0
+2016-10-31,Stifel,12 month,5.0,buy,46.0
+2016-10-31,MKM Partners,Not Provided,3.0,neutral,44.0
+2016-11-04,Cowen,12 month,5.0,outperform,51.0
+2016-11-04,Macquarie,12 month,5.0,outperform,46.0
+2016-11-04,Oppenheimer & Co,12 month,5.0,outperform,53.0
+2016-11-04,Hilliard Lyons,12 month,5.0,long-term buy,49.0
+2016-11-04,Piper Jaffray,12 month,5.0,overweight,51.0
+2016-11-04,Credit Suisse,Not Provided,5.0,outperform,50.0
+2016-11-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-04,Wedbush,12 month,5.0,outperform,53.0
+2016-11-04,Atlantic Equities LLP,12 month,5.0,overweight,56.0
+2016-11-06,BMO Capital Markets,Not Provided,3.0,market perform,42.0
+2016-11-06,Mizuho Securities USA Inc,12 month,5.0,buy,48.0
+2016-11-07,Stifel,12 month,5.0,buy,46.0
+2016-11-07,Jefferies,12 month,5.0,buy,55.0
+2016-11-07,MKM Partners,Not Provided,3.0,neutral,46.0
+2016-11-07,Morgan Stanley,12 month,5.0,Overwt/In-Line,56.0
+2016-11-07,Benchmark Company LLC,12 month,5.0,buy,50.87
+2016-11-07,Barclays,Not Provided,5.0,overweight,50.0
+2016-11-07,Baird,12 month,5.0,outperform,50.0
+2016-11-08,Oppenheimer & Co,12 month,5.0,outperform,53.0
+2016-11-10,Mizuho Securities USA Inc,12 month,5.0,buy,48.0
+2016-11-11,Piper Jaffray,12 month,5.0,overweight,51.0
+2016-11-12,Ascendiant Capital Markets,12 month,5.0,buy,48.0
+2016-11-14,MKM Partners,Not Provided,3.0,neutral,46.0
+2016-11-14,Cowen,Not Provided,5.0,outperform,51.0
+2016-11-15,Argus Research Corp,Not Provided,5.0,buy,48.0
+2016-11-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,56.0
+2016-11-21,MKM Partners,Not Provided,3.0,neutral,46.0
+2016-11-22,Baird,Not Provided,5.0,outperform,50.0
+2016-11-22,BMO Capital Markets,Not Provided,3.0,market perform,40.0
+2016-11-23,Barclays,Not Provided,5.0,overweight,50.0
+2016-11-23,Atlantic Equities LLP,12 month,5.0,overweight,56.0
+2016-11-23,Mizuho Securities USA Inc,Not Provided,5.0,buy,48.0
+2016-11-28,Cowen,Not Provided,5.0,outperform,51.0
+2016-11-28,Stifel,12 month,5.0,buy,46.0
+2016-11-29,Piper Jaffray,12 month,5.0,overweight,51.0
+2016-11-30,Jefferies,12 month,5.0,buy,55.0
+2016-12-05,MKM Partners,Not Provided,3.0,neutral,46.0
+2016-12-06,Cowen,12 month,5.0,outperform,51.0
+2016-12-06,Piper Jaffray,12 month,5.0,overweight,51.0
+2016-12-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-08,Baird,12 month,5.0,outperform,47.0
+2016-12-08,Mizuho Securities USA Inc,Not Provided,5.0,buy,48.0
+2016-12-09,MKM Partners,Not Provided,3.0,neutral,46.0
+2016-12-09,Piper Jaffray,12 month,5.0,overweight,51.0
+2016-12-09,Cowen,12 month,5.0,outperform,51.0
+2016-12-12,BMO Capital Markets,Not Provided,3.0,market perform,40.0
+2016-12-13,Stifel,12 month,5.0,buy,45.0
+2016-12-14,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-12-16,Barclays,Not Provided,5.0,overweight,44.0
+2016-12-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-12-19,MKM Partners,12 month,3.0,neutral,46.0
+2016-12-19,UBS,12 month,5.0,buy,45.0
+2016-12-26,Mizuho Securities USA Inc,Not Provided,5.0,buy,48.0
+2017-01-03,Piper Jaffray,12 month,5.0,overweight,51.0
+2017-01-04,Cowen,12 month,5.0,outperform,51.0
+2017-01-06,Morgan Stanley,12 month,5.0,Overwt/In-Line,52.0
+2017-01-09,MKM Partners,Not Provided,3.0,neutral,46.0
+2017-01-09,Mizuho Securities USA Inc,Not Provided,5.0,buy,48.0
+2017-01-11,Cowen,Not Provided,5.0,outperform,51.0
+2017-01-12,BMO Capital Markets,Not Provided,3.0,market perform,40.0
+2017-01-13,Cowen,Not Provided,5.0,outperform,51.0
+2017-01-13,Mizuho Securities USA Inc,Not Provided,5.0,buy,45.0
+2017-01-17,Barclays,Not Provided,5.0,overweight,44.0
+2017-01-20,MKM Partners,Not Provided,3.0,neutral,46.0
+2017-01-20,Piper Jaffray,12 month,5.0,overweight,51.0
+2017-01-23,Stifel,Not Provided,5.0,buy,45.0
+2017-01-24,Piper Jaffray,12 month,5.0,overweight,51.0
+2017-01-26,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-01-27,MKM Partners,Not Provided,3.0,neutral,46.0
+2017-01-29,Wedbush,12 month,5.0,outperform,53.0
+2017-01-30,Stifel,Not Provided,5.0,buy,45.0
+2017-01-31,Macquarie,12 month,5.0,outperform,46.0
+2017-01-31,Jefferies,12 month,5.0,buy,55.0
+2017-01-31,Credit Suisse,Not Provided,5.0,outperform,48.0
+2017-02-03,MKM Partners,12 month,3.0,neutral,40.0
+2017-02-03,Benchmark Company LLC,12 month,5.0,buy,53.9
+2017-02-09,Oppenheimer & Co,12 month,5.0,outperform,53.0
+2017-02-10,Morgan Stanley,12 month,5.0,Overwt/In-Line,54.0
+2017-02-10,BMO Capital Markets,Not Provided,3.0,market perform,42.0
+2017-02-10,Credit Suisse,Not Provided,5.0,outperform,51.0
+2017-02-10,Cowen,12 month,5.0,outperform,51.0
+2017-02-10,MKM Partners,12 month,3.0,neutral,44.0
+2017-02-10,Piper Jaffray,12 month,5.0,overweight,51.0
+2017-02-10,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2017-02-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-10,Atlantic Equities LLP,12 month,5.0,overweight,56.0
+2017-02-10,Macquarie,12 month,5.0,outperform,48.0
+2017-02-10,Mizuho Securities USA Inc,12 month,5.0,buy,50.0
+2017-02-10,Barclays,Not Provided,5.0,overweight,48.0
+2017-02-10,UBS,12 month,5.0,buy,48.0
+2017-02-10,Benchmark Company LLC,12 month,5.0,buy,53.96
+2017-02-10,Stifel,12 month,5.0,buy,45.0
+2017-02-10,Baird,12 month,5.0,outperform,47.0
+2017-02-10,Jefferies,12 month,5.0,buy,55.0
+2017-02-12,Stifel,12 month,5.0,buy,53.0
+2017-02-12,Ascendiant Capital Markets,12 month,5.0,buy,57.0
+2017-02-13,CM Research,Not Provided,5.0,buy,47.68
+2017-02-13,Hilliard Lyons,Not Provided,1.0,underperform,-0.0
+2017-02-15,Argus Research Corp,Not Provided,5.0,buy,53.0
+2017-02-17,MKM Partners,Not Provided,3.0,neutral,44.0
+2017-02-23,Wedbush,Not Provided,5.0,outperform,53.0
+2017-02-27,MKM Partners,Not Provided,3.0,neutral,44.0
+2017-03-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-01,Piper Jaffray,12 month,5.0,overweight,51.0
+2017-03-06,MKM Partners,Not Provided,3.0,neutral,44.0
+2017-03-06,Cowen,Not Provided,5.0,outperform,51.0
+2017-03-10,Piper Jaffray,12 month,5.0,overweight,51.0
+2017-03-13,MKM Partners,Not Provided,3.0,neutral,44.0
+2017-03-20,MKM Partners,Not Provided,3.0,neutral,44.0
+2017-03-20,Wedbush,Not Provided,5.0,outperform,53.0
+2017-03-22,Macquarie,12 month,5.0,outperform,48.0
+2017-03-23,UBS,12 month,-2147483648.0,Under Review,48.0
+2017-03-24,Piper Jaffray,12 month,5.0,overweight,51.0
+2017-03-26,Morgan Stanley,12 month,5.0,Overwt/In-Line,55.0
+2017-03-27,MKM Partners,Not Provided,3.0,neutral,44.0
+2017-03-28,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-03-28,Cowen,12 month,5.0,outperform,51.0
+2017-03-29,UBS,12 month,5.0,buy,57.0
+2017-03-30,Morgan Stanley,12 month,5.0,Overwt/In-Line,55.0
+2017-03-31,Jefferies,Not Provided,5.0,buy,55.0
+2017-04-03,MKM Partners,Not Provided,3.0,neutral,44.0
+2017-04-05,Cowen,Not Provided,5.0,outperform,51.0
+2017-04-06,Baird,12 month,5.0,outperform,47.0
+2017-04-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-07,MKM Partners,Not Provided,3.0,neutral,44.0
+2017-04-11,BMO Capital Markets,Not Provided,3.0,market perform,42.0
+2017-04-11,Barclays,Not Provided,5.0,overweight,48.0
+2017-04-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,55.0
+2017-04-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-17,MKM Partners,Not Provided,3.0,neutral,44.0
+2017-04-17,Piper Jaffray,12 month,5.0,overweight,55.0
+2017-04-18,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2017-04-19,Consumer Edge Research,12 month,3.0,equalweight,48.0
+2017-04-24,MKM Partners,Not Provided,3.0,neutral,44.0
+2017-04-24,Wedbush,Not Provided,5.0,outperform,53.0
+2017-04-24,Macquarie,12 month,5.0,outperform,48.0
+2017-04-25,Pacific Crest Securities,12 month,5.0,overweight,60.0
+2017-04-27,Credit Suisse,Not Provided,5.0,outperform,61.0
+2017-04-28,Atlantic Equities LLP,12 month,5.0,overweight,56.0
+2017-04-28,Consumer Edge Research,12 month,3.0,equalweight,48.0
+2017-04-28,Wedbush,12 month,5.0,outperform,53.0
+2017-05-01,Benchmark Company LLC,12 month,5.0,buy,57.88
+2017-05-01,Macquarie,12 month,5.0,outperform,48.0
+2017-05-01,Piper Jaffray,12 month,5.0,overweight,55.0
+2017-05-01,Pacific Crest Securities,12 month,5.0,overweight,60.0
+2017-05-02,Baird,12 month,5.0,outperform,47.0
+2017-05-02,Stifel,12 month,5.0,buy,59.0
+2017-05-02,MKM Partners,Not Provided,3.0,neutral,48.0
+2017-05-02,Mizuho Securities USA Inc,12 month,5.0,buy,50.0
+2017-05-03,Morgan Stanley,12 month,5.0,Overwt/In-Line,57.0
+2017-05-04,Baird,12 month,5.0,outperform,60.0
+2017-05-04,Pacific Crest Securities,12 month,5.0,overweight,60.0
+2017-05-04,Consumer Edge Research,12 month,3.0,equalweight,50.0
+2017-05-05,Mizuho Securities USA Inc,12 month,5.0,buy,58.0
+2017-05-05,Jefferies,12 month,5.0,buy,68.0
+2017-05-05,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2017-05-05,UBS,12 month,5.0,buy,60.0
+2017-05-05,Credit Suisse,Not Provided,5.0,outperform,62.0
+2017-05-05,Atlantic Equities LLP,12 month,5.0,overweight,62.0
+2017-05-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-05,Piper Jaffray,12 month,5.0,overweight,60.0
+2017-05-05,Cowen,Not Provided,5.0,outperform,59.0
+2017-05-05,Wedbush,12 month,5.0,outperform,62.5
+2017-05-05,Oppenheimer & Co,12 month,5.0,outperform,60.0
+2017-05-05,Macquarie,12 month,5.0,outperform,58.0
+2017-05-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-07,Stifel,12 month,5.0,buy,60.0
+2017-05-07,Ascendiant Capital Markets,12 month,5.0,buy,64.0
+2017-05-08,MKM Partners,Not Provided,3.0,neutral,50.0
+2017-05-09,Hilliard Lyons,Not Provided,1.0,underperform,-0.0
+2017-05-11,Consumer Edge Research,12 month,3.0,equalweight,50.0
+2017-05-11,Cowen,Not Provided,5.0,outperform,59.0
+2017-05-12,Wedbush,Not Provided,5.0,outperform,63.0
+2017-05-15,MKM Partners,Not Provided,3.0,neutral,50.0
+2017-05-15,Piper Jaffray,12 month,5.0,overweight,60.0
+2017-05-19,Macquarie,12 month,5.0,outperform,58.0
+2017-05-19,Macquarie,Not Provided,5.0,outperform,58.0
+2017-05-19,MKM Partners,Not Provided,3.0,neutral,50.0
+2017-05-22,MKM Partners,Not Provided,3.0,neutral,50.0
+2017-05-22,Argus Research Corp,12 month,5.0,buy,65.0
+2017-05-22,Pacific Crest Securities,12 month,5.0,overweight,60.0
+2017-05-22,Argus Research Corp,Not Provided,5.0,buy,65.0

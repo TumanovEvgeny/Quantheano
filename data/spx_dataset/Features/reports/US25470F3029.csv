@@ -1,0 +1,82 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2014-01-23,Topeka Capital Markets Inc,12 month,5.0,buy,45.5
+2014-05-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-08-01,Guggenheim Securities,12 month,3.0,neutral,46.0
+2014-08-11,Cowen,12 month,3.0,market perform,40.0
+2014-08-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-03,Topeka Capital Markets Inc,12 month,5.0,buy,48.0
+2014-09-04,Topeka Capital Markets Inc,12 month,5.0,buy,48.0
+2014-09-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-09,Guggenheim Securities,12 month,3.0,neutral,45.0
+2014-09-30,Guggenheim Securities,12 month,3.0,neutral,42.0
+2014-09-30,Cowen,Not Provided,3.0,market perform,40.0
+2014-10-01,Jefferies,12 month,3.0,hold,41.5
+2014-10-08,Guggenheim Securities,Not Provided,3.0,neutral,42.0
+2014-10-13,Jefferies,Not Provided,3.0,hold,36.0
+2014-10-13,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-10-16,Guggenheim Securities,Not Provided,3.0,neutral,37.0
+2014-10-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-24,Cowen,Not Provided,3.0,market perform,34.0
+2014-11-04,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-11-05,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2014-12-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-05,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-12-11,Cowen,Not Provided,3.0,market perform,33.0
+2014-12-18,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2015-01-12,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2015-01-13,Jefferies,Not Provided,3.0,hold,34.0
+2015-01-16,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-01-28,Cowen,Not Provided,3.0,market perform,32.0
+2015-02-20,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-03-05,Cowen,Not Provided,3.0,market perform,30.0
+2015-03-12,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2015-03-31,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2015-04-14,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2015-04-17,Cowen,Not Provided,3.0,market perform,30.0
+2015-04-28,Cowen,Not Provided,3.0,market perform,30.0
+2015-05-06,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2015-05-13,Cowen,Not Provided,3.0,market perform,30.0
+2015-07-10,Jefferies,Not Provided,3.0,hold,34.0
+2015-07-13,Topeka Capital Markets Inc,12 month,5.0,buy,41.0
+2015-07-14,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2015-07-24,Cowen,Not Provided,3.0,market perform,30.0
+2015-08-07,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-08-21,Cowen,Not Provided,3.0,market perform,27.0
+2015-09-23,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2015-09-29,Cowen,Not Provided,3.0,market perform,27.0
+2015-10-06,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2015-11-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-11-03,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2015-11-09,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-08,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-22,Cowen,Not Provided,3.0,market perform,27.0
+2016-02-02,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-02-18,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-19,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-02-22,Topeka Capital Markets Inc,12 month,5.0,buy,37.0
+2016-04-19,Cowen,Not Provided,3.0,market perform,24.0
+2016-04-25,Topeka Capital Markets Inc,12 month,3.0,hold,30.0
+2016-05-05,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-05-25,Cowen,Not Provided,3.0,market perform,24.0
+2016-05-26,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-07-08,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-07-27,Cowen,Not Provided,3.0,market perform,24.0
+2016-08-19,Cowen,12 month,3.0,market perform,26.0
+2016-09-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-09-27,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-10-06,Cowen,Not Provided,3.0,market perform,26.0
+2016-10-07,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-10-30,Cowen,Not Provided,3.0,market perform,26.0
+2016-11-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-12-07,Cowen,Not Provided,3.0,market perform,26.0
+2016-12-21,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-01-23,Cowen,Not Provided,3.0,market perform,29.0
+2017-02-14,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-02-15,Guggenheim Securities,Not Provided,3.0,neutral,29.0
+2017-02-24,Cowen,Not Provided,3.0,market perform,29.0
+2017-04-06,Guggenheim Securities,Not Provided,3.0,neutral,29.0
+2017-04-17,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-05-03,Cowen,Not Provided,3.0,market perform,29.0
+2017-05-09,Guggenheim Securities,Not Provided,3.0,neutral,29.0
+2017-05-10,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-05-18,Cowen,Not Provided,3.0,market perform,29.0

@@ -1,0 +1,1937 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2006-03-24,Stephens Inc,Not Provided,5.0,overweight,-0.0
+2007-04-02,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-05-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-05-09,D.A. Davidson & Co,18 month,5.0,buy,133.0
+2007-05-09,UBS,12 month,5.0,buy 2,130.0
+2007-05-09,Benchmark Company LLC,Not Provided,5.0,buy,125.0
+2007-05-10,JSA Research Inc,Not Provided,5.0,buy,-0.0
+2007-05-10,Cowen,Not Provided,5.0,outperform,-0.0
+2007-05-10,Jefferies,Not Provided,5.0,buy,127.0
+2007-05-10,Credit Suisse,12 month,5.0,outperform,121.0
+2007-05-18,Wells Fargo Securities,Not Provided,5.0,outperform,127.5
+2007-06-15,Benchmark Company LLC,Not Provided,5.0,buy,125.0
+2007-06-27,UBS,12 month,5.0,buy 2,138.0
+2007-06-29,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-07-13,Credit Suisse,12 month,5.0,outperform,127.0
+2007-07-24,D.A. Davidson & Co,18 month,5.0,buy,160.0
+2007-07-25,Credit Suisse,12 month,5.0,outperform,152.0
+2007-07-25,UBS,12 month,5.0,buy,155.0
+2007-07-25,Jefferies,Not Provided,5.0,buy,144.0
+2007-07-25,Stephens Inc,Not Provided,5.0,overweight,160.0
+2007-07-25,JSA Research Inc,Not Provided,5.0,buy,166.0
+2007-07-25,Wells Fargo Securities,Not Provided,5.0,outperform,152.5
+2007-07-26,Jesup & Lamont,Not Provided,5.0,buy,160.0
+2007-08-29,Jesup & Lamont,Not Provided,5.0,buy,160.0
+2007-09-05,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2007-09-19,Jesup & Lamont,Not Provided,5.0,buy,160.0
+2007-09-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-10-10,Goldman Sachs,Not Provided,5.0,Buy/Neutral,176.0
+2007-10-16,Jesup & Lamont,Not Provided,5.0,buy,160.0
+2007-10-18,Gleacher & Company,Not Provided,5.0,buy,176.0
+2007-10-23,Jesup & Lamont,Not Provided,5.0,buy,176.0
+2007-10-23,D.A. Davidson & Co,18 month,5.0,buy,180.0
+2007-10-23,Wells Fargo Securities,Not Provided,5.0,outperform,172.5
+2007-10-24,Jefferies,Not Provided,5.0,buy,164.0
+2007-10-24,Stephens Inc,Not Provided,5.0,overweight,170.0
+2007-10-24,UBS,12 month,5.0,buy,170.0
+2007-10-24,Gleacher & Company,Not Provided,5.0,buy,176.0
+2007-10-24,Cowen,Not Provided,5.0,outperform,-0.0
+2007-10-24,Credit Suisse,12 month,5.0,outperform,152.0
+2007-11-27,Goldman Sachs,6 month,5.0,buy/attractive,176.0
+2007-12-14,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,190.0
+2008-01-17,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2008-01-22,Jesup & Lamont,Not Provided,5.0,buy,155.0
+2008-01-23,UBS,12 month,5.0,buy,155.0
+2008-01-23,Credit Suisse,12 month,5.0,outperform,152.0
+2008-01-23,D.A. Davidson & Co,18 month,5.0,buy,180.0
+2008-01-23,Goldman Sachs,6 month,5.0,buy/attractive,158.0
+2008-01-23,Wells Fargo Securities,Not Provided,5.0,outperform,136.0
+2008-01-23,Gleacher & Company,Not Provided,5.0,buy,146.0
+2008-01-23,Cowen,Not Provided,5.0,outperform,-0.0
+2008-01-23,Jefferies,Not Provided,5.0,buy,142.0
+2008-01-23,Stephens Inc,Not Provided,5.0,overweight,133.0
+2008-01-25,Credit Suisse,12 month,5.0,outperform,152.0
+2008-02-14,UBS,12 month,5.0,buy,140.0
+2008-02-22,Cowen,Not Provided,5.0,outperform,-0.0
+2008-03-13,D.A. Davidson & Co,18 month,5.0,buy,150.0
+2008-03-19,Gleacher & Company,Not Provided,5.0,buy,146.0
+2008-03-24,Goldman Sachs,6 month,5.0,buy/attractive,145.0
+2008-04-08,Goldman Sachs,6 month,5.0,buy/attractive,140.0
+2008-04-17,Credit Suisse,12 month,5.0,outperform,136.0
+2008-04-23,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2008-04-28,Jefferies,Not Provided,5.0,buy,142.0
+2008-05-01,Gleacher & Company,Not Provided,5.0,buy,146.0
+2008-05-02,D.A. Davidson & Co,18 month,5.0,buy,150.0
+2008-05-06,Stephens Inc,Not Provided,5.0,overweight,156.0
+2008-05-06,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,190.0
+2008-05-06,Jesup & Lamont,Not Provided,5.0,buy,155.0
+2008-05-06,D.A. Davidson & Co,18 month,5.0,buy,170.0
+2008-05-06,Credit Suisse,12 month,5.0,outperform,147.0
+2008-05-07,Jefferies,Not Provided,5.0,buy,147.0
+2008-05-07,Wells Fargo Securities,Not Provided,5.0,outperform,152.5
+2008-05-07,UBS,12 month,5.0,buy,145.0
+2008-05-07,Goldman Sachs,6 month,5.0,buy/attractive,151.0
+2008-05-07,Cowen,Not Provided,5.0,outperform,-0.0
+2008-05-07,Gleacher & Company,Not Provided,5.0,buy,149.0
+2008-05-27,Gleacher & Company,Not Provided,5.0,buy,149.0
+2008-06-05,Macquarie,Not Provided,5.0,outperform,134.0
+2008-06-06,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-06-12,Credit Suisse,12 month,5.0,outperform,147.0
+2008-06-25,Goldman Sachs,6 month,3.0,neutral/cautious,100.0
+2008-06-26,Cowen,Not Provided,5.0,outperform,-0.0
+2008-07-07,Jesup & Lamont,Not Provided,5.0,buy,155.0
+2008-07-08,Gleacher & Company,Not Provided,5.0,buy,119.0
+2008-07-09,UBS,12 month,5.0,buy,120.0
+2008-07-10,Credit Suisse,12 month,5.0,outperform,147.0
+2008-07-17,D.A. Davidson & Co,18 month,5.0,buy,170.0
+2008-07-18,Gleacher & Company,Not Provided,5.0,buy,119.0
+2008-07-22,Jesup & Lamont,Not Provided,5.0,buy,119.0
+2008-07-22,Credit Suisse,12 month,5.0,outperform,147.0
+2008-07-23,Jefferies,Not Provided,5.0,buy,147.0
+2008-07-23,Gleacher & Company,Not Provided,5.0,buy,118.0
+2008-07-23,Credit Suisse,12 month,5.0,outperform,129.0
+2008-07-23,D.A. Davidson & Co,18 month,5.0,buy,145.0
+2008-07-23,Macquarie,12 month,5.0,outperform,128.0
+2008-07-23,Stephens Inc,Not Provided,5.0,overweight,137.0
+2008-07-23,Cowen,Not Provided,5.0,outperform,-0.0
+2008-07-23,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,190.0
+2008-09-10,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-09-11,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2008-09-17,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,200.0
+2008-09-29,Cowen,Not Provided,5.0,outperform,-0.0
+2008-10-10,Goldman Sachs,6 month,3.0,neutral/cautious,65.0
+2008-10-14,Jesup & Lamont,Not Provided,5.0,buy,126.0
+2008-10-15,Credit Suisse,12 month,5.0,outperform,83.0
+2008-10-21,Credit Suisse,Not Provided,5.0,outperform,83.0
+2008-10-21,D.A. Davidson & Co,Not Provided,5.0,buy,100.0
+2008-10-22,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2008-10-22,Cowen,Not Provided,5.0,outperform,-0.0
+2008-10-22,Jefferies,Not Provided,5.0,buy,75.0
+2008-10-22,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,200.0
+2008-10-22,Macquarie,Not Provided,5.0,outperform,82.0
+2008-10-22,Goldman Sachs,12 month,3.0,neutral/cautious,68.0
+2008-11-05,UBS,Not Provided,3.0,neutral,70.0
+2008-11-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-11-12,Macquarie,Not Provided,5.0,outperform,82.0
+2008-11-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-11-19,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,-0.0
+2008-11-20,Credit Suisse,Not Provided,5.0,outperform,79.0
+2008-11-25,Goldman Sachs,12 month,3.0,neutral/cautious,67.0
+2008-12-01,J.P. Morgan,Not Provided,5.0,overweight,80.0
+2008-12-02,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2008-12-08,J.P. Morgan,15 month,5.0,overweight,74.0
+2008-12-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-12-11,Soleil Securities,Not Provided,5.0,buy,75.0
+2008-12-12,Soleil Securities,Not Provided,5.0,buy,75.0
+2008-12-12,Goldman Sachs,12 month,3.0,neutral/cautious,63.0
+2008-12-19,Cowen,Not Provided,5.0,outperform,-0.0
+2009-01-01,J.P. Morgan,12 month,5.0,overweight,74.0
+2009-01-02,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-01-05,D.A. Davidson & Co,18 month,5.0,buy,100.0
+2009-01-12,Credit Suisse,Not Provided,3.0,neutral,68.0
+2009-01-12,J.P. Morgan,12 month,5.0,overweight,78.0
+2009-01-12,Jefferies,Not Provided,3.0,hold,72.0
+2009-01-12,Gleacher & Company,Not Provided,3.0,neutral,68.0
+2009-01-13,Macquarie,Not Provided,5.0,outperform,80.0
+2009-01-15,Soleil Securities,Not Provided,5.0,buy,75.0
+2009-01-16,D.A. Davidson & Co,18 month,5.0,buy,100.0
+2009-01-20,Goldman Sachs,12 month,3.0,neutral/cautious,60.0
+2009-01-20,Cowen,Not Provided,5.0,outperform,-0.0
+2009-01-20,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-01-21,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-01-21,Macquarie,Not Provided,5.0,outperform,84.0
+2009-01-21,Jefferies,Not Provided,3.0,hold,66.0
+2009-01-21,D.A. Davidson & Co,18 month,5.0,buy,90.0
+2009-01-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-01-21,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2009-01-21,Cowen,Not Provided,5.0,outperform,-0.0
+2009-01-21,Gleacher & Company,Not Provided,3.0,neutral,68.0
+2009-01-21,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,200.0
+2009-01-22,Soleil Securities,Not Provided,5.0,buy,75.0
+2009-01-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-02-02,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-02-11,Jefferies,Not Provided,3.0,hold,66.0
+2009-02-20,UBS,Not Provided,3.0,neutral,70.0
+2009-02-25,Macquarie,12 month,5.0,outperform,85.0
+2009-02-27,Goldman Sachs,12 month,3.0,neutral/cautious,60.0
+2009-03-02,J.P. Morgan,12 month,5.0,overweight,74.0
+2009-03-03,Davenport & Co,Not Provided,5.0,buy,70.0
+2009-03-09,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-03-15,Goldman Sachs,12 month,3.0,neutral/cautious,48.0
+2009-03-19,J.P. Morgan,9 month,5.0,overweight,73.0
+2009-03-25,Goldman Sachs,12 month,3.0,neutral/cautious,52.0
+2009-04-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-04-08,J.P. Morgan,9 month,5.0,overweight,77.0
+2009-04-14,Credit Suisse,Not Provided,3.0,neutral,68.0
+2009-04-16,Cowen,Not Provided,5.0,outperform,-0.0
+2009-04-16,Jefferies,Not Provided,3.0,hold,66.0
+2009-04-16,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-04-17,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-05-04,J.P. Morgan,9 month,5.0,overweight,90.0
+2009-05-05,Credit Suisse,Not Provided,3.0,neutral,74.0
+2009-05-05,D.A. Davidson & Co,Not Provided,5.0,buy,95.0
+2009-05-06,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2009-05-06,Stephens Inc,12 month,5.0,overweight,94.0
+2009-05-06,Jefferies,12 month,3.0,hold,70.0
+2009-05-06,FTN Equity Capital Markets Corp.,12 month,5.0,buy,100.0
+2009-05-06,Gleacher & Company,12 month,3.0,neutral,74.0
+2009-05-06,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-05-06,Cowen,Not Provided,5.0,outperform,-0.0
+2009-05-06,Macquarie,12 month,5.0,outperform,81.0
+2009-05-06,Goldman Sachs,12 month,3.0,neutral/cautious,59.0
+2009-05-06,Davenport & Co,Not Provided,5.0,buy,84.0
+2009-05-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-05-15,Davenport & Co,Not Provided,5.0,buy,84.0
+2009-05-18,Goldman Sachs,12 month,3.0,neutral/attractive,84.0
+2009-05-30,Macquarie,12 month,5.0,outperform,115.0
+2009-06-01,J.P. Morgan,6 month,5.0,overweight,94.0
+2009-06-01,UBS,Not Provided,3.0,neutral,70.0
+2009-06-03,Goldman Sachs,12 month,3.0,neutral/attractive,89.0
+2009-06-04,Davenport & Co,Not Provided,5.0,buy,100.0
+2009-06-04,Cowen,Not Provided,5.0,outperform,-0.0
+2009-06-08,D.A. Davidson & Co,Not Provided,5.0,buy,105.0
+2009-06-10,Cowen,Not Provided,5.0,outperform,-0.0
+2009-06-11,UBS,Not Provided,3.0,neutral,87.0
+2009-07-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-07-09,FTN Equity Capital Markets Corp.,Not Provided,3.0,neutral,-0.0
+2009-07-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-07-13,Gleacher & Company,12 month,3.0,neutral,74.0
+2009-07-15,Cowen,Not Provided,5.0,outperform,-0.0
+2009-07-15,Credit Suisse,Not Provided,3.0,neutral,77.0
+2009-07-16,D.A. Davidson & Co,Not Provided,5.0,buy,105.0
+2009-07-16,J.P. Morgan,6 month,5.0,overweight,85.0
+2009-07-17,Macquarie,12 month,5.0,outperform,115.0
+2009-07-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-07-20,UBS,Not Provided,3.0,neutral,87.0
+2009-07-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-07-21,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-07-21,Credit Suisse,Not Provided,3.0,neutral,75.0
+2009-07-21,D.A. Davidson & Co,Not Provided,5.0,buy,105.0
+2009-07-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-07-22,Gleacher & Company,12 month,3.0,neutral,74.0
+2009-07-22,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2009-07-22,Stephens Inc,12 month,5.0,overweight,94.0
+2009-07-22,Cowen,Not Provided,5.0,outperform,-0.0
+2009-07-22,Davenport & Co,Not Provided,5.0,buy,100.0
+2009-07-22,Goldman Sachs,12 month,3.0,neutral/attractive,94.0
+2009-07-22,Jefferies,12 month,3.0,hold,70.0
+2009-07-23,Macquarie,12 month,5.0,outperform,109.0
+2009-07-27,J.P. Morgan,6 month,5.0,overweight,85.0
+2009-07-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-08-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-08-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-14,Macquarie,12 month,5.0,outperform,109.0
+2009-08-14,Cowen,Not Provided,5.0,outperform,-0.0
+2009-08-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-08-27,Gleacher & Company,12 month,5.0,buy,105.0
+2009-08-27,D.A. Davidson & Co,Not Provided,5.0,buy,115.0
+2009-08-27,Cowen,Not Provided,5.0,outperform,-0.0
+2009-08-28,Goldman Sachs,12 month,3.0,neutral/attractive,106.0
+2009-09-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-09-08,J.P. Morgan,6 month,5.0,overweight,93.0
+2009-09-10,J.P. Morgan,12 month,5.0,overweight,93.0
+2009-09-14,Gleacher & Company,12 month,5.0,buy,119.0
+2009-09-17,J.P. Morgan,15 month,5.0,overweight,125.0
+2009-09-17,Goldman Sachs,12 month,3.0,neutral/attractive,115.0
+2009-09-18,Cowen,Not Provided,5.0,outperform,-0.0
+2009-09-23,Davenport & Co,Not Provided,5.0,buy,112.0
+2009-09-25,Macquarie,12 month,5.0,outperform,114.0
+2009-09-28,Gleacher & Company,12 month,5.0,buy,119.0
+2009-10-05,Jefferies,12 month,3.0,hold,100.0
+2009-10-06,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,125.0
+2009-10-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-10-09,Macquarie,12 month,5.0,outperform,122.0
+2009-10-09,Stephens Inc,12 month,5.0,overweight,120.0
+2009-10-12,Gleacher & Company,Not Provided,5.0,buy,119.0
+2009-10-12,Credit Suisse,Not Provided,3.0,neutral,93.0
+2009-10-15,UBS,Not Provided,3.0,neutral,110.0
+2009-10-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-10-20,Goldman Sachs,12 month,3.0,neutral/attractive,118.0
+2009-10-20,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-10-20,D.A. Davidson & Co,Not Provided,5.0,buy,120.0
+2009-10-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-10-20,Cowen,Not Provided,5.0,outperform,-0.0
+2009-10-20,Gleacher & Company,12 month,5.0,buy,119.0
+2009-10-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-10-21,Cowen,Not Provided,5.0,outperform,-0.0
+2009-10-21,Credit Suisse,Not Provided,3.0,neutral,92.0
+2009-10-21,Davenport & Co,Not Provided,5.0,buy,112.0
+2009-10-21,Macquarie,12 month,5.0,outperform,125.0
+2009-10-21,Stephens Inc,12 month,5.0,overweight,120.0
+2009-10-21,J.P. Morgan,15 month,5.0,overweight,121.0
+2009-10-21,Jefferies,12 month,3.0,hold,100.0
+2009-10-21,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2009-10-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-10-28,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,125.0
+2009-11-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-11-25,Gleacher & Company,12 month,5.0,buy,119.0
+2009-12-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2009-12-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-01-05,Davenport & Co,Not Provided,3.0,neutral,-0.0
+2010-01-05,Goldman Sachs,12 month,3.0,neutral/attractive,128.0
+2010-01-05,Buckingham Research Group,12 month,5.0,buy,135.0
+2010-01-07,Macquarie,12 month,5.0,outperform,134.0
+2010-01-08,Credit Suisse,Not Provided,3.0,neutral,112.0
+2010-01-11,J.P. Morgan,12 month,5.0,overweight,137.0
+2010-01-11,Gleacher & Company,12 month,5.0,buy,135.0
+2010-01-12,Buckingham Research Group,Not Provided,5.0,buy,135.0
+2010-01-13,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2010-01-14,Macquarie,12 month,5.0,outperform,134.0
+2010-01-15,Cowen,Not Provided,5.0,outperform,-0.0
+2010-01-15,Jefferies,12 month,3.0,hold,100.0
+2010-01-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-01-21,Goldman Sachs,12 month,3.0,neutral/attractive,126.0
+2010-01-21,Davenport & Co,Not Provided,3.0,neutral,-0.0
+2010-01-21,Credit Suisse,Not Provided,3.0,neutral,111.0
+2010-01-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-01-22,Buckingham Research Group,12 month,5.0,buy,131.0
+2010-01-22,J.P. Morgan,12 month,5.0,overweight,137.0
+2010-01-22,Gleacher & Company,12 month,5.0,buy,135.0
+2010-01-22,D.A. Davidson & Co,Not Provided,5.0,buy,135.0
+2010-01-22,Macquarie,12 month,5.0,outperform,135.0
+2010-01-22,Jefferies,12 month,3.0,hold,107.0
+2010-01-22,Cowen,Not Provided,5.0,outperform,-0.0
+2010-01-22,Stephens Inc,12 month,5.0,overweight,120.0
+2010-01-25,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2010-01-26,Macquarie,12 month,5.0,outperform,131.0
+2010-01-29,Jefferies,12 month,3.0,hold,107.0
+2010-02-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-02-04,Jefferies,12 month,3.0,hold,107.0
+2010-02-06,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2010-02-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-02-08,Cowen,Not Provided,5.0,outperform,-0.0
+2010-02-19,Jefferies,12 month,3.0,hold,107.0
+2010-02-20,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2010-02-24,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-02-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-02-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-02-26,Jefferies,12 month,3.0,hold,107.0
+2010-03-04,Macquarie,12 month,5.0,outperform,131.0
+2010-03-05,Jefferies,12 month,3.0,hold,107.0
+2010-03-08,Goldman Sachs,12 month,3.0,neutral/attractive,130.0
+2010-03-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-03-11,Stephens Inc,12 month,5.0,overweight,150.0
+2010-03-12,Jefferies,12 month,3.0,hold,107.0
+2010-03-16,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2010-03-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-03-19,Goldman Sachs,12 month,3.0,neutral/attractive,136.0
+2010-03-19,Jefferies,12 month,3.0,hold,107.0
+2010-03-22,Gleacher & Company,12 month,5.0,buy,160.0
+2010-03-22,D.A. Davidson & Co,Not Provided,5.0,buy,135.0
+2010-03-23,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-03-24,Macquarie,12 month,5.0,outperform,155.0
+2010-03-26,Buckingham Research Group,12 month,5.0,buy,152.0
+2010-03-26,Jefferies,12 month,3.0,hold,107.0
+2010-03-29,J.P. Morgan,9 month,5.0,overweight,150.0
+2010-03-29,Goldman Sachs,12 month,5.0,buy/attractive,153.0
+2010-03-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-03-29,Wedbush,12 month,5.0,outperform,138.0
+2010-03-30,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2010-04-01,Jefferies,12 month,3.0,hold,107.0
+2010-04-05,D.A. Davidson & Co,18 month,5.0,buy,150.0
+2010-04-06,Gleacher & Company,12 month,5.0,buy,160.0
+2010-04-09,UBS,Not Provided,3.0,neutral,130.0
+2010-04-12,Credit Suisse,Not Provided,3.0,neutral,125.0
+2010-04-12,Wedbush,12 month,5.0,outperform,137.0
+2010-04-13,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-04-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-04-14,Jefferies,12 month,3.0,hold,120.0
+2010-04-15,Cowen,Not Provided,5.0,outperform,-0.0
+2010-04-15,Wedbush,12 month,5.0,outperform,138.0
+2010-04-16,Jefferies,12 month,3.0,hold,120.0
+2010-04-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-04-19,Davenport & Co,Not Provided,3.0,neutral,-0.0
+2010-04-23,Jefferies,12 month,3.0,hold,120.0
+2010-04-26,Wedbush,12 month,5.0,outperform,138.0
+2010-04-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-04-28,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2010-04-30,Jefferies,12 month,3.0,hold,120.0
+2010-05-04,D.A. Davidson & Co,18 month,5.0,buy,150.0
+2010-05-05,Macquarie,12 month,5.0,outperform,155.0
+2010-05-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-05-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-05-06,D.A. Davidson & Co,Not Provided,5.0,buy,155.0
+2010-05-06,Davenport & Co,Not Provided,3.0,neutral,-0.0
+2010-05-06,Credit Suisse,Not Provided,3.0,neutral,129.0
+2010-05-07,Macquarie,12 month,5.0,outperform,148.0
+2010-05-07,Cowen,Not Provided,5.0,outperform,-0.0
+2010-05-07,Buckingham Research Group,12 month,5.0,buy,152.0
+2010-05-07,Gleacher & Company,12 month,5.0,buy,160.0
+2010-05-07,Stephens Inc,12 month,5.0,overweight,150.0
+2010-05-07,J.P. Morgan,6 month,5.0,overweight,150.0
+2010-05-10,Jefferies,12 month,3.0,hold,120.0
+2010-05-11,Wedbush,12 month,5.0,outperform,136.0
+2010-05-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-05-14,Jefferies,12 month,3.0,hold,120.0
+2010-05-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-05-27,Wedbush,12 month,5.0,outperform,134.0
+2010-05-27,C.K. Cooper & Company,12 month,5.0,buy,150.0
+2010-05-28,Jefferies,12 month,3.0,hold,120.0
+2010-06-01,Cowen,Not Provided,5.0,outperform,-0.0
+2010-06-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-06-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-06-05,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2010-06-07,Goldman Sachs,12 month,5.0,buy/attractive,135.0
+2010-06-07,Jefferies,12 month,3.0,hold,120.0
+2010-06-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-06-11,Jefferies,12 month,3.0,hold,120.0
+2010-06-14,Cowen,Not Provided,5.0,outperform,-0.0
+2010-06-15,Buckingham Research Group,12 month,5.0,buy,152.0
+2010-06-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-06-18,Jefferies,12 month,3.0,hold,120.0
+2010-06-22,UBS,Not Provided,3.0,neutral,130.0
+2010-06-25,Jefferies,12 month,3.0,hold,120.0
+2010-07-06,Gleacher & Company,12 month,5.0,buy,160.0
+2010-07-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-07-09,Cowen,Not Provided,5.0,outperform,-0.0
+2010-07-09,Jefferies,12 month,3.0,hold,120.0
+2010-07-12,Gleacher & Company,12 month,5.0,buy,160.0
+2010-07-13,UBS,Not Provided,3.0,neutral,130.0
+2010-07-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-07-16,Credit Suisse,Not Provided,5.0,outperform,150.0
+2010-07-16,Jefferies,12 month,3.0,hold,120.0
+2010-07-20,Wedbush,12 month,5.0,outperform,136.0
+2010-07-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-07-22,Credit Suisse,Not Provided,5.0,outperform,150.0
+2010-07-22,C.K. Cooper & Company,12 month,5.0,buy,150.0
+2010-07-22,J.P. Morgan,6 month,5.0,overweight,146.0
+2010-07-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-07-23,Davenport & Co,Not Provided,3.0,neutral,125.0
+2010-07-23,Goldman Sachs,12 month,5.0,buy/attractive,140.0
+2010-07-23,D.A. Davidson & Co,Not Provided,5.0,buy,155.0
+2010-07-23,UBS,Not Provided,3.0,neutral,120.0
+2010-07-23,Stephens Inc,12 month,5.0,overweight,150.0
+2010-07-23,Buckingham Research Group,12 month,5.0,buy,152.0
+2010-07-23,Cowen,Not Provided,5.0,outperform,-0.0
+2010-07-23,Jefferies,12 month,3.0,hold,120.0
+2010-07-23,Gleacher & Company,12 month,5.0,buy,160.0
+2010-07-26,Gleacher & Company,12 month,5.0,buy,160.0
+2010-07-26,Wedbush,12 month,5.0,outperform,136.0
+2010-07-30,Jefferies,12 month,3.0,hold,120.0
+2010-07-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-08-06,Jefferies,12 month,3.0,hold,120.0
+2010-08-13,Jefferies,12 month,3.0,hold,120.0
+2010-08-20,Jefferies,12 month,3.0,hold,120.0
+2010-08-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-08-25,Davenport & Co,Not Provided,3.0,neutral,125.0
+2010-08-25,Wedbush,12 month,5.0,outperform,136.0
+2010-08-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-08-30,Gleacher & Company,12 month,5.0,buy,160.0
+2010-08-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-09-03,Jefferies,12 month,3.0,hold,120.0
+2010-09-07,J.P. Morgan,15 month,5.0,overweight,165.0
+2010-09-10,Jefferies,12 month,3.0,hold,120.0
+2010-09-13,RBC Capital Markets,12 month,5.0,top pick,149.0
+2010-09-14,Credit Suisse,Not Provided,5.0,outperform,149.0
+2010-09-16,RBC Capital Markets,Not Provided,5.0,top pick,149.0
+2010-09-17,Jefferies,12 month,3.0,hold,120.0
+2010-09-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-09-20,Cowen,Not Provided,5.0,outperform,-0.0
+2010-09-23,RBC Capital Markets,Not Provided,5.0,top pick,149.0
+2010-09-24,Jefferies,12 month,3.0,hold,120.0
+2010-09-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-09-30,Cowen,Not Provided,5.0,outperform,-0.0
+2010-09-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-10-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-10-01,Jefferies,12 month,3.0,hold,120.0
+2010-10-04,RBC Capital Markets,Not Provided,5.0,top pick,149.0
+2010-10-07,Goldman Sachs,12 month,5.0,buy/attractive,160.0
+2010-10-08,RBC Capital Markets,Not Provided,5.0,top pick,149.0
+2010-10-08,UBS,Not Provided,3.0,neutral,120.0
+2010-10-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-10-08,Jefferies,12 month,3.0,hold,120.0
+2010-10-12,Gleacher & Company,12 month,5.0,buy,160.0
+2010-10-15,Jefferies,12 month,3.0,hold,120.0
+2010-10-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-10-18,Wedbush,12 month,5.0,outperform,136.0
+2010-10-18,UBS,Not Provided,-2147483648.0,suspended coverage,-0.0
+2010-10-18,D.A. Davidson & Co,18 month,5.0,buy,155.0
+2010-10-18,RBC Capital Markets,Not Provided,5.0,top pick,149.0
+2010-10-21,Credit Suisse,Not Provided,5.0,outperform,149.0
+2010-10-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-10-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-10-21,Goldman Sachs,12 month,5.0,buy/attractive,159.0
+2010-10-22,UBS,Not Provided,3.0,neutral,130.0
+2010-10-22,Buckingham Research Group,12 month,5.0,buy,152.0
+2010-10-22,Stephens Inc,12 month,5.0,overweight,160.0
+2010-10-22,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2010-10-22,Gleacher & Company,12 month,5.0,buy,160.0
+2010-10-22,J.P. Morgan,15 month,5.0,overweight,165.0
+2010-10-22,Jefferies,12 month,3.0,hold,140.0
+2010-10-22,Davenport & Co,Not Provided,3.0,neutral,-0.0
+2010-10-22,Wedbush,12 month,5.0,outperform,150.0
+2010-10-22,Cowen,Not Provided,5.0,outperform,-0.0
+2010-10-22,D.A. Davidson & Co,18 month,5.0,buy,170.0
+2010-10-25,RBC Capital Markets,Not Provided,5.0,top pick,149.0
+2010-10-29,Jefferies,12 month,3.0,hold,140.0
+2010-11-01,D.A. Davidson & Co,Not Provided,5.0,buy,170.0
+2010-11-01,RBC Capital Markets,12 month,5.0,top pick,149.0
+2010-11-05,Jefferies,12 month,3.0,hold,140.0
+2010-11-08,RBC Capital Markets,12 month,5.0,top pick,149.0
+2010-11-12,Jefferies,12 month,3.0,hold,140.0
+2010-11-15,RBC Capital Markets,12 month,5.0,top pick,149.0
+2010-11-15,Wedbush,12 month,5.0,outperform,150.0
+2010-11-19,Jefferies,12 month,3.0,hold,140.0
+2010-11-19,RBC Capital Markets,12 month,5.0,top pick,149.0
+2010-11-24,Cowen,Not Provided,5.0,outperform,-0.0
+2010-11-24,Jefferies,12 month,3.0,hold,140.0
+2010-11-29,J.P. Morgan,12 month,5.0,overweight,161.0
+2010-11-29,RBC Capital Markets,12 month,5.0,top pick,149.0
+2010-11-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-12-03,Jefferies,12 month,3.0,hold,140.0
+2010-12-03,UBS,12 month,3.0,neutral,142.0
+2010-12-06,RBC Capital Markets,12 month,5.0,top pick,149.0
+2010-12-10,Jefferies,12 month,3.0,hold,140.0
+2010-12-13,Buckingham Research Group,12 month,5.0,buy,160.0
+2010-12-13,Goldman Sachs,12 month,5.0,buy/attractive,178.0
+2010-12-14,RBC Capital Markets,12 month,5.0,top pick,149.0
+2010-12-17,Jefferies,12 month,3.0,hold,140.0
+2010-12-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-12-21,RBC Capital Markets,12 month,5.0,top pick,149.0
+2010-12-22,D.A. Davidson & Co,Not Provided,5.0,buy,170.0
+2010-12-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-12-23,RBC Capital Markets,12 month,5.0,top pick,149.0
+2010-12-31,Jefferies,12 month,3.0,hold,140.0
+2011-01-04,RBC Capital Markets,12 month,5.0,top pick,149.0
+2011-01-06,Wedbush,12 month,5.0,outperform,150.0
+2011-01-07,Jefferies,12 month,3.0,hold,140.0
+2011-01-11,UBS,12 month,3.0,neutral,142.0
+2011-01-11,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-01-12,Stifel,12 month,5.0,buy,175.0
+2011-01-12,RBC Capital Markets,12 month,5.0,top pick,156.0
+2011-01-14,Jefferies,12 month,3.0,hold,140.0
+2011-01-14,Buckingham Research Group,12 month,5.0,buy,160.0
+2011-01-16,Credit Suisse,Not Provided,5.0,outperform,149.0
+2011-01-18,Cowen,Not Provided,5.0,outperform,-0.0
+2011-01-19,RBC Capital Markets,12 month,5.0,top pick,156.0
+2011-01-20,Stifel,12 month,5.0,buy,175.0
+2011-01-20,Gleacher & Company,12 month,5.0,buy,160.0
+2011-01-21,Jefferies,12 month,3.0,hold,140.0
+2011-01-25,D.A. Davidson & Co,18 month,5.0,buy,170.0
+2011-01-25,Wedbush,12 month,5.0,outperform,156.0
+2011-01-26,Stifel,12 month,5.0,buy,175.0
+2011-01-26,RBC Capital Markets,12 month,5.0,top pick,156.0
+2011-01-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-01-27,Davenport & Co,Not Provided,3.0,neutral,-0.0
+2011-01-27,Cowen,Not Provided,5.0,outperform,-0.0
+2011-01-27,Credit Suisse,Not Provided,5.0,outperform,163.0
+2011-01-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-01-27,Goldman Sachs,12 month,5.0,buy/attractive,180.0
+2011-01-28,Cowen,Not Provided,5.0,outperform,-0.0
+2011-01-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-01-28,Stifel,12 month,5.0,buy,175.0
+2011-01-28,Jefferies,12 month,3.0,hold,140.0
+2011-01-28,D.A. Davidson & Co,12 month,5.0,buy,180.0
+2011-01-28,Stephens Inc,12 month,5.0,overweight,168.0
+2011-01-28,Wedbush,12 month,5.0,outperform,165.0
+2011-01-28,J.P. Morgan,9 month,5.0,overweight,161.0
+2011-01-28,Gleacher & Company,12 month,5.0,buy,160.0
+2011-01-28,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2011-01-31,Buckingham Research Group,12 month,5.0,buy,160.0
+2011-02-02,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-02-04,Jefferies,12 month,3.0,hold,140.0
+2011-02-10,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-02-11,Jefferies,12 month,3.0,hold,140.0
+2011-02-15,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-02-16,Stifel,12 month,5.0,buy,175.0
+2011-02-23,D.A. Davidson & Co,18 month,5.0,buy,180.0
+2011-02-25,Jefferies,12 month,3.0,hold,140.0
+2011-02-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-02-25,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-02-28,Cowen,Not Provided,5.0,outperform,-0.0
+2011-03-04,Davenport & Co,Not Provided,3.0,neutral,-0.0
+2011-03-04,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-03-04,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-03-04,Jefferies,12 month,3.0,hold,140.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-08,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-03-11,Jefferies,12 month,3.0,hold,140.0
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-11,Credit Suisse,Not Provided,5.0,outperform,163.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-15,Stifel,12 month,5.0,buy,175.0
+2011-03-17,Gleacher & Company,12 month,5.0,buy,160.0
+2011-03-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-03-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-03-18,Jefferies,12 month,3.0,hold,140.0
+2011-03-18,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-03-22,D.A. Davidson & Co,Not Provided,5.0,buy,180.0
+2011-03-24,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-03-24,Stifel,12 month,5.0,buy,175.0
+2011-03-25,Jefferies,12 month,3.0,hold,140.0
+2011-03-28,Stifel,12 month,5.0,buy,175.0
+2011-03-30,BOE Securities,12 month,5.0,buy,165.88
+2011-04-01,Jefferies,12 month,3.0,hold,140.0
+2011-04-06,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-04-08,Jefferies,12 month,3.0,hold,140.0
+2011-04-11,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-04-12,UBS,12 month,3.0,neutral,142.0
+2011-04-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-04-15,Jefferies,12 month,3.0,hold,140.0
+2011-04-19,Credit Suisse,Not Provided,5.0,outperform,163.0
+2011-04-19,Cowen,Not Provided,5.0,outperform,-0.0
+2011-04-20,D.A. Davidson & Co,18 month,5.0,buy,180.0
+2011-04-21,Jefferies,12 month,3.0,hold,140.0
+2011-04-25,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-04-27,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-04-29,Jefferies,12 month,3.0,hold,140.0
+2011-05-05,Buckingham Research Group,12 month,5.0,buy,178.0
+2011-05-06,Stifel,12 month,5.0,buy,175.0
+2011-05-06,Wedbush,12 month,5.0,outperform,165.0
+2011-05-06,Jefferies,12 month,3.0,hold,140.0
+2011-05-09,RBC Capital Markets,12 month,5.0,top pick,163.0
+2011-05-12,Credit Suisse,Not Provided,5.0,outperform,173.0
+2011-05-12,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-05-12,Wedbush,12 month,5.0,outperform,170.0
+2011-05-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-05-13,Stephens Inc,12 month,5.0,overweight,185.0
+2011-05-13,J.P. Morgan,9 month,5.0,overweight,164.0
+2011-05-13,Gleacher & Company,12 month,5.0,buy,176.0
+2011-05-13,Cowen,Not Provided,5.0,outperform,-0.0
+2011-05-13,Jefferies,12 month,3.0,hold,160.0
+2011-05-13,Davenport & Co,Not Provided,3.0,neutral,-0.0
+2011-05-13,Stifel,12 month,5.0,buy,180.0
+2011-05-13,D.A. Davidson & Co,18 month,5.0,buy,190.0
+2011-05-16,UBS,12 month,3.0,neutral,155.0
+2011-05-16,Buckingham Research Group,12 month,5.0,buy,178.0
+2011-05-16,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2011-05-16,RBC Capital Markets,12 month,5.0,top pick,177.0
+2011-05-20,Jefferies,12 month,3.0,hold,160.0
+2011-05-23,Davenport & Co,Not Provided,3.0,neutral,-0.0
+2011-05-23,RBC Capital Markets,12 month,5.0,top pick,177.0
+2011-05-26,D.A. Davidson & Co,Not Provided,5.0,buy,190.0
+2011-05-27,Jefferies,12 month,3.0,hold,160.0
+2011-06-03,Jefferies,12 month,3.0,hold,160.0
+2011-06-06,Stifel,12 month,5.0,buy,180.0
+2011-06-07,Goldman Sachs,12 month,5.0,buy/attractive,200.0
+2011-06-07,RBC Capital Markets,12 month,5.0,top pick,177.0
+2011-06-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-06-13,RBC Capital Markets,12 month,5.0,top pick,177.0
+2011-06-14,Wedbush,12 month,5.0,outperform,170.0
+2011-06-14,Jefferies,12 month,3.0,hold,160.0
+2011-06-14,BOE Securities,12 month,5.0,buy,171.52
+2011-06-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-06-14,Stifel,12 month,5.0,buy,180.0
+2011-06-14,Cowen,Not Provided,5.0,outperform,-0.0
+2011-06-15,Gleacher & Company,12 month,5.0,buy,176.0
+2011-06-17,Jefferies,12 month,3.0,hold,160.0
+2011-06-17,D.A. Davidson & Co,18 month,5.0,buy,190.0
+2011-06-21,Stifel,12 month,5.0,buy,180.0
+2011-06-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-06-21,RBC Capital Markets,12 month,5.0,top pick,177.0
+2011-06-22,Wedbush,12 month,5.0,outperform,170.0
+2011-06-24,Cowen,Not Provided,5.0,outperform,-0.0
+2011-06-24,Jefferies,12 month,3.0,hold,160.0
+2011-06-27,RBC Capital Markets,12 month,5.0,top pick,177.0
+2011-06-28,Gleacher & Company,12 month,5.0,buy,176.0
+2011-07-01,Jefferies,12 month,3.0,hold,160.0
+2011-07-05,RBC Capital Markets,12 month,5.0,top pick,177.0
+2011-07-11,Jefferies,12 month,3.0,hold,160.0
+2011-07-11,RBC Capital Markets,12 month,5.0,top pick,177.0
+2011-07-11,Wedbush,12 month,5.0,outperform,170.0
+2011-07-11,Gleacher & Company,12 month,5.0,buy,176.0
+2011-07-11,Stifel,12 month,5.0,buy,180.0
+2011-07-11,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2011-07-12,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-07-12,D.A. Davidson & Co,18 month,5.0,buy,200.0
+2011-07-12,UBS,12 month,3.0,neutral,165.0
+2011-07-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-07-13,Cowen,Not Provided,5.0,outperform,-0.0
+2011-07-14,Credit Suisse,Not Provided,5.0,outperform,182.0
+2011-07-14,Stifel,12 month,5.0,buy,180.0
+2011-07-20,Jefferies,12 month,3.0,hold,160.0
+2011-07-22,Jefferies,12 month,3.0,hold,160.0
+2011-07-26,D.A. Davidson & Co,12 month,5.0,buy,200.0
+2011-07-27,Stifel,12 month,5.0,buy,180.0
+2011-07-27,RBC Capital Markets,12 month,5.0,top pick,177.0
+2011-07-28,Wedbush,12 month,5.0,outperform,175.0
+2011-07-28,Stifel,12 month,5.0,buy,185.0
+2011-07-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-07-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-07-28,Goldman Sachs,12 month,5.0,buy/attractive,205.0
+2011-07-29,Cowen,Not Provided,5.0,outperform,-0.0
+2011-07-29,Credit Suisse,Not Provided,5.0,outperform,183.0
+2011-07-29,Davenport & Co,Not Provided,3.0,neutral,177.0
+2011-07-29,Buckingham Research Group,12 month,5.0,buy,184.0
+2011-07-29,Stephens Inc,12 month,5.0,overweight,185.0
+2011-07-29,Jefferies,12 month,3.0,hold,160.0
+2011-07-29,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-07-29,Gleacher & Company,12 month,5.0,buy,188.0
+2011-07-29,J.P. Morgan,3 month,5.0,overweight,172.0
+2011-07-29,D.A. Davidson & Co,12 month,5.0,buy,200.0
+2011-08-01,RBC Capital Markets,12 month,5.0,top pick,192.0
+2011-08-01,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-08-08,Goldman Sachs,12 month,5.0,buy/attractive,186.0
+2011-08-08,Jefferies,12 month,3.0,hold,160.0
+2011-08-09,RBC Capital Markets,12 month,5.0,top pick,192.0
+2011-08-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-08-10,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-08-10,Barclays,Not Provided,5.0,overwt/positive,190.0
+2011-08-11,RBC Capital Markets,12 month,5.0,top pick,200.0
+2011-08-12,Jefferies,12 month,3.0,hold,160.0
+2011-08-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-08-12,D.A. Davidson & Co,Not Provided,5.0,buy,200.0
+2011-08-16,Cowen,Not Provided,5.0,outperform,-0.0
+2011-08-16,Stifel,12 month,5.0,buy,185.0
+2011-08-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-08-19,Jefferies,12 month,3.0,hold,160.0
+2011-08-24,RBC Capital Markets,12 month,5.0,top pick,200.0
+2011-08-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-08-26,Jefferies,12 month,3.0,hold,160.0
+2011-08-31,RBC Capital Markets,12 month,5.0,top pick,200.0
+2011-09-02,Sterne Agee CRT,Not Provided,5.0,buy,185.0
+2011-09-02,RBC Capital Markets,12 month,5.0,top pick,200.0
+2011-09-02,Jefferies,12 month,3.0,hold,160.0
+2011-09-07,J.P. Morgan,15 month,5.0,overweight,167.0
+2011-09-07,Goldman Sachs,12 month,5.0,buy/attractive,200.0
+2011-09-09,Jefferies,12 month,3.0,hold,160.0
+2011-09-12,Wedbush,12 month,5.0,outperform,175.0
+2011-09-14,RBC Capital Markets,12 month,5.0,top pick,191.0
+2011-09-16,BOE Securities,12 month,5.0,buy,186.55
+2011-09-16,Jefferies,12 month,3.0,hold,160.0
+2011-09-19,UBS,12 month,3.0,neutral,174.0
+2011-09-20,RBC Capital Markets,12 month,5.0,top pick,191.0
+2011-09-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-09-21,Barclays,Not Provided,5.0,overwt/positive,190.0
+2011-09-21,D.A. Davidson & Co,18 month,5.0,buy,200.0
+2011-09-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-09-21,Cowen,Not Provided,5.0,outperform,-0.0
+2011-09-22,Stifel,12 month,5.0,buy,185.0
+2011-09-23,Jefferies,12 month,3.0,hold,160.0
+2011-09-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-09-30,Jefferies,12 month,3.0,hold,160.0
+2011-10-05,Stifel,12 month,5.0,buy,185.0
+2011-10-06,RBC Capital Markets,12 month,5.0,top pick,191.0
+2011-10-07,Jefferies,12 month,3.0,hold,160.0
+2011-10-10,D.A. Davidson & Co,18 month,5.0,buy,200.0
+2011-10-12,UBS,12 month,3.0,neutral,174.0
+2011-10-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-10-17,Cowen,Not Provided,5.0,outperform,-0.0
+2011-10-18,Jefferies,12 month,3.0,hold,160.0
+2011-10-19,Credit Suisse,Not Provided,5.0,outperform,183.0
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-20,RBC Capital Markets,12 month,5.0,top pick,191.0
+2011-10-20,Davenport & Co,Not Provided,3.0,neutral,177.0
+2011-10-24,Goldman Sachs,12 month,5.0,buy/attractive,205.0
+2011-10-24,Wedbush,12 month,5.0,outperform,175.0
+2011-10-26,D.A. Davidson & Co,12 month,5.0,buy,200.0
+2011-10-26,Stifel,12 month,5.0,buy,185.0
+2011-10-27,Cowen,Not Provided,5.0,outperform,-0.0
+2011-10-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-10-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-10-27,Davenport & Co,12 month,3.0,neutral,177.0
+2011-10-27,Credit Suisse,Not Provided,5.0,outperform,183.0
+2011-10-28,D.A. Davidson & Co,Not Provided,5.0,buy,200.0
+2011-10-28,Goldman Sachs,12 month,5.0,buy/attractive,200.0
+2011-10-28,RBC Capital Markets,12 month,5.0,top pick,192.0
+2011-10-28,Stephens Inc,12 month,5.0,overweight,200.0
+2011-10-28,Buckingham Research Group,12 month,5.0,buy,184.0
+2011-10-28,Barclays,Not Provided,5.0,overwt/positive,185.0
+2011-10-28,Stifel,12 month,5.0,buy,190.0
+2011-10-28,J.P. Morgan,12 month,5.0,overweight,165.0
+2011-10-28,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-10-28,Jefferies,12 month,3.0,hold,160.0
+2011-10-28,Cowen,Not Provided,5.0,outperform,-0.0
+2011-10-31,Wedbush,12 month,5.0,outperform,184.0
+2011-11-01,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2011-11-01,Sterne Agee CRT,Not Provided,5.0,buy,185.0
+2011-11-04,Jefferies,12 month,3.0,hold,160.0
+2011-11-09,RBC Capital Markets,12 month,5.0,top pick,192.0
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-11,Jefferies,12 month,3.0,hold,160.0
+2011-11-13,Wedbush,12 month,5.0,outperform,184.0
+2011-11-16,Stifel,12 month,5.0,buy,190.0
+2011-11-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-11-18,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-11-18,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2011-11-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-11-21,Cowen,Not Provided,5.0,outperform,-0.0
+2011-11-22,Stifel,12 month,5.0,buy,190.0
+2011-11-23,RBC Capital Markets,12 month,5.0,top pick,192.0
+2011-11-23,Jefferies,12 month,3.0,hold,160.0
+2011-11-29,Sterne Agee CRT,12 month,5.0,buy,190.0
+2011-11-30,Wedbush,12 month,5.0,outperform,184.0
+2011-12-01,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2011-12-02,RBC Capital Markets,12 month,5.0,top pick,192.0
+2011-12-02,Jefferies,12 month,3.0,hold,160.0
+2011-12-05,J.P. Morgan,12 month,5.0,overweight,165.0
+2011-12-05,Stifel,12 month,5.0,buy,190.0
+2011-12-07,RBC Capital Markets,12 month,5.0,top pick,192.0
+2011-12-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-12-09,Jefferies,12 month,3.0,hold,160.0
+2011-12-13,Stifel,12 month,5.0,buy,190.0
+2011-12-15,Cowen,Not Provided,5.0,outperform,-0.0
+2011-12-15,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2011-12-16,Jefferies,12 month,3.0,hold,160.0
+2011-12-22,Wedbush,12 month,5.0,outperform,184.0
+2011-12-23,RBC Capital Markets,12 month,5.0,top pick,192.0
+2011-12-23,Jefferies,12 month,3.0,hold,160.0
+2011-12-30,Jefferies,12 month,3.0,hold,160.0
+2012-01-04,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-01-04,RBC Capital Markets,12 month,5.0,top pick,206.0
+2012-01-05,Jefferies,12 month,3.0,hold,160.0
+2012-01-06,Stifel,12 month,5.0,buy,190.0
+2012-01-06,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2012-01-09,J.P. Morgan,9 month,5.0,overweight,165.0
+2012-01-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-01-10,UBS,12 month,3.0,neutral,174.0
+2012-01-11,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-01-11,RBC Capital Markets,12 month,5.0,top pick,206.0
+2012-01-11,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-01-13,Credit Suisse,Not Provided,5.0,outperform,183.0
+2012-01-13,Jefferies,12 month,3.0,hold,160.0
+2012-01-17,J.P. Morgan,12 month,5.0,overweight,165.0
+2012-01-17,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-01-17,D.A. Davidson & Co,Not Provided,5.0,buy,200.0
+2012-01-19,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-01-20,Jefferies,12 month,3.0,hold,160.0
+2012-01-20,D.A. Davidson & Co,12 month,5.0,buy,200.0
+2012-01-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-01-22,Goldman Sachs,12 month,5.0,buy/attractive,224.0
+2012-01-24,Wedbush,12 month,5.0,outperform,184.0
+2012-01-25,Stifel,12 month,5.0,buy,190.0
+2012-01-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-01-26,Stifel,12 month,5.0,buy,190.0
+2012-01-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-01-27,Cowen,Not Provided,5.0,outperform,-0.0
+2012-01-27,Credit Suisse,Not Provided,5.0,outperform,189.0
+2012-01-27,UBS,12 month,3.0,neutral,174.0
+2012-01-27,Barclays,Not Provided,5.0,overwt/positive,185.0
+2012-01-27,Goldman Sachs,12 month,5.0,buy/attractive,208.0
+2012-01-27,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-01-27,Davenport & Co,Not Provided,3.0,neutral,170.0
+2012-01-27,Stephens Inc,12 month,5.0,overweight,200.0
+2012-01-27,Jefferies,12 month,3.0,hold,160.0
+2012-01-27,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-01-27,D.A. Davidson & Co,12 month,5.0,buy,200.0
+2012-01-30,Buckingham Research Group,12 month,5.0,buy,191.0
+2012-01-30,J.P. Morgan,6 month,5.0,overweight,170.0
+2012-01-31,Sterne Agee CRT,Not Provided,5.0,buy,196.0
+2012-02-01,RBC Capital Markets,12 month,5.0,top pick,200.0
+2012-02-01,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-02-01,Wedbush,12 month,5.0,outperform,184.0
+2012-02-03,Jefferies,12 month,3.0,hold,160.0
+2012-02-07,BOE Securities,12 month,5.0,buy,188.24
+2012-02-08,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-02-08,RBC Capital Markets,12 month,5.0,top pick,200.0
+2012-02-09,Wedbush,12 month,5.0,outperform,184.0
+2012-02-11,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-02-14,RBC Capital Markets,12 month,5.0,top pick,200.0
+2012-02-14,Jefferies,12 month,3.0,hold,160.0
+2012-02-16,Stifel,12 month,5.0,buy,190.0
+2012-02-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-02-22,RBC Capital Markets,12 month,5.0,top pick,200.0
+2012-02-28,Goldman Sachs,12 month,5.0,buy/attractive,208.0
+2012-02-29,Wedbush,12 month,5.0,outperform,184.0
+2012-03-01,RBC Capital Markets,12 month,5.0,top pick,200.0
+2012-03-08,Wedbush,12 month,5.0,outperform,184.0
+2012-03-09,Jefferies,12 month,3.0,hold,160.0
+2012-03-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-03-09,D.A. Davidson & Co,Not Provided,5.0,buy,200.0
+2012-03-09,Davenport & Co,Not Provided,3.0,neutral,170.0
+2012-03-12,RBC Capital Markets,12 month,5.0,top pick,200.0
+2012-03-13,Cowen,Not Provided,5.0,outperform,-0.0
+2012-03-13,Stifel,12 month,5.0,buy,190.0
+2012-03-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-03-14,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-03-16,Jefferies,12 month,3.0,hold,160.0
+2012-03-20,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-03-21,Stifel,12 month,5.0,buy,190.0
+2012-03-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-03-22,RBC Capital Markets,12 month,5.0,top pick,200.0
+2012-03-26,Jefferies,12 month,3.0,hold,160.0
+2012-03-26,RBC Capital Markets,12 month,5.0,top pick,200.0
+2012-04-03,Wedbush,12 month,5.0,outperform,184.0
+2012-04-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-04-04,RBC Capital Markets,12 month,5.0,top pick,202.0
+2012-04-04,Jefferies,12 month,3.0,hold,160.0
+2012-04-05,Goldman Sachs,12 month,5.0,buy/attractive,209.0
+2012-04-09,Credit Suisse,Not Provided,5.0,outperform,189.0
+2012-04-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-04-11,Wedbush,12 month,5.0,outperform,184.0
+2012-04-11,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-04-11,UBS,12 month,3.0,neutral,174.0
+2012-04-13,Sterne Agee CRT,Not Provided,5.0,buy,196.0
+2012-04-13,Buckingham Research Group,12 month,5.0,buy,191.0
+2012-04-13,Jefferies,12 month,3.0,hold,160.0
+2012-04-16,Barclays,Not Provided,5.0,overwt/positive,185.0
+2012-04-17,Stephens Inc,12 month,5.0,overweight,200.0
+2012-04-17,Davenport & Co,Not Provided,3.0,neutral,170.0
+2012-04-18,Stifel,12 month,5.0,buy,190.0
+2012-04-18,Jefferies,12 month,3.0,hold,160.0
+2012-04-20,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-04-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-04-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-04-27,RBC Capital Markets,12 month,5.0,top pick,202.0
+2012-04-30,Cowen,Not Provided,5.0,outperform,-0.0
+2012-04-30,Buckingham Research Group,12 month,5.0,buy,191.0
+2012-04-30,Stifel,12 month,5.0,buy,190.0
+2012-05-02,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-05-02,Wedbush,12 month,5.0,outperform,184.0
+2012-05-04,Jefferies,12 month,3.0,hold,160.0
+2012-05-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-05-07,Stifel,12 month,5.0,buy,190.0
+2012-05-07,RBC Capital Markets,12 month,5.0,top pick,202.0
+2012-05-07,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-05-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-05-11,Jefferies,12 month,3.0,hold,160.0
+2012-05-11,Wedbush,12 month,5.0,outperform,184.0
+2012-05-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-05-17,Credit Suisse,Not Provided,5.0,outperform,189.0
+2012-05-17,RBC Capital Markets,12 month,5.0,top pick,204.0
+2012-05-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-05-18,Stifel,12 month,5.0,buy,190.0
+2012-05-18,Buckingham Research Group,12 month,5.0,buy,198.0
+2012-05-18,Jefferies,12 month,3.0,hold,160.0
+2012-05-18,Davenport & Co,Not Provided,3.0,neutral,170.0
+2012-05-18,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-05-18,Wedbush,12 month,5.0,outperform,188.0
+2012-05-18,J.P. Morgan,6 month,5.0,overweight,176.0
+2012-05-18,Stephens Inc,12 month,5.0,overweight,200.0
+2012-05-18,D.A. Davidson & Co,12 month,5.0,buy,210.0
+2012-05-18,Goldman Sachs,12 month,5.0,buy/attractive,214.0
+2012-05-18,Cowen,Not Provided,5.0,outperform,-0.0
+2012-05-18,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-05-21,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-05-21,Stifel,12 month,5.0,buy,190.0
+2012-05-21,Barclays,Not Provided,5.0,overwt/positive,185.0
+2012-05-22,Cowen,Not Provided,5.0,outperform,-0.0
+2012-05-23,RBC Capital Markets,12 month,5.0,top pick,204.0
+2012-05-25,Jefferies,12 month,3.0,hold,160.0
+2012-05-29,RBC Capital Markets,12 month,5.0,top pick,204.0
+2012-05-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-06-01,Jefferies,12 month,3.0,hold,160.0
+2012-06-05,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-06-07,RBC Capital Markets,12 month,5.0,top pick,204.0
+2012-06-08,Jefferies,12 month,3.0,hold,160.0
+2012-06-12,Goldman Sachs,12 month,5.0,buy/attractive,206.0
+2012-06-15,Jefferies,12 month,3.0,hold,160.0
+2012-06-15,RBC Capital Markets,12 month,5.0,top pick,204.0
+2012-06-18,J.P. Morgan,6 month,5.0,overweight,176.0
+2012-06-18,D.A. Davidson & Co,18 month,5.0,buy,210.0
+2012-06-18,Davenport & Co,Not Provided,3.0,neutral,170.0
+2012-06-19,Sterne Agee CRT,Not Provided,5.0,buy,198.0
+2012-06-20,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-06-22,RBC Capital Markets,12 month,5.0,top pick,204.0
+2012-06-22,Jefferies,12 month,3.0,hold,160.0
+2012-06-25,J.P. Morgan,6 month,5.0,overweight,176.0
+2012-06-29,Jefferies,12 month,3.0,hold,160.0
+2012-07-02,D.A. Davidson & Co,12 month,5.0,buy,210.0
+2012-07-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-07-02,Stifel,12 month,5.0,buy,190.0
+2012-07-02,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-07-02,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-07-03,D.A. Davidson & Co,18 month,5.0,buy,210.0
+2012-07-06,Jefferies,12 month,3.0,hold,160.0
+2012-07-09,BOE Securities,12 month,5.0,buy,188.0
+2012-07-09,Cowen,Not Provided,5.0,outperform,-0.0
+2012-07-09,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-07-09,Stifel,12 month,5.0,buy,190.0
+2012-07-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-07-10,RBC Capital Markets,12 month,5.0,top pick,204.0
+2012-07-13,Credit Suisse,Not Provided,5.0,outperform,189.0
+2012-07-13,D.A. Davidson & Co,18 month,5.0,buy,210.0
+2012-07-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-07-17,Buckingham Research Group,12 month,5.0,buy,199.0
+2012-07-17,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-07-17,Jefferies,12 month,3.0,hold,160.0
+2012-07-17,Stifel,12 month,5.0,buy,190.0
+2012-07-17,Cowen,Not Provided,5.0,outperform,-0.0
+2012-07-20,Jefferies,12 month,3.0,hold,160.0
+2012-07-20,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-07-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-07-23,D.A. Davidson & Co,12 month,5.0,buy,210.0
+2012-07-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-07-26,RBC Capital Markets,12 month,5.0,top pick,189.0
+2012-07-26,Credit Suisse,Not Provided,5.0,outperform,191.0
+2012-07-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-07-26,D.A. Davidson & Co,12 month,5.0,buy,215.0
+2012-07-27,J.P. Morgan,15 month,5.0,overweight,188.0
+2012-07-27,Jefferies,12 month,3.0,hold,160.0
+2012-07-27,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-07-27,Cowen,Not Provided,5.0,outperform,-0.0
+2012-07-27,Stifel,12 month,5.0,buy,190.0
+2012-07-27,Barclays,Not Provided,5.0,overweight,185.0
+2012-07-27,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-07-27,Davenport & Co,Not Provided,3.0,neutral,170.0
+2012-07-30,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-07-31,Imperial Capital LLC,12 month,5.0,outperform,190.0
+2012-08-01,RBC Capital Markets,12 month,5.0,top pick,189.0
+2012-08-01,Buckingham Research Group,12 month,5.0,buy,199.0
+2012-08-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-08-09,Sterne Agee CRT,Not Provided,5.0,buy,198.0
+2012-08-10,Jefferies,12 month,3.0,hold,160.0
+2012-08-10,RBC Capital Markets,12 month,5.0,top pick,192.0
+2012-08-11,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-08-13,Imperial Capital LLC,12 month,5.0,outperform,190.0
+2012-08-14,Cowen,Not Provided,5.0,outperform,-0.0
+2012-08-16,Cowen,Not Provided,5.0,outperform,-0.0
+2012-08-17,D.A. Davidson & Co,18 month,5.0,buy,215.0
+2012-08-17,Jefferies,12 month,3.0,hold,160.0
+2012-08-20,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-08-27,J.P. Morgan,15 month,5.0,overweight,188.0
+2012-08-28,RBC Capital Markets,12 month,5.0,top pick,192.0
+2012-08-28,Jefferies,12 month,3.0,hold,160.0
+2012-08-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-08-31,Jefferies,12 month,3.0,hold,160.0
+2012-09-05,Barclays,Not Provided,5.0,overweight,185.0
+2012-09-07,Jefferies,12 month,3.0,hold,160.0
+2012-09-11,S&P Capital IQ,Not Provided,5.0,buy,-0.0
+2012-09-14,Jefferies,12 month,3.0,hold,160.0
+2012-09-17,J.P. Morgan,15 month,5.0,overweight,188.0
+2012-09-19,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-09-21,D.A. Davidson & Co,18 month,5.0,buy,215.0
+2012-09-24,Stifel,12 month,5.0,buy,190.0
+2012-09-26,Jefferies,12 month,3.0,hold,160.0
+2012-09-28,Jefferies,12 month,3.0,hold,160.0
+2012-10-01,J.P. Morgan,12 month,5.0,overweight,188.0
+2012-10-01,Imperial Capital LLC,12 month,5.0,outperform,190.0
+2012-10-02,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-10-04,RBC Capital Markets,12 month,5.0,top pick,192.0
+2012-10-09,Cowen,Not Provided,5.0,outperform,-0.0
+2012-10-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-10-10,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-10-10,UBS,12 month,3.0,neutral,174.0
+2012-10-11,Stifel,12 month,5.0,buy,190.0
+2012-10-15,Credit Suisse,Not Provided,5.0,outperform,191.0
+2012-10-15,Imperial Capital LLC,12 month,5.0,outperform,190.0
+2012-10-16,Cowen,Not Provided,5.0,outperform,-0.0
+2012-10-16,Barclays,Not Provided,5.0,overweight,185.0
+2012-10-16,Jefferies,12 month,3.0,hold,160.0
+2012-10-17,D.A. Davidson & Co,18 month,5.0,buy,215.0
+2012-10-19,Jefferies,12 month,3.0,hold,160.0
+2012-10-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-10-19,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-10-19,D.A. Davidson & Co,18 month,5.0,buy,215.0
+2012-10-22,Imperial Capital LLC,12 month,5.0,outperform,190.0
+2012-10-22,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-10-24,Stifel,12 month,5.0,buy,190.0
+2012-10-25,Davenport & Co,Not Provided,3.0,neutral,170.0
+2012-10-25,S&P Capital IQ,12 month,5.0,buy,210.0
+2012-10-25,Sterne Agee CRT,12 month,5.0,buy,190.0
+2012-10-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-10-25,D.A. Davidson & Co,12 month,5.0,buy,215.0
+2012-10-25,Credit Suisse,Not Provided,5.0,outperform,199.0
+2012-10-25,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-10-26,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-10-26,Stifel,12 month,5.0,buy,190.0
+2012-10-26,Cowen,Not Provided,5.0,outperform,-0.0
+2012-10-26,Barclays,Not Provided,5.0,overweight,185.0
+2012-10-26,J.P. Morgan,12 month,5.0,overweight,185.0
+2012-10-26,Goldman Sachs,12 month,5.0,buy/attractive,203.0
+2012-10-26,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-10-26,Imperial Capital LLC,12 month,5.0,outperform,190.0
+2012-10-26,RBC Capital Markets,12 month,5.0,top pick,192.0
+2012-10-31,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-11-02,Jefferies,12 month,3.0,hold,160.0
+2012-11-05,Credit Suisse,Not Provided,5.0,outperform,199.0
+2012-11-05,Imperial Capital LLC,12 month,5.0,outperform,191.0
+2012-11-06,RBC Capital Markets,12 month,5.0,top pick,192.0
+2012-11-07,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-11-09,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-11-09,Jefferies,12 month,3.0,hold,160.0
+2012-11-09,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-11-11,Credit Suisse,Not Provided,5.0,outperform,212.0
+2012-11-12,D.A. Davidson & Co,18 month,5.0,buy,215.0
+2012-11-12,Cowen,Not Provided,5.0,outperform,-0.0
+2012-11-12,Sterne Agee CRT,12 month,5.0,buy,217.0
+2012-11-12,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-11-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-11-12,Imperial Capital LLC,12 month,5.0,outperform,190.0
+2012-11-12,Stifel,12 month,5.0,buy,190.0
+2012-11-12,Barclays,Not Provided,5.0,overweight,200.0
+2012-11-12,RBC Capital Markets,12 month,5.0,top pick,192.0
+2012-11-12,J.P. Morgan,12 month,5.0,overweight,195.0
+2012-11-12,Davenport & Co,Not Provided,3.0,neutral,170.0
+2012-11-13,Sterne Agee CRT,Not Provided,5.0,buy,198.0
+2012-11-13,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-11-15,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-11-16,Jefferies,12 month,3.0,hold,170.0
+2012-11-18,Goldman Sachs,12 month,5.0,buy/attractive,203.0
+2012-11-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-11-20,S&P Capital IQ,12 month,5.0,buy,210.0
+2012-11-21,D.A. Davidson & Co,18 month,5.0,buy,215.0
+2012-11-21,Jefferies,12 month,3.0,hold,170.0
+2012-11-26,Drexel Hamilton LLC,12 month,5.0,buy,200.0
+2012-11-26,Sterne Agee CRT,12 month,5.0,buy,217.0
+2012-11-26,Imperial Capital LLC,12 month,5.0,outperform,190.0
+2012-11-27,Cowen,Not Provided,5.0,outperform,-0.0
+2012-11-27,Stifel,12 month,5.0,buy,200.0
+2012-11-30,Jefferies,12 month,3.0,hold,170.0
+2012-12-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-12-07,Jefferies,12 month,3.0,hold,170.0
+2012-12-10,Buckingham Research Group,12 month,5.0,buy,217.0
+2012-12-13,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-12-13,RBC Capital Markets,12 month,5.0,top pick,192.0
+2012-12-21,RBC Capital Markets,12 month,5.0,top pick,220.0
+2012-12-24,Drexel Hamilton LLC,12 month,5.0,buy,210.0
+2012-12-28,Jefferies,12 month,3.0,hold,170.0
+2013-01-02,Cowen,Not Provided,5.0,outperform,-0.0
+2013-01-03,RBC Capital Markets,12 month,5.0,top pick,220.0
+2013-01-04,Jefferies,12 month,3.0,hold,170.0
+2013-01-06,Goldman Sachs,12 month,5.0,buy/attractive,234.0
+2013-01-07,Stifel,12 month,5.0,buy,215.0
+2013-01-08,Sterne Agee CRT,12 month,5.0,buy,217.0
+2013-01-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-01-08,Drexel Hamilton LLC,12 month,5.0,buy,210.0
+2013-01-09,UBS,12 month,3.0,neutral,174.0
+2013-01-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-01-10,Credit Suisse,Not Provided,5.0,outperform,212.0
+2013-01-11,D.A. Davidson & Co,18 month,5.0,buy,215.0
+2013-01-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-01-15,Barclays,Not Provided,5.0,overweight,200.0
+2013-01-15,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-01-16,Jefferies,12 month,3.0,hold,170.0
+2013-01-17,Sterne Agee CRT,Not Provided,5.0,buy,215.0
+2013-01-21,Jefferies,12 month,3.0,hold,170.0
+2013-01-22,UBS,12 month,5.0,buy,213.0
+2013-01-22,D.A. Davidson & Co,18 month,5.0,buy,215.0
+2013-01-23,Stifel,12 month,5.0,buy,215.0
+2013-01-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-01-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-01-24,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-01-24,Sterne Agee CRT,12 month,5.0,buy,217.0
+2013-01-24,Credit Suisse,Not Provided,5.0,outperform,225.0
+2013-01-24,RBC Capital Markets,12 month,5.0,top pick,230.0
+2013-01-24,Cowen,Not Provided,5.0,outperform,-0.0
+2013-01-25,Stifel,12 month,5.0,buy,215.0
+2013-01-25,Sterne Agee CRT,12 month,5.0,buy,217.0
+2013-01-25,D.A. Davidson & Co,18 month,5.0,buy,240.0
+2013-01-25,J.P. Morgan,6 month,5.0,overweight,195.0
+2013-01-25,Barclays,Not Provided,5.0,overweight,220.0
+2013-01-25,Jefferies,12 month,3.0,hold,190.0
+2013-01-25,Imperial Capital LLC,12 month,5.0,outperform,215.0
+2013-01-25,Davenport & Co,12 month,3.0,neutral,213.0
+2013-01-28,UBS,12 month,5.0,buy,218.0
+2013-01-28,Drexel Hamilton LLC,12 month,5.0,buy,210.0
+2013-01-30,Sterne Agee CRT,Not Provided,5.0,buy,215.0
+2013-02-01,Jefferies,12 month,3.0,hold,190.0
+2013-02-04,RBC Capital Markets,12 month,5.0,top pick,230.0
+2013-02-05,Buckingham Research Group,12 month,5.0,buy,219.0
+2013-02-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-02-07,Drexel Hamilton LLC,12 month,5.0,buy,210.0
+2013-02-08,Jefferies,12 month,3.0,hold,190.0
+2013-02-08,Imperial Capital LLC,12 month,5.0,outperform,215.0
+2013-02-08,Drexel Hamilton LLC,12 month,5.0,buy,210.0
+2013-02-12,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2013-02-12,Cowen,Not Provided,5.0,outperform,-0.0
+2013-02-15,Imperial Capital LLC,12 month,5.0,outperform,215.0
+2013-02-19,Davenport & Co,12 month,3.0,neutral,213.0
+2013-02-20,RBC Capital Markets,12 month,5.0,top pick,230.0
+2013-02-20,Cowen,Not Provided,5.0,outperform,-0.0
+2013-02-20,Sterne Agee CRT,12 month,5.0,buy,217.0
+2013-02-22,Jefferies,12 month,3.0,hold,190.0
+2013-02-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-03-01,RBC Capital Markets,12 month,5.0,top pick,230.0
+2013-03-01,Jefferies,12 month,3.0,hold,190.0
+2013-03-04,Drexel Hamilton LLC,12 month,5.0,buy,210.0
+2013-03-05,Imperial Capital LLC,12 month,5.0,outperform,215.0
+2013-03-06,Cowen,Not Provided,5.0,outperform,-0.0
+2013-03-08,Jefferies,12 month,3.0,hold,190.0
+2013-03-13,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-03-15,D.A. Davidson & Co,18 month,5.0,buy,240.0
+2013-03-15,Jefferies,12 month,3.0,hold,190.0
+2013-03-18,Stifel,12 month,5.0,buy,215.0
+2013-03-18,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-03-19,D.A. Davidson & Co,18 month,5.0,buy,240.0
+2013-03-19,Drexel Hamilton LLC,12 month,5.0,buy,210.0
+2013-03-21,Imperial Capital LLC,12 month,5.0,outperform,215.0
+2013-03-21,RBC Capital Markets,12 month,5.0,top pick,230.0
+2013-03-22,Cowen,Not Provided,5.0,outperform,-0.0
+2013-03-22,Jefferies,12 month,3.0,hold,190.0
+2013-03-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-03-28,Jefferies,12 month,3.0,hold,190.0
+2013-04-01,Drexel Hamilton LLC,12 month,5.0,buy,210.0
+2013-04-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-04-03,RBC Capital Markets,12 month,5.0,top pick,230.0
+2013-04-05,Buckingham Research Group,12 month,5.0,buy,219.0
+2013-04-05,Imperial Capital LLC,12 month,5.0,outperform,215.0
+2013-04-08,Goldman Sachs,12 month,5.0,buy/attractive,247.0
+2013-04-08,Jefferies,12 month,3.0,hold,190.0
+2013-04-08,Sterne Agee CRT,12 month,5.0,buy,217.0
+2013-04-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-04-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-04-10,RBC Capital Markets,12 month,5.0,top pick,230.0
+2013-04-11,Jefferies,12 month,3.0,hold,190.0
+2013-04-11,Imperial Capital LLC,12 month,5.0,outperform,215.0
+2013-04-11,Cowen,Not Provided,5.0,outperform,-0.0
+2013-04-15,Barclays,Not Provided,5.0,overweight,220.0
+2013-04-16,Credit Suisse,Not Provided,5.0,outperform,225.0
+2013-04-16,KeyBanc Capital Markets,12 month,5.0,buy,240.0
+2013-04-18,D.A. Davidson & Co,18 month,5.0,buy,240.0
+2013-04-19,Jefferies,12 month,3.0,hold,190.0
+2013-04-19,Sterne Agee CRT,12 month,5.0,buy,217.0
+2013-04-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-04-22,Imperial Capital LLC,12 month,5.0,outperform,215.0
+2013-04-25,RBC Capital Markets,12 month,5.0,top pick,230.0
+2013-04-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-04-26,Jefferies,12 month,3.0,hold,190.0
+2013-05-01,RBC Capital Markets,12 month,5.0,top pick,230.0
+2013-05-01,Drexel Hamilton LLC,12 month,5.0,buy,210.0
+2013-05-01,KeyBanc Capital Markets,12 month,5.0,buy,240.0
+2013-05-02,Cowen,Not Provided,5.0,outperform,-0.0
+2013-05-06,D.A. Davidson & Co,12 month,5.0,buy,240.0
+2013-05-09,RBC Capital Markets,12 month,5.0,top pick,230.0
+2013-05-09,Goldman Sachs,12 month,5.0,buy/attractive,251.0
+2013-05-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-05-09,Stifel,12 month,5.0,buy,235.0
+2013-05-09,Credit Suisse,Not Provided,5.0,outperform,238.0
+2013-05-09,KeyBanc Capital Markets,12 month,5.0,buy,250.0
+2013-05-10,D.A. Davidson & Co,18 month,5.0,buy,270.0
+2013-05-10,Cowen,Not Provided,5.0,outperform,-0.0
+2013-05-10,Jefferies,12 month,3.0,hold,200.0
+2013-05-10,J.P. Morgan,6 month,5.0,overweight,215.0
+2013-05-10,Sterne Agee CRT,12 month,5.0,buy,247.0
+2013-05-10,Barclays,Not Provided,5.0,overweight,235.0
+2013-05-10,Davenport & Co,Not Provided,3.0,neutral,213.0
+2013-05-10,Imperial Capital LLC,12 month,5.0,outperform,240.0
+2013-05-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-05-13,Drexel Hamilton LLC,12 month,5.0,buy,230.0
+2013-05-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-05-15,Sterne Agee CRT,Not Provided,5.0,buy,243.0
+2013-05-15,RBC Capital Markets,12 month,5.0,top pick,230.0
+2013-05-16,Topeka Capital Markets Inc,12 month,5.0,buy,255.0
+2013-05-17,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-05-17,D.A. Davidson & Co,18 month,5.0,buy,270.0
+2013-05-17,Jefferies,12 month,3.0,hold,200.0
+2013-05-20,Cowen,Not Provided,5.0,outperform,-0.0
+2013-05-24,Jefferies,12 month,3.0,hold,200.0
+2013-05-28,RBC Capital Markets,12 month,5.0,top pick,250.0
+2013-05-28,Buckingham Research Group,12 month,5.0,buy,242.0
+2013-05-28,Drexel Hamilton LLC,12 month,5.0,buy,230.0
+2013-05-30,Goldman Sachs,12 month,5.0,buy/attractive,280.0
+2013-05-31,Jefferies,12 month,3.0,hold,200.0
+2013-06-03,Drexel Hamilton LLC,12 month,5.0,buy,230.0
+2013-06-05,Cowen,12 month,5.0,outperform,240.0
+2013-06-07,Stifel,12 month,5.0,buy,235.0
+2013-06-07,Jefferies,12 month,3.0,hold,200.0
+2013-06-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-06-11,KeyBanc Capital Markets,12 month,5.0,buy,250.0
+2013-06-11,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-06-11,J.P. Morgan,15 month,5.0,overweight,236.0
+2013-06-12,Imperial Capital LLC,12 month,5.0,outperform,240.0
+2013-06-13,Stifel,12 month,5.0,buy,235.0
+2013-06-17,Drexel Hamilton LLC,12 month,5.0,buy,230.0
+2013-06-18,Cowen,12 month,5.0,outperform,240.0
+2013-06-19,D.A. Davidson & Co,18 month,5.0,buy,270.0
+2013-06-19,Cowen,12 month,5.0,outperform,240.0
+2013-06-20,Imperial Capital LLC,12 month,5.0,outperform,240.0
+2013-06-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-06-21,RBC Capital Markets,12 month,5.0,top pick,250.0
+2013-06-21,Jefferies,12 month,3.0,hold,200.0
+2013-06-27,Stifel,12 month,5.0,buy,235.0
+2013-06-27,Cowen,12 month,5.0,outperform,240.0
+2013-06-27,Goldman Sachs,12 month,5.0,buy/attractive,281.0
+2013-06-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-06-27,Sterne Agee CRT,12 month,5.0,buy,247.0
+2013-06-28,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-06-28,Jefferies,12 month,3.0,hold,200.0
+2013-06-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-02,RBC Capital Markets,12 month,5.0,top pick,250.0
+2013-07-05,Jefferies,12 month,3.0,hold,200.0
+2013-07-08,UBS,12 month,5.0,buy,265.0
+2013-07-08,Drexel Hamilton LLC,12 month,5.0,buy,260.0
+2013-07-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-09,Imperial Capital LLC,12 month,5.0,outperform,240.0
+2013-07-10,KeyBanc Capital Markets,12 month,5.0,buy,250.0
+2013-07-11,Drexel Hamilton LLC,12 month,5.0,buy,260.0
+2013-07-11,Sterne Agee CRT,12 month,5.0,buy,281.0
+2013-07-12,Credit Suisse,Not Provided,5.0,outperform,238.0
+2013-07-15,Barclays,Not Provided,5.0,overweight,235.0
+2013-07-15,Jefferies,12 month,3.0,hold,200.0
+2013-07-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-16,D.A. Davidson & Co,18 month,5.0,buy,270.0
+2013-07-19,Jefferies,12 month,3.0,hold,200.0
+2013-07-19,Sterne Agee CRT,12 month,5.0,buy,281.0
+2013-07-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-22,Davenport & Co,Not Provided,3.0,neutral,213.0
+2013-07-24,Stifel,12 month,5.0,buy,235.0
+2013-07-25,Davenport & Co,12 month,3.0,neutral,213.0
+2013-07-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-07-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-25,Credit Suisse,Not Provided,5.0,outperform,240.0
+2013-07-25,Buckingham Research Group,12 month,5.0,buy,272.0
+2013-07-25,Cowen,12 month,5.0,outperform,260.0
+2013-07-25,Goldman Sachs,12 month,5.0,buy/attractive,272.0
+2013-07-26,J.P. Morgan,15 month,5.0,overweight,238.0
+2013-07-26,Barclays,Not Provided,5.0,overweight,250.0
+2013-07-26,Topeka Capital Markets Inc,12 month,5.0,buy,265.0
+2013-07-26,Sterne Agee CRT,12 month,5.0,buy,281.0
+2013-07-26,D.A. Davidson & Co,12 month,5.0,buy,275.0
+2013-07-26,Jefferies,12 month,3.0,hold,235.0
+2013-07-26,RBC Capital Markets,12 month,5.0,top pick,260.0
+2013-07-29,Stifel,12 month,5.0,buy,235.0
+2013-07-31,KeyBanc Capital Markets,12 month,5.0,buy,250.0
+2013-08-02,RBC Capital Markets,12 month,5.0,top pick,260.0
+2013-08-02,Jefferies,12 month,3.0,hold,235.0
+2013-08-05,Buckingham Research Group,12 month,5.0,buy,268.0
+2013-08-06,Drexel Hamilton LLC,12 month,5.0,buy,260.0
+2013-08-09,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-08-09,Jefferies,12 month,3.0,hold,235.0
+2013-08-12,Goldman Sachs,12 month,5.0,buy/attractive,281.0
+2013-08-12,Stifel,12 month,5.0,buy,260.0
+2013-08-13,Cowen,12 month,5.0,outperform,260.0
+2013-08-15,Sterne Agee CRT,12 month,5.0,buy,281.0
+2013-08-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-08-19,D.A. Davidson & Co,18 month,5.0,buy,275.0
+2013-08-21,Jefferies,12 month,3.0,hold,235.0
+2013-08-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-08-23,Jefferies,12 month,3.0,hold,235.0
+2013-08-29,RBC Capital Markets,12 month,5.0,top pick,260.0
+2013-08-30,Jefferies,12 month,3.0,hold,235.0
+2013-09-03,Sterne Agee CRT,12 month,5.0,buy,281.0
+2013-09-06,Jefferies,12 month,3.0,hold,235.0
+2013-09-12,Drexel Hamilton LLC,12 month,5.0,buy,260.0
+2013-09-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-09-13,Jefferies,12 month,3.0,hold,235.0
+2013-09-16,Cowen,12 month,5.0,outperform,260.0
+2013-09-18,Drexel Hamilton LLC,12 month,5.0,buy,260.0
+2013-09-20,Jefferies,12 month,3.0,hold,235.0
+2013-09-24,RBC Capital Markets,12 month,5.0,top pick,280.0
+2013-09-26,Sterne Agee CRT,12 month,5.0,buy,281.0
+2013-09-27,Jefferies,12 month,3.0,hold,235.0
+2013-09-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-02,Sterne Agee CRT,Not Provided,5.0,buy,265.0
+2013-10-02,RBC Capital Markets,12 month,5.0,top pick,280.0
+2013-10-02,Cowen,12 month,5.0,outperform,260.0
+2013-10-03,Credit Suisse,Not Provided,5.0,outperform,287.0
+2013-10-07,J.P. Morgan,12 month,5.0,overweight,238.0
+2013-10-07,Sterne Agee CRT,12 month,5.0,buy,281.0
+2013-10-09,Jefferies,12 month,3.0,hold,235.0
+2013-10-09,Canaccord Genuity,Not Provided,5.0,buy,264.0
+2013-10-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-10-11,Jefferies,12 month,3.0,hold,235.0
+2013-10-14,Barclays,Not Provided,5.0,overweight,250.0
+2013-10-16,Cowen,12 month,5.0,outperform,260.0
+2013-10-16,Buckingham Research Group,12 month,5.0,buy,276.0
+2013-10-17,D.A. Davidson & Co,18 month,5.0,buy,275.0
+2013-10-23,Stifel,12 month,5.0,buy,260.0
+2013-10-24,Credit Suisse,Not Provided,5.0,outperform,287.0
+2013-10-24,Buckingham Research Group,12 month,5.0,buy,276.0
+2013-10-24,D.A. Davidson & Co,12 month,5.0,buy,300.0
+2013-10-24,Canaccord Genuity,Not Provided,5.0,buy,287.0
+2013-10-24,Cowen,12 month,5.0,outperform,295.0
+2013-10-24,Jefferies,12 month,3.0,hold,235.0
+2013-10-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-10-24,KeyBanc Capital Markets,12 month,5.0,buy,284.0
+2013-10-24,Sterne Agee CRT,12 month,5.0,buy,281.0
+2013-10-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-25,Goldman Sachs,12 month,5.0,buy/attractive,297.0
+2013-10-25,Topeka Capital Markets Inc,12 month,5.0,buy,286.0
+2013-10-25,Barclays,Not Provided,5.0,overweight,290.0
+2013-10-25,Stifel,12 month,5.0,buy,275.0
+2013-10-25,J.P. Morgan,12 month,5.0,overweight,275.0
+2013-10-25,RBC Capital Markets,12 month,5.0,top pick,290.0
+2013-10-25,Sterne Agee CRT,12 month,5.0,buy,281.0
+2013-10-25,Davenport & Co,12 month,3.0,neutral,236.0
+2013-10-28,Jefferies,12 month,3.0,hold,235.0
+2013-10-29,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-10-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-31,KeyBanc Capital Markets,12 month,5.0,buy,284.0
+2013-11-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-11-01,Jefferies,12 month,3.0,hold,235.0
+2013-11-04,RBC Capital Markets,12 month,5.0,top pick,290.0
+2013-11-07,UBS,12 month,5.0,buy,303.0
+2013-11-08,Buckingham Research Group,12 month,5.0,buy,280.0
+2013-11-15,Jefferies,12 month,3.0,hold,235.0
+2013-11-22,Sterne Agee CRT,12 month,5.0,buy,324.0
+2013-11-24,KeyBanc Capital Markets,12 month,5.0,buy,284.0
+2013-11-26,Goldman Sachs,12 month,5.0,buy/attractive,332.0
+2013-11-26,RBC Capital Markets,12 month,5.0,top pick,290.0
+2013-12-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-12-02,Cowen,12 month,5.0,outperform,295.0
+2013-12-03,RBC Capital Markets,12 month,5.0,top pick,290.0
+2013-12-05,KeyBanc Capital Markets,12 month,5.0,buy,284.0
+2013-12-09,Sterne Agee CRT,12 month,5.0,buy,324.0
+2013-12-13,Jefferies,12 month,3.0,hold,235.0
+2013-12-15,Stifel,12 month,5.0,buy,275.0
+2013-12-19,Credit Suisse,Not Provided,5.0,outperform,312.0
+2013-12-27,Jefferies,12 month,3.0,hold,235.0
+2014-01-03,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-01-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-01-08,Canaccord Genuity,Not Provided,5.0,buy,300.0
+2014-01-08,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-01-09,J.P. Morgan,12 month,5.0,overweight,295.0
+2014-01-09,Goldman Sachs,12 month,5.0,buy/attractive,338.0
+2014-01-10,Jefferies,12 month,3.0,hold,235.0
+2014-01-13,Cowen,12 month,5.0,outperform,304.0
+2014-01-13,KeyBanc Capital Markets,12 month,5.0,buy,300.0
+2014-01-14,Credit Suisse,Not Provided,5.0,outperform,312.0
+2014-01-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-01-15,Cowen,12 month,5.0,outperform,304.0
+2014-01-17,KeyBanc Capital Markets,12 month,5.0,buy,300.0
+2014-01-17,Barclays,Not Provided,5.0,overweight,290.0
+2014-01-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-01-17,Sterne Agee CRT,12 month,5.0,buy,324.0
+2014-01-17,Jefferies,12 month,3.0,hold,235.0
+2014-01-20,Stifel,12 month,5.0,buy,275.0
+2014-01-21,D.A. Davidson & Co,18 month,5.0,buy,300.0
+2014-01-21,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-01-23,Cowen,12 month,5.0,outperform,304.0
+2014-01-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-01-23,KeyBanc Capital Markets,12 month,5.0,buy,300.0
+2014-01-23,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-01-23,Credit Suisse,Not Provided,5.0,outperform,312.0
+2014-01-23,Goldman Sachs,12 month,5.0,buy/attractive,331.0
+2014-01-24,Jefferies,12 month,3.0,hold,235.0
+2014-01-24,Canaccord Genuity,12 month,5.0,buy,300.0
+2014-01-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-01-24,Topeka Capital Markets Inc,12 month,5.0,buy,315.0
+2014-01-24,Stifel,12 month,5.0,buy,275.0
+2014-01-24,Barclays,Not Provided,5.0,overweight,310.0
+2014-01-24,J.P. Morgan,6 month,5.0,overweight,288.0
+2014-01-24,Sterne Agee CRT,12 month,5.0,buy,324.0
+2014-01-24,D.A. Davidson & Co,18 month,5.0,buy,320.0
+2014-01-24,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-01-27,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-01-28,Sterne Agee CRT,12 month,5.0,buy,295.0
+2014-01-31,Jefferies,12 month,3.0,hold,235.0
+2014-02-10,Cowen,12 month,5.0,outperform,304.0
+2014-02-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-02-12,Jefferies,12 month,3.0,hold,235.0
+2014-02-18,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-02-21,Jefferies,12 month,3.0,hold,235.0
+2014-02-21,Credit Suisse,Not Provided,5.0,outperform,312.0
+2014-02-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-02-26,Stifel,12 month,5.0,buy,275.0
+2014-02-26,Canaccord Genuity,12 month,5.0,buy,300.0
+2014-03-03,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-03-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-03-05,KeyBanc Capital Markets,12 month,5.0,buy,300.0
+2014-03-05,Stifel,12 month,5.0,buy,275.0
+2014-03-06,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-03-07,Cowen,12 month,5.0,outperform,304.0
+2014-03-11,Topeka Capital Markets Inc,12 month,5.0,buy,315.0
+2014-03-17,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-03-20,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-03-20,Stifel,12 month,5.0,buy,275.0
+2014-03-20,Canaccord Genuity,12 month,5.0,buy,300.0
+2014-03-20,Sterne Agee CRT,12 month,5.0,buy,324.0
+2014-03-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-03-20,D.A. Davidson & Co,Not Provided,5.0,buy,320.0
+2014-03-20,Cowen,12 month,5.0,outperform,304.0
+2014-03-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-03-21,Topeka Capital Markets Inc,12 month,5.0,buy,315.0
+2014-03-21,Goldman Sachs,12 month,5.0,buy/attractive,317.0
+2014-03-27,Canaccord Genuity,12 month,5.0,buy,300.0
+2014-03-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-03-31,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-03-31,Cowen,12 month,5.0,outperform,304.0
+2014-03-31,Stifel,12 month,5.0,buy,275.0
+2014-04-02,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-04-02,Sterne Agee CRT,12 month,5.0,buy,324.0
+2014-04-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-04-03,KeyBanc Capital Markets,12 month,5.0,buy,300.0
+2014-04-07,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-04-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-04-10,Cowen,12 month,5.0,outperform,304.0
+2014-04-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-04-11,Stifel,12 month,5.0,buy,275.0
+2014-04-14,Credit Suisse,Not Provided,5.0,outperform,312.0
+2014-04-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-14,Barclays,Not Provided,5.0,overweight,310.0
+2014-04-15,KeyBanc Capital Markets,12 month,5.0,buy,300.0
+2014-04-16,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-04-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-04-17,Sterne Agee CRT,12 month,5.0,buy,324.0
+2014-04-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-04-21,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-04-25,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-04-28,Cowen,12 month,5.0,outperform,304.0
+2014-04-28,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-04-30,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-05-02,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-05-02,Jefferies,12 month,3.0,hold,235.0
+2014-05-02,D.A. Davidson & Co,18 month,5.0,buy,320.0
+2014-05-08,Stifel,12 month,5.0,buy,275.0
+2014-05-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-05-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-08,Cowen,12 month,5.0,outperform,304.0
+2014-05-08,Canaccord Genuity,12 month,5.0,buy,300.0
+2014-05-08,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-05-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-05-09,KeyBanc Capital Markets,12 month,5.0,buy,300.0
+2014-05-09,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-05-09,Barclays,Not Provided,5.0,overweight,300.0
+2014-05-09,Jefferies,12 month,3.0,hold,260.0
+2014-05-09,Sterne Agee CRT,12 month,5.0,buy,324.0
+2014-05-09,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-05-09,J.P. Morgan,6 month,5.0,overweight,280.0
+2014-05-09,D.A. Davidson & Co,Not Provided,5.0,buy,320.0
+2014-05-09,Sterne Agee CRT,Not Provided,5.0,buy,295.0
+2014-05-09,Credit Suisse,Not Provided,5.0,outperform,312.0
+2014-05-09,Topeka Capital Markets Inc,12 month,5.0,buy,315.0
+2014-05-12,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-05-16,Jefferies,12 month,3.0,hold,260.0
+2014-05-16,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-05-19,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-05-23,Jefferies,Not Provided,3.0,hold,260.0
+2014-05-23,Cowen,12 month,5.0,outperform,304.0
+2014-05-23,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-05-28,Sterne Agee CRT,Not Provided,5.0,buy,295.0
+2014-05-30,Jefferies,Not Provided,3.0,hold,260.0
+2014-06-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-06-02,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-06-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-06-03,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-06-06,Jefferies,Not Provided,3.0,hold,260.0
+2014-06-06,BOE Securities,12 month,5.0,buy,299.0
+2014-06-09,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-06-09,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-06-11,Stifel,12 month,5.0,buy,275.0
+2014-06-13,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-06-13,Jefferies,Not Provided,3.0,hold,260.0
+2014-06-16,Barclays,Not Provided,5.0,overweight,300.0
+2014-06-16,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-06-23,Jefferies,Not Provided,3.0,hold,260.0
+2014-06-23,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-06-26,Cowen,12 month,5.0,outperform,304.0
+2014-06-26,Stifel,12 month,5.0,buy,275.0
+2014-06-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-06-30,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-07-03,KeyBanc Capital Markets,12 month,5.0,buy,300.0
+2014-07-03,Jefferies,12 month,3.0,hold,260.0
+2014-07-07,Sterne Agee CRT,Not Provided,5.0,buy,324.0
+2014-07-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-08,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-07-10,Barclays,Not Provided,5.0,overweight,300.0
+2014-07-10,Credit Suisse,Not Provided,5.0,outperform,312.0
+2014-07-11,Cowen,Not Provided,5.0,outperform,304.0
+2014-07-11,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-11,Jefferies,12 month,3.0,hold,260.0
+2014-07-15,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-07-15,Stifel,12 month,5.0,buy,275.0
+2014-07-16,Stifel,12 month,5.0,buy,275.0
+2014-07-18,Sterne Agee CRT,12 month,5.0,buy,324.0
+2014-07-18,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-07-18,D.A. Davidson & Co,18 month,5.0,buy,320.0
+2014-07-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-21,Jefferies,12 month,3.0,hold,260.0
+2014-07-21,KeyBanc Capital Markets,Not Provided,5.0,buy,286.0
+2014-07-22,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-07-24,Stifel,12 month,5.0,buy,275.0
+2014-07-24,Goldman Sachs,12 month,5.0,buy/attractive,289.0
+2014-07-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-24,Credit Suisse,Not Provided,5.0,outperform,292.0
+2014-07-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-07-24,Cowen,12 month,5.0,outperform,288.0
+2014-07-24,KeyBanc Capital Markets,12 month,5.0,buy,286.0
+2014-07-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-25,J.P. Morgan,12 month,5.0,overweight,280.0
+2014-07-25,Canaccord Genuity,Not Provided,5.0,buy,280.0
+2014-07-25,Barclays,Not Provided,5.0,overweight,275.0
+2014-07-25,Topeka Capital Markets Inc,12 month,5.0,buy,315.0
+2014-07-25,Jefferies,Not Provided,3.0,hold,260.0
+2014-07-25,Sterne Agee CRT,12 month,5.0,buy,324.0
+2014-07-28,D.A. Davidson & Co,Not Provided,5.0,buy,320.0
+2014-07-28,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-07-29,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-07-30,UBS,12 month,5.0,buy,275.0
+2014-08-01,Jefferies,Not Provided,3.0,hold,260.0
+2014-08-04,Sterne Agee CRT,Not Provided,5.0,buy,324.0
+2014-08-04,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-08-05,Sterne Agee CRT,12 month,5.0,buy,307.0
+2014-08-05,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-08-06,KeyBanc Capital Markets,12 month,5.0,buy,286.0
+2014-08-11,Buckingham Research Group,12 month,5.0,buy,314.0
+2014-08-11,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-08-14,Topeka Capital Markets Inc,12 month,5.0,buy,315.0
+2014-08-15,Jefferies,Not Provided,3.0,hold,260.0
+2014-08-18,D.A. Davidson & Co,Not Provided,5.0,buy,320.0
+2014-08-18,Buckingham Research Group,12 month,5.0,buy,313.0
+2014-08-19,Cowen,Not Provided,5.0,outperform,288.0
+2014-08-19,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-08-22,Jefferies,Not Provided,3.0,hold,260.0
+2014-08-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-08-26,RBC Capital Markets,12 month,5.0,top pick,310.0
+2014-08-26,Cowen,12 month,5.0,outperform,288.0
+2014-08-29,Jefferies,12 month,3.0,hold,260.0
+2014-09-03,RBC Capital Markets,12 month,5.0,top pick,300.0
+2014-09-03,KeyBanc Capital Markets,12 month,5.0,buy,286.0
+2014-09-05,Jefferies,12 month,3.0,hold,260.0
+2014-09-10,RBC Capital Markets,12 month,5.0,top pick,300.0
+2014-09-16,Sterne Agee CRT,12 month,5.0,buy,324.0
+2014-09-17,RBC Capital Markets,12 month,5.0,top pick,300.0
+2014-09-19,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-09-22,Jefferies,Not Provided,3.0,hold,260.0
+2014-09-23,Canaccord Genuity,Not Provided,5.0,buy,280.0
+2014-09-24,RBC Capital Markets,12 month,5.0,top pick,300.0
+2014-09-26,Jefferies,Not Provided,3.0,hold,260.0
+2014-10-01,Cowen,12 month,5.0,outperform,288.0
+2014-10-01,RBC Capital Markets,12 month,5.0,top pick,300.0
+2014-10-02,KeyBanc Capital Markets,12 month,5.0,buy,286.0
+2014-10-03,Jefferies,Not Provided,3.0,hold,260.0
+2014-10-06,Sterne Agee CRT,12 month,5.0,buy,324.0
+2014-10-06,Stifel,12 month,5.0,buy,275.0
+2014-10-07,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-10-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-08,RBC Capital Markets,12 month,5.0,top pick,300.0
+2014-10-09,Cowen,Not Provided,5.0,outperform,288.0
+2014-10-09,J.P. Morgan,12 month,5.0,overweight,280.0
+2014-10-10,KeyBanc Capital Markets,12 month,5.0,buy,286.0
+2014-10-10,Topeka Capital Markets Inc,12 month,5.0,buy,315.0
+2014-10-10,Barclays,Not Provided,5.0,overweight,275.0
+2014-10-13,D.A. Davidson & Co,18 month,5.0,buy,320.0
+2014-10-14,Jefferies,12 month,3.0,hold,260.0
+2014-10-14,Credit Suisse,Not Provided,5.0,outperform,292.0
+2014-10-15,Canaccord Genuity,12 month,5.0,buy,280.0
+2014-10-15,RBC Capital Markets,12 month,5.0,top pick,300.0
+2014-10-16,KeyBanc Capital Markets,Not Provided,5.0,buy,286.0
+2014-10-17,Buckingham Research Group,12 month,5.0,buy,313.0
+2014-10-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-17,Sterne Agee CRT,12 month,5.0,buy,324.0
+2014-10-17,D.A. Davidson & Co,18 month,5.0,buy,320.0
+2014-10-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-10-22,RBC Capital Markets,12 month,5.0,top pick,300.0
+2014-10-22,Stifel,12 month,5.0,buy,275.0
+2014-10-23,Credit Suisse,Not Provided,5.0,outperform,289.0
+2014-10-23,Stifel,12 month,5.0,buy,275.0
+2014-10-23,Canaccord Genuity,Not Provided,5.0,buy,276.0
+2014-10-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-23,D.A. Davidson & Co,Not Provided,5.0,buy,310.0
+2014-10-23,Buckingham Research Group,12 month,5.0,buy,313.0
+2014-10-23,KeyBanc Capital Markets,12 month,5.0,buy,269.0
+2014-10-24,Sterne Agee CRT,12 month,5.0,buy,283.0
+2014-10-24,Goldman Sachs,12 month,5.0,buy/attractive,285.0
+2014-10-24,Topeka Capital Markets Inc,12 month,5.0,buy,305.0
+2014-10-24,Cowen,12 month,5.0,outperform,270.0
+2014-10-24,Barclays,Not Provided,5.0,overweight,270.0
+2014-10-27,Jefferies,12 month,3.0,hold,260.0
+2014-10-27,J.P. Morgan,12 month,3.0,neutral,240.0
+2014-10-29,RBC Capital Markets,12 month,5.0,outperform,265.0
+2014-10-31,Jefferies,Not Provided,3.0,hold,260.0
+2014-11-04,Buckingham Research Group,12 month,5.0,buy,313.0
+2014-11-04,KeyBanc Capital Markets,12 month,5.0,buy,269.0
+2014-11-05,RBC Capital Markets,12 month,5.0,outperform,265.0
+2014-11-07,Jefferies,Not Provided,3.0,hold,260.0
+2014-11-07,Topeka Capital Markets Inc,12 month,5.0,buy,305.0
+2014-11-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-11-12,RBC Capital Markets,12 month,5.0,outperform,265.0
+2014-11-14,Jefferies,Not Provided,3.0,hold,255.0
+2014-11-17,Buckingham Research Group,12 month,5.0,buy,285.0
+2014-11-19,RBC Capital Markets,12 month,5.0,outperform,265.0
+2014-11-20,D.A. Davidson & Co,Not Provided,5.0,buy,310.0
+2014-11-21,Topeka Capital Markets Inc,12 month,5.0,buy,305.0
+2014-11-24,Buckingham Research Group,12 month,5.0,buy,285.0
+2014-11-26,Jefferies,12 month,3.0,hold,255.0
+2014-11-26,RBC Capital Markets,12 month,5.0,outperform,265.0
+2014-12-04,KeyBanc Capital Markets,12 month,5.0,buy,269.0
+2014-12-04,RBC Capital Markets,12 month,5.0,outperform,265.0
+2014-12-05,Jefferies,12 month,3.0,hold,255.0
+2014-12-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-12-08,Topeka Capital Markets Inc,12 month,5.0,buy,305.0
+2014-12-08,Sterne Agee CRT,Not Provided,5.0,buy,283.0
+2014-12-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-12-11,Buckingham Research Group,12 month,5.0,buy,285.0
+2014-12-11,RBC Capital Markets,12 month,5.0,outperform,265.0
+2014-12-16,Jefferies,Not Provided,3.0,hold,255.0
+2014-12-18,RBC Capital Markets,12 month,5.0,outperform,265.0
+2014-12-19,Jefferies,12 month,3.0,hold,255.0
+2014-12-22,Sterne Agee CRT,Not Provided,5.0,buy,283.0
+2014-12-23,RBC Capital Markets,12 month,5.0,outperform,265.0
+2014-12-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-01-02,D.A. Davidson & Co,Not Provided,5.0,buy,310.0
+2015-01-04,Goldman Sachs,12 month,5.0,buy/attractive,311.0
+2015-01-05,RBC Capital Markets,12 month,5.0,outperform,265.0
+2015-01-06,Northcoast Research,12 month,3.0,neutral,270.0
+2015-01-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-01-08,Buckingham Research Group,12 month,5.0,buy,285.0
+2015-01-08,Sterne Agee CRT,12 month,5.0,buy,283.0
+2015-01-09,Jefferies,12 month,3.0,hold,255.0
+2015-01-12,RBC Capital Markets,12 month,5.0,outperform,274.0
+2015-01-12,Cowen,12 month,5.0,outperform,270.0
+2015-01-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-15,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-01-16,Northcoast Research,12 month,3.0,neutral,270.0
+2015-01-16,Stifel,Not Provided,3.0,hold,-0.0
+2015-01-16,Cowen,12 month,5.0,outperform,270.0
+2015-01-16,Credit Suisse,Not Provided,5.0,outperform,289.0
+2015-01-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-01-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-01-16,Sterne Agee CRT,12 month,5.0,buy,239.0
+2015-01-16,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2015-01-19,UBS,12 month,5.0,buy,250.0
+2015-01-20,Jefferies,Not Provided,3.0,hold,255.0
+2015-01-20,J.P. Morgan,12 month,3.0,neutral,224.0
+2015-01-20,RBC Capital Markets,12 month,5.0,outperform,244.0
+2015-01-20,Barclays,Not Provided,5.0,overweight,245.0
+2015-01-20,Canaccord Genuity,Not Provided,3.0,hold,242.0
+2015-01-20,Buckingham Research Group,12 month,5.0,buy,272.0
+2015-01-20,D.A. Davidson & Co,Not Provided,5.0,buy,280.0
+2015-01-20,Goldman Sachs,12 month,5.0,buy/attractive,262.0
+2015-01-22,D.A. Davidson & Co,Not Provided,5.0,buy,280.0
+2015-01-22,Barclays,Not Provided,5.0,overweight,230.0
+2015-01-22,Cowen,12 month,3.0,market perform,220.0
+2015-01-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-01-22,Stifel,Not Provided,3.0,hold,-0.0
+2015-01-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-01-23,Northcoast Research,12 month,5.0,buy,250.0
+2015-01-23,Sterne Agee CRT,12 month,3.0,neutral,218.0
+2015-01-23,J.P. Morgan,12 month,3.0,neutral,224.0
+2015-01-23,Buckingham Research Group,12 month,5.0,buy,259.0
+2015-01-23,Goldman Sachs,12 month,5.0,buy/attractive,258.0
+2015-01-26,Canaccord Genuity,12 month,3.0,hold,240.0
+2015-01-26,Credit Suisse,Not Provided,3.0,neutral,223.0
+2015-01-26,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2015-01-26,Jefferies,Not Provided,3.0,hold,213.0
+2015-01-27,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-02-02,Canaccord Genuity,12 month,3.0,hold,240.0
+2015-02-03,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-02-06,Jefferies,Not Provided,3.0,hold,213.0
+2015-02-10,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-02-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-11,Canaccord Genuity,12 month,3.0,hold,240.0
+2015-02-13,Jefferies,Not Provided,3.0,hold,213.0
+2015-02-18,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-02-23,Goldman Sachs,12 month,3.0,neutral/neutral,223.0
+2015-02-23,Buckingham Research Group,12 month,5.0,buy,259.0
+2015-02-24,Jefferies,Not Provided,3.0,hold,213.0
+2015-02-25,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-02-27,Jefferies,Not Provided,3.0,hold,213.0
+2015-03-01,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-03-04,Canaccord Genuity,12 month,3.0,hold,240.0
+2015-03-04,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-03-05,Stifel,Not Provided,3.0,hold,-0.0
+2015-03-06,Jefferies,Not Provided,3.0,hold,213.0
+2015-03-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-11,Cowen,12 month,3.0,market perform,220.0
+2015-03-11,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-03-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-13,Jefferies,Not Provided,3.0,hold,213.0
+2015-03-17,Sterne Agee CRT,12 month,5.0,buy,292.0
+2015-03-17,Buckingham Research Group,12 month,5.0,buy,259.0
+2015-03-18,Canaccord Genuity,12 month,3.0,hold,240.0
+2015-03-18,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-03-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-03-20,Jefferies,Not Provided,3.0,hold,213.0
+2015-03-23,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-03-26,Canaccord Genuity,12 month,3.0,hold,240.0
+2015-03-27,Sterne Agee CRT,12 month,3.0,neutral,218.0
+2015-03-30,Cowen,12 month,3.0,market perform,220.0
+2015-04-01,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-04-01,Jefferies,12 month,3.0,hold,213.0
+2015-04-02,Jefferies,Not Provided,3.0,hold,213.0
+2015-04-06,Sterne Agee CRT,Not Provided,3.0,neutral,218.0
+2015-04-09,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-04-09,Credit Suisse,Not Provided,3.0,neutral,223.0
+2015-04-15,Buckingham Research Group,12 month,5.0,buy,249.0
+2015-04-15,Goldman Sachs,12 month,3.0,neutral/neutral,207.0
+2015-04-15,Credit Suisse,Not Provided,3.0,neutral,202.0
+2015-04-15,Barclays,Not Provided,5.0,overweight,230.0
+2015-04-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-15,Cowen,12 month,3.0,market perform,220.0
+2015-04-15,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-15,D.A. Davidson & Co,18 month,3.0,neutral,220.0
+2015-04-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-04-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-16,Canaccord Genuity,12 month,3.0,hold,225.0
+2015-04-16,Northcoast Research,12 month,5.0,buy,250.0
+2015-04-16,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-04-16,Sterne Agee CRT,12 month,3.0,neutral,218.0
+2015-04-16,Jefferies,12 month,3.0,hold,213.0
+2015-04-16,UBS,Not Provided,-2147483648.0,Under Review,-0.0
+2015-04-16,RBC Capital Markets,12 month,5.0,outperform,240.0
+2015-04-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-19,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-04-20,UBS,12 month,5.0,buy,244.0
+2015-04-20,Buckingham Research Group,12 month,5.0,buy,249.0
+2015-04-20,Jefferies,Not Provided,3.0,hold,213.0
+2015-04-23,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-04-24,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-27,Jefferies,Not Provided,3.0,hold,213.0
+2015-04-30,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-05-01,Jefferies,Not Provided,3.0,hold,213.0
+2015-05-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-07,RBC Capital Markets,Not Provided,5.0,outperform,-0.0
+2015-05-07,D.A. Davidson & Co,12 month,3.0,neutral,220.0
+2015-05-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-05-13,Buckingham Research Group,12 month,5.0,buy,249.0
+2015-05-13,Stifel,Not Provided,3.0,hold,-0.0
+2015-05-13,Cowen,12 month,3.0,market perform,220.0
+2015-05-13,Canaccord Genuity,12 month,3.0,hold,230.0
+2015-05-13,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-05-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-05-13,Goldman Sachs,12 month,3.0,neutral/neutral,211.0
+2015-05-13,Barclays,Not Provided,5.0,overweight,225.0
+2015-05-13,Sterne Agee CRT,12 month,3.0,neutral,218.0
+2015-05-13,D.A. Davidson & Co,Not Provided,3.0,neutral,220.0
+2015-05-13,Credit Suisse,Not Provided,3.0,neutral,212.0
+2015-05-14,Jefferies,12 month,3.0,hold,213.0
+2015-05-14,Northcoast Research,12 month,5.0,buy,250.0
+2015-05-14,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-05-14,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-05-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-19,Buckingham Research Group,12 month,5.0,buy,252.0
+2015-05-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-05-21,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-05-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-28,Stifel,Not Provided,3.0,hold,-0.0
+2015-05-29,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-05-29,Cowen,12 month,3.0,market perform,230.0
+2015-05-29,Jefferies,Not Provided,3.0,hold,213.0
+2015-05-29,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-06-01,Credit Suisse,Not Provided,3.0,neutral,212.0
+2015-06-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-02,Jefferies,12 month,3.0,hold,213.0
+2015-06-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-06-05,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-06-08,Canaccord Genuity,12 month,3.0,hold,230.0
+2015-06-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-06-11,Stifel,Not Provided,3.0,hold,-0.0
+2015-06-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-06-12,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-06-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-06-17,Canaccord Genuity,12 month,3.0,hold,230.0
+2015-06-18,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-06-19,Jefferies,Not Provided,3.0,hold,213.0
+2015-06-19,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-06-22,Canaccord Genuity,12 month,3.0,hold,230.0
+2015-06-24,Cowen,12 month,3.0,market perform,230.0
+2015-06-26,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-07-06,Cowen,12 month,3.0,market perform,230.0
+2015-07-06,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-07-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-06,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-07-07,Sterne Agee CRT,12 month,3.0,neutral,218.0
+2015-07-08,Goldman Sachs,12 month,3.0,neutral/neutral,206.0
+2015-07-10,Cowen,Not Provided,3.0,market perform,220.0
+2015-07-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-07-13,Buckingham Research Group,12 month,5.0,buy,252.0
+2015-07-13,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-13,Credit Suisse,Not Provided,3.0,neutral,212.0
+2015-07-13,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-07-13,Jefferies,12 month,3.0,hold,213.0
+2015-07-14,J.P. Morgan,18 month,3.0,neutral,225.0
+2015-07-14,Jefferies,Not Provided,3.0,hold,213.0
+2015-07-14,Canaccord Genuity,Not Provided,3.0,hold,230.0
+2015-07-15,Barclays,Not Provided,5.0,overweight,225.0
+2015-07-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-07-15,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-07-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-17,Sterne Agee CRT,12 month,3.0,neutral,218.0
+2015-07-20,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-07-20,D.A. Davidson & Co,18 month,3.0,neutral,220.0
+2015-07-20,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-07-23,Canaccord Genuity,12 month,3.0,hold,220.0
+2015-07-24,D.A. Davidson & Co,18 month,3.0,neutral,220.0
+2015-07-27,Credit Suisse,Not Provided,3.0,neutral,212.0
+2015-07-27,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-07-27,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-27,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-07-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-27,Buckingham Research Group,12 month,5.0,buy,252.0
+2015-07-27,Sterne Agee CRT,12 month,3.0,neutral,218.0
+2015-07-28,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-28,Cowen,12 month,3.0,market perform,220.0
+2015-07-28,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-07-28,Credit Suisse,Not Provided,3.0,neutral,212.0
+2015-07-28,Buckingham Research Group,12 month,5.0,buy,252.0
+2015-07-28,Jefferies,12 month,3.0,hold,213.0
+2015-07-28,D.A. Davidson & Co,12 month,3.0,neutral,220.0
+2015-07-29,Sterne Agee CRT,12 month,3.0,neutral,218.0
+2015-07-29,J.P. Morgan,18 month,3.0,neutral,230.0
+2015-07-29,Barclays,Not Provided,5.0,overweight,225.0
+2015-07-31,Goldman Sachs,12 month,3.0,neutral/neutral,200.0
+2015-07-31,Canaccord Genuity,Not Provided,3.0,hold,220.0
+2015-08-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-03,RBC Capital Markets,12 month,5.0,outperform,230.0
+2015-08-10,Buckingham Research Group,12 month,5.0,buy,252.0
+2015-08-10,Canaccord Genuity,12 month,3.0,hold,235.0
+2015-08-10,Cowen,12 month,3.0,market perform,220.0
+2015-08-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-10,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-08-10,Jefferies,12 month,3.0,hold,213.0
+2015-08-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-08-10,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-08-10,Credit Suisse,Not Provided,-2147483648.0,restricted,-0.0
+2015-08-10,Sterne Agee CRT,12 month,3.0,neutral,231.0
+2015-08-10,Barclays,Not Provided,5.0,overweight,225.0
+2015-08-10,Goldman Sachs,12 month,3.0,neutral/neutral,221.0
+2015-08-10,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-08-10,Stifel,Not Provided,3.0,hold,-0.0
+2015-08-10,J.P. Morgan,18 month,3.0,neutral,230.0
+2015-08-10,D.A. Davidson & Co,Not Provided,3.0,neutral,235.0
+2015-08-11,Buckingham Research Group,12 month,3.0,neutral,235.0
+2015-08-11,Cowen,12 month,3.0,market perform,220.0
+2015-08-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-11,Canaccord Genuity,12 month,3.0,hold,235.0
+2015-08-17,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-08-17,UBS,12 month,3.0,neutral,235.0
+2015-08-18,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-08-21,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-08-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-08-24,RBC Capital Markets,12 month,5.0,outperform,232.0
+2015-08-28,Jefferies,Not Provided,3.0,hold,213.0
+2015-08-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-08-31,RBC Capital Markets,12 month,5.0,outperform,230.0
+2015-09-04,Jefferies,Not Provided,3.0,hold,213.0
+2015-09-08,RBC Capital Markets,12 month,5.0,outperform,230.0
+2015-09-10,Canaccord Genuity,Not Provided,3.0,hold,235.0
+2015-09-15,RBC Capital Markets,12 month,5.0,outperform,230.0
+2015-09-16,Canaccord Genuity,Not Provided,3.0,hold,235.0
+2015-09-16,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-09-16,Jefferies,Not Provided,3.0,hold,213.0
+2015-09-21,RBC Capital Markets,12 month,5.0,outperform,235.0
+2015-09-23,RBC Capital Markets,12 month,5.0,outperform,235.0
+2015-10-04,Goldman Sachs,12 month,3.0,neutral/neutral,220.0
+2015-10-06,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-10-08,Cowen,Not Provided,3.0,market perform,220.0
+2015-10-09,Sterne Agee CRT,Not Provided,3.0,neutral,231.0
+2015-10-12,Credit Suisse,Not Provided,-2147483648.0,not rated,-0.0
+2015-10-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-10-12,Barclays,Not Provided,5.0,overweight,225.0
+2015-10-12,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-10-13,Jefferies,Not Provided,3.0,hold,213.0
+2015-10-14,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-10-15,Canaccord Genuity,Not Provided,3.0,hold,235.0
+2015-10-15,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-10-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-10-20,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-10-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-22,Cowen,12 month,3.0,market perform,220.0
+2015-10-22,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-10-22,D.A. Davidson & Co,Not Provided,3.0,neutral,235.0
+2015-10-22,Jefferies,12 month,3.0,hold,235.0
+2015-10-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-10-23,Goldman Sachs,12 month,3.0,neutral/neutral,214.0
+2015-10-25,Canaccord Genuity,Not Provided,3.0,hold,235.0
+2015-10-26,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-10-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-10-30,Stifel,Not Provided,3.0,hold,-0.0
+2015-11-01,Canaccord Genuity,Not Provided,3.0,hold,235.0
+2015-11-02,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-11-02,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-11-03,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-11-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-11-10,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-11-16,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-11-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-11-20,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-11-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-11-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-11-30,Stifel,Not Provided,3.0,hold,-0.0
+2015-12-01,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-12-09,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-12-16,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-12-20,Jefferies,12 month,3.0,hold,235.0
+2015-12-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-12-22,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2015-12-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-12-31,Canaccord Genuity,Not Provided,3.0,hold,235.0
+2016-01-04,Goldman Sachs,12 month,3.0,neutral/neutral,222.0
+2016-01-06,RBC Capital Markets,12 month,3.0,sector perform,235.0
+2016-01-08,Sterne Agee CRT,Not Provided,3.0,neutral,231.0
+2016-01-13,Sterne Agee CRT,Not Provided,3.0,neutral,231.0
+2016-01-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-01-15,Canaccord Genuity,Not Provided,3.0,hold,235.0
+2016-01-20,Cowen,Not Provided,3.0,market perform,220.0
+2016-01-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-01-21,Barclays,Not Provided,5.0,overweight,225.0
+2016-01-22,Jefferies,12 month,3.0,hold,235.0

@@ -1,0 +1,1333 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2004-08-06,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2005-06-10,Goldman Sachs,Not Provided,3.0,in-line,-0.0
+2005-07-29,Credit Suisse,12 month,5.0,outperform,80.0
+2005-08-09,Lehman Brothers,Not Provided,3.0,equalwt/neutral,75.0
+2005-08-18,First Global Stockbroking,Not Provided,5.0,outperform,65.0
+2005-10-10,Cowen,Not Provided,-2147483648.0,no rating system,-0.0
+2005-10-18,UBS,12 month,3.0,neutral 2,75.0
+2005-10-19,Piper Jaffray,Not Provided,5.0,outperform,90.0
+2005-10-19,Jefferies,12 month,5.0,buy,83.0
+2005-10-19,Fortis,Not Provided,5.0,buy,82.0
+2005-10-19,BMO Capital Markets,Not Provided,3.0,neutral,71.0
+2005-11-09,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2005-11-09,Baird,Not Provided,5.0,outperform,84.0
+2005-11-09,Bear Stearns & Co,Not Provided,5.0,outperform,83.0
+2005-11-11,Stanford Group,12 month,5.0,buy,85.0
+2005-11-17,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2005-11-18,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2005-12-06,Prudential Equity Group Inc,12 month,3.0,neutral weight,82.0
+2005-12-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2005-12-16,Thomas Weisel Partners,Not Provided,3.0,peerperform,-0.0
+2005-12-20,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-01-03,Montgomery & Co,12 month,5.0,buy,92.0
+2006-01-06,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2006-01-10,Bear Stearns & Co,Not Provided,5.0,outperform,89.0
+2006-01-10,Piper Jaffray,Not Provided,5.0,outperform,90.0
+2006-01-10,Credit Suisse,12 month,5.0,outperform,80.0
+2006-01-10,Baird,Not Provided,5.0,outperform,84.0
+2006-01-10,Stanford Group,12 month,5.0,buy,85.0
+2006-01-10,Jefferies,12 month,5.0,buy,83.0
+2006-01-10,Thomas Weisel Partners,Not Provided,3.0,peerperform,-0.0
+2006-01-10,Cowen,Not Provided,-2147483648.0,no rating system,-0.0
+2006-01-10,Prudential Equity Group Inc,12 month,3.0,neutral weight,81.0
+2006-01-10,BMO Capital Markets,Not Provided,3.0,neutral,80.0
+2006-01-17,Stanford Group,12 month,5.0,buy,85.0
+2006-01-17,BMO Capital Markets,Not Provided,3.0,neutral,80.0
+2006-01-18,Baird,Not Provided,5.0,outperform,84.0
+2006-01-20,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-01-27,BMO Capital Markets,Not Provided,3.0,neutral,80.0
+2006-01-27,Stanford Group,12 month,5.0,buy,85.0
+2006-01-30,Baird,Not Provided,5.0,outperform,84.0
+2006-02-10,Jefferies,12 month,5.0,buy,83.0
+2006-02-14,Prudential Equity Group Inc,12 month,3.0,neutral weight,81.0
+2006-02-14,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-02-15,BMO Capital Markets,Not Provided,3.0,neutral,80.0
+2006-02-15,Cowen,Not Provided,-2147483648.0,no rating system,-0.0
+2006-02-16,Baird,Not Provided,5.0,outperform,84.0
+2006-02-16,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-02-16,Piper Jaffray,Not Provided,5.0,outperform,91.0
+2006-02-16,Credit Suisse,12 month,5.0,outperform,80.0
+2006-02-17,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2006-02-17,Jefferies,12 month,5.0,buy,81.0
+2006-02-21,Cowen,Not Provided,5.0,outperform,-0.0
+2006-02-27,Jefferies,12 month,5.0,buy,81.0
+2006-03-09,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2006-03-16,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-03-20,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2006-04-03,Stanford Group,12 month,5.0,buy,85.0
+2006-04-03,Prudential Equity Group Inc,12 month,3.0,neutral weight,81.0
+2006-04-04,Baird,Not Provided,5.0,outperform,84.0
+2006-04-13,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-04-17,Bear Stearns & Co,Not Provided,5.0,outperform,79.0
+2006-04-18,Prudential Equity Group Inc,12 month,3.0,neutral weight,75.0
+2006-04-18,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2006-04-19,Fortis,Not Provided,5.0,buy,76.0
+2006-04-19,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-04-20,Rodman & Renshaw,Not Provided,-2147483648.0,Under Review,-0.0
+2006-04-20,Piper Jaffray,Not Provided,5.0,outperform,83.0
+2006-04-20,Stanford Group,12 month,5.0,buy,83.0
+2006-04-20,Cowen,Not Provided,5.0,outperform,-0.0
+2006-04-20,BMO Capital Markets,Not Provided,3.0,neutral,73.0
+2006-04-24,Baird,Not Provided,5.0,outperform,84.0
+2006-04-28,Stanford Group,12 month,5.0,buy,83.0
+2006-05-01,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-05-01,BMO Capital Markets,Not Provided,3.0,neutral,73.0
+2006-05-01,Jefferies,12 month,5.0,buy,79.0
+2006-05-01,Baird,Not Provided,5.0,outperform,84.0
+2006-05-08,Baird,Not Provided,5.0,outperform,75.0
+2006-05-08,Rodman & Renshaw,Not Provided,-2147483648.0,Under Review,-0.0
+2006-05-09,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2006-05-11,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2006-05-15,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-05-15,Prudential Equity Group Inc,12 month,3.0,neutral weight,68.0
+2006-05-15,Cowen,Not Provided,5.0,outperform,-0.0
+2006-05-15,Baird,Not Provided,5.0,outperform,75.0
+2006-05-15,BMO Capital Markets,Not Provided,3.0,neutral,73.0
+2006-05-18,Baird,Not Provided,5.0,outperform,55.0
+2006-05-22,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2006-05-30,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2006-06-14,Goldman Sachs,Not Provided,3.0,in-line/neutral,-0.0
+2006-06-15,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-06-26,Goldman Sachs,12 month,3.0,neutral/neutral,78.0
+2006-07-11,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2006-07-11,Jefferies,12 month,5.0,buy,79.0
+2006-07-12,Cowen,Not Provided,5.0,outperform,-0.0
+2006-07-12,BMO Capital Markets,Not Provided,3.0,market perform,73.0
+2006-07-12,Prudential Equity Group Inc,12 month,3.0,neutral weight,64.0
+2006-07-12,Montgomery & Co,12 month,5.0,buy,92.0
+2006-07-13,Jefferies,12 month,5.0,buy,80.0
+2006-07-13,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2006-07-13,Lehman Brothers,Not Provided,3.0,equalwt/neutral,71.0
+2006-07-13,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-07-13,Baird,Not Provided,5.0,outperform,75.0
+2006-07-17,Stanford Group,12 month,5.0,buy,83.0
+2006-07-26,Prudential Equity Group Inc,12 month,3.0,neutral weight,70.0
+2006-08-08,Montgomery & Co,12 month,5.0,buy,92.0
+2006-08-10,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2006-08-30,A.G. Edwards & Sons Inc,Not Provided,5.0,buy,82.0
+2006-08-30,BMO Capital Markets,Not Provided,3.0,market perform,73.0
+2006-08-30,Prudential Equity Group Inc,12 month,3.0,neutral weight,70.0
+2006-08-31,Montgomery & Co,12 month,5.0,buy,92.0
+2006-08-31,Baird,Not Provided,5.0,outperform,75.0
+2006-09-01,Jefferies,12 month,5.0,buy,80.0
+2006-09-06,BMO Capital Markets,Not Provided,3.0,market perform,73.0
+2006-09-07,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-09-07,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2006-09-14,BMO Capital Markets,Not Provided,3.0,market perform,73.0
+2006-09-15,Jefferies,12 month,5.0,buy,80.0
+2006-09-15,BMO Capital Markets,Not Provided,3.0,market perform,73.0
+2006-09-18,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-09-19,Baird,Not Provided,3.0,neutral,73.0
+2006-09-27,Montgomery & Co,12 month,5.0,buy,92.0
+2006-10-11,Jefferies,12 month,5.0,buy,80.0
+2006-10-11,Baird,Not Provided,3.0,neutral,73.0
+2006-10-11,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2006-10-12,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-10-12,BMO Capital Markets,Not Provided,3.0,market perform,73.0
+2006-10-13,Jefferies,12 month,5.0,buy,80.0
+2006-10-13,Lehman Brothers,Not Provided,3.0,equalwt/neutral,70.0
+2006-10-13,Baird,Not Provided,3.0,neutral,73.0
+2006-10-13,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2006-10-13,Cowen,Not Provided,5.0,outperform,-0.0
+2006-10-24,First Global Stockbroking,Not Provided,3.0,market perform,-0.0
+2006-10-30,Stanford Group,12 month,5.0,buy,83.0
+2006-10-31,Baird,Not Provided,3.0,neutral,73.0
+2006-11-03,Cowen,Not Provided,5.0,outperform,-0.0
+2006-11-07,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2006-11-09,Baird,Not Provided,3.0,neutral,73.0
+2006-11-16,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2006-11-17,Baird,Not Provided,3.0,neutral,73.0
+2006-11-20,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2006-12-01,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2006-12-08,Baird,Not Provided,3.0,neutral,70.0
+2006-12-15,Baird,Not Provided,3.0,neutral,70.0
+2006-12-22,BMO Capital Markets,Not Provided,3.0,market perform,73.0
+2006-12-22,Baird,Not Provided,3.0,neutral,70.0
+2007-01-10,Cowen,Not Provided,5.0,outperform,-0.0
+2007-01-10,Jefferies,12 month,5.0,buy,80.0
+2007-01-10,Baird,Not Provided,5.0,outperform,75.0
+2007-01-10,BMO Capital Markets,Not Provided,3.0,market perform,73.0
+2007-01-19,BMO Capital Markets,Not Provided,3.0,market perform,73.0
+2007-01-31,Stifel,Not Provided,5.0,buy,75.0
+2007-02-01,Baird,Not Provided,5.0,outperform,75.0
+2007-02-08,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2007-02-14,Stifel,Not Provided,5.0,buy,78.0
+2007-02-14,BMO Capital Markets,Not Provided,3.0,market perform,73.0
+2007-02-14,Montgomery & Co,12 month,5.0,buy,92.0
+2007-02-15,Goldman Sachs,12 month,3.0,neutral/neutral,80.0
+2007-02-15,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2007-02-15,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2007-02-15,Baird,Not Provided,5.0,outperform,75.0
+2007-02-15,Cowen,Not Provided,5.0,outperform,-0.0
+2007-02-15,Jefferies,12 month,5.0,buy,80.0
+2007-02-21,Jefferies,12 month,5.0,buy,80.0
+2007-02-21,Cowen,Not Provided,5.0,outperform,-0.0
+2007-03-01,Baird,Not Provided,5.0,outperform,75.0
+2007-03-09,Cowen,Not Provided,5.0,outperform,-0.0
+2007-03-15,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-03-15,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2007-03-22,Baird,Not Provided,5.0,outperform,75.0
+2007-04-17,Baird,Not Provided,5.0,outperform,75.0
+2007-04-25,Goldman Sachs,12 month,3.0,neutral/neutral,81.0
+2007-04-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2007-04-25,Thomas Weisel Partners,Not Provided,5.0,overweight,79.5
+2007-04-26,Baird,Not Provided,5.0,outperform,75.0
+2007-04-26,Jefferies,12 month,5.0,buy,80.0
+2007-04-26,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2007-04-26,Stifel,Not Provided,5.0,buy,78.0
+2007-05-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2007-05-11,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-05-17,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-05-17,Montgomery & Co,12 month,5.0,buy,92.0
+2007-05-17,Thomas Weisel Partners,12 month,5.0,overweight,79.5
+2007-05-17,Cowen,Not Provided,5.0,outperform,-0.0
+2007-05-17,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2007-05-17,Baird,Not Provided,5.0,outperform,75.0
+2007-05-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2007-05-21,Lehman Brothers,Not Provided,3.0,equalwt/neutral,71.0
+2007-05-29,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-05-29,Montgomery & Co,12 month,5.0,buy,92.0
+2007-05-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2007-05-29,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2007-05-30,Stifel,Not Provided,5.0,buy,78.0
+2007-05-30,Jefferies,12 month,5.0,buy,80.0
+2007-05-30,Fortis,Not Provided,5.0,buy,74.0
+2007-05-31,Goldman Sachs,12 month,5.0,Buy/Neutral,81.0
+2007-06-05,Baird,Not Provided,5.0,outperform,75.0
+2007-06-05,Thomas Weisel Partners,12 month,5.0,overweight,79.0
+2007-06-05,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-06-08,Bear Stearns & Co,Not Provided,5.0,outperform,79.0
+2007-06-18,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-06-18,Montgomery & Co,12 month,5.0,buy,87.0
+2007-06-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2007-06-19,Baird,Not Provided,5.0,outperform,75.0
+2007-06-20,A.G. Edwards & Sons Inc,Not Provided,5.0,buy,82.0
+2007-06-20,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-06-26,Lehman Brothers,Not Provided,5.0,overwt/neutral,79.0
+2007-06-26,Natixis Securities Americas LLC,12 month,-2147483648.0,no rating system,88.0
+2007-07-03,Natixis Securities Americas LLC,12 month,-2147483648.0,no rating system,88.0
+2007-07-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2007-07-06,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-07-06,A.G. Edwards & Sons Inc,Not Provided,5.0,buy,82.0
+2007-07-06,Stanford Group,12 month,5.0,buy,83.0
+2007-07-09,Natixis Securities Americas LLC,12 month,-2147483648.0,no rating system,67.0
+2007-07-09,Montgomery & Co,12 month,5.0,buy,87.0
+2007-07-09,Baird,Not Provided,5.0,outperform,75.0
+2007-07-10,Cowen,Not Provided,5.0,outperform,-0.0
+2007-07-10,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2007-07-11,Fortis,Not Provided,5.0,buy,72.0
+2007-07-13,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2007-07-19,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-07-19,Cowen,Not Provided,5.0,outperform,-0.0
+2007-07-20,Baird,Not Provided,5.0,outperform,75.0
+2007-07-20,A.G. Edwards & Sons Inc,Not Provided,5.0,buy,82.0
+2007-07-24,Fortis,Not Provided,5.0,buy,72.0
+2007-07-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2007-07-25,Thomas Weisel Partners,12 month,5.0,overweight,76.5
+2007-07-25,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2007-07-25,Montgomery & Co,12 month,5.0,buy,87.0
+2007-07-26,Fortis,Not Provided,5.0,buy,72.0
+2007-07-26,A.G. Edwards & Sons Inc,Not Provided,5.0,buy,82.0
+2007-07-26,Baird,Not Provided,5.0,outperform,75.0
+2007-07-26,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-07-26,Jefferies,12 month,5.0,buy,80.0
+2007-07-26,Cowen,Not Provided,5.0,outperform,-0.0
+2007-07-26,Stanford Group,12 month,5.0,buy,83.0
+2007-08-02,Fortis,Not Provided,5.0,buy,72.0
+2007-08-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2007-08-02,A.G. Edwards & Sons Inc,Not Provided,5.0,buy,82.0
+2007-08-03,Baird,Not Provided,5.0,outperform,75.0
+2007-08-15,Baird,Not Provided,5.0,outperform,75.0
+2007-09-06,Natixis Securities Americas LLC,12 month,3.0,hold,67.0
+2007-09-13,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-09-13,Thomas Weisel Partners,12 month,5.0,overweight,76.5
+2007-09-20,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-09-26,Natixis Securities Americas LLC,12 month,3.0,hold,67.0
+2007-09-26,Baird,Not Provided,5.0,outperform,75.0
+2007-09-28,Natixis Securities Americas LLC,12 month,3.0,hold,67.0
+2007-09-28,Bernstein,Not Provided,3.0,market perform,72.0
+2007-10-04,Baird,Not Provided,5.0,outperform,75.0
+2007-10-04,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2007-10-05,Natixis Securities Americas LLC,12 month,3.0,hold,67.0
+2007-10-10,Bernstein,Not Provided,3.0,market perform,72.0
+2007-10-11,Baird,Not Provided,5.0,outperform,75.0
+2007-10-11,Wells Fargo Securities,Not Provided,5.0,outperform,84.0
+2007-10-15,Bear Stearns & Co,Not Provided,5.0,outperform,79.0
+2007-10-16,Fortis,Not Provided,5.0,buy,79.0
+2007-10-17,Thomas Weisel Partners,12 month,5.0,overweight,87.0
+2007-10-17,Cowen,Not Provided,5.0,outperform,-0.0
+2007-10-17,Baird,Not Provided,5.0,outperform,84.0
+2007-10-17,Stanford Group,12 month,5.0,buy,83.0
+2007-10-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2007-10-17,Bernstein,Not Provided,3.0,market perform,72.0
+2007-10-17,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-10-17,Wells Fargo Securities,Not Provided,5.0,outperform,84.0
+2007-10-23,Jefferies,12 month,5.0,buy,80.0
+2007-10-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2007-10-24,Bear Stearns & Co,Not Provided,5.0,outperform,85.0
+2007-10-24,Natixis Securities Americas LLC,12 month,3.0,hold,75.0
+2007-10-25,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-10-25,Thomas Weisel Partners,12 month,5.0,overweight,88.0
+2007-10-25,Fortis,Not Provided,5.0,buy,83.0
+2007-10-25,Cowen,Not Provided,5.0,outperform,-0.0
+2007-10-25,Stanford Group,12 month,5.0,buy,84.0
+2007-10-25,Wells Fargo Securities,Not Provided,5.0,outperform,84.0
+2007-10-25,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2007-10-25,Goldman Sachs,12 month,5.0,Buy/Neutral,87.0
+2007-10-25,Bernstein,Not Provided,3.0,market perform,82.0
+2007-10-25,Baird,Not Provided,5.0,outperform,84.0
+2007-10-26,Natixis Securities Americas LLC,12 month,3.0,hold,75.0
+2007-10-30,Baird,Not Provided,5.0,outperform,84.0
+2007-10-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2007-11-02,CIBC World Markets,Not Provided,3.0,sector perform,-0.0
+2007-11-02,Natixis Securities Americas LLC,12 month,3.0,hold,75.0
+2007-11-07,Baird,Not Provided,5.0,outperform,84.0
+2007-11-08,Bernstein,Not Provided,3.0,market perform,82.0
+2007-11-09,Baird,Not Provided,5.0,outperform,84.0
+2007-11-13,Bernstein,Not Provided,3.0,market perform,82.0
+2007-11-13,Stifel,Not Provided,5.0,buy,84.0
+2007-11-15,Bear Stearns & Co,Not Provided,5.0,outperform,85.0
+2007-11-15,Natixis Securities Americas LLC,12 month,3.0,hold,75.0
+2007-11-27,Goldman Sachs,12 month,5.0,buy/attractive,87.0
+2007-11-27,Bernstein,Not Provided,3.0,market perform,79.0
+2007-12-03,Natixis Securities Americas LLC,12 month,3.0,hold,75.0
+2007-12-05,Bernstein,Not Provided,3.0,market perform,79.0
+2007-12-07,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2007-12-12,Bernstein,Not Provided,3.0,market perform,79.0
+2007-12-13,Stanford Group,12 month,5.0,buy,84.0
+2007-12-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2007-12-13,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-12-13,Thomas Weisel Partners,12 month,5.0,overweight,88.0
+2007-12-14,Wells Fargo Securities,Not Provided,5.0,outperform,84.0
+2007-12-14,Baird,Not Provided,5.0,outperform,84.0
+2007-12-19,Stifel,Not Provided,5.0,buy,85.0
+2007-12-20,Wells Fargo Securities,Not Provided,5.0,outperform,84.0
+2007-12-20,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2007-12-20,Thomas Weisel Partners,12 month,5.0,overweight,88.0
+2007-12-20,Baird,Not Provided,5.0,outperform,84.0
+2007-12-20,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-01-08,Stanford Group,12 month,5.0,buy,84.0
+2008-01-08,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-01-08,Cowen,Not Provided,5.0,outperform,-0.0
+2008-01-08,Thomas Weisel Partners,12 month,5.0,overweight,88.0
+2008-01-08,Jefferies,12 month,5.0,buy,88.0
+2008-01-08,Baird,Not Provided,5.0,outperform,84.0
+2008-01-08,Bernstein,Not Provided,3.0,market perform,79.0
+2008-01-08,Stifel,Not Provided,5.0,buy,85.0
+2008-01-09,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-01-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2008-01-14,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-01-14,Bernstein,Not Provided,3.0,market perform,79.0
+2008-01-14,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-01-16,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-01-17,Baird,Not Provided,5.0,outperform,84.0
+2008-01-18,Natixis Securities Americas LLC,12 month,3.0,hold,97.5
+2008-01-18,Stanford Group,12 month,5.0,buy,84.0
+2008-01-23,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-01-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-01-30,Bernstein,Not Provided,3.0,market perform,79.0
+2008-01-31,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-02-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-02-11,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-02-12,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-02-12,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-02-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2008-02-14,Baird,Not Provided,5.0,outperform,84.0
+2008-02-14,Bernstein,Not Provided,3.0,market perform,82.0
+2008-02-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2008-02-14,Goldman Sachs,12 month,5.0,buy/attractive,93.0
+2008-02-14,Thomas Weisel Partners,12 month,5.0,overweight,90.0
+2008-02-14,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-02-14,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-02-14,Jefferies,12 month,5.0,buy,88.0
+2008-02-15,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-02-20,Stanford Group,12 month,5.0,buy,84.0
+2008-02-25,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-02-27,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-03-03,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-03-07,Baird,Not Provided,5.0,outperform,84.0
+2008-03-07,Bernstein,Not Provided,3.0,market perform,82.0
+2008-03-10,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-03-17,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-03-20,Bernstein,Not Provided,3.0,market perform,83.0
+2008-03-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-03-26,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-03-27,Natixis Securities Americas LLC,12 month,5.0,buy,87.5
+2008-03-31,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-04-02,Stanford Group,12 month,5.0,buy,84.0
+2008-04-03,Bernstein,Not Provided,3.0,market perform,83.0
+2008-04-07,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-04-07,Lazard Capital Markets,12 month,5.0,buy,90.0
+2008-04-08,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-04-14,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-04-15,Baird,Not Provided,5.0,outperform,84.0
+2008-04-17,Lazard Capital Markets,12 month,5.0,buy,90.0
+2008-04-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2008-04-22,Lazard Capital Markets,12 month,5.0,buy,88.0
+2008-04-22,Stanford Group,12 month,5.0,buy,84.0
+2008-04-22,Cowen,Not Provided,5.0,outperform,-0.0
+2008-04-22,Jefferies,12 month,5.0,buy,84.0
+2008-04-22,Goldman Sachs,12 month,5.0,buy/attractive,86.0
+2008-04-24,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-04-24,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-04-24,Bernstein,Not Provided,3.0,market perform,82.0
+2008-04-24,Baird,Not Provided,5.0,outperform,83.0
+2008-04-24,Thomas Weisel Partners,12 month,5.0,overweight,90.0
+2008-04-24,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2008-04-25,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-04-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2008-04-28,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-04-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-04-28,Baird,Not Provided,5.0,outperform,83.0
+2008-05-05,Rodman & Renshaw,Not Provided,-2147483648.0,Under Review,-0.0
+2008-05-08,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-05-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-05-08,Baird,Not Provided,5.0,outperform,83.0
+2008-05-08,Thomas Weisel Partners,12 month,5.0,overweight,90.0
+2008-05-08,Lazard Capital Markets,12 month,5.0,buy,88.0
+2008-05-08,Cowen,Not Provided,5.0,outperform,-0.0
+2008-05-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2008-05-08,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2008-05-08,Bernstein,Not Provided,3.0,market perform,82.0
+2008-05-15,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-05-16,Bernstein,Not Provided,5.0,outperform,90.0
+2008-05-16,Lazard Capital Markets,12 month,5.0,buy,88.0
+2008-05-16,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-05-19,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-05-23,Lazard Capital Markets,12 month,5.0,buy,88.0
+2008-05-29,Lazard Capital Markets,12 month,5.0,buy,88.0
+2008-06-02,Bernstein,Not Provided,5.0,outperform,90.0
+2008-06-02,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-06-03,Thomas Weisel Partners,12 month,5.0,overweight,90.0
+2008-06-03,Lazard Capital Markets,12 month,5.0,buy,88.0
+2008-06-04,Baird,Not Provided,5.0,outperform,83.0
+2008-06-04,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2008-06-04,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-06-09,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-06-12,Bernstein,Not Provided,5.0,outperform,90.0
+2008-06-18,Baird,Not Provided,5.0,outperform,83.0
+2008-06-19,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-06-23,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-06-24,Bernstein,Not Provided,5.0,outperform,90.0
+2008-06-24,Thomas Weisel Partners,12 month,5.0,overweight,90.0
+2008-06-24,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2008-06-25,Baird,Not Provided,5.0,outperform,83.0
+2008-06-25,Lazard Capital Markets,12 month,5.0,buy,88.0
+2008-06-30,UBS,12 month,5.0,buy,86.0
+2008-06-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-06-30,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-07-02,Lazard Capital Markets,12 month,5.0,buy,88.0
+2008-07-07,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-07-08,Bernstein,Not Provided,5.0,outperform,90.0
+2008-07-09,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-07-14,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-07-15,Lazard Capital Markets,12 month,5.0,buy,88.0
+2008-07-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-07-18,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2008-07-21,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-07-21,Thomas Weisel Partners,12 month,5.0,overweight,90.0
+2008-07-22,Jefferies,12 month,5.0,buy,90.0
+2008-07-22,Lazard Capital Markets,12 month,5.0,buy,88.0
+2008-07-22,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-07-23,Thomas Weisel Partners,12 month,5.0,overweight,92.0
+2008-07-23,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2008-07-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2008-07-24,Wells Fargo Securities,Not Provided,5.0,outperform,92.5
+2008-07-24,Bernstein,Not Provided,5.0,outperform,91.0
+2008-07-24,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-07-24,Baird,Not Provided,5.0,outperform,87.0
+2008-07-24,Cowen,Not Provided,5.0,outperform,-0.0
+2008-07-24,Stanford Group,12 month,5.0,buy,84.0
+2008-07-24,UBS,12 month,5.0,buy,92.0
+2008-07-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-07-30,Lazard Capital Markets,12 month,5.0,buy,92.0
+2008-07-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-08-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2008-08-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-08-04,Thomas Weisel Partners,12 month,5.0,overweight,92.0
+2008-08-06,Lazard Capital Markets,12 month,5.0,buy,92.0
+2008-08-07,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-08-12,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-08-13,Lazard Capital Markets,12 month,5.0,buy,92.0
+2008-08-18,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-08-25,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-08-25,Thomas Weisel Partners,12 month,5.0,overweight,92.0
+2008-08-26,Bernstein,Not Provided,5.0,outperform,93.0
+2008-09-02,Lazard Capital Markets,12 month,5.0,buy,92.0
+2008-09-02,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-09-04,Lazard Capital Markets,12 month,5.0,buy,92.0
+2008-09-08,Thomas Weisel Partners,12 month,5.0,overweight,92.0
+2008-09-08,Morgan Stanley,12 month,5.0,Overwt/In-Line,94.0
+2008-09-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-09-15,Baird,Not Provided,5.0,outperform,87.0
+2008-09-15,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-09-17,Thomas Weisel Partners,12 month,5.0,overweight,92.0
+2008-09-22,Thomas Weisel Partners,12 month,5.0,overweight,92.0
+2008-09-22,Lazard Capital Markets,12 month,5.0,buy,92.0
+2008-09-23,Cowen,Not Provided,5.0,outperform,-0.0
+2008-09-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-09-24,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-09-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-09-29,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-09-29,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-10-01,Lazard Capital Markets,12 month,5.0,buy,92.0
+2008-10-03,Lazard Capital Markets,12 month,5.0,buy,92.0
+2008-10-03,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-10-06,Bernstein,Not Provided,5.0,outperform,93.0
+2008-10-08,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-10-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-10-08,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2008-10-14,Bernstein,Not Provided,5.0,outperform,82.0
+2008-10-14,Morgan Stanley,12 month,5.0,Overwt/In-Line,94.0
+2008-10-14,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-10-15,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2008-10-20,Baird,Not Provided,5.0,outperform,87.0
+2008-10-20,UBS,12 month,5.0,buy,83.0
+2008-10-21,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-10-22,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2008-10-22,Stanford Group,Not Provided,5.0,buy,84.0
+2008-10-22,Lazard Capital Markets,Not Provided,5.0,buy,94.0
+2008-10-22,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2008-10-22,Leerink Partners LLC,Not Provided,5.0,outperform,95.0
+2008-10-22,Barclays,Not Provided,5.0,overwt/neutral,91.0
+2008-10-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-10-22,Morgan Stanley,12 month,5.0,Overwt/In-Line,94.0
+2008-10-22,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-10-23,Stanford Group,Not Provided,5.0,buy,84.0
+2008-10-23,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-10-23,Goldman Sachs,12 month,5.0,buy/attractive,84.0
+2008-10-23,Cowen,Not Provided,5.0,outperform,-0.0
+2008-10-27,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2008-10-27,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-10-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-10-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-10-30,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2008-10-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-11-03,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2008-11-05,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-11-05,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-11-10,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2008-11-10,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-11-11,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2008-11-17,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-11-17,Thomas Weisel Partners,Not Provided,5.0,overweight,102.0
+2008-11-17,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2008-11-17,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2008-11-18,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-11-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-11-24,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2008-11-24,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-11-24,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2008-11-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-11-25,Atlantic Equities LLP,12 month,5.0,overweight,80.0
+2008-11-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-11-25,Baird,Not Provided,5.0,outperform,87.0
+2008-12-01,UBS,Not Provided,5.0,buy,83.0
+2008-12-01,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2008-12-02,J.P. Morgan,15 month,3.0,neutral,85.0
+2008-12-02,Baird,Not Provided,5.0,outperform,87.0
+2008-12-03,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2008-12-04,Bernstein,Not Provided,5.0,outperform,86.0
+2008-12-08,Summer Street Research Partners,Not Provided,-2147483648.0,not rated,65.53
+2008-12-08,J.P. Morgan,15 month,3.0,neutral,85.0
+2008-12-09,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2008-12-09,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-12-09,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2008-12-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-12-10,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2008-12-10,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-12-10,Baird,Not Provided,5.0,outperform,87.0
+2008-12-10,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2008-12-10,Stanford Group,Not Provided,5.0,buy,84.0
+2008-12-15,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2008-12-15,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2008-12-16,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-12-16,Baird,Not Provided,5.0,outperform,87.0
+2008-12-17,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2008-12-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-12-17,Natixis Securities Americas LLC,Not Provided,5.0,buy,85.0
+2008-12-17,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2008-12-22,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2008-12-22,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2008-12-29,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2009-01-01,J.P. Morgan,9 month,3.0,neutral,85.0
+2009-01-05,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2009-01-05,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-01-06,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2009-01-06,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,81.0
+2009-01-08,Cowen,Not Provided,5.0,outperform,-0.0
+2009-01-09,Jefferies,Not Provided,5.0,buy,90.0
+2009-01-12,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2009-01-12,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-01-12,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2009-01-12,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-01-13,Cowen,Not Provided,5.0,outperform,-0.0
+2009-01-13,Rodman & Renshaw,Not Provided,3.0,market perform,-0.0
+2009-01-13,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2009-01-14,UBS,Not Provided,5.0,buy,80.0
+2009-01-14,Baird,Not Provided,5.0,outperform,87.0
+2009-01-14,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2009-01-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-01-15,Bernstein,Not Provided,5.0,outperform,86.0
+2009-01-16,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,81.0
+2009-01-20,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-01-20,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-01-20,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2009-01-26,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,81.0
+2009-01-26,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-01-26,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2009-01-26,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-01-26,Bernstein,Not Provided,5.0,outperform,86.0
+2009-01-27,Natixis Securities Americas LLC,12 month,5.0,buy,85.0
+2009-01-27,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2009-01-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-01-27,Baird,Not Provided,5.0,outperform,87.0
+2009-01-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-01-30,Cowen,Not Provided,5.0,outperform,-0.0
+2009-01-30,Baird,Not Provided,5.0,outperform,87.0
+2009-02-02,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2009-02-02,Atlantic Equities LLP,12 month,5.0,overweight,80.0
+2009-02-02,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-02-02,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,81.0
+2009-02-03,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2009-02-09,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-02-09,Thomas Weisel Partners,12 month,5.0,overweight,102.0
+2009-02-09,Lazard Capital Markets,Not Provided,5.0,buy,96.0
+2009-02-11,Atlantic Equities LLP,12 month,5.0,overweight,-0.0
+2009-02-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-02-11,Natixis Securities Americas LLC,12 month,5.0,buy,86.0
+2009-02-12,Baird,Not Provided,5.0,outperform,83.0
+2009-02-12,Goldman Sachs,12 month,5.0,buy/attractive,85.0
+2009-02-12,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-02-12,Jefferies,Not Provided,5.0,buy,88.0
+2009-02-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-02-12,UBS,Not Provided,5.0,buy,83.0
+2009-02-12,Cowen,Not Provided,5.0,outperform,-0.0
+2009-02-17,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2009-02-17,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-02-17,Lazard Capital Markets,Not Provided,5.0,buy,97.0
+2009-02-17,Thomas Weisel Partners,12 month,5.0,overweight,101.0
+2009-02-18,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,81.0
+2009-02-19,Cowen,Not Provided,5.0,outperform,-0.0
+2009-02-23,Natixis Securities Americas LLC,12 month,5.0,buy,86.0
+2009-02-23,Thomas Weisel Partners,12 month,5.0,overweight,101.0
+2009-02-23,Lazard Capital Markets,Not Provided,5.0,buy,97.0
+2009-02-23,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-02-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-02-23,Baird,Not Provided,5.0,outperform,83.0
+2009-02-23,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,81.0
+2009-03-02,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-03-02,UBS,Not Provided,5.0,buy,81.0
+2009-03-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-03-03,Cowen,Not Provided,5.0,outperform,-0.0
+2009-03-03,Lazard Capital Markets,Not Provided,5.0,buy,82.0
+2009-03-03,Thomas Weisel Partners,12 month,5.0,overweight,81.0
+2009-03-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-03-03,Natixis Securities Americas LLC,Not Provided,5.0,buy,80.0
+2009-03-03,Barclays,Not Provided,5.0,overwt/neutral,83.0
+2009-03-03,Jefferies,Not Provided,5.0,buy,88.0
+2009-03-03,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,81.0
+2009-03-03,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-03-06,Goldman Sachs,12 month,1.0,sell/attractive,61.0
+2009-03-09,Natixis Securities Americas LLC,12 month,5.0,buy,86.0
+2009-03-09,Thomas Weisel Partners,12 month,5.0,overweight,81.0
+2009-03-10,Cowen,Not Provided,5.0,outperform,-0.0
+2009-03-10,Oppenheimer & Co,Not Provided,5.0,outperform,-0.0
+2009-03-10,Lazard Capital Markets,12 month,5.0,buy,82.0
+2009-03-11,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-03-11,Bernstein,12 month,5.0,outperform,80.0
+2009-03-13,Summer Street Research Partners,Not Provided,5.0,buy,73.0
+2009-03-16,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-03-18,Thomas Weisel Partners,12 month,5.0,overweight,81.0
+2009-03-18,Baird,12 month,5.0,outperform,76.0
+2009-03-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-03-19,Natixis Securities Americas LLC,Not Provided,5.0,buy,80.0
+2009-03-23,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-03-23,Lazard Capital Markets,Not Provided,5.0,buy,82.0
+2009-03-23,Cowen,Not Provided,5.0,outperform,-0.0
+2009-03-23,Thomas Weisel Partners,12 month,5.0,overweight,81.0
+2009-03-24,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,-0.0
+2009-03-30,Lazard Capital Markets,Not Provided,5.0,buy,82.0
+2009-03-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-03-31,Natixis Securities Americas LLC,Not Provided,5.0,buy,80.0
+2009-03-31,Piper Jaffray,12 month,5.0,overweight,86.0
+2009-03-31,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-04-01,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-04-01,Jefferies,12 month,5.0,buy,88.0
+2009-04-01,Baird,12 month,5.0,outperform,76.0
+2009-04-01,Thomas Weisel Partners,12 month,5.0,overweight,81.0
+2009-04-01,UBS,Not Provided,5.0,buy,81.0
+2009-04-06,Thomas Weisel Partners,12 month,5.0,overweight,81.0
+2009-04-06,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-04-08,Lazard Capital Markets,12 month,5.0,buy,82.0
+2009-04-08,Goldman Sachs,12 month,1.0,sell/attractive,62.0
+2009-04-13,Thomas Weisel Partners,12 month,5.0,overweight,81.0
+2009-04-14,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,65.0
+2009-04-14,Oppenheimer & Co,18 month,5.0,outperform,75.0
+2009-04-14,Cowen,Not Provided,5.0,outperform,-0.0
+2009-04-14,Collins Stewart,12 month,5.0,buy,79.0
+2009-04-15,Bernstein,12 month,5.0,outperform,75.0
+2009-04-15,Leerink Partners LLC,Not Provided,-2147483648.0,suspended coverage,-0.0
+2009-04-16,UBS,Not Provided,5.0,buy,81.0
+2009-04-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-04-16,Jefferies,12 month,5.0,buy,65.0
+2009-04-22,Cowen,Not Provided,5.0,outperform,-0.0
+2009-04-22,Lazard Capital Markets,12 month,5.0,buy,82.0
+2009-04-22,J.P. Morgan,9 month,3.0,neutral,65.0
+2009-04-22,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,86.0
+2009-04-22,Barclays,Not Provided,5.0,overwt/neutral,83.0
+2009-04-22,Oppenheimer & Co,18 month,5.0,outperform,71.0
+2009-04-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-04-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-04-22,Thomas Weisel Partners,12 month,5.0,overweight,81.0
+2009-04-22,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,65.0
+2009-04-23,Morgan Joseph TriArtisan Group,18 month,5.0,buy,81.0
+2009-04-23,Collins Stewart,12 month,5.0,buy,79.0
+2009-04-23,Summer Street Research Partners,Not Provided,5.0,buy,64.0
+2009-04-23,Piper Jaffray,12 month,5.0,overweight,69.0
+2009-04-23,Baird,12 month,5.0,outperform,76.0
+2009-04-23,Jefferies,12 month,5.0,buy,65.0
+2009-04-23,UBS,Not Provided,5.0,buy,75.0
+2009-04-27,Thomas Weisel Partners,12 month,5.0,overweight,81.0
+2009-04-27,Oppenheimer & Co,18 month,5.0,outperform,71.0
+2009-05-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-05-07,Baird,12 month,5.0,outperform,70.0
+2009-05-07,Oppenheimer & Co,18 month,5.0,outperform,71.0
+2009-05-07,Thomas Weisel Partners,12 month,5.0,overweight,74.0
+2009-05-07,Barclays,Not Provided,5.0,overwt/neutral,83.0
+2009-05-07,UBS,Not Provided,5.0,buy,75.0
+2009-05-07,Piper Jaffray,12 month,5.0,overweight,72.0
+2009-05-07,Jefferies,12 month,5.0,buy,65.0
+2009-05-07,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,83.0
+2009-05-07,Collins Stewart,12 month,5.0,buy,70.0
+2009-05-07,Summer Street Research Partners,12 month,5.0,buy,64.0
+2009-05-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-05-07,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,65.0
+2009-05-07,Cowen,Not Provided,5.0,outperform,-0.0
+2009-05-08,Goldman Sachs,12 month,1.0,Sell/Neutral,62.0
+2009-05-11,Oppenheimer & Co,18 month,5.0,outperform,71.0
+2009-05-17,Goldman Sachs,12 month,1.0,Sell/Neutral,63.0
+2009-05-20,Bernstein,12 month,5.0,outperform,71.0
+2009-05-20,Oppenheimer & Co,18 month,5.0,outperform,71.0
+2009-05-20,Thomas Weisel Partners,Not Provided,5.0,overweight,74.0
+2009-05-20,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-05-21,Baird,12 month,5.0,outperform,70.0
+2009-05-21,Barclays,Not Provided,5.0,overwt/positive,83.0
+2009-05-21,UBS,Not Provided,5.0,buy,75.0
+2009-05-21,Cowen,Not Provided,5.0,outperform,-0.0
+2009-05-22,Lazard Capital Markets,12 month,5.0,buy,71.0
+2009-05-26,Oppenheimer & Co,18 month,5.0,outperform,71.0
+2009-05-28,Baird,12 month,5.0,outperform,70.0
+2009-06-01,Oppenheimer & Co,18 month,5.0,outperform,71.0
+2009-06-03,J.P. Morgan,9 month,3.0,neutral,65.0
+2009-06-05,Bernstein,12 month,5.0,outperform,71.0
+2009-06-08,Oppenheimer & Co,18 month,5.0,outperform,71.0
+2009-06-11,Bernstein,12 month,5.0,outperform,71.0
+2009-06-12,Lazard Capital Markets,12 month,5.0,buy,71.0
+2009-06-12,Barclays,Not Provided,5.0,overwt/positive,83.0
+2009-06-16,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,83.0
+2009-06-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-06-16,Cowen,Not Provided,5.0,outperform,-0.0
+2009-06-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-06-16,J.P. Morgan,6 month,3.0,neutral,60.0
+2009-06-16,Lazard Capital Markets,12 month,5.0,buy,71.0
+2009-06-17,Barclays,Not Provided,5.0,overwt/positive,83.0
+2009-06-17,Bernstein,Not Provided,5.0,outperform,71.0
+2009-06-17,Jefferies,12 month,5.0,buy,62.0
+2009-06-17,Collins Stewart,12 month,5.0,buy,70.0
+2009-06-17,Thomas Weisel Partners,12 month,5.0,overweight,74.0
+2009-06-17,UBS,Not Provided,5.0,buy,75.0
+2009-06-18,Oppenheimer & Co,18 month,5.0,outperform,69.0
+2009-06-19,Baird,12 month,5.0,outperform,67.0
+2009-06-19,Summer Street Research Partners,12 month,5.0,buy,61.0
+2009-06-21,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,80.0
+2009-06-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-06-25,RBC Capital Markets,Not Provided,5.0,outperform,-0.0
+2009-06-26,Thomas Weisel Partners,12 month,5.0,overweight,74.0
+2009-06-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-06-26,Oppenheimer & Co,18 month,5.0,outperform,69.0
+2009-06-26,Lazard Capital Markets,12 month,5.0,buy,71.0
+2009-06-26,Morgan Joseph TriArtisan Group,18 month,5.0,buy,83.0
+2009-06-26,Goldman Sachs,12 month,1.0,Sell/Neutral,60.0
+2009-06-29,Lazard Capital Markets,12 month,5.0,buy,71.0
+2009-07-02,Bernstein,12 month,5.0,outperform,71.0
+2009-07-06,Oppenheimer & Co,18 month,5.0,outperform,69.0
+2009-07-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-07-06,Thomas Weisel Partners,12 month,5.0,overweight,74.0
+2009-07-06,Barclays,Not Provided,5.0,overwt/positive,83.0
+2009-07-08,RBC Capital Markets,12 month,5.0,outperform,65.0
+2009-07-08,Lazard Capital Markets,12 month,5.0,buy,71.0
+2009-07-09,Morgan Joseph TriArtisan Group,18 month,5.0,buy,83.0
+2009-07-10,UBS,Not Provided,5.0,buy,75.0
+2009-07-10,Summer Street Research Partners,Not Provided,5.0,buy,61.0
+2009-07-10,Bernstein,12 month,5.0,outperform,71.0
+2009-07-13,Oppenheimer & Co,18 month,5.0,outperform,69.0
+2009-07-13,Leerink Partners LLC,Not Provided,3.0,market perform,-0.0
+2009-07-13,Jefferies,12 month,5.0,buy,62.0
+2009-07-14,J.P. Morgan,6 month,3.0,neutral,60.0
+2009-07-15,RBC Capital Markets,12 month,5.0,outperform,65.0
+2009-07-16,Thomas Weisel Partners,12 month,5.0,overweight,70.0
+2009-07-17,Collins Stewart,12 month,5.0,buy,70.0
+2009-07-20,Oppenheimer & Co,18 month,5.0,outperform,69.0
+2009-07-20,UBS,Not Provided,5.0,buy,74.0
+2009-07-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-07-22,Leerink Partners LLC,Not Provided,3.0,market perform,-0.0
+2009-07-22,J.P. Morgan,6 month,3.0,neutral,60.0
+2009-07-22,Morgan Joseph TriArtisan Group,18 month,5.0,buy,83.0
+2009-07-22,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,74.0
+2009-07-23,RBC Capital Markets,Not Provided,5.0,outperform,65.0
+2009-07-23,UBS,Not Provided,5.0,buy,67.0
+2009-07-23,Collins Stewart,Not Provided,5.0,buy,67.0
+2009-07-23,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-07-23,Summer Street Research Partners,Not Provided,3.0,neutral,-0.0
+2009-07-23,Lazard Capital Markets,12 month,5.0,buy,71.0
+2009-07-23,Bernstein,12 month,5.0,outperform,68.0
+2009-07-23,Jefferies,12 month,5.0,buy,62.0
+2009-07-23,Thomas Weisel Partners,Not Provided,5.0,overweight,63.0
+2009-07-23,Cowen,Not Provided,5.0,outperform,-0.0
+2009-07-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-07-27,Oppenheimer & Co,12 month,5.0,outperform,63.0
+2009-07-27,Goldman Sachs,12 month,1.0,Sell/Neutral,52.0
+2009-07-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-07-30,Thomas Weisel Partners,12 month,5.0,overweight,68.0
+2009-07-31,Lazard Capital Markets,12 month,5.0,buy,71.0
+2009-07-31,J.P. Morgan,6 month,3.0,neutral,60.0
+2009-07-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-08-03,RBC Capital Markets,Not Provided,5.0,outperform,65.0
+2009-08-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-08-03,Collins Stewart,12 month,5.0,buy,67.0
+2009-08-03,UBS,Not Provided,3.0,neutral,55.0
+2009-08-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-08-03,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-08-03,Oppenheimer & Co,18 month,5.0,outperform,63.0
+2009-08-07,Goldman Sachs,12 month,1.0,Sell/Neutral,44.0
+2009-08-07,RBC Capital Markets,Not Provided,3.0,sector perform,-0.0
+2009-08-10,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-08-10,Thomas Weisel Partners,12 month,5.0,overweight,63.0
+2009-08-10,J.P. Morgan,6 month,3.0,neutral,60.0
+2009-08-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-08-10,Oppenheimer & Co,18 month,5.0,outperform,63.0
+2009-08-10,Leerink Partners LLC,Not Provided,3.0,market perform,-0.0
+2009-08-11,RBC Capital Markets,Not Provided,3.0,sector perform,-0.0
+2009-08-11,UBS,Not Provided,3.0,neutral,55.0
+2009-08-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-08-11,Cowen,Not Provided,5.0,outperform,-0.0
+2009-08-13,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-08-13,Leerink Partners LLC,Not Provided,3.0,market perform,-0.0
+2009-08-17,Lazard Capital Markets,12 month,5.0,buy,64.0
+2009-08-17,Oppenheimer & Co,18 month,5.0,outperform,63.0
+2009-08-20,Summer Street Research Partners,Not Provided,3.0,neutral,-0.0
+2009-08-21,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-08-24,Oppenheimer & Co,18 month,5.0,outperform,63.0
+2009-08-24,Collins Stewart,Not Provided,5.0,buy,63.0
+2009-08-27,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-08-27,Collins Stewart,12 month,5.0,buy,63.0
+2009-08-27,Lazard Capital Markets,12 month,5.0,buy,64.0
+2009-08-28,Thomas Weisel Partners,12 month,5.0,overweight,63.0
+2009-08-28,Cowen,Not Provided,5.0,outperform,-0.0
+2009-08-31,Oppenheimer & Co,18 month,5.0,outperform,63.0
+2009-08-31,UBS,Not Provided,3.0,neutral,55.0
+2009-08-31,RBC Capital Markets,Not Provided,3.0,sector perform,56.0
+2009-08-31,Baird,12 month,3.0,neutral,58.0
+2009-08-31,J.P. Morgan,12 month,3.0,neutral,60.0
+2009-09-01,J.P. Morgan,6 month,3.0,neutral,60.0
+2009-09-01,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-09-01,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2009-09-02,Collins Stewart,12 month,5.0,buy,63.0
+2009-09-02,Thomas Weisel Partners,12 month,5.0,overweight,62.0
+2009-09-03,Cowen,Not Provided,5.0,outperform,-0.0
+2009-09-08,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,83.0
+2009-09-08,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-09-08,Oppenheimer & Co,18 month,5.0,outperform,63.0
+2009-09-09,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2009-09-10,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,60.0
+2009-09-14,Bernstein,Not Provided,5.0,outperform,68.0
+2009-09-14,Lazard Capital Markets,12 month,5.0,buy,64.0
+2009-09-14,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2009-09-15,UBS,Not Provided,3.0,neutral,60.0
+2009-09-15,Oppenheimer & Co,18 month,5.0,outperform,63.0
+2009-09-16,J.P. Morgan,12 month,3.0,neutral,60.0
+2009-09-16,Lazard Capital Markets,12 month,5.0,buy,64.0
+2009-09-16,UBS,Not Provided,3.0,neutral,60.0
+2009-09-17,Thomas Weisel Partners,Not Provided,5.0,overweight,62.0
+2009-09-21,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-09-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-09-23,Thomas Weisel Partners,12 month,5.0,overweight,66.0
+2009-09-23,Cowen,Not Provided,5.0,outperform,-0.0
+2009-09-23,Collins Stewart,12 month,5.0,buy,63.0
+2009-09-23,J.P. Morgan,15 month,3.0,neutral,60.0
+2009-09-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-09-24,FTN Equity Capital Markets Corp.,Not Provided,3.0,neutral,64.0
+2009-09-25,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-09-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-09-25,UBS,Not Provided,3.0,neutral,60.0
+2009-09-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-09-29,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-10-01,Morgan Joseph TriArtisan Group,Not Provided,5.0,buy,83.0
+2009-10-05,RBC Capital Markets,Not Provided,3.0,sector perform,56.0
+2009-10-06,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2009-10-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-10-07,Jefferies,12 month,5.0,buy,62.0
+2009-10-13,Credit Suisse,Not Provided,3.0,neutral,58.0
+2009-10-13,Lazard Capital Markets,Not Provided,5.0,buy,64.0
+2009-10-15,Summer Street Research Partners,Not Provided,3.0,neutral,-0.0
+2009-10-15,Cowen,Not Provided,5.0,outperform,-0.0
+2009-10-15,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-10-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-10-15,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-10-15,Lazard Capital Markets,12 month,5.0,buy,64.0
+2009-10-16,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-10-19,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,58.0
+2009-10-21,J.P. Morgan,15 month,3.0,neutral,60.0
+2009-10-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-10-21,Thomas Weisel Partners,12 month,5.0,overweight,66.0
+2009-10-21,Cowen,Not Provided,5.0,outperform,-0.0
+2009-10-21,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,56.0
+2009-10-21,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-10-21,Credit Suisse,Not Provided,3.0,neutral,53.0
+2009-10-21,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-10-22,FTN Equity Capital Markets Corp.,Not Provided,3.0,neutral,61.0
+2009-10-22,RBC Capital Markets,Not Provided,3.0,sector perform,56.0
+2009-10-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-10-22,Collins Stewart,12 month,5.0,buy,60.0
+2009-10-22,Summer Street Research Partners,Not Provided,3.0,neutral,-0.0
+2009-10-22,Jefferies,12 month,5.0,buy,62.0
+2009-10-22,UBS,Not Provided,3.0,neutral,56.0
+2009-10-23,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2009-10-23,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-10-23,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2009-10-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-11-02,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-11-03,UBS,Not Provided,3.0,neutral,56.0
+2009-11-03,RBC Capital Markets,Not Provided,3.0,sector perform,56.0
+2009-11-05,Bernstein,Not Provided,5.0,outperform,68.0
+2009-11-06,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-11-09,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2009-11-10,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-11-13,FTN Equity Capital Markets Corp.,Not Provided,3.0,neutral,53.0
+2009-11-16,RBC Capital Markets,Not Provided,3.0,sector perform,-0.0
+2009-11-16,J.P. Morgan,15 month,3.0,neutral,60.0
+2009-11-16,Cowen,Not Provided,5.0,outperform,-0.0
+2009-11-16,Lazard Capital Markets,12 month,5.0,buy,61.0
+2009-11-16,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-11-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-11-16,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-11-17,Jefferies,Not Provided,5.0,buy,57.0
+2009-11-17,UBS,Not Provided,3.0,neutral,54.0
+2009-11-17,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-11-17,Thomas Weisel Partners,12 month,5.0,overweight,66.0
+2009-11-17,Collins Stewart,12 month,5.0,buy,60.0
+2009-11-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-11-18,FTN Equity Capital Markets Corp.,Not Provided,3.0,neutral,53.0
+2009-11-18,Jefferies,12 month,5.0,buy,57.0
+2009-11-18,Thomas Weisel Partners,12 month,5.0,overweight,66.0
+2009-11-18,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-11-18,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-11-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-11-18,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-11-18,RBC Capital Markets,Not Provided,3.0,sector perform,-0.0
+2009-11-18,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,54.0
+2009-11-23,Cowen,Not Provided,5.0,outperform,-0.0
+2009-11-24,Bernstein,12 month,5.0,outperform,68.0
+2009-12-01,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-12-01,Bernstein,12 month,5.0,outperform,68.0
+2009-12-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-12-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-12-01,RBC Capital Markets,Not Provided,3.0,sector perform,-0.0
+2009-12-01,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-12-02,Cowen,Not Provided,5.0,outperform,-0.0
+2009-12-02,Lazard Capital Markets,12 month,5.0,buy,61.0
+2009-12-02,Hapoalim Securities USA,Not Provided,3.0,hold,55.0
+2009-12-02,Baird,12 month,3.0,neutral,54.0
+2009-12-02,Credit Suisse,Not Provided,3.0,neutral,53.0
+2009-12-02,Summer Street Research Partners,Not Provided,3.0,neutral,-0.0
+2009-12-03,Cowen,Not Provided,5.0,outperform,-0.0
+2009-12-03,Collins Stewart,Not Provided,3.0,hold,55.0
+2009-12-03,Lazard Capital Markets,12 month,5.0,buy,61.0
+2009-12-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-12-03,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-12-03,RBC Capital Markets,Not Provided,3.0,sector perform,-0.0
+2009-12-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-12-04,Baird,Not Provided,3.0,neutral,54.0
+2009-12-04,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-12-07,Summer Street Research Partners,Not Provided,1.0,sell,41.0
+2009-12-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-12-09,Hapoalim Securities USA,Not Provided,3.0,hold,55.0
+2009-12-15,MP Advisors,Not Provided,3.0,market perform,54.0
+2009-12-16,Bernstein,12 month,5.0,outperform,60.0
+2009-12-16,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2009-12-17,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-12-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-12-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-12-18,UBS,Not Provided,3.0,neutral,52.0
+2009-12-18,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2009-12-21,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,48.0
+2009-12-22,Barclays,Not Provided,5.0,overwt/positive,63.0
+2009-12-23,Baird,12 month,3.0,neutral,54.0
+2009-12-24,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-01-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-01-05,Cowen,Not Provided,5.0,outperform,-0.0
+2010-01-05,Jefferies,12 month,5.0,buy,57.0
+2010-01-05,Barclays,Not Provided,5.0,overwt/positive,63.0
+2010-01-06,Summer Street Research Partners,Not Provided,1.0,sell,41.0
+2010-01-06,J.P. Morgan,12 month,3.0,neutral,55.0
+2010-01-06,UBS,Not Provided,3.0,neutral,54.0
+2010-01-07,Hapoalim Securities USA,Not Provided,3.0,hold,55.0
+2010-01-07,Baird,Not Provided,3.0,neutral,54.0
+2010-01-08,Goldman Sachs,12 month,1.0,Sell/Neutral,46.0
+2010-01-08,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-01-08,Bernstein,12 month,5.0,outperform,60.0
+2010-01-11,Credit Suisse,Not Provided,3.0,neutral,53.0
+2010-01-12,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-01-12,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-01-12,Summer Street Research Partners,Not Provided,1.0,sell,41.0
+2010-01-12,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2010-01-12,Cowen,Not Provided,5.0,outperform,-0.0
+2010-01-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-01-13,Jefferies,12 month,5.0,buy,60.0
+2010-01-14,Bernstein,12 month,5.0,outperform,60.0
+2010-01-15,Baird,12 month,3.0,neutral,54.0
+2010-01-15,Barclays,Not Provided,5.0,overwt/positive,63.0
+2010-01-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-01-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-01-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-01-21,J.P. Morgan,12 month,3.0,neutral,55.0
+2010-01-21,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-01-21,Bernstein,12 month,5.0,outperform,60.0
+2010-01-21,Lazard Capital Markets,12 month,5.0,buy,61.0
+2010-01-21,Hapoalim Securities USA,12 month,3.0,hold,55.0
+2010-01-21,Cowen,Not Provided,5.0,outperform,-0.0
+2010-01-22,RBC Capital Markets,12 month,3.0,sector perform,65.0
+2010-01-25,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-01-27,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-01-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-01-29,Bernstein,12 month,5.0,outperform,60.0
+2010-01-29,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-02-01,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-02-01,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2010-02-02,Barclays,Not Provided,5.0,overwt/positive,63.0
+2010-02-02,Cowen,Not Provided,5.0,outperform,-0.0
+2010-02-02,Baird,12 month,3.0,neutral,54.0
+2010-02-02,Bernstein,12 month,5.0,outperform,60.0
+2010-02-02,Jefferies,12 month,5.0,buy,60.0
+2010-02-03,UBS,Not Provided,5.0,buy,68.0
+2010-02-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-02-07,Goldman Sachs,12 month,1.0,Sell/Neutral,52.0
+2010-02-08,MP Advisors,Not Provided,5.0,outperform,64.0
+2010-02-08,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-02-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-02-09,Summer Street Research Partners,Not Provided,1.0,sell,41.0
+2010-02-10,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-02-10,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-02-11,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-02-11,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2010-02-11,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-02-12,Baird,12 month,3.0,neutral,54.0
+2010-02-12,Lazard Capital Markets,12 month,5.0,buy,61.0
+2010-02-12,Bernstein,12 month,5.0,outperform,60.0
+2010-02-12,Jefferies,12 month,5.0,buy,60.0
+2010-02-12,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,48.0
+2010-02-16,Barclays,Not Provided,5.0,overwt/positive,63.0
+2010-02-16,Cowen,Not Provided,5.0,outperform,-0.0
+2010-02-17,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,48.0
+2010-02-17,Goldman Sachs,12 month,1.0,Sell/Neutral,51.0
+2010-02-17,Barclays,Not Provided,5.0,overwt/positive,63.0
+2010-02-17,Leerink Partners LLC,Not Provided,3.0,market perform,-0.0
+2010-02-17,Credit Suisse,Not Provided,3.0,neutral,53.0
+2010-02-18,J.P. Morgan,12 month,3.0,neutral,55.0
+2010-02-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-02-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-02-18,Morgan Joseph TriArtisan Group,12 month,5.0,buy,76.0
+2010-02-18,Hapoalim Securities USA,Not Provided,3.0,hold,55.0
+2010-02-18,Collins Stewart,12 month,3.0,hold,53.0
+2010-02-18,Summer Street Research Partners,Not Provided,1.0,sell,41.0
+2010-02-18,Lazard Capital Markets,12 month,5.0,buy,61.0
+2010-02-18,UBS,Not Provided,5.0,buy,68.0
+2010-02-18,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-02-19,Cowen,Not Provided,5.0,outperform,-0.0
+2010-02-19,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2010-02-19,Jefferies,12 month,5.0,buy,61.0
+2010-02-22,Bernstein,12 month,5.0,outperform,66.0
+2010-02-23,Baird,12 month,3.0,neutral,54.0
+2010-02-24,UBS,Not Provided,5.0,buy,68.0
+2010-02-25,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-02-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-02-26,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2010-02-26,Baird,12 month,3.0,neutral,54.0
+2010-02-27,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,48.0
+2010-03-01,Hapoalim Securities USA,12 month,3.0,hold,55.0
+2010-03-01,Jefferies,12 month,5.0,buy,61.0
+2010-03-01,Barclays,Not Provided,5.0,overwt/positive,63.0
+2010-03-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-03-03,Barclays,Not Provided,5.0,overwt/positive,63.0
+2010-03-03,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-03-04,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2010-03-06,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-03-09,Morgan Joseph TriArtisan Group,12 month,5.0,buy,76.0
+2010-03-10,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,48.0
+2010-03-10,Cowen,Not Provided,5.0,outperform,-0.0
+2010-03-11,Piper Jaffray,12 month,3.0,neutral,65.0
+2010-03-12,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-03-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-03-24,Baird,12 month,3.0,neutral,54.0
+2010-03-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-03-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-03-25,UBS,Not Provided,5.0,buy,68.0
+2010-03-25,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,48.0
+2010-03-25,Lazard Capital Markets,12 month,5.0,buy,59.0
+2010-03-25,Jefferies,12 month,5.0,buy,61.0
+2010-03-25,Summer Street Research Partners,Not Provided,1.0,sell,41.0
+2010-03-26,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-03-26,Cowen,Not Provided,5.0,outperform,-0.0
+2010-03-26,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-03-26,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-03-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-03-29,Hapoalim Securities USA,Not Provided,1.0,sell,37.0
+2010-03-29,Bernstein,12 month,5.0,outperform,66.0
+2010-03-30,J.P. Morgan,9 month,1.0,underweight,45.0
+2010-03-30,Barclays,Not Provided,3.0,equalwt/positive,52.0
+2010-03-31,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-03-31,Barclays,Not Provided,3.0,equalwt/positive,52.0
+2010-03-31,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-04-01,Lazard Capital Markets,12 month,5.0,buy,59.0
+2010-04-01,Piper Jaffray,12 month,3.0,neutral,65.0
+2010-04-01,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-04-01,UBS,Not Provided,5.0,buy,68.0
+2010-04-01,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-04-01,Collins Stewart,12 month,3.0,hold,53.0
+2010-04-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-04-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-04-05,Cowen,Not Provided,5.0,outperform,-0.0
+2010-04-05,BioLogic Equity Research,Not Provided,3.0,neutral,66.0
+2010-04-06,Baird,12 month,3.0,neutral,54.0
+2010-04-06,Bernstein,12 month,5.0,outperform,66.0
+2010-04-07,Jefferies,12 month,5.0,buy,60.0
+2010-04-11,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-04-12,Lazard Capital Markets,12 month,5.0,buy,59.0
+2010-04-14,Summer Street Research Partners,Not Provided,1.0,sell,41.0
+2010-04-14,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-04-14,Bernstein,12 month,5.0,outperform,66.0
+2010-04-14,Jefferies,12 month,5.0,buy,60.0
+2010-04-21,Cowen,Not Provided,5.0,outperform,-0.0
+2010-04-21,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,52.0
+2010-04-21,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-04-21,J.P. Morgan,9 month,1.0,underweight,45.0
+2010-04-21,Hapoalim Securities USA,Not Provided,3.0,hold,-0.0
+2010-04-21,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-04-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-04-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-04-22,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-04-22,Piper Jaffray,12 month,5.0,overweight,66.0
+2010-04-22,Cowen,Not Provided,5.0,outperform,-0.0
+2010-04-22,Lazard Capital Markets,12 month,5.0,buy,59.0
+2010-04-22,Barclays,Not Provided,3.0,equalwt/positive,52.0
+2010-04-22,Jefferies,12 month,5.0,buy,60.0
+2010-04-22,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-04-22,Summer Street Research Partners,Not Provided,1.0,sell,43.0
+2010-04-23,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,52.0
+2010-04-28,Bernstein,12 month,5.0,outperform,66.0
+2010-04-28,Baird,12 month,3.0,neutral,54.0
+2010-04-30,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-05-03,MP Advisors,Not Provided,-2147483648.0,Under Review,-0.0
+2010-05-03,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-05-04,Cowen,Not Provided,5.0,outperform,-0.0
+2010-05-05,Piper Jaffray,12 month,5.0,overweight,66.0
+2010-05-06,J.P. Morgan,9 month,1.0,underweight,45.0
+2010-05-07,Baird,12 month,3.0,neutral,54.0
+2010-05-07,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,52.0
+2010-05-07,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-05-07,Cowen,Not Provided,5.0,outperform,-0.0
+2010-05-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-05-07,Lazard Capital Markets,12 month,5.0,buy,59.0
+2010-05-07,Collins Stewart,12 month,3.0,hold,53.0
+2010-05-07,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-05-07,Summer Street Research Partners,Not Provided,1.0,sell,43.0
+2010-05-07,Piper Jaffray,12 month,5.0,overweight,70.0
+2010-05-07,Barclays,Not Provided,3.0,equalwt/positive,52.0
+2010-05-11,MP Advisors,Not Provided,5.0,outperform,61.0
+2010-05-12,Jefferies,12 month,5.0,buy,63.0
+2010-05-14,Hapoalim Securities USA,Not Provided,3.0,hold,-0.0
+2010-05-25,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-05-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-05-25,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-05-25,Cowen,Not Provided,5.0,outperform,-0.0
+2010-05-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-05-25,Baird,12 month,3.0,neutral,54.0
+2010-05-25,Piper Jaffray,12 month,5.0,overweight,74.0
+2010-05-26,Jefferies,12 month,5.0,buy,63.0
+2010-05-26,Summer Street Research Partners,Not Provided,3.0,neutral,-0.0
+2010-05-26,Barclays,Not Provided,3.0,equalwt/positive,52.0
+2010-05-26,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-05-27,Bernstein,12 month,5.0,outperform,72.0
+2010-05-29,MP Advisors,Not Provided,5.0,outperform,61.0
+2010-06-01,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-06-01,J.P. Morgan,6 month,3.0,neutral,50.0
+2010-06-04,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-06-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-06-10,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-06-14,Barclays,Not Provided,3.0,equalwt/positive,52.0
+2010-06-15,Cowen,Not Provided,5.0,outperform,-0.0
+2010-06-18,Piper Jaffray,12 month,5.0,overweight,74.0
+2010-06-18,Cowen,Not Provided,5.0,outperform,-0.0
+2010-06-22,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-06-22,Jefferies,12 month,5.0,buy,63.0
+2010-06-24,Summer Street Research Partners,Not Provided,3.0,neutral,-0.0
+2010-06-24,Barclays,Not Provided,3.0,equalwt/positive,52.0
+2010-06-24,Leerink Partners LLC,Not Provided,3.0,market perform,-0.0
+2010-06-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-06-29,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-06-29,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-06-30,Collins Stewart,12 month,3.0,hold,53.0
+2010-06-30,Barclays,Not Provided,3.0,equalwt/positive,52.0
+2010-06-30,Cowen,Not Provided,5.0,outperform,-0.0
+2010-07-01,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-07-01,Leerink Partners LLC,Not Provided,3.0,market perform,-0.0
+2010-07-02,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-07-06,Barclays,Not Provided,3.0,equalwt/positive,52.0
+2010-07-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-07-08,MP Advisors,Not Provided,3.0,market perform,58.0
+2010-07-08,Cowen,Not Provided,5.0,outperform,-0.0
+2010-07-08,Lazard Capital Markets,12 month,5.0,buy,58.0
+2010-07-09,Bernstein,12 month,5.0,outperform,72.0
+2010-07-13,J.P. Morgan,6 month,3.0,neutral,50.0
+2010-07-13,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-07-14,Baird,12 month,3.0,neutral,54.0
+2010-07-15,Jefferies,12 month,5.0,buy,63.0
+2010-07-21,J.P. Morgan,6 month,3.0,neutral,50.0
+2010-07-21,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-07-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-07-21,Lazard Capital Markets,12 month,5.0,buy,58.0
+2010-07-22,Hapoalim Securities USA,Not Provided,3.0,hold,-0.0
+2010-07-22,Jefferies,12 month,5.0,buy,63.0
+2010-07-22,Summer Street Research Partners,Not Provided,3.0,neutral,-0.0
+2010-07-23,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-07-23,Cowen,Not Provided,5.0,outperform,-0.0
+2010-07-23,Morgan Joseph TriArtisan Group,12 month,5.0,buy,76.0
+2010-07-23,Piper Jaffray,12 month,5.0,overweight,73.0
+2010-07-23,Barclays,Not Provided,3.0,equalwt/positive,62.0
+2010-07-23,Baird,12 month,3.0,neutral,61.0
+2010-07-23,Leerink Partners LLC,Not Provided,-2147483648.0,not rated,-0.0
+2010-07-27,Summer Street Research Partners,Not Provided,3.0,neutral,-0.0
+2010-07-27,Cowen,Not Provided,5.0,outperform,-0.0
+2010-07-27,Collins Stewart,12 month,3.0,hold,53.0
+2010-07-27,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-07-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-07-27,Baird,12 month,3.0,neutral,61.0
+2010-07-28,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-07-29,Jefferies,12 month,5.0,buy,80.0
+2010-07-29,Lazard Capital Markets,12 month,3.0,hold,73.0
+2010-07-30,Leerink Partners LLC,Not Provided,-2147483648.0,not rated,-0.0
+2010-08-02,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-08-02,Barclays,Not Provided,3.0,equalwt/positive,66.0
+2010-08-03,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2010-08-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-08-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-08-06,Piper Jaffray,12 month,3.0,neutral,74.0
+2010-08-06,ISI Group,Not Provided,5.0,buy,63.0
+2010-08-12,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2010-08-18,Barclays,Not Provided,3.0,equalwt/positive,66.0
+2010-08-24,Morgan Joseph TriArtisan Group,18 month,5.0,buy,76.0
+2010-08-25,Baird,12 month,3.0,neutral,61.0
+2010-08-26,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-08-27,Barclays,Not Provided,3.0,equalwt/positive,66.0
+2010-08-29,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-08-29,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-08-30,Barclays,Not Provided,3.0,equalwt/positive,69.0
+2010-08-30,Piper Jaffray,12 month,3.0,neutral,74.0
+2010-08-30,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2010-08-30,J.P. Morgan,Not Provided,-2147483648.0,restricted,-0.0
+2010-08-30,Collins Stewart,Not Provided,3.0,hold,-0.0
+2010-08-30,Baird,12 month,3.0,neutral,69.0
+2010-08-30,Cowen,Not Provided,5.0,outperform,-0.0
+2010-09-03,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-09-07,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2010-09-07,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-09-13,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2010-09-13,Jefferies,12 month,5.0,buy,80.0
+2010-09-13,Cowen,Not Provided,5.0,outperform,-0.0
+2010-09-13,Piper Jaffray,12 month,3.0,neutral,74.0
+2010-09-13,Barclays,Not Provided,3.0,equalwt/positive,69.0
+2010-09-17,RBC Capital Markets,Not Provided,3.0,sector perform,61.0
+2010-09-21,Jefferies,12 month,5.0,buy,80.0
+2010-10-04,Cowen,Not Provided,5.0,outperform,-0.0
+2010-10-04,Bernstein,12 month,5.0,outperform,76.0
+2010-10-05,Baird,12 month,3.0,neutral,69.0
+2010-10-06,Bernstein,12 month,5.0,outperform,76.0
+2010-10-08,RBC Capital Markets,Not Provided,3.0,sector perform,61.0
+2010-10-08,Piper Jaffray,12 month,3.0,neutral,74.0
+2010-10-15,RBC Capital Markets,Not Provided,3.0,sector perform,61.0
+2010-10-18,Piper Jaffray,12 month,3.0,neutral,74.0
+2010-10-20,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2010-10-21,Summer Street Research Partners,Not Provided,3.0,neutral,-0.0
+2010-10-21,Morgan Joseph TriArtisan Group,12 month,5.0,buy,76.0
+2010-10-22,Baird,12 month,3.0,neutral,69.0
+2010-10-25,Barclays,Not Provided,3.0,equalwt/positive,75.0
+2010-10-25,Jefferies,12 month,5.0,buy,80.0
+2010-10-25,Piper Jaffray,12 month,3.0,neutral,82.0
+2010-10-25,Cowen,Not Provided,5.0,outperform,-0.0
+2010-10-25,RBC Capital Markets,Not Provided,3.0,sector perform,75.0
+2010-10-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-10-25,Hapoalim Securities USA,Not Provided,3.0,hold,-0.0
+2010-10-25,Collins Stewart,Not Provided,3.0,neutral,-0.0
+2010-10-27,Jefferies,12 month,5.0,buy,80.0
+2010-11-04,MP Advisors,Not Provided,-2147483648.0,not rated,-0.0
+2010-11-05,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2010-11-05,Jefferies,12 month,5.0,buy,80.0
+2010-11-15,MP Advisors,Not Provided,-2147483648.0,not rated,-0.0
+2010-11-19,Cowen,Not Provided,5.0,outperform,-0.0
+2010-11-24,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2010-11-24,Barclays,Not Provided,3.0,equalwt/positive,75.0
+2010-11-29,Bernstein,12 month,5.0,outperform,78.0
+2010-12-09,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2010-12-10,Bernstein,12 month,5.0,outperform,78.0
+2010-12-13,Baird,12 month,3.0,neutral,69.0
+2010-12-14,Piper Jaffray,Not Provided,3.0,neutral,82.0
+2010-12-20,Piper Jaffray,12 month,3.0,neutral,82.0
+2010-12-20,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2010-12-21,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2010-12-21,Barclays,Not Provided,3.0,equalwt/positive,75.0
+2010-12-29,Baird,12 month,3.0,neutral,69.0
+2011-01-11,Cowen,Not Provided,5.0,outperform,-0.0
+2011-01-11,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2011-01-11,Jefferies,12 month,5.0,buy,80.0
+2011-01-11,Bernstein,12 month,5.0,outperform,78.0
+2011-01-11,Barclays,Not Provided,3.0,equalwt/positive,75.0
+2011-01-11,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2011-01-12,Collins Stewart,Not Provided,3.0,neutral,-0.0
+2011-01-12,Piper Jaffray,12 month,3.0,neutral,82.0
+2011-01-13,Baird,12 month,3.0,neutral,69.0
+2011-01-14,Bernstein,12 month,5.0,outperform,78.0
+2011-01-18,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-01-18,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2011-01-21,Bernstein,12 month,5.0,outperform,78.0
+2011-01-24,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-01-24,Piper Jaffray,12 month,3.0,neutral,82.0
+2011-01-31,Piper Jaffray,12 month,3.0,neutral,82.0
+2011-02-01,Bernstein,12 month,5.0,outperform,78.0
+2011-02-03,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2011-02-09,Bernstein,12 month,5.0,outperform,78.0
+2011-02-16,Baird,12 month,3.0,neutral,75.0
+2011-02-16,Bernstein,12 month,5.0,outperform,78.0
+2011-02-16,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2011-02-16,Cowen,Not Provided,3.0,neutral,-0.0
+2011-02-16,Barclays,Not Provided,3.0,equalwt/positive,78.0
+2011-02-16,Piper Jaffray,12 month,3.0,neutral,82.0
+2011-02-16,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-02-16,Collins Stewart,Not Provided,3.0,neutral,-0.0
+2011-02-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-02-17,Hapoalim Securities USA,Not Provided,3.0,hold,-0.0
+2011-02-17,Morgan Joseph TriArtisan Group,Not Provided,3.0,hold,-0.0
+2011-02-17,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2011-02-17,Jefferies,12 month,3.0,hold,75.1
+2011-02-23,Jefferies,12 month,3.0,hold,80.0
+2011-02-25,Leerink Partners LLC,Not Provided,-2147483648.0,suspended coverage,-0.0
+2011-02-25,Bernstein,12 month,5.0,outperform,78.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-04,Bernstein,12 month,5.0,outperform,78.0
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-11,Bernstein,12 month,5.0,outperform,78.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-17,Bernstein,12 month,5.0,outperform,78.0
+2011-03-28,Bernstein,12 month,5.0,outperform,78.0
+2011-04-01,RBC Capital Markets,12 month,3.0,sector perform,75.0

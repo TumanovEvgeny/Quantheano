@@ -1,0 +1,313 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-07-30,UBS,12 month,5.0,buy,45.0
+2016-01-27,Jefferies,12 month,5.0,buy,42.0
+2016-01-27,Stifel,12 month,5.0,buy,45.0
+2016-01-27,J.P. Morgan,12 month,5.0,overweight,45.0
+2016-01-28,Craig-Hallum Capital Group LLC,12 month,3.0,hold,37.0
+2016-01-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-01-28,Needham & Co,12 month,5.0,buy,41.0
+2016-01-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-01-29,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-02-19,Argus Research Corp,Not Provided,5.0,buy,52.0
+2016-02-22,Leerink Partners LLC,12 month,5.0,outperform,44.0
+2016-02-23,RBC Capital Markets,12 month,3.0,sector perform,40.0
+2016-03-01,BTIG LLC,12 month,5.0,buy,43.0
+2016-03-01,Barclays,Not Provided,3.0,equalweight,42.0
+2016-03-04,Evercore ISI,12 month,3.0,hold,40.0
+2016-03-04,Canaccord Genuity,12 month,5.0,buy,45.0
+2016-03-05,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-03-07,Piper Jaffray,12 month,3.0,neutral,38.0
+2016-03-22,Goldman Sachs,6 month,5.0,Buy/Neutral,47.0
+2016-03-23,Morgan Stanley,12 month,3.0,Equalwt/In-Line,42.0
+2016-03-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-29,Cowen,Not Provided,3.0,market perform,42.0
+2016-04-04,Barclays,Not Provided,3.0,equalweight,42.0
+2016-04-05,Cowen,Not Provided,3.0,market perform,42.0
+2016-04-07,Leerink Partners LLC,12 month,5.0,outperform,44.0
+2016-04-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-12,RBC Capital Markets,12 month,3.0,sector perform,40.0
+2016-04-12,Cowen,Not Provided,3.0,market perform,42.0
+2016-04-15,Evercore ISI,Not Provided,3.0,hold,38.0
+2016-04-18,BTIG LLC,12 month,5.0,buy,44.0
+2016-04-18,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-19,Needham & Co,12 month,5.0,buy,41.0
+2016-04-19,Barclays,Not Provided,3.0,equalweight,42.0
+2016-04-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,42.0
+2016-04-25,RBC Capital Markets,12 month,3.0,sector perform,40.0
+2016-04-26,Canaccord Genuity,Not Provided,5.0,buy,45.0
+2016-04-26,Piper Jaffray,12 month,3.0,neutral,38.0
+2016-04-27,Cowen,12 month,3.0,market perform,42.0
+2016-04-27,BTIG LLC,12 month,5.0,buy,44.0
+2016-04-27,Evercore ISI,12 month,3.0,hold,38.0
+2016-04-27,J.P. Morgan,9 month,5.0,overweight,45.0
+2016-04-27,Goldman Sachs,6 month,5.0,Buy/Neutral,45.0
+2016-04-27,Stifel,12 month,5.0,buy,45.0
+2016-04-28,Leerink Partners LLC,12 month,5.0,outperform,46.0
+2016-04-28,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-04-28,Piper Jaffray,12 month,3.0,neutral,40.0
+2016-04-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-28,Craig-Hallum Capital Group LLC,12 month,3.0,hold,39.0
+2016-04-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-28,Jefferies,12 month,5.0,buy,42.0
+2016-04-28,Canaccord Genuity,12 month,5.0,buy,45.0
+2016-04-28,Needham & Co,Not Provided,3.0,hold,-0.0
+2016-04-28,Morgan Stanley,12 month,3.0,Equalwt/In-Line,40.0
+2016-04-29,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-05-02,Cowen,Not Provided,3.0,market perform,42.0
+2016-05-03,RBC Capital Markets,12 month,3.0,sector perform,40.0
+2016-05-03,Barclays,Not Provided,3.0,equalweight,42.0
+2016-05-05,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2016-05-06,Morgan Stanley,12 month,3.0,Equalwt/In-Line,40.0
+2016-05-11,Cowen,Not Provided,3.0,market perform,42.0
+2016-05-12,Cowen,Not Provided,3.0,market perform,42.0
+2016-05-17,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-05-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,40.0
+2016-05-20,Piper Jaffray,Not Provided,3.0,neutral,40.0
+2016-05-25,Cowen,Not Provided,3.0,market perform,42.0
+2016-06-02,Barclays,Not Provided,3.0,equalweight,42.0
+2016-06-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,40.0
+2016-06-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,38.0
+2016-06-06,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2016-06-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-09,Piper Jaffray,12 month,3.0,neutral,40.0
+2016-06-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-17,Evercore ISI,12 month,3.0,hold,37.0
+2016-06-20,Piper Jaffray,12 month,3.0,neutral,40.0
+2016-06-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-06-20,Jefferies,12 month,5.0,buy,42.0
+2016-06-21,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-06-24,Evercore ISI,Not Provided,3.0,hold,37.0
+2016-06-27,Cowen,Not Provided,3.0,market perform,42.0
+2016-07-07,Barclays,Not Provided,3.0,equalweight,42.0
+2016-07-13,Cowen,Not Provided,3.0,market perform,40.0
+2016-07-13,Evercore ISI,Not Provided,3.0,hold,38.0
+2016-07-13,Canaccord Genuity,12 month,5.0,buy,45.0
+2016-07-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-15,Needham & Co,Not Provided,3.0,hold,-0.0
+2016-07-15,Leerink Partners LLC,12 month,5.0,outperform,46.0
+2016-07-18,Canaccord Genuity,12 month,5.0,buy,45.0
+2016-07-19,Barclays,Not Provided,3.0,equalweight,42.0
+2016-07-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,38.0
+2016-07-20,Craig-Hallum Capital Group LLC,12 month,3.0,hold,39.0
+2016-07-21,Evercore ISI,12 month,3.0,hold,38.0
+2016-07-27,Jefferies,12 month,5.0,buy,43.0
+2016-07-27,J.P. Morgan,12 month,5.0,overweight,45.0
+2016-07-27,BTIG LLC,12 month,5.0,buy,44.0
+2016-07-27,Stifel,12 month,5.0,buy,45.0
+2016-07-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-28,Cowen,12 month,3.0,market perform,40.0
+2016-07-28,Evercore ISI,12 month,5.0,buy,42.0
+2016-07-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-07-28,Barclays,Not Provided,3.0,equalweight,42.0
+2016-07-28,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2016-07-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-28,Needham & Co,Not Provided,3.0,hold,-0.0
+2016-07-28,Craig-Hallum Capital Group LLC,12 month,3.0,hold,39.0
+2016-07-28,Leerink Partners LLC,12 month,5.0,outperform,46.0
+2016-07-28,Canaccord Genuity,12 month,5.0,buy,45.0
+2016-07-29,Piper Jaffray,12 month,3.0,neutral,44.0
+2016-07-29,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-07-29,Morgan Stanley,12 month,3.0,Equalwt/In-Line,40.0
+2016-08-01,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2016-08-03,Barclays,Not Provided,3.0,equalweight,42.0
+2016-08-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,40.0
+2016-08-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-08-08,Canaccord Genuity,Not Provided,5.0,buy,45.0
+2016-08-09,Evercore ISI,12 month,5.0,buy,42.0
+2016-08-10,Cowen,Not Provided,3.0,market perform,40.0
+2016-08-17,Piper Jaffray,12 month,3.0,neutral,44.0
+2016-08-18,Argus Research Corp,Not Provided,5.0,buy,52.0
+2016-08-25,Canaccord Genuity,Not Provided,5.0,buy,45.0
+2016-08-25,Cowen,Not Provided,3.0,market perform,40.0
+2016-08-26,Evercore ISI,12 month,5.0,buy,42.0
+2016-08-26,Piper Jaffray,12 month,3.0,neutral,44.0
+2016-08-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-28,Canaccord Genuity,Not Provided,5.0,buy,45.0
+2016-08-31,Piper Jaffray,Not Provided,3.0,neutral,44.0
+2016-09-01,Evercore ISI,12 month,5.0,buy,42.0
+2016-09-01,Barclays,Not Provided,3.0,equalweight,42.0
+2016-09-06,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2016-09-07,Cowen,Not Provided,3.0,market perform,40.0
+2016-09-13,Cowen,Not Provided,3.0,market perform,40.0
+2016-09-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-23,Barclays,Not Provided,5.0,overweight,44.0
+2016-09-23,Morgan Stanley,12 month,3.0,Equalwt/No Rating,40.0
+2016-09-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-09-27,Cowen,Not Provided,3.0,market perform,40.0
+2016-09-27,BTIG LLC,12 month,5.0,buy,44.0
+2016-09-28,Stifel,Not Provided,5.0,buy,45.0
+2016-09-29,Leerink Partners LLC,12 month,5.0,outperform,46.0
+2016-10-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,40.0
+2016-10-03,Evercore ISI,12 month,5.0,buy,42.0
+2016-10-05,Barclays,Not Provided,5.0,overweight,44.0
+2016-10-12,Cowen,Not Provided,3.0,market perform,40.0
+2016-10-13,Evercore ISI,12 month,5.0,buy,43.0
+2016-10-14,Needham & Co,Not Provided,3.0,hold,-0.0
+2016-10-14,Leerink Partners LLC,Not Provided,5.0,outperform,46.0
+2016-10-17,BTIG LLC,12 month,5.0,buy,44.0
+2016-10-18,Morgan Stanley,12 month,3.0,Equalwt/In-Line,40.0
+2016-10-27,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-10-31,Cowen,Not Provided,3.0,market perform,40.0
+2016-10-31,Canaccord Genuity,Not Provided,5.0,buy,45.0
+2016-11-02,J.P. Morgan,12 month,5.0,overweight,45.0
+2016-11-02,Stifel,12 month,5.0,buy,45.0
+2016-11-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-02,Evercore ISI,12 month,5.0,buy,41.0
+2016-11-02,Jefferies,12 month,5.0,buy,43.0
+2016-11-03,Barclays,Not Provided,5.0,overweight,45.0
+2016-11-03,Canaccord Genuity,12 month,5.0,buy,48.0
+2016-11-03,BTIG LLC,12 month,5.0,buy,47.0
+2016-11-03,Piper Jaffray,12 month,3.0,neutral,44.0
+2016-11-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-11-03,Leerink Partners LLC,12 month,5.0,outperform,43.0
+2016-11-03,Needham & Co,Not Provided,3.0,hold,-0.0
+2016-11-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-11-03,Goldman Sachs,6 month,5.0,Buy/Neutral,46.0
+2016-11-03,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2016-11-03,Craig-Hallum Capital Group LLC,12 month,3.0,hold,39.0
+2016-11-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,40.0
+2016-11-04,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-11-04,Cowen,Not Provided,3.0,market perform,40.0
+2016-11-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-10,Evercore ISI,12 month,5.0,buy,41.0
+2016-11-10,Cowen,Not Provided,3.0,market perform,40.0
+2016-11-14,BTIG LLC,12 month,5.0,buy,47.0
+2016-11-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-15,Cowen,Not Provided,3.0,market perform,40.0
+2016-11-16,Stifel,12 month,5.0,buy,45.0
+2016-11-16,Canaccord Genuity,12 month,5.0,buy,48.0
+2016-11-16,Piper Jaffray,12 month,3.0,neutral,44.0
+2016-11-18,Barclays,Not Provided,5.0,overweight,45.0
+2016-11-22,Piper Jaffray,Not Provided,3.0,neutral,44.0
+2016-11-28,Leerink Partners LLC,12 month,5.0,outperform,45.0
+2016-11-28,Cowen,Not Provided,3.0,market perform,40.0
+2016-11-29,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2016-11-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-30,Piper Jaffray,12 month,3.0,neutral,44.0
+2016-12-01,Needham & Co,Not Provided,3.0,hold,-0.0
+2016-12-02,Barclays,Not Provided,5.0,overweight,45.0
+2016-12-05,Canaccord Genuity,Not Provided,5.0,buy,48.0
+2016-12-07,Canaccord Genuity,Not Provided,5.0,buy,48.0
+2016-12-09,Leerink Partners LLC,Not Provided,5.0,outperform,47.0
+2016-12-12,Goldman Sachs,6 month,5.0,Buy/Neutral,47.0
+2016-12-12,Cowen,Not Provided,3.0,market perform,40.0
+2016-12-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-14,Jefferies,12 month,5.0,buy,43.0
+2016-12-14,Cowen,12 month,3.0,market perform,40.0
+2016-12-14,BTIG LLC,12 month,5.0,buy,47.0
+2016-12-14,Leerink Partners LLC,Not Provided,5.0,outperform,47.0
+2016-12-15,Canaccord Genuity,12 month,5.0,buy,48.0
+2016-12-15,Morgan Stanley,12 month,3.0,Equalwt/In-Line,40.0
+2016-12-15,Evercore ISI,Not Provided,5.0,buy,41.0
+2016-12-15,Needham & Co,Not Provided,3.0,hold,-0.0
+2016-12-15,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2016-12-15,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-12-15,Barclays,Not Provided,5.0,overweight,45.0
+2016-12-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-12-15,Piper Jaffray,12 month,3.0,neutral,44.0
+2016-12-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-12-18,Stifel,12 month,5.0,buy,45.0
+2016-12-19,J.P. Morgan,12 month,5.0,overweight,45.0
+2016-12-28,Cowen,Not Provided,3.0,market perform,40.0
+2017-01-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,42.0
+2017-01-03,Needham & Co,Not Provided,3.0,hold,-0.0
+2017-01-04,Craig-Hallum Capital Group LLC,12 month,3.0,hold,39.0
+2017-01-04,Cowen,Not Provided,3.0,market perform,40.0
+2017-01-04,Stifel,12 month,5.0,buy,45.0
+2017-01-04,Barclays,Not Provided,5.0,overweight,47.0
+2017-01-04,Evercore ISI,12 month,3.0,hold,42.0
+2017-01-04,Piper Jaffray,12 month,5.0,overweight,48.0
+2017-01-05,Argus Research Corp,Not Provided,5.0,buy,52.0
+2017-01-06,Jefferies,12 month,5.0,buy,46.0
+2017-01-06,Leerink Partners LLC,Not Provided,5.0,outperform,47.0
+2017-01-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-10,Evercore ISI,12 month,3.0,hold,42.0
+2017-01-20,Needham & Co,Not Provided,3.0,hold,-0.0
+2017-01-23,BTIG LLC,12 month,5.0,buy,47.0
+2017-01-23,Canaccord Genuity,Not Provided,5.0,buy,48.0
+2017-01-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,42.0
+2017-01-26,Cowen,Not Provided,3.0,market perform,40.0
+2017-02-01,Stifel,12 month,5.0,buy,45.0
+2017-02-01,J.P. Morgan,12 month,5.0,overweight,45.0
+2017-02-01,Jefferies,12 month,5.0,buy,46.0
+2017-02-01,Canaccord Genuity,12 month,5.0,buy,48.0
+2017-02-01,BTIG LLC,12 month,5.0,buy,47.0
+2017-02-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-01,Evercore ISI,12 month,3.0,hold,41.5
+2017-02-02,Piper Jaffray,12 month,5.0,overweight,48.0
+2017-02-02,Needham & Co,Not Provided,3.0,hold,-0.0
+2017-02-02,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2017-02-02,Cowen,12 month,3.0,market perform,40.0
+2017-02-02,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-02,Leerink Partners LLC,Not Provided,5.0,outperform,47.0
+2017-02-02,Barclays,Not Provided,5.0,overweight,47.0
+2017-02-02,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-02-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,42.0
+2017-02-06,Barclays,Not Provided,5.0,overweight,47.0
+2017-02-10,Cowen,Not Provided,3.0,market perform,40.0
+2017-02-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-14,Leerink Partners LLC,Not Provided,-2147483648.0,suspended coverage,-0.0
+2017-02-14,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2017-02-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-14,Cowen,12 month,3.0,market perform,40.0
+2017-02-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-14,BTIG LLC,12 month,5.0,buy,47.0
+2017-02-14,Canaccord Genuity,12 month,5.0,buy,48.0
+2017-02-14,Piper Jaffray,12 month,5.0,overweight,48.0
+2017-02-14,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2017-02-14,Jefferies,12 month,5.0,buy,46.0
+2017-02-15,Stifel,12 month,5.0,buy,45.0
+2017-02-15,Barclays,Not Provided,5.0,overweight,47.0
+2017-02-15,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-02-15,Evercore ISI,12 month,3.0,hold,41.0
+2017-02-15,Needham & Co,12 month,5.0,buy,46.0
+2017-02-21,Piper Jaffray,12 month,5.0,overweight,51.0
+2017-02-27,Evercore ISI,12 month,3.0,hold,41.0
+2017-03-01,Needham & Co,12 month,5.0,buy,46.0
+2017-03-01,Cowen,Not Provided,3.0,market perform,40.0
+2017-03-02,Barclays,Not Provided,5.0,overweight,47.0
+2017-03-02,Evercore ISI,Not Provided,3.0,in-line,42.0
+2017-03-06,BTIG LLC,12 month,5.0,buy,47.0
+2017-03-13,Cowen,12 month,3.0,market perform,40.0
+2017-03-13,Jefferies,12 month,5.0,buy,49.0
+2017-03-17,Piper Jaffray,Not Provided,5.0,overweight,51.0
+2017-03-22,Piper Jaffray,12 month,5.0,overweight,51.0
+2017-03-22,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2017-03-27,Goldman Sachs,6 month,5.0,Buy/Neutral,48.0
+2017-03-30,Leerink Partners LLC,12 month,5.0,outperform,52.0
+2017-04-03,Cowen,Not Provided,3.0,market perform,40.0
+2017-04-03,Piper Jaffray,12 month,5.0,overweight,51.0
+2017-04-03,Needham & Co,12 month,5.0,buy,50.0
+2017-04-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-05,Barclays,Not Provided,5.0,overweight,50.0
+2017-04-10,Cowen,Not Provided,3.0,market perform,42.0
+2017-04-10,Evercore ISI,Not Provided,3.0,in-line,43.5
+2017-04-11,J.P. Morgan,12 month,5.0,overweight,50.0
+2017-04-13,Needham & Co,12 month,5.0,buy,50.0
+2017-04-17,Leerink Partners LLC,12 month,5.0,outperform,52.0
+2017-04-18,Barclays,Not Provided,5.0,overweight,50.0
+2017-04-18,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2017-05-01,Cowen,Not Provided,3.0,market perform,42.0
+2017-05-02,Barclays,Not Provided,5.0,overweight,50.0
+2017-05-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,47.0
+2017-05-04,Needham & Co,12 month,5.0,buy,50.0
+2017-05-08,Canaccord Genuity,Not Provided,5.0,buy,53.0
+2017-05-10,Jefferies,12 month,5.0,buy,49.0
+2017-05-10,J.P. Morgan,9 month,5.0,overweight,50.0
+2017-05-10,Leerink Partners LLC,12 month,5.0,outperform,52.0
+2017-05-10,Evercore ISI,12 month,3.0,in-line,43.0
+2017-05-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-11,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-11,Stifel,12 month,5.0,buy,48.0
+2017-05-11,Canaccord Genuity,12 month,5.0,buy,53.0
+2017-05-11,Piper Jaffray,12 month,5.0,overweight,51.0
+2017-05-11,Barclays,Not Provided,5.0,overweight,50.0
+2017-05-11,Needham & Co,12 month,5.0,buy,50.0
+2017-05-11,Morgan Stanley,12 month,3.0,Equalwt/In-Line,47.0
+2017-05-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-12,BTIG LLC,12 month,5.0,buy,47.0
+2017-05-12,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-05-17,Cowen,Not Provided,3.0,market perform,42.0

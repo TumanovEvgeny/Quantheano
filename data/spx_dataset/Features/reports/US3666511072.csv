@@ -1,0 +1,38 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2017-01-05,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2017-02-02,Baird,12 month,5.0,outperform,108.0
+2017-02-02,Piper Jaffray,12 month,3.0,neutral,103.0
+2017-02-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,106.0
+2017-02-03,Credit Suisse,Not Provided,5.0,outperform,114.0
+2017-02-25,Macquarie,12 month,3.0,neutral,101.0
+2017-03-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-14,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-03-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-03-27,Cantor Fitzgerald,Not Provided,5.0,overweight,114.0
+2017-04-02,RBC Capital Markets,12 month,5.0,top pick,124.0
+2017-04-05,BMO Capital Markets,Not Provided,5.0,outperform,110.0
+2017-04-06,Barclays,Not Provided,5.0,overweight,125.0
+2017-04-11,Credit Suisse,Not Provided,5.0,outperform,124.0
+2017-04-11,Piper Jaffray,12 month,3.0,neutral,119.0
+2017-04-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-04-24,Goldman Sachs,12 month,3.0,neutral/attractive,115.0
+2017-04-24,Macquarie,12 month,3.0,neutral,101.0
+2017-04-25,Cantor Fitzgerald,Not Provided,5.0,overweight,114.0
+2017-04-28,BMO Capital Markets,Not Provided,5.0,outperform,128.0
+2017-05-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-01,Cantor Fitzgerald,Not Provided,5.0,overweight,114.0
+2017-05-04,Piper Jaffray,12 month,3.0,neutral,114.0
+2017-05-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-04,Baird,12 month,5.0,outperform,125.0
+2017-05-04,Credit Suisse,Not Provided,5.0,outperform,130.0
+2017-05-04,BMO Capital Markets,Not Provided,5.0,outperform,128.0
+2017-05-04,Barclays,Not Provided,5.0,overweight,125.0
+2017-05-05,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-05-05,RBC Capital Markets,12 month,5.0,top pick,130.0
+2017-05-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-08,Morgan Stanley,12 month,3.0,Equalwt/In-Line,112.0
+2017-05-08,Macquarie,12 month,3.0,neutral,112.0
+2017-05-08,Cantor Fitzgerald,12 month,5.0,overweight,128.0
+2017-05-15,Barclays,Not Provided,5.0,overweight,125.0
+2017-05-17,Cantor Fitzgerald,Not Provided,5.0,overweight,128.0
+2017-05-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0

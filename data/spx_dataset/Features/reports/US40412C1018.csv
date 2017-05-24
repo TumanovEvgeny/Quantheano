@@ -1,0 +1,800 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2014-09-01,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-09-11,Goldman Sachs,12 month,5.0,buy/attractive,85.0
+2014-10-28,UBS,12 month,5.0,buy,86.0
+2014-11-20,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2014-12-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-22,Avondale Partners LLC,Not Provided,4.0,market outperform,83.0
+2015-01-09,Barclays,Not Provided,5.0,overweight,84.0
+2015-01-11,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2015-01-11,Credit Suisse,Not Provided,5.0,outperform,83.0
+2015-01-12,Raymond James,12 month,5.0,outperform,83.0
+2015-01-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,85.0
+2015-01-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-01-12,J.P. Morgan,12 month,5.0,overweight,82.0
+2015-01-12,Jefferies,12 month,5.0,buy,95.0
+2015-01-12,Cantor Fitzgerald,12 month,5.0,buy,88.0
+2015-01-12,Sterne Agee CRT,12 month,5.0,buy,96.0
+2015-01-16,Susquehanna Financial,12 month,4.0,Positive,84.0
+2015-01-20,SunTrust Robinson Humphrey,Not Provided,5.0,buy,85.0
+2015-01-25,RBC Capital Markets,12 month,5.0,outperform,85.0
+2015-01-26,Baird,12 month,5.0,outperform,95.0
+2015-01-27,Mizuho Securities USA Inc,12 month,5.0,buy,85.0
+2015-01-27,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2015-01-27,Oppenheimer & Co,Not Provided,5.0,outperform,87.0
+2015-01-29,Avondale Partners LLC,Not Provided,4.0,market outperform,83.0
+2015-02-02,J.P. Morgan,Not Provided,5.0,overweight,82.0
+2015-02-03,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2015-02-03,Susquehanna Financial,12 month,4.0,Positive,84.0
+2015-02-03,Mizuho Securities USA Inc,12 month,5.0,buy,85.0
+2015-02-03,Raymond James,12 month,5.0,outperform,83.0
+2015-02-03,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2015-02-03,Credit Suisse,Not Provided,5.0,outperform,81.0
+2015-02-03,Oppenheimer & Co,12 month,5.0,outperform,87.0
+2015-02-03,Baird,12 month,5.0,outperform,90.0
+2015-02-03,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2015-02-03,SunTrust Robinson Humphrey,12 month,5.0,buy,85.0
+2015-02-03,Barclays,Not Provided,5.0,overweight,84.0
+2015-02-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-03,RBC Capital Markets,12 month,5.0,outperform,85.0
+2015-02-03,Jefferies,12 month,5.0,buy,95.0
+2015-02-04,Barclays,Not Provided,5.0,overweight,81.0
+2015-02-04,Avondale Partners LLC,12 month,4.0,market outperform,83.0
+2015-02-04,J.P. Morgan,12 month,5.0,overweight,80.0
+2015-02-04,RBC Capital Markets,12 month,5.0,outperform,85.0
+2015-02-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-02-04,Morgan Stanley,12 month,5.0,Overwt/In-Line,85.0
+2015-02-05,SunTrust Robinson Humphrey,Not Provided,5.0,buy,85.0
+2015-02-06,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-02-06,Oppenheimer & Co,Not Provided,5.0,outperform,87.0
+2015-02-06,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2015-02-09,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2015-02-09,Baird,Not Provided,5.0,outperform,90.0
+2015-02-13,Oppenheimer & Co,Not Provided,5.0,outperform,87.0
+2015-02-16,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-02-16,Jefferies,Not Provided,5.0,buy,95.0
+2015-02-18,Baird,Not Provided,5.0,outperform,90.0
+2015-02-19,Cantor Fitzgerald,Not Provided,5.0,buy,88.0
+2015-02-22,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2015-02-23,Baird,Not Provided,5.0,outperform,90.0
+2015-03-01,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-03-02,Sterne Agee CRT,Not Provided,5.0,buy,96.0
+2015-03-02,Barclays,Not Provided,5.0,overweight,81.0
+2015-03-02,Baird,Not Provided,5.0,outperform,90.0
+2015-03-03,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2015-03-03,Jefferies,Not Provided,5.0,buy,95.0
+2015-03-03,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2015-03-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-03-04,Raymond James,12 month,5.0,outperform,83.0
+2015-03-04,Mizuho Securities USA Inc,12 month,5.0,buy,85.0
+2015-03-09,Baird,Not Provided,5.0,outperform,90.0
+2015-03-15,Mizuho Securities USA Inc,Not Provided,5.0,buy,85.0
+2015-03-16,Susquehanna Financial,12 month,4.0,Positive,84.0
+2015-03-16,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2015-03-16,Baird,Not Provided,5.0,outperform,90.0
+2015-03-19,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2015-03-20,Oppenheimer & Co,Not Provided,5.0,outperform,87.0
+2015-03-20,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2015-03-22,Susquehanna Financial,12 month,4.0,Positive,84.0
+2015-03-23,Baird,Not Provided,5.0,outperform,90.0
+2015-03-25,Mizuho Securities USA Inc,Not Provided,5.0,buy,89.0
+2015-03-25,UBS,12 month,5.0,buy,90.0
+2015-03-26,Mizuho Securities USA Inc,Not Provided,5.0,buy,89.0
+2015-03-29,Barclays,Not Provided,5.0,overweight,81.0
+2015-03-30,Baird,Not Provided,5.0,outperform,90.0
+2015-03-31,Oppenheimer & Co,Not Provided,5.0,outperform,87.0
+2015-04-01,Avondale Partners LLC,Not Provided,4.0,market outperform,83.0
+2015-04-02,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-04-05,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2015-04-07,Mizuho Securities USA Inc,Not Provided,5.0,buy,89.0
+2015-04-08,Baird,Not Provided,5.0,outperform,90.0
+2015-04-13,Baird,Not Provided,5.0,outperform,90.0
+2015-04-15,Morgan Stanley,12 month,5.0,Overwt/In-Line,85.0
+2015-04-15,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2015-04-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-04-15,Barclays,Not Provided,5.0,overweight,81.0
+2015-04-15,Credit Suisse,Not Provided,5.0,outperform,81.0
+2015-04-15,Oppenheimer & Co,12 month,5.0,outperform,87.0
+2015-04-15,RBC Capital Markets,12 month,5.0,outperform,88.0
+2015-04-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-15,Raymond James,12 month,5.0,outperform,90.0
+2015-04-15,SunTrust Robinson Humphrey,12 month,5.0,buy,92.0
+2015-04-15,Mizuho Securities USA Inc,12 month,5.0,buy,89.0
+2015-04-15,Susquehanna Financial,12 month,4.0,Positive,84.0
+2015-04-16,Avondale Partners LLC,Not Provided,4.0,market outperform,83.0
+2015-04-17,SunTrust Robinson Humphrey,12 month,5.0,buy,92.0
+2015-04-17,Oppenheimer & Co,Not Provided,5.0,outperform,87.0
+2015-04-20,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2015-04-20,Baird,Not Provided,5.0,outperform,90.0
+2015-04-21,Raymond James,12 month,5.0,outperform,90.0
+2015-04-22,Goldman Sachs,12 month,5.0,buy/attractive,85.0
+2015-04-22,Mizuho Securities USA Inc,Not Provided,5.0,buy,89.0
+2015-04-23,Susquehanna Financial,12 month,4.0,Positive,89.0
+2015-04-24,Susquehanna Financial,12 month,4.0,Positive,89.0
+2015-04-27,Jefferies,Not Provided,5.0,buy,95.0
+2015-04-27,Avondale Partners LLC,Not Provided,4.0,market outperform,83.0
+2015-04-27,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2015-04-28,Cantor Fitzgerald,12 month,5.0,buy,88.0
+2015-04-29,Baird,Not Provided,5.0,outperform,90.0
+2015-04-29,Mizuho Securities USA Inc,Not Provided,5.0,buy,89.0
+2015-04-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-05,SunTrust Robinson Humphrey,12 month,5.0,buy,92.0
+2015-05-05,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-05-05,Goldman Sachs,12 month,5.0,buy/attractive,90.0
+2015-05-05,Raymond James,12 month,5.0,outperform,90.0
+2015-05-05,Credit Suisse,Not Provided,5.0,outperform,84.0
+2015-05-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-05,Mizuho Securities USA Inc,12 month,5.0,buy,89.0
+2015-05-05,Susquehanna Financial,12 month,4.0,Positive,89.0
+2015-05-06,RBC Capital Markets,12 month,5.0,outperform,93.0
+2015-05-06,Morgan Stanley,12 month,5.0,Overwt/In-Line,85.0
+2015-05-06,Cantor Fitzgerald,12 month,5.0,buy,88.0
+2015-05-06,Avondale Partners LLC,12 month,4.0,market outperform,90.0
+2015-05-06,Baird,12 month,5.0,outperform,94.0
+2015-05-06,Oppenheimer & Co,12 month,5.0,outperform,87.0
+2015-05-06,Barclays,Not Provided,5.0,overweight,84.0
+2015-05-07,Leerink Partners LLC,12 month,5.0,outperform,85.0
+2015-05-08,Baird,Not Provided,5.0,outperform,94.0
+2015-05-08,Oppenheimer & Co,Not Provided,5.0,outperform,87.0
+2015-05-08,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-05-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-05-10,Mizuho Securities USA Inc,12 month,5.0,buy,89.0
+2015-05-10,Susquehanna Financial,12 month,4.0,Positive,89.0
+2015-05-11,BMO Capital Markets,Not Provided,3.0,market perform,79.0
+2015-05-12,Barclays,Not Provided,5.0,overweight,84.0
+2015-05-12,Sterne Agee CRT,12 month,5.0,buy,96.0
+2015-05-14,Morgan Stanley,12 month,5.0,Overwt/Attractive,96.0
+2015-05-15,Oppenheimer & Co,18 month,5.0,outperform,87.0
+2015-05-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-18,Susquehanna Financial,12 month,4.0,Positive,89.0
+2015-05-20,Baird,12 month,5.0,outperform,94.0
+2015-05-21,Mizuho Securities USA Inc,12 month,5.0,buy,89.0
+2015-05-27,Susquehanna Financial,12 month,4.0,Positive,89.0
+2015-05-29,Oppenheimer & Co,Not Provided,5.0,outperform,87.0
+2015-05-29,Baird,Not Provided,5.0,outperform,94.0
+2015-06-02,Leerink Partners LLC,12 month,5.0,outperform,85.0
+2015-06-05,Goldman Sachs,12 month,5.0,buy/attractive,102.0
+2015-06-05,Baird,Not Provided,5.0,outperform,94.0
+2015-06-09,Wedbush,Not Provided,5.0,outperform,93.0
+2015-06-09,Mizuho Securities USA Inc,Not Provided,5.0,buy,89.0
+2015-06-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-12,Baird,Not Provided,5.0,outperform,94.0
+2015-06-15,Mizuho Securities USA Inc,Not Provided,5.0,buy,89.0
+2015-06-19,Baird,Not Provided,5.0,outperform,94.0
+2015-06-25,RBC Capital Markets,12 month,5.0,outperform,93.0
+2015-06-25,Goldman Sachs,12 month,5.0,buy/attractive,108.0
+2015-06-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-26,Oppenheimer & Co,Not Provided,5.0,outperform,102.0
+2015-06-26,UBS,12 month,5.0,buy,99.0
+2015-06-26,Baird,Not Provided,5.0,outperform,94.0
+2015-06-26,Barclays,Not Provided,5.0,overweight,84.0
+2015-06-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-06-26,Leerink Partners LLC,12 month,5.0,outperform,100.0
+2015-06-26,Avondale Partners LLC,12 month,4.0,market outperform,103.0
+2015-06-26,Mizuho Securities USA Inc,Not Provided,5.0,buy,100.0
+2015-06-26,Jefferies,12 month,5.0,buy,108.0
+2015-06-29,BMO Capital Markets,Not Provided,3.0,market perform,92.0
+2015-06-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-01,Wedbush,Not Provided,5.0,outperform,102.0
+2015-07-02,Baird,Not Provided,5.0,outperform,94.0
+2015-07-09,Susquehanna Financial,12 month,4.0,Positive,89.0
+2015-07-10,Oppenheimer & Co,Not Provided,5.0,outperform,102.0
+2015-07-13,Baird,Not Provided,5.0,outperform,94.0
+2015-07-15,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-07-15,Sterne Agee CRT,12 month,5.0,buy,111.0
+2015-07-15,Barclays,Not Provided,5.0,overweight,103.0
+2015-07-15,Morgan Stanley,12 month,5.0,Overwt/Attractive,96.0
+2015-07-15,Mizuho Securities USA Inc,12 month,5.0,buy,100.0
+2015-07-16,Susquehanna Financial,12 month,4.0,Positive,108.0
+2015-07-16,Oppenheimer & Co,12 month,5.0,outperform,105.0
+2015-07-16,Raymond James,12 month,5.0,outperform,105.0
+2015-07-16,SunTrust Robinson Humphrey,12 month,5.0,buy,108.0
+2015-07-16,RBC Capital Markets,12 month,5.0,outperform,93.0
+2015-07-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-16,Leerink Partners LLC,12 month,5.0,outperform,100.0
+2015-07-16,UBS,12 month,5.0,buy,106.0
+2015-07-17,Wedbush,12 month,5.0,outperform,102.0
+2015-07-17,Baird,Not Provided,5.0,outperform,113.0
+2015-07-21,BMO Capital Markets,Not Provided,3.0,market perform,92.0
+2015-07-22,Susquehanna Financial,12 month,4.0,Positive,108.0
+2015-07-22,SunTrust Robinson Humphrey,Not Provided,5.0,buy,108.0
+2015-07-23,Goldman Sachs,12 month,5.0,buy/attractive,109.0
+2015-07-23,Sterne Agee CRT,12 month,5.0,buy,111.0
+2015-07-24,Oppenheimer & Co,Not Provided,5.0,outperform,105.0
+2015-07-24,Baird,Not Provided,5.0,outperform,113.0
+2015-07-27,Jefferies,Not Provided,5.0,buy,108.0
+2015-07-30,Avondale Partners LLC,Not Provided,4.0,market outperform,103.0
+2015-07-31,Cantor Fitzgerald,12 month,5.0,buy,105.0
+2015-08-03,Baird,Not Provided,5.0,outperform,113.0
+2015-08-05,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-08-05,Sterne Agee CRT,12 month,5.0,buy,111.0
+2015-08-05,Raymond James,12 month,5.0,outperform,105.0
+2015-08-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-08-05,Avondale Partners LLC,12 month,4.0,market outperform,103.0
+2015-08-05,Morgan Stanley,12 month,5.0,Overwt/Attractive,107.0
+2015-08-06,Wedbush,12 month,5.0,outperform,102.0
+2015-08-06,Mizuho Securities USA Inc,12 month,5.0,buy,100.0
+2015-08-06,RBC Capital Markets,12 month,5.0,outperform,102.0
+2015-08-06,Jefferies,12 month,5.0,buy,112.0
+2015-08-06,Leerink Partners LLC,12 month,5.0,outperform,105.0
+2015-08-07,Oppenheimer & Co,Not Provided,5.0,outperform,105.0
+2015-08-07,SunTrust Robinson Humphrey,12 month,5.0,buy,108.0
+2015-08-07,BMO Capital Markets,Not Provided,3.0,market perform,95.0
+2015-08-10,Barclays,Not Provided,5.0,overweight,105.0
+2015-08-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-08-10,Susquehanna Financial,12 month,4.0,Positive,108.0
+2015-08-10,Baird,Not Provided,5.0,outperform,113.0
+2015-08-10,Cantor Fitzgerald,12 month,5.0,buy,105.0
+2015-08-14,Baird,Not Provided,5.0,outperform,113.0
+2015-08-14,Mizuho Securities USA Inc,12 month,5.0,buy,103.0
+2015-08-14,Oppenheimer & Co,Not Provided,5.0,outperform,105.0
+2015-08-18,Cantor Fitzgerald,Not Provided,5.0,buy,105.0
+2015-08-20,BMO Capital Markets,Not Provided,3.0,market perform,95.0
+2015-08-21,Sterne Agee CRT,Not Provided,5.0,buy,111.0
+2015-08-21,Baird,Not Provided,5.0,outperform,113.0
+2015-08-28,Oppenheimer & Co,Not Provided,5.0,outperform,105.0
+2015-08-31,Baird,Not Provided,5.0,outperform,113.0
+2015-09-04,Baird,Not Provided,5.0,outperform,113.0
+2015-09-08,Jefferies,12 month,5.0,buy,112.0
+2015-09-11,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-09-14,Baird,Not Provided,5.0,outperform,113.0
+2015-09-16,J.P. Morgan,18 month,3.0,neutral,98.0
+2015-09-21,Mizuho Securities USA Inc,Not Provided,5.0,buy,103.0
+2015-09-21,Baird,Not Provided,5.0,outperform,113.0
+2015-09-22,BMO Capital Markets,Not Provided,3.0,market perform,95.0
+2015-09-25,Oppenheimer & Co,Not Provided,5.0,outperform,105.0
+2015-09-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-25,Mizuho Securities USA Inc,Not Provided,5.0,buy,103.0
+2015-09-28,RBC Capital Markets,12 month,5.0,outperform,102.0
+2015-09-29,Jefferies,12 month,5.0,buy,112.0
+2015-10-02,Oppenheimer & Co,Not Provided,5.0,outperform,105.0
+2015-10-02,Baird,Not Provided,5.0,outperform,113.0
+2015-10-05,Wedbush,Not Provided,5.0,outperform,102.0
+2015-10-08,Barclays,Not Provided,5.0,overweight,94.0
+2015-10-12,Baird,Not Provided,5.0,outperform,103.0
+2015-10-12,SunTrust Robinson Humphrey,Not Provided,5.0,buy,95.0
+2015-10-12,Leerink Partners LLC,12 month,5.0,outperform,95.0
+2015-10-13,Jefferies,12 month,5.0,buy,112.0
+2015-10-14,Sterne Agee CRT,12 month,5.0,buy,111.0
+2015-10-14,Mizuho Securities USA Inc,12 month,5.0,buy,86.0
+2015-10-14,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2015-10-14,UBS,12 month,5.0,buy,88.0
+2015-10-14,Wedbush,12 month,5.0,outperform,102.0
+2015-10-14,BMO Capital Markets,Not Provided,3.0,market perform,95.0
+2015-10-14,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-10-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-15,RBC Capital Markets,12 month,5.0,outperform,102.0
+2015-10-15,Raymond James,12 month,5.0,outperform,105.0
+2015-10-15,Barclays,Not Provided,5.0,overweight,94.0
+2015-10-15,Jefferies,12 month,5.0,buy,88.0
+2015-10-15,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2015-10-15,Avondale Partners LLC,18 month,4.0,market outperform,103.0
+2015-10-15,Morgan Stanley,12 month,5.0,Overwt/Attractive,107.0
+2015-10-16,Goldman Sachs,12 month,5.0,buy/attractive,99.0
+2015-10-18,Susquehanna Financial,12 month,4.0,Positive,88.0
+2015-10-19,Cantor Fitzgerald,12 month,5.0,buy,105.0
+2015-10-19,Leerink Partners LLC,12 month,5.0,outperform,95.0
+2015-10-20,Baird,Not Provided,5.0,outperform,103.0
+2015-10-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-23,Goldman Sachs,12 month,5.0,buy/attractive,90.0
+2015-10-27,J.P. Morgan,18 month,3.0,neutral,75.0
+2015-10-27,SunTrust Robinson Humphrey,12 month,5.0,buy,86.0
+2015-10-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-27,Avondale Partners LLC,12 month,4.0,market outperform,85.0
+2015-10-27,Barclays,Not Provided,5.0,overweight,94.0
+2015-10-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-27,Morgan Stanley,12 month,5.0,Overwt/Attractive,97.0
+2015-10-27,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2015-10-27,Raymond James,12 month,5.0,outperform,90.0
+2015-10-27,Wedbush,12 month,5.0,outperform,102.0
+2015-10-27,Mizuho Securities USA Inc,12 month,5.0,buy,80.0
+2015-10-27,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2015-10-27,Sterne Agee CRT,12 month,5.0,buy,111.0
+2015-10-27,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-10-27,Baird,12 month,5.0,outperform,82.0
+2015-10-27,RBC Capital Markets,12 month,5.0,outperform,102.0
+2015-10-27,Cantor Fitzgerald,12 month,5.0,buy,95.0
+2015-10-27,Leerink Partners LLC,12 month,5.0,outperform,95.0
+2015-10-27,Susquehanna Financial,12 month,4.0,Positive,88.0
+2015-10-28,Goldman Sachs,12 month,5.0,buy/attractive,85.0
+2015-10-28,RBC Capital Markets,12 month,5.0,outperform,90.0
+2015-10-28,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2015-10-28,Leerink Partners LLC,12 month,5.0,outperform,79.0
+2015-10-28,Wedbush,12 month,5.0,outperform,102.0
+2015-10-30,J.P. Morgan,12 month,3.0,neutral,75.0
+2015-10-30,Jefferies,12 month,5.0,buy,88.0
+2015-10-31,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-11-02,Baird,Not Provided,5.0,outperform,82.0
+2015-11-03,Barclays,Not Provided,5.0,overweight,80.0
+2015-11-03,Mizuho Securities USA Inc,12 month,5.0,buy,80.0
+2015-11-04,RBC Capital Markets,12 month,5.0,outperform,90.0
+2015-11-06,Baird,Not Provided,5.0,outperform,82.0
+2015-11-12,Sterne Agee CRT,Not Provided,5.0,buy,111.0
+2015-11-17,Leerink Partners LLC,12 month,5.0,outperform,79.0
+2015-11-18,Leerink Partners LLC,12 month,5.0,outperform,79.0
+2015-11-20,Goldman Sachs,12 month,5.0,buy/attractive,80.0
+2015-11-20,RBC Capital Markets,12 month,5.0,outperform,90.0
+2015-11-23,Baird,Not Provided,5.0,outperform,82.0
+2015-11-29,Sterne Agee CRT,12 month,5.0,buy,111.0
+2015-11-29,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2015-12-02,Leerink Partners LLC,12 month,5.0,outperform,79.0
+2015-12-07,Baird,Not Provided,5.0,outperform,82.0
+2015-12-09,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2015-12-15,Baird,12 month,5.0,outperform,82.0
+2015-12-16,Credit Suisse,Not Provided,5.0,outperform,75.0
+2015-12-17,Goldman Sachs,12 month,3.0,neutral/neutral,80.0
+2015-12-22,Sterne Agee CRT,12 month,5.0,buy,111.0
+2015-12-22,Leerink Partners LLC,12 month,5.0,outperform,79.0
+2015-12-22,Credit Suisse,Not Provided,5.0,outperform,75.0
+2015-12-23,Baird,Not Provided,5.0,outperform,82.0
+2015-12-30,Credit Suisse,Not Provided,5.0,outperform,75.0
+2015-12-31,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2015-12-31,Susquehanna Financial,12 month,4.0,Positive,88.0
+2015-12-31,Baird,Not Provided,5.0,outperform,80.0
+2016-01-04,SunTrust Robinson Humphrey,Not Provided,5.0,buy,80.0
+2016-01-06,Sterne Agee CRT,12 month,5.0,buy,111.0
+2016-01-06,Barclays,Not Provided,5.0,overweight,79.0
+2016-01-07,Baird,Not Provided,5.0,outperform,-0.0
+2016-01-07,Susquehanna Financial,12 month,4.0,Positive,88.0
+2016-01-07,Credit Suisse,Not Provided,5.0,outperform,75.0
+2016-01-08,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-01-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-01-08,Raymond James,12 month,5.0,strong buy,95.0
+2016-01-08,RBC Capital Markets,12 month,5.0,outperform,90.0
+2016-01-08,Jefferies,12 month,5.0,buy,88.0
+2016-01-08,Wedbush,12 month,5.0,outperform,80.0
+2016-01-08,Mizuho Securities USA Inc,12 month,5.0,buy,80.0
+2016-01-10,Morgan Stanley,12 month,5.0,Overwt/Attractive,97.0
+2016-01-10,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2016-01-10,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-01-11,SunTrust Robinson Humphrey,Not Provided,5.0,buy,80.0
+2016-01-11,Barclays,Not Provided,5.0,overweight,79.0
+2016-01-11,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-01-11,Avondale Partners LLC,12 month,4.0,market outperform,85.0
+2016-01-11,Cantor Fitzgerald,12 month,5.0,buy,95.0
+2016-01-12,RBC Capital Markets,12 month,5.0,outperform,90.0
+2016-01-12,Susquehanna Financial,12 month,4.0,Positive,88.0
+2016-01-13,Credit Suisse,Not Provided,5.0,outperform,75.0
+2016-01-13,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2016-01-14,Baird,Not Provided,5.0,outperform,88.0
+2016-01-14,Mizuho Securities USA Inc,Not Provided,5.0,buy,80.0
+2016-01-20,Credit Suisse,Not Provided,5.0,outperform,75.0
+2016-01-20,RBC Capital Markets,12 month,5.0,outperform,90.0
+2016-01-21,UBS,12 month,5.0,buy,90.0
+2016-01-21,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-01-22,Oppenheimer & Co,Not Provided,5.0,outperform,85.0
+2016-01-22,Avondale Partners LLC,12 month,4.0,market outperform,85.0
+2016-01-24,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2016-01-25,Baird,Not Provided,5.0,outperform,88.0
+2016-01-28,SunTrust Robinson Humphrey,12 month,5.0,buy,80.0
+2016-01-28,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-01-28,J.P. Morgan,12 month,3.0,neutral,76.0
+2016-01-28,Credit Suisse,Not Provided,5.0,outperform,78.0
+2016-01-29,Barclays,Not Provided,5.0,overweight,79.0
+2016-01-29,Cantor Fitzgerald,12 month,5.0,buy,95.0
+2016-01-29,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-01-29,Avondale Partners LLC,12 month,4.0,market outperform,85.0
+2016-01-29,Sterne Agee CRT,12 month,5.0,buy,111.0
+2016-01-29,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-01-29,Jefferies,12 month,5.0,buy,88.0
+2016-01-29,Oppenheimer & Co,12 month,5.0,outperform,85.0
+2016-01-29,Susquehanna Financial,12 month,4.0,Positive,88.0
+2016-01-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-29,Morgan Stanley,12 month,5.0,Overwt/Attractive,97.0
+2016-01-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-01-31,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2016-02-01,Raymond James,Not Provided,5.0,strong buy,95.0
+2016-02-01,Baird,Not Provided,5.0,outperform,92.0
+2016-02-01,Mizuho Securities USA Inc,Not Provided,5.0,buy,102.0
+2016-02-04,Sterne Agee CRT,12 month,5.0,buy,111.0
+2016-02-05,Oppenheimer & Co,Not Provided,5.0,outperform,85.0
+2016-02-05,Credit Suisse,Not Provided,5.0,outperform,78.0
+2016-02-08,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-02-08,Baird,Not Provided,5.0,outperform,92.0
+2016-02-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-02-12,Baird,Not Provided,5.0,outperform,92.0
+2016-02-12,Oppenheimer & Co,Not Provided,5.0,outperform,85.0
+2016-02-21,Mizuho Securities USA Inc,Not Provided,5.0,buy,102.0
+2016-02-22,Baird,Not Provided,5.0,outperform,92.0
+2016-02-23,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-02-26,Oppenheimer & Co,Not Provided,5.0,outperform,85.0
+2016-02-29,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2016-02-29,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-02-29,Baird,Not Provided,5.0,outperform,92.0
+2016-02-29,J.P. Morgan,12 month,3.0,neutral,76.0
+2016-03-03,Mizuho Securities USA Inc,Not Provided,5.0,buy,102.0
+2016-03-07,Baird,Not Provided,5.0,outperform,92.0
+2016-03-08,Sterne Agee CRT,Not Provided,5.0,buy,111.0
+2016-03-09,Mizuho Securities USA Inc,Not Provided,5.0,buy,102.0
+2016-03-09,Raymond James,Not Provided,5.0,strong buy,95.0
+2016-03-14,J.P. Morgan,12 month,5.0,overweight,85.0
+2016-03-14,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-03-14,Baird,Not Provided,5.0,outperform,92.0
+2016-03-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-03-17,Oppenheimer & Co,12 month,5.0,outperform,85.0
+2016-03-17,J.P. Morgan,9 month,5.0,overweight,85.0
+2016-03-21,Baird,Not Provided,5.0,outperform,92.0
+2016-03-23,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2016-03-24,Credit Suisse,Not Provided,5.0,outperform,83.0
+2016-03-24,Oppenheimer & Co,Not Provided,5.0,outperform,85.0
+2016-03-28,Baird,12 month,5.0,outperform,92.0
+2016-04-01,SunTrust Robinson Humphrey,Not Provided,5.0,buy,92.0
+2016-04-01,Raymond James,12 month,5.0,strong buy,95.0
+2016-04-04,Baird,Not Provided,5.0,outperform,92.0
+2016-04-07,Wedbush,Not Provided,5.0,outperform,88.0
+2016-04-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-11,Baird,12 month,5.0,outperform,92.0
+2016-04-12,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-04-13,Susquehanna Financial,12 month,4.0,Positive,92.0
+2016-04-13,Oppenheimer & Co,12 month,5.0,outperform,85.0
+2016-04-14,Raymond James,12 month,5.0,strong buy,95.0
+2016-04-15,Avondale Partners LLC,Not Provided,4.0,market outperform,92.0
+2016-04-18,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-04-18,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-04-18,Mizuho Securities USA Inc,Not Provided,5.0,buy,102.0
+2016-04-19,SunTrust Robinson Humphrey,Not Provided,5.0,buy,92.0
+2016-04-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-04-19,Baird,Not Provided,5.0,outperform,92.0
+2016-04-26,Mizuho Securities USA Inc,12 month,5.0,buy,102.0
+2016-04-27,Baird,Not Provided,5.0,outperform,92.0
+2016-04-28,Goldman Sachs,12 month,3.0,neutral/neutral,84.0
+2016-05-03,Jefferies,12 month,5.0,buy,94.0
+2016-05-03,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-05-03,Susquehanna Financial,12 month,4.0,Positive,92.0
+2016-05-03,Mizuho Securities USA Inc,12 month,5.0,buy,102.0
+2016-05-03,Credit Suisse,Not Provided,5.0,outperform,90.0
+2016-05-03,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-05-03,SunTrust Robinson Humphrey,12 month,5.0,buy,92.0
+2016-05-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-05-03,Wedbush,12 month,5.0,outperform,90.0
+2016-05-03,Sterne Agee CRT,12 month,5.0,buy,111.0
+2016-05-03,J.P. Morgan,12 month,5.0,overweight,85.0
+2016-05-04,Barclays,Not Provided,5.0,overweight,88.0
+2016-05-04,Baird,12 month,5.0,outperform,92.0
+2016-05-04,Cantor Fitzgerald,12 month,5.0,buy,95.0
+2016-05-04,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-05-04,Raymond James,12 month,5.0,strong buy,95.0
+2016-05-04,Morgan Stanley,12 month,5.0,Overwt/Attractive,97.0
+2016-05-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-04,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2016-05-04,Avondale Partners LLC,12 month,4.0,market outperform,92.0
+2016-05-08,Sterne Agee CRT,12 month,5.0,buy,111.0
+2016-05-09,J.P. Morgan,12 month,5.0,overweight,85.0
+2016-05-11,Susquehanna Financial,12 month,4.0,Positive,92.0
+2016-05-11,Raymond James,12 month,5.0,strong buy,95.0
+2016-05-11,Baird,12 month,5.0,outperform,92.0
+2016-05-12,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-05-12,Credit Suisse,Not Provided,5.0,outperform,90.0
+2016-05-13,Baird,Not Provided,5.0,outperform,92.0
+2016-05-13,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-05-19,Barclays,Not Provided,5.0,overweight,88.0
+2016-05-20,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2016-05-23,Baird,Not Provided,5.0,outperform,92.0
+2016-05-24,Morgan Stanley,12 month,5.0,Overwt/Attractive,110.0
+2016-05-25,SunTrust Robinson Humphrey,Not Provided,5.0,buy,92.0
+2016-05-27,Oppenheimer & Co,18 month,5.0,outperform,95.0
+2016-06-01,Baird,Not Provided,5.0,outperform,92.0
+2016-06-02,Susquehanna Financial,12 month,4.0,Positive,92.0
+2016-06-06,Baird,12 month,5.0,outperform,92.0
+2016-06-06,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-06-13,Baird,Not Provided,5.0,outperform,92.0
+2016-06-15,Bernstein,Not Provided,3.0,market perform,88.0
+2016-06-23,Baird,Not Provided,5.0,outperform,92.0
+2016-06-24,Avondale Partners LLC,Not Provided,4.0,market outperform,92.0
+2016-06-24,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-06-27,Baird,Not Provided,5.0,outperform,92.0
+2016-06-28,Bernstein,Not Provided,3.0,market perform,88.0
+2016-06-29,Oppenheimer & Co,18 month,5.0,outperform,95.0
+2016-06-29,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-06-29,SunTrust Robinson Humphrey,Not Provided,5.0,buy,92.0
+2016-07-01,Raymond James,Not Provided,5.0,strong buy,95.0
+2016-07-07,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-07-07,Wedbush,Not Provided,5.0,outperform,90.0
+2016-07-08,Mizuho Securities USA Inc,12 month,5.0,buy,102.0
+2016-07-08,Baird,Not Provided,5.0,outperform,92.0
+2016-07-12,Bernstein,Not Provided,3.0,market perform,88.0
+2016-07-13,Mizuho Securities USA Inc,12 month,5.0,buy,102.0
+2016-07-14,Barclays,Not Provided,5.0,overweight,88.0
+2016-07-15,Baird,Not Provided,5.0,outperform,92.0
+2016-07-15,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2016-07-18,Wedbush,Not Provided,5.0,outperform,90.0
+2016-07-18,Credit Suisse,Not Provided,5.0,outperform,90.0
+2016-07-19,SunTrust Robinson Humphrey,Not Provided,5.0,buy,92.0
+2016-07-20,Susquehanna Financial,12 month,4.0,Positive,92.0
+2016-07-22,Baird,Not Provided,5.0,outperform,92.0
+2016-07-22,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2016-07-26,Goldman Sachs,12 month,3.0,neutral/neutral,90.0
+2016-07-28,Cantor Fitzgerald,12 month,5.0,buy,95.0
+2016-07-28,SunTrust Robinson Humphrey,12 month,5.0,buy,92.0
+2016-07-28,RBC Capital Markets,12 month,5.0,outperform,88.0
+2016-07-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-07-28,Avondale Partners LLC,12 month,4.0,market outperform,92.0
+2016-07-28,Credit Suisse,Not Provided,5.0,outperform,87.0
+2016-07-28,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-07-28,Morgan Stanley,12 month,5.0,Overwt/Attractive,110.0
+2016-07-28,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2016-07-28,Susquehanna Financial,12 month,4.0,Positive,92.0
+2016-07-29,Baird,Not Provided,5.0,outperform,91.0
+2016-07-29,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2016-07-29,Barclays,Not Provided,5.0,overweight,88.0
+2016-07-29,Mizuho Securities USA Inc,12 month,5.0,buy,97.0
+2016-07-29,Bernstein,12 month,3.0,market perform,88.0
+2016-07-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-29,Wedbush,12 month,5.0,outperform,90.0
+2016-07-29,J.P. Morgan,18 month,3.0,neutral,85.0
+2016-07-29,Leerink Partners LLC,12 month,3.0,market perform,74.0
+2016-07-29,Raymond James,12 month,5.0,strong buy,90.0
+2016-08-01,Barclays,Not Provided,5.0,overweight,88.0
+2016-08-03,RBC Capital Markets,12 month,5.0,outperform,88.0
+2016-08-04,Baird,Not Provided,5.0,outperform,91.0
+2016-08-08,Bernstein,Not Provided,3.0,market perform,88.0
+2016-08-16,Baird,12 month,5.0,outperform,91.0
+2016-08-17,Mizuho Securities USA Inc,12 month,5.0,buy,97.0
+2016-08-18,Barclays,Not Provided,5.0,overweight,88.0
+2016-08-18,Susquehanna Financial,12 month,4.0,Positive,92.0
+2016-08-19,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2016-08-25,Baird,12 month,5.0,outperform,91.0
+2016-08-25,Jefferies,12 month,5.0,buy,94.0
+2016-08-25,Leerink Partners LLC,12 month,3.0,market perform,77.0
+2016-08-30,Credit Suisse,Not Provided,5.0,outperform,85.0
+2016-08-31,Wedbush,Not Provided,5.0,outperform,90.0
+2016-09-01,Baird,Not Provided,5.0,outperform,91.0
+2016-09-06,Baird,Not Provided,5.0,outperform,91.0
+2016-09-12,RBC Capital Markets,12 month,5.0,outperform,88.0
+2016-09-16,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2016-09-19,Baird,Not Provided,5.0,outperform,91.0
+2016-09-22,Evercore ISI,12 month,5.0,buy,89.0
+2016-09-23,Baird,Not Provided,5.0,outperform,91.0
+2016-09-23,Bernstein,Not Provided,3.0,market perform,88.0
+2016-09-30,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2016-09-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-03,Baird,12 month,5.0,outperform,91.0
+2016-10-07,RBC Capital Markets,12 month,5.0,outperform,88.0
+2016-10-07,Baird,12 month,5.0,outperform,91.0
+2016-10-07,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2016-10-11,Bernstein,Not Provided,3.0,market perform,88.0
+2016-10-11,Evercore ISI,Not Provided,5.0,buy,89.0
+2016-10-13,KeyBanc Capital Markets,12 month,5.0,overweight,94.0
+2016-10-14,Baird,Not Provided,5.0,outperform,91.0
+2016-10-14,Credit Suisse,Not Provided,5.0,outperform,88.0
+2016-10-17,J.P. Morgan,Not Provided,3.0,neutral,85.0
+2016-10-19,SunTrust Robinson Humphrey,Not Provided,5.0,buy,95.0
+2016-10-21,Bernstein,Not Provided,3.0,market perform,88.0
+2016-10-21,Baird,Not Provided,5.0,outperform,91.0
+2016-10-21,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2016-10-24,Susquehanna Financial,12 month,4.0,Positive,92.0
+2016-10-24,Wolfe Research,12 month,5.0,outperform,95.0
+2016-10-24,Avondale Partners LLC,Not Provided,4.0,market outperform,92.0
+2016-10-27,RBC Capital Markets,12 month,5.0,outperform,95.0
+2016-10-27,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2016-10-27,KeyBanc Capital Markets,12 month,5.0,overweight,94.0
+2016-10-27,Credit Suisse,Not Provided,5.0,outperform,92.0
+2016-10-27,J.P. Morgan,18 month,3.0,neutral,85.0
+2016-10-27,Mizuho Securities USA Inc,12 month,5.0,buy,97.0
+2016-10-27,Evercore ISI,12 month,5.0,buy,89.0
+2016-10-27,Wolfe Research,12 month,5.0,outperform,95.0
+2016-10-27,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2016-10-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-10-27,Jefferies,12 month,5.0,buy,94.0
+2016-10-28,Barclays,Not Provided,5.0,overweight,92.0
+2016-10-28,Leerink Partners LLC,12 month,3.0,market perform,84.0
+2016-10-28,Raymond James,12 month,5.0,strong buy,95.0
+2016-10-28,Cantor Fitzgerald,12 month,5.0,buy,95.0
+2016-10-28,Avondale Partners LLC,12 month,4.0,market outperform,92.0
+2016-10-28,Bernstein,12 month,3.0,market perform,89.0
+2016-10-28,Susquehanna Financial,12 month,4.0,Positive,92.0
+2016-10-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-31,Baird,Not Provided,5.0,outperform,93.0
+2016-11-02,Wolfe Research,12 month,5.0,outperform,95.0
+2016-11-04,Baird,Not Provided,5.0,outperform,93.0
+2016-11-06,Mizuho Securities USA Inc,Not Provided,5.0,buy,97.0
+2016-11-08,Barclays,Not Provided,5.0,overweight,92.0
+2016-11-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-09,RBC Capital Markets,12 month,5.0,outperform,95.0
+2016-11-09,Wolfe Research,12 month,5.0,outperform,95.0
+2016-11-09,Avondale Partners LLC,Not Provided,3.0,market perform,92.0
+2016-11-09,Cantor Fitzgerald,12 month,5.0,buy,95.0
+2016-11-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-11-10,Goldman Sachs,12 month,3.0,neutral/neutral,80.0
+2016-11-10,Raymond James,12 month,5.0,strong buy,95.0
+2016-11-11,Mizuho Securities USA Inc,Not Provided,3.0,neutral,78.0
+2016-11-11,Credit Suisse,Not Provided,5.0,outperform,86.0
+2016-11-14,Baird,Not Provided,5.0,outperform,93.0
+2016-11-14,Leerink Partners LLC,Not Provided,3.0,market perform,80.0
+2016-11-14,Bernstein,Not Provided,3.0,market perform,85.0
+2016-11-16,Wolfe Research,12 month,5.0,outperform,95.0
+2016-11-21,Baird,Not Provided,5.0,outperform,93.0
+2016-11-21,Bernstein,Not Provided,3.0,market perform,85.0
+2016-11-21,Mizuho Securities USA Inc,Not Provided,3.0,neutral,78.0
+2016-11-21,RBC Capital Markets,12 month,5.0,outperform,95.0
+2016-11-22,Wolfe Research,12 month,5.0,outperform,85.0
+2016-11-28,Baird,12 month,5.0,outperform,93.0
+2016-11-28,Credit Suisse,Not Provided,5.0,outperform,84.0
+2016-11-30,Wolfe Research,Not Provided,5.0,outperform,85.0
+2016-12-02,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2016-12-04,KeyBanc Capital Markets,Not Provided,5.0,overweight,94.0
+2016-12-05,Baird,Not Provided,5.0,outperform,93.0
+2016-12-06,Bernstein,Not Provided,3.0,market perform,85.0
+2016-12-07,Bernstein,Not Provided,3.0,market perform,85.0
+2016-12-13,Baird,12 month,5.0,outperform,93.0
+2016-12-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-12-19,Baird,Not Provided,5.0,outperform,93.0
+2016-12-20,Wolfe Research,Not Provided,5.0,outperform,85.0
+2016-12-27,Baird,12 month,5.0,outperform,93.0
+2017-01-04,Jefferies,12 month,5.0,buy,94.0
+2017-01-04,Evercore ISI,Not Provided,5.0,buy,84.0
+2017-01-04,Cantor Fitzgerald,12 month,5.0,overweight,95.0
+2017-01-05,KeyBanc Capital Markets,Not Provided,5.0,overweight,94.0
+2017-01-05,Baird,Not Provided,5.0,outperform,93.0
+2017-01-05,Piper Jaffray,Not Provided,5.0,overweight,81.0
+2017-01-05,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2017-01-05,Wolfe Research,Not Provided,5.0,outperform,85.0
+2017-01-05,Barclays,Not Provided,5.0,overweight,88.0
+2017-01-05,Raymond James,12 month,5.0,strong buy,95.0
+2017-01-06,Bernstein,Not Provided,3.0,market perform,85.0
+2017-01-09,Wolfe Research,Not Provided,5.0,outperform,85.0
+2017-01-09,Evercore ISI,12 month,5.0,buy,84.0
+2017-01-09,RBC Capital Markets,12 month,5.0,outperform,95.0
+2017-01-09,Mizuho Securities USA Inc,12 month,3.0,neutral,78.0
+2017-01-09,J.P. Morgan,18 month,3.0,neutral,85.0
+2017-01-09,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2017-01-09,Barclays,Not Provided,5.0,overweight,88.0
+2017-01-09,Leerink Partners LLC,12 month,3.0,market perform,80.0
+2017-01-09,Credit Suisse,Not Provided,5.0,outperform,84.0
+2017-01-10,Baird,12 month,5.0,outperform,93.0
+2017-01-10,Raymond James,12 month,5.0,strong buy,95.0
+2017-01-10,Piper Jaffray,Not Provided,5.0,overweight,81.0
+2017-01-16,Piper Jaffray,Not Provided,5.0,overweight,81.0
+2017-01-17,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2017-01-17,Avondale Partners LLC,12 month,4.0,market outperform,96.0
+2017-01-18,Bernstein,Not Provided,3.0,market perform,85.0
+2017-01-18,Baird,Not Provided,5.0,outperform,93.0
+2017-01-18,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-01-20,Jefferies,Not Provided,5.0,buy,94.0
+2017-01-22,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-01-23,RBC Capital Markets,12 month,5.0,outperform,95.0
+2017-01-23,Baird,Not Provided,5.0,outperform,93.0
+2017-01-24,KeyBanc Capital Markets,Not Provided,5.0,overweight,94.0
+2017-01-25,Avondale Partners LLC,12 month,4.0,market outperform,96.0
+2017-01-25,Leerink Partners LLC,Not Provided,3.0,market perform,80.0
+2017-01-27,Bernstein,Not Provided,3.0,market perform,85.0
+2017-01-30,Goldman Sachs,12 month,3.0,neutral/neutral,82.0
+2017-01-31,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2017-01-31,RBC Capital Markets,12 month,5.0,outperform,98.0
+2017-01-31,Credit Suisse,Not Provided,5.0,outperform,89.0
+2017-01-31,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-01-31,J.P. Morgan,12 month,3.0,neutral,85.0
+2017-01-31,KeyBanc Capital Markets,12 month,5.0,overweight,94.0
+2017-01-31,Cantor Fitzgerald,12 month,5.0,overweight,95.0
+2017-02-01,Baird,Not Provided,5.0,outperform,100.0
+2017-02-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-01,Jefferies,Not Provided,5.0,buy,-0.0
+2017-02-01,Barclays,Not Provided,5.0,overweight,88.0
+2017-02-01,Bernstein,12 month,3.0,market perform,91.0
+2017-02-01,Leerink Partners LLC,Not Provided,3.0,market perform,80.0
+2017-02-01,Raymond James,Not Provided,5.0,strong buy,95.0
+2017-02-01,Wolfe Research,12 month,5.0,outperform,85.0
+2017-02-01,Evercore ISI,Not Provided,5.0,buy,88.0
+2017-02-01,Mizuho Securities USA Inc,12 month,3.0,neutral,78.0
+2017-02-01,Avondale Partners LLC,12 month,4.0,market outperform,96.0
+2017-02-02,UBS,12 month,5.0,buy,93.0
+2017-02-02,Piper Jaffray,Not Provided,5.0,overweight,88.0
+2017-02-03,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2017-02-05,Wolfe Research,12 month,5.0,outperform,85.0
+2017-02-07,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2017-02-08,Piper Jaffray,Not Provided,5.0,overweight,88.0
+2017-02-10,Baird,Not Provided,5.0,outperform,100.0
+2017-02-13,Baird,Not Provided,5.0,outperform,100.0
+2017-02-16,Mizuho Securities USA Inc,Not Provided,3.0,neutral,78.0
+2017-02-17,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2017-02-17,Bernstein,Not Provided,3.0,market perform,91.0
+2017-02-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-21,Baird,Not Provided,5.0,outperform,100.0
+2017-02-26,Mizuho Securities USA Inc,Not Provided,3.0,neutral,78.0
+2017-02-28,Leerink Partners LLC,12 month,3.0,market perform,90.0
+2017-02-28,Bernstein,Not Provided,3.0,market perform,91.0
+2017-03-01,Barclays,Not Provided,5.0,overweight,88.0
+2017-03-02,Evercore ISI,Not Provided,5.0,outperform,93.0
+2017-03-02,Piper Jaffray,Not Provided,5.0,overweight,88.0
+2017-03-06,Baird,Not Provided,5.0,outperform,100.0
+2017-03-08,Bernstein,Not Provided,3.0,market perform,91.0
+2017-03-13,RBC Capital Markets,12 month,5.0,outperform,98.0
+2017-03-13,Baird,Not Provided,5.0,outperform,100.0
+2017-03-13,Wolfe Research,Not Provided,5.0,outperform,85.0
+2017-03-13,Mizuho Securities USA Inc,Not Provided,3.0,neutral,78.0
+2017-03-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-15,Leerink Partners LLC,12 month,3.0,market perform,90.0
+2017-03-19,Wolfe Research,Not Provided,5.0,outperform,85.0
+2017-03-20,Baird,Not Provided,5.0,outperform,100.0
+2017-03-20,Bernstein,Not Provided,3.0,market perform,91.0
+2017-03-23,Credit Suisse,Not Provided,5.0,outperform,89.0
+2017-03-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-24,KeyBanc Capital Markets,12 month,5.0,overweight,94.0
+2017-03-26,Mizuho Securities USA Inc,Not Provided,5.0,buy,98.0
+2017-03-27,Bernstein,Not Provided,3.0,market perform,91.0
+2017-03-27,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-03-27,Leerink Partners LLC,12 month,3.0,market perform,91.0
+2017-03-27,Cantor Fitzgerald,12 month,5.0,overweight,95.0
+2017-03-27,Baird,Not Provided,5.0,outperform,100.0
+2017-03-31,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-31,Cantor Fitzgerald,Not Provided,5.0,overweight,95.0
+2017-04-03,Bernstein,Not Provided,3.0,market perform,91.0
+2017-04-03,Baird,Not Provided,5.0,outperform,100.0
+2017-04-03,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-04-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-04,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2017-04-06,Evercore ISI,Not Provided,5.0,outperform,96.0
+2017-04-06,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-04-07,Jefferies,12 month,5.0,buy,94.0
+2017-04-07,Cantor Fitzgerald,Not Provided,5.0,overweight,95.0
+2017-04-08,RBC Capital Markets,Not Provided,5.0,outperform,-0.0
+2017-04-10,Baird,Not Provided,5.0,outperform,100.0
+2017-04-10,Bernstein,Not Provided,3.0,market perform,91.0
+2017-04-10,Leerink Partners LLC,12 month,3.0,market perform,91.0
+2017-04-16,Baird,12 month,5.0,outperform,100.0
+2017-04-17,Leerink Partners LLC,12 month,3.0,market perform,91.0
+2017-04-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-17,Barclays,Not Provided,5.0,overweight,88.0
+2017-04-17,Mizuho Securities USA Inc,12 month,5.0,buy,98.0
+2017-04-17,Jefferies,12 month,5.0,buy,100.0
+2017-04-17,Wolfe Research,Not Provided,5.0,outperform,95.0
+2017-04-17,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2017-04-17,RBC Capital Markets,12 month,5.0,outperform,98.0
+2017-04-17,Credit Suisse,Not Provided,5.0,outperform,89.0
+2017-04-17,Evercore ISI,12 month,5.0,outperform,96.0
+2017-04-17,J.P. Morgan,12 month,3.0,neutral,85.0
+2017-04-18,Cantor Fitzgerald,12 month,5.0,overweight,95.0
+2017-04-18,SunTrust Robinson Humphrey,Not Provided,5.0,buy,95.0
+2017-04-18,Raymond James,Not Provided,5.0,strong buy,95.0
+2017-04-18,KeyBanc Capital Markets,12 month,5.0,overweight,96.0
+2017-04-20,Mizuho Securities USA Inc,12 month,5.0,buy,98.0
+2017-04-20,Wolfe Research,Not Provided,5.0,outperform,95.0
+2017-04-20,Baird,Not Provided,5.0,outperform,100.0
+2017-04-21,Evercore ISI,12 month,5.0,outperform,96.0
+2017-04-23,RBC Capital Markets,12 month,5.0,outperform,98.0
+2017-04-24,Leerink Partners LLC,Not Provided,3.0,market perform,91.0
+2017-04-24,Bernstein,Not Provided,3.0,market perform,91.0
+2017-04-27,Wolfe Research,Not Provided,5.0,outperform,95.0
+2017-05-01,Raymond James,Not Provided,5.0,strong buy,-0.0
+2017-05-01,Piper Jaffray,Not Provided,5.0,overweight,88.0
+2017-05-01,J.P. Morgan,12 month,3.0,neutral,85.0
+2017-05-02,Credit Suisse,Not Provided,5.0,outperform,93.0
+2017-05-02,KeyBanc Capital Markets,12 month,5.0,overweight,96.0
+2017-05-02,Evercore ISI,12 month,5.0,outperform,96.0
+2017-05-02,Barclays,Not Provided,5.0,overweight,88.0
+2017-05-02,Cantor Fitzgerald,12 month,5.0,overweight,95.0
+2017-05-02,Jefferies,12 month,5.0,buy,100.0
+2017-05-02,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2017-05-02,Bernstein,Not Provided,3.0,market perform,91.0
+2017-05-02,Baird,12 month,5.0,outperform,98.0
+2017-05-02,Leerink Partners LLC,12 month,3.0,market perform,91.0
+2017-05-02,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2017-05-02,Mizuho Securities USA Inc,Not Provided,5.0,buy,98.0
+2017-05-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-03,Raymond James,12 month,5.0,strong buy,100.0
+2017-05-03,J.P. Morgan,9 month,3.0,neutral,85.0
+2017-05-03,SunTrust Robinson Humphrey,Not Provided,5.0,buy,95.0
+2017-05-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-03,RBC Capital Markets,12 month,5.0,outperform,98.0
+2017-05-03,Barclays,Not Provided,5.0,overweight,96.0
+2017-05-04,Mizuho Securities USA Inc,Not Provided,5.0,buy,98.0
+2017-05-04,Cantor Fitzgerald,Not Provided,5.0,overweight,95.0
+2017-05-04,Bernstein,Not Provided,3.0,market perform,91.0
+2017-05-05,Piper Jaffray,12 month,5.0,overweight,92.0
+2017-05-05,Baird,Not Provided,5.0,outperform,98.0
+2017-05-08,Wolfe Research,12 month,5.0,outperform,95.0
+2017-05-08,Jefferies,12 month,5.0,buy,100.0
+2017-05-08,Leerink Partners LLC,12 month,3.0,market perform,92.0
+2017-05-12,Baird,Not Provided,5.0,outperform,98.0
+2017-05-15,RBC Capital Markets,12 month,5.0,outperform,98.0
+2017-05-15,Bernstein,Not Provided,3.0,market perform,91.0
+2017-05-19,Oppenheimer & Co,Not Provided,5.0,outperform,95.0
+2017-05-19,Leerink Partners LLC,12 month,3.0,market perform,92.0
+2017-05-19,RBC Capital Markets,12 month,5.0,outperform,98.0
+2017-05-19,Baird,Not Provided,5.0,outperform,98.0
+2017-05-19,Barclays,Not Provided,5.0,overweight,96.0
+2017-05-22,Wolfe Research,Not Provided,5.0,outperform,95.0
+2017-05-22,Bernstein,Not Provided,3.0,market perform,91.0
+2017-05-22,Baird,Not Provided,5.0,outperform,98.0
+2017-05-23,Baird,12 month,5.0,outperform,98.0

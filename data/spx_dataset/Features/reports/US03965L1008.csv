@@ -1,0 +1,87 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2016-10-11,Credit Suisse,Not Provided,5.0,outperform,29.24
+2016-11-02,Spin-Off Research,Not Provided,3.0,neutral,20.0
+2016-11-02,Macquarie,12 month,3.0,neutral,21.0
+2016-11-02,Goldman Sachs,6 month,1.0,Sell/Neutral,15.0
+2016-11-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-11-07,Morgan Stanley,12 month,3.0,Equalwt/In-Line,19.0
+2016-11-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-25,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-11-29,Goldman Sachs,6 month,1.0,Sell/Neutral,16.0
+2016-12-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-12,Argus Research Corp,Not Provided,5.0,buy,25.0
+2016-12-12,Credit Suisse,Not Provided,5.0,outperform,27.0
+2016-12-12,Seaport Global Securities,12 month,3.0,neutral,21.0
+2016-12-15,Seaport Global Securities,12 month,3.0,neutral,21.0
+2016-12-15,Morgan Stanley,12 month,3.0,Equalwt/In-Line,21.0
+2016-12-15,Macquarie,12 month,3.0,neutral,21.0
+2016-12-20,Argus Research Corp,Not Provided,5.0,buy,25.0
+2016-12-23,Argus Research Corp,Not Provided,5.0,buy,25.0
+2016-12-24,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-12-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-04,Rosenblatt Securities,Not Provided,5.0,buy,-0.0
+2017-01-04,Argus Research Corp,Not Provided,5.0,buy,25.0
+2017-01-05,Spin-Off Research,Not Provided,3.0,neutral,21.0
+2017-01-10,Macquarie,12 month,3.0,neutral,20.0
+2017-01-12,Argus Research Corp,Not Provided,5.0,buy,25.0
+2017-01-17,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-01-20,Argus Research Corp,Not Provided,5.0,buy,25.0
+2017-01-23,Seaport Global Securities,12 month,3.0,neutral,21.0
+2017-01-27,Argus Research Corp,Not Provided,5.0,buy,25.0
+2017-02-01,Goldman Sachs,6 month,1.0,Sell/Neutral,17.0
+2017-02-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-01,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2017-02-01,Seaport Global Securities,12 month,3.0,neutral,25.0
+2017-02-01,Rosenblatt Securities,12 month,5.0,buy,24.0
+2017-02-02,Argus Research Corp,Not Provided,5.0,buy,25.0
+2017-02-02,Spin-Off Research,Not Provided,5.0,buy,29.0
+2017-02-03,Macquarie,12 month,3.0,neutral,26.0
+2017-02-09,Credit Suisse,Not Provided,5.0,outperform,33.0
+2017-02-10,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-02-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-16,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-02-17,Macquarie,12 month,3.0,neutral,27.0
+2017-02-24,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-03-02,Goldman Sachs,6 month,1.0,Sell/Neutral,18.0
+2017-03-06,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-03-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-10,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-03-20,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-03-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-24,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-03-29,Cowen,12 month,3.0,market perform,25.0
+2017-03-31,Longbow Research,Not Provided,3.0,neutral,-0.0
+2017-04-03,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-04-07,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-04-07,Longbow Research,Not Provided,3.0,neutral,-0.0
+2017-04-12,Cowen,Not Provided,3.0,market perform,25.0
+2017-04-17,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-04-17,Seaport Global Securities,12 month,3.0,neutral,25.0
+2017-04-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-18,J.P. Morgan,9 month,3.0,neutral,29.0
+2017-04-21,J.P. Morgan,9 month,3.0,neutral,29.0
+2017-04-25,Seaport Global Securities,12 month,3.0,neutral,25.0
+2017-04-25,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-04-25,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-04-25,Credit Suisse,Not Provided,5.0,outperform,33.0
+2017-04-26,Spin-Off Research,Not Provided,5.0,buy,31.0
+2017-04-26,Seaport Global Securities,12 month,3.0,neutral,27.0
+2017-04-26,Credit Suisse,Not Provided,-2147483648.0,restricted,-0.0
+2017-04-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-01,Cowen,12 month,3.0,market perform,25.0
+2017-05-01,J.P. Morgan,Not Provided,3.0,neutral,30.0
+2017-05-01,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-05-04,Seaport Global Securities,12 month,3.0,neutral,27.0
+2017-05-04,Credit Suisse,Not Provided,5.0,outperform,33.0
+2017-05-05,Longbow Research,Not Provided,3.0,neutral,-0.0
+2017-05-10,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-05-10,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-05-16,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-05-17,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-05-18,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-05-19,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-05-22,J.P. Morgan,9 month,3.0,neutral,30.0
+2017-05-22,Argus Research Corp,Not Provided,5.0,buy,32.0
+2017-05-22,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-05-22,Seaport Global Securities,12 month,3.0,neutral,27.0

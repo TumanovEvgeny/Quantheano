@@ -1,0 +1,463 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2014-02-06,FBR Capital Markets,12 month,3.0,market perform,30.0
+2014-04-30,UBS,12 month,3.0,neutral,43.0
+2014-05-22,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-07-29,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2014-07-31,Stephens Inc,12 month,3.0,equalweight,48.0
+2014-09-25,Macquarie,12 month,5.0,outperform,51.0
+2014-10-14,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-10-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-10-28,Cowen,12 month,5.0,outperform,58.0
+2014-11-05,Canaccord Genuity,12 month,5.0,buy,55.0
+2014-11-05,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2014-11-05,J.P. Morgan,18 month,5.0,overweight,55.0
+2014-11-05,MoffettNathanson,Not Provided,5.0,buy,57.0
+2014-11-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-11-05,D.A. Davidson & Co,12 month,5.0,buy,54.0
+2014-11-05,Jefferies,12 month,5.0,buy,55.0
+2014-11-05,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-11-06,D.A. Davidson & Co,Not Provided,5.0,buy,54.0
+2014-11-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-11-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-11-06,Cowen,12 month,5.0,outperform,58.0
+2014-11-06,Jefferies,12 month,5.0,buy,56.0
+2014-11-06,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2014-11-06,FBR Capital Markets,Not Provided,3.0,market perform,48.0
+2014-11-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-11-07,Stephens Inc,12 month,3.0,equalweight,48.0
+2014-11-10,UBS,12 month,3.0,neutral,46.0
+2014-11-13,Cowen,Not Provided,5.0,outperform,58.0
+2014-11-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-11-25,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-11-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-11-26,Macquarie,12 month,3.0,neutral,51.0
+2014-12-01,Cowen,Not Provided,5.0,outperform,58.0
+2014-12-02,MoffettNathanson,Not Provided,5.0,buy,57.0
+2014-12-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-12-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-12-18,Macquarie,12 month,3.0,neutral,48.0
+2014-12-23,Canaccord Genuity,12 month,5.0,buy,55.0
+2014-12-31,Cowen,Not Provided,5.0,outperform,58.0
+2015-01-05,Canaccord Genuity,12 month,5.0,buy,55.0
+2015-01-05,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-01-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-01-07,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-01-08,D.A. Davidson & Co,Not Provided,5.0,buy,54.0
+2015-01-08,Macquarie,12 month,3.0,neutral,48.0
+2015-01-12,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-01-15,UBS,12 month,3.0,neutral,52.0
+2015-01-16,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-01-20,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-01-21,Jefferies,12 month,5.0,buy,56.0
+2015-01-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-26,MoffettNathanson,Not Provided,5.0,buy,57.0
+2015-01-28,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2015-02-02,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-02-02,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2015-02-02,D.A. Davidson & Co,12 month,5.0,buy,54.0
+2015-02-02,Cowen,12 month,5.0,outperform,58.0
+2015-02-02,Canaccord Genuity,12 month,5.0,buy,55.0
+2015-02-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-02-04,Canaccord Genuity,12 month,5.0,buy,63.0
+2015-02-04,MoffettNathanson,Not Provided,5.0,buy,57.0
+2015-02-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-02-04,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2015-02-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-02-05,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2015-02-05,Jefferies,12 month,5.0,buy,60.0
+2015-02-05,J.P. Morgan,9 month,5.0,overweight,60.0
+2015-02-05,FBR Capital Markets,Not Provided,3.0,market perform,52.0
+2015-02-05,Stephens Inc,12 month,3.0,equalweight,54.0
+2015-02-05,Cowen,12 month,5.0,outperform,62.0
+2015-02-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-02-06,D.A. Davidson & Co,Not Provided,5.0,buy,63.0
+2015-02-06,Macquarie,12 month,3.0,neutral,49.0
+2015-02-10,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-02-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-02-17,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-02-24,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-02-27,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2015-03-02,MoffettNathanson,Not Provided,5.0,buy,59.0
+2015-03-11,Cowen,Not Provided,5.0,outperform,62.0
+2015-03-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-16,Macquarie,12 month,3.0,neutral,49.0
+2015-03-16,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-03-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-23,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-03-26,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2015-03-27,Cowen,Not Provided,5.0,outperform,62.0
+2015-03-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-04-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-07,Cowen,Not Provided,5.0,outperform,62.0
+2015-04-08,MoffettNathanson,Not Provided,5.0,buy,59.0
+2015-04-09,D.A. Davidson & Co,Not Provided,5.0,buy,63.0
+2015-04-13,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-04-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-16,Macquarie,12 month,3.0,neutral,49.0
+2015-04-16,Jefferies,12 month,5.0,buy,60.0
+2015-04-20,Stephens Inc,12 month,3.0,equalweight,54.0
+2015-04-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-04-21,Cowen,12 month,5.0,outperform,62.0
+2015-04-29,UBS,12 month,3.0,neutral,57.0
+2015-04-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-04-29,J.P. Morgan,9 month,5.0,overweight,65.0
+2015-04-29,Canaccord Genuity,Not Provided,5.0,buy,65.0
+2015-04-29,MoffettNathanson,Not Provided,5.0,buy,59.0
+2015-04-29,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2015-04-29,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2015-04-30,Stephens Inc,12 month,3.0,equalweight,58.0
+2015-04-30,D.A. Davidson & Co,Not Provided,5.0,buy,67.0
+2015-04-30,Jefferies,12 month,5.0,buy,68.0
+2015-04-30,Cowen,12 month,5.0,outperform,65.0
+2015-04-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-04-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-05-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-05-04,FBR Capital Markets,12 month,3.0,market perform,55.0
+2015-05-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-05-05,Morgan Stanley,12 month,3.0,Equalwt/Cautious,57.0
+2015-05-08,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-05-15,Jefferies,12 month,5.0,buy,68.0
+2015-05-18,MoffettNathanson,Not Provided,5.0,buy,61.0
+2015-05-18,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-05-20,Cowen,Not Provided,5.0,outperform,65.0
+2015-05-21,D.A. Davidson & Co,12 month,5.0,buy,67.0
+2015-05-21,Canaccord Genuity,12 month,5.0,buy,65.0
+2015-05-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-05-27,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-05-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-05-28,Goldman Sachs,12 month,5.0,Buy/Neutral,67.0
+2015-05-29,Cowen,Not Provided,5.0,outperform,65.0
+2015-05-29,Macquarie,12 month,3.0,neutral,52.0
+2015-06-09,D.A. Davidson & Co,Not Provided,5.0,buy,67.0
+2015-06-15,J.P. Morgan,6 month,5.0,overweight,65.0
+2015-06-16,Macquarie,12 month,3.0,neutral,52.0
+2015-06-19,Cowen,12 month,5.0,outperform,65.0
+2015-06-19,D.A. Davidson & Co,12 month,5.0,buy,67.0
+2015-06-22,D.A. Davidson & Co,18 month,5.0,buy,67.0
+2015-06-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-06-30,MoffettNathanson,Not Provided,5.0,buy,61.0
+2015-06-30,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2015-07-02,Macquarie,12 month,3.0,neutral,52.0
+2015-07-06,Canaccord Genuity,12 month,5.0,buy,65.0
+2015-07-09,MoffettNathanson,Not Provided,5.0,buy,61.0
+2015-07-16,D.A. Davidson & Co,Not Provided,5.0,buy,67.0
+2015-07-17,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-07-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-07-21,Cowen,Not Provided,5.0,outperform,65.0
+2015-07-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-24,Morgan Stanley,12 month,3.0,Equalwt/Cautious,57.0
+2015-07-29,Canaccord Genuity,12 month,5.0,buy,62.0
+2015-07-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-07-29,J.P. Morgan,18 month,5.0,overweight,65.0
+2015-07-29,MoffettNathanson,Not Provided,5.0,buy,61.0
+2015-07-30,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2015-07-30,Goldman Sachs,12 month,5.0,Buy/Neutral,64.0
+2015-07-30,D.A. Davidson & Co,Not Provided,5.0,buy,66.0
+2015-07-30,Jefferies,12 month,5.0,buy,67.0
+2015-07-30,Cowen,12 month,5.0,outperform,62.0
+2015-07-30,Stephens Inc,12 month,3.0,equalweight,52.0
+2015-07-30,FBR Capital Markets,12 month,3.0,market perform,55.0
+2015-07-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-31,Morgan Stanley,12 month,3.0,Equalwt/Cautious,57.0
+2015-08-03,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-08-04,Macquarie,12 month,3.0,neutral,52.0
+2015-08-13,MoffettNathanson,Not Provided,5.0,buy,59.0
+2015-08-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-08-21,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-08-21,Cowen,Not Provided,5.0,outperform,62.0
+2015-08-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-08-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-09-01,Canaccord Genuity,12 month,5.0,buy,62.0
+2015-09-03,Macquarie,12 month,5.0,outperform,53.0
+2015-09-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-09-08,Cowen,Not Provided,5.0,outperform,62.0
+2015-09-10,Canaccord Genuity,Not Provided,5.0,buy,62.0
+2015-09-11,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-09-11,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-09-16,Cowen,12 month,5.0,outperform,62.0
+2015-09-16,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-09-21,Stephens Inc,12 month,3.0,equalweight,52.0
+2015-09-22,RBC Capital Markets,12 month,5.0,outperform,62.0
+2015-09-23,Macquarie,12 month,5.0,outperform,53.0
+2015-09-25,Stephens Inc,Not Provided,3.0,equalweight,52.0
+2015-09-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-09-30,UBS,12 month,5.0,buy,57.0
+2015-10-01,Canaccord Genuity,Not Provided,5.0,buy,62.0
+2015-10-05,MoffettNathanson,Not Provided,5.0,buy,54.0
+2015-10-06,Stephens Inc,Not Provided,3.0,equalweight,52.0
+2015-10-07,J.P. Morgan,18 month,5.0,overweight,65.0
+2015-10-09,Jefferies,12 month,5.0,buy,67.0
+2015-10-13,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2015-10-13,Goldman Sachs,12 month,5.0,Buy/Neutral,60.0
+2015-10-14,D.A. Davidson & Co,12 month,5.0,buy,66.0
+2015-10-16,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-10-19,Macquarie,12 month,5.0,outperform,53.0
+2015-10-22,Morgan Stanley,12 month,3.0,Equalwt/Cautious,57.0
+2015-10-22,Cowen,Not Provided,5.0,outperform,62.0
+2015-10-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-28,J.P. Morgan,18 month,5.0,overweight,64.0
+2015-10-28,MoffettNathanson,Not Provided,5.0,buy,54.0
+2015-10-28,RBC Capital Markets,12 month,5.0,outperform,62.0
+2015-10-28,Morgan Stanley,12 month,3.0,Equalwt/Cautious,57.0
+2015-10-28,Canaccord Genuity,12 month,5.0,buy,62.0
+2015-10-28,Cowen,12 month,5.0,outperform,64.0
+2015-10-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-10-29,FBR Capital Markets,12 month,3.0,market perform,56.0
+2015-10-29,Jefferies,12 month,5.0,buy,67.0
+2015-10-29,D.A. Davidson & Co,Not Provided,5.0,buy,67.0
+2015-10-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-29,Stephens Inc,12 month,3.0,equalweight,52.0
+2015-10-29,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2015-10-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-11-05,Morgan Stanley,12 month,3.0,Equalwt/Cautious,60.0
+2015-11-05,Macquarie,12 month,5.0,outperform,54.0
+2015-11-17,MoffettNathanson,Not Provided,5.0,buy,56.0
+2015-11-17,Stephens Inc,12 month,3.0,equalweight,52.0
+2015-11-17,Cowen,Not Provided,5.0,outperform,64.0
+2015-11-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-12-03,D.A. Davidson & Co,Not Provided,5.0,buy,67.0
+2015-12-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-12-11,Stephens Inc,Not Provided,3.0,equalweight,52.0
+2015-12-30,Stephens Inc,Not Provided,3.0,equalweight,52.0
+2016-01-04,Cowen,Not Provided,5.0,outperform,64.0
+2016-01-05,MoffettNathanson,Not Provided,3.0,neutral,56.0
+2016-01-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-01-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-01-13,Goldman Sachs,12 month,5.0,Buy/Neutral,65.0
+2016-01-15,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-01-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-01-19,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-01-19,Jefferies,12 month,5.0,buy,67.0
+2016-01-25,Stephens Inc,Not Provided,3.0,equalweight,52.0
+2016-01-27,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-01-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-01-29,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-02-01,Morgan Stanley,12 month,3.0,Equalwt/Cautious,60.0
+2016-02-01,Cowen,Not Provided,5.0,outperform,64.0
+2016-02-04,Morgan Stanley,12 month,3.0,Equalwt/Cautious,60.0
+2016-02-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-02-04,MoffettNathanson,Not Provided,3.0,neutral,56.0
+2016-02-05,Jefferies,12 month,5.0,buy,67.0
+2016-02-05,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-02-05,RBC Capital Markets,12 month,5.0,outperform,58.0
+2016-02-05,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2016-02-05,Goldman Sachs,12 month,5.0,Buy/Neutral,66.0
+2016-02-05,FBR Capital Markets,12 month,3.0,market perform,55.0
+2016-02-05,Cowen,12 month,5.0,outperform,60.0
+2016-02-05,J.P. Morgan,12 month,5.0,overweight,60.0
+2016-02-05,Stephens Inc,12 month,5.0,overweight,63.0
+2016-02-08,D.A. Davidson & Co,Not Provided,5.0,buy,67.0
+2016-02-08,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-02-11,Morgan Stanley,12 month,5.0,Overwt/Cautious,60.0
+2016-02-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-22,Stephens Inc,Not Provided,5.0,overweight,63.0
+2016-02-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-25,D.A. Davidson & Co,Not Provided,5.0,buy,67.0
+2016-02-25,Stephens Inc,12 month,5.0,overweight,63.0
+2016-02-26,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-02-27,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-03-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-03-07,Stephens Inc,Not Provided,5.0,overweight,63.0
+2016-03-10,Stephens Inc,12 month,5.0,overweight,63.0
+2016-03-11,MoffettNathanson,12 month,3.0,neutral,57.0
+2016-03-16,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-03-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-03-25,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-04-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-04-04,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2016-04-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-08,D.A. Davidson & Co,Not Provided,5.0,buy,67.0
+2016-04-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-22,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-04-26,Morgan Stanley,12 month,5.0,Overwt/Cautious,60.0
+2016-04-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-26,Cowen,Not Provided,5.0,outperform,60.0
+2016-04-28,RBC Capital Markets,12 month,5.0,outperform,63.0
+2016-04-28,J.P. Morgan,9 month,5.0,overweight,60.0
+2016-04-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-28,MoffettNathanson,Not Provided,3.0,neutral,56.0
+2016-04-29,FBR Capital Markets,12 month,3.0,market perform,55.0
+2016-04-29,UBS,12 month,5.0,buy,62.0
+2016-04-29,Jefferies,12 month,5.0,buy,67.0
+2016-04-29,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2016-04-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-29,Goldman Sachs,12 month,5.0,Buy/Neutral,70.0
+2016-04-29,D.A. Davidson & Co,Not Provided,5.0,buy,68.0
+2016-04-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-29,Morgan Stanley,12 month,5.0,Overwt/Cautious,61.0
+2016-05-02,Stephens Inc,Not Provided,5.0,overweight,63.0
+2016-05-02,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-05-04,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-05-04,Cowen,Not Provided,5.0,outperform,63.0
+2016-05-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-05-07,Cowen,Not Provided,-2147483648.0,not rated,-0.0
+2016-05-12,MoffettNathanson,Not Provided,3.0,neutral,57.0
+2016-05-13,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-05-17,Cowen,Not Provided,5.0,outperform,63.0
+2016-05-20,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-05-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-27,Stephens Inc,Not Provided,5.0,overweight,63.0
+2016-05-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-07,MoffettNathanson,Not Provided,3.0,neutral,58.0
+2016-06-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-13,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2016-06-17,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-06-24,RBC Capital Markets,12 month,5.0,outperform,63.0
+2016-06-30,Goldman Sachs,12 month,5.0,Buy/Neutral,66.0
+2016-07-05,D.A. Davidson & Co,Not Provided,5.0,buy,68.0
+2016-07-07,Cowen,Not Provided,5.0,outperform,63.0
+2016-07-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-07-13,Stephens Inc,12 month,5.0,overweight,63.0
+2016-07-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-20,Cowen,Not Provided,5.0,outperform,63.0
+2016-07-22,Morgan Stanley,12 month,5.0,Overwt/Cautious,61.0
+2016-07-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-27,Morgan Stanley,12 month,5.0,Overwt/Cautious,61.0
+2016-07-27,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-07-27,MoffettNathanson,12 month,3.0,neutral,58.0
+2016-07-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-07-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-27,Stephens Inc,12 month,5.0,overweight,63.0
+2016-07-28,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2016-07-28,UBS,12 month,5.0,buy,60.0
+2016-07-28,Goldman Sachs,12 month,5.0,Buy/Neutral,64.0
+2016-07-28,RBC Capital Markets,12 month,5.0,outperform,58.0
+2016-07-28,Jefferies,12 month,5.0,buy,63.0
+2016-07-28,J.P. Morgan,18 month,3.0,neutral,60.0
+2016-07-28,Cowen,12 month,5.0,outperform,60.0
+2016-07-28,FBR Capital Markets,12 month,3.0,market perform,55.0
+2016-07-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-01,Stephens Inc,Not Provided,5.0,overweight,63.0
+2016-08-01,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-08-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-08-08,BTIG LLC,12 month,5.0,buy,63.0
+2016-08-12,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-08-12,Cowen,12 month,5.0,outperform,60.0
+2016-08-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-08-24,MoffettNathanson,12 month,5.0,buy,58.0
+2016-08-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-06,Cowen,12 month,5.0,outperform,60.0
+2016-09-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-13,Cowen,12 month,5.0,outperform,60.0
+2016-09-14,MoffettNathanson,12 month,5.0,buy,58.0
+2016-09-14,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-09-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-21,Cowen,12 month,5.0,outperform,60.0
+2016-09-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-26,Stephens Inc,Not Provided,5.0,overweight,63.0
+2016-09-28,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-09-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-10-04,Cowen,12 month,5.0,outperform,60.0
+2016-10-13,Goldman Sachs,12 month,5.0,Buy/Neutral,55.0
+2016-10-14,J.P. Morgan,18 month,5.0,overweight,55.0
+2016-10-14,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-10-18,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-10-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-18,Jefferies,12 month,5.0,buy,58.0
+2016-10-19,Morgan Stanley,12 month,5.0,Overwt/Cautious,61.0
+2016-10-20,Barclays,Not Provided,5.0,overweight,54.0
+2016-10-24,Cowen,Not Provided,5.0,outperform,60.0
+2016-10-27,Barclays,Not Provided,5.0,overweight,54.0
+2016-10-31,BTIG LLC,12 month,3.0,neutral,63.0
+2016-10-31,MoffettNathanson,12 month,5.0,buy,58.0
+2016-10-31,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-10-31,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2016-10-31,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2016-10-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-31,RBC Capital Markets,12 month,5.0,outperform,58.0
+2016-10-31,Stephens Inc,12 month,5.0,overweight,63.0
+2016-10-31,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2016-10-31,Oppenheimer & Co,12 month,5.0,outperform,60.0
+2016-10-31,Cowen,12 month,3.0,market perform,61.0
+2016-11-01,Stephens Inc,12 month,3.0,equalweight,66.5
+2016-11-01,FBR Capital Markets,12 month,3.0,market perform,66.5
+2016-11-01,UBS,12 month,5.0,buy,71.0
+2016-11-01,Goldman Sachs,12 month,3.0,neutral/neutral,60.0
+2016-11-01,Jefferies,12 month,3.0,hold,55.0
+2016-11-01,RBC Capital Markets,12 month,3.0,sector perform,63.0
+2016-11-01,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-11-01,Barclays,Not Provided,5.0,overweight,54.0
+2016-11-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-11-02,J.P. Morgan,12 month,5.0,overweight,62.0
+2016-11-02,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-11-04,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2016-11-04,Oppenheimer & Co,12 month,5.0,outperform,60.0
+2016-11-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-11-08,Oppenheimer & Co,Not Provided,-2147483648.0,not rated,-0.0
+2016-11-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-11-16,Barclays,Not Provided,3.0,equalweight,57.0
+2016-11-22,MoffettNathanson,12 month,3.0,neutral,59.0
+2016-12-07,Cowen,Not Provided,3.0,market perform,61.0
+2016-12-12,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-12-12,SunTrust Robinson Humphrey,18 month,3.0,hold,62.0
+2016-12-16,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-12-24,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-12-30,RBC Capital Markets,12 month,3.0,sector perform,63.0
+2017-01-04,Cowen,Not Provided,3.0,market perform,61.0
+2017-01-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-01-10,SunTrust Robinson Humphrey,18 month,3.0,hold,62.0
+2017-01-10,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2017-01-11,Barclays,Not Provided,3.0,equalweight,61.0
+2017-01-12,MoffettNathanson,12 month,3.0,neutral,59.0
+2017-01-17,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2017-01-19,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-01-20,Barclays,Not Provided,3.0,equalweight,61.0
+2017-01-25,Jefferies,12 month,3.0,hold,64.0
+2017-02-01,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-02-03,Cowen,Not Provided,3.0,market perform,61.0
+2017-02-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-02-07,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-02-08,MoffettNathanson,12 month,3.0,neutral,59.0
+2017-02-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-02-09,Jefferies,12 month,3.0,hold,64.0
+2017-02-09,Barclays,Not Provided,3.0,equalweight,61.0
+2017-02-09,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2017-02-09,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2017-02-09,Oppenheimer & Co,Not Provided,-2147483648.0,not rated,-0.0
+2017-02-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-09,FBR Capital Markets,Not Provided,3.0,market perform,66.5
+2017-02-09,J.P. Morgan,12 month,5.0,overweight,63.0
+2017-02-09,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2017-02-09,Cowen,Not Provided,3.0,market perform,64.0
+2017-02-16,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-02-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-02-24,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-02-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-28,MoffettNathanson,12 month,3.0,neutral,59.0
+2017-03-06,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-03-10,Cowen,Not Provided,3.0,market perform,64.0
+2017-03-11,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-03-17,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2017-03-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-29,Morgan Stanley,12 month,3.0,Equalwt/Cautious,65.0
+2017-04-05,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2017-04-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-13,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-21,Cowen,Not Provided,3.0,market perform,64.0
+2017-04-24,Oppenheimer & Co,Not Provided,-2147483648.0,not rated,-0.0
+2017-04-25,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2017-04-26,Barclays,Not Provided,3.0,equalweight,61.0
+2017-05-02,Cowen,Not Provided,3.0,market perform,64.0
+2017-05-03,MoffettNathanson,12 month,3.0,neutral,59.0
+2017-05-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-03,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2017-05-04,Morgan Stanley,12 month,3.0,Equalwt/Cautious,65.0
+2017-05-04,Goldman Sachs,12 month,3.0,neutral/neutral,65.0
+2017-05-04,Jefferies,12 month,3.0,hold,59.0
+2017-05-04,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2017-05-04,Barclays,Not Provided,3.0,equalweight,61.0
+2017-05-04,Drexel Hamilton LLC,Not Provided,3.0,hold,-0.0
+2017-05-04,J.P. Morgan,9 month,5.0,overweight,63.0
+2017-05-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-05,SunTrust Robinson Humphrey,18 month,3.0,hold,60.0
+2017-05-05,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-05-08,Cowen,Not Provided,3.0,market perform,-0.0
+2017-05-11,RBC Capital Markets,12 month,3.0,sector perform,61.0
+2017-05-15,Raymond James,Not Provided,1.0,underperform,-0.0
+2017-05-19,Cowen,Not Provided,3.0,market perform,-0.0

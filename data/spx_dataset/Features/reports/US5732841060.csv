@@ -1,0 +1,565 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2014-04-29,Jefferies,12 month,3.0,hold,128.0
+2014-04-30,Thompson Research Group,12 month,5.0,buy,155.0
+2014-04-30,Sterne Agee CRT,12 month,5.0,buy,148.0
+2014-04-30,Stifel,12 month,5.0,buy,135.0
+2014-04-30,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-05-01,Susquehanna Financial,12 month,3.0,neutral,123.0
+2014-05-01,Stephens Inc,12 month,5.0,overweight,145.0
+2014-06-17,CJS Securities,18 month,4.0,market outperform,140.0
+2014-06-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-06-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-02,Goldman Sachs,12 month,5.0,Buy/Neutral,159.0
+2014-07-02,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-07-02,D.A. Davidson & Co,Not Provided,3.0,neutral,130.0
+2014-07-08,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-07-08,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,120.0
+2014-07-11,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-07-14,Thompson Research Group,12 month,5.0,buy,155.0
+2014-07-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-16,SunTrust Robinson Humphrey,12 month,3.0,neutral,120.0
+2014-07-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-18,Jefferies,12 month,3.0,hold,126.0
+2014-07-21,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-07-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-07-28,D.A. Davidson & Co,18 month,3.0,neutral,130.0
+2014-07-29,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-07-29,Jefferies,12 month,3.0,hold,126.0
+2014-07-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-07-29,Stifel,12 month,5.0,buy,146.0
+2014-07-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-29,Thompson Research Group,12 month,5.0,buy,155.0
+2014-07-29,Sterne Agee CRT,12 month,5.0,buy,148.0
+2014-07-30,D.A. Davidson & Co,Not Provided,3.0,neutral,130.0
+2014-07-30,Thompson Research Group,12 month,5.0,buy,155.0
+2014-07-31,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-07-31,Susquehanna Financial,12 month,3.0,neutral,133.0
+2014-08-01,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-08-01,Stephens Inc,12 month,5.0,overweight,145.0
+2014-08-04,CJS Securities,12 month,4.0,market outperform,130.0
+2014-08-04,Sterne Agee CRT,Not Provided,5.0,buy,148.0
+2014-08-05,SunTrust Robinson Humphrey,12 month,3.0,neutral,120.0
+2014-08-05,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-08-06,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-08-08,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-08-08,Jefferies,12 month,3.0,hold,126.0
+2014-08-19,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,120.0
+2014-08-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-08-25,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-08-26,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,120.0
+2014-08-28,Jefferies,12 month,3.0,hold,126.0
+2014-08-29,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,120.0
+2014-09-02,Thompson Research Group,12 month,5.0,buy,155.0
+2014-09-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-09-08,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-09-09,Jefferies,12 month,3.0,hold,126.0
+2014-09-12,Thompson Research Group,Not Provided,5.0,buy,155.0
+2014-09-12,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-09-16,Susquehanna Financial,12 month,3.0,neutral,133.0
+2014-09-22,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-09-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-09-29,Jefferies,12 month,3.0,hold,126.0
+2014-09-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-09-30,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,120.0
+2014-10-03,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-10,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-13,Thompson Research Group,12 month,5.0,buy,155.0
+2014-10-15,Susquehanna Financial,12 month,3.0,neutral,133.0
+2014-10-17,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,120.0
+2014-10-21,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-21,Jefferies,12 month,3.0,hold,126.0
+2014-10-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-10-27,Stephens Inc,12 month,5.0,overweight,145.0
+2014-10-28,Jefferies,12 month,3.0,hold,126.0
+2014-10-28,SunTrust Robinson Humphrey,12 month,3.0,neutral,120.0
+2014-10-28,Stifel,12 month,5.0,buy,146.0
+2014-10-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-29,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-10-29,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-10-29,CJS Securities,12 month,4.0,market outperform,130.0
+2014-10-29,D.A. Davidson & Co,Not Provided,3.0,neutral,120.0
+2014-10-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-10-30,Jefferies,12 month,3.0,hold,126.0
+2014-10-30,SunTrust Robinson Humphrey,12 month,3.0,neutral,120.0
+2014-10-31,Stephens Inc,12 month,5.0,overweight,145.0
+2014-10-31,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-11-03,Sterne Agee CRT,12 month,5.0,buy,148.0
+2014-11-04,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-11-04,Thompson Research Group,12 month,5.0,buy,155.0
+2014-11-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-07,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-11-11,Susquehanna Financial,12 month,3.0,neutral,138.0
+2014-11-17,SunTrust Robinson Humphrey,12 month,3.0,neutral,120.0
+2014-11-19,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-11-26,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-12-01,Stifel,12 month,5.0,buy,146.0
+2014-12-02,D.A. Davidson & Co,Not Provided,3.0,neutral,120.0
+2014-12-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-12-04,Jefferies,12 month,3.0,hold,126.0
+2014-12-04,SunTrust Robinson Humphrey,12 month,3.0,neutral,120.0
+2014-12-05,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-12-08,Sterne Agee CRT,Not Provided,5.0,buy,148.0
+2014-12-08,SunTrust Robinson Humphrey,12 month,3.0,neutral,120.0
+2014-12-09,CJS Securities,12 month,4.0,market outperform,130.0
+2014-12-15,Goldman Sachs,12 month,5.0,Buy/Neutral,130.0
+2014-12-17,Jefferies,12 month,3.0,hold,126.0
+2014-12-17,D.A. Davidson & Co,12 month,3.0,neutral,110.0
+2014-12-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-12-17,Stifel,12 month,5.0,buy,146.0
+2014-12-19,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-12-22,Sterne Agee CRT,Not Provided,5.0,buy,148.0
+2014-12-22,SunTrust Robinson Humphrey,12 month,3.0,neutral,120.0
+2014-12-30,D.A. Davidson & Co,Not Provided,3.0,neutral,110.0
+2014-12-31,Jefferies,12 month,3.0,hold,126.0
+2015-01-04,Stifel,Not Provided,5.0,buy,146.0
+2015-01-06,Thompson Research Group,Not Provided,5.0,buy,155.0
+2015-01-09,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-01-12,SunTrust Robinson Humphrey,12 month,3.0,neutral,120.0
+2015-01-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-01-20,SunTrust Robinson Humphrey,12 month,3.0,neutral,120.0
+2015-01-20,Thompson Research Group,12 month,5.0,buy,155.0
+2015-01-23,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-01-26,Thompson Research Group,Not Provided,5.0,buy,150.0
+2015-01-30,Jefferies,12 month,3.0,hold,126.0
+2015-02-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-02-04,CJS Securities,12 month,4.0,market outperform,130.0
+2015-02-06,D.A. Davidson & Co,12 month,3.0,neutral,110.0
+2015-02-10,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-02-10,Thompson Research Group,Not Provided,5.0,buy,150.0
+2015-02-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-10,Sterne Agee CRT,12 month,5.0,buy,148.0
+2015-02-10,Stifel,12 month,5.0,buy,146.0
+2015-02-10,Jefferies,12 month,3.0,hold,136.0
+2015-02-10,SunTrust Robinson Humphrey,12 month,3.0,neutral,120.0
+2015-02-11,Goldman Sachs,12 month,5.0,Buy/Neutral,155.0
+2015-02-11,D.A. Davidson & Co,Not Provided,3.0,neutral,150.0
+2015-02-11,SunTrust Robinson Humphrey,12 month,3.0,neutral,138.0
+2015-02-12,Jefferies,12 month,3.0,hold,136.0
+2015-02-13,CJS Securities,12 month,4.0,market outperform,160.0
+2015-02-13,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-02-13,Stifel,12 month,5.0,buy,167.0
+2015-02-17,Stephens Inc,12 month,5.0,overweight,166.0
+2015-02-17,Sterne Agee CRT,12 month,5.0,buy,165.0
+2015-02-17,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-02-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-02-19,Jefferies,12 month,3.0,hold,136.0
+2015-02-19,Thompson Research Group,12 month,5.0,buy,173.0
+2015-02-20,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-02-27,Jefferies,12 month,3.0,hold,136.0
+2015-03-04,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,138.0
+2015-03-06,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-03-09,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,138.0
+2015-03-11,Jefferies,12 month,3.0,hold,136.0
+2015-03-18,Thompson Research Group,12 month,5.0,buy,155.0
+2015-03-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-03-18,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-03-20,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-03-22,Stifel,Not Provided,5.0,buy,167.0
+2015-03-26,Thompson Research Group,Not Provided,5.0,buy,173.0
+2015-03-31,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,138.0
+2015-03-31,CJS Securities,18 month,4.0,market outperform,160.0
+2015-04-01,Jefferies,12 month,3.0,hold,136.0
+2015-04-01,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-04-03,Jefferies,12 month,3.0,hold,136.0
+2015-04-06,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-04-13,Goldman Sachs,12 month,5.0,buy/attractive,155.0
+2015-04-14,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-04-15,D.A. Davidson & Co,Not Provided,3.0,neutral,150.0
+2015-04-15,Thompson Research Group,Not Provided,5.0,buy,173.0
+2015-04-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-04-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-17,Jefferies,12 month,3.0,hold,136.0
+2015-04-27,Stephens Inc,12 month,5.0,overweight,164.0
+2015-04-28,D.A. Davidson & Co,12 month,3.0,neutral,150.0
+2015-04-30,Thompson Research Group,12 month,5.0,buy,173.0
+2015-04-30,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-04-30,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-04-30,Jefferies,12 month,3.0,hold,136.0
+2015-04-30,Stifel,12 month,5.0,buy,167.0
+2015-04-30,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,138.0
+2015-05-01,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-05-01,CJS Securities,12 month,4.0,market outperform,160.0
+2015-05-01,Goldman Sachs,12 month,5.0,buy/attractive,165.0
+2015-05-01,Sterne Agee CRT,12 month,5.0,buy,187.0
+2015-05-01,Stephens Inc,12 month,5.0,overweight,172.0
+2015-05-01,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-05-01,Jefferies,12 month,3.0,hold,138.0
+2015-05-04,Thompson Research Group,12 month,5.0,buy,173.0
+2015-05-05,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,148.0
+2015-05-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-05,D.A. Davidson & Co,Not Provided,3.0,neutral,160.0
+2015-05-08,Thompson Research Group,Not Provided,5.0,buy,173.0
+2015-05-08,Sterne Agee CRT,12 month,5.0,buy,187.0
+2015-05-12,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,148.0
+2015-05-13,Susquehanna Financial,12 month,4.0,Positive,181.0
+2015-05-20,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-05-21,Goldman Sachs,12 month,5.0,buy/attractive,185.0
+2015-05-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-29,Jefferies,12 month,3.0,hold,138.0
+2015-05-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-05-29,Thompson Research Group,Not Provided,5.0,buy,173.0
+2015-06-05,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,148.0
+2015-06-05,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-09,D.A. Davidson & Co,Not Provided,3.0,neutral,160.0
+2015-06-12,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-12,Thompson Research Group,12 month,5.0,buy,173.0
+2015-06-15,Stifel,12 month,5.0,buy,167.0
+2015-06-16,CJS Securities,18 month,4.0,market outperform,160.0
+2015-06-17,Jefferies,12 month,3.0,hold,138.0
+2015-06-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-18,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,148.0
+2015-06-23,Stifel,12 month,5.0,buy,167.0
+2015-06-23,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-26,Thompson Research Group,Not Provided,5.0,buy,173.0
+2015-06-26,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,148.0
+2015-06-29,Stifel,12 month,5.0,buy,167.0
+2015-06-29,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,148.0
+2015-07-01,Stephens Inc,12 month,5.0,overweight,172.0
+2015-07-01,Jefferies,12 month,3.0,hold,138.0
+2015-07-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-06,Sterne Agee CRT,Not Provided,5.0,buy,187.0
+2015-07-10,Sterne Agee CRT,Not Provided,5.0,buy,187.0
+2015-07-13,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,148.0
+2015-07-17,Susquehanna Financial,12 month,4.0,Positive,181.0
+2015-07-17,BB&T Capital Markets,12 month,5.0,buy,185.0
+2015-07-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-17,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,148.0
+2015-07-19,Stifel,12 month,5.0,buy,167.0
+2015-07-24,Stifel,12 month,5.0,buy,167.0
+2015-07-24,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-31,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,148.0
+2015-07-31,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-08-03,D.A. Davidson & Co,Not Provided,3.0,neutral,160.0
+2015-08-04,Jefferies,12 month,3.0,hold,168.0
+2015-08-04,Stifel,12 month,5.0,buy,181.0
+2015-08-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-05,Stephens Inc,12 month,5.0,overweight,172.0
+2015-08-05,BB&T Capital Markets,12 month,5.0,buy,195.0
+2015-08-05,CJS Securities,18 month,4.0,market outperform,170.0
+2015-08-06,Thompson Research Group,12 month,5.0,buy,173.0
+2015-08-06,D.A. Davidson & Co,Not Provided,3.0,neutral,170.0
+2015-08-06,Sterne Agee CRT,12 month,5.0,buy,207.0
+2015-08-07,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-08-10,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2015-08-11,Stephens Inc,12 month,5.0,overweight,195.0
+2015-08-13,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-08-14,Susquehanna Financial,12 month,4.0,Positive,204.0
+2015-08-19,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2015-08-19,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-08-19,Thompson Research Group,12 month,5.0,buy,173.0
+2015-08-25,Thompson Research Group,Not Provided,5.0,buy,173.0
+2015-08-26,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2015-08-31,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-09-04,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-09-04,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2015-09-11,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-09-11,Goldman Sachs,12 month,5.0,buy/attractive,200.0
+2015-09-14,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2015-09-14,Susquehanna Financial,12 month,4.0,Positive,204.0
+2015-09-16,Jefferies,12 month,3.0,hold,168.0
+2015-09-16,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2015-09-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-09-21,CJS Securities,18 month,4.0,market outperform,170.0
+2015-09-24,Stifel,12 month,5.0,buy,181.0
+2015-09-28,CJS Securities,18 month,4.0,market outperform,230.0
+2015-09-28,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-09-28,Thompson Research Group,12 month,5.0,buy,173.0
+2015-09-29,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2015-09-29,Jefferies,12 month,3.0,hold,168.0
+2015-10-02,Thompson Research Group,Not Provided,5.0,buy,173.0
+2015-10-02,Longbow Research,12 month,5.0,buy,188.0
+2015-10-02,CJS Securities,12 month,4.0,market outperform,230.0
+2015-10-06,D.A. Davidson & Co,Not Provided,3.0,neutral,170.0
+2015-10-12,Thompson Research Group,Not Provided,5.0,buy,173.0
+2015-10-13,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2015-10-15,Stifel,Not Provided,5.0,buy,181.0
+2015-10-16,Stephens Inc,12 month,5.0,overweight,195.0
+2015-10-20,Longbow Research,12 month,5.0,buy,188.0
+2015-10-22,BB&T Capital Markets,12 month,5.0,buy,195.0
+2015-10-23,Longbow Research,Not Provided,5.0,buy,188.0
+2015-11-03,SunTrust Robinson Humphrey,12 month,3.0,neutral,170.0
+2015-11-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-03,Sterne Agee CRT,12 month,5.0,buy,207.0
+2015-11-03,Longbow Research,12 month,5.0,buy,188.0
+2015-11-03,Stephens Inc,12 month,5.0,overweight,195.0
+2015-11-04,Goldman Sachs,12 month,5.0,buy/attractive,188.0
+2015-11-04,Sterne Agee CRT,12 month,5.0,buy,192.0
+2015-11-04,D.A. Davidson & Co,Not Provided,3.0,neutral,164.0
+2015-11-04,Susquehanna Financial,12 month,4.0,Positive,170.0
+2015-11-04,Stephens Inc,12 month,5.0,overweight,160.0
+2015-11-04,CJS Securities,12 month,4.0,market outperform,200.0
+2015-11-04,Jefferies,12 month,3.0,hold,160.0
+2015-11-04,Stifel,12 month,5.0,buy,181.0
+2015-11-05,BB&T Capital Markets,12 month,5.0,buy,180.0
+2015-11-05,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2015-11-06,Longbow Research,12 month,5.0,buy,177.0
+2015-11-17,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2015-11-17,Longbow Research,12 month,5.0,buy,177.0
+2015-11-17,Thompson Research Group,12 month,5.0,buy,173.0
+2015-11-30,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2015-11-30,Jefferies,12 month,3.0,hold,160.0
+2015-11-30,Stephens Inc,12 month,5.0,overweight,160.0
+2015-12-01,Longbow Research,Not Provided,5.0,buy,177.0
+2015-12-04,Longbow Research,Not Provided,5.0,buy,177.0
+2015-12-07,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2015-12-08,Thompson Research Group,Not Provided,5.0,buy,173.0
+2015-12-08,D.A. Davidson & Co,Not Provided,3.0,neutral,164.0
+2015-12-09,Stephens Inc,12 month,5.0,overweight,175.0
+2015-12-11,Longbow Research,Not Provided,5.0,buy,177.0
+2015-12-13,Jefferies,12 month,3.0,hold,160.0
+2015-12-13,Stifel,Not Provided,5.0,buy,181.0
+2015-12-14,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2015-12-18,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-18,Longbow Research,Not Provided,5.0,buy,177.0
+2015-12-30,Longbow Research,12 month,5.0,buy,177.0
+2016-01-04,Longbow Research,12 month,5.0,buy,177.0
+2016-01-07,D.A. Davidson & Co,18 month,3.0,neutral,164.0
+2016-01-07,Thompson Research Group,Not Provided,5.0,buy,173.0
+2016-01-11,Longbow Research,12 month,5.0,buy,177.0
+2016-01-12,Stifel,12 month,5.0,buy,181.0
+2016-01-12,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-01-12,D.A. Davidson & Co,Not Provided,3.0,neutral,145.0
+2016-01-20,BB&T Capital Markets,12 month,5.0,buy,180.0
+2016-01-20,Jefferies,12 month,3.0,hold,160.0
+2016-01-21,SunTrust Robinson Humphrey,12 month,3.0,neutral,150.0
+2016-01-21,Sterne Agee CRT,12 month,5.0,buy,192.0
+2016-01-22,Longbow Research,Not Provided,5.0,buy,177.0
+2016-01-26,Thompson Research Group,12 month,5.0,buy,184.0
+2016-01-28,Longbow Research,12 month,5.0,buy,177.0
+2016-01-29,Jefferies,12 month,3.0,hold,160.0
+2016-02-01,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-02-02,Stifel,12 month,5.0,buy,181.0
+2016-02-08,Thompson Research Group,12 month,5.0,buy,184.0
+2016-02-09,Stifel,12 month,5.0,buy,181.0
+2016-02-10,D.A. Davidson & Co,Not Provided,3.0,neutral,140.0
+2016-02-10,CJS Securities,12 month,4.0,market outperform,200.0
+2016-02-10,Longbow Research,12 month,5.0,buy,177.0
+2016-02-10,Jefferies,12 month,3.0,hold,140.0
+2016-02-10,Stephens Inc,12 month,5.0,overweight,162.0
+2016-02-10,Goldman Sachs,12 month,5.0,buy/attractive,180.0
+2016-02-11,BB&T Capital Markets,12 month,5.0,buy,180.0
+2016-02-12,SunTrust Robinson Humphrey,12 month,3.0,neutral,150.0
+2016-02-14,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-15,Susquehanna Financial,12 month,4.0,Positive,160.0
+2016-02-15,Sterne Agee CRT,12 month,5.0,buy,192.0
+2016-02-16,Thompson Research Group,12 month,5.0,buy,184.0
+2016-02-18,D.A. Davidson & Co,Not Provided,3.0,neutral,140.0
+2016-02-18,Susquehanna Financial,12 month,4.0,Positive,160.0
+2016-02-19,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-02-19,Longbow Research,12 month,5.0,buy,177.0
+2016-03-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-01,Thompson Research Group,12 month,5.0,buy,184.0
+2016-03-02,Susquehanna Financial,12 month,4.0,Positive,160.0
+2016-03-04,Longbow Research,Not Provided,5.0,buy,177.0
+2016-03-06,Sterne Agee CRT,12 month,5.0,buy,192.0
+2016-03-07,CJS Securities,12 month,4.0,market outperform,200.0
+2016-03-08,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-03-11,Longbow Research,Not Provided,5.0,buy,177.0
+2016-03-14,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-03-16,BB&T Capital Markets,Not Provided,5.0,buy,180.0
+2016-03-18,Stephens Inc,12 month,5.0,overweight,179.0
+2016-03-21,Longbow Research,Not Provided,5.0,buy,177.0
+2016-03-24,Longbow Research,Not Provided,5.0,buy,177.0
+2016-03-29,Sterne Agee CRT,12 month,5.0,buy,192.0
+2016-03-29,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-03-30,Jefferies,12 month,3.0,hold,140.0
+2016-03-31,Stephens Inc,12 month,5.0,overweight,179.0
+2016-03-31,CJS Securities,18 month,4.0,market outperform,200.0
+2016-04-01,Longbow Research,Not Provided,5.0,buy,177.0
+2016-04-06,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-04-08,Longbow Research,Not Provided,5.0,buy,177.0
+2016-04-08,Goldman Sachs,12 month,5.0,buy/attractive,185.0
+2016-04-13,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-04-13,D.A. Davidson & Co,Not Provided,3.0,neutral,170.0
+2016-04-14,Thompson Research Group,Not Provided,5.0,buy,184.0
+2016-04-20,Longbow Research,12 month,5.0,buy,177.0
+2016-04-22,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-04-25,Stephens Inc,12 month,5.0,overweight,179.0
+2016-04-29,Stephens Inc,12 month,5.0,overweight,179.0
+2016-04-29,Thompson Research Group,Not Provided,5.0,buy,184.0
+2016-05-02,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-05-02,Longbow Research,Not Provided,5.0,buy,177.0
+2016-05-03,CJS Securities,18 month,4.0,market outperform,200.0
+2016-05-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-05,D.A. Davidson & Co,12 month,3.0,neutral,190.0
+2016-05-06,SunTrust Robinson Humphrey,12 month,3.0,neutral,170.0
+2016-05-06,Thompson Research Group,Not Provided,5.0,buy,205.0
+2016-05-06,CJS Securities,18 month,4.0,market outperform,200.0
+2016-05-06,BB&T Capital Markets,12 month,5.0,buy,205.0
+2016-05-08,Stifel,12 month,5.0,buy,193.0
+2016-05-09,Goldman Sachs,12 month,5.0,buy/attractive,191.0
+2016-05-09,Stephens Inc,12 month,5.0,overweight,200.0
+2016-05-10,Jefferies,12 month,3.0,hold,166.0
+2016-05-10,Sterne Agee CRT,12 month,5.0,buy,202.0
+2016-05-11,Longbow Research,12 month,5.0,buy,200.0
+2016-05-13,D.A. Davidson & Co,Not Provided,3.0,neutral,190.0
+2016-05-16,Thompson Research Group,Not Provided,5.0,buy,205.0
+2016-05-16,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-05-20,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-05-20,Longbow Research,12 month,5.0,buy,200.0
+2016-05-31,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-06-01,Stephens Inc,12 month,5.0,overweight,200.0
+2016-06-01,Longbow Research,12 month,5.0,buy,200.0
+2016-06-01,Jefferies,12 month,3.0,hold,166.0
+2016-06-07,Goldman Sachs,12 month,5.0,buy/attractive,209.0
+2016-06-09,Alembic Global Advisors,18 month,5.0,overweight,220.0
+2016-06-10,Longbow Research,Not Provided,5.0,buy,200.0
+2016-06-13,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-06-14,CJS Securities,18 month,4.0,market outperform,200.0
+2016-06-16,D.A. Davidson & Co,18 month,3.0,neutral,190.0
+2016-06-21,Jefferies,12 month,3.0,hold,166.0
+2016-06-22,Longbow Research,12 month,5.0,buy,200.0
+2016-06-27,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-06-30,Longbow Research,Not Provided,5.0,buy,200.0
+2016-06-30,Jefferies,12 month,3.0,hold,166.0
+2016-06-30,Stephens Inc,12 month,5.0,overweight,200.0
+2016-07-08,D.A. Davidson & Co,Not Provided,3.0,neutral,190.0
+2016-07-11,Rosenblatt Securities,12 month,3.0,neutral,200.0
+2016-07-11,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-07-14,Stifel,12 month,5.0,buy,235.0
+2016-07-15,Longbow Research,Not Provided,5.0,buy,230.0
+2016-07-18,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-07-18,Goldman Sachs,12 month,5.0,buy/attractive,219.0
+2016-07-22,Longbow Research,Not Provided,5.0,buy,230.0
+2016-07-29,Stephens Inc,12 month,5.0,overweight,200.0
+2016-08-02,Jefferies,12 month,3.0,hold,166.0
+2016-08-02,Stifel,12 month,5.0,buy,235.0
+2016-08-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-03,Stephens Inc,12 month,5.0,overweight,234.0
+2016-08-03,SunTrust Robinson Humphrey,12 month,3.0,neutral,170.0
+2016-08-03,CJS Securities,18 month,4.0,market outperform,200.0
+2016-08-03,Alembic Global Advisors,Not Provided,5.0,overweight,220.0
+2016-08-03,Rosenblatt Securities,12 month,3.0,neutral,200.0
+2016-08-03,D.A. Davidson & Co,12 month,3.0,neutral,210.0
+2016-08-05,Longbow Research,Not Provided,5.0,buy,230.0
+2016-08-12,Longbow Research,12 month,5.0,buy,230.0
+2016-08-12,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-08-16,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-08-19,Longbow Research,12 month,5.0,buy,230.0
+2016-08-22,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-08-26,Longbow Research,Not Provided,5.0,buy,230.0
+2016-08-30,Stephens Inc,12 month,5.0,overweight,234.0
+2016-08-30,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-09-01,CJS Securities,18 month,4.0,market outperform,200.0
+2016-09-02,Longbow Research,Not Provided,5.0,buy,230.0
+2016-09-12,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-09-13,Thompson Research Group,Not Provided,5.0,buy,285.0
+2016-09-13,Rosenblatt Securities,12 month,3.0,neutral,192.0
+2016-09-14,Alembic Global Advisors,Not Provided,5.0,overweight,220.0
+2016-09-16,Jefferies,12 month,3.0,hold,166.0
+2016-09-16,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-09-19,Longbow Research,Not Provided,5.0,buy,230.0
+2016-09-19,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-09-20,CJS Securities,18 month,4.0,market outperform,200.0
+2016-09-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-23,Longbow Research,12 month,5.0,buy,230.0
+2016-09-26,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-09-29,CJS Securities,18 month,4.0,market outperform,200.0
+2016-09-29,Stephens Inc,12 month,5.0,overweight,234.0
+2016-09-30,Goldman Sachs,12 month,5.0,buy/attractive,210.0
+2016-10-03,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,170.0
+2016-10-03,Stifel,12 month,5.0,buy,235.0
+2016-10-03,Longbow Research,12 month,5.0,buy,230.0
+2016-10-06,Stephens Inc,12 month,5.0,overweight,220.0
+2016-10-10,SunTrust Robinson Humphrey,Not Provided,3.0,hold,170.0
+2016-10-10,Thompson Research Group,12 month,5.0,buy,285.0
+2016-10-10,Jefferies,12 month,3.0,hold,166.0
+2016-10-10,Goldman Sachs,12 month,3.0,neutral/neutral,202.0
+2016-10-12,Longbow Research,12 month,5.0,buy,220.0
+2016-10-14,CJS Securities,18 month,4.0,market outperform,200.0
+2016-10-14,Thompson Research Group,Not Provided,5.0,buy,285.0
+2016-10-17,SunTrust Robinson Humphrey,Not Provided,3.0,hold,170.0
+2016-10-17,Alembic Global Advisors,18 month,5.0,overweight,220.0
+2016-10-19,Jefferies,12 month,3.0,hold,166.0
+2016-10-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-21,Longbow Research,Not Provided,5.0,buy,220.0
+2016-10-24,SunTrust Robinson Humphrey,Not Provided,3.0,hold,170.0
+2016-10-26,SunTrust Robinson Humphrey,18 month,5.0,buy,206.0
+2016-10-28,Thompson Research Group,Not Provided,5.0,buy,285.0
+2016-10-28,Stephens Inc,12 month,5.0,overweight,220.0
+2016-10-31,D.A. Davidson & Co,12 month,3.0,neutral,210.0
+2016-10-31,Longbow Research,12 month,5.0,buy,220.0
+2016-11-01,Stifel,12 month,5.0,buy,235.0
+2016-11-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-01,Jefferies,Not Provided,3.0,hold,166.0
+2016-11-02,SunTrust Robinson Humphrey,12 month,5.0,buy,206.0
+2016-11-02,D.A. Davidson & Co,12 month,3.0,neutral,204.0
+2016-11-02,Longbow Research,12 month,5.0,buy,220.0
+2016-11-02,CJS Securities,18 month,4.0,market outperform,200.0
+2016-11-02,Alembic Global Advisors,18 month,5.0,overweight,220.0
+2016-11-03,Stephens Inc,12 month,5.0,overweight,220.0
+2016-11-10,Goldman Sachs,12 month,3.0,neutral/neutral,222.0
+2016-11-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-11,Thompson Research Group,12 month,5.0,buy,285.0
+2016-11-11,Longbow Research,12 month,5.0,buy,260.0
+2016-11-14,Jefferies,12 month,3.0,hold,166.0
+2016-11-17,Longbow Research,Not Provided,5.0,buy,260.0
+2016-11-17,SunTrust Robinson Humphrey,Not Provided,5.0,buy,206.0
+2016-11-17,Stephens Inc,12 month,3.0,equalweight,244.0
+2016-11-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-22,Goldman Sachs,12 month,3.0,neutral/neutral,230.0
+2016-11-25,Longbow Research,Not Provided,5.0,buy,260.0
+2016-11-28,SunTrust Robinson Humphrey,Not Provided,5.0,buy,206.0
+2016-11-30,Stephens Inc,12 month,3.0,equalweight,244.0
+2016-12-01,Longbow Research,12 month,5.0,buy,260.0
+2016-12-08,Stifel,Not Provided,5.0,buy,235.0
+2016-12-09,Longbow Research,Not Provided,5.0,buy,260.0
+2016-12-09,D.A. Davidson & Co,Not Provided,3.0,neutral,235.0
+2016-12-14,SunTrust Robinson Humphrey,12 month,5.0,buy,206.0
+2016-12-16,Longbow Research,12 month,5.0,buy,260.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-12-21,Longbow Research,12 month,5.0,buy,260.0
+2017-01-04,"Thompson, Davis & Co",12 month,5.0,buy,270.0
+2017-01-04,Longbow Research,12 month,5.0,buy,260.0
+2017-01-06,Rosenblatt Securities,12 month,5.0,buy,254.0
+2017-01-18,Stifel,Not Provided,5.0,buy,258.0
+2017-01-19,Longbow Research,12 month,5.0,buy,260.0
+2017-01-27,Longbow Research,12 month,5.0,buy,260.0
+2017-01-31,Stephens Inc,12 month,3.0,equalweight,244.0
+2017-02-03,D.A. Davidson & Co,Not Provided,3.0,neutral,235.0
+2017-02-03,Longbow Research,12 month,5.0,buy,260.0
+2017-02-10,Rosenblatt Securities,12 month,5.0,buy,254.0
+2017-02-10,Longbow Research,Not Provided,5.0,buy,260.0
+2017-02-14,Stifel,Not Provided,5.0,buy,258.0
+2017-02-14,Thompson Research Group,12 month,5.0,buy,285.0
+2017-02-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-15,Stephens Inc,12 month,3.0,equalweight,239.0
+2017-02-15,D.A. Davidson & Co,12 month,3.0,neutral,230.0
+2017-02-15,SunTrust Robinson Humphrey,Not Provided,5.0,buy,234.0
+2017-02-15,Alembic Global Advisors,18 month,5.0,overweight,246.0
+2017-02-15,Rosenblatt Securities,12 month,5.0,buy,254.0
+2017-02-15,CJS Securities,12 month,4.0,market outperform,230.0
+2017-02-17,Longbow Research,Not Provided,5.0,buy,260.0
+2017-03-02,Rosenblatt Securities,12 month,5.0,buy,254.0
+2017-03-03,Longbow Research,Not Provided,5.0,buy,260.0
+2017-03-06,D.A. Davidson & Co,Not Provided,3.0,neutral,230.0
+2017-03-10,Longbow Research,12 month,5.0,buy,260.0
+2017-03-20,Longbow Research,Not Provided,5.0,buy,260.0
+2017-03-20,D.A. Davidson & Co,Not Provided,3.0,neutral,230.0
+2017-03-24,Longbow Research,Not Provided,5.0,buy,260.0
+2017-03-31,Longbow Research,Not Provided,5.0,buy,260.0
+2017-04-03,CJS Securities,12 month,4.0,market outperform,230.0
+2017-04-04,D.A. Davidson & Co,Not Provided,3.0,neutral,230.0
+2017-04-05,Longbow Research,Not Provided,5.0,buy,260.0
+2017-04-11,Alembic Global Advisors,18 month,5.0,overweight,246.0
+2017-04-12,Thompson Research Group,12 month,5.0,buy,285.0
+2017-04-18,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2017-04-21,Stifel,12 month,5.0,buy,258.0
+2017-04-25,Longbow Research,12 month,5.0,buy,260.0
+2017-05-01,SunTrust Robinson Humphrey,12 month,5.0,buy,234.0
+2017-05-02,Stephens Inc,12 month,3.0,equalweight,246.0
+2017-05-02,Thompson Research Group,12 month,5.0,buy,285.0
+2017-05-02,D.A. Davidson & Co,12 month,3.0,neutral,240.0
+2017-05-02,Stifel,12 month,5.0,buy,265.0
+2017-05-02,Longbow Research,Not Provided,5.0,buy,260.0
+2017-05-02,"Thompson, Davis & Co",12 month,5.0,buy,265.0
+2017-05-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-03,Stephens Inc,12 month,3.0,equalweight,250.0
+2017-05-03,CJS Securities,12 month,4.0,market outperform,245.0
+2017-05-03,Alembic Global Advisors,18 month,5.0,overweight,256.0
+2017-05-03,SunTrust Robinson Humphrey,Not Provided,5.0,buy,234.0
+2017-05-05,Longbow Research,12 month,5.0,buy,260.0
+2017-05-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-14,SunTrust Robinson Humphrey,12 month,5.0,buy,260.0
+2017-05-15,Longbow Research,12 month,5.0,buy,260.0

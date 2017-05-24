@@ -1,0 +1,340 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2016-02-19,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-03-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-03-10,Evercore ISI,12 month,5.0,buy,225.0
+2016-03-10,Raymond James,12 month,5.0,strong buy,215.0
+2016-03-10,RBC Capital Markets,12 month,3.0,sector perform,180.0
+2016-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-03-11,Goldman Sachs,12 month,3.0,neutral/neutral,202.0
+2016-03-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-03-14,Johnson Rice & Co,Not Provided,3.0,hold,-0.0
+2016-03-28,Baird,Not Provided,5.0,outperform,215.0
+2016-03-28,Telsey Advisory Group,12 month,5.0,outperform,215.0
+2016-03-29,Nomura,12 month,5.0,buy,189.0
+2016-03-30,Morgan Stanley,12 month,3.0,Equalwt/In-Line,205.0
+2016-03-31,Jefferies,Not Provided,3.0,hold,180.0
+2016-04-05,Oppenheimer & Co,12 month,5.0,outperform,225.0
+2016-04-06,KeyBanc Capital Markets,12 month,5.0,overweight,220.0
+2016-04-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-12,Piper Jaffray,12 month,5.0,overweight,220.0
+2016-04-13,Buckingham Research Group,12 month,5.0,buy,225.0
+2016-04-15,J.P. Morgan,9 month,5.0,overweight,231.0
+2016-04-18,Wolfe Research,Not Provided,5.0,outperform,210.0
+2016-04-18,Cowen,Not Provided,5.0,outperform,206.0
+2016-04-19,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2016-05-02,Nomura,12 month,5.0,buy,215.0
+2016-05-02,Baird,Not Provided,5.0,outperform,215.0
+2016-05-02,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-05-03,J.P. Morgan,12 month,5.0,overweight,231.0
+2016-05-06,Buckingham Research Group,Not Provided,5.0,buy,225.0
+2016-05-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-05-16,J.P. Morgan,9 month,5.0,overweight,231.0
+2016-05-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-05-16,Consumer Edge Research,Not Provided,3.0,equalweight,-0.0
+2016-05-23,Telsey Advisory Group,12 month,5.0,outperform,240.0
+2016-05-23,KeyBanc Capital Markets,Not Provided,5.0,overweight,220.0
+2016-05-23,Johnson Rice & Co,Not Provided,3.0,hold,-0.0
+2016-05-23,Oppenheimer & Co,12 month,5.0,outperform,235.0
+2016-05-24,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-05-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-24,Baird,12 month,5.0,outperform,225.0
+2016-05-24,Wolfe Research,12 month,5.0,outperform,210.0
+2016-05-26,Oppenheimer & Co,18 month,5.0,outperform,260.0
+2016-05-26,Wolfe Research,12 month,5.0,outperform,267.0
+2016-05-26,Evercore ISI,12 month,5.0,buy,280.0
+2016-05-26,RBC Capital Markets,12 month,3.0,sector perform,225.0
+2016-05-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-05-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-05-26,Cowen,12 month,5.0,outperform,246.0
+2016-05-26,KeyBanc Capital Markets,12 month,5.0,overweight,250.0
+2016-05-26,Consumer Edge Research,Not Provided,3.0,equalweight,-0.0
+2016-05-27,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2016-05-27,Goldman Sachs,12 month,3.0,neutral/neutral,227.0
+2016-05-27,Nomura,12 month,5.0,buy,244.0
+2016-05-27,Piper Jaffray,12 month,5.0,overweight,235.0
+2016-05-27,Buckingham Research Group,12 month,5.0,buy,285.0
+2016-05-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-27,Johnson Rice & Co,Not Provided,3.0,hold,-0.0
+2016-05-27,Morgan Stanley,12 month,3.0,Equalwt/In-Line,230.0
+2016-05-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-27,Jefferies,12 month,3.0,hold,215.0
+2016-05-27,Telsey Advisory Group,12 month,5.0,outperform,265.0
+2016-05-31,J.P. Morgan,12 month,5.0,overweight,245.0
+2016-06-01,Baird,Not Provided,5.0,outperform,255.0
+2016-06-03,Cowen,12 month,5.0,outperform,246.0
+2016-06-06,Telsey Advisory Group,12 month,5.0,outperform,265.0
+2016-06-07,Piper Jaffray,12 month,5.0,overweight,235.0
+2016-06-13,Consumer Edge Research,Not Provided,3.0,equalweight,-0.0
+2016-06-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-15,Piper Jaffray,12 month,5.0,overweight,235.0
+2016-06-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-06-17,Consumer Edge Research,Not Provided,3.0,equalweight,-0.0
+2016-06-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-06-22,Jefferies,12 month,3.0,hold,215.0
+2016-06-24,Cowen,12 month,5.0,outperform,246.0
+2016-06-24,Piper Jaffray,Not Provided,5.0,overweight,250.0
+2016-06-24,Consumer Edge Research,Not Provided,3.0,equalweight,-0.0
+2016-06-28,J.P. Morgan,12 month,5.0,overweight,245.0
+2016-06-29,Baird,Not Provided,5.0,outperform,255.0
+2016-06-30,Wolfe Research,Not Provided,5.0,outperform,267.0
+2016-07-01,Wolfe Research,12 month,5.0,outperform,267.0
+2016-07-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-07-05,Nomura,12 month,5.0,buy,244.0
+2016-07-06,Cowen,Not Provided,5.0,outperform,246.0
+2016-07-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-07-11,Telsey Advisory Group,Not Provided,5.0,outperform,265.0
+2016-07-11,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-13,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-07-21,Buckingham Research Group,12 month,5.0,buy,285.0
+2016-07-26,J.P. Morgan,12 month,5.0,overweight,245.0
+2016-07-28,Baird,12 month,5.0,outperform,255.0
+2016-07-29,Evercore ISI,12 month,5.0,buy,280.0
+2016-08-01,KeyBanc Capital Markets,12 month,5.0,overweight,300.0
+2016-08-02,Oppenheimer & Co,12 month,5.0,outperform,300.0
+2016-08-03,Baird,Not Provided,5.0,outperform,280.0
+2016-08-04,Cowen,Not Provided,5.0,outperform,265.0
+2016-08-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-08-08,Buckingham Research Group,Not Provided,5.0,buy,285.0
+2016-08-12,Piper Jaffray,12 month,5.0,overweight,250.0
+2016-08-15,Cowen,12 month,5.0,outperform,265.0
+2016-08-15,RBC Capital Markets,12 month,3.0,sector perform,225.0
+2016-08-17,Piper Jaffray,12 month,5.0,overweight,250.0
+2016-08-19,Johnson Rice & Co,Not Provided,3.0,hold,-0.0
+2016-08-19,Buckingham Research Group,12 month,5.0,buy,285.0
+2016-08-22,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-08-25,Wolfe Research,12 month,5.0,outperform,326.0
+2016-08-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-08-25,Cowen,12 month,5.0,outperform,286.0
+2016-08-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-08-25,Consumer Edge Research,Not Provided,3.0,equalweight,-0.0
+2016-08-25,J.P. Morgan,6 month,5.0,overweight,290.0
+2016-08-25,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-25,Johnson Rice & Co,Not Provided,3.0,hold,-0.0
+2016-08-25,KeyBanc Capital Markets,12 month,5.0,overweight,300.0
+2016-08-25,Evercore ISI,12 month,5.0,buy,350.0
+2016-08-25,Oppenheimer & Co,12 month,5.0,outperform,300.0
+2016-08-25,Stifel,Not Provided,3.0,hold,-0.0
+2016-08-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-08-26,Goldman Sachs,12 month,3.0,neutral/neutral,259.0
+2016-08-26,Nomura,12 month,5.0,buy,287.0
+2016-08-26,Morgan Stanley,12 month,3.0,Equalwt/In-Line,250.0
+2016-08-26,Telsey Advisory Group,12 month,5.0,outperform,300.0
+2016-08-26,Piper Jaffray,Not Provided,5.0,overweight,290.0
+2016-08-26,Buckingham Research Group,12 month,5.0,buy,325.0
+2016-08-26,Baird,12 month,5.0,outperform,305.0
+2016-08-26,Jefferies,12 month,3.0,hold,255.0
+2016-08-28,RBC Capital Markets,12 month,3.0,sector perform,270.0
+2016-08-29,Baird,12 month,5.0,outperform,305.0
+2016-08-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-01,Jefferies,Not Provided,3.0,hold,255.0
+2016-09-12,Cowen,Not Provided,5.0,outperform,286.0
+2016-09-14,Buckingham Research Group,12 month,5.0,buy,325.0
+2016-09-19,Jefferies,Not Provided,3.0,hold,255.0
+2016-09-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-09-20,J.P. Morgan,12 month,5.0,overweight,290.0
+2016-09-22,Wolfe Research,12 month,5.0,outperform,326.0
+2016-09-26,Buckingham Research Group,12 month,5.0,buy,325.0
+2016-09-27,Wolfe Research,12 month,5.0,outperform,326.0
+2016-09-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-29,Stifel,12 month,3.0,hold,260.0
+2016-09-30,Baird,Not Provided,5.0,outperform,305.0
+2016-10-02,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-10-03,Oppenheimer & Co,12 month,5.0,outperform,300.0
+2016-10-06,Telsey Advisory Group,12 month,5.0,outperform,300.0
+2016-10-09,KeyBanc Capital Markets,12 month,5.0,overweight,300.0
+2016-10-10,Stifel,12 month,3.0,hold,277.0
+2016-10-10,Baird,12 month,5.0,outperform,305.0
+2016-10-13,Stifel,12 month,3.0,hold,277.0
+2016-10-13,KeyBanc Capital Markets,12 month,5.0,overweight,300.0
+2016-10-13,RBC Capital Markets,12 month,3.0,sector perform,270.0
+2016-10-13,Oppenheimer & Co,12 month,5.0,outperform,300.0
+2016-10-13,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-10-13,Cowen,12 month,5.0,outperform,286.0
+2016-10-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-10-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-14,Baird,12 month,5.0,outperform,305.0
+2016-10-14,J.P. Morgan,18 month,5.0,overweight,310.0
+2016-10-14,Wolfe Research,12 month,5.0,outperform,333.0
+2016-10-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-14,Nomura,12 month,5.0,buy,287.0
+2016-10-14,Piper Jaffray,12 month,5.0,overweight,290.0
+2016-10-14,Johnson Rice & Co,Not Provided,3.0,hold,-0.0
+2016-10-14,Jefferies,12 month,3.0,hold,255.0
+2016-10-14,Morgan Stanley,12 month,3.0,Equalwt/In-Line,280.0
+2016-10-14,Buckingham Research Group,12 month,5.0,buy,325.0
+2016-10-17,Telsey Advisory Group,Not Provided,5.0,outperform,310.0
+2016-10-17,Evercore ISI,12 month,5.0,buy,350.0
+2016-10-17,Goldman Sachs,12 month,3.0,neutral/neutral,270.0
+2016-10-17,Consumer Edge Research,Not Provided,3.0,equalweight,-0.0
+2016-10-18,J.P. Morgan,12 month,5.0,overweight,310.0
+2016-10-26,Telsey Advisory Group,Not Provided,5.0,outperform,310.0
+2016-10-31,Baird,12 month,5.0,outperform,305.0
+2016-10-31,Buckingham Research Group,Not Provided,5.0,buy,325.0
+2016-10-31,Cowen,Not Provided,5.0,outperform,286.0
+2016-10-31,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-11-01,Piper Jaffray,12 month,5.0,overweight,290.0
+2016-11-07,Baird,Not Provided,5.0,outperform,305.0
+2016-11-08,Jefferies,Not Provided,3.0,hold,255.0
+2016-11-09,Wolfe Research,Not Provided,5.0,outperform,333.0
+2016-11-10,Oppenheimer & Co,12 month,5.0,outperform,300.0
+2016-11-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-11-15,Nomura Instinet,12 month,5.0,buy,287.0
+2016-11-15,J.P. Morgan,12 month,5.0,overweight,310.0
+2016-11-16,RBC Capital Markets,12 month,3.0,sector perform,270.0
+2016-11-18,Buckingham Research Group,Not Provided,5.0,buy,325.0
+2016-11-22,KeyBanc Capital Markets,Not Provided,5.0,overweight,300.0
+2016-11-23,Telsey Advisory Group,Not Provided,5.0,outperform,310.0
+2016-11-28,Buckingham Research Group,Not Provided,5.0,buy,325.0
+2016-11-28,Johnson Rice & Co,Not Provided,3.0,hold,-0.0
+2016-11-28,Nomura Instinet,12 month,5.0,buy,287.0
+2016-11-28,Consumer Edge Research,Not Provided,3.0,equalweight,-0.0
+2016-11-29,Baird,12 month,5.0,outperform,305.0
+2016-11-30,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-12-01,Stifel,12 month,3.0,hold,290.0
+2016-12-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-12-01,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-01,RBC Capital Markets,12 month,3.0,sector perform,278.0
+2016-12-01,Wolfe Research,12 month,5.0,outperform,334.0
+2016-12-01,Cowen,12 month,5.0,outperform,296.0
+2016-12-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-12-01,Evercore ISI,12 month,5.0,buy,350.0
+2016-12-01,KeyBanc Capital Markets,Not Provided,5.0,overweight,310.0
+2016-12-01,Johnson Rice & Co,Not Provided,3.0,hold,-0.0
+2016-12-02,Jefferies,Not Provided,3.0,hold,270.0
+2016-12-02,Goldman Sachs,12 month,3.0,neutral/neutral,290.0
+2016-12-02,Buckingham Research Group,12 month,5.0,buy,325.0
+2016-12-02,Oppenheimer & Co,12 month,5.0,outperform,300.0
+2016-12-02,Baird,12 month,5.0,outperform,315.0
+2016-12-02,J.P. Morgan,12 month,5.0,overweight,310.0
+2016-12-02,Consumer Edge Research,Not Provided,3.0,equalweight,-0.0
+2016-12-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,280.0
+2016-12-02,Nomura Instinet,12 month,5.0,buy,294.0
+2016-12-02,Telsey Advisory Group,Not Provided,5.0,outperform,310.0
+2016-12-02,Piper Jaffray,12 month,5.0,overweight,290.0
+2016-12-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-12-07,Buckingham Research Group,Not Provided,5.0,buy,325.0
+2016-12-08,Oppenheimer & Co,12 month,5.0,outperform,300.0
+2016-12-12,Wolfe Research,12 month,5.0,outperform,334.0
+2016-12-13,J.P. Morgan,12 month,5.0,overweight,310.0
+2016-12-15,RBC Capital Markets,12 month,3.0,sector perform,278.0
+2016-12-15,Baird,12 month,5.0,outperform,315.0
+2016-12-15,BMO Capital Markets,Not Provided,5.0,outperform,295.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-12-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-12-19,Wolfe Research,Not Provided,5.0,outperform,334.0
+2016-12-19,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-20,Stifel,12 month,3.0,hold,290.0
+2016-12-23,Baird,12 month,5.0,outperform,315.0
+2016-12-27,Telsey Advisory Group,12 month,5.0,outperform,310.0
+2016-12-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-01-02,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-01-03,Jefferies,Not Provided,3.0,hold,270.0
+2017-01-03,Baird,Not Provided,5.0,outperform,315.0
+2017-01-04,Buckingham Research Group,Not Provided,5.0,buy,325.0
+2017-01-09,Nomura Instinet,Not Provided,5.0,buy,294.0
+2017-01-10,J.P. Morgan,12 month,5.0,overweight,310.0
+2017-01-11,Oppenheimer & Co,12 month,5.0,outperform,300.0
+2017-01-12,Buckingham Research Group,Not Provided,5.0,buy,325.0
+2017-01-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,290.0
+2017-01-17,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-01-17,Cowen,Not Provided,5.0,outperform,296.0
+2017-01-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-01-25,Telsey Advisory Group,Not Provided,5.0,outperform,320.0
+2017-01-25,Buckingham Research Group,Not Provided,5.0,buy,325.0
+2017-01-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-01-31,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-01-31,Morgan Stanley,12 month,3.0,Equalwt/In-Line,290.0
+2017-01-31,Goldman Sachs,12 month,3.0,neutral/neutral,290.0
+2017-02-01,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-02-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-02,BMO Capital Markets,Not Provided,5.0,outperform,295.0
+2017-02-07,J.P. Morgan,12 month,5.0,overweight,310.0
+2017-02-08,Loop Capital Markets,12 month,3.0,hold,285.0
+2017-02-09,Piper Jaffray,12 month,5.0,overweight,290.0
+2017-02-10,Buckingham Research Group,Not Provided,5.0,buy,325.0
+2017-02-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-02-14,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-02-15,Loop Capital Markets,12 month,3.0,hold,285.0
+2017-02-21,Consumer Edge Research,12 month,3.0,equalweight,245.0
+2017-02-27,Jefferies,Not Provided,3.0,hold,270.0
+2017-03-02,Telsey Advisory Group,Not Provided,5.0,outperform,320.0
+2017-03-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-03-02,Evercore ISI,Not Provided,5.0,outperform,350.0
+2017-03-03,Wolfe Research,12 month,5.0,outperform,334.0
+2017-03-06,Loop Capital Markets,12 month,3.0,hold,285.0
+2017-03-06,Baird,12 month,5.0,outperform,315.0
+2017-03-06,Oppenheimer & Co,12 month,5.0,outperform,315.0
+2017-03-06,Consumer Edge Research,12 month,3.0,equalweight,245.0
+2017-03-06,KeyBanc Capital Markets,Not Provided,5.0,overweight,310.0
+2017-03-07,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-03-09,Stifel,12 month,3.0,hold,290.0
+2017-03-09,Consumer Edge Research,12 month,3.0,equalweight,245.0
+2017-03-09,Wolfe Research,12 month,5.0,outperform,334.0
+2017-03-09,Oppenheimer & Co,12 month,5.0,outperform,315.0
+2017-03-09,Baird,12 month,5.0,outperform,315.0
+2017-03-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-03-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-03-09,BMO Capital Markets,Not Provided,5.0,outperform,295.0
+2017-03-09,Piper Jaffray,12 month,5.0,overweight,290.0
+2017-03-09,Nomura Instinet,12 month,5.0,buy,297.0
+2017-03-10,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,300.0
+2017-03-10,Goldman Sachs,12 month,3.0,neutral/neutral,311.0
+2017-03-10,Jefferies,12 month,3.0,hold,266.0
+2017-03-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-03-10,Loop Capital Markets,12 month,3.0,hold,285.0
+2017-03-10,J.P. Morgan,9 month,5.0,overweight,310.0
+2017-03-10,Telsey Advisory Group,Not Provided,5.0,outperform,320.0
+2017-03-10,KeyBanc Capital Markets,Not Provided,5.0,overweight,310.0
+2017-03-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-10,Buckingham Research Group,12 month,5.0,buy,325.0
+2017-03-10,RBC Capital Markets,12 month,3.0,sector perform,285.0
+2017-03-10,Cowen,12 month,5.0,outperform,311.0
+2017-03-13,Evercore ISI,12 month,5.0,outperform,350.0
+2017-03-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-03-20,Telsey Advisory Group,12 month,5.0,outperform,320.0
+2017-03-20,KeyBanc Capital Markets,12 month,5.0,overweight,310.0
+2017-03-20,Nomura Instinet,12 month,5.0,buy,320.0
+2017-03-20,Buckingham Research Group,12 month,5.0,buy,325.0
+2017-03-21,KeyBanc Capital Markets,12 month,5.0,overweight,310.0
+2017-03-22,Baird,Not Provided,5.0,outperform,315.0
+2017-03-23,Telsey Advisory Group,12 month,5.0,outperform,320.0
+2017-03-26,Consumer Edge Research,12 month,3.0,equalweight,245.0
+2017-03-29,Cowen,Not Provided,5.0,outperform,311.0
+2017-03-30,Baird,12 month,5.0,outperform,315.0
+2017-04-03,Evercore ISI,Not Provided,5.0,long,-0.0
+2017-04-04,Evercore ISI,Not Provided,5.0,long,-0.0
+2017-04-04,Consumer Edge Research,12 month,3.0,equalweight,245.0
+2017-04-06,J.P. Morgan,9 month,5.0,overweight,310.0
+2017-04-06,Cowen,Not Provided,5.0,outperform,311.0
+2017-04-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-10,KeyBanc Capital Markets,Not Provided,5.0,overweight,310.0
+2017-04-10,Buckingham Research Group,12 month,5.0,buy,325.0
+2017-04-10,Loop Capital Markets,12 month,5.0,buy,350.0
+2017-04-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-04-18,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-04-24,Consumer Edge Research,12 month,3.0,equalweight,245.0
+2017-05-01,Baird,Not Provided,5.0,outperform,315.0
+2017-05-01,Buckingham Research Group,12 month,5.0,buy,325.0
+2017-05-01,Consumer Edge Research,12 month,3.0,equalweight,245.0
+2017-05-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-02,Piper Jaffray,12 month,5.0,overweight,314.0
+2017-05-02,J.P. Morgan,9 month,5.0,overweight,310.0
+2017-05-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-05-11,Loop Capital Markets,12 month,5.0,buy,350.0
+2017-05-12,BMO Capital Markets,Not Provided,5.0,outperform,295.0
+2017-05-12,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-05-15,Cowen,Not Provided,5.0,outperform,311.0
+2017-05-15,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-05-16,Oppenheimer & Co,12 month,5.0,outperform,330.0
+2017-05-18,Loop Capital Markets,12 month,5.0,buy,350.0
+2017-05-18,Piper Jaffray,12 month,5.0,overweight,314.0
+2017-05-19,J.P. Morgan,9 month,5.0,overweight,310.0
+2017-05-21,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-05-22,Telsey Advisory Group,12 month,5.0,outperform,320.0
+2017-05-22,Consumer Edge Research,12 month,3.0,equalweight,245.0
+2017-05-23,RBC Capital Markets,12 month,3.0,sector perform,300.0

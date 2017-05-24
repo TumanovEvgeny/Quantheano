@@ -1,0 +1,188 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2005-07-05,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2005-07-27,Cowen,Not Provided,-2147483648.0,no rating system,-0.0
+2005-09-15,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2005-10-13,J.P. Morgan,Not Provided,1.0,underweight,-0.0
+2005-11-27,UBS,12 month,2.0,reduce 1,21.0
+2005-12-02,Barclays,12 month,3.0,equalwt/positive,24.5
+2005-12-09,Thomas Weisel Partners,Not Provided,1.0,underperform,-0.0
+2005-12-27,Piper Jaffray,Not Provided,3.0,market perform,26.0
+2005-12-28,Baird,Not Provided,3.0,neutral,24.0
+2006-01-10,UBS,12 month,2.0,reduce 1,24.0
+2006-01-11,Baird,Not Provided,3.0,neutral,24.0
+2006-01-25,Thomas Weisel Partners,Not Provided,1.0,underperform,-0.0
+2006-01-25,UBS,12 month,2.0,reduce 1,25.0
+2006-01-25,Piper Jaffray,Not Provided,3.0,market perform,27.0
+2006-01-25,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2006-01-25,Cowen,Not Provided,-2147483648.0,no rating system,-0.0
+2006-01-26,Baird,Not Provided,3.0,neutral,27.0
+2006-02-10,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2006-02-21,Cowen,Not Provided,3.0,neutral,-0.0
+2006-04-11,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2006-04-27,Piper Jaffray,Not Provided,5.0,outperform,33.0
+2006-04-27,Cowen,Not Provided,3.0,neutral,-0.0
+2006-04-27,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2006-04-28,Baird,Not Provided,3.0,neutral,30.0
+2006-04-28,UBS,12 month,2.0,reduce 1,26.0
+2006-05-01,Gleacher & Company,12 month,5.0,buy,33.0
+2006-05-01,Barclays,12 month,3.0,equalwt/positive,26.5
+2006-05-24,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-05-31,Baird,Not Provided,3.0,neutral,30.0
+2006-05-31,Piper Jaffray,Not Provided,5.0,outperform,34.0
+2006-06-19,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-06-23,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-06-29,Gleacher & Company,Not Provided,3.0,hold,33.0
+2006-07-05,Piper Jaffray,Not Provided,5.0,outperform,34.0
+2006-07-07,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2006-07-11,UBS,12 month,2.0,reduce 1,28.0
+2006-07-27,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-07-27,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2006-07-27,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2006-07-27,Piper Jaffray,Not Provided,3.0,market perform,34.0
+2006-07-28,Barclays,12 month,3.0,equalwt/positive,28.5
+2006-07-28,Baird,Not Provided,3.0,neutral,30.0
+2006-08-07,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-08-14,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-08-21,Gleacher & Company,Not Provided,3.0,hold,33.0
+2006-08-30,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-09-05,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-09-08,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-09-15,Gleacher & Company,Not Provided,3.0,neutral,33.0
+2006-09-19,Wall Street Access,Not Provided,2.0,reduce,34.0
+2006-09-19,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2006-09-21,Baird,Not Provided,3.0,neutral,33.0
+2006-09-21,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-09-21,UBS,12 month,2.0,reduce 1,28.0
+2006-09-21,Cowen,Not Provided,3.0,neutral,-0.0
+2006-09-21,Piper Jaffray,Not Provided,3.0,market perform,34.0
+2006-09-27,UBS,12 month,2.0,reduce 1,30.0
+2006-10-25,Cowen,Not Provided,3.0,neutral,-0.0
+2006-10-25,Piper Jaffray,Not Provided,3.0,market perform,36.0
+2006-10-25,Thomas Weisel Partners,Not Provided,5.0,outperform,-0.0
+2006-10-25,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2006-10-25,UBS,Not Provided,3.0,neutral 1,36.0
+2006-10-26,Baird,Not Provided,3.0,neutral,38.0
+2006-10-26,Wall Street Access,Not Provided,2.0,reduce,38.0
+2006-10-26,Barclays,12 month,3.0,equalwt/positive,31.0
+2006-11-07,UBS,Not Provided,3.0,neutral 1,39.5
+2006-11-08,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2006-11-10,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2006-11-16,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2006-11-20,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2006-12-02,UBS,Not Provided,3.0,neutral 1,39.0
+2006-12-05,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2006-12-08,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-01-08,Cowen,Not Provided,3.0,neutral,-0.0
+2007-01-16,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2007-01-25,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2007-01-25,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2007-01-25,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2007-01-26,Baird,Not Provided,3.0,neutral,38.0
+2007-01-26,Gleacher & Company,Not Provided,3.0,neutral,37.0
+2007-01-26,Piper Jaffray,Not Provided,3.0,market perform,37.0
+2007-01-30,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2007-02-21,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2007-03-14,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-03-16,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2007-03-16,Gleacher & Company,Not Provided,5.0,buy,37.0
+2007-03-19,UBS,12 month,5.0,buy 2,39.0
+2007-03-26,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2007-04-09,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2007-04-17,Gleacher & Company,Not Provided,5.0,buy,37.0
+2007-04-23,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2007-04-24,Gleacher & Company,Not Provided,5.0,buy,37.0
+2007-04-26,Piper Jaffray,Not Provided,3.0,market perform,35.0
+2007-04-26,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2007-04-27,UBS,12 month,5.0,buy,39.0
+2007-04-27,Baird,Not Provided,3.0,neutral,35.0
+2007-04-30,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2007-05-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-05-17,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2007-05-29,Thomas Weisel Partners,Not Provided,5.0,overweight,-0.0
+2007-06-04,Gleacher & Company,Not Provided,5.0,buy,37.0
+2007-06-11,Thomas Weisel Partners,Not Provided,5.0,overweight,33.0
+2007-06-19,Thomas Weisel Partners,Not Provided,5.0,overweight,33.0
+2007-06-25,Baird,Not Provided,5.0,outperform,36.0
+2007-07-02,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-07-23,Barclays,12 month,3.0,equalwt/positive,34.0
+2007-07-25,Piper Jaffray,Not Provided,3.0,market perform,35.0
+2007-07-25,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2007-07-25,Thomas Weisel Partners,Not Provided,5.0,overweight,39.0
+2007-07-26,Cowen,Not Provided,3.0,neutral,-0.0
+2007-07-26,Baird,Not Provided,5.0,outperform,40.0
+2007-08-07,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2007-08-09,Thomas Weisel Partners,Not Provided,5.0,overweight,39.0
+2007-08-09,UBS,12 month,5.0,buy,39.0
+2007-08-10,Baird,Not Provided,5.0,outperform,40.0
+2007-08-16,Thomas Weisel Partners,Not Provided,5.0,overweight,39.0
+2007-09-04,Baird,Not Provided,5.0,outperform,41.0
+2007-09-07,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2007-09-07,Thomas Weisel Partners,Not Provided,5.0,overweight,39.0
+2007-09-18,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-10-05,Piper Jaffray,Not Provided,3.0,market perform,41.0
+2007-10-17,Barclays,12 month,3.0,equalwt/positive,37.0
+2007-10-17,UBS,12 month,5.0,buy,41.0
+2007-10-18,Cowen,Not Provided,3.0,neutral,-0.0
+2007-10-24,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2007-10-25,Piper Jaffray,Not Provided,3.0,market perform,41.0
+2007-10-25,Baird,Not Provided,5.0,outperform,41.0
+2007-10-25,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2007-10-25,Cowen,Not Provided,3.0,neutral,-0.0
+2007-10-26,Piper Jaffray,Not Provided,3.0,market perform,41.0
+2007-11-08,Thomas Weisel Partners,Not Provided,5.0,overweight,39.0
+2007-11-13,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2007-11-15,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-11-20,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-11-29,Thomas Weisel Partners,Not Provided,5.0,overweight,39.0
+2007-12-20,Wall Street Access,Not Provided,5.0,buy,41.0
+2007-12-20,Baird,Not Provided,5.0,outperform,41.0
+2008-01-21,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2008-01-23,Piper Jaffray,Not Provided,3.0,neutral,37.0
+2008-01-24,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2008-01-25,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-01-25,Baird,Not Provided,5.0,outperform,41.0
+2008-01-25,Piper Jaffray,Not Provided,5.0,overweight,38.0
+2008-01-25,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2008-02-05,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2008-02-29,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2008-04-18,Baird,Not Provided,5.0,outperform,41.0
+2008-04-20,UBS,12 month,5.0,buy,39.0
+2008-04-24,Piper Jaffray,Not Provided,5.0,overweight,38.0
+2008-04-24,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2008-04-25,Baird,Not Provided,5.0,outperform,40.0
+2008-04-25,Thomas Weisel Partners,Not Provided,5.0,overweight,39.0
+2008-04-25,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2008-04-25,Cowen,Not Provided,3.0,neutral,-0.0
+2008-04-28,UBS,12 month,5.0,buy,37.0
+2008-05-22,Cowen,Not Provided,3.0,neutral,-0.0
+2008-05-30,Leerink Partners LLC,Not Provided,5.0,outperform,-0.0
+2008-06-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-06-03,Piper Jaffray,Not Provided,5.0,overweight,38.0
+2008-06-04,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2008-06-06,Cowen,Not Provided,3.0,neutral,-0.0
+2008-06-12,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2008-06-12,Piper Jaffray,Not Provided,3.0,neutral,38.0
+2008-06-13,Thomas Weisel Partners,Not Provided,-2147483648.0,suspended coverage,-0.0
+2008-06-13,Wall Street Access,Not Provided,3.0,hold,38.0
+2008-06-13,Cowen,Not Provided,3.0,neutral,-0.0
+2008-06-13,UBS,12 month,3.0,neutral,38.0
+2008-06-16,Leerink Partners LLC,Not Provided,-2147483648.0,not rated,-0.0
+2008-07-16,Thomas Weisel Partners,Not Provided,-2147483648.0,suspended coverage,-0.0
+2008-07-24,Thomas Weisel Partners,Not Provided,-2147483648.0,suspended coverage,-0.0
+2008-07-24,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2008-07-24,Piper Jaffray,Not Provided,3.0,neutral,38.0
+2008-07-25,UBS,12 month,3.0,neutral,38.0
+2008-07-25,Cowen,Not Provided,3.0,neutral,-0.0
+2008-07-26,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2008-09-24,Barclays,Not Provided,3.0,equalwt/positive,37.0
+2008-09-25,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2008-10-16,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-10-19,First Analysis Corp,Not Provided,3.0,equalweight,45.0
+2008-10-22,Piper Jaffray,12 month,3.0,neutral,38.0
+2008-10-22,Thomas Weisel Partners,Not Provided,-2147483648.0,suspended coverage,-0.0
+2008-10-22,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2008-10-23,Cowen,Not Provided,3.0,neutral,-0.0
+2008-10-23,UBS,12 month,3.0,neutral,38.0
+2008-10-27,Thomas Weisel Partners,Not Provided,-2147483648.0,suspended coverage,-0.0
+2008-11-04,Thomas Weisel Partners,Not Provided,-2147483648.0,suspended coverage,-0.0
+2008-11-17,Thomas Weisel Partners,Not Provided,-2147483648.0,suspended coverage,-0.0

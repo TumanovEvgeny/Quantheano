@@ -1,0 +1,392 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2014-04-28,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-07-27,UBS,12 month,5.0,buy,80.0
+2016-02-09,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-02-09,Cantor Fitzgerald,12 month,5.0,buy,90.0
+2016-02-09,Wedbush,12 month,5.0,outperform,80.0
+2016-02-11,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-02-12,Jefferies,12 month,5.0,buy,80.0
+2016-03-03,Barclays,Not Provided,3.0,equalweight,64.0
+2016-03-22,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-03-22,Credit Suisse,Not Provided,5.0,outperform,74.0
+2016-03-22,Leerink Partners LLC,12 month,5.0,outperform,78.0
+2016-03-22,FBR Capital Markets,12 month,5.0,outperform,90.0
+2016-03-23,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2016-03-23,BMO Capital Markets,Not Provided,5.0,outperform,78.0
+2016-03-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-03-28,Oppenheimer & Co,12 month,5.0,outperform,89.0
+2016-03-28,Sterne Agee CRT,12 month,5.0,buy,88.0
+2016-03-30,Stifel,Not Provided,3.0,hold,-0.0
+2016-03-30,Goldman Sachs,12 month,1.0,Sell/Neutral,62.0
+2016-04-04,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-04-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-05,Jefferies,12 month,5.0,buy,80.0
+2016-04-06,Credit Suisse,Not Provided,5.0,outperform,74.0
+2016-04-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-07,Wedbush,Not Provided,5.0,outperform,80.0
+2016-04-12,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-04-15,Sterne Agee CRT,12 month,5.0,buy,88.0
+2016-04-15,Jefferies,12 month,5.0,buy,80.0
+2016-04-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-19,FBR Capital Markets,Not Provided,5.0,outperform,90.0
+2016-04-19,Leerink Partners LLC,12 month,5.0,outperform,78.0
+2016-04-26,FBR Capital Markets,12 month,5.0,outperform,90.0
+2016-04-26,Credit Suisse,Not Provided,5.0,outperform,78.0
+2016-04-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-26,Cowen,12 month,5.0,outperform,70.0
+2016-04-26,Wedbush,12 month,5.0,outperform,80.0
+2016-04-26,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-04-26,Sterne Agee CRT,12 month,5.0,buy,88.0
+2016-04-26,BMO Capital Markets,Not Provided,5.0,outperform,78.0
+2016-04-26,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-04-26,Jefferies,12 month,5.0,buy,80.0
+2016-04-27,Barclays,Not Provided,3.0,equalweight,76.0
+2016-04-27,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-27,Oppenheimer & Co,12 month,5.0,outperform,89.0
+2016-04-27,Leerink Partners LLC,12 month,5.0,outperform,78.0
+2016-04-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-27,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2016-04-27,Goldman Sachs,12 month,1.0,Sell/Neutral,65.0
+2016-04-27,Cantor Fitzgerald,12 month,5.0,buy,90.0
+2016-04-28,Cowen,12 month,5.0,outperform,70.0
+2016-04-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-02,Wedbush,12 month,5.0,outperform,80.0
+2016-05-03,FBR Capital Markets,Not Provided,5.0,outperform,90.0
+2016-05-04,Sterne Agee CRT,12 month,5.0,buy,88.0
+2016-05-07,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-05-11,Credit Suisse,Not Provided,5.0,outperform,78.0
+2016-05-11,Leerink Partners LLC,12 month,5.0,outperform,78.0
+2016-05-13,Cowen,Not Provided,5.0,outperform,70.0
+2016-05-16,Stifel,Not Provided,3.0,hold,-0.0
+2016-05-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-19,Barclays,Not Provided,3.0,equalweight,76.0
+2016-05-23,Leerink Partners LLC,Not Provided,5.0,outperform,78.0
+2016-05-24,FBR Capital Markets,12 month,5.0,outperform,90.0
+2016-05-24,Oppenheimer & Co,12 month,5.0,outperform,89.0
+2016-05-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-25,Stifel,12 month,5.0,buy,75.0
+2016-05-27,Oppenheimer & Co,18 month,5.0,outperform,89.0
+2016-05-31,Stifel,12 month,5.0,buy,75.0
+2016-05-31,FBR Capital Markets,12 month,5.0,outperform,90.0
+2016-06-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-03,Cantor Fitzgerald,12 month,5.0,buy,90.0
+2016-06-06,Leerink Partners LLC,12 month,5.0,outperform,78.0
+2016-06-07,Jefferies,12 month,5.0,buy,80.0
+2016-06-08,FBR Capital Markets,12 month,5.0,outperform,90.0
+2016-06-14,FBR Capital Markets,12 month,5.0,outperform,90.0
+2016-06-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-15,Bernstein,Not Provided,3.0,market perform,76.0
+2016-06-15,Leerink Partners LLC,12 month,5.0,outperform,78.0
+2016-06-17,Wedbush,12 month,5.0,outperform,80.0
+2016-06-17,Credit Suisse,Not Provided,5.0,outperform,78.0
+2016-06-19,Stifel,12 month,5.0,buy,75.0
+2016-06-19,Jefferies,12 month,5.0,buy,80.0
+2016-06-20,Oppenheimer & Co,12 month,5.0,outperform,89.0
+2016-06-20,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-06-20,FBR Capital Markets,12 month,5.0,outperform,90.0
+2016-06-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-20,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2016-06-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-06-20,Barclays,Not Provided,5.0,overweight,82.0
+2016-06-22,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2016-06-23,Cowen,Not Provided,5.0,outperform,77.0
+2016-06-27,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-06-28,FBR Capital Markets,Not Provided,5.0,outperform,90.0
+2016-06-28,Bernstein,Not Provided,3.0,market perform,76.0
+2016-06-29,Morgan Stanley,12 month,5.0,Overwt/In-Line,86.0
+2016-07-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-01,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-07-01,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2016-07-05,FBR Capital Markets,Not Provided,5.0,outperform,90.0
+2016-07-07,Cowen,Not Provided,5.0,outperform,77.0
+2016-07-12,FBR Capital Markets,Not Provided,5.0,outperform,90.0
+2016-07-12,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-07-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-15,Leerink Partners LLC,Not Provided,5.0,outperform,80.0
+2016-07-15,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2016-07-18,Wedbush,Not Provided,5.0,outperform,85.0
+2016-07-18,Jefferies,Not Provided,5.0,buy,89.0
+2016-07-18,Credit Suisse,Not Provided,5.0,outperform,80.0
+2016-07-19,Stifel,12 month,5.0,buy,75.0
+2016-07-19,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-07-19,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-07-21,FBR Capital Markets,12 month,5.0,outperform,90.0
+2016-07-21,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-07-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-22,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2016-07-22,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2016-07-26,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-07-26,Stifel,12 month,5.0,buy,75.0
+2016-07-26,Wedbush,12 month,5.0,outperform,85.0
+2016-07-26,Jefferies,12 month,5.0,buy,82.0
+2016-07-26,Credit Suisse,Not Provided,5.0,outperform,78.0
+2016-07-26,Cowen,12 month,5.0,outperform,77.0
+2016-07-27,Bernstein,12 month,3.0,market perform,74.0
+2016-07-27,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2016-07-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-27,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-07-27,Morgan Stanley,12 month,5.0,Overwt/In-Line,80.0
+2016-07-27,Cantor Fitzgerald,12 month,5.0,buy,90.0
+2016-07-28,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-07-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-07-28,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-07-28,FBR Capital Markets,12 month,5.0,outperform,90.0
+2016-07-29,Barclays,Not Provided,5.0,overweight,82.0
+2016-07-29,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2016-08-02,FBR Capital Markets,Not Provided,5.0,outperform,90.0
+2016-08-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-08-08,Bernstein,Not Provided,3.0,market perform,74.0
+2016-08-09,FBR Capital Markets,Not Provided,5.0,outperform,90.0
+2016-08-09,Stifel,12 month,5.0,buy,75.0
+2016-08-11,Wedbush,12 month,5.0,outperform,85.0
+2016-08-12,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-08-16,FBR Capital Markets,Not Provided,5.0,outperform,90.0
+2016-08-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-08-17,Cowen,12 month,5.0,outperform,77.0
+2016-08-19,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2016-08-23,FBR Capital Markets,Not Provided,5.0,outperform,90.0
+2016-08-24,Stifel,12 month,5.0,buy,75.0
+2016-08-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-08-25,Leerink Partners LLC,12 month,5.0,outperform,80.0
+2016-08-30,FBR Capital Markets,Not Provided,5.0,outperform,90.0
+2016-08-30,Stifel,12 month,5.0,buy,75.0
+2016-08-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-08-30,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-08-30,Credit Suisse,Not Provided,5.0,outperform,78.0
+2016-08-31,Barclays,Not Provided,5.0,overweight,82.0
+2016-08-31,Wedbush,Not Provided,5.0,outperform,85.0
+2016-09-05,Stifel,12 month,5.0,buy,75.0
+2016-09-06,FBR Capital Markets,Not Provided,5.0,outperform,90.0
+2016-09-09,Leerink Partners LLC,12 month,3.0,market perform,80.0
+2016-09-09,Wedbush,12 month,5.0,outperform,85.0
+2016-09-13,Jefferies,Not Provided,5.0,buy,82.0
+2016-09-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-16,Oppenheimer & Co,12 month,5.0,outperform,89.0
+2016-09-16,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-09-19,Goldman Sachs,12 month,1.0,sell/attractive,65.0
+2016-09-22,Evercore ISI,12 month,5.0,buy,79.0
+2016-09-23,Bernstein,Not Provided,3.0,market perform,74.0
+2016-09-28,Stifel,Not Provided,5.0,buy,75.0
+2016-09-29,Cantor Fitzgerald,12 month,5.0,buy,90.0
+2016-09-30,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2016-10-03,Evercore ISI,12 month,5.0,buy,79.0
+2016-10-03,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-10-04,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-10-04,Wolfe Research,12 month,3.0,peerperform,81.0
+2016-10-04,Credit Suisse,Not Provided,5.0,outperform,76.0
+2016-10-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-07,Leerink Partners LLC,12 month,3.0,market perform,80.0
+2016-10-07,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2016-10-11,Evercore ISI,Not Provided,5.0,buy,79.0
+2016-10-12,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-10-12,Cowen,Not Provided,5.0,outperform,77.0
+2016-10-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-10-13,Jefferies,Not Provided,5.0,buy,82.0
+2016-10-13,Bernstein,Not Provided,3.0,market perform,74.0
+2016-10-13,Wolfe Research,12 month,3.0,peerperform,81.0
+2016-10-14,Credit Suisse,Not Provided,5.0,outperform,76.0
+2016-10-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-17,Leerink Partners LLC,Not Provided,3.0,market perform,80.0
+2016-10-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-18,Credit Suisse,Not Provided,5.0,outperform,76.0
+2016-10-20,Wolfe Research,Not Provided,3.0,peerperform,81.0
+2016-10-20,Stifel,12 month,5.0,buy,75.0
+2016-10-21,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2016-10-21,Bernstein,Not Provided,3.0,market perform,74.0
+2016-10-24,Barclays,Not Provided,5.0,overweight,82.0
+2016-10-25,Evercore ISI,12 month,5.0,buy,79.0
+2016-10-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-25,Oppenheimer & Co,12 month,5.0,outperform,89.0
+2016-10-25,Stifel,12 month,5.0,buy,75.0
+2016-10-25,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-25,Cantor Fitzgerald,12 month,5.0,buy,85.0
+2016-10-25,Cowen,12 month,5.0,outperform,77.0
+2016-10-25,Goldman Sachs,12 month,1.0,sell/attractive,68.0
+2016-10-25,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-10-25,Jefferies,12 month,5.0,buy,82.0
+2016-10-26,Barclays,Not Provided,5.0,overweight,82.0
+2016-10-26,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-10-26,Bernstein,12 month,3.0,market perform,77.0
+2016-10-26,Leerink Partners LLC,12 month,3.0,market perform,75.0
+2016-10-26,Wolfe Research,12 month,3.0,peerperform,81.0
+2016-10-26,Credit Suisse,Not Provided,5.0,outperform,82.0
+2016-11-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-06,Wolfe Research,12 month,3.0,peerperform,81.0
+2016-11-09,Wolfe Research,12 month,3.0,peerperform,81.0
+2016-11-10,Oppenheimer & Co,12 month,5.0,outperform,89.0
+2016-11-10,UBS,12 month,5.0,buy,73.0
+2016-11-10,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-11-11,Credit Suisse,Not Provided,3.0,neutral,60.0
+2016-11-14,Bernstein,Not Provided,5.0,outperform,69.0
+2016-11-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-14,Leerink Partners LLC,Not Provided,3.0,market perform,65.0
+2016-11-16,Wolfe Research,12 month,3.0,peerperform,81.0
+2016-11-17,Leerink Partners LLC,12 month,3.0,market perform,65.0
+2016-11-18,Evercore ISI,12 month,5.0,buy,63.0
+2016-11-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-21,Bernstein,Not Provided,5.0,outperform,69.0
+2016-11-21,Stifel,12 month,5.0,buy,75.0
+2016-11-22,Wolfe Research,12 month,3.0,peerperform,71.0
+2016-11-28,Credit Suisse,Not Provided,3.0,neutral,61.0
+2016-11-30,Barclays,Not Provided,5.0,overweight,82.0
+2016-11-30,Wolfe Research,Not Provided,3.0,peerperform,71.0
+2016-12-02,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2016-12-05,Leerink Partners LLC,12 month,3.0,market perform,65.0
+2016-12-05,Goldman Sachs,12 month,1.0,sell/attractive,63.0
+2016-12-06,Bernstein,Not Provided,5.0,outperform,69.0
+2016-12-07,Bernstein,Not Provided,5.0,outperform,69.0
+2016-12-12,Leerink Partners LLC,12 month,3.0,market perform,65.0
+2016-12-13,Wolfe Research,12 month,3.0,peerperform,71.0
+2016-12-13,Goldman Sachs,12 month,3.0,neutral/attractive,63.0
+2016-12-15,Susquehanna Financial,12 month,4.0,Positive,87.0
+2016-12-15,Cantor Fitzgerald,12 month,5.0,overweight,85.0
+2016-12-16,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-16,Stifel,12 month,5.0,buy,70.0
+2016-12-16,Credit Suisse,Not Provided,3.0,neutral,61.0
+2016-12-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-12-18,Jefferies,12 month,5.0,buy,67.0
+2016-12-18,Oppenheimer & Co,12 month,5.0,outperform,89.0
+2016-12-19,Barclays,Not Provided,5.0,overweight,82.0
+2016-12-19,Leerink Partners LLC,12 month,3.0,market perform,62.0
+2016-12-19,Cowen,Not Provided,5.0,outperform,77.0
+2016-12-19,Evercore ISI,12 month,5.0,buy,63.0
+2016-12-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-12-20,Wolfe Research,12 month,3.0,peerperform,69.0
+2016-12-21,Cantor Fitzgerald,12 month,5.0,overweight,85.0
+2016-12-21,J.P. Morgan,12 month,5.0,overweight,75.0
+2016-12-22,Cowen,12 month,5.0,outperform,77.0
+2017-01-04,Evercore ISI,Not Provided,5.0,buy,69.0
+2017-01-05,Wolfe Research,Not Provided,3.0,peerperform,69.0
+2017-01-05,J.P. Morgan,12 month,5.0,overweight,75.0
+2017-01-05,Piper Jaffray,Not Provided,5.0,overweight,67.0
+2017-01-05,Cowen,12 month,5.0,outperform,77.0
+2017-01-05,Barclays,Not Provided,5.0,overweight,75.0
+2017-01-06,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2017-01-06,Wolfe Research,12 month,3.0,peerperform,69.0
+2017-01-06,Bernstein,Not Provided,5.0,outperform,69.0
+2017-01-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-10,Piper Jaffray,Not Provided,5.0,overweight,67.0
+2017-01-10,Evercore ISI,12 month,5.0,buy,69.0
+2017-01-10,Cantor Fitzgerald,12 month,5.0,overweight,85.0
+2017-01-10,J.P. Morgan,12 month,5.0,overweight,75.0
+2017-01-12,Leerink Partners LLC,12 month,3.0,market perform,62.0
+2017-01-13,Leerink Partners LLC,Not Provided,3.0,market perform,62.0
+2017-01-16,Piper Jaffray,Not Provided,5.0,overweight,67.0
+2017-01-17,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2017-01-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-18,Bernstein,Not Provided,5.0,outperform,75.0
+2017-01-18,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-01-19,Stifel,12 month,5.0,buy,70.0
+2017-01-22,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-01-22,Piper Jaffray,12 month,5.0,overweight,67.0
+2017-01-23,Stifel,12 month,5.0,buy,70.0
+2017-01-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-27,Bernstein,Not Provided,5.0,outperform,75.0
+2017-01-30,Goldman Sachs,12 month,3.0,neutral/attractive,65.0
+2017-02-01,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-02-02,Piper Jaffray,Not Provided,5.0,overweight,67.0
+2017-02-02,Cowen,Not Provided,5.0,outperform,77.0
+2017-02-03,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2017-02-07,Cowen,12 month,5.0,outperform,77.0
+2017-02-07,Jefferies,12 month,5.0,buy,79.0
+2017-02-07,J.P. Morgan,9 month,5.0,overweight,75.0
+2017-02-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-07,Cantor Fitzgerald,12 month,5.0,overweight,85.0
+2017-02-07,Evercore ISI,12 month,5.0,buy,75.0
+2017-02-07,Stifel,12 month,5.0,buy,80.0
+2017-02-07,Credit Suisse,Not Provided,3.0,neutral,70.0
+2017-02-08,Leerink Partners LLC,12 month,3.0,market perform,64.0
+2017-02-08,Oppenheimer & Co,12 month,5.0,outperform,89.0
+2017-02-08,UBS,12 month,5.0,buy,80.0
+2017-02-08,Piper Jaffray,Not Provided,5.0,overweight,76.0
+2017-02-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-08,Barclays,Not Provided,5.0,overweight,79.0
+2017-02-08,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2017-02-08,Bernstein,12 month,5.0,outperform,78.0
+2017-02-09,Wolfe Research,Not Provided,3.0,peerperform,69.0
+2017-02-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-02-15,Wolfe Research,12 month,3.0,peerperform,72.0
+2017-02-16,Cowen,12 month,5.0,outperform,77.0
+2017-02-17,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2017-02-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-17,Bernstein,Not Provided,5.0,outperform,78.0
+2017-02-21,Leerink Partners LLC,12 month,3.0,market perform,64.0
+2017-02-23,Barclays,Not Provided,5.0,overweight,79.0
+2017-02-23,Credit Suisse,Not Provided,3.0,neutral,70.0
+2017-02-26,Piper Jaffray,12 month,5.0,overweight,85.0
+2017-02-28,Bernstein,Not Provided,5.0,outperform,78.0
+2017-03-02,Evercore ISI,Not Provided,5.0,outperform,78.0
+2017-03-02,Piper Jaffray,12 month,5.0,overweight,85.0
+2017-03-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-06,Leerink Partners LLC,12 month,3.0,market perform,64.0
+2017-03-07,Stifel,12 month,5.0,buy,80.0
+2017-03-08,UBS,12 month,5.0,buy,83.0
+2017-03-08,Bernstein,Not Provided,5.0,outperform,78.0
+2017-03-09,Cantor Fitzgerald,12 month,5.0,overweight,85.0
+2017-03-13,Wolfe Research,Not Provided,3.0,peerperform,72.0
+2017-03-13,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-14,Cowen,Not Provided,5.0,outperform,77.0
+2017-03-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-20,Wolfe Research,12 month,3.0,peerperform,72.0
+2017-03-20,Bernstein,Not Provided,5.0,outperform,78.0
+2017-03-21,Stifel,12 month,5.0,buy,80.0
+2017-03-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-23,Credit Suisse,Not Provided,3.0,neutral,70.0
+2017-03-27,Leerink Partners LLC,12 month,3.0,market perform,72.0
+2017-03-27,Bernstein,Not Provided,5.0,outperform,78.0
+2017-03-27,Cantor Fitzgerald,12 month,5.0,overweight,85.0
+2017-03-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-27,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-03-31,Cowen,Not Provided,5.0,outperform,77.0
+2017-04-03,Bernstein,Not Provided,5.0,outperform,78.0
+2017-04-03,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-04-04,Credit Suisse,Not Provided,3.0,neutral,77.0
+2017-04-04,Cowen,Not Provided,5.0,outperform,77.0
+2017-04-06,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-04-06,Evercore ISI,Not Provided,5.0,outperform,80.0
+2017-04-10,Bernstein,Not Provided,5.0,outperform,78.0
+2017-04-13,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2017-04-13,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-04-17,Cantor Fitzgerald,Not Provided,5.0,overweight,85.0
+2017-04-17,Leerink Partners LLC,Not Provided,3.0,market perform,72.0
+2017-04-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-25,Cowen,12 month,5.0,outperform,77.0
+2017-04-25,Credit Suisse,Not Provided,3.0,neutral,78.0
+2017-04-25,Jefferies,12 month,5.0,buy,85.0
+2017-04-25,Evercore ISI,12 month,5.0,outperform,83.0
+2017-04-25,Barclays,Not Provided,5.0,overweight,79.0
+2017-04-25,Bernstein,12 month,5.0,outperform,78.0
+2017-04-25,Stifel,12 month,5.0,buy,85.0
+2017-04-25,Oppenheimer & Co,12 month,5.0,outperform,89.0
+2017-04-25,Leerink Partners LLC,12 month,3.0,market perform,72.0
+2017-04-25,Wolfe Research,Not Provided,3.0,peerperform,74.0
+2017-04-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-25,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-25,J.P. Morgan,9 month,5.0,overweight,75.0
+2017-04-25,Piper Jaffray,12 month,5.0,overweight,85.0
+2017-04-25,Cantor Fitzgerald,12 month,5.0,overweight,88.0
+2017-04-26,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2017-04-26,Stifel,12 month,5.0,buy,85.0
+2017-04-26,Oppenheimer & Co,12 month,5.0,outperform,89.0
+2017-04-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-26,Barclays,Not Provided,5.0,overweight,85.0
+2017-04-26,Leerink Partners LLC,12 month,3.0,market perform,72.0
+2017-04-27,Wolfe Research,Not Provided,3.0,peerperform,74.0
+2017-05-01,Bernstein,Not Provided,5.0,outperform,85.0
+2017-05-01,Piper Jaffray,Not Provided,5.0,overweight,85.0
+2017-05-02,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-04,Piper Jaffray,Not Provided,5.0,overweight,85.0
+2017-05-04,Cantor Fitzgerald,Not Provided,5.0,overweight,88.0
+2017-05-04,Bernstein,Not Provided,5.0,outperform,85.0
+2017-05-05,Wolfe Research,Not Provided,3.0,peerperform,74.0
+2017-05-15,Bernstein,Not Provided,5.0,outperform,85.0
+2017-05-16,Wolfe Research,Not Provided,3.0,peerperform,74.0
+2017-05-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-17,Wolfe Research,Not Provided,3.0,peerperform,74.0
+2017-05-19,UBS,12 month,5.0,buy,88.0
+2017-05-19,Oppenheimer & Co,Not Provided,5.0,outperform,89.0
+2017-05-22,Wolfe Research,Not Provided,3.0,peerperform,74.0
+2017-05-22,Leerink Partners LLC,12 month,3.0,market perform,72.0
+2017-05-22,Bernstein,Not Provided,5.0,outperform,85.0
+2017-05-22,J.P. Morgan,9 month,3.0,neutral,75.0
+2017-05-22,Barclays,Not Provided,5.0,overweight,85.0

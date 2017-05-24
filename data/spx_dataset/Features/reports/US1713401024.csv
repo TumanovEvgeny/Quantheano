@@ -1,0 +1,353 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-09-11,UBS,12 month,1.0,sell,39.0
+2015-11-02,Goldman Sachs,12 month,3.0,neutral/neutral,44.5
+2015-11-02,Oppenheimer & Co,12 month,3.0,market perform,45.0
+2015-11-02,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-11-02,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-11-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-11-03,J.P. Morgan,18 month,3.0,neutral,47.5
+2015-11-03,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-11-03,Barclays,Not Provided,1.0,underweight,40.5
+2015-11-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,43.0
+2015-11-04,Societe Generale,12 month,3.0,hold,47.0
+2015-11-05,Williams Capital,12 month,5.0,buy,46.5
+2015-11-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-04,SunTrust Robinson Humphrey,Not Provided,5.0,buy,47.5
+2015-12-10,Jefferies,12 month,5.0,buy,49.0
+2015-12-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-12-18,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2015-12-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-12-31,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-12-31,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-01-06,SunTrust Robinson Humphrey,Not Provided,5.0,buy,47.5
+2016-01-06,Societe Generale,12 month,3.0,hold,47.0
+2016-01-07,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-01-08,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-01-13,Goldman Sachs,12 month,1.0,Sell/Neutral,38.0
+2016-01-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-01-22,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-01-24,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-01-25,SunTrust Robinson Humphrey,Not Provided,5.0,buy,47.5
+2016-01-25,Jefferies,Not Provided,5.0,buy,46.5
+2016-01-25,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-01-27,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-01-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-01-29,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-02-01,J.P. Morgan,12 month,3.0,neutral,47.5
+2016-02-01,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-02-01,Barclays,Not Provided,1.0,underweight,40.5
+2016-02-02,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-02-02,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-02-02,Jefferies,12 month,5.0,buy,48.5
+2016-02-02,Consumer Edge Research,12 month,3.0,neutral,42.0
+2016-02-02,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-02-02,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-02-02,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-02-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-02-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-02,Oppenheimer & Co,12 month,3.0,market perform,45.0
+2016-02-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,44.0
+2016-02-03,Goldman Sachs,12 month,1.0,Sell/Neutral,39.0
+2016-02-03,UBS,12 month,1.0,sell,40.5
+2016-02-03,J.P. Morgan,12 month,3.0,neutral,47.5
+2016-02-03,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-02-03,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-02-03,Barclays,Not Provided,1.0,underweight,40.5
+2016-02-04,Societe Generale,12 month,3.0,hold,48.5
+2016-02-05,SunTrust Robinson Humphrey,Not Provided,5.0,buy,47.5
+2016-02-10,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-02-12,Jefferies,12 month,5.0,buy,48.5
+2016-02-12,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-02-18,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-02-18,Barclays,Not Provided,1.0,underweight,40.5
+2016-02-18,Jefferies,12 month,5.0,buy,48.5
+2016-02-19,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-02-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-02-25,Jefferies,Not Provided,5.0,buy,48.5
+2016-02-26,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-02-26,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-02-26,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-02-29,Consumer Edge Research,12 month,3.0,neutral,42.0
+2016-03-01,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-03-03,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-03-04,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-03-07,SunTrust Robinson Humphrey,Not Provided,5.0,buy,47.5
+2016-03-09,Jefferies,12 month,5.0,buy,48.5
+2016-03-11,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-03-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-03-16,Goldman Sachs,12 month,1.0,Sell/Neutral,39.5
+2016-03-18,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-03-18,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-03-22,Consumer Edge Research,12 month,3.0,neutral,42.0
+2016-03-22,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-03-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-03-30,Barclays,Not Provided,1.0,underweight,40.5
+2016-03-31,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-04-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-04,SunTrust Robinson Humphrey,Not Provided,5.0,buy,47.5
+2016-04-05,UBS,12 month,1.0,sell,41.5
+2016-04-06,Barclays,Not Provided,1.0,underweight,40.5
+2016-04-06,Jefferies,12 month,5.0,buy,48.5
+2016-04-08,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-04-11,Jefferies,Not Provided,5.0,buy,48.5
+2016-04-15,Jefferies,Not Provided,5.0,buy,53.0
+2016-04-17,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-04-19,Oppenheimer & Co,18 month,3.0,market perform,50.0
+2016-04-19,Consumer Edge Research,12 month,3.0,neutral,42.0
+2016-04-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-19,SunTrust Robinson Humphrey,Not Provided,5.0,buy,47.5
+2016-04-22,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-04-25,Societe Generale,12 month,3.0,hold,48.5
+2016-04-29,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-05-02,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-05-04,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-05-05,Oppenheimer & Co,12 month,3.0,market perform,50.0
+2016-05-05,Jefferies,12 month,5.0,buy,56.0
+2016-05-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-05,SunTrust Robinson Humphrey,12 month,5.0,buy,50.0
+2016-05-05,Consumer Edge Research,12 month,3.0,neutral,44.5
+2016-05-05,Goldman Sachs,12 month,1.0,Sell/Neutral,40.5
+2016-05-05,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-05-05,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-05-06,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-05-06,UBS,12 month,1.0,sell,44.0
+2016-05-06,Morgan Stanley,12 month,3.0,Equalwt/In-Line,46.5
+2016-05-06,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-05-06,J.P. Morgan,9 month,3.0,neutral,47.5
+2016-05-06,Barclays,Not Provided,1.0,underweight,43.0
+2016-05-06,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-05-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-05-11,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-05-12,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-05-16,SunTrust Robinson Humphrey,Not Provided,5.0,buy,50.0
+2016-05-17,Consumer Edge Research,12 month,3.0,neutral,44.5
+2016-05-18,Jefferies,12 month,5.0,buy,56.0
+2016-05-18,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-05-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-19,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-05-19,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-05-19,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-05-19,Oppenheimer & Co,12 month,3.0,market perform,50.0
+2016-05-20,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-05-23,Societe Generale,12 month,3.0,hold,52.0
+2016-05-24,Jefferies,Not Provided,5.0,buy,56.0
+2016-05-27,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-06-01,Jefferies,12 month,5.0,buy,56.0
+2016-06-01,Societe Generale,12 month,3.0,hold,52.0
+2016-06-03,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-06-08,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-06-09,Jefferies,Not Provided,5.0,buy,56.0
+2016-06-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-06-10,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-06-14,J.P. Morgan,6 month,3.0,neutral,47.5
+2016-06-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-17,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-06-17,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-06-22,SunTrust Robinson Humphrey,Not Provided,5.0,buy,50.0
+2016-06-28,Jefferies,Not Provided,5.0,buy,56.0
+2016-06-28,Consumer Edge Research,12 month,3.0,neutral,46.5
+2016-07-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-07-08,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-07-11,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-12,Jefferies,Not Provided,5.0,buy,56.0
+2016-07-12,Goldman Sachs,12 month,1.0,Sell/Neutral,42.0
+2016-07-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-14,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-07-15,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-07-22,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-07-22,SunTrust Robinson Humphrey,Not Provided,5.0,buy,50.0
+2016-07-24,SunTrust Robinson Humphrey,Not Provided,5.0,buy,50.0
+2016-07-26,Jefferies,Not Provided,5.0,buy,56.0
+2016-07-29,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-08-04,J.P. Morgan,18 month,3.0,neutral,51.5
+2016-08-04,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-08-04,Oppenheimer & Co,12 month,3.0,market perform,50.0
+2016-08-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-08-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,50.0
+2016-08-04,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-08-04,SunTrust Robinson Humphrey,12 month,5.0,buy,55.0
+2016-08-04,Stifel,Not Provided,3.0,hold,-0.0
+2016-08-04,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-08-04,Jefferies,12 month,5.0,buy,58.0
+2016-08-04,Consumer Edge Research,12 month,3.0,equalweight,46.5
+2016-08-05,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-08-05,Barclays,Not Provided,1.0,underweight,46.0
+2016-08-05,UBS,12 month,1.0,sell,46.5
+2016-08-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-05,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-08-08,Jefferies,12 month,5.0,buy,58.0
+2016-08-16,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-08-23,Jefferies,12 month,5.0,buy,58.0
+2016-08-29,Societe Generale,12 month,3.0,hold,52.0
+2016-09-02,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-09-02,RBC Capital Markets,12 month,3.0,sector perform,44.5
+2016-09-02,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-09-02,Stifel,12 month,3.0,hold,48.0
+2016-09-02,Goldman Sachs,12 month,1.0,Sell/Neutral,42.0
+2016-09-02,Barclays,Not Provided,1.0,underweight,47.0
+2016-09-02,Oppenheimer & Co,12 month,3.0,market perform,50.0
+2016-09-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,50.0
+2016-09-07,UBS,12 month,1.0,sell,47.0
+2016-09-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-09,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2016-09-12,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-09-12,Societe Generale,12 month,3.0,hold,208.0
+2016-09-12,Jefferies,12 month,5.0,buy,58.0
+2016-09-15,Stifel,12 month,3.0,hold,50.0
+2016-09-16,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2016-09-16,SunTrust Robinson Humphrey,Not Provided,5.0,buy,55.0
+2016-09-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-20,Jefferies,12 month,5.0,buy,116.0
+2016-09-20,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-09-23,J.P. Morgan,6 month,3.0,neutral,47.5
+2016-09-26,SunTrust Robinson Humphrey,Not Provided,5.0,buy,55.0
+2016-09-27,SunTrust Robinson Humphrey,Not Provided,5.0,buy,55.0
+2016-10-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-06,Societe Generale,12 month,3.0,hold,52.0
+2016-10-06,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2016-10-06,Jefferies,12 month,5.0,buy,59.0
+2016-10-10,Atlantic Equities LLP,12 month,3.0,neutral,51.0
+2016-10-11,SunTrust Robinson Humphrey,12 month,5.0,buy,55.0
+2016-10-17,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-10-18,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-21,SunTrust Robinson Humphrey,Not Provided,5.0,buy,55.0
+2016-10-21,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2016-10-23,Stifel,12 month,3.0,hold,50.0
+2016-10-31,SunTrust Robinson Humphrey,Not Provided,5.0,buy,55.0
+2016-11-03,Jefferies,12 month,5.0,buy,53.0
+2016-11-03,SunTrust Robinson Humphrey,12 month,5.0,buy,55.0
+2016-11-03,Consumer Edge Research,12 month,3.0,equalweight,45.0
+2016-11-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-11-03,Oppenheimer & Co,12 month,3.0,market perform,50.0
+2016-11-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-03,Stifel,12 month,3.0,hold,48.0
+2016-11-03,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-11-03,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-11-03,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2016-11-04,UBS,12 month,1.0,sell,43.0
+2016-11-04,Goldman Sachs,12 month,1.0,Sell/Neutral,43.0
+2016-11-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,45.0
+2016-11-04,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-11-04,Barclays,Not Provided,1.0,underweight,41.0
+2016-11-07,Atlantic Equities LLP,12 month,3.0,neutral,47.0
+2016-11-07,Societe Generale,12 month,3.0,hold,47.5
+2016-11-08,SunTrust Robinson Humphrey,Not Provided,5.0,buy,55.0
+2016-11-11,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2016-11-14,Goldman Sachs,12 month,1.0,Sell/Neutral,40.0
+2016-11-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-11-15,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-11-22,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-11-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-03,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2016-12-08,Consumer Edge Research,12 month,3.0,equalweight,45.0
+2016-12-09,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2016-12-13,SunTrust Robinson Humphrey,12 month,5.0,buy,55.0
+2016-12-15,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-12-15,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-12-16,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2016-12-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-12-19,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-19,UBS,12 month,1.0,sell,42.0
+2016-12-21,Jefferies,Not Provided,5.0,buy,53.0
+2016-12-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-12-28,Consumer Edge Research,12 month,3.0,equalweight,45.0
+2016-12-30,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-04,Consumer Edge Research,12 month,3.0,equalweight,43.0
+2017-01-05,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2017-01-09,Goldman Sachs,12 month,1.0,Sell/Cautious,40.0
+2017-01-09,Barclays,Not Provided,1.0,underweight,38.0
+2017-01-10,Jefferies,12 month,5.0,buy,53.0
+2017-01-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-01-19,Renaissance Macro Research LLC,12 month,3.0,equalweight,43.0
+2017-01-19,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-01-20,Jefferies,12 month,5.0,buy,53.0
+2017-01-20,Barclays,Not Provided,1.0,underweight,38.0
+2017-01-24,SunTrust Robinson Humphrey,12 month,5.0,buy,55.0
+2017-01-30,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-02-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-07,Jefferies,12 month,5.0,buy,54.0
+2017-02-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-07,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-02-07,Stifel,12 month,3.0,hold,50.0
+2017-02-07,SunTrust Robinson Humphrey,12 month,5.0,buy,55.0
+2017-02-07,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-07,Goldman Sachs,12 month,1.0,Sell/Cautious,42.0
+2017-02-07,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2017-02-07,Oppenheimer & Co,12 month,3.0,market perform,50.0
+2017-02-07,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-02-07,Consumer Edge Research,12 month,3.0,equalweight,43.0
+2017-02-08,UBS,12 month,1.0,sell,43.0
+2017-02-08,Barclays,Not Provided,1.0,underweight,38.0
+2017-02-08,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2017-02-08,Morgan Stanley,12 month,3.0,Equalwt/In-Line,49.0
+2017-02-10,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2017-02-17,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-02-17,Jefferies,12 month,5.0,buy,54.0
+2017-02-17,Barclays,Not Provided,1.0,underweight,47.0
+2017-02-20,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2017-02-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-02-23,Barclays,Not Provided,1.0,underweight,47.0
+2017-02-24,Societe Generale,12 month,3.0,hold,47.5
+2017-02-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-28,SunTrust Robinson Humphrey,Not Provided,5.0,buy,55.0
+2017-03-03,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2017-03-06,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2017-03-09,Societe Generale,12 month,3.0,hold,51.0
+2017-03-13,UBS,12 month,1.0,sell,45.0
+2017-03-17,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2017-03-21,Oppenheimer & Co,12 month,3.0,market perform,50.0
+2017-03-21,J.P. Morgan,9 month,3.0,neutral,53.0
+2017-03-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-23,Consumer Edge Research,12 month,3.0,equalweight,44.0
+2017-03-25,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2017-03-29,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-03-31,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2017-04-03,Goldman Sachs,12 month,1.0,Sell/Cautious,44.0
+2017-04-05,Jefferies,Not Provided,5.0,buy,54.0
+2017-04-05,Consumer Edge Research,12 month,3.0,equalweight,47.0
+2017-04-07,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2017-04-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-04-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-18,Jefferies,Not Provided,5.0,buy,58.0
+2017-04-19,J.P. Morgan,9 month,3.0,neutral,53.0
+2017-04-19,Oppenheimer & Co,12 month,3.0,market perform,50.0
+2017-04-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-21,SunTrust Robinson Humphrey,Not Provided,5.0,buy,55.0
+2017-04-21,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2017-04-23,Stifel,12 month,3.0,hold,50.0
+2017-04-23,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-04-24,Societe Generale,12 month,3.0,hold,51.0
+2017-04-28,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2017-04-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-05-01,Consumer Edge Research,12 month,3.0,equalweight,47.0
+2017-05-02,Jefferies,Not Provided,5.0,buy,58.0
+2017-05-02,Societe Generale,12 month,3.0,hold,51.0
+2017-05-04,Stifel,12 month,3.0,hold,50.0
+2017-05-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-04,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-05-04,J.P. Morgan,9 month,3.0,neutral,53.0
+2017-05-04,SunTrust Robinson Humphrey,12 month,5.0,buy,55.0
+2017-05-04,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-05-04,Goldman Sachs,12 month,1.0,Sell/Cautious,45.0
+2017-05-04,Consumer Edge Research,12 month,3.0,equalweight,47.0
+2017-05-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-04,Oppenheimer & Co,12 month,3.0,market perform,50.0
+2017-05-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2017-05-05,Barclays,Not Provided,1.0,underweight,47.0
+2017-05-05,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2017-05-05,UBS,12 month,1.0,sell,46.0
+2017-05-05,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2017-05-07,BMO Capital Markets,Not Provided,3.0,market perform,50.0
+2017-05-08,Societe Generale,12 month,3.0,hold,51.0
+2017-05-09,Jefferies,Not Provided,5.0,buy,59.0
+2017-05-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-12,Renaissance Macro Research LLC,12 month,1.0,underweight,48.0
+2017-05-12,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2017-05-15,Societe Generale,12 month,3.0,hold,51.0
+2017-05-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-16,Morgan Stanley,12 month,1.0,Underwt/In-Line,49.0

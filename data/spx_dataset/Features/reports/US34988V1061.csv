@@ -1,0 +1,631 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2012-02-14,Piper Jaffray,12 month,5.0,overweight,132.0
+2012-02-14,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,-0.0
+2012-02-15,Telsey Advisory Group,12 month,-2147483648.0,no rating system,125.0
+2012-02-15,J.P. Morgan,6 month,5.0,overweight,138.0
+2012-03-05,FBR Capital Markets,12 month,3.0,market perform,110.0
+2012-03-07,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-03-14,Cowen,Not Provided,5.0,outperform,-0.0
+2012-03-29,Benchmark Company LLC,12 month,3.0,hold,130.0
+2012-04-02,Evercore ISI,Not Provided,5.0,buy,150.0
+2012-04-02,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-04-03,Jefferies,12 month,5.0,buy,160.0
+2012-04-04,KeyBanc Capital Markets,12 month,5.0,buy,150.0
+2012-04-05,BB&T Capital Markets,12 month,5.0,buy,157.0
+2012-04-08,Evercore ISI,Not Provided,5.0,buy,150.0
+2012-04-17,Macquarie,12 month,5.0,outperform,167.0
+2012-04-18,Evercore ISI,Not Provided,5.0,buy,150.0
+2012-04-24,Cowen,Not Provided,5.0,outperform,-0.0
+2012-05-03,Evercore ISI,Not Provided,5.0,buy,150.0
+2012-05-04,Benchmark Company LLC,12 month,3.0,hold,130.0
+2012-05-04,Jefferies,12 month,5.0,buy,160.0
+2012-05-08,Piper Jaffray,12 month,5.0,overweight,128.0
+2012-05-08,Jefferies,12 month,5.0,buy,130.0
+2012-05-08,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-05-09,KeyBanc Capital Markets,12 month,5.0,buy,90.0
+2012-05-09,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,-0.0
+2012-05-09,J.P. Morgan,6 month,3.0,neutral,88.0
+2012-05-09,Benchmark Company LLC,12 month,5.0,buy,100.0
+2012-05-09,FBR Capital Markets,12 month,3.0,market perform,95.0
+2012-05-09,Telsey Advisory Group,12 month,-2147483648.0,no rating system,102.0
+2012-05-09,BB&T Capital Markets,12 month,5.0,buy,106.0
+2012-05-09,Evercore ISI,Not Provided,5.0,buy,90.0
+2012-05-09,Macquarie,12 month,5.0,outperform,105.0
+2012-05-09,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2012-05-11,Cowen,Not Provided,5.0,outperform,-0.0
+2012-05-14,Jefferies,12 month,5.0,buy,130.0
+2012-05-16,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-05-30,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-06-01,KeyBanc Capital Markets,12 month,5.0,buy,90.0
+2012-06-06,Piper Jaffray,12 month,5.0,overweight,128.0
+2012-06-19,Jefferies,12 month,5.0,buy,130.0
+2012-06-26,Cowen,Not Provided,5.0,outperform,-0.0
+2012-06-27,FBR Capital Markets,12 month,3.0,market perform,80.0
+2012-06-28,Macquarie,12 month,5.0,outperform,91.0
+2012-07-02,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-07-05,Jefferies,12 month,5.0,buy,130.0
+2012-07-12,J.P. Morgan,3 month,3.0,neutral,75.0
+2012-07-17,Cowen,Not Provided,5.0,outperform,-0.0
+2012-07-24,Piper Jaffray,12 month,3.0,neutral,76.0
+2012-08-01,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,-0.0
+2012-08-06,Benchmark Company LLC,12 month,5.0,buy,85.0
+2012-08-07,BB&T Capital Markets,12 month,5.0,buy,108.0
+2012-08-07,Jefferies,12 month,5.0,buy,115.0
+2012-08-07,Evercore ISI,12 month,5.0,buy,100.0
+2012-08-07,Piper Jaffray,12 month,3.0,neutral,88.0
+2012-08-08,Evercore ISI,Not Provided,5.0,buy,100.0
+2012-08-08,Benchmark Company LLC,12 month,5.0,buy,105.0
+2012-08-08,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-08-08,FBR Capital Markets,12 month,3.0,market perform,90.0
+2012-08-08,Macquarie,12 month,5.0,outperform,106.0
+2012-08-08,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,-0.0
+2012-08-09,J.P. Morgan,Not Provided,3.0,neutral,90.0
+2012-08-11,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-08-14,Cowen,Not Provided,5.0,outperform,-0.0
+2012-08-21,Evercore ISI,Not Provided,3.0,hold,100.0
+2012-08-21,Piper Jaffray,12 month,3.0,neutral,88.0
+2012-08-22,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-08-23,Cowen,Not Provided,5.0,outperform,-0.0
+2012-08-24,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-09-05,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-09-13,BB&T Capital Markets,12 month,5.0,buy,108.0
+2012-09-19,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-09-24,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-10-03,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-10-04,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-10-15,Cowen,Not Provided,5.0,outperform,-0.0
+2012-10-17,Caris & Company,Not Provided,4.0,above average,104.0
+2012-10-17,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-10-18,Cowen,Not Provided,5.0,outperform,-0.0
+2012-10-19,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-10-21,Telsey Advisory Group,12 month,-2147483648.0,no rating system,101.0
+2012-10-22,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-10-29,Caris & Company,Not Provided,4.0,above average,104.0
+2012-10-31,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-11-02,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2012-11-06,Piper Jaffray,12 month,3.0,neutral,87.0
+2012-11-06,Jefferies,12 month,5.0,buy,115.0
+2012-11-06,Cowen,Not Provided,5.0,outperform,-0.0
+2012-11-06,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-11-07,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-11-07,Caris & Company,12 month,5.0,buy,105.0
+2012-11-07,Benchmark Company LLC,12 month,5.0,buy,105.0
+2012-11-07,Evercore ISI,Not Provided,3.0,hold,80.0
+2012-11-07,Macquarie,12 month,5.0,outperform,106.0
+2012-11-07,FBR Capital Markets,12 month,3.0,market perform,84.0
+2012-11-07,Telsey Advisory Group,12 month,-2147483648.0,no rating system,101.0
+2012-11-13,Jefferies,12 month,5.0,buy,115.0
+2012-11-14,Cowen,Not Provided,5.0,outperform,-0.0
+2012-11-14,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,101.0
+2012-11-14,Caris & Company,Not Provided,5.0,buy,105.0
+2012-11-14,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-11-14,Benchmark Company LLC,12 month,5.0,buy,105.0
+2012-11-14,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-11-21,Cowen,Not Provided,5.0,outperform,-0.0
+2012-11-25,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,101.0
+2012-11-26,Caris & Company,Not Provided,5.0,buy,105.0
+2012-11-28,Macquarie,12 month,5.0,outperform,106.0
+2012-11-28,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-11-30,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-12-05,Cowen,Not Provided,5.0,outperform,-0.0
+2012-12-05,BB&T Capital Markets,Not Provided,5.0,buy,101.0
+2012-12-12,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2012-12-14,J.P. Morgan,9 month,3.0,neutral,90.0
+2013-01-02,Jefferies,12 month,5.0,buy,115.0
+2013-01-04,Evercore ISI,Not Provided,3.0,neutral,80.0
+2013-01-07,FBR Capital Markets,12 month,3.0,market perform,84.0
+2013-01-09,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2013-01-09,Macquarie,12 month,5.0,outperform,115.0
+2013-01-14,Cowen,Not Provided,5.0,outperform,-0.0
+2013-01-14,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-01-15,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2013-01-16,Piper Jaffray,12 month,3.0,neutral,87.0
+2013-01-22,FBR Capital Markets,12 month,3.0,market perform,84.0
+2013-01-22,Cowen,Not Provided,5.0,outperform,-0.0
+2013-01-23,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2013-01-30,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-01-31,Cowen,Not Provided,5.0,outperform,-0.0
+2013-02-07,Telsey Advisory Group,12 month,-2147483648.0,no rating system,116.0
+2013-02-07,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-02-07,Cowen,Not Provided,5.0,outperform,-0.0
+2013-02-12,Piper Jaffray,12 month,3.0,neutral,110.0
+2013-02-12,BB&T Capital Markets,12 month,5.0,buy,128.0
+2013-02-12,Jefferies,12 month,5.0,buy,125.0
+2013-02-12,Cowen,Not Provided,5.0,outperform,-0.0
+2013-02-12,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-02-13,FBR Capital Markets,12 month,1.0,underperform,95.0
+2013-02-13,Evercore ISI,Not Provided,3.0,neutral,110.0
+2013-02-13,Telsey Advisory Group,12 month,-2147483648.0,no rating system,116.0
+2013-02-13,Benchmark Company LLC,12 month,3.0,hold,110.0
+2013-02-13,Macquarie,12 month,3.0,neutral,115.0
+2013-02-13,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-02-13,J.P. Morgan,6 month,3.0,neutral,95.0
+2013-02-15,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-02-20,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-03-06,Cowen,Not Provided,5.0,outperform,-0.0
+2013-03-06,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-03-20,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-03-24,Evercore ISI,12 month,3.0,neutral,110.0
+2013-04-01,Barclays,Not Provided,3.0,equalweight,115.0
+2013-04-03,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-04-17,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-04-30,S&P Capital IQ,12 month,5.0,buy,120.0
+2013-05-01,Cowen,Not Provided,5.0,outperform,-0.0
+2013-05-03,Benchmark Company LLC,12 month,3.0,hold,100.0
+2013-05-03,Topeka Capital Markets Inc,12 month,5.0,buy,112.0
+2013-05-06,Barclays,Not Provided,3.0,equalweight,115.0
+2013-05-06,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-05-06,Jefferies,12 month,5.0,buy,125.0
+2013-05-07,Cowen,Not Provided,5.0,outperform,-0.0
+2013-05-07,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-05-07,S&P Capital IQ,Not Provided,5.0,buy,123.0
+2013-05-07,Piper Jaffray,12 month,3.0,neutral,108.0
+2013-05-08,Evercore ISI,Not Provided,3.0,neutral,110.0
+2013-05-08,Benchmark Company LLC,12 month,3.0,hold,100.0
+2013-05-08,Telsey Advisory Group,12 month,-2147483648.0,no rating system,122.0
+2013-05-08,BB&T Capital Markets,12 month,5.0,buy,128.0
+2013-05-08,Topeka Capital Markets Inc,12 month,5.0,buy,124.0
+2013-05-08,Jefferies,12 month,5.0,buy,130.0
+2013-05-08,Macquarie,12 month,3.0,neutral,115.0
+2013-05-09,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-05-13,J.P. Morgan,6 month,3.0,neutral,99.0
+2013-05-14,Barclays,Not Provided,3.0,equalweight,115.0
+2013-05-14,BB&T Capital Markets,12 month,5.0,buy,128.0
+2013-05-14,Stephens Inc,12 month,3.0,equalweight,115.0
+2013-05-15,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-05-30,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-06-03,Cowen,Not Provided,5.0,outperform,-0.0
+2013-06-03,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2013-06-10,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2013-06-12,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-06-13,Piper Jaffray,12 month,3.0,neutral,108.0
+2013-06-17,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2013-06-19,Oppenheimer & Co,18 month,3.0,market perform,98.0
+2013-06-24,Stephens Inc,12 month,3.0,equalweight,115.0
+2013-06-26,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-07-01,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2013-07-08,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2013-07-10,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-07-15,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2013-07-22,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2013-07-24,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-07-25,Macquarie,12 month,3.0,neutral,115.0
+2013-07-29,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2013-07-30,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-08-06,Cowen,12 month,5.0,outperform,145.0
+2013-08-06,Evercore ISI,Not Provided,3.0,neutral,140.0
+2013-08-06,Oppenheimer & Co,12 month,3.0,market perform,120.0
+2013-08-06,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-08-06,Piper Jaffray,12 month,3.0,neutral,121.0
+2013-08-06,Barclays,Not Provided,1.0,underweight,100.0
+2013-08-06,Jefferies,12 month,5.0,buy,145.0
+2013-08-06,BB&T Capital Markets,12 month,5.0,buy,150.0
+2013-08-07,Telsey Advisory Group,12 month,-2147483648.0,no rating system,130.0
+2013-08-07,Benchmark Company LLC,12 month,3.0,hold,125.0
+2013-08-07,Topeka Capital Markets Inc,12 month,5.0,buy,145.0
+2013-08-07,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-08-07,Macquarie,12 month,3.0,neutral,120.0
+2013-08-07,Stephens Inc,12 month,3.0,equalweight,130.0
+2013-08-09,Cowen,12 month,5.0,outperform,145.0
+2013-08-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-08-19,Stephens Inc,Not Provided,3.0,equalweight,130.0
+2013-08-21,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-08-26,Stephens Inc,Not Provided,3.0,equalweight,130.0
+2013-09-03,Stephens Inc,Not Provided,3.0,equalweight,130.0
+2013-09-04,Cowen,12 month,5.0,outperform,145.0
+2013-09-04,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-09-09,Nomura,12 month,3.0,neutral,114.0
+2013-09-09,Stephens Inc,Not Provided,3.0,equalweight,130.0
+2013-09-16,Stephens Inc,Not Provided,3.0,equalweight,130.0
+2013-09-18,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-09-19,Topeka Capital Markets Inc,12 month,5.0,buy,145.0
+2013-09-23,Stephens Inc,Not Provided,3.0,equalweight,130.0
+2013-09-30,Stephens Inc,Not Provided,3.0,equalweight,130.0
+2013-10-02,Topeka Capital Markets Inc,12 month,5.0,buy,145.0
+2013-10-02,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-10-07,Stephens Inc,Not Provided,3.0,equalweight,130.0
+2013-10-08,Piper Jaffray,12 month,3.0,neutral,121.0
+2013-10-14,Stephens Inc,Not Provided,3.0,equalweight,130.0
+2013-10-16,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-10-21,Stephens Inc,Not Provided,3.0,equalweight,130.0
+2013-10-23,Piper Jaffray,12 month,5.0,overweight,147.0
+2013-10-23,Nomura,12 month,3.0,neutral,114.0
+2013-10-23,Topeka Capital Markets Inc,12 month,5.0,buy,145.0
+2013-10-29,Cowen,12 month,5.0,outperform,145.0
+2013-10-30,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,130.0
+2013-10-30,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-11-05,Cowen,12 month,5.0,outperform,155.0
+2013-11-05,Jefferies,12 month,5.0,buy,145.0
+2013-11-05,Piper Jaffray,12 month,5.0,overweight,147.0
+2013-11-06,BB&T Capital Markets,12 month,5.0,buy,150.0
+2013-11-06,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-11-06,Barclays,Not Provided,1.0,underweight,100.0
+2013-11-06,Stephens Inc,12 month,3.0,equalweight,135.0
+2013-11-06,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-11-06,Telsey Advisory Group,12 month,-2147483648.0,no rating system,140.0
+2013-11-06,Evercore ISI,Not Provided,3.0,neutral,140.0
+2013-11-06,Oppenheimer & Co,12 month,3.0,market perform,120.0
+2013-11-06,Macquarie,12 month,3.0,neutral,135.0
+2013-11-06,Benchmark Company LLC,12 month,3.0,hold,142.0
+2013-11-06,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2013-11-11,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2013-11-13,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2013-11-13,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-11-14,Piper Jaffray,12 month,5.0,overweight,147.0
+2013-11-15,BB&T Capital Markets,12 month,5.0,buy,150.0
+2013-11-18,Barclays,Not Provided,1.0,underweight,100.0
+2013-11-18,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2013-11-20,Piper Jaffray,12 month,5.0,overweight,147.0
+2013-11-25,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2013-11-27,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-12-02,BB&T Capital Markets,12 month,5.0,buy,150.0
+2013-12-11,Brean Capital LLC,12 month,1.0,sell,85.0
+2013-12-16,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2013-12-19,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-12-20,Piper Jaffray,12 month,5.0,overweight,147.0
+2014-01-03,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2014-01-03,Piper Jaffray,12 month,5.0,overweight,147.0
+2014-01-06,Cowen,12 month,5.0,outperform,155.0
+2014-01-06,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2014-01-08,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-01-13,Piper Jaffray,12 month,5.0,overweight,147.0
+2014-01-13,Macquarie,12 month,3.0,neutral,135.0
+2014-01-13,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2014-01-14,Cowen,12 month,5.0,outperform,155.0
+2014-01-14,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2014-01-14,Brean Capital LLC,12 month,1.0,sell,85.0
+2014-01-15,KeyBanc Capital Markets,12 month,1.0,underweight,100.0
+2014-01-16,Oppenheimer & Co,12 month,3.0,market perform,120.0
+2014-01-21,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2014-01-23,BB&T Capital Markets,12 month,5.0,buy,135.0
+2014-01-27,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2014-02-03,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2014-02-04,Piper Jaffray,12 month,5.0,overweight,147.0
+2014-02-04,Cowen,12 month,5.0,outperform,155.0
+2014-02-04,BB&T Capital Markets,12 month,5.0,buy,135.0
+2014-02-04,Sterne Agee CRT,12 month,3.0,neutral,125.0
+2014-02-05,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,140.0
+2014-02-11,Oppenheimer & Co,12 month,3.0,market perform,120.0
+2014-02-11,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-02-11,Cowen,12 month,5.0,outperform,155.0
+2014-02-11,Evercore ISI,12 month,3.0,neutral,140.0
+2014-02-12,Nomura,12 month,3.0,neutral,114.0
+2014-02-12,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-02-12,Barclays,Not Provided,1.0,underweight,100.0
+2014-02-12,Sterne Agee CRT,12 month,3.0,neutral,132.0
+2014-02-12,BB&T Capital Markets,12 month,5.0,buy,142.0
+2014-02-12,Stephens Inc,12 month,3.0,equalweight,135.0
+2014-02-12,Brean Capital LLC,12 month,1.0,sell,100.0
+2014-02-12,Benchmark Company LLC,12 month,3.0,hold,125.0
+2014-02-12,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2014-02-12,Telsey Advisory Group,12 month,-2147483648.0,no rating system,140.0
+2014-02-12,Jefferies,12 month,5.0,buy,150.0
+2014-02-12,KeyBanc Capital Markets,12 month,1.0,underweight,100.0
+2014-02-13,Evercore ISI,Not Provided,3.0,neutral,140.0
+2014-02-13,Macquarie,12 month,3.0,neutral,135.0
+2014-02-18,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2014-02-21,Cowen,12 month,5.0,outperform,155.0
+2014-02-24,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2014-02-24,Piper Jaffray,18 month,5.0,overweight,150.0
+2014-02-25,Barclays,Not Provided,1.0,underweight,100.0
+2014-03-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-03-05,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-03-10,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-03-11,Nomura,12 month,3.0,neutral,114.0
+2014-03-15,Macquarie,12 month,3.0,neutral,120.0
+2014-03-17,Sterne Agee CRT,12 month,3.0,neutral,132.0
+2014-03-18,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-03-21,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-03-24,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2014-03-27,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-03-31,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2014-04-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-06,KeyBanc Capital Markets,12 month,1.0,underweight,100.0
+2014-04-07,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2014-04-08,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-04-10,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-16,Macquarie,12 month,3.0,neutral,110.0
+2014-04-25,Cowen,12 month,5.0,outperform,155.0
+2014-04-29,Stephens Inc,Not Provided,3.0,equalweight,135.0
+2014-05-02,Cowen,12 month,5.0,outperform,155.0
+2014-05-05,Cowen,12 month,5.0,outperform,155.0
+2014-05-07,Telsey Advisory Group,12 month,-2147483648.0,no rating system,140.0
+2014-05-07,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-05-08,Stephens Inc,12 month,3.0,equalweight,135.0
+2014-05-13,Sterne Agee CRT,12 month,3.0,neutral,115.0
+2014-05-13,KeyBanc Capital Markets,12 month,1.0,underweight,98.0
+2014-05-13,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-05-14,Jefferies,12 month,5.0,buy,140.0
+2014-05-14,Stephens Inc,12 month,3.0,equalweight,115.0
+2014-05-14,Brean Capital LLC,12 month,1.0,sell,100.0
+2014-05-14,Macquarie,12 month,3.0,neutral,110.0
+2014-05-14,Telsey Advisory Group,12 month,-2147483648.0,no rating system,136.0
+2014-05-14,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2014-05-14,Oppenheimer & Co,12 month,3.0,market perform,105.0
+2014-05-14,Evercore ISI,Not Provided,3.0,neutral,125.0
+2014-05-14,Nomura,12 month,3.0,neutral,114.0
+2014-05-14,Cowen,12 month,5.0,outperform,135.0
+2014-05-14,Benchmark Company LLC,12 month,5.0,buy,125.0
+2014-05-15,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-05-16,Barclays,Not Provided,1.0,underweight,100.0
+2014-05-19,Stephens Inc,12 month,3.0,equalweight,115.0
+2014-05-22,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-05-22,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-05-23,Macquarie,12 month,3.0,neutral,110.0
+2014-06-02,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2014-06-02,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-06-04,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-06-05,KeyBanc Capital Markets,12 month,1.0,underweight,98.0
+2014-06-06,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-06-09,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-06-11,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-06-16,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-06-24,Piper Jaffray,12 month,5.0,overweight,150.0
+2014-06-25,KeyBanc Capital Markets,Not Provided,1.0,underweight,98.0
+2014-06-30,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-07-02,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-07-07,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-07-08,Jefferies,Not Provided,5.0,buy,140.0
+2014-07-09,Macquarie,12 month,3.0,neutral,110.0
+2014-07-10,KeyBanc Capital Markets,Not Provided,1.0,underweight,98.0
+2014-07-14,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-07-16,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-07-21,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-07-28,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-08-04,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-08-07,Cowen,12 month,5.0,outperform,135.0
+2014-08-07,Benchmark Company LLC,12 month,5.0,buy,125.0
+2014-08-07,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,136.0
+2014-08-08,Nomura,12 month,3.0,neutral,104.0
+2014-08-11,Barclays,Not Provided,1.0,underweight,100.0
+2014-08-11,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2014-08-12,Sterne Agee CRT,12 month,3.0,neutral,105.0
+2014-08-12,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-08-12,Jefferies,12 month,5.0,buy,140.0
+2014-08-13,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2014-08-13,Piper Jaffray,12 month,5.0,overweight,142.0
+2014-08-13,Jefferies,12 month,5.0,buy,140.0
+2014-08-13,KeyBanc Capital Markets,12 month,1.0,underweight,85.0
+2014-08-13,Cowen,12 month,5.0,outperform,135.0
+2014-08-13,Macquarie,12 month,3.0,neutral,110.0
+2014-08-13,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,136.0
+2014-08-13,Evercore ISI,Not Provided,3.0,neutral,125.0
+2014-08-13,Benchmark Company LLC,12 month,5.0,buy,125.0
+2014-08-13,Oppenheimer & Co,12 month,3.0,market perform,105.0
+2014-08-13,Barclays,Not Provided,1.0,underweight,100.0
+2014-08-14,Nomura,12 month,3.0,neutral,99.0
+2014-08-18,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-08-25,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-09-02,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-09-09,Cowen,12 month,5.0,outperform,135.0
+2014-09-09,Stephens Inc,12 month,3.0,equalweight,115.0
+2014-09-10,Barclays,Not Provided,1.0,underweight,100.0
+2014-09-10,Sterne Agee CRT,12 month,3.0,neutral,105.0
+2014-09-10,Jefferies,12 month,5.0,buy,140.0
+2014-09-10,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2014-09-10,Piper Jaffray,12 month,5.0,overweight,142.0
+2014-09-11,KeyBanc Capital Markets,12 month,1.0,underweight,85.0
+2014-09-11,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2014-09-11,Telsey Advisory Group,Not Provided,5.0,outperform,136.0
+2014-09-15,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-09-19,Jefferies,Not Provided,5.0,buy,140.0
+2014-09-21,KeyBanc Capital Markets,Not Provided,1.0,underweight,85.0
+2014-09-23,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-09-29,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-09-29,Macquarie,12 month,3.0,neutral,110.0
+2014-09-30,Piper Jaffray,12 month,5.0,overweight,142.0
+2014-10-02,Sterne Agee CRT,12 month,3.0,neutral,105.0
+2014-10-02,Evercore ISI,12 month,5.0,buy,125.0
+2014-10-03,Jefferies,12 month,5.0,buy,140.0
+2014-10-03,Macquarie,12 month,3.0,neutral,110.0
+2014-10-06,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-10-09,KeyBanc Capital Markets,Not Provided,1.0,underweight,85.0
+2014-10-10,Evercore ISI,12 month,5.0,buy,125.0
+2014-10-13,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-10-14,Macquarie,12 month,3.0,neutral,110.0
+2014-10-21,Stephens Inc,12 month,3.0,equalweight,115.0
+2014-10-26,KeyBanc Capital Markets,12 month,1.0,underweight,85.0
+2014-10-27,Stephens Inc,12 month,3.0,equalweight,115.0
+2014-11-03,Stephens Inc,12 month,3.0,equalweight,115.0
+2014-11-03,Nomura,12 month,3.0,neutral,99.0
+2014-11-11,Oppenheimer & Co,12 month,3.0,market perform,105.0
+2014-11-11,Piper Jaffray,12 month,5.0,overweight,133.0
+2014-11-11,KeyBanc Capital Markets,12 month,1.0,underweight,85.0
+2014-11-12,Evercore ISI,Not Provided,5.0,buy,150.0
+2014-11-12,Cowen,12 month,5.0,outperform,135.0
+2014-11-12,Barclays,Not Provided,1.0,underweight,100.0
+2014-11-12,Stephens Inc,12 month,3.0,equalweight,115.0
+2014-11-12,Jefferies,12 month,5.0,buy,150.0
+2014-11-12,Macquarie,12 month,3.0,neutral,110.0
+2014-11-12,Telsey Advisory Group,12 month,5.0,outperform,136.0
+2014-11-12,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2014-11-12,Sterne Agee CRT,12 month,3.0,neutral,106.0
+2014-11-13,Sterne Agee CRT,12 month,3.0,neutral,106.0
+2014-11-14,Barclays,Not Provided,1.0,underweight,100.0
+2014-11-17,Nomura,12 month,3.0,neutral,99.0
+2014-11-17,Cowen,Not Provided,5.0,outperform,135.0
+2014-11-18,KeyBanc Capital Markets,Not Provided,1.0,underweight,85.0
+2014-11-19,Stephens Inc,12 month,3.0,equalweight,115.0
+2014-11-24,Stephens Inc,12 month,3.0,equalweight,115.0
+2014-12-01,Topeka Capital Markets Inc,12 month,5.0,buy,150.0
+2014-12-07,KeyBanc Capital Markets,Not Provided,1.0,underweight,85.0
+2014-12-16,Cowen,Not Provided,5.0,outperform,135.0
+2014-12-18,Goldman Sachs,6 month,3.0,neutral/attractive,113.0
+2014-12-18,KeyBanc Capital Markets,Not Provided,1.0,underweight,85.0
+2014-12-18,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2014-12-19,Cowen,Not Provided,5.0,outperform,135.0
+2015-01-04,Oppenheimer & Co,Not Provided,3.0,market perform,105.0
+2015-01-05,Jefferies,Not Provided,5.0,buy,150.0
+2015-01-05,Piper Jaffray,12 month,5.0,overweight,133.0
+2015-01-05,KeyBanc Capital Markets,Not Provided,1.0,underweight,85.0
+2015-01-06,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2015-01-07,Goldman Sachs,6 month,3.0,neutral/attractive,111.0
+2015-01-08,Cowen,Not Provided,5.0,outperform,135.0
+2015-01-16,Cowen,12 month,5.0,outperform,135.0
+2015-01-16,Macquarie,12 month,3.0,neutral,110.0
+2015-01-20,Evercore ISI,12 month,5.0,buy,150.0
+2015-01-20,Telsey Advisory Group,Not Provided,5.0,outperform,136.0
+2015-01-20,Piper Jaffray,12 month,3.0,neutral,104.0
+2015-01-20,KeyBanc Capital Markets,12 month,1.0,underweight,85.0
+2015-01-21,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2015-01-21,Oppenheimer & Co,12 month,3.0,market perform,105.0
+2015-01-23,KeyBanc Capital Markets,Not Provided,1.0,underweight,85.0
+2015-01-23,Barclays,Not Provided,1.0,underweight,95.0
+2015-01-26,Cowen,12 month,5.0,outperform,125.0
+2015-01-26,Goldman Sachs,6 month,3.0,neutral/attractive,108.0
+2015-02-02,Evercore ISI,12 month,5.0,buy,150.0
+2015-02-02,Cowen,Not Provided,5.0,outperform,125.0
+2015-02-03,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2015-02-05,Piper Jaffray,12 month,3.0,neutral,95.0
+2015-02-06,Goldman Sachs,6 month,3.0,neutral/attractive,96.0
+2015-02-09,Cowen,12 month,5.0,outperform,112.0
+2015-02-10,Stephens Inc,Not Provided,3.0,equalweight,-0.0
+2015-02-17,Oppenheimer & Co,12 month,3.0,market perform,85.0
+2015-02-18,Sterne Agee CRT,12 month,3.0,neutral,86.0
+2015-02-18,Evercore ISI,12 month,5.0,buy,100.0
+2015-02-18,Goldman Sachs,6 month,3.0,neutral/attractive,82.0
+2015-02-18,KeyBanc Capital Markets,Not Provided,1.0,underweight,75.0
+2015-02-18,Stephens Inc,12 month,3.0,equalweight,95.0
+2015-02-18,Macquarie,12 month,3.0,neutral,85.0
+2015-02-18,Cowen,12 month,5.0,outperform,98.0
+2015-02-18,Telsey Advisory Group,12 month,5.0,outperform,105.0
+2015-02-18,Jefferies,12 month,5.0,buy,130.0
+2015-02-18,Topeka Capital Markets Inc,12 month,5.0,buy,110.0
+2015-02-18,Piper Jaffray,12 month,1.0,underweight,72.0
+2015-02-18,Barclays,Not Provided,1.0,underweight,80.0
+2015-02-18,Nomura,12 month,3.0,neutral,80.0
+2015-02-22,KeyBanc Capital Markets,Not Provided,1.0,underweight,75.0
+2015-02-23,Cowen,Not Provided,5.0,outperform,98.0
+2015-03-01,KeyBanc Capital Markets,Not Provided,1.0,underweight,75.0
+2015-03-02,Piper Jaffray,12 month,1.0,underweight,72.0
+2015-03-02,Cowen,Not Provided,5.0,outperform,98.0
+2015-03-03,Stephens Inc,Not Provided,3.0,equalweight,95.0
+2015-03-05,KeyBanc Capital Markets,12 month,1.0,underweight,75.0
+2015-03-06,Telsey Advisory Group,12 month,3.0,market perform,94.0
+2015-03-06,Barclays,Not Provided,1.0,underweight,80.0
+2015-03-06,Cowen,12 month,5.0,outperform,92.0
+2015-03-06,Nomura,12 month,3.0,neutral,88.0
+2015-03-06,Stephens Inc,12 month,3.0,equalweight,95.0
+2015-03-10,Piper Jaffray,12 month,1.0,underweight,72.0
+2015-03-10,Jefferies,12 month,5.0,buy,130.0
+2015-03-11,Topeka Capital Markets Inc,12 month,5.0,buy,110.0
+2015-03-17,Stephens Inc,Not Provided,3.0,equalweight,95.0
+2015-03-23,KeyBanc Capital Markets,Not Provided,1.0,underweight,75.0
+2015-03-23,Cowen,12 month,5.0,outperform,92.0
+2015-03-24,Telsey Advisory Group,12 month,3.0,market perform,94.0
+2015-03-31,Stephens Inc,Not Provided,3.0,equalweight,95.0
+2015-04-10,Barclays,Not Provided,1.0,underweight,80.0
+2015-04-12,KeyBanc Capital Markets,12 month,1.0,underweight,75.0
+2015-04-14,Telsey Advisory Group,12 month,3.0,market perform,94.0
+2015-04-14,Piper Jaffray,12 month,1.0,underweight,72.0
+2015-04-14,Stephens Inc,Not Provided,3.0,equalweight,95.0
+2015-04-17,Barclays,Not Provided,1.0,underweight,80.0
+2015-04-20,Sterne Agee CRT,12 month,3.0,neutral,82.0
+2015-04-27,Piper Jaffray,12 month,1.0,underweight,72.0
+2015-04-28,Stephens Inc,12 month,3.0,equalweight,95.0
+2015-04-28,Telsey Advisory Group,12 month,3.0,market perform,94.0
+2015-05-05,Piper Jaffray,12 month,1.0,underweight,72.0
+2015-05-05,Evercore ISI,12 month,5.0,buy,100.0
+2015-05-05,Oppenheimer & Co,12 month,3.0,market perform,85.0
+2015-05-06,KeyBanc Capital Markets,12 month,1.0,underweight,75.0
+2015-05-06,Jefferies,12 month,5.0,buy,115.0
+2015-05-06,Cowen,12 month,3.0,market perform,90.0
+2015-05-06,Goldman Sachs,6 month,3.0,neutral/attractive,88.0
+2015-05-06,Stephens Inc,12 month,3.0,equalweight,90.0
+2015-05-06,Telsey Advisory Group,12 month,3.0,market perform,94.0
+2015-05-06,Macquarie,12 month,3.0,neutral,85.0
+2015-05-06,Sterne Agee CRT,12 month,3.0,neutral,83.0
+2015-05-06,Nomura,12 month,3.0,neutral,88.0
+2015-05-06,Barclays,Not Provided,1.0,underweight,75.0
+2015-05-07,Topeka Capital Markets Inc,12 month,5.0,buy,110.0
+2015-05-08,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-05-13,KeyBanc Capital Markets,12 month,1.0,underweight,75.0
+2015-05-13,Cowen,12 month,3.0,market perform,85.0
+2015-05-13,Jefferies,12 month,5.0,buy,115.0
+2015-05-20,KeyBanc Capital Markets,Not Provided,1.0,underweight,75.0
+2015-05-27,Piper Jaffray,12 month,1.0,underweight,65.0
+2015-05-27,KeyBanc Capital Markets,Not Provided,1.0,underweight,75.0
+2015-05-28,Cowen,Not Provided,3.0,neutral,85.0
+2015-05-29,Goldman Sachs,6 month,3.0,neutral/attractive,77.0
+2015-06-02,Stephens Inc,12 month,3.0,equalweight,90.0
+2015-06-04,KeyBanc Capital Markets,12 month,1.0,underweight,68.0
+2015-06-07,KeyBanc Capital Markets,12 month,1.0,underweight,68.0
+2015-06-09,Piper Jaffray,12 month,1.0,underweight,65.0
+2015-06-10,Cowen,Not Provided,3.0,neutral,85.0
+2015-06-15,Cowen,12 month,3.0,market perform,85.0
+2015-06-16,Stephens Inc,Not Provided,3.0,equalweight,90.0
+2015-06-23,Stephens Inc,Not Provided,3.0,equalweight,90.0
+2015-06-26,Cowen,Not Provided,3.0,market perform,85.0
+2015-06-30,KeyBanc Capital Markets,12 month,1.0,underweight,65.0
+2015-06-30,Stephens Inc,Not Provided,3.0,equalweight,90.0
+2015-07-09,KeyBanc Capital Markets,Not Provided,1.0,underweight,65.0
+2015-07-17,Stephens Inc,Not Provided,3.0,equalweight,90.0
+2015-07-19,KeyBanc Capital Markets,Not Provided,1.0,underweight,65.0
+2015-07-22,Cowen,Not Provided,3.0,market perform,85.0
+2015-07-28,Nomura,Not Provided,3.0,neutral,75.0
+2015-07-28,Stephens Inc,Not Provided,3.0,equalweight,90.0
+2015-08-05,Cowen,12 month,3.0,market perform,65.0
+2015-08-07,Telsey Advisory Group,12 month,3.0,market perform,70.0
+2015-08-10,Stephens Inc,12 month,3.0,equalweight,90.0
+2015-08-10,Topeka Capital Markets Inc,12 month,5.0,buy,110.0
+2015-08-10,Piper Jaffray,12 month,1.0,underweight,60.0
+2015-08-11,Oppenheimer & Co,12 month,3.0,market perform,70.0
+2015-08-11,Evercore ISI,12 month,5.0,buy,70.0
+2015-08-11,Piper Jaffray,12 month,1.0,underweight,53.0
+2015-08-12,KeyBanc Capital Markets,12 month,1.0,underweight,60.0
+2015-08-12,Stephens Inc,12 month,3.0,equalweight,63.0
+2015-08-12,Cowen,12 month,3.0,market perform,57.0
+2015-08-12,Topeka Capital Markets Inc,12 month,5.0,buy,110.0
+2015-08-12,Goldman Sachs,6 month,3.0,neutral/attractive,66.0
+2015-08-12,Nomura,12 month,3.0,neutral,56.0
+2015-08-12,Telsey Advisory Group,12 month,3.0,market perform,66.0
+2015-08-12,Jefferies,12 month,5.0,buy,90.0
+2015-08-12,Macquarie,12 month,3.0,neutral,62.0
+2015-08-19,Goldman Sachs,12 month,3.0,neutral/attractive,68.0
+2015-08-20,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-08-25,Stephens Inc,Not Provided,3.0,equalweight,63.0
+2015-09-04,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-09-09,Cowen,Not Provided,3.0,market perform,57.0
+2015-09-10,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-09-21,Cowen,Not Provided,3.0,neutral,57.0
+2015-09-23,Stephens Inc,Not Provided,3.0,equalweight,63.0
+2015-09-30,Mizuho Securities USA Inc,12 month,3.0,neutral,60.0
+2015-10-05,Piper Jaffray,12 month,1.0,underweight,46.0
+2015-10-05,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-10-07,Stephens Inc,Not Provided,3.0,equalweight,63.0
+2015-10-09,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-10-12,Cowen,Not Provided,3.0,neutral,57.0
+2015-10-13,Piper Jaffray,12 month,1.0,underweight,46.0
+2015-10-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-11-03,Stephens Inc,Not Provided,3.0,equalweight,63.0
+2015-11-05,Cowen,Not Provided,3.0,market perform,51.0
+2015-11-09,Nomura,12 month,3.0,neutral,56.0
+2015-11-09,Mizuho Securities USA Inc,12 month,3.0,neutral,60.0
+2015-11-09,Telsey Advisory Group,12 month,3.0,market perform,66.0
+2015-11-10,Piper Jaffray,12 month,1.0,underweight,46.0
+2015-11-10,Stephens Inc,12 month,3.0,equalweight,63.0
+2015-11-12,Evercore ISI,12 month,5.0,buy,55.0
+2015-11-12,Mizuho Securities USA Inc,12 month,3.0,neutral,44.0
+2015-11-12,Piper Jaffray,12 month,1.0,underweight,25.0
+2015-11-12,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-11-13,Macquarie,12 month,3.0,neutral,40.0
+2015-11-13,Goldman Sachs,12 month,3.0,neutral/attractive,58.0
+2015-11-13,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-11-13,Cowen,12 month,3.0,market perform,42.0
+2015-11-13,Jefferies,12 month,5.0,buy,68.0
+2015-11-13,Stephens Inc,12 month,3.0,equalweight,52.0
+2015-11-13,Nomura,12 month,3.0,neutral,40.0
+2015-11-13,Telsey Advisory Group,12 month,3.0,market perform,48.0
+2015-11-13,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-11-16,Topeka Capital Markets Inc,12 month,5.0,buy,60.0
+2015-11-19,Piper Jaffray,12 month,1.0,underweight,25.0
+2015-11-20,Goldman Sachs,12 month,3.0,neutral/attractive,38.0
+2015-11-30,Mizuho Securities USA Inc,Not Provided,3.0,neutral,44.0
+2015-11-30,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-11-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-12-02,Macquarie,12 month,3.0,neutral,35.0
+2015-12-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-12-14,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-12-18,Goldman Sachs,12 month,1.0,sell/attractive,26.0
+2015-12-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-12-22,Cowen,Not Provided,3.0,market perform,42.0

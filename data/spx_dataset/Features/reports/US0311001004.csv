@@ -1,0 +1,543 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2013-06-06,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2013-08-07,RBC Capital Markets,12 month,5.0,outperform,52.0
+2013-08-07,Janney Montgomery Scott LLC,12 month,5.0,buy,53.0
+2013-08-07,Langenberg & Co,Not Provided,3.0,hold,50.0
+2013-08-07,KeyBanc Capital Markets,12 month,5.0,buy,49.0
+2013-08-08,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2013-08-08,Baird,12 month,3.0,neutral,45.0
+2013-08-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-08-25,Oppenheimer & Co,12 month,5.0,outperform,50.0
+2013-08-27,Jefferies,12 month,5.0,buy,52.0
+2013-09-06,Morgan Stanley,12 month,3.0,Equalwt/In-Line,44.0
+2013-09-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-09-30,Jefferies,12 month,5.0,buy,53.0
+2013-10-04,Jefferies,12 month,5.0,buy,53.0
+2013-10-07,Morgan Stanley,12 month,3.0,Equalwt/In-Line,46.0
+2013-10-09,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-10-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2013-10-17,Atlantic Equities LLP,12 month,5.0,overweight,57.0
+2013-10-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-18,Jefferies,12 month,5.0,buy,53.0
+2013-10-29,Jefferies,12 month,5.0,buy,57.0
+2013-10-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-29,RBC Capital Markets,12 month,5.0,outperform,52.0
+2013-10-29,Oppenheimer & Co,12 month,5.0,outperform,50.0
+2013-10-29,KeyBanc Capital Markets,12 month,5.0,buy,51.0
+2013-10-29,Langenberg & Co,Not Provided,3.0,hold,50.0
+2013-10-29,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2013-10-30,Janney Montgomery Scott LLC,12 month,5.0,buy,55.0
+2013-10-30,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-10-30,Atlantic Equities LLP,12 month,5.0,overweight,57.0
+2013-10-30,Baird,12 month,3.0,neutral,50.0
+2013-11-01,Jefferies,12 month,5.0,buy,57.0
+2013-11-05,Oppenheimer & Co,12 month,5.0,outperform,55.0
+2013-11-08,Baird,12 month,3.0,neutral,50.0
+2013-11-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-11-15,Jefferies,12 month,5.0,buy,57.0
+2013-12-04,Baird,12 month,3.0,neutral,50.0
+2013-12-04,Janney Montgomery Scott LLC,12 month,5.0,buy,55.0
+2013-12-04,Jefferies,12 month,5.0,buy,58.0
+2013-12-04,Atlantic Equities LLP,Not Provided,5.0,overweight,57.0
+2013-12-04,RBC Capital Markets,12 month,5.0,outperform,52.0
+2013-12-06,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-12-12,RBC Capital Markets,12 month,5.0,outperform,56.0
+2013-12-16,Atlantic Equities LLP,12 month,5.0,overweight,57.0
+2013-12-20,Jefferies,12 month,5.0,buy,62.0
+2014-01-03,Janney Montgomery Scott LLC,12 month,5.0,buy,55.0
+2014-01-03,RBC Capital Markets,12 month,5.0,outperform,56.0
+2014-01-03,Jefferies,12 month,5.0,buy,62.0
+2014-01-06,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-01-06,Baird,12 month,3.0,neutral,50.0
+2014-01-07,Atlantic Equities LLP,12 month,5.0,overweight,58.0
+2014-01-08,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2014-01-13,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-01-14,Jefferies,12 month,5.0,buy,64.0
+2014-01-22,RBC Capital Markets,12 month,5.0,outperform,60.0
+2014-01-22,Janney Montgomery Scott LLC,12 month,5.0,buy,55.0
+2014-01-29,KeyBanc Capital Markets,12 month,5.0,buy,57.0
+2014-01-29,Oppenheimer & Co,12 month,5.0,outperform,55.0
+2014-01-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-01-29,RBC Capital Markets,12 month,5.0,outperform,60.0
+2014-01-29,Atlantic Equities LLP,12 month,5.0,overweight,58.0
+2014-01-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-01-29,Janney Montgomery Scott LLC,12 month,5.0,buy,59.0
+2014-01-29,Jefferies,12 month,5.0,buy,64.0
+2014-01-30,Baird,12 month,3.0,neutral,52.0
+2014-01-30,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2014-01-30,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-01-31,Atlantic Equities LLP,12 month,5.0,overweight,58.0
+2014-02-01,Langenberg & Co,Not Provided,5.0,buy,55.0
+2014-02-10,Janney Montgomery Scott LLC,12 month,5.0,buy,59.0
+2014-02-11,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-02-18,Jefferies,12 month,5.0,buy,64.0
+2014-03-05,Jefferies,12 month,5.0,buy,64.0
+2014-03-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-03-19,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2014-03-27,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-10,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-11,RBC Capital Markets,12 month,5.0,outperform,60.0
+2014-04-14,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-04-14,Baird,12 month,3.0,neutral,52.0
+2014-04-14,Atlantic Equities LLP,Not Provided,5.0,overweight,58.0
+2014-04-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-04-17,Jefferies,12 month,5.0,buy,64.0
+2014-04-29,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-05-02,Jefferies,12 month,5.0,buy,64.0
+2014-05-06,Baird,12 month,3.0,neutral,52.0
+2014-05-06,Jefferies,12 month,5.0,buy,64.0
+2014-05-06,KeyBanc Capital Markets,12 month,5.0,buy,57.0
+2014-05-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-05-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-06,Janney Montgomery Scott LLC,12 month,5.0,buy,59.0
+2014-05-06,Oppenheimer & Co,12 month,5.0,outperform,57.0
+2014-05-07,Atlantic Equities LLP,12 month,5.0,overweight,58.0
+2014-05-07,Morgan Stanley,12 month,3.0,Equalwt/In-Line,52.0
+2014-05-07,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-05-07,RBC Capital Markets,12 month,5.0,outperform,60.0
+2014-05-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-05-20,KeyBanc Capital Markets,12 month,5.0,buy,57.0
+2014-05-21,Jefferies,12 month,5.0,buy,64.0
+2014-05-29,KeyBanc Capital Markets,12 month,5.0,buy,57.0
+2014-06-06,Jefferies,12 month,5.0,buy,64.0
+2014-06-08,RBC Capital Markets,12 month,5.0,outperform,60.0
+2014-06-11,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-06-19,Oppenheimer & Co,12 month,5.0,outperform,57.0
+2014-06-24,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-06-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-27,Jefferies,Not Provided,5.0,buy,64.0
+2014-07-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-09,Morgan Stanley,12 month,3.0,Equalwt/In-Line,53.0
+2014-07-11,Baird,Not Provided,3.0,neutral,52.0
+2014-07-14,KeyBanc Capital Markets,12 month,5.0,buy,58.0
+2014-07-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-07-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-21,Jefferies,12 month,5.0,buy,64.0
+2014-07-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-08-05,Jefferies,12 month,5.0,buy,64.0
+2014-08-05,Atlantic Equities LLP,12 month,5.0,overweight,58.0
+2014-08-05,Oppenheimer & Co,12 month,5.0,outperform,59.0
+2014-08-05,Janney Montgomery Scott LLC,12 month,5.0,buy,61.0
+2014-08-05,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-08-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-08-05,KeyBanc Capital Markets,12 month,5.0,buy,58.0
+2014-08-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,53.0
+2014-08-06,Morgan Stanley,12 month,3.0,Equalwt/In-Line,56.0
+2014-08-06,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-08-06,Baird,12 month,3.0,neutral,53.0
+2014-08-07,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-08-13,Atlantic Equities LLP,12 month,5.0,overweight,58.0
+2014-08-15,Jefferies,12 month,5.0,buy,64.0
+2014-08-20,KeyBanc Capital Markets,12 month,5.0,buy,60.0
+2014-08-29,Jefferies,12 month,5.0,buy,64.0
+2014-09-05,Jefferies,12 month,5.0,buy,64.0
+2014-09-12,Jefferies,12 month,5.0,buy,64.0
+2014-09-26,Jefferies,12 month,5.0,buy,64.0
+2014-10-03,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-07,Morgan Stanley,12 month,3.0,Equalwt/In-Line,53.0
+2014-10-08,Atlantic Equities LLP,12 month,5.0,overweight,63.0
+2014-10-15,KeyBanc Capital Markets,12 month,5.0,buy,60.0
+2014-10-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-15,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-28,Morgan Stanley,12 month,3.0,Equalwt/In-Line,55.0
+2014-10-28,Janney Montgomery Scott LLC,12 month,5.0,buy,61.0
+2014-10-28,Jefferies,12 month,5.0,buy,61.0
+2014-10-28,Oppenheimer & Co,12 month,5.0,outperform,59.0
+2014-10-28,Atlantic Equities LLP,12 month,5.0,overweight,63.0
+2014-10-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-29,Baird,12 month,3.0,neutral,58.0
+2014-11-04,Atlantic Equities LLP,12 month,5.0,overweight,63.0
+2014-11-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-11-10,KeyBanc Capital Markets,12 month,5.0,buy,60.0
+2014-11-13,Oppenheimer & Co,12 month,5.0,outperform,59.0
+2014-11-13,Morgan Stanley,12 month,3.0,Equalwt/In-Line,55.0
+2014-11-14,Baird,12 month,3.0,neutral,58.0
+2014-11-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-11-18,Jefferies,12 month,5.0,buy,61.0
+2014-11-20,Janney Montgomery Scott LLC,12 month,5.0,buy,61.0
+2014-11-24,Baird,12 month,3.0,neutral,58.0
+2014-11-24,RBC Capital Markets,12 month,5.0,outperform,62.0
+2014-12-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-12-09,Jefferies,Not Provided,5.0,buy,60.0
+2014-12-11,Stifel,12 month,5.0,buy,59.0
+2014-12-23,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-01-07,Baird,Not Provided,3.0,neutral,58.0
+2015-01-14,KeyBanc Capital Markets,Not Provided,5.0,buy,55.0
+2015-01-14,Atlantic Equities LLP,12 month,5.0,overweight,63.0
+2015-01-14,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-01-20,Jefferies,Not Provided,5.0,buy,60.0
+2015-01-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-20,Stifel,12 month,5.0,buy,55.0
+2015-01-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-23,Baird,Not Provided,3.0,neutral,58.0
+2015-01-23,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-01-28,Jefferies,12 month,5.0,buy,65.0
+2015-01-28,Oppenheimer & Co,12 month,5.0,outperform,59.0
+2015-01-28,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-01-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-29,Morgan Stanley,12 month,3.0,Equalwt/In-Line,53.0
+2015-01-29,Baird,12 month,3.0,neutral,56.0
+2015-01-29,Stifel,12 month,5.0,buy,57.0
+2015-01-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-01-30,Atlantic Equities LLP,12 month,5.0,overweight,57.0
+2015-02-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-04,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-02-10,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-02-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-02-13,Baird,12 month,5.0,outperform,56.0
+2015-02-18,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-02-25,Stifel,12 month,5.0,buy,58.0
+2015-03-01,KeyBanc Capital Markets,Not Provided,5.0,overweight,55.0
+2015-03-03,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-03-11,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-15,Morgan Stanley,12 month,3.0,Equalwt/In-Line,53.0
+2015-03-22,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-04-01,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-04-01,Stifel,12 month,5.0,buy,58.0
+2015-04-10,Jefferies,12 month,5.0,buy,65.0
+2015-04-10,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-04-14,KeyBanc Capital Markets,12 month,5.0,overweight,57.0
+2015-04-14,Baird,Not Provided,5.0,outperform,56.0
+2015-04-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-29,KeyBanc Capital Markets,Not Provided,5.0,overweight,57.0
+2015-04-29,Oppenheimer & Co,12 month,5.0,outperform,59.0
+2015-04-29,Atlantic Equities LLP,12 month,5.0,overweight,57.0
+2015-04-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-29,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-04-29,Jefferies,12 month,5.0,buy,65.0
+2015-04-29,Stifel,12 month,5.0,buy,59.0
+2015-04-30,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-04-30,Baird,12 month,5.0,outperform,56.0
+2015-04-30,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-05-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-01,Morgan Stanley,12 month,3.0,Equalwt/In-Line,55.0
+2015-05-07,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-05-08,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-05-08,Jefferies,12 month,5.0,buy,65.0
+2015-05-08,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-05-11,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-05-12,Stifel,12 month,5.0,buy,63.0
+2015-05-19,Jefferies,12 month,5.0,buy,65.0
+2015-05-19,Atlantic Equities LLP,12 month,5.0,overweight,60.0
+2015-05-28,KeyBanc Capital Markets,12 month,5.0,overweight,57.0
+2015-05-31,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-06-04,Jefferies,12 month,5.0,buy,65.0
+2015-06-08,Baird,12 month,5.0,outperform,56.0
+2015-06-08,Jefferies,12 month,5.0,buy,65.0
+2015-06-08,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-06-08,Stifel,12 month,5.0,buy,63.0
+2015-06-09,Oppenheimer & Co,18 month,5.0,outperform,59.0
+2015-06-09,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-09,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-06-16,Stifel,12 month,5.0,buy,63.0
+2015-06-18,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-21,RBC Capital Markets,12 month,5.0,outperform,64.0
+2015-06-26,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-07,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-09,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-07-09,Morgan Stanley,12 month,3.0,Equalwt/In-Line,57.0
+2015-07-12,KeyBanc Capital Markets,Not Provided,5.0,overweight,60.0
+2015-07-12,Stifel,Not Provided,5.0,buy,63.0
+2015-07-16,Baird,Not Provided,5.0,outperform,56.0
+2015-07-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-21,Alembic Global Advisors,12 month,5.0,overweight,64.0
+2015-08-04,Oppenheimer & Co,12 month,5.0,outperform,59.0
+2015-08-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,58.0
+2015-08-04,Jefferies,12 month,5.0,buy,71.0
+2015-08-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-08-04,RBC Capital Markets,12 month,5.0,outperform,64.0
+2015-08-04,KeyBanc Capital Markets,Not Provided,5.0,overweight,60.0
+2015-08-05,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-08-05,Alembic Global Advisors,12 month,5.0,overweight,64.0
+2015-08-05,Atlantic Equities LLP,12 month,5.0,overweight,60.0
+2015-08-05,Baird,12 month,5.0,outperform,56.0
+2015-08-06,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-08-09,Stifel,Not Provided,5.0,buy,63.0
+2015-08-17,Jefferies,12 month,5.0,buy,71.0
+2015-08-18,RBC Capital Markets,12 month,5.0,outperform,64.0
+2015-08-26,Stifel,Not Provided,5.0,buy,59.0
+2015-08-31,Jefferies,12 month,5.0,buy,71.0
+2015-09-03,Oppenheimer & Co,12 month,5.0,outperform,59.0
+2015-09-09,RBC Capital Markets,12 month,5.0,outperform,64.0
+2015-09-18,RBC Capital Markets,12 month,5.0,outperform,63.0
+2015-09-24,Jefferies,12 month,5.0,buy,71.0
+2015-10-05,Baird,Not Provided,5.0,outperform,56.0
+2015-10-07,Morgan Stanley,12 month,3.0,Equalwt/In-Line,56.0
+2015-10-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-12,Stifel,Not Provided,5.0,buy,59.0
+2015-10-12,Cowen,12 month,3.0,market perform,62.0
+2015-10-13,RBC Capital Markets,12 month,5.0,outperform,63.0
+2015-10-13,KeyBanc Capital Markets,Not Provided,5.0,overweight,60.0
+2015-10-27,Oppenheimer & Co,12 month,5.0,outperform,59.0
+2015-10-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-27,Alembic Global Advisors,12 month,5.0,overweight,64.0
+2015-10-27,Atlantic Equities LLP,12 month,5.0,overweight,60.0
+2015-10-27,Cowen,12 month,3.0,market perform,62.0
+2015-10-27,KeyBanc Capital Markets,12 month,5.0,overweight,60.0
+2015-10-27,Morgan Stanley,12 month,3.0,Equalwt/In-Line,56.0
+2015-10-27,RBC Capital Markets,12 month,5.0,outperform,63.0
+2015-10-27,Jefferies,12 month,5.0,buy,66.0
+2015-10-28,Stifel,12 month,5.0,buy,60.0
+2015-10-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-28,Jefferies,Not Provided,5.0,buy,66.0
+2015-10-28,Baird,12 month,5.0,outperform,56.0
+2015-10-28,RBC Capital Markets,12 month,5.0,outperform,62.0
+2015-10-28,Morgan Stanley,12 month,3.0,Equalwt/In-Line,56.0
+2015-11-02,Atlantic Equities LLP,12 month,5.0,overweight,60.0
+2015-11-09,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-11-12,Morgan Stanley,12 month,3.0,Equalwt/In-Line,56.0
+2015-11-13,Baird,Not Provided,5.0,outperform,56.0
+2015-11-20,Cowen,Not Provided,3.0,market perform,62.0
+2015-11-24,Stifel,Not Provided,5.0,buy,64.0
+2015-11-30,RBC Capital Markets,12 month,5.0,outperform,64.0
+2015-12-13,Stifel,12 month,5.0,buy,64.0
+2015-12-16,Jefferies,12 month,5.0,buy,66.0
+2016-01-05,RBC Capital Markets,12 month,5.0,outperform,64.0
+2016-01-07,Alembic Global Advisors,Not Provided,5.0,overweight,64.0
+2016-01-08,Baird,Not Provided,5.0,outperform,56.0
+2016-01-11,Morgan Stanley,12 month,3.0,Equalwt/In-Line,53.0
+2016-01-20,Stifel,Not Provided,5.0,buy,52.0
+2016-01-20,RBC Capital Markets,12 month,5.0,outperform,63.0
+2016-01-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-05,Oppenheimer & Co,12 month,5.0,outperform,56.0
+2016-02-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-05,Stifel,12 month,5.0,buy,50.0
+2016-02-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-05,Atlantic Equities LLP,12 month,5.0,overweight,60.0
+2016-02-05,Cowen,12 month,3.0,market perform,62.0
+2016-02-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,53.0
+2016-02-07,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-02-08,Jefferies,12 month,5.0,buy,60.0
+2016-02-08,Baird,12 month,5.0,outperform,49.0
+2016-02-08,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-02-08,RBC Capital Markets,12 month,5.0,outperform,58.0
+2016-02-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2016-02-17,Atlantic Equities LLP,12 month,5.0,overweight,55.0
+2016-02-18,RBC Capital Markets,12 month,5.0,outperform,58.0
+2016-02-21,Cowen,12 month,3.0,market perform,54.0
+2016-02-25,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-03-04,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-03-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-17,RBC Capital Markets,12 month,5.0,outperform,58.0
+2016-03-18,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-03-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-21,William Blair & Co,12 month,5.0,outperform,57.0
+2016-03-27,Oppenheimer & Co,12 month,5.0,outperform,56.0
+2016-04-03,Stifel,Not Provided,5.0,buy,55.0
+2016-04-04,BMO Capital Markets,Not Provided,5.0,outperform,60.0
+2016-04-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-07,Morgan Stanley,12 month,3.0,Equalwt/In-Line,49.0
+2016-04-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-12,RBC Capital Markets,12 month,5.0,outperform,58.0
+2016-04-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-14,Stifel,Not Provided,5.0,buy,58.0
+2016-04-18,Baird,Not Provided,5.0,outperform,49.0
+2016-04-24,RBC Capital Markets,12 month,5.0,outperform,58.0
+2016-04-28,William Blair & Co,12 month,5.0,outperform,55.0
+2016-04-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-28,Cowen,12 month,3.0,market perform,54.0
+2016-04-28,Morgan Stanley,12 month,3.0,Equalwt/In-Line,47.0
+2016-04-28,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-04-29,Atlantic Equities LLP,12 month,3.0,neutral,51.0
+2016-04-29,Baird,12 month,3.0,neutral,51.0
+2016-04-29,Jefferies,12 month,5.0,buy,56.0
+2016-05-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-04,Oppenheimer & Co,12 month,5.0,outperform,56.0
+2016-05-04,BMO Capital Markets,Not Provided,5.0,outperform,58.0
+2016-05-04,Stifel,12 month,5.0,buy,56.0
+2016-05-04,RBC Capital Markets,12 month,5.0,outperform,54.0
+2016-05-05,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-05-05,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-05-10,Stifel,Not Provided,5.0,buy,56.0
+2016-05-11,RBC Capital Markets,12 month,5.0,outperform,54.0
+2016-05-16,BMO Capital Markets,Not Provided,5.0,outperform,58.0
+2016-05-17,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-05-19,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-05-26,Stifel,12 month,5.0,buy,56.0
+2016-06-02,RBC Capital Markets,12 month,5.0,outperform,56.0
+2016-06-02,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-06-07,BMO Capital Markets,Not Provided,5.0,outperform,58.0
+2016-06-08,Stifel,Not Provided,5.0,buy,56.0
+2016-06-08,Oppenheimer & Co,12 month,5.0,outperform,56.0
+2016-06-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-13,Stifel,Not Provided,5.0,buy,56.0
+2016-06-14,Cowen,12 month,3.0,market perform,54.0
+2016-06-15,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-06-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-20,Stifel,12 month,5.0,buy,56.0
+2016-06-24,BMO Capital Markets,Not Provided,5.0,outperform,58.0
+2016-06-24,RBC Capital Markets,12 month,5.0,outperform,56.0
+2016-06-28,Jefferies,12 month,5.0,buy,56.0
+2016-07-11,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2016-07-12,RBC Capital Markets,12 month,5.0,outperform,56.0
+2016-07-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-15,Stifel,Not Provided,5.0,buy,56.0
+2016-07-19,Baird,Not Provided,3.0,neutral,51.0
+2016-07-25,Alembic Global Advisors,Not Provided,5.0,overweight,56.0
+2016-08-04,Oppenheimer & Co,12 month,5.0,outperform,54.0
+2016-08-04,William Blair & Co,12 month,5.0,outperform,52.0
+2016-08-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-08-04,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-08-04,Jefferies,12 month,5.0,buy,56.0
+2016-08-04,Stifel,12 month,5.0,buy,50.0
+2016-08-04,Atlantic Equities LLP,12 month,3.0,neutral,51.0
+2016-08-05,RBC Capital Markets,12 month,5.0,outperform,53.0
+2016-08-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-05,BMO Capital Markets,Not Provided,5.0,outperform,53.0
+2016-08-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2016-08-05,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-08-05,Baird,12 month,3.0,neutral,47.0
+2016-08-08,Atlantic Equities LLP,12 month,3.0,neutral,48.0
+2016-08-10,Jefferies,12 month,5.0,buy,54.0
+2016-08-10,Alembic Global Advisors,12 month,5.0,overweight,56.0
+2016-08-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-08-14,Stifel,12 month,5.0,buy,50.0
+2016-08-15,RBC Capital Markets,12 month,5.0,outperform,53.0
+2016-08-22,BMO Capital Markets,Not Provided,5.0,outperform,53.0
+2016-08-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-08-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-07,Cowen,12 month,3.0,market perform,54.0
+2016-09-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-08,Stifel,Not Provided,5.0,buy,55.0
+2016-09-08,RBC Capital Markets,12 month,5.0,outperform,59.0
+2016-09-09,BMO Capital Markets,Not Provided,5.0,outperform,55.0
+2016-09-12,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-09-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-23,RBC Capital Markets,12 month,5.0,outperform,59.0
+2016-09-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-28,Stifel,Not Provided,5.0,buy,55.0
+2016-10-03,Oppenheimer & Co,12 month,5.0,outperform,54.0
+2016-10-11,Stifel,Not Provided,5.0,buy,53.0
+2016-10-11,RBC Capital Markets,12 month,5.0,outperform,59.0
+2016-10-12,Baird,Not Provided,3.0,neutral,47.0
+2016-10-13,Cowen,Not Provided,3.0,market perform,54.0
+2016-10-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-10-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,47.0
+2016-10-20,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-10-24,Janney Montgomery Scott LLC,12 month,5.0,buy,56.0
+2016-10-25,Jefferies,Not Provided,5.0,buy,54.0
+2016-11-01,William Blair & Co,12 month,5.0,outperform,52.0
+2016-11-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-01,Oppenheimer & Co,12 month,5.0,outperform,52.0
+2016-11-01,Cowen,12 month,3.0,market perform,54.0
+2016-11-01,Stifel,12 month,5.0,buy,50.0
+2016-11-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-11-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-01,BMO Capital Markets,Not Provided,5.0,outperform,54.0
+2016-11-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2016-11-02,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-11-02,Jefferies,12 month,5.0,buy,53.0
+2016-11-02,Baird,12 month,3.0,neutral,47.0
+2016-11-02,Alembic Global Advisors,12 month,5.0,overweight,52.0
+2016-11-03,RBC Capital Markets,12 month,5.0,outperform,57.0
+2016-11-07,Atlantic Equities LLP,12 month,3.0,neutral,48.0
+2016-11-07,Janney Montgomery Scott LLC,Not Provided,5.0,buy,56.0
+2016-11-08,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-11-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-14,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-11-15,Stifel,Not Provided,5.0,buy,53.0
+2016-11-17,BMO Capital Markets,Not Provided,5.0,outperform,54.0
+2016-11-18,Cowen,Not Provided,3.0,market perform,54.0
+2016-11-21,Janney Montgomery Scott LLC,Not Provided,5.0,buy,56.0
+2016-11-21,William Blair & Co,12 month,5.0,outperform,52.0
+2016-11-23,Baird,Not Provided,3.0,neutral,47.0
+2016-11-28,KeyBanc Capital Markets,12 month,5.0,overweight,55.0
+2016-12-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-12-06,RBC Capital Markets,12 month,5.0,outperform,57.0
+2016-12-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-08,Stifel,Not Provided,5.0,buy,54.0
+2016-12-12,Janney Montgomery Scott LLC,Not Provided,5.0,buy,56.0
+2016-12-12,BMO Capital Markets,Not Provided,5.0,outperform,58.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-12-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,55.0
+2016-12-22,Baird,Not Provided,5.0,outperform,57.0
+2016-12-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-01-04,RBC Capital Markets,12 month,5.0,outperform,57.0
+2017-01-04,Cowen,Not Provided,5.0,outperform,62.0
+2017-01-05,KeyBanc Capital Markets,12 month,5.0,overweight,58.0
+2017-01-06,Baird,12 month,5.0,outperform,57.0
+2017-01-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-10,BMO Capital Markets,Not Provided,5.0,outperform,62.0
+2017-01-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-01-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-17,KeyBanc Capital Markets,12 month,5.0,overweight,58.0
+2017-01-18,RBC Capital Markets,12 month,5.0,outperform,57.0
+2017-01-18,Stifel,12 month,5.0,buy,58.0
+2017-01-23,Janney Montgomery Scott LLC,Not Provided,5.0,buy,56.0
+2017-01-23,Cowen,Not Provided,5.0,outperform,62.0
+2017-01-27,Alembic Global Advisors,Not Provided,5.0,overweight,57.0
+2017-02-01,Jefferies,Not Provided,5.0,buy,60.0
+2017-02-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-07,Baird,12 month,5.0,outperform,57.0
+2017-02-07,Stifel,12 month,5.0,buy,59.0
+2017-02-07,Janney Montgomery Scott LLC,Not Provided,5.0,buy,56.0
+2017-02-07,RBC Capital Markets,12 month,5.0,outperform,60.0
+2017-02-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-07,Oppenheimer & Co,12 month,5.0,outperform,57.0
+2017-02-07,BMO Capital Markets,Not Provided,5.0,outperform,62.0
+2017-02-07,Jefferies,12 month,5.0,buy,60.0
+2017-02-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-07,KeyBanc Capital Markets,12 month,5.0,overweight,58.0
+2017-02-07,Atlantic Equities LLP,12 month,3.0,neutral,48.0
+2017-02-07,Vertical Research Partners,Not Provided,5.0,buy,60.0
+2017-02-07,Cowen,12 month,5.0,outperform,62.0
+2017-02-08,Alembic Global Advisors,12 month,5.0,overweight,59.0
+2017-02-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-09,Morgan Stanley,12 month,3.0,Equalwt/In-Line,57.0
+2017-02-13,Cowen,Not Provided,5.0,outperform,62.0
+2017-02-14,KeyBanc Capital Markets,12 month,5.0,overweight,58.0
+2017-02-15,Atlantic Equities LLP,12 month,5.0,overweight,62.0
+2017-02-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-21,Vertical Research Partners,Not Provided,5.0,buy,60.0
+2017-02-21,Jefferies,12 month,5.0,buy,63.0
+2017-02-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-28,BMO Capital Markets,Not Provided,5.0,outperform,62.0
+2017-03-06,Janney Montgomery Scott LLC,12 month,5.0,buy,56.0
+2017-03-08,RBC Capital Markets,12 month,5.0,outperform,62.0
+2017-03-10,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2017-03-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-03-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-28,BMO Capital Markets,Not Provided,5.0,outperform,65.0
+2017-04-03,Janney Montgomery Scott LLC,Not Provided,5.0,buy,56.0
+2017-04-05,RBC Capital Markets,12 month,5.0,outperform,62.0
+2017-04-09,Cowen,12 month,5.0,outperform,62.0
+2017-04-13,Atlantic Equities LLP,12 month,5.0,overweight,62.0
+2017-04-17,RBC Capital Markets,12 month,5.0,outperform,62.0
+2017-04-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-17,BMO Capital Markets,Not Provided,5.0,outperform,65.0
+2017-04-17,Janney Montgomery Scott LLC,Not Provided,5.0,buy,56.0
+2017-04-17,Vertical Research Partners,Not Provided,5.0,buy,60.0
+2017-04-17,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2017-04-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-24,Janney Montgomery Scott LLC,Not Provided,5.0,buy,56.0
+2017-04-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-05-01,Janney Montgomery Scott LLC,Not Provided,5.0,buy,56.0
+2017-05-02,Oppenheimer & Co,12 month,5.0,outperform,65.0
+2017-05-02,Cowen,12 month,5.0,outperform,62.0
+2017-05-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-02,Jefferies,12 month,5.0,buy,66.0
+2017-05-02,RBC Capital Markets,12 month,5.0,outperform,67.0
+2017-05-02,Vertical Research Partners,Not Provided,5.0,buy,66.0
+2017-05-02,KeyBanc Capital Markets,12 month,5.0,overweight,65.0
+2017-05-02,Atlantic Equities LLP,12 month,5.0,overweight,62.0
+2017-05-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-02,Baird,12 month,5.0,outperform,62.0
+2017-05-02,BMO Capital Markets,Not Provided,5.0,outperform,67.0
+2017-05-03,Janney Montgomery Scott LLC,Not Provided,5.0,buy,65.0
+2017-05-03,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2017-05-03,Alembic Global Advisors,12 month,5.0,overweight,64.0
+2017-05-03,Stifel,12 month,5.0,buy,66.0
+2017-05-04,Atlantic Equities LLP,12 month,5.0,overweight,66.0
+2017-05-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-05-08,Morgan Stanley,12 month,3.0,Equalwt/In-Line,62.0
+2017-05-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-11,BMO Capital Markets,Not Provided,5.0,outperform,67.0
+2017-05-12,Stifel,12 month,5.0,buy,66.0

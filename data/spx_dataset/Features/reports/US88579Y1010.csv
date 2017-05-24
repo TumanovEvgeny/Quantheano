@@ -1,0 +1,1769 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2005-01-13,Longbow Research,Not Provided,5.0,buy,88.0
+2005-02-15,A.G. Edwards & Sons Inc,12 month,5.0,buy,100.0
+2005-06-03,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2005-07-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2005-07-19,Barclays,Not Provided,5.0,overwt/positive,85.0
+2005-07-19,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2005-08-31,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2005-09-13,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2005-10-20,Hilliard Lyons,12 month,5.0,buy,95.0
+2005-11-03,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2005-12-07,Buckingham Research Group,Not Provided,4.0,accumulate,90.0
+2005-12-07,Prudential Equity Group Inc,12 month,3.0,neutral weight,83.0
+2005-12-09,UBS,Not Provided,5.0,buy 1,96.0
+2005-12-09,Goldman Sachs,Not Provided,5.0,outperf/attractive,-0.0
+2005-12-19,Soleil Securities,Not Provided,5.0,buy,95.0
+2006-01-03,Credit Suisse,12 month,5.0,outperform,104.0
+2006-01-03,Greenwich Consultants LLC,Not Provided,5.0,buy,85.0
+2006-01-24,Prudential Equity Group Inc,12 month,3.0,neutral weight,75.0
+2006-01-25,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-01-25,Goldman Sachs,Not Provided,5.0,outperf/attractive,-0.0
+2006-01-25,Hilliard Lyons,12 month,5.0,buy,95.0
+2006-01-25,Barclays,Not Provided,5.0,overwt/positive,88.0
+2006-01-25,UBS,Not Provided,5.0,buy 1,96.0
+2006-01-25,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2006-02-14,Credit Suisse,12 month,5.0,outperform,104.0
+2006-03-01,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2006-03-06,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2006-04-04,UBS,Not Provided,5.0,buy 1,96.0
+2006-04-05,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2006-04-06,Prudential Equity Group Inc,12 month,3.0,neutral weight,80.0
+2006-04-17,Soleil Securities,Not Provided,5.0,buy,100.0
+2006-04-21,Buckingham Research Group,Not Provided,4.0,accumulate,95.0
+2006-04-24,Prudential Equity Group Inc,12 month,5.0,overweight,95.0
+2006-04-24,Credit Suisse,12 month,5.0,outperform,104.0
+2006-04-24,UBS,Not Provided,5.0,buy 1,102.0
+2006-04-26,Barclays,Not Provided,5.0,overwt/positive,98.0
+2006-05-03,UBS,Not Provided,5.0,buy 1,102.0
+2006-05-03,Soleil Securities,Not Provided,5.0,buy,100.0
+2006-05-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-05-10,Buckingham Research Group,Not Provided,4.0,accumulate,100.0
+2006-05-11,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2006-05-18,Barclays,Not Provided,5.0,overwt/positive,98.0
+2006-06-12,Soleil Securities,Not Provided,5.0,buy,100.0
+2006-06-28,Barclays,Not Provided,5.0,overwt/positive,100.0
+2006-07-07,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-07-07,Credit Suisse,12 month,5.0,outperform,104.0
+2006-07-10,Buckingham Research Group,Not Provided,4.0,accumulate,85.0
+2006-07-17,Soleil Securities,Not Provided,5.0,buy,90.0
+2006-07-19,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2006-07-25,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2006-07-26,UBS,Not Provided,5.0,buy 1,100.0
+2006-07-26,Prudential Equity Group Inc,12 month,5.0,overweight,85.0
+2006-07-26,Hilliard Lyons,12 month,5.0,buy,95.0
+2006-07-26,Barclays,Not Provided,5.0,overwt/positive,90.0
+2006-07-26,Soleil Securities,Not Provided,3.0,hold,77.0
+2006-07-26,Credit Suisse,12 month,5.0,outperform,88.0
+2006-07-27,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2006-08-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-08-14,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-08-15,Credit Suisse,12 month,5.0,outperform,88.0
+2006-08-15,Soleil Securities,Not Provided,3.0,hold,77.0
+2006-09-29,Prudential Equity Group Inc,12 month,5.0,overweight,85.0
+2006-10-11,Credit Suisse,12 month,5.0,outperform,88.0
+2006-10-12,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2006-10-20,S&P Capital IQ,Not Provided,3.0,hold,-0.0
+2006-10-20,Buckingham Research Group,Not Provided,4.0,accumulate,88.0
+2006-10-23,UBS,Not Provided,5.0,buy 1,100.0
+2006-10-23,Hilliard Lyons,12 month,5.0,buy,95.0
+2006-10-23,Prudential Equity Group Inc,12 month,5.0,overweight,92.0
+2006-10-23,Credit Suisse,12 month,5.0,outperform,88.0
+2006-11-01,Credit Suisse,12 month,5.0,outperform,88.0
+2006-11-02,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-11-09,Prudential Equity Group Inc,12 month,5.0,overweight,92.0
+2006-11-09,Credit Suisse,12 month,5.0,outperform,88.0
+2006-11-30,Barclays,Not Provided,3.0,equalwt/positive,87.0
+2006-12-08,Prudential Equity Group Inc,Not Provided,3.0,neutral,84.0
+2006-12-22,Soleil Securities,Not Provided,3.0,hold,82.0
+2007-01-08,Credit Suisse,12 month,5.0,outperform,95.0
+2007-01-12,Credit Suisse,12 month,5.0,outperform,93.0
+2007-01-18,Goldman Sachs,Not Provided,3.0,neutral/neutral,86.0
+2007-01-30,Goldman Sachs,Not Provided,3.0,neutral/neutral,80.0
+2007-01-31,Hilliard Lyons,12 month,5.0,buy,95.0
+2007-01-31,Soleil Securities,Not Provided,3.0,hold,80.0
+2007-01-31,Barclays,Not Provided,3.0,equalwt/positive,80.0
+2007-01-31,UBS,Not Provided,5.0,buy 1,90.0
+2007-01-31,Prudential Equity Group Inc,Not Provided,3.0,neutral,77.0
+2007-01-31,Credit Suisse,Not Provided,3.0,neutral,82.0
+2007-02-05,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-02-13,Soleil Securities,Not Provided,5.0,buy,86.0
+2007-02-13,UBS,Not Provided,5.0,buy 1,90.0
+2007-02-13,Credit Suisse,Not Provided,3.0,neutral,82.0
+2007-02-14,Prudential Equity Group Inc,Not Provided,3.0,neutral,77.0
+2007-03-05,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,89.0
+2007-03-19,Credit Suisse,Not Provided,3.0,neutral,82.0
+2007-04-19,Soleil Securities,Not Provided,5.0,buy,86.0
+2007-04-26,Prudential Equity Group Inc,Not Provided,5.0,overweight,91.0
+2007-04-26,Soleil Securities,Not Provided,5.0,buy,90.0
+2007-04-26,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2007-04-26,S&P Capital IQ,12 month,3.0,hold,86.0
+2007-04-27,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,90.0
+2007-04-27,Barclays,Not Provided,3.0,equalwt/positive,85.0
+2007-04-27,Hilliard Lyons,12 month,5.0,buy,95.0
+2007-04-27,Credit Suisse,Not Provided,3.0,neutral,86.0
+2007-05-01,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-05-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-05-18,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-06-07,Goldman Sachs,Not Provided,3.0,neutral/neutral,93.0
+2007-06-20,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-07-12,Greenwich Consultants LLC,Not Provided,3.0,neutral,-0.0
+2007-07-13,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2007-07-16,Buckingham Research Group,Not Provided,4.0,accumulate,104.0
+2007-07-18,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-07-26,Goldman Sachs,Not Provided,3.0,neutral/neutral,98.0
+2007-07-27,Hilliard Lyons,36 month,5.0,buy,120.0
+2007-07-27,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,98.0
+2007-07-27,Credit Suisse,Not Provided,3.0,neutral,98.0
+2007-07-27,Barclays,Not Provided,3.0,equalwt/positive,92.0
+2007-08-06,Soleil Securities,Not Provided,5.0,buy,100.0
+2007-08-20,Goldman Sachs,Not Provided,3.0,neutral/neutral,93.0
+2007-08-22,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-09-12,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-09-28,UBS,12 month,5.0,buy,108.0
+2007-10-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2007-10-08,Goldman Sachs,Not Provided,3.0,neutral/neutral,100.0
+2007-10-10,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,98.0
+2007-10-10,UBS,12 month,5.0,buy,108.0
+2007-10-10,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-10-19,Edward Jones,Not Provided,5.0,buy,-0.0
+2007-10-19,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-10-21,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,105.0
+2007-10-21,Goldman Sachs,Not Provided,3.0,neutral/neutral,97.0
+2007-10-22,Barclays,Not Provided,3.0,equalwt/positive,90.0
+2007-10-22,Hilliard Lyons,36 month,5.0,long-term buy,120.0
+2007-10-22,UBS,12 month,5.0,buy,103.0
+2007-10-22,Credit Suisse,Not Provided,3.0,neutral,96.0
+2007-10-22,Soleil Securities,Not Provided,3.0,hold,91.0
+2007-11-09,Goldman Sachs,Not Provided,1.0,Sell/Neutral,77.0
+2007-11-11,Morgan Stanley,12 month,5.0,Overwt/In-Line,105.0
+2007-11-13,Sterne Agee CRT,Not Provided,3.0,hold,86.0
+2007-11-15,Credit Suisse,Not Provided,3.0,neutral,96.0
+2007-11-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2007-11-27,Goldman Sachs,12 month,1.0,Sell/Neutral,75.0
+2007-12-12,Soleil Securities,Not Provided,3.0,hold,91.0
+2007-12-13,Credit Suisse,Not Provided,3.0,neutral,96.0
+2007-12-13,Sterne Agee CRT,Not Provided,3.0,hold,88.0
+2007-12-13,Goldman Sachs,12 month,1.0,Sell/Neutral,77.0
+2007-12-13,Morgan Stanley,12 month,5.0,Overwt/In-Line,105.0
+2007-12-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2007-12-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-01-07,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-01-08,Credit Suisse,12 month,3.0,neutral,94.0
+2008-01-10,Goldman Sachs,6 month,1.0,Sell/Neutral,72.0
+2008-01-11,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-01-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-01-18,Credit Suisse,12 month,3.0,neutral,94.0
+2008-01-29,Sterne Agee CRT,Not Provided,5.0,buy,90.0
+2008-01-29,Buckingham Research Group,Not Provided,4.0,accumulate,110.0
+2008-01-29,Morgan Stanley,12 month,5.0,Overwt/In-Line,105.0
+2008-01-30,Barclays,Not Provided,3.0,equalwt/positive,82.0
+2008-01-30,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2008-01-30,Soleil Securities,Not Provided,3.0,hold,91.0
+2008-01-30,Credit Suisse,12 month,3.0,neutral,94.0
+2008-01-30,UBS,12 month,5.0,buy,95.0
+2008-01-30,Hilliard Lyons,12 month,5.0,buy,95.0
+2008-02-01,Sterne Agee CRT,Not Provided,5.0,buy,90.0
+2008-02-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-03-10,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2008-04-01,Credit Suisse,12 month,3.0,neutral,94.0
+2008-04-08,Morgan Stanley,12 month,5.0,Overwt/Cautious,100.0
+2008-04-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-04-11,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-04-24,Morgan Stanley,12 month,5.0,Overwt/Cautious,100.0
+2008-04-24,Credit Suisse,12 month,3.0,neutral,94.0
+2008-04-24,Hilliard Lyons,12 month,5.0,buy,95.0
+2008-04-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-04-24,Buckingham Research Group,Not Provided,4.0,accumulate,110.0
+2008-04-25,UBS,12 month,5.0,buy,95.0
+2008-04-25,Sterne Agee CRT,Not Provided,3.0,hold,80.0
+2008-05-13,Goldman Sachs,12 month,1.0,Sell/Neutral,77.0
+2008-06-25,Buckingham Research Group,Not Provided,4.0,accumulate,110.0
+2008-06-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-07-01,Buckingham Research Group,Not Provided,4.0,accumulate,110.0
+2008-07-08,UBS,12 month,5.0,buy,84.0
+2008-07-10,Goldman Sachs,12 month,1.0,Sell/Neutral,74.0
+2008-07-24,Hilliard Lyons,12 month,5.0,buy,95.0
+2008-07-24,Morgan Stanley,Not Provided,5.0,Overwt/Cautious,77.0
+2008-07-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-07-25,UBS,12 month,5.0,buy,84.0
+2008-07-25,Buckingham Research Group,Not Provided,4.0,accumulate,110.0
+2008-07-25,Credit Suisse,12 month,3.0,neutral,79.0
+2008-07-25,Sterne Agee CRT,Not Provided,3.0,hold,77.0
+2008-08-18,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-08-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-09-09,Sterne Agee CRT,Not Provided,3.0,hold,71.0
+2008-09-10,Credit Suisse,12 month,3.0,neutral,79.0
+2008-09-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-09-16,Buckingham Research Group,Not Provided,4.0,accumulate,110.0
+2008-09-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-09-24,Barclays,Not Provided,3.0,equalwt/positive,82.0
+2008-09-26,Barclays,Not Provided,3.0,equalwt/positive,75.0
+2008-09-30,UBS,12 month,5.0,buy,76.0
+2008-10-02,Barclays,Not Provided,3.0,equalwt/neutral,70.0
+2008-10-14,Goldman Sachs,12 month,3.0,neutral/neutral,57.0
+2008-10-15,Barclays,Not Provided,3.0,equalwt/neutral,65.0
+2008-10-21,Hilliard Lyons,12 month,5.0,buy,95.0
+2008-10-21,Buckingham Research Group,Not Provided,4.0,accumulate,90.0
+2008-10-22,UBS,12 month,5.0,buy,70.0
+2008-10-22,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-10-22,Credit Suisse,Not Provided,3.0,neutral,65.0
+2008-10-22,Sterne Agee CRT,Not Provided,3.0,hold,57.0
+2008-11-03,UBS,Not Provided,5.0,buy,74.0
+2008-11-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-11-10,Goldman Sachs,12 month,3.0,neutral/neutral,57.0
+2008-11-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-11-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-11-30,Morgan Stanley,Not Provided,5.0,Overwt/Cautious,73.0
+2008-12-03,Barclays,Not Provided,3.0,equalwt/neutral,54.0
+2008-12-08,Morgan Stanley,Not Provided,5.0,Overwt/Cautious,69.0
+2008-12-08,UBS,Not Provided,5.0,buy,68.0
+2008-12-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-12-08,Credit Suisse,Not Provided,3.0,neutral,61.0
+2008-12-08,Jyske Bank,Not Provided,-2147483648.0,not rated,80.0
+2008-12-09,Sterne Agee CRT,Not Provided,3.0,hold,46.0
+2008-12-09,Buckingham Research Group,Not Provided,4.0,accumulate,69.0
+2008-12-09,Barclays,Not Provided,1.0,underwt/neutral,46.0
+2008-12-11,J.P. Morgan,15 month,5.0,overweight,49.0
+2009-01-01,J.P. Morgan,12 month,5.0,overweight,49.0
+2009-01-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-01-09,Argus Research Corp,Not Provided,5.0,buy,70.0
+2009-01-12,Credit Suisse,Not Provided,3.0,neutral,61.0
+2009-01-29,Buckingham Research Group,Not Provided,4.0,accumulate,69.0
+2009-01-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-01-29,Hilliard Lyons,12 month,5.0,buy,75.0
+2009-01-29,Goldman Sachs,12 month,3.0,neutral/neutral,58.0
+2009-01-30,Sterne Agee CRT,12 month,3.0,neutral,52.0
+2009-01-30,Barclays,Not Provided,1.0,underwt/neutral,45.0
+2009-01-30,UBS,Not Provided,5.0,buy,68.0
+2009-02-01,J.P. Morgan,12 month,5.0,overweight,45.0
+2009-02-02,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-02-13,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-02-20,UBS,Not Provided,5.0,buy,62.0
+2009-02-20,Credit Suisse,Not Provided,3.0,neutral,61.0
+2009-02-23,Morgan Stanley,Not Provided,5.0,Overwt/Cautious,66.0
+2009-02-26,Jyske Bank,Not Provided,5.0,buy,80.0
+2009-03-05,Barclays,Not Provided,1.0,underwt/neutral,41.0
+2009-03-10,Goldman Sachs,12 month,3.0,neutral/neutral,55.0
+2009-03-10,J.P. Morgan,9 month,5.0,overweight,44.0
+2009-03-17,Buckingham Research Group,12 month,4.0,accumulate,69.0
+2009-03-24,Goldman Sachs,12 month,3.0,neutral/neutral,53.0
+2009-03-27,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2009-03-31,Sterne Agee CRT,12 month,3.0,neutral,52.0
+2009-04-07,Jyske Bank,Not Provided,5.0,buy,69.0
+2009-04-16,Bernstein,12 month,1.0,underperform,43.0
+2009-04-24,McAdams Wright Ragen Inc,Not Provided,5.0,focus list,85.0
+2009-04-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-04-24,Credit Suisse,Not Provided,3.0,neutral,61.0
+2009-04-24,Buckingham Research Group,Not Provided,4.0,accumulate,65.0
+2009-04-26,Goldman Sachs,12 month,3.0,neutral/neutral,60.0
+2009-04-27,Sterne Agee CRT,12 month,3.0,neutral,47.0
+2009-04-27,Barclays,Not Provided,3.0,equalwt/neutral,62.0
+2009-04-27,Hilliard Lyons,12 month,5.0,buy,75.0
+2009-04-28,UBS,Not Provided,5.0,buy,62.0
+2009-05-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-05-11,Goldman Sachs,12 month,3.0,neutral/neutral,66.0
+2009-05-12,J.P. Morgan,6 month,5.0,overweight,50.0
+2009-05-15,UBS,Not Provided,5.0,buy,66.0
+2009-05-18,Jyske Bank,Not Provided,5.0,buy,80.0
+2009-05-18,Bernstein,12 month,1.0,underperform,43.0
+2009-05-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-05-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-06-04,Buckingham Research Group,Not Provided,4.0,accumulate,70.0
+2009-06-05,Bernstein,12 month,1.0,underperform,43.0
+2009-06-08,Jyske Bank,Not Provided,5.0,buy,60.9
+2009-06-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-06-17,Bernstein,12 month,3.0,market perform,69.0
+2009-06-25,FBR Capital Markets,12 month,5.0,outperform,64.0
+2009-07-02,Jyske Bank,Not Provided,5.0,buy,80.0
+2009-07-07,Jefferies,12 month,5.0,buy,76.0
+2009-07-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-07-13,Bernstein,Not Provided,3.0,market perform,69.0
+2009-07-15,Goldman Sachs,12 month,3.0,neutral/neutral,70.0
+2009-07-16,Bernstein,12 month,3.0,market perform,69.0
+2009-07-20,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,66.0
+2009-07-20,UBS,Not Provided,5.0,buy,66.0
+2009-07-23,Hilliard Lyons,12 month,5.0,buy,75.0
+2009-07-23,Goldman Sachs,12 month,3.0,neutral/neutral,78.0
+2009-07-23,Sterne Agee CRT,12 month,3.0,neutral,69.0
+2009-07-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-07-23,Buckingham Research Group,12 month,4.0,accumulate,74.0
+2009-07-23,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,72.0
+2009-07-23,Credit Suisse,Not Provided,3.0,neutral,75.0
+2009-07-24,UBS,Not Provided,5.0,buy,77.0
+2009-07-24,Barclays,Not Provided,3.0,equalwt/neutral,77.0
+2009-07-24,Jefferies,12 month,5.0,buy,80.0
+2009-07-24,J.P. Morgan,6 month,5.0,overweight,62.0
+2009-07-24,FBR Capital Markets,Not Provided,5.0,outperform,76.0
+2009-07-24,Bernstein,Not Provided,3.0,market perform,72.0
+2009-07-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-07-30,J.P. Morgan,6 month,5.0,overweight,62.0
+2009-07-30,Jyske Bank,Not Provided,-2147483648.0,not rated,80.0
+2009-08-02,Goldman Sachs,12 month,5.0,Buy/Neutral,85.0
+2009-08-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-05,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-08-07,Buckingham Research Group,12 month,4.0,accumulate,83.0
+2009-08-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-13,Hilliard Lyons,36 month,5.0,long-term buy,95.0
+2009-08-17,Credit Suisse,Not Provided,3.0,neutral,75.0
+2009-08-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-08-24,Bernstein,12 month,3.0,market perform,72.0
+2009-09-03,Bernstein,12 month,3.0,market perform,72.0
+2009-09-08,J.P. Morgan,18 month,5.0,overweight,68.0
+2009-09-09,Goldman Sachs,12 month,5.0,buy/attractive,95.0
+2009-09-09,Jefferies,12 month,5.0,buy,86.0
+2009-09-10,J.P. Morgan,15 month,5.0,overweight,68.0
+2009-09-11,Barclays,Not Provided,3.0,equalwt/positive,90.0
+2009-09-14,FBR Capital Markets,Not Provided,5.0,outperform,80.0
+2009-09-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-09-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-09-23,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,79.0
+2009-09-24,UBS,Not Provided,5.0,buy,82.0
+2009-10-13,FBR Capital Markets,Not Provided,5.0,outperform,88.0
+2009-10-14,J.P. Morgan,15 month,5.0,overweight,71.0
+2009-10-16,Bernstein,12 month,3.0,market perform,75.0
+2009-10-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-10-22,Jyske Bank,12 month,5.0,buy,80.0
+2009-10-22,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,86.0
+2009-10-22,Hilliard Lyons,36 month,5.0,long-term buy,95.0
+2009-10-22,Goldman Sachs,12 month,5.0,buy/attractive,100.0
+2009-10-23,Jefferies,12 month,5.0,buy,95.0
+2009-10-23,Credit Suisse,Not Provided,3.0,neutral,90.0
+2009-10-23,Barclays,Not Provided,3.0,equalwt/positive,90.0
+2009-10-23,Sterne Agee CRT,12 month,3.0,neutral,78.0
+2009-10-23,FBR Capital Markets,18 month,5.0,outperform,96.0
+2009-10-26,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-10-27,UBS,Not Provided,5.0,buy,86.0
+2009-10-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-11-17,Bernstein,12 month,3.0,market perform,86.0
+2009-11-20,FBR Capital Markets,Not Provided,5.0,outperform,98.0
+2009-11-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-12-01,J.P. Morgan,15 month,5.0,overweight,75.0
+2009-12-04,Buckingham Research Group,12 month,4.0,accumulate,88.0
+2009-12-08,Sterne Agee CRT,12 month,3.0,neutral,81.0
+2009-12-09,Credit Suisse,Not Provided,3.0,neutral,90.0
+2009-12-09,UBS,Not Provided,5.0,buy,86.0
+2009-12-09,J.P. Morgan,15 month,5.0,overweight,75.0
+2009-12-09,Barclays,Not Provided,3.0,equalwt/positive,90.0
+2009-12-09,FBR Capital Markets,Not Provided,5.0,outperform,100.0
+2009-12-09,Bernstein,12 month,3.0,market perform,88.0
+2009-12-11,Buckingham Research Group,12 month,4.0,accumulate,100.0
+2009-12-14,Bernstein,12 month,3.0,market perform,88.0
+2009-12-14,Jefferies,12 month,5.0,buy,95.0
+2009-12-15,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2009-12-22,FBR Capital Markets,12 month,5.0,outperform,100.0
+2010-01-04,Buckingham Research Group,12 month,5.0,buy,100.0
+2010-01-05,Goldman Sachs,12 month,5.0,buy/attractive,105.0
+2010-01-07,J.P. Morgan,12 month,3.0,neutral,79.0
+2010-01-07,Credit Suisse,Not Provided,3.0,neutral,93.0
+2010-01-07,Jefferies,12 month,5.0,buy,102.0
+2010-01-07,Bernstein,12 month,3.0,market perform,88.0
+2010-01-14,Bernstein,12 month,3.0,market perform,88.0
+2010-01-20,Jefferies,12 month,5.0,buy,102.0
+2010-01-20,UBS,Not Provided,5.0,buy,105.0
+2010-01-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-01-21,Bernstein,12 month,3.0,market perform,90.0
+2010-01-25,FBR Capital Markets,12 month,5.0,outperform,100.0
+2010-01-26,Bernstein,12 month,3.0,market perform,90.0
+2010-01-28,Hilliard Lyons,36 month,5.0,long-term buy,95.0
+2010-01-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-01-28,Credit Suisse,Not Provided,3.0,neutral,93.0
+2010-01-28,Buckingham Research Group,12 month,5.0,buy,102.0
+2010-01-29,FBR Capital Markets,12 month,5.0,outperform,102.0
+2010-01-29,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,93.0
+2010-01-29,Barclays,Not Provided,3.0,equalwt/positive,90.0
+2010-01-29,UBS,Not Provided,5.0,buy,105.0
+2010-01-29,Jefferies,12 month,5.0,buy,102.0
+2010-02-01,Sterne Agee CRT,12 month,3.0,neutral,80.0
+2010-02-01,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-02-05,Jefferies,12 month,5.0,buy,102.0
+2010-02-08,J.P. Morgan,12 month,3.0,neutral,79.0
+2010-02-09,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,93.0
+2010-02-10,Jefferies,12 month,5.0,buy,102.0
+2010-02-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-02-11,Bernstein,12 month,5.0,outperform,99.0
+2010-02-18,Bernstein,12 month,5.0,outperform,99.0
+2010-02-22,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,93.0
+2010-02-26,Bernstein,12 month,5.0,outperform,99.0
+2010-02-26,Jefferies,12 month,5.0,buy,102.0
+2010-03-03,FBR Capital Markets,12 month,5.0,outperform,102.0
+2010-03-08,Bernstein,12 month,5.0,outperform,99.0
+2010-03-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-03-09,UBS,Not Provided,5.0,buy,105.0
+2010-03-15,Bernstein,12 month,5.0,outperform,99.0
+2010-03-22,Bernstein,12 month,5.0,outperform,99.0
+2010-03-29,Jefferies,12 month,5.0,buy,102.0
+2010-03-29,Barclays,Not Provided,3.0,equalwt/positive,90.0
+2010-03-30,UBS,Not Provided,5.0,buy,105.0
+2010-03-30,Bernstein,12 month,5.0,outperform,99.0
+2010-04-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-04-08,Bernstein,12 month,5.0,outperform,99.0
+2010-04-12,J.P. Morgan,9 month,3.0,neutral,86.0
+2010-04-13,FBR Capital Markets,12 month,5.0,outperform,104.0
+2010-04-14,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2010-04-15,Bernstein,12 month,5.0,outperform,100.0
+2010-04-21,Jefferies,12 month,5.0,buy,102.0
+2010-04-27,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,101.0
+2010-04-27,Buckingham Research Group,12 month,5.0,buy,110.0
+2010-04-27,Goldman Sachs,12 month,5.0,buy/attractive,112.0
+2010-04-27,Hilliard Lyons,36 month,5.0,long-term buy,105.0
+2010-04-28,Sterne Agee CRT,12 month,5.0,buy,102.0
+2010-04-28,Credit Suisse,Not Provided,3.0,neutral,97.0
+2010-04-28,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-04-28,Barclays,Not Provided,5.0,overwt/positive,105.0
+2010-04-28,J.P. Morgan,9 month,3.0,neutral,95.0
+2010-04-28,Jefferies,12 month,5.0,buy,110.0
+2010-04-28,UBS,Not Provided,5.0,buy,110.0
+2010-04-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-04-30,Sterne Agee CRT,12 month,5.0,buy,102.0
+2010-05-04,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-05-05,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-05-12,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2010-05-18,Sterne Agee CRT,12 month,5.0,buy,97.0
+2010-05-19,Bernstein,12 month,5.0,outperform,110.0
+2010-05-19,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-05-20,Sterne Agee CRT,12 month,5.0,buy,97.0
+2010-05-20,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-05-21,Bernstein,12 month,5.0,outperform,110.0
+2010-05-21,Jefferies,12 month,5.0,buy,110.0
+2010-05-24,Goldman Sachs,12 month,5.0,buy/attractive,104.0
+2010-05-26,J.P. Morgan,9 month,3.0,neutral,93.0
+2010-06-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-06-03,Bernstein,12 month,5.0,outperform,110.0
+2010-06-07,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-06-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-06-09,Jefferies,12 month,5.0,buy,110.0
+2010-06-14,Jefferies,12 month,5.0,buy,110.0
+2010-06-14,UBS,Not Provided,5.0,buy,110.0
+2010-06-14,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-06-18,Buckingham Research Group,12 month,5.0,buy,110.0
+2010-06-21,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-06-24,Sterne Agee CRT,12 month,5.0,buy,94.0
+2010-06-29,Buckingham Research Group,12 month,5.0,buy,110.0
+2010-06-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-06-30,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-06-30,J.P. Morgan,6 month,3.0,neutral,93.0
+2010-06-30,UBS,Not Provided,5.0,buy,100.0
+2010-06-30,Sterne Agee CRT,12 month,5.0,buy,88.0
+2010-07-01,Credit Suisse,Not Provided,3.0,neutral,97.0
+2010-07-02,Jefferies,12 month,5.0,buy,110.0
+2010-07-06,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-07-08,Buckingham Research Group,12 month,5.0,buy,110.0
+2010-07-09,Bernstein,12 month,5.0,outperform,108.0
+2010-07-12,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-07-15,Jefferies,12 month,5.0,buy,110.0
+2010-07-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-07-22,Credit Suisse,Not Provided,3.0,neutral,97.0
+2010-07-22,Buckingham Research Group,12 month,5.0,buy,112.0
+2010-07-22,Hilliard Lyons,12 month,5.0,long-term buy,105.0
+2010-07-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-07-23,Sterne Agee CRT,12 month,5.0,buy,97.0
+2010-07-23,Jefferies,12 month,5.0,buy,110.0
+2010-07-23,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-07-23,UBS,Not Provided,5.0,buy,100.0
+2010-07-23,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,101.0
+2010-07-23,Barclays,Not Provided,5.0,overwt/positive,105.0
+2010-07-23,J.P. Morgan,6 month,3.0,neutral,93.0
+2010-07-28,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-08-13,Jefferies,12 month,5.0,buy,110.0
+2010-08-16,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-08-17,J.P. Morgan,18 month,1.0,underweight,97.0
+2010-08-20,Jefferies,12 month,5.0,buy,110.0
+2010-08-20,Sterne Agee CRT,12 month,5.0,buy,95.0
+2010-08-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-08-23,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-08-30,Buckingham Research Group,12 month,5.0,buy,112.0
+2010-09-02,Jefferies,12 month,5.0,buy,110.0
+2010-09-03,Sterne Agee CRT,12 month,5.0,buy,95.0
+2010-09-09,Buckingham Research Group,12 month,5.0,buy,112.0
+2010-09-09,J.P. Morgan,15 month,1.0,underweight,97.0
+2010-09-09,Jefferies,12 month,5.0,buy,110.0
+2010-09-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-09-13,Bernstein,12 month,5.0,outperform,106.0
+2010-09-13,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-09-17,Buckingham Research Group,12 month,5.0,buy,112.0
+2010-09-20,Bernstein,12 month,5.0,outperform,106.0
+2010-09-30,UBS,Not Provided,5.0,buy,100.0
+2010-10-04,Bernstein,12 month,5.0,outperform,106.0
+2010-10-06,Bernstein,12 month,5.0,outperform,106.0
+2010-10-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-10-07,Jefferies,12 month,5.0,buy,110.0
+2010-10-08,UBS,Not Provided,5.0,buy,100.0
+2010-10-12,Nomura,Not Provided,2.0,reduce,87.0
+2010-10-13,UBS,Not Provided,5.0,buy,100.0
+2010-10-18,Jefferies,12 month,5.0,buy,110.0
+2010-10-18,FBR Capital Markets,12 month,5.0,outperform,109.0
+2010-10-22,Jefferies,12 month,5.0,buy,110.0
+2010-10-28,Hilliard Lyons,12 month,5.0,long-term buy,105.0
+2010-10-28,Buckingham Research Group,12 month,5.0,buy,112.0
+2010-10-28,Goldman Sachs,12 month,5.0,buy/attractive,98.0
+2010-10-28,Jefferies,12 month,5.0,buy,105.0
+2010-10-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-10-29,J.P. Morgan,15 month,1.0,underweight,95.0
+2010-10-29,Sterne Agee CRT,12 month,5.0,buy,102.0
+2010-10-29,UBS,Not Provided,5.0,buy,95.0
+2010-10-29,Nomura,12 month,2.0,reduce,85.0
+2010-10-29,Morgan Stanley,12 month,5.0,Overwt/Attractive,101.0
+2010-10-29,FBR Capital Markets,12 month,5.0,outperform,101.0
+2010-10-29,Barclays,Not Provided,5.0,overwt/positive,105.0
+2010-10-29,Credit Suisse,Not Provided,3.0,neutral,97.0
+2010-11-04,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-11-11,UBS,Not Provided,5.0,buy,95.0
+2010-11-18,UBS,Not Provided,5.0,buy,95.0
+2010-11-23,Jefferies,12 month,5.0,buy,105.0
+2010-11-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-11-24,UBS,Not Provided,5.0,buy,95.0
+2010-12-02,Bernstein,12 month,5.0,outperform,105.0
+2010-12-06,Nomura,12 month,2.0,reduce,85.0
+2010-12-06,Buckingham Research Group,12 month,5.0,buy,112.0
+2010-12-06,Jefferies,12 month,5.0,buy,105.0
+2010-12-07,Morgan Stanley,12 month,5.0,Overwt/Attractive,101.0
+2010-12-07,Goldman Sachs,12 month,3.0,neutral/attractive,93.0
+2010-12-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-12-08,FBR Capital Markets,12 month,5.0,outperform,98.0
+2010-12-08,Buckingham Research Group,12 month,5.0,buy,112.0
+2010-12-08,Nomura,12 month,2.0,reduce,85.0
+2010-12-08,Credit Suisse,Not Provided,3.0,neutral,97.0
+2010-12-08,J.P. Morgan,15 month,1.0,underweight,95.0
+2010-12-08,Bernstein,12 month,5.0,outperform,105.0
+2010-12-08,Jefferies,12 month,5.0,buy,105.0
+2010-12-10,Sterne Agee CRT,12 month,5.0,buy,106.0
+2010-12-13,UBS,12 month,5.0,buy,100.0
+2010-12-16,FBR Capital Markets,12 month,5.0,outperform,98.0
+2010-12-21,Buckingham Research Group,12 month,5.0,buy,112.0
+2010-12-22,Jefferies,12 month,5.0,buy,105.0
+2010-12-29,Buckingham Research Group,12 month,5.0,buy,112.0
+2011-01-03,Credit Suisse,Not Provided,3.0,neutral,101.0
+2011-01-05,Jefferies,12 month,5.0,buy,105.0
+2011-01-06,Nomura,12 month,2.0,reduce,88.0
+2011-01-06,FBR Capital Markets,12 month,5.0,outperform,98.0
+2011-01-07,J.P. Morgan,12 month,3.0,neutral,95.0
+2011-01-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-01-09,Goldman Sachs,12 month,3.0,neutral/attractive,101.0
+2011-01-10,Bernstein,12 month,5.0,outperform,105.0
+2011-01-18,FBR Capital Markets,12 month,5.0,outperform,98.0
+2011-01-19,Bernstein,12 month,5.0,outperform,105.0
+2011-01-20,Jefferies,12 month,5.0,buy,105.0
+2011-01-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-01-25,Buckingham Research Group,12 month,5.0,buy,112.0
+2011-01-25,Bernstein,12 month,5.0,outperform,105.0
+2011-01-26,Credit Suisse,Not Provided,3.0,neutral,101.0
+2011-01-26,Sterne Agee CRT,Not Provided,5.0,buy,110.0
+2011-01-26,Morgan Stanley,12 month,5.0,Overwt/Attractive,105.0
+2011-01-26,Nomura,12 month,2.0,reduce,88.0
+2011-01-26,UBS,12 month,5.0,buy,103.0
+2011-01-26,FBR Capital Markets,12 month,5.0,outperform,99.0
+2011-01-26,Jefferies,12 month,5.0,buy,105.0
+2011-01-26,Hilliard Lyons,12 month,5.0,long-term buy,105.0
+2011-01-26,J.P. Morgan,12 month,3.0,neutral,95.0
+2011-01-26,Barclays,Not Provided,5.0,overwt/positive,105.0
+2011-02-03,Bernstein,12 month,5.0,outperform,105.0
+2011-02-04,Morgan Stanley,12 month,5.0,Overwt/Attractive,105.0
+2011-02-08,Credit Suisse,Not Provided,3.0,neutral,101.0
+2011-02-08,Nomura,12 month,2.0,reduce,88.0
+2011-02-09,Sterne Agee CRT,12 month,5.0,buy,113.0
+2011-02-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-02-14,Langenberg & Co,Not Provided,5.0,buy,106.0
+2011-02-16,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-02-24,Bernstein,12 month,5.0,outperform,106.0
+2011-02-25,Jefferies,12 month,5.0,buy,105.0
+2011-02-28,Buckingham Research Group,12 month,5.0,buy,112.0
+2011-03-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-03-04,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-03-08,Nomura,12 month,2.0,reduce,88.0
+2011-03-08,Barclays,Not Provided,5.0,overwt/positive,105.0
+2011-03-10,Morgan Stanley,12 month,5.0,Overwt/Attractive,105.0
+2011-03-11,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-03-12,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-03-15,Langenberg & Co,12 month,5.0,buy,106.0
+2011-03-16,Barclays,Not Provided,5.0,overwt/positive,110.0
+2011-03-18,Nomura,12 month,2.0,reduce,88.0
+2011-03-18,J.P. Morgan,12 month,3.0,neutral,95.0
+2011-03-18,Morgan Stanley,12 month,5.0,Overwt/Attractive,105.0
+2011-03-18,Sterne Agee CRT,12 month,5.0,buy,108.0
+2011-03-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-03-18,UBS,12 month,5.0,buy,103.0
+2011-03-18,Bernstein,12 month,5.0,outperform,106.0
+2011-03-18,Jefferies,12 month,5.0,buy,105.0
+2011-03-18,Buckingham Research Group,12 month,5.0,buy,112.0
+2011-03-21,Bernstein,12 month,5.0,outperform,106.0
+2011-03-22,Sterne Agee CRT,12 month,5.0,buy,108.0
+2011-03-23,J.P. Morgan,12 month,3.0,neutral,96.0
+2011-03-23,Credit Suisse,Not Provided,3.0,neutral,101.0
+2011-03-28,Buckingham Research Group,12 month,5.0,buy,112.0
+2011-04-06,FBR Capital Markets,12 month,5.0,outperform,99.0
+2011-04-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-04-18,Jefferies,12 month,5.0,buy,105.0
+2011-04-19,Bernstein,12 month,5.0,outperform,109.0
+2011-04-26,Buckingham Research Group,12 month,5.0,buy,112.0
+2011-04-26,Hilliard Lyons,Not Provided,5.0,long-term buy,125.0
+2011-04-26,Goldman Sachs,12 month,3.0,neutral/attractive,107.0
+2011-04-26,Morgan Stanley,12 month,5.0,Overwt/Attractive,105.0
+2011-04-26,Langenberg & Co,12 month,5.0,buy,106.0
+2011-04-26,Bernstein,12 month,5.0,outperform,109.0
+2011-04-27,Sterne Agee CRT,12 month,5.0,buy,112.0
+2011-04-27,FBR Capital Markets,12 month,5.0,outperform,105.0
+2011-04-27,UBS,12 month,5.0,buy,108.0
+2011-04-27,Credit Suisse,Not Provided,3.0,neutral,101.0
+2011-04-27,Jefferies,12 month,5.0,buy,120.0
+2011-04-27,J.P. Morgan,9 month,3.0,neutral,96.0
+2011-04-27,Barclays,Not Provided,5.0,overwt/positive,112.0
+2011-04-28,Nomura,12 month,2.0,reduce,88.0
+2011-05-04,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-05-09,Langenberg & Co,Not Provided,5.0,buy,106.0
+2011-05-09,Nomura,12 month,2.0,reduce,88.0
+2011-05-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-05-12,Bernstein,12 month,5.0,outperform,115.0
+2011-05-12,Nomura,12 month,2.0,reduce,88.0
+2011-05-13,FBR Capital Markets,12 month,5.0,outperform,105.0
+2011-05-17,Nomura,12 month,2.0,reduce,88.0
+2011-05-18,Sterne Agee CRT,12 month,5.0,buy,112.0
+2011-05-20,Bernstein,12 month,5.0,outperform,115.0
+2011-05-23,Evans & Partners Pty Ltd,Not Provided,4.0,Positive,-0.0
+2011-05-25,Bernstein,12 month,5.0,outperform,115.0
+2011-06-07,Bernstein,12 month,5.0,outperform,115.0
+2011-06-08,William Blair & Co,Not Provided,5.0,outperform,110.0
+2011-06-09,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-06-09,Bernstein,12 month,5.0,outperform,115.0
+2011-06-15,William Blair & Co,12 month,5.0,outperform,110.0
+2011-06-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-07-06,Jefferies,12 month,5.0,buy,120.0
+2011-07-06,FBR Capital Markets,12 month,5.0,outperform,105.0
+2011-07-12,Bernstein,12 month,5.0,outperform,114.0
+2011-07-13,Langenberg & Co,12 month,5.0,buy,106.0
+2011-07-14,Nomura,12 month,2.0,reduce,88.0
+2011-07-20,Jefferies,12 month,5.0,buy,120.0
+2011-07-26,Hilliard Lyons,12 month,5.0,long-term buy,125.0
+2011-07-26,Goldman Sachs,12 month,3.0,neutral/attractive,95.0
+2011-07-26,Credit Suisse,Not Provided,3.0,neutral,101.0
+2011-07-26,Buckingham Research Group,12 month,5.0,buy,112.0
+2011-07-26,Bernstein,12 month,5.0,outperform,114.0
+2011-07-26,William Blair & Co,12 month,5.0,outperform,108.0
+2011-07-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-07-27,UBS,12 month,5.0,buy,103.0
+2011-07-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-07-27,Jefferies,12 month,5.0,buy,120.0
+2011-07-27,J.P. Morgan,3 month,3.0,neutral,96.0
+2011-07-27,Nomura,12 month,2.0,reduce,88.0
+2011-07-27,Barclays,Not Provided,5.0,overwt/positive,112.0
+2011-07-27,Sterne Agee CRT,12 month,5.0,buy,109.0
+2011-07-28,FBR Capital Markets,12 month,5.0,outperform,103.0
+2011-07-29,Langenberg & Co,12 month,5.0,buy,106.0
+2011-08-08,Goldman Sachs,12 month,3.0,neutral/neutral,90.0
+2011-08-08,Jefferies,12 month,5.0,buy,120.0
+2011-08-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-08-10,Bernstein,12 month,5.0,outperform,114.0
+2011-08-12,J.P. Morgan,15 month,3.0,neutral,80.0
+2011-08-15,Langenberg & Co,12 month,5.0,buy,106.0
+2011-08-15,Nomura,12 month,2.0,reduce,88.0
+2011-08-15,Jefferies,12 month,5.0,buy,104.0
+2011-08-17,Bernstein,12 month,5.0,outperform,99.0
+2011-08-18,FBR Capital Markets,12 month,5.0,outperform,92.0
+2011-08-25,FBR Capital Markets,12 month,5.0,outperform,92.0
+2011-08-29,Bernstein,12 month,5.0,outperform,99.0
+2011-08-29,Langenberg & Co,12 month,5.0,buy,100.0
+2011-08-30,William Blair & Co,12 month,5.0,outperform,108.0
+2011-09-06,Buckingham Research Group,12 month,5.0,buy,98.0
+2011-09-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-09-07,FBR Capital Markets,12 month,5.0,outperform,92.0
+2011-09-08,UBS,12 month,5.0,buy,95.0
+2011-09-13,J.P. Morgan,15 month,3.0,neutral,80.0
+2011-09-13,Nomura,12 month,2.0,reduce,79.0
+2011-09-16,Bernstein,12 month,5.0,outperform,99.0
+2011-09-19,Jefferies,12 month,5.0,buy,104.0
+2011-10-03,UBS,12 month,5.0,buy,89.0
+2011-10-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-10-04,Bernstein,12 month,5.0,outperform,99.0
+2011-10-06,Jefferies,12 month,5.0,buy,104.0
+2011-10-11,Bernstein,12 month,5.0,outperform,98.0
+2011-10-13,Barclays,Not Provided,3.0,equalwt/positive,94.0
+2011-10-14,Bernstein,12 month,5.0,outperform,98.0
+2011-10-16,Goldman Sachs,12 month,3.0,neutral/neutral,85.0
+2011-10-17,William Blair & Co,12 month,5.0,outperform,92.0
+2011-10-19,Jefferies,12 month,5.0,buy,104.0
+2011-10-19,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-10-25,Buckingham Research Group,12 month,5.0,buy,98.0
+2011-10-25,Goldman Sachs,12 month,3.0,neutral/neutral,77.0
+2011-10-25,Credit Suisse,Not Provided,3.0,neutral,92.0
+2011-10-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-10-25,William Blair & Co,Not Provided,3.0,market perform,81.0
+2011-10-25,Barclays,Not Provided,3.0,equalwt/positive,94.0
+2011-10-25,Bernstein,12 month,5.0,outperform,98.0
+2011-10-26,Hilliard Lyons,12 month,5.0,long-term buy,125.0
+2011-10-26,J.P. Morgan,15 month,3.0,neutral,80.0
+2011-10-26,Nomura,12 month,2.0,reduce,75.0
+2011-10-26,Jefferies,12 month,5.0,buy,90.0
+2011-10-26,Sterne Agee CRT,12 month,3.0,neutral,83.0
+2011-10-26,FBR Capital Markets,12 month,5.0,outperform,90.0
+2011-10-26,UBS,12 month,5.0,buy,88.0
+2011-10-27,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2011-10-29,Langenberg & Co,12 month,5.0,buy,100.0
+2011-10-31,Bernstein,12 month,5.0,outperform,98.0
+2011-11-07,Bernstein,12 month,5.0,outperform,98.0
+2011-11-08,Buckingham Research Group,12 month,5.0,buy,98.0
+2011-11-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-14,Bernstein,12 month,5.0,outperform,97.0
+2011-11-14,Nomura,12 month,2.0,reduce,75.0
+2011-11-17,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-18,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-23,FBR Capital Markets,12 month,5.0,outperform,90.0
+2011-11-23,Nomura,12 month,2.0,reduce,75.0
+2011-11-28,Nomura,12 month,2.0,reduce,75.0
+2011-12-01,J.P. Morgan,12 month,3.0,neutral,80.0
+2011-12-02,UBS,12 month,5.0,buy,88.0
+2011-12-02,Bernstein,12 month,5.0,outperform,97.0
+2011-12-06,Goldman Sachs,12 month,3.0,neutral/neutral,82.0
+2011-12-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-12-06,UBS,12 month,5.0,buy,88.0
+2011-12-06,Barclays,Not Provided,3.0,equalwt/positive,95.0
+2011-12-06,William Blair & Co,12 month,3.0,market perform,93.0
+2011-12-06,Jefferies,12 month,5.0,buy,90.0
+2011-12-07,Nomura,12 month,2.0,reduce,80.0
+2011-12-07,FBR Capital Markets,12 month,5.0,outperform,90.0
+2011-12-07,J.P. Morgan,12 month,3.0,neutral,80.0
+2011-12-07,Buckingham Research Group,12 month,5.0,buy,98.0
+2011-12-08,Bernstein,12 month,5.0,outperform,97.0
+2011-12-09,Credit Suisse,Not Provided,3.0,neutral,92.0
+2011-12-12,Buckingham Research Group,12 month,5.0,buy,98.0
+2011-12-12,Nomura,12 month,2.0,reduce,80.0
+2011-12-15,FBR Capital Markets,12 month,5.0,outperform,90.0
+2011-12-19,Nomura,12 month,2.0,reduce,80.0
+2012-01-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-01-03,FBR Capital Markets,12 month,5.0,outperform,90.0
+2012-01-03,Nomura,12 month,2.0,reduce,80.0
+2012-01-03,Bernstein,12 month,5.0,outperform,97.0
+2012-01-04,William Blair & Co,12 month,3.0,market perform,93.0
+2012-01-04,FBR Capital Markets,12 month,5.0,outperform,90.0
+2012-01-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,90.0
+2012-01-04,Jefferies,12 month,5.0,buy,94.0
+2012-01-06,J.P. Morgan,9 month,3.0,neutral,80.0
+2012-01-09,Nomura,12 month,2.0,reduce,80.0
+2012-01-10,Goldman Sachs,12 month,1.0,Sell/Neutral,87.0
+2012-01-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-01-12,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2012-01-13,Bernstein,12 month,5.0,outperform,97.0
+2012-01-16,Nomura,12 month,2.0,reduce,80.0
+2012-01-17,UBS,12 month,5.0,buy,95.0
+2012-01-17,Barclays,Not Provided,3.0,equalwt/positive,95.0
+2012-01-20,Jefferies,12 month,5.0,buy,94.0
+2012-01-23,Nomura,12 month,2.0,reduce,80.0
+2012-01-25,Bernstein,12 month,5.0,outperform,97.0
+2012-01-25,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2012-01-26,Hilliard Lyons,36 month,5.0,long-term buy,125.0
+2012-01-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-01-26,Buckingham Research Group,12 month,5.0,buy,106.0
+2012-01-26,Barclays,Not Provided,3.0,equalwt/positive,95.0
+2012-01-27,UBS,12 month,5.0,buy,95.0
+2012-01-27,Bernstein,12 month,5.0,outperform,97.0
+2012-01-27,J.P. Morgan,9 month,3.0,neutral,80.0
+2012-01-27,William Blair & Co,12 month,3.0,market perform,94.0
+2012-01-27,FBR Capital Markets,12 month,5.0,outperform,90.0
+2012-01-27,Morgan Stanley,12 month,3.0,Equalwt/In-Line,90.0
+2012-01-27,Jefferies,12 month,5.0,buy,102.0
+2012-01-30,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2012-01-30,Nomura,12 month,2.0,reduce,84.0
+2012-01-30,Langenberg & Co,Not Provided,5.0,buy,100.0
+2012-02-01,Credit Suisse,Not Provided,3.0,neutral,92.0
+2012-02-06,Nomura,12 month,2.0,reduce,84.0
+2012-02-08,Morgan Stanley,12 month,3.0,Equalwt/In-Line,90.0
+2012-02-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-02-13,Nomura,12 month,2.0,reduce,84.0
+2012-02-14,Jefferies,12 month,5.0,buy,102.0
+2012-02-20,Nomura,12 month,2.0,reduce,84.0
+2012-02-21,Bernstein,12 month,5.0,outperform,102.0
+2012-02-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-02-27,Nomura,12 month,2.0,reduce,84.0
+2012-03-05,Nomura,12 month,2.0,reduce,84.0
+2012-03-06,FBR Capital Markets,12 month,5.0,outperform,97.0
+2012-03-12,Nomura,12 month,2.0,reduce,88.0
+2012-03-12,Jefferies,12 month,5.0,buy,102.0
+2012-03-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-03-15,Bernstein,12 month,5.0,outperform,102.0
+2012-03-19,Nomura,12 month,2.0,reduce,88.0
+2012-03-19,Jefferies,12 month,5.0,buy,102.0
+2012-03-20,Bernstein,12 month,5.0,outperform,102.0
+2012-03-26,Nomura,12 month,2.0,reduce,88.0
+2012-03-26,J.P. Morgan,6 month,3.0,neutral,80.0
+2012-04-02,Nomura,12 month,2.0,reduce,88.0
+2012-04-05,William Blair & Co,12 month,3.0,market perform,94.0
+2012-04-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-04-09,Nomura,12 month,2.0,reduce,88.0
+2012-04-13,Bernstein,12 month,5.0,outperform,102.0
+2012-04-16,Nomura,12 month,2.0,reduce,88.0
+2012-04-16,Barclays,Not Provided,3.0,equalwt/positive,95.0
+2012-04-18,Jefferies,12 month,5.0,buy,102.0
+2012-04-19,Bernstein,12 month,5.0,outperform,102.0
+2012-04-24,Bernstein,12 month,5.0,outperform,102.0
+2012-04-24,Buckingham Research Group,12 month,5.0,buy,106.0
+2012-04-24,William Blair & Co,12 month,3.0,market perform,96.0
+2012-04-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,94.0
+2012-04-24,Credit Suisse,Not Provided,3.0,neutral,92.0
+2012-04-24,Barclays,Not Provided,3.0,equalwt/positive,95.0
+2012-04-24,Hilliard Lyons,12 month,5.0,long-term buy,125.0
+2012-04-24,Langenberg & Co,Not Provided,5.0,buy,100.0
+2012-04-25,Goldman Sachs,12 month,1.0,Sell/Neutral,90.0
+2012-04-25,UBS,12 month,5.0,buy,100.0
+2012-04-25,J.P. Morgan,6 month,3.0,neutral,83.0
+2012-04-25,Jefferies,12 month,5.0,buy,108.0
+2012-04-25,FBR Capital Markets,12 month,5.0,outperform,97.0
+2012-04-25,Nomura,12 month,2.0,reduce,90.0
+2012-04-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-04-27,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2012-05-01,Buckingham Research Group,12 month,5.0,buy,110.0
+2012-05-02,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2012-05-03,Nomura,12 month,2.0,reduce,90.0
+2012-05-07,Nomura,12 month,2.0,reduce,90.0
+2012-05-10,William Blair & Co,12 month,3.0,market perform,96.0
+2012-05-10,Bernstein,12 month,3.0,market perform,101.0
+2012-05-14,FBR Capital Markets,12 month,5.0,outperform,97.0
+2012-05-14,Nomura,12 month,2.0,reduce,90.0
+2012-05-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-05-18,Bernstein,12 month,3.0,market perform,101.0
+2012-05-21,Nomura,12 month,2.0,reduce,90.0
+2012-05-21,William Blair & Co,12 month,3.0,market perform,94.0
+2012-05-21,Jefferies,12 month,5.0,buy,108.0
+2012-05-25,Bernstein,12 month,3.0,market perform,101.0
+2012-05-29,Morgan Stanley,12 month,3.0,Equalwt/In-Line,97.0
+2012-06-04,Nomura,12 month,2.0,reduce,90.0
+2012-06-05,Bernstein,12 month,3.0,market perform,101.0
+2012-06-07,Jefferies,12 month,5.0,buy,108.0
+2012-06-11,Nomura,12 month,2.0,reduce,90.0
+2012-06-13,William Blair & Co,12 month,3.0,market perform,89.0
+2012-06-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-06-15,Jefferies,12 month,5.0,buy,108.0
+2012-06-18,Nomura,12 month,2.0,reduce,90.0
+2012-06-18,Bernstein,12 month,3.0,market perform,101.0
+2012-06-18,Barclays,Not Provided,3.0,equalwt/positive,95.0
+2012-06-20,William Blair & Co,12 month,3.0,market perform,89.0
+2012-06-21,J.P. Morgan,6 month,3.0,neutral,83.0
+2012-06-25,Barclays,Not Provided,3.0,equalwt/positive,95.0
+2012-06-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-06-25,Nomura,12 month,2.0,reduce,90.0
+2012-06-27,Jefferies,12 month,5.0,buy,108.0
+2012-06-29,Bernstein,12 month,3.0,market perform,101.0
+2012-06-29,William Blair & Co,12 month,3.0,market perform,89.0
+2012-07-02,Nomura,12 month,2.0,reduce,90.0
+2012-07-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-07-09,Bernstein,12 month,3.0,market perform,101.0
+2012-07-09,Morgan Stanley,12 month,3.0,Equalwt/In-Line,102.0
+2012-07-10,Nomura,12 month,2.0,reduce,88.0
+2012-07-16,Nomura,12 month,2.0,reduce,88.0
+2012-07-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,102.0
+2012-07-25,Langenberg & Co,Not Provided,3.0,hold,100.0
+2012-07-26,Jefferies,12 month,5.0,buy,108.0
+2012-07-26,Bernstein,12 month,3.0,market perform,101.0
+2012-07-26,Morgan Stanley,12 month,5.0,Overwt/In-Line,102.0
+2012-07-26,Goldman Sachs,12 month,1.0,Sell/Neutral,92.0
+2012-07-26,Credit Suisse,Not Provided,3.0,neutral,92.0
+2012-07-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-07-26,Barclays,Not Provided,3.0,equalweight,95.0
+2012-07-26,Buckingham Research Group,12 month,5.0,buy,110.0
+2012-07-27,Nomura,12 month,2.0,reduce,88.0
+2012-07-27,FBR Capital Markets,12 month,5.0,outperform,97.0
+2012-07-27,Hilliard Lyons,12 month,5.0,long-term buy,125.0
+2012-07-27,J.P. Morgan,3 month,3.0,neutral,83.0
+2012-07-30,William Blair & Co,12 month,3.0,market perform,93.0
+2012-08-08,Nomura,12 month,2.0,reduce,88.0
+2012-08-09,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2012-08-09,Morgan Stanley,12 month,5.0,Overwt/In-Line,102.0
+2012-08-14,Bernstein,12 month,3.0,market perform,101.0
+2012-08-15,Jefferies,12 month,5.0,buy,108.0
+2012-08-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-09-05,Morgan Stanley,12 month,5.0,Overwt/In-Line,102.0
+2012-09-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-09-07,Langenberg & Co,12 month,3.0,hold,100.0
+2012-09-10,J.P. Morgan,12 month,3.0,neutral,94.0
+2012-09-13,Barclays,Not Provided,3.0,equalweight,95.0
+2012-09-17,Langenberg & Co,Not Provided,3.0,hold,100.0
+2012-09-24,William Blair & Co,12 month,3.0,market perform,93.0
+2012-09-24,Jefferies,12 month,5.0,buy,110.0
+2012-09-28,Bernstein,12 month,3.0,market perform,101.0
+2012-10-01,Langenberg & Co,12 month,3.0,hold,100.0
+2012-10-01,Credit Suisse,Not Provided,3.0,neutral,92.0
+2012-10-01,Morgan Stanley,12 month,5.0,Overwt/In-Line,102.0
+2012-10-01,Buckingham Research Group,12 month,5.0,buy,110.0
+2012-10-01,S&P Capital IQ,Not Provided,3.0,hold,-0.0
+2012-10-02,Nomura,12 month,2.0,reduce,88.0
+2012-10-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-10-03,Jefferies,12 month,5.0,buy,110.0
+2012-10-12,Nomura,12 month,2.0,reduce,88.0
+2012-10-12,Jefferies,12 month,5.0,buy,110.0
+2012-10-15,Barclays,Not Provided,3.0,equalweight,95.0
+2012-10-15,Morgan Stanley,12 month,5.0,Overwt/In-Line,102.0
+2012-10-23,Credit Suisse,Not Provided,3.0,neutral,92.0
+2012-10-23,Bernstein,12 month,3.0,market perform,103.0
+2012-10-23,Buckingham Research Group,12 month,5.0,buy,105.0
+2012-10-23,Langenberg & Co,Not Provided,3.0,hold,100.0
+2012-10-23,Barclays,Not Provided,3.0,equalweight,95.0
+2012-10-23,Hilliard Lyons,12 month,5.0,long-term buy,125.0
+2012-10-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-10-24,Morgan Stanley,12 month,5.0,Overwt/In-Line,101.0
+2012-10-24,Jefferies,12 month,5.0,buy,107.0
+2012-10-24,Nomura,12 month,2.0,reduce,88.0
+2012-10-24,FBR Capital Markets,12 month,5.0,outperform,97.0
+2012-10-24,William Blair & Co,12 month,3.0,market perform,94.0
+2012-10-24,J.P. Morgan,12 month,3.0,neutral,94.0
+2012-10-24,UBS,12 month,5.0,buy,100.0
+2012-11-06,Buckingham Research Group,12 month,5.0,buy,105.0
+2012-11-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-11-08,Jefferies,12 month,5.0,buy,107.0
+2012-11-08,William Blair & Co,12 month,3.0,market perform,94.0
+2012-11-09,Credit Suisse,Not Provided,3.0,neutral,92.0
+2012-11-09,J.P. Morgan,12 month,3.0,neutral,94.0
+2012-11-09,Bernstein,12 month,3.0,market perform,103.0
+2012-11-09,Barclays,Not Provided,3.0,equalweight,95.0
+2012-11-09,Nomura,12 month,3.0,neutral,96.0
+2012-11-09,FBR Capital Markets,12 month,5.0,outperform,97.0
+2012-11-11,Morgan Stanley,12 month,5.0,Overwt/In-Line,101.0
+2012-11-15,Buckingham Research Group,12 month,5.0,buy,105.0
+2012-11-16,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2012-11-20,William Blair & Co,12 month,3.0,market perform,94.0
+2012-11-26,Bernstein,12 month,3.0,market perform,103.0
+2012-11-28,William Blair & Co,12 month,3.0,market perform,94.0
+2012-11-30,J.P. Morgan,12 month,3.0,neutral,94.0
+2012-12-03,Bernstein,12 month,3.0,market perform,103.0
+2012-12-06,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2012-12-07,FBR Capital Markets,12 month,5.0,outperform,97.0
+2012-12-12,Credit Suisse,Not Provided,3.0,neutral,92.0
+2012-12-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,101.0
+2012-12-12,Barclays,Not Provided,3.0,equalweight,95.0
+2012-12-12,William Blair & Co,12 month,3.0,market perform,97.0
+2012-12-13,FBR Capital Markets,12 month,5.0,outperform,97.0
+2012-12-13,UBS,12 month,5.0,buy,100.0
+2012-12-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-12-13,Bernstein,12 month,3.0,market perform,103.0
+2012-12-13,Nomura,12 month,3.0,neutral,96.0
+2012-12-14,J.P. Morgan,12 month,3.0,neutral,97.0
+2013-01-02,Jefferies,12 month,5.0,buy,107.0
+2013-01-03,Jefferies,12 month,5.0,buy,110.0
+2013-01-07,Bernstein,12 month,3.0,market perform,103.0
+2013-01-07,Credit Suisse,Not Provided,3.0,neutral,100.0
+2013-01-08,Morgan Stanley,12 month,5.0,Overwt/In-Line,111.0
+2013-01-09,Nomura,12 month,3.0,neutral,105.0
+2013-01-11,J.P. Morgan,12 month,1.0,underweight,97.0
+2013-01-14,Bernstein,12 month,3.0,market perform,106.0
+2013-01-15,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2013-01-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,111.0
+2013-01-23,FBR Capital Markets,12 month,5.0,outperform,97.0
+2013-01-24,Hilliard Lyons,12 month,5.0,long-term buy,125.0
+2013-01-24,Credit Suisse,Not Provided,3.0,neutral,103.0
+2013-01-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-01-24,S&P Capital IQ,Not Provided,5.0,buy,110.0
+2013-01-24,Nomura,12 month,3.0,neutral,105.0
+2013-01-24,Morgan Stanley,12 month,5.0,Overwt/In-Line,111.0
+2013-01-25,Jefferies,12 month,5.0,buy,115.0
+2013-01-25,Barclays,Not Provided,3.0,equalweight,104.0
+2013-01-25,Nomura,12 month,3.0,neutral,105.0
+2013-01-25,William Blair & Co,12 month,3.0,market perform,101.0
+2013-01-25,Morgan Stanley,12 month,5.0,Overwt/In-Line,111.0
+2013-01-25,FBR Capital Markets,12 month,5.0,outperform,110.0
+2013-01-28,J.P. Morgan,6 month,1.0,underweight,97.0
+2013-01-29,UBS,12 month,5.0,buy,110.0
+2013-02-04,Bernstein,12 month,3.0,market perform,106.0
+2013-02-06,S&P Capital IQ,12 month,5.0,buy,110.0
+2013-02-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-02-13,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-02-25,Bernstein,12 month,3.0,market perform,116.0
+2013-03-06,Tigress Financial Partners,Not Provided,5.0,buy,-0.0
+2013-03-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-03-08,Bernstein,12 month,3.0,market perform,116.0
+2013-03-17,Morgan Stanley,12 month,5.0,Overwt/In-Line,113.0
+2013-03-20,Goldman Sachs,12 month,3.0,neutral/neutral,115.0
+2013-03-22,Bernstein,12 month,3.0,market perform,116.0
+2013-04-08,Bernstein,12 month,3.0,market perform,116.0
+2013-04-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-04-10,Bernstein,12 month,3.0,market perform,116.0
+2013-04-12,FBR Capital Markets,12 month,5.0,outperform,110.0
+2013-04-15,Barclays,Not Provided,3.0,equalweight,104.0
+2013-04-25,Bernstein,12 month,3.0,market perform,116.0
+2013-04-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-04-25,Langenberg & Co,Not Provided,3.0,hold,100.0
+2013-04-25,Hilliard Lyons,12 month,5.0,long-term buy,125.0
+2013-04-25,Barclays,Not Provided,3.0,equalweight,103.0
+2013-04-25,Morgan Stanley,12 month,5.0,Overwt/In-Line,112.0
+2013-04-26,Credit Suisse,Not Provided,3.0,neutral,103.0
+2013-04-26,Goldman Sachs,12 month,3.0,neutral/neutral,112.0
+2013-04-26,FBR Capital Markets,12 month,5.0,outperform,110.0
+2013-04-26,Jefferies,12 month,5.0,buy,120.0
+2013-04-26,Nomura,12 month,3.0,neutral,105.0
+2013-04-26,William Blair & Co,12 month,3.0,market perform,104.0
+2013-04-29,J.P. Morgan,3 month,1.0,underweight,95.0
+2013-05-02,UBS,12 month,5.0,buy,114.0
+2013-05-03,Nomura,12 month,3.0,neutral,105.0
+2013-05-14,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-05-17,Bernstein,12 month,3.0,market perform,115.0
+2013-05-20,William Blair & Co,12 month,3.0,market perform,111.0
+2013-05-22,William Blair & Co,12 month,3.0,market perform,111.0
+2013-05-24,Bernstein,12 month,3.0,market perform,115.0
+2013-05-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-06-04,Bernstein,12 month,3.0,market perform,115.0
+2013-06-06,Bernstein,12 month,3.0,market perform,115.0
+2013-06-07,Jefferies,12 month,5.0,buy,128.0
+2013-06-17,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2013-06-24,Barclays,Not Provided,3.0,equalweight,103.0
+2013-06-25,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2013-06-26,Barclays,Not Provided,3.0,equalweight,103.0
+2013-06-26,Bernstein,12 month,3.0,market perform,115.0
+2013-06-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-07-01,Erste Group,Not Provided,5.0,buy,-0.0
+2013-07-01,Morgan Stanley,12 month,3.0,Equalwt/In-Line,112.0
+2013-07-08,William Blair & Co,12 month,3.0,market perform,111.0
+2013-07-09,Bernstein,12 month,3.0,market perform,115.0
+2013-07-15,J.P. Morgan,3 month,1.0,underweight,95.0
+2013-07-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,115.0
+2013-07-17,Barclays,Not Provided,3.0,equalweight,103.0
+2013-07-22,FBR Capital Markets,12 month,5.0,outperform,110.0
+2013-07-25,Credit Suisse,Not Provided,3.0,neutral,120.0
+2013-07-25,Hilliard Lyons,12 month,5.0,long-term buy,125.0
+2013-07-25,Morgan Stanley,12 month,3.0,Equalwt/In-Line,118.0
+2013-07-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-07-25,Barclays,Not Provided,3.0,equalweight,110.0
+2013-07-26,FBR Capital Markets,12 month,5.0,outperform,127.0
+2013-07-26,William Blair & Co,12 month,3.0,market perform,114.0
+2013-07-26,J.P. Morgan,3 month,1.0,underweight,97.0
+2013-07-26,Nomura,12 month,3.0,neutral,120.0
+2013-07-26,UBS,12 month,5.0,buy,128.0
+2013-07-29,Langenberg & Co,Not Provided,3.0,hold,110.0
+2013-07-29,Bernstein,12 month,3.0,market perform,115.0
+2013-07-30,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-08-05,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2013-08-09,Jefferies,12 month,5.0,buy,140.0
+2013-08-09,William Blair & Co,12 month,3.0,market perform,114.0
+2013-08-12,Bernstein,12 month,3.0,market perform,127.0
+2013-08-12,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-08-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-08-27,Bernstein,12 month,3.0,market perform,127.0
+2013-09-03,Langenberg & Co,12 month,3.0,hold,110.0
+2013-09-03,Bernstein,12 month,3.0,market perform,127.0
+2013-09-11,J.P. Morgan,12 month,1.0,underweight,120.0
+2013-09-12,Bernstein,12 month,3.0,market perform,127.0
+2013-09-18,Bernstein,12 month,3.0,market perform,127.0
+2013-09-20,Jefferies,12 month,5.0,buy,140.0
+2013-09-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-09-25,Bernstein,12 month,3.0,market perform,127.0
+2013-09-27,Bernstein,12 month,3.0,market perform,127.0
+2013-10-02,William Blair & Co,12 month,3.0,market perform,114.0
+2013-10-04,Jefferies,12 month,5.0,buy,140.0
+2013-10-07,Barclays,Not Provided,3.0,equalweight,118.0
+2013-10-07,Goldman Sachs,12 month,3.0,neutral/neutral,117.0
+2013-10-07,Morgan Stanley,12 month,3.0,Equalwt/In-Line,121.0
+2013-10-09,Bernstein,12 month,3.0,market perform,127.0
+2013-10-11,Jefferies,12 month,5.0,buy,140.0
+2013-10-15,Bernstein,12 month,3.0,market perform,127.0
+2013-10-24,Jefferies,12 month,5.0,buy,140.0
+2013-10-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-10-24,William Blair & Co,12 month,3.0,market perform,119.0
+2013-10-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,123.0
+2013-10-24,Barclays,Not Provided,3.0,equalweight,121.0
+2013-10-24,S&P Capital IQ,Not Provided,3.0,hold,126.0
+2013-10-24,Langenberg & Co,Not Provided,3.0,hold,110.0
+2013-10-24,Bernstein,12 month,3.0,market perform,127.0
+2013-10-24,Nomura,12 month,3.0,neutral,120.0
+2013-10-24,Hilliard Lyons,12 month,5.0,long-term buy,135.0
+2013-10-25,J.P. Morgan,12 month,1.0,underweight,120.0
+2013-10-25,FBR Capital Markets,12 month,5.0,outperform,142.0
+2013-10-25,Nomura,12 month,3.0,neutral,128.0
+2013-10-25,Credit Suisse,Not Provided,3.0,neutral,128.0
+2013-10-25,Goldman Sachs,12 month,3.0,neutral/neutral,119.0
+2013-10-29,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-10-29,Bernstein,12 month,3.0,market perform,127.0
+2013-11-05,William Blair & Co,12 month,3.0,market perform,119.0
+2013-11-05,Bernstein,12 month,3.0,market perform,127.0
+2013-11-11,Bernstein,12 month,3.0,market perform,127.0
+2013-11-19,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2013-11-20,Bernstein,12 month,3.0,market perform,136.0
+2013-11-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-11-26,Bernstein,12 month,3.0,market perform,136.0
+2013-11-27,Jefferies,12 month,5.0,buy,140.0
+2013-12-02,Morgan Stanley,12 month,1.0,Underwt/In-Line,122.0
+2013-12-04,Jefferies,12 month,5.0,buy,140.0
+2013-12-09,J.P. Morgan,12 month,1.0,underweight,120.0
+2013-12-10,Tigress Financial Partners,Not Provided,5.0,buy,-0.0
+2013-12-11,Nomura,12 month,5.0,buy,150.0
+2013-12-12,William Blair & Co,12 month,3.0,market perform,119.0
+2013-12-13,Jefferies,12 month,5.0,buy,140.0
+2013-12-13,Bernstein,12 month,3.0,market perform,136.0
+2013-12-17,Jefferies,12 month,5.0,buy,150.0
+2013-12-17,William Blair & Co,12 month,3.0,market perform,128.0
+2013-12-17,Goldman Sachs,12 month,3.0,neutral/neutral,126.0
+2013-12-18,Nomura,12 month,5.0,buy,150.0
+2013-12-18,Barclays,Not Provided,3.0,equalweight,134.0
+2013-12-18,Bernstein,12 month,3.0,market perform,143.0
+2013-12-18,Morgan Stanley,12 month,1.0,Underwt/In-Line,123.0
+2013-12-19,Hilliard Lyons,12 month,5.0,long-term buy,150.0
+2013-12-19,Credit Suisse,Not Provided,3.0,neutral,128.0
+2013-12-20,J.P. Morgan,12 month,3.0,neutral,128.0
+2013-12-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-12-26,Langenberg & Co,12 month,3.0,hold,135.0
+2013-12-30,Bernstein,12 month,3.0,market perform,143.0
+2013-12-31,FBR Capital Markets,12 month,5.0,outperform,160.0
+2014-01-06,UBS,12 month,-2147483648.0,Under Review,128.0
+2014-01-06,Credit Suisse,Not Provided,3.0,neutral,148.0
+2014-01-07,Bernstein,12 month,3.0,market perform,149.0
+2014-01-08,UBS,12 month,5.0,buy,151.0
+2014-01-08,Morgan Stanley,12 month,1.0,Underwt/In-Line,129.0
+2014-01-13,Barclays,Not Provided,3.0,equalweight,134.0
+2014-01-13,Bernstein,12 month,3.0,market perform,149.0
+2014-01-14,Nomura,12 month,5.0,buy,150.0
+2014-01-15,J.P. Morgan,9 month,3.0,neutral,147.0
+2014-01-16,Goldman Sachs,12 month,3.0,neutral/neutral,143.0
+2014-01-22,Bernstein,12 month,3.0,market perform,149.0
+2014-01-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-01-30,Barclays,Not Provided,3.0,equalweight,134.0
+2014-01-30,S&P Capital IQ,Not Provided,3.0,hold,135.0
+2014-01-30,Credit Suisse,Not Provided,3.0,neutral,148.0
+2014-01-30,Bernstein,12 month,3.0,market perform,149.0
+2014-01-30,Hilliard Lyons,12 month,5.0,long-term buy,150.0
+2014-01-30,Morgan Stanley,12 month,1.0,Underwt/In-Line,128.0
+2014-01-31,Goldman Sachs,12 month,3.0,neutral/neutral,142.0
+2014-01-31,J.P. Morgan,6 month,3.0,neutral,147.0
+2014-01-31,FBR Capital Markets,12 month,5.0,outperform,160.0
+2014-01-31,Nomura,12 month,5.0,buy,150.0
+2014-02-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-02-03,Jefferies,12 month,5.0,buy,150.0
+2014-02-10,Jefferies,12 month,5.0,buy,150.0
+2014-02-18,FBR Capital Markets,12 month,5.0,outperform,160.0
+2014-02-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-02-25,William Blair & Co,Not Provided,3.0,market perform,129.0
+2014-02-25,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-02-25,Jefferies,12 month,5.0,buy,150.0
+2014-02-27,Bernstein,12 month,3.0,market perform,148.0
+2014-02-28,Bernstein,12 month,3.0,market perform,148.0
+2014-03-10,Bernstein,12 month,3.0,market perform,148.0
+2014-03-17,Bernstein,12 month,3.0,market perform,148.0
+2014-03-21,Bernstein,12 month,3.0,market perform,148.0
+2014-03-27,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-03-28,Bernstein,12 month,3.0,market perform,148.0
+2014-04-01,William Blair & Co,12 month,3.0,market perform,129.0
+2014-04-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-07,Morgan Stanley,12 month,1.0,Underwt/In-Line,129.0
+2014-04-10,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-14,Barclays,Not Provided,3.0,equalweight,134.0
+2014-04-14,Bernstein,12 month,3.0,market perform,148.0
+2014-04-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-24,Barclays,Not Provided,3.0,equalweight,142.0
+2014-04-24,Bernstein,12 month,3.0,market perform,148.0
+2014-04-24,Hilliard Lyons,12 month,5.0,long-term buy,150.0
+2014-04-24,William Blair & Co,12 month,3.0,market perform,137.0
+2014-04-25,Morgan Stanley,12 month,1.0,Underwt/In-Line,130.0
+2014-04-25,FBR Capital Markets,12 month,5.0,outperform,160.0
+2014-04-25,Nomura,12 month,5.0,buy,150.0
+2014-04-28,J.P. Morgan,3 month,3.0,neutral,147.0
+2014-04-29,Credit Suisse,Not Provided,3.0,neutral,148.0
+2014-04-30,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-05-01,Bernstein,12 month,3.0,market perform,148.0
+2014-05-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-05,William Blair & Co,12 month,3.0,market perform,137.0
+2014-05-09,Bernstein,12 month,3.0,market perform,148.0
+2014-05-12,Bernstein,12 month,3.0,market perform,151.0
+2014-05-12,Erste Group,Not Provided,5.0,buy,-0.0
+2014-05-15,Barclays,Not Provided,3.0,equalweight,142.0
+2014-05-15,Nomura,12 month,5.0,buy,150.0
+2014-05-15,Jefferies,12 month,5.0,buy,150.0
+2014-05-20,William Blair & Co,12 month,3.0,market perform,137.0
+2014-05-22,Bernstein,Not Provided,3.0,market perform,151.0
+2014-05-27,William Blair & Co,12 month,3.0,market perform,137.0
+2014-05-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-05-30,Bernstein,Not Provided,3.0,market perform,151.0
+2014-06-09,Bernstein,12 month,3.0,market perform,151.0
+2014-06-10,Jefferies,Not Provided,5.0,buy,150.0
+2014-06-10,Nomura,12 month,5.0,buy,150.0
+2014-06-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-18,Jefferies,12 month,5.0,buy,150.0
+2014-06-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-20,Bernstein,Not Provided,3.0,market perform,151.0
+2014-06-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-06-30,Bernstein,Not Provided,3.0,market perform,151.0
+2014-07-07,Barclays,Not Provided,3.0,equalweight,142.0
+2014-07-08,Argus Research Corp,12 month,5.0,buy,160.0
+2014-07-09,Morgan Stanley,12 month,1.0,Underwt/In-Line,135.0
+2014-07-10,Bernstein,Not Provided,3.0,market perform,151.0
+2014-07-10,Argus Research Corp,Not Provided,5.0,buy,160.0
+2014-07-11,Jefferies,12 month,5.0,buy,150.0
+2014-07-14,FBR Capital Markets,12 month,5.0,outperform,160.0
+2014-07-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-17,Credit Suisse,Not Provided,3.0,neutral,148.0
+2014-07-21,FBR Capital Markets,12 month,5.0,outperform,160.0
+2014-07-22,Erste Group,Not Provided,5.0,buy,-0.0
+2014-07-24,Morgan Stanley,12 month,1.0,Underwt/In-Line,138.0
+2014-07-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-07-24,Barclays,Not Provided,3.0,equalweight,152.0
+2014-07-24,Goldman Sachs,12 month,3.0,neutral/neutral,144.0
+2014-07-24,Hilliard Lyons,12 month,5.0,long-term buy,160.0
+2014-07-24,Credit Suisse,Not Provided,3.0,neutral,148.0
+2014-07-24,Jefferies,12 month,5.0,buy,166.0
+2014-07-25,Argus Research Corp,12 month,5.0,buy,160.0
+2014-07-25,William Blair & Co,12 month,3.0,market perform,145.0
+2014-07-25,J.P. Morgan,3 month,3.0,neutral,150.0
+2014-07-25,FBR Capital Markets,12 month,5.0,outperform,160.0
+2014-07-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-30,Tigress Financial Partners,Not Provided,5.0,buy,-0.0
+2014-07-31,Bernstein,Not Provided,3.0,market perform,151.0
+2014-07-31,Jefferies,12 month,5.0,buy,166.0
+2014-08-11,Jefferies,12 month,5.0,buy,166.0
+2014-08-11,Bernstein,Not Provided,3.0,market perform,151.0
+2014-08-13,Bernstein,Not Provided,3.0,market perform,147.0
+2014-08-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-09-02,Bernstein,12 month,3.0,market perform,147.0
+2014-09-11,J.P. Morgan,Not Provided,3.0,neutral,160.0
+2014-09-12,Jefferies,12 month,5.0,buy,166.0
+2014-09-16,Stifel,Not Provided,3.0,hold,-0.0
+2014-09-18,William Blair & Co,12 month,3.0,market perform,145.0
+2014-09-19,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-09-24,J.P. Morgan,Not Provided,3.0,neutral,148.0
+2014-09-26,Jefferies,12 month,5.0,buy,164.0
+2014-09-29,J.P. Morgan,Not Provided,3.0,neutral,147.0
+2014-09-30,Bernstein,Not Provided,3.0,market perform,147.0
+2014-10-02,Morgan Stanley,12 month,1.0,Underwt/In-Line,135.0
+2014-10-06,Barclays,Not Provided,3.0,equalweight,149.0
+2014-10-08,Bernstein,Not Provided,3.0,market perform,144.0
+2014-10-09,Stifel,12 month,3.0,hold,152.0
+2014-10-13,Goldman Sachs,12 month,3.0,neutral/neutral,143.0
+2014-10-15,Bernstein,Not Provided,3.0,market perform,144.0
+2014-10-15,Morgan Stanley,12 month,1.0,Underwt/In-Line,135.0
+2014-10-15,Jefferies,12 month,5.0,buy,164.0
+2014-10-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-10-20,FBR Capital Markets,12 month,5.0,outperform,160.0
+2014-10-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-23,Stifel,Not Provided,3.0,hold,-0.0
+2014-10-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-10-23,William Blair & Co,12 month,3.0,market perform,146.0
+2014-10-23,Credit Suisse,Not Provided,3.0,neutral,156.0
+2014-10-23,Jefferies,12 month,5.0,buy,164.0
+2014-10-23,Hilliard Lyons,12 month,5.0,long-term buy,160.0
+2014-10-23,Barclays,Not Provided,3.0,equalweight,160.0
+2014-10-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-24,Morgan Stanley,12 month,1.0,Underwt/In-Line,145.0
+2014-10-24,Bernstein,12 month,3.0,market perform,154.0
+2014-10-24,FBR Capital Markets,12 month,5.0,outperform,167.0
+2014-10-27,J.P. Morgan,Not Provided,3.0,neutral,147.0
+2014-10-27,Goldman Sachs,12 month,3.0,neutral/neutral,144.0
+2014-10-29,Tigress Financial Partners,Not Provided,5.0,buy,-0.0
+2014-11-05,Bernstein,Not Provided,3.0,market perform,154.0
+2014-11-11,Jefferies,12 month,5.0,buy,164.0
+2014-11-18,Bernstein,12 month,3.0,market perform,156.0
+2014-11-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-11-24,RBC Capital Markets,12 month,1.0,underperform,154.0
+2014-12-01,Goldman Sachs,12 month,3.0,neutral/neutral,156.0
+2014-12-01,RBC Capital Markets,12 month,1.0,underperform,154.0
+2014-12-02,Bernstein,Not Provided,3.0,market perform,156.0
+2014-12-02,Jefferies,12 month,5.0,buy,164.0
+2014-12-05,J.P. Morgan,12 month,3.0,neutral,147.0
+2014-12-07,Stifel,Not Provided,3.0,hold,-0.0
+2014-12-09,Morgan Stanley,12 month,1.0,Underwt/In-Line,145.0
+2014-12-11,Jefferies,12 month,5.0,buy,164.0
+2014-12-11,Argus Research Corp,Not Provided,5.0,buy,160.0
+2014-12-15,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-12-16,Barclays,Not Provided,3.0,equalweight,160.0
+2014-12-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-12-16,Jefferies,12 month,5.0,buy,180.0
+2014-12-16,Credit Suisse,Not Provided,3.0,neutral,178.0
+2014-12-16,William Blair & Co,12 month,3.0,market perform,156.0
+2014-12-17,RBC Capital Markets,12 month,1.0,underperform,155.0
+2014-12-17,Morgan Stanley,12 month,1.0,Underwt/In-Line,154.0
+2014-12-17,FBR Capital Markets,12 month,5.0,outperform,167.0
+2014-12-17,Stifel,Not Provided,3.0,hold,-0.0
+2014-12-17,Bernstein,12 month,3.0,market perform,173.0
+2014-12-18,Argus Research Corp,Not Provided,5.0,buy,175.0
+2014-12-18,J.P. Morgan,12 month,3.0,neutral,149.0
+2014-12-22,Bernstein,Not Provided,3.0,market perform,173.0
+2014-12-23,RBC Capital Markets,12 month,1.0,underperform,155.0
+2015-01-05,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-01-05,Bernstein,Not Provided,3.0,market perform,173.0
+2015-01-06,Credit Suisse,Not Provided,3.0,neutral,178.0
+2015-01-12,Barclays,Not Provided,3.0,equalweight,159.0
+2015-01-12,Bernstein,Not Provided,3.0,market perform,173.0
+2015-01-13,William Blair & Co,Not Provided,3.0,market perform,156.0
+2015-01-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-01-14,RBC Capital Markets,12 month,1.0,underperform,155.0
+2015-01-15,J.P. Morgan,Not Provided,3.0,neutral,150.0
+2015-01-15,Jefferies,12 month,5.0,buy,180.0
+2015-01-20,Stifel,Not Provided,3.0,hold,-0.0
+2015-01-20,Bernstein,12 month,3.0,market perform,173.0
+2015-01-21,UBS,12 month,5.0,buy,195.0
+2015-01-26,FBR Capital Markets,Not Provided,5.0,outperform,167.0
+2015-01-27,Credit Suisse,Not Provided,3.0,neutral,178.0
+2015-01-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-01-27,RBC Capital Markets,12 month,1.0,underperform,155.0
+2015-01-27,Stifel,Not Provided,3.0,hold,-0.0
+2015-01-27,Bernstein,12 month,3.0,market perform,173.0
+2015-01-27,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-01-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-01-27,Barclays,Not Provided,3.0,equalweight,158.0
+2015-01-27,William Blair & Co,12 month,3.0,market perform,165.0
+2015-01-27,J.P. Morgan,12 month,3.0,neutral,150.0
+2015-01-28,FBR Capital Markets,Not Provided,5.0,outperform,180.0
+2015-01-28,Argus Research Corp,Not Provided,5.0,buy,180.0
+2015-01-28,Morgan Stanley,12 month,1.0,Underwt/In-Line,155.0
+2015-01-29,Tigress Financial Partners,Not Provided,5.0,buy,-0.0
+2015-01-29,Jefferies,12 month,5.0,buy,188.0
+2015-02-02,Bernstein,Not Provided,3.0,market perform,173.0
+2015-02-17,Barclays,Not Provided,3.0,equalweight,158.0
+2015-02-17,Jefferies,12 month,5.0,buy,188.0
+2015-02-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-02-23,Credit Suisse,Not Provided,3.0,neutral,178.0
+2015-02-23,Stifel,Not Provided,3.0,hold,-0.0
+2015-02-23,Jefferies,12 month,5.0,buy,190.0
+2015-02-23,RBC Capital Markets,12 month,1.0,underperform,155.0
+2015-02-25,Bernstein,Not Provided,3.0,market perform,178.0
+2015-03-04,Bernstein,Not Provided,3.0,market perform,178.0
+2015-03-17,Barclays,Not Provided,3.0,equalweight,157.0
+2015-03-18,Stifel,Not Provided,3.0,hold,-0.0
+2015-03-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-03-20,Goldman Sachs,12 month,3.0,neutral/neutral,162.0
+2015-03-22,RBC Capital Markets,12 month,1.0,underperform,154.0
+2015-03-31,Bernstein,Not Provided,3.0,market perform,178.0
+2015-04-01,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-06,Morgan Stanley,12 month,1.0,Underwt/In-Line,157.0
+2015-04-06,Jefferies,Not Provided,5.0,buy,190.0
+2015-04-10,Bernstein,Not Provided,3.0,market perform,172.0
+2015-04-10,RBC Capital Markets,12 month,1.0,underperform,154.0
+2015-04-13,J.P. Morgan,9 month,3.0,neutral,151.0
+2015-04-14,William Blair & Co,12 month,3.0,market perform,165.0
+2015-04-23,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-23,Credit Suisse,Not Provided,3.0,neutral,178.0
+2015-04-23,Goldman Sachs,12 month,3.0,neutral/neutral,158.0
+2015-04-23,RBC Capital Markets,12 month,1.0,underperform,150.0
+2015-04-23,Morgan Stanley,12 month,1.0,Underwt/In-Line,157.0
+2015-04-23,Barclays,Not Provided,3.0,equalweight,155.0
+2015-04-23,Bernstein,12 month,3.0,market perform,172.0
+2015-04-23,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-04-23,William Blair & Co,12 month,3.0,market perform,162.0
+2015-04-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-04-23,Jefferies,12 month,5.0,buy,190.0
+2015-04-24,Morgan Stanley,12 month,1.0,Underwt/In-Line,157.0
+2015-04-24,J.P. Morgan,9 month,3.0,neutral,148.0
+2015-04-27,RBC Capital Markets,12 month,1.0,underperform,150.0
+2015-04-28,Argus Research Corp,Not Provided,5.0,buy,180.0
+2015-04-28,William Blair & Co,12 month,3.0,market perform,162.0
+2015-04-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-30,Bernstein,Not Provided,3.0,market perform,172.0
+2015-05-07,RBC Capital Markets,12 month,1.0,underperform,150.0
+2015-05-07,Bernstein,12 month,3.0,market perform,175.0
+2015-05-11,Barclays,Not Provided,3.0,equalweight,155.0
+2015-05-11,William Blair & Co,12 month,3.0,market perform,162.0
+2015-05-13,Bernstein,Not Provided,3.0,market perform,175.0
+2015-05-18,Stifel,Not Provided,3.0,hold,-0.0
+2015-05-18,William Blair & Co,12 month,3.0,market perform,162.0
+2015-05-20,Bernstein,Not Provided,3.0,market perform,175.0
+2015-05-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-05-22,William Blair & Co,12 month,3.0,market perform,162.0
+2015-05-29,Bernstein,12 month,3.0,market perform,175.0
+2015-06-04,Bernstein,Not Provided,3.0,market perform,175.0
+2015-06-08,Credit Suisse,Not Provided,3.0,neutral,169.0
+2015-06-23,RBC Capital Markets,12 month,1.0,underperform,150.0
+2015-06-23,Morgan Stanley,12 month,1.0,Underwt/In-Line,157.0
+2015-06-23,Stifel,Not Provided,3.0,hold,-0.0
+2015-06-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-23,Bernstein,12 month,3.0,market perform,175.0
+2015-06-23,Credit Suisse,Not Provided,3.0,neutral,169.0
+2015-06-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-06-26,Barclays,Not Provided,3.0,equalweight,158.0
+2015-06-26,Jefferies,Not Provided,5.0,buy,190.0
+2015-07-02,Bernstein,Not Provided,3.0,market perform,175.0
+2015-07-09,Bernstein,12 month,3.0,market perform,175.0
+2015-07-09,J.P. Morgan,Not Provided,3.0,neutral,148.0
+2015-07-12,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-13,Barclays,Not Provided,3.0,equalweight,158.0
+2015-07-23,Credit Suisse,Not Provided,3.0,neutral,160.0
+2015-07-23,Barclays,Not Provided,3.0,equalweight,153.0
+2015-07-23,Goldman Sachs,12 month,3.0,neutral/neutral,156.0
+2015-07-24,Tigress Financial Partners,Not Provided,5.0,buy,-0.0
+2015-07-24,Morgan Stanley,12 month,1.0,Underwt/In-Line,156.0
+2015-07-24,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-07-24,UBS,12 month,5.0,buy,185.0
+2015-07-24,Jefferies,12 month,5.0,buy,190.0
+2015-07-24,William Blair & Co,12 month,3.0,market perform,152.0
+2015-07-24,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-24,RBC Capital Markets,12 month,1.0,underperform,148.0
+2015-07-27,J.P. Morgan,6 month,3.0,neutral,146.0
+2015-07-27,Bernstein,12 month,3.0,market perform,167.0
+2015-07-30,Bernstein,Not Provided,3.0,market perform,167.0
+2015-08-03,RBC Capital Markets,12 month,1.0,underperform,149.0
+2015-08-05,J.P. Morgan,6 month,3.0,neutral,146.0
+2015-08-06,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-08-09,Stifel,Not Provided,3.0,hold,-0.0
+2015-08-10,Barclays,Not Provided,3.0,equalweight,153.0
+2015-08-10,Bernstein,Not Provided,3.0,market perform,169.0
+2015-08-11,William Blair & Co,12 month,3.0,market perform,151.0
+2015-08-18,Jefferies,12 month,5.0,buy,190.0
+2015-08-18,RBC Capital Markets,12 month,1.0,underperform,149.0
+2015-08-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-08-25,Jefferies,12 month,5.0,buy,190.0
+2015-08-26,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2015-08-27,RBC Capital Markets,12 month,1.0,underperform,149.0
+2015-08-28,Bernstein,Not Provided,3.0,market perform,169.0
+2015-08-31,Stifel,Not Provided,3.0,hold,-0.0
+2015-09-01,Credit Suisse,Not Provided,3.0,neutral,160.0
+2015-09-02,William Blair & Co,12 month,3.0,market perform,140.0
+2015-09-03,Goldman Sachs,12 month,3.0,neutral/neutral,155.0
+2015-09-08,Bernstein,12 month,3.0,market perform,163.0
+2015-09-11,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-09-11,J.P. Morgan,18 month,3.0,neutral,158.0
+2015-09-15,Bernstein,Not Provided,3.0,market perform,163.0
+2015-09-18,RBC Capital Markets,12 month,1.0,underperform,141.0
+2015-09-21,William Blair & Co,12 month,3.0,market perform,140.0
+2015-09-21,Bernstein,Not Provided,3.0,market perform,163.0
+2015-09-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-09-22,Argus Research Corp,12 month,5.0,buy,180.0
+2015-09-23,Jefferies,Not Provided,5.0,buy,165.0
+2015-09-25,Credit Suisse,Not Provided,5.0,outperform,155.0
+2015-09-30,J.P. Morgan,18 month,3.0,neutral,156.0
+2015-10-01,Argus Research Corp,12 month,5.0,buy,180.0
+2015-10-02,Bernstein,Not Provided,3.0,market perform,163.0
+2015-10-05,Barclays,Not Provided,3.0,equalweight,135.0
+2015-10-07,Morgan Stanley,12 month,1.0,Underwt/In-Line,147.0
+2015-10-09,Bernstein,Not Provided,3.0,market perform,161.0
+2015-10-09,J.P. Morgan,Not Provided,3.0,neutral,152.0
+2015-10-12,Barclays,Not Provided,3.0,equalweight,135.0
+2015-10-12,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-13,RBC Capital Markets,12 month,1.0,underperform,141.0
+2015-10-14,Morgan Stanley,12 month,1.0,Underwt/In-Line,147.0
+2015-10-14,RBC Capital Markets,12 month,1.0,underperform,141.0
+2015-10-15,Bernstein,Not Provided,3.0,market perform,161.0
+2015-10-22,Goldman Sachs,12 month,3.0,neutral/neutral,157.0
+2015-10-22,Jefferies,12 month,5.0,buy,175.0
+2015-10-22,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-10-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-10-22,Credit Suisse,Not Provided,5.0,outperform,167.0
+2015-10-22,RBC Capital Markets,12 month,1.0,underperform,138.0
+2015-10-23,Barclays,Not Provided,3.0,equalweight,150.0
+2015-10-23,Morgan Stanley,12 month,1.0,Underwt/In-Line,147.0
+2015-10-23,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-10-23,J.P. Morgan,Not Provided,3.0,neutral,152.0
+2015-10-23,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-26,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2015-10-26,Argus Research Corp,Not Provided,5.0,buy,180.0
+2015-10-26,Bernstein,12 month,3.0,market perform,161.0
+2015-10-27,William Blair & Co,12 month,3.0,market perform,146.0
+2015-11-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-11-03,Bernstein,Not Provided,3.0,market perform,161.0
+2015-11-05,Credit Suisse,Not Provided,5.0,outperform,167.0
+2015-11-05,Bernstein,Not Provided,3.0,market perform,161.0
+2015-11-06,Morgan Stanley,12 month,1.0,Underwt/In-Line,147.0
+2015-11-09,J.P. Morgan,18 month,3.0,neutral,152.0
+2015-11-10,Argus Research Corp,12 month,5.0,buy,180.0
+2015-11-16,Barclays,Not Provided,3.0,equalweight,150.0
+2015-11-20,Bernstein,Not Provided,3.0,market perform,165.0
+2015-11-24,Stifel,Not Provided,3.0,hold,-0.0
+2015-11-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-11-30,RBC Capital Markets,12 month,1.0,underperform,140.0
+2015-12-02,Bernstein,12 month,3.0,market perform,165.0
+2015-12-07,Goldman Sachs,12 month,3.0,neutral/neutral,155.0
+2015-12-09,Bernstein,Not Provided,3.0,market perform,165.0
+2015-12-15,Stifel,Not Provided,3.0,hold,-0.0
+2015-12-15,Jefferies,12 month,5.0,buy,175.0
+2015-12-15,Barclays,Not Provided,3.0,equalweight,150.0
+2015-12-15,Goldman Sachs,12 month,3.0,neutral/neutral,152.0
+2015-12-15,William Blair & Co,12 month,3.0,market perform,147.0
+2015-12-15,J.P. Morgan,12 month,3.0,neutral,153.0
+2015-12-15,UBS,12 month,5.0,buy,175.0
+2015-12-15,Credit Suisse,Not Provided,5.0,outperform,167.0
+2015-12-15,Morgan Stanley,12 month,1.0,Underwt/In-Line,147.0
+2015-12-15,RBC Capital Markets,12 month,1.0,underperform,136.0
+2015-12-16,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-12-16,Bernstein,12 month,3.0,market perform,160.0
+2015-12-18,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-22,Argus Research Corp,Not Provided,5.0,buy,180.0
+2015-12-22,Bernstein,Not Provided,3.0,market perform,160.0
+2016-01-05,RBC Capital Markets,12 month,1.0,underperform,136.0
+2016-01-05,Bernstein,Not Provided,3.0,market perform,160.0
+2016-01-06,Credit Suisse,Not Provided,5.0,outperform,167.0
+2016-01-11,Morgan Stanley,12 month,1.0,Underwt/In-Line,146.0
+2016-01-13,UBS,12 month,5.0,buy,170.0
+2016-01-14,Goldman Sachs,12 month,3.0,neutral/neutral,147.0
+2016-01-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-15,Bernstein,Not Provided,3.0,market perform,160.0
+2016-01-19,Barclays,Not Provided,3.0,equalweight,150.0
+2016-01-20,Argus Research Corp,Not Provided,5.0,buy,180.0
+2016-01-20,Stifel,Not Provided,3.0,hold,-0.0
+2016-01-20,RBC Capital Markets,12 month,1.0,underperform,136.0
+2016-01-21,Morgan Stanley,12 month,1.0,Underwt/In-Line,146.0
+2016-01-26,Goldman Sachs,12 month,3.0,neutral/neutral,151.0
+2016-01-26,Jefferies,12 month,5.0,buy,175.0
+2016-01-26,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-26,Credit Suisse,Not Provided,5.0,outperform,167.0
+2016-01-26,J.P. Morgan,12 month,3.0,neutral,153.0
+2016-01-26,RBC Capital Markets,12 month,1.0,underperform,136.0
+2016-01-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-26,Morgan Stanley,12 month,1.0,Underwt/In-Line,146.0
+2016-01-27,William Blair & Co,12 month,3.0,market perform,149.0
+2016-01-27,Stifel,Not Provided,3.0,hold,-0.0
+2016-01-27,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-01-27,Argus Research Corp,Not Provided,5.0,buy,180.0
+2016-01-27,Barclays,Not Provided,3.0,equalweight,150.0
+2016-01-27,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-02-01,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-02-01,Bernstein,Not Provided,3.0,market perform,160.0
+2016-02-02,Morgan Stanley,12 month,1.0,Underwt/In-Line,146.0
+2016-02-02,RBC Capital Markets,12 month,1.0,underperform,136.0
+2016-02-02,Bernstein,Not Provided,3.0,market perform,160.0
+2016-02-02,Tigress Financial Partners,Not Provided,5.0,buy,-0.0
+2016-02-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-02-05,J.P. Morgan,12 month,3.0,neutral,149.0
+2016-02-09,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-02-18,Bernstein,Not Provided,3.0,market perform,160.0
+2016-02-18,Argus Research Corp,Not Provided,5.0,buy,180.0
+2016-02-18,RBC Capital Markets,12 month,1.0,underperform,136.0
+2016-02-19,Jefferies,12 month,5.0,buy,175.0
+2016-02-24,Bernstein,12 month,3.0,market perform,160.0
+2016-03-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-03-04,Bernstein,Not Provided,3.0,market perform,160.0
+2016-03-10,Bernstein,12 month,3.0,market perform,160.0
+2016-03-11,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-03-14,Credit Suisse,Not Provided,5.0,outperform,175.0
+2016-03-28,Goldman Sachs,12 month,3.0,neutral/neutral,158.0
+2016-03-29,Credit Suisse,Not Provided,5.0,outperform,175.0
+2016-03-29,J.P. Morgan,12 month,3.0,neutral,149.0
+2016-03-29,Barclays,Not Provided,3.0,equalweight,150.0
+2016-03-29,Stifel,Not Provided,3.0,hold,-0.0
+2016-03-30,Bernstein,12 month,3.0,market perform,170.0
+2016-03-30,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-03-30,William Blair & Co,12 month,3.0,market perform,162.0
+2016-03-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-03-30,Morgan Stanley,12 month,1.0,Underwt/In-Line,157.0
+2016-03-30,UBS,12 month,5.0,buy,190.0
+2016-03-30,RBC Capital Markets,12 month,1.0,underperform,136.0
+2016-04-01,Bernstein,Not Provided,3.0,market perform,170.0
+2016-04-03,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-04,Credit Suisse,Not Provided,5.0,outperform,178.0
+2016-04-12,Jefferies,12 month,5.0,buy,187.0
+2016-04-12,RBC Capital Markets,12 month,1.0,underperform,137.0
+2016-04-12,Bernstein,Not Provided,3.0,market perform,170.0
+2016-04-13,J.P. Morgan,9 month,3.0,neutral,149.0
+2016-04-14,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-18,Jefferies,Not Provided,5.0,buy,190.0
+2016-04-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-20,Barclays,Not Provided,3.0,equalweight,154.0
+2016-04-20,J.P. Morgan,Not Provided,3.0,neutral,164.0
+2016-04-26,J.P. Morgan,12 month,3.0,neutral,164.0
+2016-04-26,Goldman Sachs,12 month,3.0,neutral/neutral,160.0
+2016-04-26,Credit Suisse,Not Provided,5.0,outperform,178.0
+2016-04-26,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-04-26,Bernstein,12 month,3.0,market perform,170.0
+2016-04-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-26,RBC Capital Markets,12 month,1.0,underperform,137.0
+2016-04-26,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-26,Barclays,Not Provided,3.0,equalweight,171.0
+2016-04-26,Jefferies,12 month,5.0,buy,190.0
+2016-04-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-27,Morgan Stanley,12 month,1.0,Underwt/In-Line,156.0
+2016-04-27,Argus Research Corp,Not Provided,5.0,buy,180.0
+2016-04-28,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-04-29,Bernstein,Not Provided,3.0,market perform,170.0
+2016-05-10,Stifel,Not Provided,3.0,hold,-0.0
+2016-05-11,RBC Capital Markets,12 month,1.0,underperform,137.0
+2016-05-11,Bernstein,Not Provided,3.0,market perform,174.0
+2016-05-16,Credit Suisse,Not Provided,5.0,outperform,178.0
+2016-05-16,William Blair & Co,12 month,3.0,market perform,167.0
+2016-05-16,Stifel,Not Provided,3.0,hold,-0.0
+2016-05-19,Stifel,Not Provided,3.0,hold,-0.0
+2016-05-20,Bernstein,Not Provided,3.0,market perform,174.0
+2016-05-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-25,William Blair & Co,12 month,3.0,market perform,167.0
+2016-05-27,William Blair & Co,12 month,3.0,market perform,167.0
+2016-06-02,RBC Capital Markets,12 month,1.0,underperform,143.0
+2016-06-02,Bernstein,12 month,3.0,market perform,174.0
+2016-06-06,Bernstein,Not Provided,3.0,market perform,174.0
+2016-06-08,Stifel,Not Provided,3.0,hold,-0.0
+2016-06-09,Morgan Stanley,12 month,1.0,Underwt/In-Line,156.0
+2016-06-10,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-06-21,Bernstein,Not Provided,3.0,market perform,174.0
+2016-06-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-06-27,Bernstein,Not Provided,3.0,market perform,174.0
+2016-06-28,Goldman Sachs,12 month,3.0,neutral/neutral,158.0
+2016-06-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-05,Jefferies,12 month,5.0,buy,190.0
+2016-07-06,Bernstein,Not Provided,3.0,market perform,174.0
+2016-07-07,Credit Suisse,Not Provided,5.0,outperform,178.0
+2016-07-11,Morgan Stanley,12 month,1.0,Underwt/In-Line,164.0
+2016-07-12,Bernstein,Not Provided,3.0,market perform,174.0
+2016-07-12,RBC Capital Markets,12 month,1.0,underperform,143.0
+2016-07-13,J.P. Morgan,6 month,3.0,neutral,164.0
+2016-07-15,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-15,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-07-18,Barclays,Not Provided,3.0,equalweight,171.0
+2016-07-19,Jefferies,Not Provided,5.0,buy,210.0
+2016-07-26,RBC Capital Markets,12 month,1.0,underperform,143.0
+2016-07-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-07-26,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-07-26,Goldman Sachs,12 month,3.0,neutral/neutral,170.0
+2016-07-26,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-26,Jefferies,12 month,5.0,buy,210.0
+2016-07-26,Barclays,Not Provided,3.0,equalweight,171.0
+2016-07-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-26,William Blair & Co,12 month,3.0,market perform,172.0
+2016-07-26,Credit Suisse,Not Provided,5.0,outperform,186.0
+2016-07-27,J.P. Morgan,6 month,3.0,neutral,160.0
+2016-07-27,Morgan Stanley,12 month,1.0,Underwt/In-Line,168.0
+2016-07-28,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-07-28,Bernstein,12 month,3.0,market perform,184.0
+2016-08-01,Argus Research Corp,Not Provided,5.0,buy,197.0
+2016-08-04,Stifel,Not Provided,3.0,hold,-0.0
+2016-08-05,UBS,12 month,5.0,buy,200.0
+2016-08-09,Bernstein,Not Provided,3.0,market perform,183.0
+2016-08-10,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-08-16,Bernstein,Not Provided,3.0,market perform,183.0
+2016-08-17,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-08-18,RBC Capital Markets,12 month,1.0,underperform,168.0
+2016-08-22,Morgan Stanley,12 month,1.0,Underwt/In-Line,168.0
+2016-08-25,Stifel,Not Provided,3.0,hold,-0.0
+2016-08-26,Tigress Financial Partners,Not Provided,5.0,buy,-0.0
+2016-09-02,Bernstein,Not Provided,3.0,market perform,183.0
+2016-09-06,Credit Suisse,Not Provided,5.0,outperform,195.0
+2016-09-08,Stifel,Not Provided,3.0,hold,-0.0
+2016-09-09,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-09-09,Bernstein,Not Provided,3.0,market perform,183.0
+2016-09-15,Credit Suisse,Not Provided,5.0,outperform,195.0
+2016-09-18,Goldman Sachs,12 month,3.0,neutral/neutral,171.0
+2016-09-19,J.P. Morgan,6 month,3.0,neutral,160.0
+2016-09-19,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-09-23,J.P. Morgan,18 month,3.0,neutral,169.0
+2016-09-28,Stifel,Not Provided,3.0,hold,-0.0
+2016-09-29,Bernstein,Not Provided,3.0,market perform,183.0
+2016-09-30,Morgan Stanley,12 month,1.0,Underwt/In-Line,168.0
+2016-09-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-03,J.P. Morgan,18 month,3.0,neutral,171.0
+2016-10-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-05,Bernstein,Not Provided,3.0,market perform,183.0
+2016-10-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-10,Credit Suisse,Not Provided,5.0,outperform,193.0
+2016-10-10,Jefferies,12 month,5.0,buy,210.0
+2016-10-11,Stifel,12 month,3.0,hold,175.0
+2016-10-12,RBC Capital Markets,12 month,1.0,underperform,159.0
+2016-10-13,Bernstein,Not Provided,3.0,market perform,187.0
+2016-10-13,William Blair & Co,12 month,3.0,market perform,172.0
+2016-10-14,Morgan Stanley,12 month,1.0,Underwt/In-Line,168.0
+2016-10-17,Barclays,Not Provided,3.0,equalweight,171.0
+2016-10-24,Barclays,Not Provided,5.0,overweight,194.0
+2016-10-24,J.P. Morgan,12 month,3.0,neutral,171.0
+2016-10-25,Stifel,12 month,3.0,hold,175.0
+2016-10-25,Goldman Sachs,12 month,3.0,neutral/neutral,167.0
+2016-10-25,Credit Suisse,Not Provided,5.0,outperform,190.0
+2016-10-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-25,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-10-25,Barclays,Not Provided,5.0,overweight,193.0
+2016-10-26,William Blair & Co,12 month,3.0,market perform,160.0
+2016-10-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-26,J.P. Morgan,18 month,3.0,neutral,171.0
+2016-10-26,UBS,12 month,5.0,buy,195.0
+2016-10-26,Argus Research Corp,Not Provided,5.0,buy,197.0
+2016-10-26,Morgan Stanley,12 month,1.0,Underwt/In-Line,167.0
+2016-10-26,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-10-26,RBC Capital Markets,12 month,1.0,underperform,155.0
+2016-10-28,Bernstein,Not Provided,3.0,market perform,186.0
+2016-10-28,Jefferies,12 month,5.0,buy,210.0
+2016-11-03,Bernstein,Not Provided,3.0,market perform,186.0
+2016-11-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-14,Credit Suisse,Not Provided,5.0,outperform,190.0
+2016-11-14,Bernstein,Not Provided,3.0,market perform,186.0
+2016-11-15,Stifel,Not Provided,3.0,hold,175.0
+2016-11-15,Jefferies,12 month,5.0,buy,210.0
+2016-11-18,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-11-18,Bernstein,Not Provided,3.0,market perform,186.0
+2016-11-21,Goldman Sachs,12 month,1.0,Sell/Neutral,159.0
+2016-11-28,Jefferies,12 month,5.0,buy,200.0
+2016-11-29,Bernstein,Not Provided,3.0,market perform,186.0
+2016-12-02,Bernstein,Not Provided,3.0,market perform,186.0
+2016-12-06,RBC Capital Markets,12 month,3.0,sector perform,171.0
+2016-12-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-11,Goldman Sachs,12 month,1.0,Sell/Neutral,163.0
+2016-12-12,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-12-13,Bernstein,Not Provided,3.0,market perform,186.0
+2016-12-13,Credit Suisse,Not Provided,5.0,outperform,192.0
+2016-12-13,Vertical Research Partners,Not Provided,3.0,hold,179.0
+2016-12-13,RBC Capital Markets,12 month,3.0,sector perform,171.0
+2016-12-13,J.P. Morgan,12 month,3.0,neutral,174.0
+2016-12-13,Barclays,Not Provided,5.0,overweight,200.0
+2016-12-13,Morgan Stanley,12 month,1.0,Underwt/In-Line,167.0
+2016-12-13,Stifel,12 month,3.0,hold,186.0
+2016-12-14,William Blair & Co,12 month,3.0,market perform,170.0
+2016-12-14,Jefferies,12 month,5.0,buy,200.0
+2016-12-14,Argus Research Corp,Not Provided,5.0,buy,197.0
+2016-12-14,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2016-12-14,Bernstein,12 month,3.0,market perform,186.0
+2016-12-16,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-12-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-12-19,Morgan Stanley,12 month,1.0,Underwt/In-Line,168.0
+2017-01-02,Vertical Research Partners,Not Provided,3.0,hold,179.0
+2017-01-04,RBC Capital Markets,12 month,3.0,sector perform,176.0
+2017-01-05,Bernstein,Not Provided,3.0,market perform,190.0
+2017-01-06,UBS,12 month,5.0,buy,209.0
+2017-01-06,Credit Suisse,Not Provided,5.0,outperform,192.0
+2017-01-12,Bernstein,Not Provided,3.0,market perform,190.0
+2017-01-13,J.P. Morgan,12 month,3.0,neutral,186.0
+2017-01-13,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-17,Stifel,Not Provided,3.0,hold,187.0
+2017-01-17,Bernstein,Not Provided,3.0,market perform,190.0
+2017-01-17,Barclays,Not Provided,5.0,overweight,200.0
+2017-01-18,Jefferies,Not Provided,5.0,buy,210.0
+2017-01-18,RBC Capital Markets,12 month,3.0,sector perform,176.0
+2017-01-24,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2017-01-24,RBC Capital Markets,12 month,3.0,sector perform,176.0
+2017-01-24,Credit Suisse,Not Provided,5.0,outperform,192.0
+2017-01-24,Barclays,Not Provided,5.0,overweight,200.0
+2017-01-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-24,Stifel,12 month,3.0,hold,190.0
+2017-01-24,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2017-01-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-24,Vertical Research Partners,Not Provided,3.0,hold,179.0
+2017-01-25,Argus Research Corp,Not Provided,5.0,buy,197.0
+2017-01-25,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2017-01-25,Jefferies,12 month,5.0,buy,210.0
+2017-01-25,Morgan Stanley,12 month,1.0,Underwt/In-Line,168.0
+2017-01-25,Bernstein,Not Provided,3.0,market perform,190.0
+2017-01-25,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2017-01-26,J.P. Morgan,12 month,3.0,neutral,186.0
+2017-02-03,Bernstein,Not Provided,3.0,market perform,190.0
+2017-02-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-10,Tigress Financial Partners,Not Provided,5.0,buy,-0.0
+2017-02-16,Bernstein,Not Provided,3.0,market perform,190.0
+2017-02-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-23,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-02-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-01,Bernstein,Not Provided,3.0,market perform,190.0
+2017-03-08,RBC Capital Markets,12 month,3.0,sector perform,187.0
+2017-03-13,Goldman Sachs,12 month,1.0,Sell/Neutral,172.0
+2017-03-14,J.P. Morgan,12 month,3.0,neutral,186.0
+2017-03-16,Bernstein,12 month,3.0,market perform,190.0
+2017-03-16,RBC Capital Markets,12 month,3.0,sector perform,187.0
+2017-03-16,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2017-03-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-17,Stifel,12 month,3.0,hold,190.0
+2017-03-19,Credit Suisse,Not Provided,5.0,outperform,203.0
+2017-03-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-04-03,Bernstein,12 month,3.0,market perform,190.0
+2017-04-05,RBC Capital Markets,12 month,3.0,sector perform,187.0
+2017-04-10,Credit Suisse,Not Provided,5.0,outperform,203.0
+2017-04-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-17,Vertical Research Partners,Not Provided,3.0,hold,179.0
+2017-04-17,Barclays,Not Provided,5.0,overweight,201.0
+2017-04-18,Jefferies,Not Provided,5.0,buy,219.0
+2017-04-25,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2017-04-25,Goldman Sachs,12 month,1.0,Sell/Neutral,178.0
+2017-04-25,J.P. Morgan,12 month,3.0,neutral,187.0
+2017-04-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-04-25,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2017-04-25,Barclays,Not Provided,5.0,overweight,204.0
+2017-04-25,Credit Suisse,Not Provided,5.0,outperform,216.0
+2017-04-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-25,Stifel,12 month,3.0,hold,202.0
+2017-04-25,Morgan Stanley,12 month,1.0,Underwt/In-Line,168.0
+2017-04-25,Vertical Research Partners,Not Provided,3.0,hold,179.0
+2017-04-25,RBC Capital Markets,12 month,3.0,sector perform,191.0
+2017-04-25,Jefferies,12 month,5.0,buy,219.0
+2017-04-26,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2017-04-26,Morgan Stanley,12 month,1.0,Underwt/In-Line,178.0
+2017-04-26,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2017-04-26,RBC Capital Markets,12 month,3.0,sector perform,191.0
+2017-04-27,Argus Research Corp,Not Provided,5.0,buy,220.0
+2017-04-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-07,RBC Capital Markets,12 month,3.0,sector perform,191.0
+2017-05-09,Jefferies,12 month,5.0,buy,219.0
+2017-05-12,Stifel,12 month,3.0,hold,202.0
+2017-05-22,Stifel,12 month,3.0,hold,202.0
+2017-05-22,William Blair & Co,Not Provided,3.0,market perform,-0.0

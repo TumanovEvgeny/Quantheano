@@ -1,0 +1,306 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-01-22,UBS,12 month,3.0,neutral,140.0
+2015-02-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-11-09,RBC Capital Markets,12 month,3.0,sector perform,133.0
+2015-11-12,J.P. Morgan,18 month,5.0,overweight,153.0
+2015-11-19,Jefferies,Not Provided,3.0,hold,145.0
+2015-11-20,Canaccord Genuity,Not Provided,5.0,buy,155.0
+2015-12-16,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,150.0
+2015-12-23,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-01-04,Stifel,12 month,5.0,buy,154.0
+2016-01-14,Boenning & Scattergood Inc,12 month,5.0,outperform,160.0
+2016-01-15,Credit Suisse,Not Provided,5.0,outperform,162.0
+2016-01-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-01-25,Evercore ISI,12 month,3.0,hold,155.0
+2016-01-31,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,151.0
+2016-02-01,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,145.0
+2016-02-01,Cowen,Not Provided,3.0,market perform,140.0
+2016-02-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-02,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-02-02,Stifel,12 month,5.0,buy,154.0
+2016-02-08,Cowen,Not Provided,3.0,market perform,140.0
+2016-02-09,SunTrust Robinson Humphrey,12 month,3.0,neutral,145.0
+2016-02-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-09,Credit Suisse,Not Provided,5.0,outperform,166.0
+2016-02-09,J.P. Morgan,12 month,5.0,overweight,153.0
+2016-02-09,RBC Capital Markets,12 month,3.0,sector perform,133.0
+2016-02-10,Boenning & Scattergood Inc,12 month,5.0,outperform,160.0
+2016-02-10,Canaccord Genuity,12 month,5.0,buy,155.0
+2016-02-10,Stifel,12 month,5.0,buy,154.0
+2016-02-10,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-02-10,Evercore ISI,Not Provided,3.0,hold,153.0
+2016-02-11,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,151.0
+2016-02-12,Jefferies,12 month,3.0,hold,144.0
+2016-02-12,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,150.0
+2016-02-16,Cowen,Not Provided,3.0,market perform,140.0
+2016-02-17,RBC Capital Markets,12 month,3.0,sector perform,136.0
+2016-02-21,Evercore ISI,Not Provided,3.0,hold,153.0
+2016-02-22,Cowen,Not Provided,3.0,market perform,140.0
+2016-02-24,Credit Suisse,Not Provided,5.0,outperform,166.0
+2016-02-25,J.P. Morgan,12 month,5.0,overweight,158.0
+2016-02-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-02-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-28,Evercore ISI,Not Provided,3.0,hold,153.0
+2016-02-29,Jefferies,12 month,3.0,hold,151.0
+2016-02-29,Cowen,Not Provided,3.0,market perform,140.0
+2016-03-01,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,145.0
+2016-03-02,Credit Suisse,Not Provided,5.0,outperform,166.0
+2016-03-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-03-04,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,150.0
+2016-03-07,Evercore ISI,Not Provided,3.0,hold,153.0
+2016-03-07,Cowen,Not Provided,3.0,market perform,140.0
+2016-03-11,UBS,12 month,3.0,neutral,146.0
+2016-03-13,Evercore ISI,Not Provided,3.0,hold,153.0
+2016-03-14,Cowen,Not Provided,3.0,market perform,140.0
+2016-03-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-15,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,151.0
+2016-03-16,Credit Suisse,Not Provided,5.0,outperform,166.0
+2016-03-18,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-03-21,Cowen,Not Provided,3.0,market perform,140.0
+2016-03-21,Evercore ISI,Not Provided,3.0,hold,159.0
+2016-03-28,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-03-28,Cowen,Not Provided,3.0,market perform,140.0
+2016-03-31,D.A. Davidson & Co,Not Provided,3.0,neutral,160.0
+2016-04-03,Stifel,12 month,5.0,buy,154.0
+2016-04-05,RBC Capital Markets,12 month,3.0,sector perform,136.0
+2016-04-08,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-04-10,Evercore ISI,Not Provided,3.0,hold,159.0
+2016-04-13,Mizuho Securities USA Inc,12 month,3.0,neutral,158.0
+2016-04-13,Cowen,12 month,3.0,market perform,153.0
+2016-04-17,Evercore ISI,Not Provided,3.0,hold,159.0
+2016-04-19,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,151.0
+2016-04-21,Stifel,12 month,5.0,buy,154.0
+2016-04-21,RBC Capital Markets,12 month,3.0,sector perform,136.0
+2016-04-22,Jefferies,12 month,3.0,hold,160.0
+2016-04-24,Evercore ISI,Not Provided,3.0,hold,159.0
+2016-04-25,Canaccord Genuity,Not Provided,5.0,buy,167.0
+2016-04-25,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,151.0
+2016-04-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-04,J.P. Morgan,12 month,5.0,overweight,158.0
+2016-05-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-05-04,Credit Suisse,Not Provided,5.0,outperform,166.0
+2016-05-04,Evercore ISI,12 month,3.0,hold,159.0
+2016-05-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-04,"Capital One Securities, Inc.",12 month,3.0,equalweight,151.0
+2016-05-04,RBC Capital Markets,12 month,3.0,sector perform,136.0
+2016-05-04,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,150.0
+2016-05-04,Jefferies,12 month,3.0,hold,160.0
+2016-05-05,Boenning & Scattergood Inc,12 month,5.0,outperform,165.0
+2016-05-05,Canaccord Genuity,12 month,5.0,buy,167.0
+2016-05-05,Stifel,12 month,5.0,buy,154.0
+2016-05-05,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,150.0
+2016-05-06,RBC Capital Markets,12 month,1.0,underperform,130.0
+2016-05-06,J.P. Morgan,9 month,5.0,overweight,161.0
+2016-05-06,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-05-09,D.A. Davidson & Co,Not Provided,3.0,neutral,160.0
+2016-05-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-10,Evercore ISI,12 month,3.0,hold,159.0
+2016-05-13,Canaccord Genuity,12 month,5.0,buy,167.0
+2016-05-16,Mizuho Securities USA Inc,Not Provided,3.0,neutral,162.0
+2016-05-16,Evercore ISI,Not Provided,3.0,hold,159.0
+2016-05-17,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,155.0
+2016-05-20,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,155.0
+2016-05-23,Jefferies,Not Provided,3.0,hold,160.0
+2016-05-26,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,155.0
+2016-05-26,Mizuho Securities USA Inc,Not Provided,3.0,neutral,162.0
+2016-05-27,Boenning & Scattergood Inc,12 month,5.0,outperform,165.0
+2016-06-08,Evercore ISI,12 month,3.0,hold,159.0
+2016-06-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-06-10,Stifel,12 month,5.0,buy,154.0
+2016-06-13,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-06-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-06-23,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,160.0
+2016-06-24,Stifel,Not Provided,3.0,hold,-0.0
+2016-06-26,Evercore ISI,Not Provided,3.0,hold,159.0
+2016-06-28,Mizuho Securities USA Inc,Not Provided,3.0,neutral,162.0
+2016-06-30,Jefferies,12 month,3.0,hold,160.0
+2016-07-05,Jefferies,12 month,3.0,hold,160.0
+2016-07-08,"Capital One Securities, Inc.",12 month,3.0,equalweight,155.0
+2016-07-08,Evercore ISI,Not Provided,3.0,hold,159.0
+2016-07-08,D.A. Davidson & Co,Not Provided,3.0,neutral,165.0
+2016-07-10,Evercore ISI,Not Provided,3.0,hold,164.0
+2016-07-13,Mizuho Securities USA Inc,12 month,3.0,neutral,162.0
+2016-07-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-15,UBS,12 month,3.0,neutral,158.0
+2016-07-19,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,150.0
+2016-07-19,Jefferies,Not Provided,3.0,hold,173.0
+2016-07-19,Boenning & Scattergood Inc,Not Provided,5.0,outperform,165.0
+2016-07-19,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-23,Evercore ISI,Not Provided,3.0,hold,164.0
+2016-07-24,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,155.0
+2016-08-03,Mizuho Securities USA Inc,Not Provided,3.0,neutral,162.0
+2016-08-04,Evercore ISI,12 month,3.0,hold,166.0
+2016-08-04,"Capital One Securities, Inc.",12 month,3.0,equalweight,166.0
+2016-08-04,Jefferies,12 month,3.0,hold,173.0
+2016-08-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-08-04,J.P. Morgan,12 month,5.0,overweight,161.0
+2016-08-04,Canaccord Genuity,12 month,5.0,buy,167.0
+2016-08-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-05,D.A. Davidson & Co,12 month,3.0,neutral,165.0
+2016-08-05,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,170.0
+2016-08-05,Stifel,Not Provided,3.0,hold,-0.0
+2016-08-05,RBC Capital Markets,12 month,1.0,underperform,140.0
+2016-08-05,Credit Suisse,Not Provided,3.0,neutral,170.0
+2016-08-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-08,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,170.0
+2016-08-08,D.A. Davidson & Co,12 month,3.0,neutral,165.0
+2016-08-09,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,166.0
+2016-08-10,Boenning & Scattergood Inc,12 month,5.0,outperform,170.0
+2016-08-11,Evercore ISI,Not Provided,3.0,hold,166.0
+2016-08-15,Canaccord Genuity,Not Provided,5.0,buy,180.0
+2016-08-22,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,165.0
+2016-08-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-25,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2016-08-29,Mizuho Securities USA Inc,12 month,5.0,buy,176.0
+2016-09-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-01,J.P. Morgan,12 month,5.0,overweight,162.0
+2016-09-02,Evercore ISI,Not Provided,3.0,hold,166.0
+2016-09-09,Evercore ISI,Not Provided,3.0,hold,166.0
+2016-09-19,Mizuho Securities USA Inc,Not Provided,5.0,buy,176.0
+2016-09-19,Credit Suisse,Not Provided,3.0,neutral,170.0
+2016-09-20,Stifel,Not Provided,3.0,hold,-0.0
+2016-09-22,Credit Suisse,Not Provided,-2147483648.0,suspended coverage,170.0
+2016-09-27,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,165.0
+2016-09-28,Evercore ISI,Not Provided,3.0,hold,166.0
+2016-09-30,Stifel,12 month,3.0,hold,148.0
+2016-10-03,Boenning & Scattergood Inc,Not Provided,3.0,neutral,-0.0
+2016-10-09,Evercore ISI,12 month,3.0,hold,161.0
+2016-10-10,Stifel,12 month,3.0,hold,148.0
+2016-10-17,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,160.0
+2016-10-18,Boenning & Scattergood Inc,Not Provided,3.0,neutral,-0.0
+2016-10-19,Evercore ISI,Not Provided,3.0,hold,161.0
+2016-10-19,SunTrust Robinson Humphrey,Not Provided,3.0,hold,165.0
+2016-10-20,Jefferies,Not Provided,3.0,hold,155.0
+2016-10-21,Stifel,12 month,3.0,hold,148.0
+2016-10-21,Canaccord Genuity,12 month,5.0,buy,180.0
+2016-10-23,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,166.0
+2016-10-25,UBS,12 month,3.0,neutral,151.0
+2016-11-02,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2016-11-02,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-11-02,Evercore ISI,12 month,3.0,hold,155.0
+2016-11-02,J.P. Morgan,12 month,5.0,overweight,162.0
+2016-11-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-03,Jefferies,12 month,3.0,hold,155.0
+2016-11-03,"Capital One Securities, Inc.",12 month,3.0,equalweight,145.0
+2016-11-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-04,Boenning & Scattergood Inc,Not Provided,3.0,neutral,-0.0
+2016-11-04,Stifel,12 month,3.0,hold,148.0
+2016-11-04,D.A. Davidson & Co,12 month,3.0,neutral,150.0
+2016-11-07,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,145.0
+2016-11-07,Mizuho Securities USA Inc,Not Provided,5.0,buy,161.0
+2016-11-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-09,Mizuho Securities USA Inc,Not Provided,5.0,buy,161.0
+2016-11-09,Jefferies,12 month,3.0,hold,147.0
+2016-11-11,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-11,J.P. Morgan,12 month,5.0,overweight,153.0
+2016-11-12,Evercore ISI,Not Provided,3.0,hold,155.0
+2016-11-13,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,145.0
+2016-11-14,UBS,12 month,3.0,neutral,145.0
+2016-11-17,Jefferies,12 month,3.0,hold,147.0
+2016-11-17,SunTrust Robinson Humphrey,Not Provided,3.0,hold,165.0
+2016-11-18,Mizuho Securities USA Inc,Not Provided,5.0,buy,161.0
+2016-11-18,Evercore ISI,Not Provided,3.0,hold,155.0
+2016-11-18,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,145.0
+2016-11-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-21,D.A. Davidson & Co,12 month,3.0,neutral,150.0
+2016-11-21,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2016-11-22,Mizuho Securities USA Inc,Not Provided,5.0,buy,161.0
+2016-11-22,Canaccord Genuity,12 month,5.0,buy,180.0
+2016-11-28,Evercore ISI,Not Provided,3.0,hold,146.0
+2016-12-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-04,SunTrust Robinson Humphrey,Not Provided,3.0,hold,145.0
+2016-12-09,Boenning & Scattergood Inc,Not Provided,3.0,neutral,-0.0
+2016-12-09,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,145.0
+2016-12-12,Canaccord Genuity,12 month,5.0,buy,180.0
+2016-12-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-12-14,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,145.0
+2016-12-16,Mizuho Securities USA Inc,Not Provided,5.0,buy,161.0
+2016-12-16,Evercore ISI,Not Provided,3.0,hold,146.0
+2016-12-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-12-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-21,Mizuho Securities USA Inc,Not Provided,5.0,buy,161.0
+2016-12-22,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-23,Evercore ISI,Not Provided,3.0,hold,146.0
+2016-12-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-01,Evercore ISI,Not Provided,3.0,hold,146.0
+2017-01-02,Stifel,12 month,3.0,hold,148.0
+2017-01-03,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-01-05,Jefferies,Not Provided,3.0,hold,147.0
+2017-01-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-23,Jefferies,Not Provided,3.0,hold,147.0
+2017-01-27,Evercore ISI,Not Provided,3.0,hold,146.0
+2017-01-29,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,145.0
+2017-01-29,Evercore ISI,Not Provided,3.0,hold,146.0
+2017-02-01,D.A. Davidson & Co,12 month,3.0,neutral,150.0
+2017-02-02,Stifel,12 month,3.0,hold,148.0
+2017-02-13,J.P. Morgan,12 month,5.0,overweight,153.0
+2017-02-13,Canaccord Genuity,12 month,5.0,buy,180.0
+2017-02-13,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-02-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-13,Jefferies,12 month,3.0,hold,147.0
+2017-02-14,Mizuho Securities USA Inc,12 month,5.0,buy,161.0
+2017-02-14,Boenning & Scattergood Inc,Not Provided,3.0,neutral,-0.0
+2017-02-14,Evercore ISI,12 month,3.0,hold,146.0
+2017-02-15,Stifel,12 month,3.0,hold,148.0
+2017-02-15,D.A. Davidson & Co,12 month,3.0,neutral,150.0
+2017-02-16,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-16,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,145.0
+2017-02-16,"Capital One Securities, Inc.",12 month,3.0,equalweight,150.0
+2017-02-21,Boenning & Scattergood Inc,Not Provided,3.0,neutral,-0.0
+2017-02-21,J.P. Morgan,12 month,5.0,overweight,153.0
+2017-02-22,Mizuho Securities USA Inc,12 month,5.0,buy,159.0
+2017-02-26,Evercore ISI,Not Provided,3.0,hold,146.0
+2017-02-27,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,145.0
+2017-03-02,Evercore ISI,Not Provided,3.0,in-line,146.0
+2017-03-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-06,Boenning & Scattergood Inc,Not Provided,3.0,neutral,-0.0
+2017-03-07,Jefferies,Not Provided,3.0,hold,147.0
+2017-03-09,Boenning & Scattergood Inc,Not Provided,3.0,neutral,-0.0
+2017-03-13,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,145.0
+2017-03-17,Evercore ISI,Not Provided,3.0,in-line,146.0
+2017-03-17,UBS,12 month,3.0,neutral,136.0
+2017-03-20,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-03-21,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,150.0
+2017-03-22,Boenning & Scattergood Inc,Not Provided,5.0,outperform,141.5
+2017-03-24,SunTrust Robinson Humphrey,Not Provided,3.0,hold,140.0
+2017-03-24,Evercore ISI,Not Provided,3.0,in-line,146.0
+2017-03-27,Jefferies,Not Provided,3.0,hold,147.0
+2017-03-27,J.P. Morgan,12 month,5.0,overweight,153.0
+2017-03-31,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-07,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,150.0
+2017-04-07,Mizuho Securities USA Inc,Not Provided,5.0,buy,159.0
+2017-04-10,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-04-10,Evercore ISI,Not Provided,3.0,in-line,146.0
+2017-04-11,SunTrust Robinson Humphrey,Not Provided,3.0,hold,140.0
+2017-04-17,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-04-17,Jefferies,Not Provided,3.0,hold,145.0
+2017-04-18,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2017-04-23,Evercore ISI,Not Provided,3.0,in-line,146.0
+2017-04-24,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,150.0
+2017-04-28,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,150.0
+2017-05-03,SunTrust Robinson Humphrey,Not Provided,3.0,hold,140.0
+2017-05-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-03,Canaccord Genuity,12 month,5.0,buy,180.0
+2017-05-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-03,J.P. Morgan,12 month,5.0,overweight,153.0
+2017-05-03,Evercore ISI,Not Provided,3.0,in-line,140.0
+2017-05-03,Jefferies,12 month,3.0,hold,145.0
+2017-05-03,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-05-04,Mizuho Securities USA Inc,12 month,5.0,buy,159.0
+2017-05-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-04,"Capital One Securities, Inc.",12 month,3.0,equalweight,150.0
+2017-05-04,Boenning & Scattergood Inc,12 month,5.0,outperform,140.0
+2017-05-05,D.A. Davidson & Co,12 month,3.0,neutral,150.0
+2017-05-08,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,145.0
+2017-05-11,Boenning & Scattergood Inc,12 month,5.0,outperform,140.0
+2017-05-12,Evercore ISI,Not Provided,3.0,in-line,140.0
+2017-05-12,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,150.0
+2017-05-17,UBS,12 month,3.0,neutral,131.0
+2017-05-18,Boenning & Scattergood Inc,Not Provided,5.0,outperform,140.0
+2017-05-18,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-05-19,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,150.0
+2017-05-22,BTIG LLC,Not Provided,3.0,neutral,-0.0

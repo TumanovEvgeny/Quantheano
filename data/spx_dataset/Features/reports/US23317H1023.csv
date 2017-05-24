@@ -1,0 +1,91 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2005-08-03,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2007-02-13,RBC Capital Markets,Not Provided,5.0,outperform,72.27
+2007-02-13,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2007-02-14,Lehman Brothers,Not Provided,5.0,overwt/neutral,66.85
+2007-02-14,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2007-02-14,Goldman Sachs,Not Provided,3.0,neutral/neutral,64.14
+2007-02-15,A.G. Edwards & Sons Inc,Not Provided,5.0,buy,66.85
+2007-02-28,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2007-03-20,UBS,Not Provided,5.0,buy 2,65.04
+2007-03-20,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,57.36
+2007-04-27,RBC Capital Markets,Not Provided,5.0,outperform,72.27
+2007-04-30,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2007-05-02,RBC Capital Markets,Not Provided,5.0,outperform,72.27
+2007-05-07,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,54.2
+2007-05-14,Goldman Sachs,Not Provided,3.0,neutral/neutral,64.14
+2007-06-04,Goldman Sachs,Not Provided,3.0,neutral/attractive,64.14
+2007-06-19,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,54.65
+2007-06-24,Goldman Sachs,12 month,3.0,neutral/neutral,55.11
+2007-06-29,A.G. Edwards & Sons Inc,Not Provided,5.0,buy,59.62
+2007-07-02,UBS,Not Provided,5.0,buy,56.01
+2007-07-10,Wells Fargo Securities,Not Provided,3.0,market perform,48.78
+2007-07-11,Lehman Brothers,Not Provided,5.0,overwt/neutral,58.72
+2007-07-13,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2007-07-25,RBC Capital Markets,Not Provided,5.0,outperform,72.27
+2007-07-26,RBC Capital Markets,Not Provided,5.0,outperform,58.72
+2007-07-26,Wells Fargo Securities,Not Provided,3.0,market perform,46.52
+2007-07-26,A.G. Edwards & Sons Inc,Not Provided,5.0,buy,59.62
+2007-08-02,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2007-08-13,A.G. Edwards & Sons Inc,Not Provided,5.0,buy,59.62
+2007-08-21,Lehman Brothers,Not Provided,5.0,overwt/neutral,54.2
+2007-08-22,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,34.33
+2007-09-10,Goldman Sachs,12 month,3.0,neutral/neutral,49.69
+2007-09-26,UBS,Not Provided,5.0,buy,56.91
+2007-10-25,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,34.33
+2007-10-29,RBC Capital Markets,Not Provided,5.0,outperform,58.72
+2007-10-29,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2007-10-29,Lehman Brothers,Not Provided,5.0,overwt/neutral,52.4
+2007-10-29,UBS,Not Provided,5.0,buy,53.3
+2007-11-01,Morgan Stanley,12 month,1.0,Underwt/In-Line,34.78
+2007-11-12,Wells Fargo Securities,Not Provided,3.0,market perform,40.2
+2007-11-27,Goldman Sachs,12 month,5.0,Buy/Cautious,39.75
+2007-11-27,UBS,12 month,5.0,buy,45.17
+2007-12-12,Morgan Stanley,12 month,1.0,Underwt/In-Line,28.0
+2007-12-20,UBS,12 month,3.0,neutral,37.94
+2008-01-10,Goldman Sachs,12 month,5.0,Buy/Cautious,32.52
+2008-01-24,UBS,12 month,3.0,neutral,36.14
+2008-02-13,Goldman Sachs,12 month,5.0,Buy/Cautious,35.23
+2008-02-13,Morgan Stanley,12 month,1.0,Underwt/In-Line,28.0
+2008-02-13,RBC Capital Markets,Not Provided,5.0,outperform,58.72
+2008-02-14,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2008-02-14,Lehman Brothers,Not Provided,5.0,overwt/neutral,50.59
+2008-02-21,RBC Capital Markets,Not Provided,5.0,outperform,45.17
+2008-03-24,Wells Fargo Securities,Not Provided,1.0,underperform,33.43
+2008-04-04,Lehman Brothers,Not Provided,5.0,overwt/neutral,49.69
+2008-04-25,UBS,12 month,3.0,neutral,36.14
+2008-04-25,RBC Capital Markets,Not Provided,3.0,sector perform,40.65
+2008-04-28,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2008-04-29,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-04-29,RBC Capital Markets,Not Provided,3.0,sector perform,40.65
+2008-04-30,UBS,12 month,3.0,neutral,39.75
+2008-05-05,Wells Fargo Securities,Not Provided,1.0,underperform,33.43
+2008-06-17,UBS,12 month,3.0,neutral,37.04
+2008-06-24,Hilliard Lyons,Not Provided,5.0,long-term buy,37.94
+2008-07-18,Goldman Sachs,12 month,5.0,Buy/Cautious,28.0
+2008-07-25,RBC Capital Markets,Not Provided,1.0,underperform,27.1
+2008-07-30,UBS,12 month,3.0,neutral,29.81
+2008-08-06,RBC Capital Markets,Not Provided,1.0,underperform,27.1
+2008-10-06,Goldman Sachs,12 month,5.0,Buy/Cautious,27.1
+2008-10-13,RBC Capital Markets,Not Provided,1.0,underperform,22.58
+2008-10-15,UBS,12 month,3.0,neutral,18.07
+2008-10-27,Hilliard Lyons,18 month,5.0,long-term buy,16.26
+2008-10-28,RBC Capital Markets,Not Provided,1.0,underperform,11.74
+2008-10-28,Wells Fargo Securities,Not Provided,1.0,underperform,-0.0
+2008-10-29,Goldman Sachs,12 month,5.0,Buy/Cautious,11.74
+2008-11-25,Goldman Sachs,6 month,3.0,neutral/cautious,2.71
+2008-11-26,UBS,Not Provided,3.0,neutral,3.61
+2008-11-26,Hilliard Lyons,Not Provided,-2147483648.0,suspended coverage,-0.0
+2009-01-08,Goldman Sachs,12 month,3.0,neutral/cautious,6.32
+2009-01-09,J.P. Morgan,12 month,3.0,neutral,8.13
+2009-01-29,UBS,Not Provided,3.0,neutral,3.93
+2009-02-04,Macquarie,Not Provided,1.0,underperform,3.61
+2009-02-23,Hilliard Lyons,Not Provided,-2147483648.0,not rated,-0.0
+2009-02-24,Wells Fargo Securities,Not Provided,1.0,underperform,-0.0
+2009-02-24,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2009-02-24,RBC Capital Markets,Not Provided,1.0,underperform,5.42
+2009-02-25,Macquarie,Not Provided,1.0,underperform,2.26
+2009-02-25,UBS,Not Provided,3.0,neutral,3.85
+2009-02-25,Goldman Sachs,6 month,3.0,neutral/cautious,2.88
+2009-03-10,Macquarie,12 month,1.0,underperform,0.96
+2009-03-13,Goldman Sachs,6 month,3.0,neutral/cautious,1.92

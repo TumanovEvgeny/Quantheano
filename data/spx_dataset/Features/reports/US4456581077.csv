@@ -1,0 +1,768 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-02-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-03-25,Morgan Stanley,12 month,3.0,Equalwt/Attractive,92.0
+2015-04-14,Barclays,Not Provided,5.0,overweight,89.0
+2015-04-14,Stephens Inc,12 month,5.0,overweight,100.0
+2015-04-14,FBR Capital Markets,12 month,5.0,outperform,100.0
+2015-04-14,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-04-15,Nomura,12 month,5.0,buy,100.0
+2015-04-15,Macquarie,12 month,3.0,neutral,82.0
+2015-04-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-15,Credit Suisse,Not Provided,5.0,outperform,99.0
+2015-04-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-04-28,Goldman Sachs,12 month,3.0,neutral/neutral,89.0
+2015-05-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-06-01,KeyBanc Capital Markets,Not Provided,5.0,overweight,100.0
+2015-06-10,BMO Capital Markets,Not Provided,5.0,outperform,100.0
+2015-06-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-17,Susquehanna Financial,12 month,4.0,Positive,106.0
+2015-06-23,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-25,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2015-06-29,Baird,12 month,3.0,neutral,94.0
+2015-06-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-06-29,Stifel,Not Provided,3.0,hold,91.0
+2015-06-29,Wolfe Research,12 month,5.0,outperform,100.0
+2015-07-02,Buckingham Research Group,12 month,3.0,neutral,86.0
+2015-07-02,Bernstein,Not Provided,5.0,outperform,96.0
+2015-07-06,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-07-06,Cowen,12 month,5.0,outperform,98.0
+2015-07-07,Cowen,Not Provided,5.0,outperform,98.0
+2015-07-07,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-07-08,Baird,Not Provided,3.0,neutral,87.0
+2015-07-08,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2015-07-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-07-08,Macquarie,12 month,3.0,neutral,84.0
+2015-07-09,Credit Suisse,Not Provided,5.0,outperform,96.0
+2015-07-09,Longbow Research,12 month,5.0,buy,102.0
+2015-07-10,Goldman Sachs,12 month,3.0,neutral/neutral,88.0
+2015-07-12,Stifel,Not Provided,3.0,hold,91.0
+2015-07-13,Morgan Stanley,12 month,3.0,Equalwt/Attractive,87.0
+2015-07-13,Buckingham Research Group,12 month,3.0,neutral,86.0
+2015-07-13,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-07-17,Barclays,Not Provided,5.0,overweight,89.0
+2015-07-17,Bernstein,12 month,5.0,outperform,100.0
+2015-07-17,Goldman Sachs,12 month,3.0,neutral/neutral,89.0
+2015-07-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-07-17,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-07-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-07-17,Nomura,12 month,5.0,buy,100.0
+2015-07-18,Macquarie,12 month,3.0,neutral,84.0
+2015-07-19,Susquehanna Financial,12 month,4.0,Positive,98.0
+2015-07-19,KeyBanc Capital Markets,12 month,5.0,overweight,95.0
+2015-07-20,Baird,12 month,3.0,neutral,87.0
+2015-07-20,BMO Capital Markets,Not Provided,5.0,outperform,100.0
+2015-07-20,Wolfe Research,12 month,5.0,outperform,94.0
+2015-07-20,FBR Capital Markets,12 month,5.0,outperform,100.0
+2015-07-20,Cowen,12 month,5.0,outperform,98.0
+2015-07-20,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-07-20,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2015-07-20,Stephens Inc,12 month,5.0,overweight,100.0
+2015-07-20,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-20,Buckingham Research Group,12 month,3.0,neutral,85.0
+2015-07-20,Longbow Research,12 month,5.0,buy,102.0
+2015-07-20,Credit Suisse,Not Provided,5.0,outperform,97.0
+2015-07-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-07-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-21,Bernstein,12 month,5.0,outperform,98.0
+2015-07-24,Wolfe Research,Not Provided,5.0,outperform,94.0
+2015-07-24,Baird,Not Provided,3.0,neutral,87.0
+2015-07-27,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-27,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-07-27,Buckingham Research Group,Not Provided,3.0,neutral,85.0
+2015-07-31,Wolfe Research,Not Provided,5.0,outperform,94.0
+2015-08-03,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-08-04,Bernstein,Not Provided,5.0,outperform,98.0
+2015-08-06,Morgan Stanley,12 month,3.0,Equalwt/Attractive,87.0
+2015-08-07,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-08-10,BMO Capital Markets,Not Provided,5.0,outperform,100.0
+2015-08-10,Cowen,Not Provided,5.0,outperform,98.0
+2015-08-10,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-08-12,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2015-08-13,Baird,Not Provided,3.0,neutral,87.0
+2015-08-14,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-08-14,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-08-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-08-16,Stifel,Not Provided,3.0,hold,-0.0
+2015-08-17,Cowen,Not Provided,5.0,outperform,98.0
+2015-08-18,BMO Capital Markets,Not Provided,5.0,outperform,100.0
+2015-08-20,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2015-08-21,Cowen,Not Provided,5.0,outperform,98.0
+2015-08-21,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-08-21,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-08-24,Buckingham Research Group,Not Provided,3.0,neutral,85.0
+2015-08-24,Baird,Not Provided,3.0,neutral,87.0
+2015-08-26,Bernstein,Not Provided,5.0,outperform,98.0
+2015-08-27,Longbow Research,Not Provided,5.0,buy,102.0
+2015-08-27,BMO Capital Markets,Not Provided,5.0,outperform,100.0
+2015-08-28,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-08-28,Cowen,Not Provided,5.0,outperform,98.0
+2015-08-28,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-08-30,Stifel,Not Provided,3.0,hold,-0.0
+2015-09-01,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2015-09-02,Stifel,Not Provided,3.0,hold,-0.0
+2015-09-03,Bernstein,Not Provided,5.0,outperform,98.0
+2015-09-04,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-09-04,Stephens Inc,12 month,5.0,overweight,100.0
+2015-09-04,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-09-08,Cowen,Not Provided,5.0,outperform,98.0
+2015-09-09,Bernstein,Not Provided,5.0,outperform,93.0
+2015-09-10,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2015-09-11,Baird,Not Provided,3.0,neutral,87.0
+2015-09-11,Cowen,Not Provided,5.0,outperform,98.0
+2015-09-13,Stifel,Not Provided,3.0,hold,-0.0
+2015-09-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-09-14,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-09-15,Longbow Research,Not Provided,5.0,buy,102.0
+2015-09-15,Buckingham Research Group,Not Provided,3.0,neutral,85.0
+2015-09-16,Stephens Inc,12 month,5.0,overweight,100.0
+2015-09-18,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-09-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-09-21,Cowen,Not Provided,5.0,outperform,98.0
+2015-09-22,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-09-23,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2015-09-24,Baird,Not Provided,3.0,neutral,87.0
+2015-09-24,Bernstein,Not Provided,5.0,outperform,93.0
+2015-09-28,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-09-29,Cowen,Not Provided,5.0,outperform,98.0
+2015-10-02,KeyBanc Capital Markets,Not Provided,5.0,overweight,95.0
+2015-10-04,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-10-05,Cowen,Not Provided,5.0,outperform,98.0
+2015-10-05,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-10-05,Morgan Stanley,12 month,3.0,Equalwt/Attractive,80.0
+2015-10-05,Barclays,Not Provided,5.0,overweight,83.0
+2015-10-09,UBS,12 month,3.0,neutral,81.0
+2015-10-09,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2015-10-12,RBC Capital Markets,12 month,5.0,outperform,105.0
+2015-10-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-10-12,Bernstein,12 month,5.0,outperform,93.0
+2015-10-12,Buckingham Research Group,12 month,3.0,neutral,85.0
+2015-10-13,Baird,Not Provided,3.0,neutral,82.0
+2015-10-13,Cowen,Not Provided,5.0,outperform,98.0
+2015-10-14,Bernstein,12 month,5.0,outperform,93.0
+2015-10-14,Credit Suisse,Not Provided,5.0,outperform,91.0
+2015-10-14,KeyBanc Capital Markets,12 month,5.0,overweight,85.0
+2015-10-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-10-14,BMO Capital Markets,Not Provided,5.0,outperform,100.0
+2015-10-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-10-14,Morgan Stanley,12 month,3.0,Equalwt/Attractive,77.0
+2015-10-14,Avondale Partners LLC,18 month,3.0,market perform,75.0
+2015-10-14,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-10-14,Barclays,Not Provided,5.0,overweight,83.0
+2015-10-14,Susquehanna Financial,12 month,4.0,Positive,87.0
+2015-10-14,Stephens Inc,12 month,5.0,overweight,90.0
+2015-10-14,Nomura,12 month,5.0,buy,85.0
+2015-10-15,Longbow Research,12 month,5.0,buy,102.0
+2015-10-15,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-10-15,Buckingham Research Group,12 month,3.0,neutral,85.0
+2015-10-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-10-15,Baird,12 month,3.0,neutral,82.0
+2015-10-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-15,Macquarie,12 month,3.0,neutral,83.0
+2015-10-15,FBR Capital Markets,12 month,5.0,outperform,100.0
+2015-10-18,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-19,Goldman Sachs,12 month,3.0,neutral/neutral,88.0
+2015-10-19,Cowen,Not Provided,5.0,outperform,87.0
+2015-10-19,RBC Capital Markets,12 month,5.0,outperform,92.0
+2015-10-21,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2015-10-23,Cowen,Not Provided,5.0,outperform,87.0
+2015-10-26,RBC Capital Markets,12 month,5.0,outperform,92.0
+2015-10-27,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-10-30,Baird,Not Provided,3.0,neutral,82.0
+2015-11-01,BMO Capital Markets,Not Provided,5.0,outperform,100.0
+2015-11-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-11-02,RBC Capital Markets,12 month,5.0,outperform,92.0
+2015-11-02,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-11-03,Bernstein,Not Provided,5.0,outperform,93.0
+2015-11-03,Cowen,Not Provided,5.0,outperform,87.0
+2015-11-04,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2015-11-05,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-11-06,Baird,Not Provided,3.0,neutral,82.0
+2015-11-09,Cowen,Not Provided,5.0,outperform,87.0
+2015-11-10,Susquehanna Financial,12 month,4.0,Positive,90.0
+2015-11-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-11-10,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-11-10,Credit Suisse,Not Provided,5.0,outperform,90.0
+2015-11-10,RBC Capital Markets,12 month,5.0,outperform,92.0
+2015-11-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-10,BMO Capital Markets,Not Provided,5.0,outperform,100.0
+2015-11-10,KeyBanc Capital Markets,12 month,5.0,overweight,85.0
+2015-11-10,Longbow Research,12 month,5.0,buy,99.0
+2015-11-11,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-11-11,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2015-11-11,Bernstein,12 month,5.0,outperform,93.0
+2015-11-11,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-11-11,Longbow Research,12 month,5.0,buy,99.0
+2015-11-11,Buckingham Research Group,12 month,3.0,neutral,83.0
+2015-11-13,Baird,Not Provided,3.0,neutral,82.0
+2015-11-16,RBC Capital Markets,12 month,5.0,outperform,92.0
+2015-11-17,Stifel,Not Provided,3.0,hold,-0.0
+2015-11-20,Macquarie,12 month,3.0,neutral,81.0
+2015-11-22,KeyBanc Capital Markets,12 month,5.0,overweight,85.0
+2015-11-23,RBC Capital Markets,12 month,5.0,outperform,92.0
+2015-11-23,Bernstein,Not Provided,5.0,outperform,93.0
+2015-11-24,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2015-11-24,Cowen,Not Provided,5.0,outperform,87.0
+2015-11-24,Baird,Not Provided,3.0,neutral,82.0
+2015-11-30,Stifel,Not Provided,3.0,hold,-0.0
+2015-11-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-12-01,BMO Capital Markets,Not Provided,5.0,outperform,100.0
+2015-12-02,Cowen,Not Provided,5.0,outperform,87.0
+2015-12-02,Bernstein,12 month,5.0,outperform,93.0
+2015-12-04,Longbow Research,12 month,5.0,buy,99.0
+2015-12-07,RBC Capital Markets,12 month,5.0,outperform,92.0
+2015-12-08,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2015-12-09,Cowen,Not Provided,5.0,outperform,87.0
+2015-12-11,Baird,Not Provided,3.0,neutral,82.0
+2015-12-14,RBC Capital Markets,12 month,5.0,outperform,92.0
+2015-12-14,Longbow Research,12 month,5.0,buy,99.0
+2015-12-14,Cowen,Not Provided,5.0,outperform,87.0
+2015-12-14,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-12-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-15,Buckingham Research Group,12 month,3.0,neutral,72.0
+2015-12-16,Stifel,Not Provided,3.0,hold,-0.0
+2015-12-21,Cowen,Not Provided,5.0,outperform,87.0
+2015-12-22,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2015-12-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-23,Baird,Not Provided,3.0,neutral,77.0
+2015-12-23,RBC Capital Markets,12 month,5.0,outperform,92.0
+2015-12-24,Bernstein,Not Provided,5.0,outperform,93.0
+2015-12-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-12-29,Longbow Research,12 month,5.0,buy,99.0
+2015-12-30,Cowen,Not Provided,5.0,outperform,85.0
+2016-01-04,Stephens Inc,Not Provided,5.0,overweight,90.0
+2016-01-05,KeyBanc Capital Markets,12 month,5.0,overweight,85.0
+2016-01-06,Cowen,Not Provided,5.0,outperform,85.0
+2016-01-06,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-01-07,RBC Capital Markets,12 month,5.0,outperform,88.0
+2016-01-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-07,UBS,12 month,3.0,neutral,78.0
+2016-01-07,Goldman Sachs,12 month,3.0,neutral/neutral,86.0
+2016-01-08,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2016-01-08,Baird,Not Provided,3.0,neutral,77.0
+2016-01-11,Bernstein,Not Provided,5.0,outperform,93.0
+2016-01-12,Wolfe Research,12 month,5.0,outperform,79.0
+2016-01-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-01-12,Buckingham Research Group,12 month,3.0,neutral,63.0
+2016-01-12,Barclays,Not Provided,5.0,overweight,83.0
+2016-01-13,Longbow Research,Not Provided,5.0,buy,99.0
+2016-01-14,Cowen,Not Provided,5.0,outperform,85.0
+2016-01-15,RBC Capital Markets,12 month,5.0,outperform,88.0
+2016-01-21,Cowen,12 month,5.0,outperform,85.0
+2016-01-21,FBR Capital Markets,12 month,5.0,outperform,100.0
+2016-01-21,Credit Suisse,Not Provided,5.0,outperform,83.0
+2016-01-21,Nomura,12 month,5.0,buy,85.0
+2016-01-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-21,Barclays,Not Provided,5.0,overweight,83.0
+2016-01-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-01-21,BMO Capital Markets,Not Provided,5.0,outperform,85.0
+2016-01-21,KeyBanc Capital Markets,12 month,5.0,overweight,85.0
+2016-01-22,Stephens Inc,12 month,5.0,overweight,82.0
+2016-01-22,Buckingham Research Group,12 month,3.0,neutral,63.0
+2016-01-22,Longbow Research,12 month,5.0,buy,80.0
+2016-01-22,Wolfe Research,Not Provided,5.0,outperform,78.0
+2016-01-22,Macquarie,12 month,3.0,neutral,71.0
+2016-01-22,Baird,12 month,3.0,neutral,77.0
+2016-01-22,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-01-22,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-01-22,UBS,12 month,3.0,neutral,70.0
+2016-01-22,Bernstein,12 month,5.0,outperform,88.0
+2016-01-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-01-24,Stifel,Not Provided,3.0,hold,-0.0
+2016-01-25,Morgan Stanley,12 month,3.0,Equalwt/Attractive,71.0
+2016-01-25,BB&T Capital Markets,12 month,5.0,buy,83.0
+2016-01-25,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-01-26,Susquehanna Financial,12 month,4.0,Positive,84.0
+2016-01-27,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-01-28,Baird,12 month,3.0,neutral,77.0
+2016-01-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-01,Stifel,Not Provided,3.0,hold,-0.0
+2016-02-01,Wolfe Research,Not Provided,5.0,outperform,78.0
+2016-02-01,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-02-01,Cowen,Not Provided,5.0,outperform,85.0
+2016-02-02,Bernstein,Not Provided,5.0,outperform,88.0
+2016-02-03,BB&T Capital Markets,12 month,5.0,buy,83.0
+2016-02-05,Cowen,Not Provided,5.0,outperform,85.0
+2016-02-05,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-02-08,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2016-02-09,Longbow Research,12 month,5.0,buy,80.0
+2016-02-12,Wolfe Research,Not Provided,5.0,outperform,78.0
+2016-02-16,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-02-16,Buckingham Research Group,12 month,3.0,neutral,67.0
+2016-02-16,Cowen,Not Provided,5.0,outperform,85.0
+2016-02-18,Baird,Not Provided,3.0,neutral,77.0
+2016-02-19,Stephens Inc,12 month,5.0,overweight,82.0
+2016-02-19,Cowen,Not Provided,5.0,outperform,85.0
+2016-02-22,Wolfe Research,Not Provided,5.0,outperform,78.0
+2016-02-22,Buckingham Research Group,Not Provided,3.0,neutral,67.0
+2016-02-22,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-02-22,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-02-23,Morgan Stanley,12 month,3.0,Equalwt/In-Line,76.0
+2016-02-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-02-26,Cowen,Not Provided,5.0,outperform,85.0
+2016-02-28,BMO Capital Markets,Not Provided,5.0,outperform,85.0
+2016-02-29,Buckingham Research Group,Not Provided,3.0,neutral,67.0
+2016-02-29,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-03-01,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-03-02,Longbow Research,Not Provided,5.0,buy,80.0
+2016-03-04,Bernstein,Not Provided,5.0,outperform,88.0
+2016-03-07,Baird,Not Provided,3.0,neutral,77.0
+2016-03-07,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-03-08,Cowen,Not Provided,5.0,outperform,85.0
+2016-03-08,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2016-03-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-03-10,BB&T Capital Markets,12 month,5.0,buy,90.0
+2016-03-11,Wolfe Research,Not Provided,5.0,outperform,83.0
+2016-03-11,Cowen,Not Provided,5.0,outperform,85.0
+2016-03-14,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-03-15,Buckingham Research Group,Not Provided,3.0,neutral,67.0
+2016-03-15,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-03-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-16,Longbow Research,Not Provided,5.0,buy,-0.0
+2016-03-17,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-03-18,Credit Suisse,Not Provided,5.0,outperform,93.0
+2016-03-21,Bernstein,12 month,5.0,outperform,88.0
+2016-03-21,Cowen,Not Provided,5.0,outperform,85.0
+2016-03-22,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-03-22,Buckingham Research Group,Not Provided,3.0,neutral,67.0
+2016-03-23,Baird,Not Provided,3.0,neutral,77.0
+2016-03-23,KeyBanc Capital Markets,12 month,5.0,overweight,92.0
+2016-03-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-03-28,BMO Capital Markets,Not Provided,3.0,market perform,88.0
+2016-03-28,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-03-29,Longbow Research,Not Provided,5.0,buy,-0.0
+2016-03-30,Buckingham Research Group,12 month,3.0,neutral,67.0
+2016-03-30,Cowen,Not Provided,5.0,outperform,85.0
+2016-04-01,Stephens Inc,12 month,5.0,overweight,82.0
+2016-04-01,Bernstein,Not Provided,5.0,outperform,88.0
+2016-04-03,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-04-04,Baird,Not Provided,3.0,neutral,85.0
+2016-04-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,82.0
+2016-04-04,Cowen,Not Provided,5.0,outperform,85.0
+2016-04-06,Wolfe Research,12 month,5.0,outperform,91.0
+2016-04-06,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-06,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-04-07,KeyBanc Capital Markets,12 month,5.0,overweight,92.0
+2016-04-07,Credit Suisse,Not Provided,5.0,outperform,93.0
+2016-04-08,RBC Capital Markets,12 month,5.0,outperform,85.0
+2016-04-11,Bernstein,12 month,5.0,outperform,92.0
+2016-04-11,Barclays,Not Provided,5.0,overweight,83.0
+2016-04-12,Cowen,Not Provided,5.0,outperform,85.0
+2016-04-12,Stephens Inc,12 month,5.0,overweight,92.0
+2016-04-12,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-04-13,Buckingham Research Group,12 month,3.0,neutral,67.0
+2016-04-18,Cowen,12 month,5.0,outperform,94.0
+2016-04-18,BB&T Capital Markets,12 month,5.0,buy,96.0
+2016-04-18,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-04-18,Nomura,12 month,5.0,buy,94.0
+2016-04-18,KeyBanc Capital Markets,12 month,5.0,overweight,95.0
+2016-04-18,Wolfe Research,12 month,5.0,outperform,93.0
+2016-04-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-18,Barclays,Not Provided,5.0,overweight,95.0
+2016-04-18,Credit Suisse,Not Provided,5.0,outperform,96.0
+2016-04-18,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-18,BMO Capital Markets,Not Provided,3.0,market perform,88.0
+2016-04-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-18,Susquehanna Financial,12 month,4.0,Positive,99.0
+2016-04-18,Morgan Stanley,12 month,3.0,Equalwt/In-Line,89.0
+2016-04-19,Buckingham Research Group,12 month,3.0,neutral,80.0
+2016-04-19,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-19,Longbow Research,12 month,5.0,buy,94.0
+2016-04-19,Bernstein,12 month,5.0,outperform,96.0
+2016-04-19,Baird,12 month,3.0,neutral,85.0
+2016-04-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-19,UBS,12 month,3.0,neutral,90.0
+2016-04-19,Macquarie,12 month,3.0,neutral,90.0
+2016-04-19,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-04-19,Stephens Inc,12 month,5.0,overweight,100.0
+2016-04-22,Cowen,Not Provided,5.0,outperform,94.0
+2016-04-25,Baird,Not Provided,3.0,neutral,85.0
+2016-04-25,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-04-26,Buckingham Research Group,12 month,3.0,neutral,80.0
+2016-04-27,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-29,Cowen,Not Provided,5.0,outperform,94.0
+2016-04-29,Wolfe Research,12 month,5.0,outperform,93.0
+2016-05-02,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-05-04,KeyBanc Capital Markets,12 month,5.0,overweight,95.0
+2016-05-04,Bernstein,Not Provided,5.0,outperform,96.0
+2016-05-05,KeyBanc Capital Markets,12 month,5.0,overweight,95.0
+2016-05-09,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-05-09,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2016-05-09,Cowen,Not Provided,5.0,outperform,94.0
+2016-05-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-10,Baird,Not Provided,3.0,neutral,85.0
+2016-05-10,Buckingham Research Group,Not Provided,3.0,neutral,80.0
+2016-05-10,Longbow Research,Not Provided,5.0,buy,94.0
+2016-05-13,Bernstein,Not Provided,5.0,outperform,96.0
+2016-05-16,Cowen,Not Provided,5.0,outperform,94.0
+2016-05-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-16,Wolfe Research,Not Provided,5.0,outperform,93.0
+2016-05-16,Stephens Inc,12 month,5.0,overweight,100.0
+2016-05-16,Buckingham Research Group,Not Provided,3.0,neutral,80.0
+2016-05-17,Longbow Research,12 month,5.0,buy,94.0
+2016-05-18,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-05-20,Cowen,Not Provided,5.0,outperform,94.0
+2016-05-23,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-05-24,Buckingham Research Group,Not Provided,3.0,neutral,80.0
+2016-05-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-24,Longbow Research,12 month,5.0,buy,94.0
+2016-05-24,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-05-24,Baird,Not Provided,3.0,neutral,85.0
+2016-05-30,Cowen,Not Provided,5.0,outperform,94.0
+2016-05-31,Bernstein,Not Provided,5.0,outperform,96.0
+2016-06-01,Buckingham Research Group,Not Provided,3.0,neutral,80.0
+2016-06-02,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-06-03,Buckingham Research Group,Not Provided,3.0,neutral,80.0
+2016-06-07,Longbow Research,12 month,5.0,buy,94.0
+2016-06-07,Cowen,Not Provided,5.0,outperform,94.0
+2016-06-09,Stephens Inc,12 month,5.0,overweight,100.0
+2016-06-09,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-06-10,Cowen,Not Provided,5.0,outperform,94.0
+2016-06-10,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-06-16,Barclays,Not Provided,5.0,overweight,95.0
+2016-06-16,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-06-17,Cowen,Not Provided,5.0,outperform,94.0
+2016-06-20,Wolfe Research,12 month,5.0,outperform,93.0
+2016-06-20,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-06-21,Longbow Research,12 month,5.0,buy,94.0
+2016-06-21,Buckingham Research Group,Not Provided,3.0,neutral,80.0
+2016-06-21,Bernstein,Not Provided,5.0,outperform,96.0
+2016-06-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-06-23,Stifel,Not Provided,3.0,hold,-0.0
+2016-06-23,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-06-24,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2016-06-28,BMO Capital Markets,Not Provided,3.0,market perform,88.0
+2016-06-28,Buckingham Research Group,Not Provided,3.0,neutral,80.0
+2016-06-29,Baird,12 month,3.0,neutral,85.0
+2016-06-30,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-06-30,Bernstein,12 month,5.0,outperform,93.0
+2016-06-30,Cowen,Not Provided,5.0,outperform,94.0
+2016-07-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,88.0
+2016-07-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-05,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-06,BB&T Capital Markets,12 month,5.0,buy,93.0
+2016-07-07,Bernstein,Not Provided,5.0,outperform,93.0
+2016-07-07,Cowen,Not Provided,5.0,outperform,94.0
+2016-07-07,Credit Suisse,Not Provided,5.0,outperform,96.0
+2016-07-08,Avondale Partners LLC,18 month,3.0,market perform,75.0
+2016-07-08,RBC Capital Markets,12 month,5.0,outperform,98.0
+2016-07-11,Baird,Not Provided,3.0,neutral,84.0
+2016-07-12,KeyBanc Capital Markets,Not Provided,5.0,overweight,95.0
+2016-07-12,Buckingham Research Group,12 month,3.0,neutral,80.0
+2016-07-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-13,Cowen,Not Provided,5.0,outperform,94.0
+2016-07-13,Susquehanna Financial,12 month,4.0,Positive,98.0
+2016-07-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-15,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2016-07-18,BMO Capital Markets,Not Provided,3.0,market perform,84.0
+2016-07-18,Stephens Inc,12 month,5.0,overweight,98.0
+2016-07-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-18,Avondale Partners LLC,18 month,3.0,market perform,75.0
+2016-07-18,Cowen,12 month,5.0,outperform,94.0
+2016-07-18,KeyBanc Capital Markets,Not Provided,5.0,overweight,92.0
+2016-07-18,Barclays,Not Provided,5.0,overweight,95.0
+2016-07-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-18,Susquehanna Financial,12 month,4.0,Positive,95.0
+2016-07-18,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2016-07-18,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-18,Credit Suisse,Not Provided,5.0,outperform,93.0
+2016-07-18,BB&T Capital Markets,12 month,5.0,buy,93.0
+2016-07-19,Buckingham Research Group,Not Provided,3.0,neutral,80.0
+2016-07-19,Longbow Research,12 month,5.0,buy,91.0
+2016-07-19,Baird,12 month,3.0,neutral,84.0
+2016-07-19,Macquarie,12 month,3.0,neutral,88.0
+2016-07-19,Bernstein,12 month,5.0,outperform,93.0
+2016-07-19,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-07-19,UBS,12 month,3.0,neutral,86.0
+2016-07-21,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-07-22,Wolfe Research,12 month,5.0,outperform,89.0
+2016-07-25,Cowen,Not Provided,5.0,outperform,94.0
+2016-07-26,Buckingham Research Group,Not Provided,5.0,buy,95.0
+2016-07-28,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-07-29,Wolfe Research,Not Provided,5.0,outperform,89.0
+2016-08-01,Baird,Not Provided,3.0,neutral,84.0
+2016-08-02,KeyBanc Capital Markets,Not Provided,5.0,overweight,92.0
+2016-08-04,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-08-05,Cowen,Not Provided,5.0,outperform,94.0
+2016-08-05,Wolfe Research,Not Provided,5.0,outperform,94.0
+2016-08-08,Bernstein,Not Provided,5.0,outperform,93.0
+2016-08-09,Buckingham Research Group,Not Provided,5.0,buy,95.0
+2016-08-10,Cowen,Not Provided,5.0,outperform,94.0
+2016-08-10,Avondale Partners LLC,18 month,3.0,market perform,75.0
+2016-08-11,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-08-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-08-16,Baird,Not Provided,3.0,neutral,84.0
+2016-08-17,Longbow Research,12 month,5.0,buy,91.0
+2016-08-17,Buckingham Research Group,Not Provided,5.0,buy,95.0
+2016-08-18,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-08-18,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-08-19,BMO Capital Markets,Not Provided,3.0,market perform,84.0
+2016-08-19,Cowen,Not Provided,5.0,outperform,94.0
+2016-08-23,Buckingham Research Group,Not Provided,5.0,buy,95.0
+2016-08-23,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-08-25,Baird,12 month,3.0,neutral,84.0
+2016-08-25,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-08-29,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-09-01,Cowen,Not Provided,5.0,outperform,94.0
+2016-09-02,Bernstein,Not Provided,5.0,outperform,93.0
+2016-09-02,Buckingham Research Group,Not Provided,5.0,buy,95.0
+2016-09-02,Wolfe Research,Not Provided,5.0,outperform,94.0
+2016-09-02,Baird,12 month,3.0,neutral,84.0
+2016-09-06,Wolfe Research,12 month,5.0,outperform,94.0
+2016-09-06,Longbow Research,12 month,5.0,buy,91.0
+2016-09-07,Buckingham Research Group,Not Provided,5.0,buy,95.0
+2016-09-08,KeyBanc Capital Markets,12 month,5.0,overweight,92.0
+2016-09-08,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2016-09-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-09,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2016-09-12,Barclays,Not Provided,5.0,overweight,90.0
+2016-09-12,Cowen,Not Provided,5.0,outperform,94.0
+2016-09-12,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-09-13,Wolfe Research,12 month,5.0,outperform,94.0
+2016-09-13,Buckingham Research Group,Not Provided,5.0,buy,95.0
+2016-09-14,BMO Capital Markets,Not Provided,3.0,market perform,84.0
+2016-09-16,Cowen,Not Provided,5.0,outperform,94.0
+2016-09-19,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-09-20,Buckingham Research Group,Not Provided,5.0,buy,95.0
+2016-09-22,KeyBanc Capital Markets,Not Provided,5.0,overweight,92.0
+2016-09-23,Baird,12 month,3.0,neutral,84.0
+2016-09-23,Wolfe Research,Not Provided,5.0,outperform,94.0
+2016-09-26,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-09-26,Cowen,Not Provided,5.0,outperform,94.0
+2016-09-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-27,Longbow Research,Not Provided,5.0,buy,91.0
+2016-09-30,Cowen,Not Provided,5.0,outperform,94.0
+2016-09-30,Wolfe Research,12 month,5.0,outperform,94.0
+2016-10-03,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-10-03,Barclays,Not Provided,5.0,overweight,90.0
+2016-10-05,Bernstein,Not Provided,5.0,outperform,93.0
+2016-10-05,Baird,Not Provided,3.0,neutral,85.0
+2016-10-06,KeyBanc Capital Markets,Not Provided,5.0,overweight,92.0
+2016-10-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-10-07,Susquehanna Financial,12 month,4.0,Positive,95.0
+2016-10-07,Buckingham Research Group,12 month,5.0,buy,94.0
+2016-10-10,Cowen,Not Provided,5.0,outperform,94.0
+2016-10-10,Stifel,Not Provided,3.0,hold,77.0
+2016-10-10,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2016-10-12,UBS,12 month,3.0,neutral,84.0
+2016-10-17,Stifel,12 month,3.0,hold,82.0
+2016-10-17,Wolfe Research,12 month,5.0,outperform,94.0
+2016-10-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-17,BMO Capital Markets,Not Provided,3.0,market perform,84.0
+2016-10-17,Buckingham Research Group,12 month,5.0,buy,94.0
+2016-10-17,Macquarie,12 month,3.0,neutral,83.0
+2016-10-17,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-10-17,Bernstein,12 month,5.0,outperform,93.0
+2016-10-17,Baird,12 month,3.0,neutral,85.0
+2016-10-17,KeyBanc Capital Markets,12 month,5.0,overweight,89.0
+2016-10-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-17,Cowen,12 month,5.0,outperform,88.0
+2016-10-17,Susquehanna Financial,12 month,4.0,Positive,92.0
+2016-10-17,Stephens Inc,12 month,5.0,overweight,98.0
+2016-10-17,Credit Suisse,Not Provided,5.0,outperform,92.0
+2016-10-17,Barclays,Not Provided,5.0,overweight,90.0
+2016-10-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-10-18,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-18,Longbow Research,12 month,5.0,buy,91.0
+2016-10-18,Macquarie,12 month,3.0,neutral,83.0
+2016-10-18,UBS,12 month,3.0,neutral,83.0
+2016-10-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-18,Morgan Stanley,12 month,3.0,Equalwt/In-Line,82.0
+2016-10-18,Bernstein,12 month,5.0,outperform,90.0
+2016-10-19,Stifel,Not Provided,3.0,hold,82.0
+2016-10-19,Buckingham Research Group,12 month,5.0,buy,91.0
+2016-10-19,Cowen,Not Provided,5.0,outperform,88.0
+2016-10-21,BMO Capital Markets,Not Provided,3.0,market perform,84.0
+2016-10-21,Wolfe Research,12 month,5.0,outperform,94.0
+2016-10-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-31,Wolfe Research,12 month,5.0,outperform,94.0
+2016-10-31,Baird,12 month,3.0,neutral,85.0
+2016-11-03,Bernstein,Not Provided,5.0,outperform,90.0
+2016-11-04,Cowen,Not Provided,5.0,outperform,88.0
+2016-11-07,Wolfe Research,12 month,5.0,outperform,94.0
+2016-11-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-07,Baird,Not Provided,3.0,neutral,85.0
+2016-11-08,Credit Suisse,Not Provided,5.0,outperform,92.0
+2016-11-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-08,Stifel,12 month,3.0,hold,90.0
+2016-11-08,BMO Capital Markets,Not Provided,3.0,market perform,84.0
+2016-11-08,Barclays,Not Provided,5.0,overweight,90.0
+2016-11-08,Buckingham Research Group,12 month,5.0,buy,91.0
+2016-11-08,Stephens Inc,12 month,5.0,overweight,98.0
+2016-11-08,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2016-11-09,Longbow Research,12 month,5.0,buy,91.0
+2016-11-11,Wolfe Research,Not Provided,5.0,outperform,94.0
+2016-11-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-14,Bernstein,Not Provided,5.0,outperform,90.0
+2016-11-14,Baird,Not Provided,3.0,neutral,94.0
+2016-11-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-11-16,Macquarie,12 month,3.0,neutral,88.0
+2016-11-18,Wolfe Research,12 month,5.0,outperform,94.0
+2016-11-18,Cowen,Not Provided,5.0,outperform,88.0
+2016-11-21,Buckingham Research Group,12 month,5.0,buy,91.0
+2016-11-22,Baird,Not Provided,3.0,neutral,94.0
+2016-11-28,KeyBanc Capital Markets,12 month,5.0,overweight,99.0
+2016-11-28,Cowen,Not Provided,5.0,outperform,88.0
+2016-11-29,Longbow Research,12 month,5.0,buy,107.0
+2016-11-29,UBS,12 month,3.0,neutral,101.0
+2016-11-29,Bernstein,Not Provided,5.0,outperform,90.0
+2016-12-01,Baird,12 month,3.0,neutral,94.0
+2016-12-02,Wolfe Research,12 month,5.0,outperform,94.0
+2016-12-02,Bernstein,Not Provided,5.0,outperform,90.0
+2016-12-02,Cowen,Not Provided,5.0,outperform,88.0
+2016-12-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-08,Loop Capital Markets,Not Provided,5.0,buy,107.0
+2016-12-08,BMO Capital Markets,Not Provided,3.0,market perform,100.0
+2016-12-09,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-12-12,Cowen,Not Provided,5.0,outperform,108.0
+2016-12-13,Buckingham Research Group,12 month,5.0,buy,91.0
+2016-12-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-12-15,Stifel,Not Provided,3.0,hold,100.0
+2016-12-16,BMO Capital Markets,Not Provided,3.0,market perform,100.0
+2016-12-16,Cowen,Not Provided,5.0,outperform,108.0
+2016-12-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-12-19,Wolfe Research,Not Provided,5.0,outperform,94.0
+2016-12-19,Baird,Not Provided,3.0,neutral,94.0
+2016-12-20,Buckingham Research Group,Not Provided,5.0,buy,108.0
+2016-12-21,Baird,Not Provided,3.0,neutral,94.0
+2016-12-21,Cowen,Not Provided,5.0,outperform,108.0
+2016-12-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-12-23,Wolfe Research,Not Provided,5.0,outperform,94.0
+2016-12-23,Bernstein,Not Provided,5.0,outperform,90.0
+2017-01-03,William Blair & Co,Not Provided,-2147483648.0,suspended coverage,-0.0
+2017-01-03,KeyBanc Capital Markets,12 month,5.0,overweight,105.0
+2017-01-03,Wolfe Research,12 month,5.0,outperform,94.0
+2017-01-04,Stephens Inc,12 month,5.0,overweight,115.0
+2017-01-05,Baird,12 month,3.0,neutral,100.0
+2017-01-05,Cowen,Not Provided,5.0,outperform,108.0
+2017-01-06,Wolfe Research,Not Provided,5.0,outperform,108.0
+2017-01-07,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2017-01-09,Barclays,Not Provided,3.0,equalweight,97.0
+2017-01-09,Cowen,Not Provided,5.0,outperform,108.0
+2017-01-10,Bernstein,Not Provided,5.0,outperform,110.0
+2017-01-12,Buckingham Research Group,Not Provided,5.0,buy,108.0
+2017-01-12,KeyBanc Capital Markets,Not Provided,5.0,overweight,105.0
+2017-01-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-01-19,Baird,12 month,3.0,neutral,100.0
+2017-01-19,BMO Capital Markets,Not Provided,3.0,market perform,100.0
+2017-01-19,Cowen,12 month,5.0,outperform,107.0
+2017-01-19,Stifel,12 month,3.0,hold,102.0
+2017-01-19,Barclays,Not Provided,3.0,equalweight,97.0
+2017-01-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-19,KeyBanc Capital Markets,12 month,5.0,overweight,105.0
+2017-01-19,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2017-01-19,Susquehanna Financial,12 month,4.0,Positive,113.0
+2017-01-19,Wolfe Research,Not Provided,5.0,outperform,108.0
+2017-01-19,Credit Suisse,Not Provided,5.0,outperform,102.0
+2017-01-20,UBS,12 month,3.0,neutral,99.0
+2017-01-20,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2017-01-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-01-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-20,Stephens Inc,12 month,5.0,overweight,115.0
+2017-01-20,Longbow Research,12 month,5.0,buy,107.0
+2017-01-20,Bernstein,Not Provided,5.0,outperform,110.0
+2017-01-20,Buckingham Research Group,12 month,5.0,buy,106.0
+2017-01-22,Stifel,Not Provided,3.0,hold,102.0
+2017-01-23,Morgan Stanley,12 month,3.0,Equalwt/In-Line,85.0
+2017-01-24,Baird,Not Provided,3.0,neutral,100.0
+2017-01-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-01-27,Wolfe Research,Not Provided,5.0,outperform,108.0
+2017-01-31,Buckingham Research Group,Not Provided,5.0,buy,106.0
+2017-02-03,Bernstein,Not Provided,5.0,outperform,110.0
+2017-02-03,Wolfe Research,Not Provided,5.0,outperform,108.0
+2017-02-06,Baird,Not Provided,3.0,neutral,100.0
+2017-02-07,Loop Capital Markets,Not Provided,5.0,buy,107.0
+2017-02-07,Cowen,Not Provided,5.0,outperform,107.0
+2017-02-08,Longbow Research,Not Provided,5.0,buy,107.0
+2017-02-08,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2017-02-10,Stephens Inc,12 month,5.0,overweight,115.0
+2017-02-12,Stifel,Not Provided,3.0,hold,102.0
+2017-02-13,Cowen,Not Provided,5.0,outperform,107.0
+2017-02-14,Buckingham Research Group,12 month,5.0,buy,106.0
+2017-02-17,Baird,Not Provided,3.0,neutral,100.0
+2017-02-17,Wolfe Research,Not Provided,5.0,outperform,108.0
+2017-02-21,Cowen,Not Provided,5.0,outperform,107.0
+2017-02-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-24,Wolfe Research,Not Provided,5.0,outperform,108.0
+2017-02-28,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2017-02-28,Baird,Not Provided,3.0,neutral,100.0
+2017-02-28,Susquehanna Financial,Not Provided,4.0,Positive,-0.0
+2017-03-01,Bernstein,Not Provided,5.0,outperform,110.0
+2017-03-02,Loop Capital Markets,12 month,5.0,buy,110.0
+2017-03-03,Wolfe Research,Not Provided,5.0,outperform,108.0
+2017-03-03,Longbow Research,Not Provided,5.0,buy,107.0
+2017-03-06,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2017-03-06,Credit Suisse,Not Provided,5.0,outperform,107.0
+2017-03-07,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2017-03-07,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-09,Wolfe Research,Not Provided,5.0,outperform,108.0
+2017-03-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-13,Cowen,Not Provided,5.0,outperform,107.0
+2017-03-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-14,Longbow Research,12 month,5.0,buy,107.0
+2017-03-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-17,Wolfe Research,Not Provided,5.0,outperform,108.0
+2017-03-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-03-23,Cowen,Not Provided,5.0,outperform,107.0
+2017-03-24,Wolfe Research,Not Provided,5.0,outperform,108.0
+2017-03-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-27,Baird,Not Provided,3.0,neutral,100.0
+2017-03-28,Stifel,12 month,3.0,hold,90.0
+2017-03-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-30,Stephens Inc,12 month,5.0,overweight,105.0
+2017-03-30,Longbow Research,12 month,5.0,buy,106.0
+2017-03-31,Credit Suisse,Not Provided,5.0,outperform,103.0
+2017-03-31,BMO Capital Markets,Not Provided,3.0,market perform,96.0
+2017-03-31,Wolfe Research,12 month,5.0,outperform,104.0
+2017-04-03,Cowen,Not Provided,5.0,outperform,107.0
+2017-04-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2017-04-06,KeyBanc Capital Markets,Not Provided,5.0,overweight,105.0
+2017-04-06,Longbow Research,Not Provided,5.0,buy,106.0
+2017-04-07,Wolfe Research,Not Provided,5.0,outperform,104.0
+2017-04-07,Cowen,Not Provided,5.0,outperform,107.0
+2017-04-10,Barclays,Not Provided,3.0,equalweight,97.0
+2017-04-10,Baird,12 month,3.0,neutral,100.0
+2017-04-17,Credit Suisse,Not Provided,5.0,outperform,98.0
+2017-04-17,KeyBanc Capital Markets,12 month,5.0,overweight,105.0
+2017-04-17,Loop Capital Markets,12 month,5.0,buy,105.0
+2017-04-17,Susquehanna Financial,12 month,4.0,Positive,110.0
+2017-04-17,Barclays,Not Provided,3.0,equalweight,97.0
+2017-04-17,Vertical Research Partners,12 month,3.0,hold,92.0
+2017-04-17,Wolfe Research,12 month,5.0,outperform,101.0
+2017-04-17,BMO Capital Markets,Not Provided,3.0,market perform,95.0
+2017-04-17,Cowen,12 month,5.0,outperform,101.0
+2017-04-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-17,Stifel,12 month,3.0,hold,88.0
+2017-04-18,Bernstein,Not Provided,5.0,outperform,103.0
+2017-04-18,UBS,12 month,3.0,neutral,98.0
+2017-04-18,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-18,Stephens Inc,12 month,5.0,overweight,105.0
+2017-04-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-18,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2017-04-18,Baird,12 month,3.0,neutral,100.0
+2017-04-21,Wolfe Research,12 month,5.0,outperform,101.0
+2017-04-24,Cowen,Not Provided,5.0,outperform,101.0
+2017-04-24,Stifel,Not Provided,3.0,hold,88.0
+2017-04-25,Baird,Not Provided,3.0,neutral,100.0
+2017-04-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-30,Cowen,Not Provided,5.0,outperform,101.0
+2017-05-01,Stifel,Not Provided,3.0,hold,88.0
+2017-05-01,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2017-05-01,Wolfe Research,Not Provided,5.0,outperform,106.0
+2017-05-05,Wolfe Research,Not Provided,5.0,outperform,106.0
+2017-05-07,Baird,Not Provided,3.0,neutral,100.0
+2017-05-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-12,Wolfe Research,Not Provided,5.0,outperform,101.0
+2017-05-15,Baird,Not Provided,3.0,neutral,100.0
+2017-05-15,Cowen,Not Provided,5.0,outperform,101.0
+2017-05-17,Wolfe Research,Not Provided,5.0,outperform,101.0
+2017-05-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-05-19,Wolfe Research,Not Provided,5.0,outperform,101.0
+2017-05-22,Cowen,Not Provided,5.0,outperform,101.0
+2017-05-23,J.P. Morgan,9 month,5.0,overweight,107.0

@@ -1,0 +1,775 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2008-07-31,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2008-10-31,Baird,Not Provided,5.0,outperform,28.26
+2008-10-31,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,30.83
+2008-12-09,Credit Suisse,Not Provided,5.0,outperform,29.12
+2008-12-18,FTN Equity Capital Markets Corp.,Not Provided,3.0,neutral,-0.0
+2008-12-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2008-12-30,Sidoti & Company LLC,12 month,5.0,buy,30.83
+2009-01-01,J.P. Morgan,12 month,5.0,overweight,25.69
+2009-01-07,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2009-01-12,Benchmark Company LLC,Not Provided,5.0,buy,23.12
+2009-02-03,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-02-09,FTN Equity Capital Markets Corp.,Not Provided,3.0,neutral,-0.0
+2009-02-12,Sidoti & Company LLC,12 month,5.0,buy,30.83
+2009-02-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-02-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-02-26,Sidoti & Company LLC,12 month,5.0,buy,30.83
+2009-02-27,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,28.26
+2009-02-27,J.P. Morgan,9 month,5.0,overweight,23.98
+2009-02-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-02-27,Benchmark Company LLC,Not Provided,5.0,buy,21.41
+2009-02-27,FTN Equity Capital Markets Corp.,Not Provided,3.0,neutral,-0.0
+2009-03-02,Baird,Not Provided,5.0,outperform,22.27
+2009-03-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-03-16,FTN Equity Capital Markets Corp.,Not Provided,3.0,neutral,-0.0
+2009-03-20,Benchmark Company LLC,12 month,5.0,buy,21.41
+2009-03-27,FTN Equity Capital Markets Corp.,Not Provided,3.0,neutral,-0.0
+2009-03-31,Credit Suisse,Not Provided,5.0,outperform,29.12
+2009-04-13,Benchmark Company LLC,Not Provided,3.0,hold,-0.0
+2009-04-13,Sidoti & Company LLC,12 month,5.0,buy,30.83
+2009-04-15,FTN Equity Capital Markets Corp.,Not Provided,3.0,neutral,-0.0
+2009-04-20,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2009-04-30,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-04-30,Sidoti & Company LLC,12 month,5.0,buy,32.55
+2009-04-30,Credit Suisse,Not Provided,5.0,outperform,29.12
+2009-04-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-05-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-05-01,J.P. Morgan,6 month,5.0,overweight,28.26
+2009-05-01,Baird,12 month,5.0,outperform,28.26
+2009-05-01,Benchmark Company LLC,12 month,5.0,buy,29.98
+2009-06-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-06-12,Sidoti & Company LLC,Not Provided,5.0,buy,32.55
+2009-06-12,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-06-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-06-19,Credit Suisse,Not Provided,5.0,outperform,29.12
+2009-07-01,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2009-07-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-07-30,Credit Suisse,Not Provided,5.0,outperform,29.12
+2009-07-31,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2009-07-31,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-07-31,Benchmark Company LLC,12 month,5.0,buy,29.98
+2009-07-31,J.P. Morgan,6 month,5.0,overweight,28.26
+2009-07-31,Baird,12 month,3.0,neutral,28.26
+2009-08-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-08-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-08-05,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-08-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-10,Credit Suisse,Not Provided,5.0,outperform,29.12
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-21,Sidoti & Company LLC,Not Provided,5.0,buy,32.55
+2009-09-10,J.P. Morgan,3 month,5.0,overweight,28.26
+2009-09-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-09-29,Benchmark Company LLC,Not Provided,5.0,buy,29.98
+2009-10-01,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2009-10-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-10-06,J.P. Morgan,3 month,5.0,overweight,28.26
+2009-10-07,J.P. Morgan,15 month,5.0,overweight,28.26
+2009-10-07,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-10-07,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2009-10-07,Sidoti & Company LLC,12 month,5.0,buy,32.55
+2009-10-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-10-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-10-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-10-29,Sidoti & Company LLC,Not Provided,5.0,buy,32.55
+2009-10-30,J.P. Morgan,12 month,5.0,overweight,28.26
+2009-10-30,Benchmark Company LLC,Not Provided,5.0,buy,27.41
+2009-10-30,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2009-10-30,Credit Suisse,Not Provided,5.0,outperform,29.12
+2009-10-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-12-10,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2009-12-10,Sidoti & Company LLC,12 month,5.0,buy,34.26
+2009-12-31,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-01-13,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-01-21,Sidoti & Company LLC,12 month,5.0,buy,34.26
+2010-02-11,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2010-02-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-02-17,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-02-22,Sidoti & Company LLC,12 month,5.0,buy,34.26
+2010-02-25,Sidoti & Company LLC,12 month,5.0,buy,35.97
+2010-02-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-02-26,Baird,12 month,3.0,neutral,24.84
+2010-02-26,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-02-26,Benchmark Company LLC,12 month,5.0,buy,27.41
+2010-02-26,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2010-02-26,J.P. Morgan,9 month,5.0,overweight,28.26
+2010-03-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-03-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-04-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-04-05,Macquarie,12 month,5.0,outperform,29.98
+2010-04-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-04-12,Sidoti & Company LLC,12 month,5.0,buy,35.97
+2010-04-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-04-27,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2010-04-29,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-04-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-04-29,Sidoti & Company LLC,12 month,5.0,buy,35.97
+2010-04-29,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2010-04-30,J.P. Morgan,6 month,5.0,overweight,28.26
+2010-04-30,Baird,12 month,3.0,neutral,24.84
+2010-04-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-04-30,Macquarie,12 month,5.0,outperform,29.98
+2010-04-30,Benchmark Company LLC,12 month,5.0,buy,27.41
+2010-04-30,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2010-05-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-05-17,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,26.55
+2010-05-24,Sidoti & Company LLC,12 month,5.0,buy,35.97
+2010-05-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-05-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-06-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-06-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-06-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-06-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-07-07,Sidoti & Company LLC,12 month,5.0,buy,34.26
+2010-07-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-07-13,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-07-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-07-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-07-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-07-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-07-29,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,26.55
+2010-07-29,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-07-29,Sidoti & Company LLC,12 month,5.0,buy,34.26
+2010-07-29,Baird,12 month,3.0,neutral,23.12
+2010-07-30,J.P. Morgan,6 month,5.0,overweight,23.98
+2010-07-30,Benchmark Company LLC,12 month,5.0,buy,25.69
+2010-07-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-07-30,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2010-07-31,Macquarie,12 month,5.0,outperform,29.98
+2010-08-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-08-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-08-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-09-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-09-13,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2010-09-15,Benchmark Company LLC,Not Provided,5.0,buy,25.69
+2010-09-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-09-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-09-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-09-28,Sidoti & Company LLC,12 month,5.0,buy,34.26
+2010-09-29,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2010-09-30,Baird,12 month,3.0,neutral,23.12
+2010-10-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-10-01,Macquarie,12 month,5.0,outperform,29.98
+2010-10-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-10-05,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,26.55
+2010-10-05,Sidoti & Company LLC,12 month,5.0,buy,32.55
+2010-10-06,Baird,12 month,3.0,neutral,19.7
+2010-10-06,Macquarie,12 month,5.0,outperform,23.12
+2010-10-06,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2010-10-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-10-06,J.P. Morgan,15 month,5.0,overweight,22.27
+2010-10-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-10-07,Benchmark Company LLC,Not Provided,3.0,hold,-0.0
+2010-10-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-10-28,J.P. Morgan,12 month,5.0,overweight,22.27
+2010-10-28,Sidoti & Company LLC,12 month,5.0,buy,29.98
+2010-10-28,Morgan Stanley,12 month,5.0,Overwt/In-Line,26.55
+2010-10-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-10-29,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-10-29,Baird,12 month,3.0,neutral,19.7
+2010-10-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-10-29,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2010-10-29,Macquarie,12 month,5.0,outperform,23.12
+2010-11-01,Benchmark Company LLC,Not Provided,3.0,hold,17.13
+2010-11-05,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-11-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-11-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-11-26,Sidoti & Company LLC,12 month,5.0,buy,29.98
+2010-11-29,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2010-12-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-12-13,Morgan Stanley,12 month,5.0,Overwt/In-Line,26.55
+2010-12-13,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2010-12-13,Baird,12 month,3.0,neutral,21.41
+2010-12-13,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2010-12-15,Barclays,Not Provided,3.0,equalwt/neutral,22.27
+2010-12-15,Benchmark Company LLC,Not Provided,3.0,hold,20.55
+2010-12-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-01-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-01-07,Sidoti & Company LLC,12 month,5.0,buy,29.98
+2011-01-11,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-01-19,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2011-01-19,Baird,12 month,3.0,neutral,21.41
+2011-01-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-02-02,Sidoti & Company LLC,12 month,5.0,buy,29.98
+2011-02-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-02-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-02-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-02-24,Morgan Stanley,12 month,5.0,Overwt/In-Line,26.55
+2011-02-24,Sidoti & Company LLC,12 month,5.0,buy,29.98
+2011-02-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-02-25,Macquarie,12 month,5.0,outperform,25.69
+2011-02-25,Benchmark Company LLC,12 month,3.0,hold,20.55
+2011-02-25,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2011-02-25,Barclays,Not Provided,3.0,equalwt/neutral,22.27
+2011-02-25,J.P. Morgan,12 month,5.0,overweight,23.98
+2011-02-25,Baird,12 month,3.0,neutral,23.12
+2011-03-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-07,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-03-07,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2011-03-10,Baird,12 month,3.0,neutral,23.12
+2011-03-11,J.P. Morgan,Not Provided,-2147483648.0,restricted,-0.0
+2011-03-11,Barclays,Not Provided,3.0,equalwt/neutral,22.27
+2011-03-11,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-03-12,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-03-13,Benchmark Company LLC,12 month,3.0,hold,20.55
+2011-03-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-03-24,Macquarie,12 month,5.0,outperform,29.98
+2011-04-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-04-13,Benchmark Company LLC,12 month,3.0,hold,24.84
+2011-04-14,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-04-14,Barclays,Not Provided,3.0,equalwt/neutral,22.27
+2011-04-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-04-19,Barclays,Not Provided,3.0,equalwt/neutral,27.41
+2011-04-19,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-04-20,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-04-21,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.4
+2011-04-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-04-21,Baird,12 month,3.0,neutral,29.12
+2011-04-28,Barclays,Not Provided,3.0,equalwt/neutral,27.41
+2011-04-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-04-28,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.4
+2011-04-29,Macquarie,12 month,5.0,outperform,29.98
+2011-04-29,Baird,12 month,3.0,neutral,29.98
+2011-04-29,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2011-04-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-04-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-05-02,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-05-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-05-04,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.4
+2011-05-10,J.P. Morgan,9 month,5.0,overweight,31.69
+2011-05-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.4
+2011-05-16,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-05-16,Stifel,12 month,5.0,buy,33.4
+2011-05-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-05-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-05-16,Barclays,Not Provided,3.0,equalwt/neutral,27.41
+2011-05-17,Stifel,12 month,5.0,buy,33.4
+2011-05-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-05-19,Barclays,Not Provided,3.0,equalwt/neutral,29.98
+2011-05-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-06-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-06-13,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.4
+2011-06-13,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-06-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-06-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-06-30,Stifel,12 month,5.0,buy,33.4
+2011-06-30,Barclays,Not Provided,3.0,equalwt/neutral,29.98
+2011-07-07,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-07-20,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2011-07-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-07-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-07-28,Stifel,12 month,5.0,buy,33.4
+2011-07-28,Barclays,Not Provided,3.0,equalwt/neutral,29.98
+2011-07-29,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.4
+2011-07-29,Baird,12 month,3.0,neutral,30.83
+2011-07-29,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2011-07-29,Macquarie,12 month,5.0,outperform,32.55
+2011-07-29,J.P. Morgan,3 month,5.0,overweight,31.69
+2011-07-30,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-08-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-08-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-08-10,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-08-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-08-12,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-08-16,Barclays,Not Provided,3.0,equalwt/neutral,29.98
+2011-08-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-08-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-08-25,Baird,12 month,3.0,neutral,30.83
+2011-09-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-09-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-09-21,Baird,12 month,3.0,neutral,30.83
+2011-09-30,Barclays,Not Provided,3.0,equalwt/neutral,29.12
+2011-10-05,Stifel,12 month,5.0,buy,33.4
+2011-10-05,Macquarie,12 month,3.0,neutral,27.41
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-25,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2011-10-27,Barclays,Not Provided,3.0,equalwt/neutral,29.12
+2011-10-27,Baird,12 month,3.0,neutral,29.12
+2011-10-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-10-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-10-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-10-27,Stifel,12 month,5.0,buy,33.4
+2011-10-28,J.P. Morgan,15 month,5.0,overweight,31.69
+2011-10-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-10-28,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2011-10-28,Stifel,Not Provided,3.0,hold,-0.0
+2011-10-28,Macquarie,12 month,3.0,neutral,27.41
+2011-10-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-10-30,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.4
+2011-10-31,Benchmark Company LLC,12 month,3.0,hold,24.84
+2011-10-31,Barclays,Not Provided,3.0,equalwt/neutral,27.41
+2011-11-07,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-11,J.P. Morgan,9 month,5.0,overweight,31.69
+2011-11-16,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2011-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-30,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2011-12-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2011-12-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-01-11,Barclays,Not Provided,3.0,equalwt/neutral,27.41
+2012-01-13,Baird,12 month,3.0,neutral,29.12
+2012-01-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-01-24,Barclays,Not Provided,3.0,equalwt/neutral,27.41
+2012-02-02,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-02-09,Benchmark Company LLC,12 month,3.0,hold,24.84
+2012-02-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-02-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-02-23,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2012-02-23,Barclays,Not Provided,3.0,equalwt/neutral,27.41
+2012-02-23,Stifel,Not Provided,3.0,hold,-0.0
+2012-02-24,Stifel,Not Provided,3.0,hold,-0.0
+2012-02-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-02-24,Barclays,Not Provided,3.0,equalwt/neutral,27.41
+2012-02-24,J.P. Morgan,9 month,5.0,overweight,31.69
+2012-02-24,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-02-24,Macquarie,12 month,5.0,outperform,32.55
+2012-02-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2012-02-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-03-01,Baird,12 month,3.0,neutral,29.12
+2012-03-02,Baird,12 month,3.0,neutral,29.12
+2012-03-05,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.4
+2012-03-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-04-02,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-04-12,Barclays,Not Provided,3.0,equalwt/neutral,27.41
+2012-04-12,Stifel,Not Provided,3.0,hold,-0.0
+2012-04-17,Barclays,Not Provided,3.0,equalwt/neutral,27.41
+2012-04-19,J.P. Morgan,6 month,5.0,overweight,31.69
+2012-04-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-04-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-04-26,J.P. Morgan,6 month,5.0,overweight,31.69
+2012-04-26,Baird,12 month,3.0,neutral,29.12
+2012-04-26,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2012-04-27,Stifel,Not Provided,3.0,hold,-0.0
+2012-04-27,Macquarie,12 month,5.0,outperform,32.55
+2012-04-27,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-04-27,Barclays,Not Provided,3.0,equalwt/neutral,27.41
+2012-05-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2012-06-04,Piper Jaffray,12 month,5.0,overweight,29.98
+2012-06-05,J.P. Morgan,Not Provided,-2147483648.0,restricted,-0.0
+2012-06-05,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-06-06,Barclays,Not Provided,3.0,equalwt/neutral,30.83
+2012-06-06,Macquarie,12 month,5.0,outperform,37.68
+2012-06-07,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-06-07,Piper Jaffray,12 month,5.0,overweight,34.26
+2012-06-07,Baird,12 month,3.0,neutral,31.69
+2012-06-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-06-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-06-11,Stifel,12 month,5.0,buy,35.97
+2012-06-12,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-06-13,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-06-25,Barclays,Not Provided,5.0,overwt/neutral,33.4
+2012-06-25,Baird,12 month,3.0,neutral,31.69
+2012-07-17,Barclays,Not Provided,5.0,overwt/neutral,33.4
+2012-07-23,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-07-23,Piper Jaffray,12 month,5.0,overweight,34.26
+2012-07-26,Baird,12 month,3.0,neutral,30.83
+2012-07-26,Barclays,Not Provided,5.0,overweight,33.4
+2012-07-26,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-07-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-07-26,Piper Jaffray,12 month,5.0,overweight,34.26
+2012-07-27,Macquarie,12 month,5.0,outperform,37.68
+2012-07-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-07-27,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-07-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2012-07-27,Stifel,12 month,5.0,buy,35.97
+2012-08-07,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2012-08-07,Stifel,12 month,5.0,buy,35.97
+2012-08-13,Barclays,Not Provided,5.0,overweight,34.26
+2012-08-24,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-09-11,Baird,12 month,3.0,neutral,30.83
+2012-09-20,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-09-20,Piper Jaffray,12 month,5.0,overweight,35.97
+2012-10-03,Barclays,Not Provided,5.0,overweight,35.11
+2012-10-05,Piper Jaffray,12 month,5.0,overweight,35.97
+2012-10-09,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-10-11,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-10-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-10-12,Stifel,12 month,5.0,buy,35.97
+2012-10-12,Baird,12 month,3.0,neutral,35.11
+2012-10-12,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-10-12,Piper Jaffray,12 month,5.0,overweight,36.83
+2012-10-15,J.P. Morgan,Not Provided,-2147483648.0,restricted,-0.0
+2012-10-15,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2012-10-15,Barclays,Not Provided,5.0,overweight,35.11
+2012-10-31,Piper Jaffray,12 month,5.0,overweight,36.83
+2012-10-31,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-10-31,Stifel,12 month,5.0,buy,35.97
+2012-10-31,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2012-11-01,Barclays,Not Provided,5.0,overweight,36.37
+2012-11-01,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2012-11-01,Baird,12 month,3.0,neutral,35.11
+2012-11-01,Macquarie,12 month,5.0,outperform,39.17
+2012-11-05,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2012-11-20,Barclays,Not Provided,5.0,overweight,36.37
+2012-12-03,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2012-12-03,Piper Jaffray,12 month,5.0,overweight,36.83
+2012-12-03,Barclays,Not Provided,5.0,overweight,36.37
+2012-12-11,Barclays,Not Provided,5.0,overweight,36.37
+2012-12-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-01-02,Piper Jaffray,Not Provided,5.0,overweight,36.83
+2013-01-12,Macquarie,12 month,5.0,outperform,39.17
+2013-01-15,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2013-01-22,Barclays,Not Provided,5.0,overweight,36.37
+2013-01-24,Stifel,12 month,5.0,buy,35.97
+2013-01-29,Baird,12 month,3.0,neutral,35.11
+2013-02-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-02-05,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-02-22,Piper Jaffray,12 month,5.0,overweight,36.83
+2013-02-28,Baird,12 month,3.0,neutral,35.11
+2013-02-28,Piper Jaffray,12 month,5.0,overweight,36.83
+2013-02-28,J.P. Morgan,Not Provided,-2147483648.0,restricted,-0.0
+2013-02-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-02-28,Stifel,12 month,5.0,buy,39.17
+2013-03-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-03-01,Macquarie,12 month,5.0,outperform,39.17
+2013-03-01,Barclays,Not Provided,5.0,overweight,38.23
+2013-03-01,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-03-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-03-27,Piper Jaffray,12 month,5.0,overweight,36.83
+2013-03-28,Barclays,Not Provided,5.0,overweight,38.23
+2013-04-16,Barclays,Not Provided,5.0,overweight,38.23
+2013-04-25,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-05-01,Baird,12 month,3.0,neutral,35.11
+2013-05-01,Piper Jaffray,12 month,5.0,overweight,36.83
+2013-05-01,Stifel,12 month,5.0,buy,39.17
+2013-05-01,Barclays,Not Provided,5.0,overweight,38.23
+2013-05-01,J.P. Morgan,Not Provided,-2147483648.0,restricted,-0.0
+2013-05-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-05-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-05-01,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-05-02,Macquarie,12 month,5.0,outperform,39.17
+2013-05-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-05-08,"Miller Tabak + Co., LLC",12 month,5.0,buy,49.42
+2013-05-20,Barclays,Not Provided,5.0,overweight,38.23
+2013-06-07,Stifel,Not Provided,3.0,hold,-0.0
+2013-06-07,Baird,12 month,3.0,neutral,32.64
+2013-06-07,Barclays,Not Provided,5.0,overweight,33.57
+2013-06-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-06-07,Macquarie,12 month,5.0,outperform,37.77
+2013-06-07,Piper Jaffray,12 month,5.0,overweight,34.5
+2013-06-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-06-21,Barclays,Not Provided,5.0,overweight,33.57
+2013-07-01,Stifel,Not Provided,3.0,hold,-0.0
+2013-07-02,Barclays,Not Provided,5.0,overweight,33.57
+2013-07-30,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-08-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-08-01,"Miller Tabak + Co., LLC",Not Provided,5.0,buy,34.5
+2013-08-01,Piper Jaffray,12 month,5.0,overweight,34.5
+2013-08-01,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-08-01,Stifel,Not Provided,3.0,hold,-0.0
+2013-08-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-08-02,Macquarie,12 month,5.0,outperform,37.77
+2013-08-02,Baird,12 month,3.0,neutral,31.71
+2013-08-08,Barclays,Not Provided,3.0,equalweight,29.84
+2013-08-23,Barclays,Not Provided,3.0,equalweight,29.84
+2013-08-29,Barclays,Not Provided,3.0,equalweight,27.98
+2013-09-12,Piper Jaffray,12 month,5.0,overweight,34.5
+2013-10-10,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-10,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-10-11,Barclays,Not Provided,1.0,underweight,21.45
+2013-10-14,Baird,12 month,5.0,outperform,31.71
+2013-10-18,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-10-18,Barclays,Not Provided,1.0,underweight,21.45
+2013-10-18,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-18,Baird,12 month,5.0,outperform,31.71
+2013-10-28,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-10-31,J.P. Morgan,Not Provided,-2147483648.0,restricted,-0.0
+2013-10-31,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-10-31,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-31,Piper Jaffray,12 month,5.0,overweight,34.5
+2013-11-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-11-01,Macquarie,12 month,5.0,outperform,37.77
+2013-11-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-11-01,Barclays,Not Provided,1.0,underweight,21.45
+2013-11-01,Baird,12 month,5.0,outperform,31.71
+2013-11-01,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2013-11-15,Stifel,Not Provided,3.0,hold,-0.0
+2013-11-15,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-11-15,Piper Jaffray,12 month,5.0,overweight,34.5
+2013-11-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-11-15,Baird,12 month,5.0,outperform,31.71
+2013-12-10,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-12-10,Macquarie,12 month,5.0,outperform,38.47
+2013-12-12,Barclays,Not Provided,1.0,underweight,21.45
+2013-12-17,Jefferies,12 month,3.0,hold,25.18
+2014-01-08,Piper Jaffray,12 month,5.0,overweight,34.5
+2014-01-21,Jefferies,12 month,3.0,hold,25.18
+2014-01-29,Barclays,Not Provided,1.0,underweight,23.31
+2014-01-31,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2014-02-03,Jefferies,12 month,3.0,hold,25.18
+2014-02-07,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-02-10,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-02-28,Stifel,Not Provided,3.0,hold,-0.0
+2014-02-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-02-28,Barclays,Not Provided,1.0,underweight,23.31
+2014-03-01,Macquarie,12 month,5.0,outperform,38.47
+2014-03-03,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-03-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-03-03,Jefferies,12 month,3.0,hold,25.18
+2014-03-03,Baird,12 month,5.0,outperform,29.84
+2014-03-04,Piper Jaffray,12 month,5.0,overweight,34.5
+2014-03-07,Barclays,Not Provided,1.0,underweight,23.31
+2014-03-07,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2014-03-18,Piper Jaffray,12 month,5.0,overweight,34.5
+2014-03-26,Macquarie,12 month,5.0,outperform,38.47
+2014-03-27,Piper Jaffray,12 month,5.0,overweight,34.5
+2014-03-27,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-03-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-03-27,Baird,12 month,5.0,outperform,29.84
+2014-03-27,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-04-03,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-04-03,Jefferies,12 month,3.0,hold,25.18
+2014-04-10,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-04-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-04-16,Piper Jaffray,12 month,5.0,overweight,34.5
+2014-04-29,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-05-01,J.P. Morgan,Not Provided,-2147483648.0,restricted,-0.0
+2014-05-01,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-05-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-05-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-05-01,Stifel,Not Provided,3.0,hold,-0.0
+2014-05-01,Jefferies,12 month,3.0,hold,25.18
+2014-05-01,Piper Jaffray,12 month,5.0,overweight,34.5
+2014-05-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-02,Macquarie,12 month,5.0,outperform,38.47
+2014-05-02,Baird,12 month,5.0,outperform,29.84
+2014-05-12,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2014-05-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-14,Piper Jaffray,12 month,5.0,overweight,34.5
+2014-05-14,Stifel,Not Provided,3.0,hold,-0.0
+2014-05-21,Jefferies,12 month,3.0,hold,24.25
+2014-05-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-25,Stifel,Not Provided,3.0,hold,-0.0
+2014-06-26,"Morningstar, Inc",Not Provided,-2147483648.0,Under Review,-0.0
+2014-06-26,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-06-26,Jefferies,12 month,3.0,hold,24.25
+2014-06-26,Macquarie,12 month,5.0,outperform,40.1
+2014-06-27,Piper Jaffray,12 month,5.0,overweight,41.03
+2014-06-27,Baird,12 month,5.0,outperform,37.3
+2014-06-30,J.P. Morgan,3 month,5.0,overweight,39.17
+2014-07-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-07-02,Macquarie,12 month,5.0,outperform,40.1
+2014-07-03,Barclays,Not Provided,1.0,underweight,32.64
+2014-07-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-15,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-07-17,Stifel,Not Provided,3.0,hold,-0.0
+2014-07-18,Baird,12 month,3.0,neutral,36.37
+2014-07-31,J.P. Morgan,Not Provided,5.0,overweight,39.17
+2014-07-31,Jefferies,12 month,3.0,hold,24.25
+2014-07-31,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-31,Piper Jaffray,12 month,5.0,overweight,41.03
+2014-08-01,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2014-08-01,Barclays,Not Provided,1.0,underweight,32.64
+2014-08-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-08-01,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-08-01,Macquarie,12 month,5.0,outperform,40.1
+2014-08-03,Stifel,Not Provided,3.0,hold,-0.0
+2014-08-04,Baird,12 month,3.0,neutral,36.37
+2014-08-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-09-15,Piper Jaffray,12 month,5.0,overweight,41.03
+2014-09-18,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-09-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-29,Barclays,Not Provided,1.0,underweight,32.64
+2014-09-30,Baird,12 month,3.0,neutral,35.0
+2014-10-01,Piper Jaffray,12 month,5.0,overweight,41.03
+2014-10-02,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-10-24,Piper Jaffray,12 month,5.0,overweight,41.03
+2014-10-29,Stifel,Not Provided,3.0,hold,-0.0
+2014-10-30,Stifel,Not Provided,3.0,hold,-0.0
+2014-10-30,J.P. Morgan,Not Provided,5.0,overweight,42.0
+2014-10-30,Piper Jaffray,12 month,5.0,overweight,41.0
+2014-10-31,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-10-31,Macquarie,12 month,5.0,outperform,40.0
+2014-10-31,Baird,12 month,3.0,neutral,36.0
+2014-10-31,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-11-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-11-03,Jefferies,12 month,3.0,hold,33.0
+2014-11-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-06,Stifel,Not Provided,3.0,hold,-0.0
+2014-11-07,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2014-11-07,Baird,12 month,3.0,neutral,39.0
+2014-11-07,Piper Jaffray,12 month,5.0,overweight,41.0
+2014-11-11,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-11-12,Macquarie,12 month,5.0,outperform,40.0
+2014-11-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-15,Jefferies,12 month,3.0,hold,33.0
+2014-12-15,Stifel,Not Provided,3.0,hold,-0.0
+2014-12-15,Baird,12 month,3.0,neutral,39.0
+2014-12-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-12-17,Piper Jaffray,12 month,5.0,overweight,41.0
+2015-02-20,J.P. Morgan,12 month,5.0,overweight,42.0
+2015-02-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-20,Jefferies,12 month,3.0,hold,33.0
+2015-02-21,Macquarie,12 month,5.0,outperform,40.0
+2015-02-22,Stifel,Not Provided,3.0,hold,-0.0
+2015-02-23,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-02-23,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-02-23,Piper Jaffray,12 month,5.0,overweight,41.0
+2015-02-23,Baird,12 month,3.0,neutral,39.0
+2015-02-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-02-27,Piper Jaffray,12 month,5.0,overweight,41.0
+2015-02-27,Jefferies,12 month,3.0,hold,33.0
+2015-03-09,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2015-03-10,Piper Jaffray,12 month,5.0,overweight,41.0
+2015-03-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-08,Piper Jaffray,12 month,5.0,overweight,41.0
+2015-04-15,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-16,Baird,12 month,3.0,neutral,39.0
+2015-04-22,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-04-28,Jefferies,12 month,3.0,hold,33.0
+2015-04-28,J.P. Morgan,12 month,5.0,overweight,42.0
+2015-04-28,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-04-29,Piper Jaffray,12 month,5.0,overweight,43.0
+2015-04-29,Baird,12 month,3.0,neutral,39.0
+2015-04-29,Macquarie,12 month,5.0,outperform,40.0
+2015-04-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-04-29,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-05-05,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2015-06-02,Jefferies,12 month,1.0,underperform,29.0
+2015-06-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-06-04,Baird,12 month,3.0,neutral,35.0
+2015-06-08,Jefferies,12 month,1.0,underperform,29.0
+2015-06-08,Baird,12 month,3.0,neutral,35.0
+2015-06-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-08,Stifel,Not Provided,3.0,hold,-0.0
+2015-06-08,Piper Jaffray,12 month,5.0,overweight,43.0
+2015-06-17,Piper Jaffray,12 month,5.0,overweight,43.0
+2015-06-29,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-07-14,Baird,12 month,3.0,neutral,33.0
+2015-07-15,Jefferies,12 month,1.0,underperform,29.0
+2015-07-21,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-24,Jefferies,12 month,1.0,underperform,29.0
+2015-07-30,Jefferies,12 month,1.0,underperform,29.0
+2015-07-30,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-07-30,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-30,J.P. Morgan,6 month,5.0,overweight,42.0
+2015-07-30,Piper Jaffray,12 month,5.0,overweight,43.0
+2015-07-31,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-07-31,Macquarie,12 month,5.0,outperform,40.0
+2015-07-31,Baird,12 month,3.0,neutral,33.0
+2015-08-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-08-06,Jefferies,12 month,1.0,underperform,29.0
+2015-08-25,Piper Jaffray,12 month,5.0,overweight,43.0
+2015-09-23,Piper Jaffray,12 month,5.0,overweight,43.0
+2015-10-08,Jefferies,12 month,1.0,underperform,27.0
+2015-10-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-14,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-15,Piper Jaffray,12 month,5.0,overweight,43.0
+2015-10-15,J.P. Morgan,18 month,5.0,overweight,42.0
+2015-10-15,Baird,12 month,3.0,neutral,34.0
+2015-10-23,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-10-30,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-30,Baird,12 month,3.0,neutral,34.0
+2015-10-30,J.P. Morgan,12 month,5.0,overweight,42.0
+2015-10-31,Macquarie,12 month,5.0,outperform,40.0
+2015-11-01,Piper Jaffray,12 month,5.0,overweight,43.0
+2015-11-03,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-11-03,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2015-11-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-06,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-08,"MUFG Securities Americas, Inc",12 month,3.0,neutral,28.0
+2015-12-10,"MUFG Securities Americas, Inc",12 month,3.0,neutral,28.0
+2015-12-21,"MUFG Securities Americas, Inc",12 month,3.0,neutral,28.0
+2015-12-30,Baird,12 month,3.0,neutral,34.0
+2016-01-05,Baird,Not Provided,3.0,neutral,34.0
+2016-02-25,J.P. Morgan,12 month,5.0,overweight,42.0
+2016-02-25,Piper Jaffray,12 month,5.0,overweight,43.0
+2016-02-25,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-25,Stifel,Not Provided,3.0,hold,-0.0
+2016-02-26,"MUFG Securities Americas, Inc",12 month,3.0,neutral,29.0
+2016-02-26,Macquarie,12 month,5.0,outperform,40.0
+2016-02-29,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-02-29,Baird,12 month,3.0,neutral,34.0
+2016-03-09,Stifel,Not Provided,3.0,hold,-0.0
+2016-03-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-22,Piper Jaffray,12 month,5.0,overweight,43.0
+2016-03-25,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-03-30,Piper Jaffray,12 month,5.0,overweight,43.0
+2016-04-01,Piper Jaffray,12 month,5.0,overweight,43.0
+2016-04-01,"MUFG Securities Americas, Inc",12 month,3.0,neutral,31.0
+2016-04-03,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-04,Baird,12 month,3.0,neutral,34.0
+2016-04-17,Stifel,12 month,5.0,buy,39.0
+2016-04-19,Piper Jaffray,12 month,5.0,overweight,43.0
+2016-04-19,Macquarie,12 month,5.0,outperform,40.0
+2016-04-19,"MUFG Securities Americas, Inc",12 month,3.0,neutral,31.0
+2016-04-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-28,Piper Jaffray,12 month,5.0,overweight,44.0
+2016-04-28,"MUFG Securities Americas, Inc",12 month,3.0,neutral,34.0
+2016-04-28,Baird,12 month,3.0,neutral,34.0
+2016-04-29,J.P. Morgan,6 month,5.0,overweight,42.0
+2016-05-04,Stifel,12 month,5.0,buy,39.0
+2016-05-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-05,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-05-16,Stifel,12 month,5.0,buy,44.0
+2016-06-09,"MUFG Securities Americas, Inc",12 month,3.0,neutral,34.0
+2016-06-15,Piper Jaffray,12 month,5.0,overweight,44.0
+2016-06-17,Piper Jaffray,12 month,5.0,overweight,44.0
+2016-06-24,Baird,Not Provided,3.0,neutral,34.0
+2016-06-29,Piper Jaffray,12 month,5.0,overweight,44.0
+2016-07-08,Piper Jaffray,12 month,5.0,overweight,48.0
+2016-08-04,J.P. Morgan,18 month,5.0,overweight,48.0
+2016-08-04,Baird,12 month,3.0,neutral,38.0
+2016-08-04,Piper Jaffray,12 month,5.0,overweight,48.0
+2016-08-04,Stifel,12 month,5.0,buy,44.0
+2016-08-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-08,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-08-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-09,"MUFG Securities Americas, Inc",12 month,3.0,neutral,36.0
+2016-08-25,Stifel,12 month,5.0,buy,44.0
+2016-09-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-12,Stifel,12 month,5.0,buy,44.0
+2016-09-28,Stifel,Not Provided,5.0,buy,44.0
+2016-10-04,Stifel,Not Provided,5.0,buy,44.0
+2016-10-11,Piper Jaffray,12 month,5.0,overweight,48.0
+2016-10-12,"MUFG Securities Americas, Inc",12 month,3.0,neutral,36.0
+2016-10-25,Baird,12 month,3.0,neutral,38.0
+2016-10-31,Stifel,12 month,5.0,buy,44.0
+2016-11-01,Piper Jaffray,12 month,5.0,overweight,48.0
+2016-11-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-01,"MUFG Securities Americas, Inc",12 month,3.0,neutral,33.0
+2016-11-01,Stifel,12 month,5.0,buy,40.0
+2016-11-02,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-11-02,J.P. Morgan,18 month,5.0,overweight,46.0
+2016-11-02,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-11-02,Baird,12 month,3.0,neutral,37.0
+2016-11-09,Stifel,12 month,5.0,buy,40.0
+2016-11-14,Baird,12 month,3.0,neutral,37.0
+2016-11-16,Piper Jaffray,12 month,5.0,overweight,48.0
+2016-11-17,"MUFG Securities Americas, Inc",12 month,3.0,neutral,33.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2017-01-02,Stifel,12 month,5.0,buy,40.0
+2017-01-04,"MUFG Securities Americas, Inc",12 month,3.0,neutral,33.0
+2017-01-31,Piper Jaffray,12 month,5.0,overweight,48.0
+2017-02-09,Piper Jaffray,12 month,5.0,overweight,48.0
+2017-02-10,Baird,12 month,3.0,neutral,37.0
+2017-02-23,J.P. Morgan,12 month,5.0,overweight,44.0
+2017-02-23,Piper Jaffray,12 month,5.0,overweight,48.0
+2017-02-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-23,Stifel,12 month,5.0,buy,40.0
+2017-02-23,Baird,12 month,3.0,neutral,39.0
+2017-02-27,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2017-03-02,"MUFG Securities Americas, Inc",12 month,3.0,neutral,34.0
+2017-03-03,Stifel,12 month,5.0,buy,40.0
+2017-03-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-18,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-04-20,Stifel,12 month,5.0,buy,40.0
+2017-04-20,"MUFG Securities Americas, Inc",12 month,3.0,neutral,34.0
+2017-04-20,Piper Jaffray,12 month,5.0,overweight,48.0
+2017-04-21,Baird,12 month,3.0,neutral,39.0
+2017-04-27,Baird,12 month,3.0,neutral,39.0
+2017-04-27,Piper Jaffray,12 month,5.0,overweight,48.0
+2017-04-27,Stifel,12 month,5.0,buy,40.0
+2017-04-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-28,J.P. Morgan,9 month,5.0,overweight,41.0
+2017-05-02,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2017-05-15,"MUFG Securities Americas, Inc",12 month,3.0,neutral,34.0

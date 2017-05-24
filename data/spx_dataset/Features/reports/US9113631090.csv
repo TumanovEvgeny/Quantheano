@@ -1,0 +1,687 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2012-10-19,UBS,12 month,5.0,buy,55.0
+2014-01-23,S&P Capital IQ,12 month,5.0,strong buy,110.0
+2014-07-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,118.0
+2014-07-17,Stifel,12 month,5.0,buy,128.0
+2014-07-17,Goldman Sachs,12 month,3.0,neutral/neutral,111.0
+2014-07-17,Avondale Partners LLC,12 month,4.0,market outperform,137.0
+2014-07-18,Macquarie,12 month,3.0,neutral,115.0
+2014-07-24,Susquehanna Financial,12 month,4.0,Positive,133.0
+2014-08-06,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-08-07,Evercore ISI,Not Provided,5.0,buy,123.0
+2014-08-19,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-09-12,Thompson Research Group,Not Provided,5.0,buy,127.0
+2014-09-14,Oppenheimer & Co,12 month,5.0,outperform,122.0
+2014-09-14,RBC Capital Markets,12 month,5.0,top pick,128.0
+2014-09-15,Jefferies,12 month,5.0,buy,138.0
+2014-09-15,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-09-18,UBS,12 month,5.0,buy,132.0
+2014-09-19,Piper Jaffray,12 month,5.0,overweight,124.0
+2014-09-22,KeyBanc Capital Markets,Not Provided,5.0,buy,130.0
+2014-10-01,RBC Capital Markets,12 month,5.0,top pick,128.0
+2014-10-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-03,RBC Capital Markets,12 month,5.0,top pick,128.0
+2014-10-03,Jefferies,12 month,5.0,buy,138.0
+2014-10-07,Morgan Stanley,12 month,3.0,Equalwt/In-Line,119.0
+2014-10-08,Oppenheimer & Co,18 month,5.0,outperform,122.0
+2014-10-08,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-10-10,Thompson Research Group,12 month,5.0,buy,127.0
+2014-10-13,Avondale Partners LLC,12 month,4.0,market outperform,137.0
+2014-10-13,RBC Capital Markets,12 month,5.0,top pick,128.0
+2014-10-14,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-10-14,Susquehanna Financial,12 month,4.0,Positive,133.0
+2014-10-14,Goldman Sachs,12 month,3.0,neutral/neutral,125.0
+2014-10-15,Evercore ISI,12 month,5.0,buy,123.0
+2014-10-15,Morgan Stanley,12 month,3.0,Equalwt/In-Line,119.0
+2014-10-15,Piper Jaffray,12 month,5.0,overweight,124.0
+2014-10-15,Oppenheimer & Co,18 month,5.0,outperform,122.0
+2014-10-16,Jefferies,12 month,5.0,buy,117.0
+2014-10-16,Evercore ISI,Not Provided,5.0,buy,123.0
+2014-10-16,Thompson Research Group,12 month,5.0,buy,127.0
+2014-10-16,Stifel,12 month,5.0,buy,128.0
+2014-10-16,Piper Jaffray,12 month,5.0,overweight,124.0
+2014-10-16,Morgan Stanley,12 month,3.0,Equalwt/In-Line,122.0
+2014-10-16,KeyBanc Capital Markets,12 month,5.0,buy,130.0
+2014-10-17,Susquehanna Financial,12 month,4.0,Positive,133.0
+2014-10-17,Oppenheimer & Co,12 month,5.0,outperform,122.0
+2014-10-17,Avondale Partners LLC,12 month,4.0,market outperform,137.0
+2014-10-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-17,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-10-17,Macquarie,12 month,3.0,neutral,105.0
+2014-10-20,Goldman Sachs,12 month,3.0,neutral/neutral,111.0
+2014-10-22,RBC Capital Markets,12 month,5.0,top pick,128.0
+2014-11-03,RBC Capital Markets,12 month,5.0,top pick,128.0
+2014-11-04,Evercore ISI,Not Provided,5.0,buy,123.0
+2014-11-04,Piper Jaffray,12 month,5.0,overweight,124.0
+2014-11-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,122.0
+2014-11-07,KeyBanc Capital Markets,12 month,5.0,buy,130.0
+2014-11-10,Jefferies,12 month,5.0,buy,117.0
+2014-11-13,Piper Jaffray,12 month,5.0,overweight,124.0
+2014-11-25,Jefferies,Not Provided,5.0,buy,135.0
+2014-12-02,KeyBanc Capital Markets,12 month,5.0,buy,130.0
+2014-12-02,Susquehanna Financial,12 month,4.0,Positive,133.0
+2014-12-02,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-12-03,RBC Capital Markets,12 month,5.0,top pick,128.0
+2014-12-04,Evercore ISI,12 month,5.0,buy,123.0
+2014-12-04,Stifel,12 month,5.0,buy,128.0
+2014-12-05,Susquehanna Financial,12 month,4.0,Positive,133.0
+2014-12-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,131.0
+2014-12-05,Oppenheimer & Co,12 month,5.0,outperform,127.0
+2014-12-05,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2014-12-05,Goldman Sachs,12 month,3.0,neutral/neutral,114.0
+2014-12-05,Stifel,12 month,5.0,buy,128.0
+2014-12-05,Piper Jaffray,12 month,5.0,overweight,128.0
+2014-12-05,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-12-05,Thompson Research Group,12 month,5.0,buy,140.0
+2014-12-09,Macquarie,12 month,3.0,neutral,105.0
+2014-12-10,Jefferies,12 month,5.0,buy,135.0
+2014-12-10,RBC Capital Markets,12 month,5.0,top pick,128.0
+2014-12-12,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-12-17,Avondale Partners LLC,12 month,4.0,market outperform,137.0
+2014-12-18,Piper Jaffray,12 month,5.0,overweight,128.0
+2014-12-18,RBC Capital Markets,12 month,5.0,top pick,128.0
+2014-12-22,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-01-04,Stifel,Not Provided,5.0,buy,128.0
+2015-01-05,Evercore ISI,Not Provided,1.0,sell,87.0
+2015-01-06,RBC Capital Markets,12 month,5.0,top pick,128.0
+2015-01-07,KeyBanc Capital Markets,12 month,5.0,buy,130.0
+2015-01-08,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-01-09,Thompson Research Group,Not Provided,5.0,buy,140.0
+2015-01-12,Morgan Stanley,12 month,3.0,Equalwt/In-Line,111.0
+2015-01-13,RBC Capital Markets,12 month,5.0,top pick,128.0
+2015-01-14,Jefferies,Not Provided,5.0,buy,130.0
+2015-01-14,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-01-14,Piper Jaffray,12 month,5.0,overweight,128.0
+2015-01-14,Morgan Stanley,12 month,3.0,Equalwt/In-Line,111.0
+2015-01-15,KeyBanc Capital Markets,12 month,5.0,buy,116.0
+2015-01-20,Thompson Research Group,Not Provided,5.0,buy,140.0
+2015-01-20,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-01-21,Goldman Sachs,12 month,3.0,neutral/neutral,97.0
+2015-01-21,UBS,12 month,5.0,buy,110.0
+2015-01-21,KeyBanc Capital Markets,12 month,5.0,buy,116.0
+2015-01-22,Stifel,12 month,5.0,buy,120.0
+2015-01-22,S&P Capital IQ,12 month,5.0,strong buy,142.0
+2015-01-22,Piper Jaffray,12 month,5.0,overweight,124.0
+2015-01-22,Jefferies,12 month,5.0,buy,130.0
+2015-01-22,Morgan Stanley,12 month,3.0,Equalwt/In-Line,115.0
+2015-01-22,Oppenheimer & Co,12 month,5.0,outperform,127.0
+2015-01-22,Evercore ISI,Not Provided,1.0,sell,87.0
+2015-01-22,RBC Capital Markets,12 month,5.0,top pick,128.0
+2015-01-23,Macquarie,12 month,3.0,neutral,80.0
+2015-01-23,Thompson Research Group,12 month,5.0,buy,140.0
+2015-01-23,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-01-23,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-01-23,Susquehanna Financial,12 month,4.0,Positive,131.0
+2015-01-26,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-01-28,Oppenheimer & Co,12 month,5.0,outperform,105.0
+2015-02-02,RBC Capital Markets,12 month,5.0,top pick,128.0
+2015-02-02,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-02-03,Piper Jaffray,12 month,5.0,overweight,128.0
+2015-02-03,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-02-04,Evercore ISI,Not Provided,1.0,sell,87.0
+2015-02-06,S&P Capital IQ,12 month,5.0,strong buy,142.0
+2015-02-06,Piper Jaffray,12 month,5.0,overweight,124.0
+2015-02-06,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-02-10,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-02-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-02-12,Piper Jaffray,12 month,5.0,overweight,124.0
+2015-02-13,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-02-18,Jefferies,12 month,5.0,buy,130.0
+2015-02-18,KeyBanc Capital Markets,Not Provided,5.0,buy,116.0
+2015-02-23,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-02-23,Evercore ISI,12 month,1.0,sell,87.0
+2015-02-24,Susquehanna Financial,12 month,4.0,Positive,131.0
+2015-02-24,KeyBanc Capital Markets,12 month,5.0,buy,116.0
+2015-02-26,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-03-01,KeyBanc Capital Markets,Not Provided,5.0,overweight,116.0
+2015-03-02,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-03-02,RBC Capital Markets,12 month,5.0,top pick,128.0
+2015-03-02,Morgan Stanley,12 month,5.0,Overwt/In-Line,115.0
+2015-03-09,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-03-16,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-03-17,Piper Jaffray,12 month,5.0,overweight,124.0
+2015-03-18,Thompson Research Group,12 month,5.0,buy,105.0
+2015-03-20,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-03-23,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-03-23,Stifel,12 month,5.0,buy,120.0
+2015-03-23,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-03-24,KeyBanc Capital Markets,Not Provided,5.0,overweight,116.0
+2015-03-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-26,Thompson Research Group,Not Provided,5.0,buy,140.0
+2015-03-30,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-04-01,RBC Capital Markets,12 month,5.0,top pick,128.0
+2015-04-06,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-04-06,Thompson Research Group,Not Provided,5.0,buy,140.0
+2015-04-08,KeyBanc Capital Markets,Not Provided,5.0,overweight,116.0
+2015-04-08,Morgan Stanley,12 month,5.0,Overwt/In-Line,114.0
+2015-04-08,RBC Capital Markets,12 month,5.0,top pick,128.0
+2015-04-10,Jefferies,12 month,5.0,buy,130.0
+2015-04-13,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-04-13,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-04-13,Avondale Partners LLC,Not Provided,4.0,market outperform,137.0
+2015-04-14,Piper Jaffray,12 month,5.0,overweight,124.0
+2015-04-15,Oppenheimer & Co,12 month,5.0,outperform,105.0
+2015-04-15,RBC Capital Markets,12 month,5.0,top pick,124.0
+2015-04-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-22,Oppenheimer & Co,12 month,5.0,outperform,105.0
+2015-04-22,Goldman Sachs,12 month,3.0,neutral/neutral,94.0
+2015-04-22,Thompson Research Group,12 month,5.0,buy,140.0
+2015-04-22,Morgan Stanley,12 month,5.0,Overwt/In-Line,114.0
+2015-04-22,Piper Jaffray,12 month,5.0,overweight,123.0
+2015-04-22,KeyBanc Capital Markets,Not Provided,5.0,overweight,116.0
+2015-04-22,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-04-22,Evercore ISI,Not Provided,1.0,sell,87.0
+2015-04-22,Stifel,12 month,5.0,buy,120.0
+2015-04-22,Jefferies,12 month,5.0,buy,130.0
+2015-04-23,Susquehanna Financial,12 month,4.0,Positive,127.0
+2015-04-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-23,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-04-23,RBC Capital Markets,12 month,5.0,top pick,124.0
+2015-04-23,Macquarie,12 month,3.0,neutral,80.0
+2015-04-24,Oppenheimer & Co,12 month,5.0,outperform,105.0
+2015-04-27,Thompson Research Group,12 month,5.0,buy,140.0
+2015-04-27,Avondale Partners LLC,Not Provided,4.0,market outperform,134.0
+2015-05-01,Evercore ISI,Not Provided,1.0,sell,87.0
+2015-05-01,RBC Capital Markets,12 month,5.0,top pick,124.0
+2015-05-05,Jefferies,12 month,5.0,buy,130.0
+2015-05-08,Thompson Research Group,12 month,5.0,buy,140.0
+2015-05-12,Avondale Partners LLC,Not Provided,4.0,market outperform,134.0
+2015-05-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-05-20,Piper Jaffray,12 month,5.0,overweight,123.0
+2015-05-28,Morgan Stanley,12 month,5.0,Overwt/In-Line,114.0
+2015-05-28,RBC Capital Markets,12 month,5.0,top pick,124.0
+2015-05-29,Jefferies,12 month,5.0,buy,130.0
+2015-05-29,KeyBanc Capital Markets,12 month,5.0,overweight,116.0
+2015-06-01,RBC Capital Markets,12 month,5.0,top pick,124.0
+2015-06-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-06-01,Avondale Partners LLC,Not Provided,4.0,market outperform,134.0
+2015-06-09,KeyBanc Capital Markets,12 month,5.0,overweight,116.0
+2015-06-09,Avondale Partners LLC,Not Provided,4.0,market outperform,134.0
+2015-06-10,Thompson Research Group,12 month,5.0,buy,140.0
+2015-06-15,Avondale Partners LLC,Not Provided,4.0,market outperform,134.0
+2015-06-16,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-06-16,Macquarie,12 month,1.0,underperform,80.0
+2015-06-16,Jefferies,12 month,5.0,buy,120.0
+2015-06-22,Jefferies,12 month,5.0,buy,120.0
+2015-06-22,Avondale Partners LLC,Not Provided,4.0,market outperform,134.0
+2015-06-22,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-06-25,Thompson Research Group,Not Provided,5.0,buy,140.0
+2015-06-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-29,Avondale Partners LLC,Not Provided,4.0,market outperform,134.0
+2015-06-30,Morgan Stanley,12 month,5.0,Overwt/In-Line,114.0
+2015-07-01,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-07-06,RBC Capital Markets,12 month,5.0,top pick,124.0
+2015-07-08,Stifel,12 month,5.0,buy,120.0
+2015-07-09,Piper Jaffray,12 month,5.0,overweight,110.0
+2015-07-10,Jefferies,12 month,5.0,buy,110.0
+2015-07-13,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-07-14,Piper Jaffray,12 month,5.0,overweight,110.0
+2015-07-14,Morgan Stanley,12 month,5.0,Overwt/In-Line,114.0
+2015-07-14,RBC Capital Markets,12 month,5.0,top pick,110.0
+2015-07-15,UBS,12 month,5.0,buy,105.0
+2015-07-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-16,Oppenheimer & Co,12 month,5.0,outperform,105.0
+2015-07-19,Stifel,12 month,5.0,buy,120.0
+2015-07-19,Wolfe Research,12 month,1.0,underperform,52.0
+2015-07-20,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2015-07-22,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-07-22,Evercore ISI,Not Provided,1.0,sell,87.0
+2015-07-23,Wolfe Research,12 month,1.0,underperform,52.0
+2015-07-23,UBS,12 month,5.0,buy,94.0
+2015-07-23,Macquarie,12 month,1.0,underperform,45.0
+2015-07-23,Piper Jaffray,12 month,5.0,overweight,110.0
+2015-07-23,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-07-24,RBC Capital Markets,12 month,5.0,outperform,94.0
+2015-07-24,Susquehanna Financial,12 month,4.0,Positive,94.0
+2015-07-24,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-24,Stifel,12 month,5.0,buy,110.0
+2015-07-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-07-24,Morgan Stanley,12 month,5.0,Overwt/In-Line,98.0
+2015-07-27,Goldman Sachs,12 month,3.0,neutral/cautious,80.0
+2015-07-27,Jefferies,12 month,5.0,buy,85.0
+2015-07-27,Thompson Research Group,12 month,5.0,buy,117.0
+2015-07-27,Oppenheimer & Co,12 month,5.0,outperform,85.0
+2015-07-27,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-08-03,RBC Capital Markets,12 month,5.0,outperform,94.0
+2015-08-03,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-08-03,Evercore ISI,Not Provided,3.0,hold,64.0
+2015-08-04,Thompson Research Group,12 month,5.0,buy,117.0
+2015-08-10,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-08-10,Wolfe Research,12 month,1.0,underperform,45.0
+2015-08-12,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-08-12,Jefferies,12 month,5.0,buy,85.0
+2015-08-17,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-08-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-08-21,Piper Jaffray,12 month,5.0,overweight,110.0
+2015-08-21,Axiom Capital,Not Provided,1.0,sell,39.0
+2015-08-24,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-08-31,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-09-02,Thompson Research Group,12 month,5.0,buy,117.0
+2015-09-02,Jefferies,12 month,5.0,buy,85.0
+2015-09-08,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-09-08,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-09-10,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-09-11,Goldman Sachs,12 month,3.0,neutral/cautious,70.0
+2015-09-14,Susquehanna Financial,12 month,4.0,Positive,94.0
+2015-09-14,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-09-14,Axiom Capital,Not Provided,1.0,sell,39.0
+2015-09-17,Axiom Capital,Not Provided,1.0,sell,39.0
+2015-09-21,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-09-24,Barclays,Not Provided,5.0,overweight,77.0
+2015-09-28,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-10-01,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-10-02,Thompson Research Group,Not Provided,5.0,buy,117.0
+2015-10-04,Stifel,12 month,5.0,buy,110.0
+2015-10-05,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-10-05,Axiom Capital,Not Provided,1.0,sell,39.0
+2015-10-06,RBC Capital Markets,12 month,5.0,outperform,94.0
+2015-10-06,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-10-06,Evercore ISI,Not Provided,3.0,hold,65.0
+2015-10-12,Thompson Research Group,Not Provided,5.0,buy,117.0
+2015-10-12,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-10-13,RBC Capital Markets,12 month,5.0,outperform,90.0
+2015-10-13,Morgan Stanley,12 month,5.0,Overwt/In-Line,86.0
+2015-10-14,Axiom Capital,Not Provided,1.0,sell,-0.0
+2015-10-14,Oppenheimer & Co,12 month,5.0,outperform,85.0
+2015-10-14,Jefferies,12 month,5.0,buy,85.0
+2015-10-15,Stifel,Not Provided,5.0,buy,110.0
+2015-10-20,Avondale Partners LLC,Not Provided,3.0,market perform,70.0
+2015-10-20,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-10-21,Evercore ISI,12 month,3.0,hold,65.0
+2015-10-21,Axiom Capital,Not Provided,1.0,sell,-0.0
+2015-10-22,Morgan Stanley,12 month,5.0,Overwt/In-Line,87.0
+2015-10-22,Barclays,Not Provided,5.0,overweight,80.0
+2015-10-22,Piper Jaffray,12 month,5.0,overweight,110.0
+2015-10-22,Stifel,12 month,5.0,buy,92.0
+2015-10-23,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-10-23,Macquarie,12 month,1.0,underperform,45.0
+2015-10-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-10-23,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2015-10-23,Jefferies,12 month,5.0,buy,90.0
+2015-10-25,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-10-26,RBC Capital Markets,12 month,5.0,outperform,90.0
+2015-10-26,Avondale Partners LLC,Not Provided,3.0,market perform,73.0
+2015-10-26,Thompson Research Group,Not Provided,5.0,buy,117.0
+2015-10-26,Oppenheimer & Co,12 month,5.0,outperform,85.0
+2015-10-28,Susquehanna Financial,12 month,4.0,Positive,87.0
+2015-11-02,Evercore ISI,Not Provided,3.0,hold,73.0
+2015-11-02,Axiom Capital,Not Provided,1.0,sell,-0.0
+2015-11-13,Avondale Partners LLC,Not Provided,3.0,market perform,73.0
+2015-11-20,Piper Jaffray,12 month,5.0,overweight,110.0
+2015-11-24,Jefferies,12 month,5.0,buy,90.0
+2015-11-24,RBC Capital Markets,12 month,5.0,outperform,90.0
+2015-11-25,Piper Jaffray,12 month,5.0,overweight,110.0
+2015-12-01,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-12-09,Avondale Partners LLC,Not Provided,3.0,market perform,73.0
+2015-12-09,RBC Capital Markets,12 month,5.0,outperform,90.0
+2015-12-13,Stifel,Not Provided,5.0,buy,92.0
+2015-12-14,Susquehanna Financial,12 month,4.0,Positive,87.0
+2015-12-15,Piper Jaffray,12 month,5.0,overweight,110.0
+2015-12-28,Axiom Capital,Not Provided,1.0,sell,-0.0
+2015-12-28,RBC Capital Markets,12 month,5.0,outperform,90.0
+2016-01-06,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-01-06,RBC Capital Markets,12 month,5.0,outperform,90.0
+2016-01-07,Thompson Research Group,Not Provided,5.0,buy,117.0
+2016-01-07,Axiom Capital,Not Provided,1.0,sell,39.0
+2016-01-11,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-01-12,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-01-12,Stifel,12 month,5.0,buy,92.0
+2016-01-15,Thompson Research Group,Not Provided,5.0,buy,117.0
+2016-01-15,Longbow Research,Not Provided,5.0,buy,70.0
+2016-01-18,Axiom Capital,Not Provided,1.0,sell,39.0
+2016-01-19,Barclays,Not Provided,5.0,overweight,81.0
+2016-01-20,Jefferies,12 month,5.0,buy,90.0
+2016-01-20,Piper Jaffray,12 month,5.0,overweight,81.0
+2016-01-20,Morgan Stanley,12 month,5.0,Overwt/In-Line,87.0
+2016-01-22,Goldman Sachs,12 month,3.0,neutral/cautious,52.0
+2016-01-25,Avondale Partners LLC,Not Provided,3.0,market perform,55.0
+2016-01-27,Evercore ISI,12 month,3.0,hold,73.0
+2016-01-28,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-01-28,UBS,12 month,3.0,neutral,56.0
+2016-01-28,Macquarie,12 month,1.0,underperform,37.0
+2016-01-28,Jefferies,12 month,5.0,buy,90.0
+2016-01-28,Piper Jaffray,12 month,5.0,overweight,71.0
+2016-01-28,Avondale Partners LLC,12 month,3.0,market perform,41.0
+2016-01-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-01-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-01-29,Stifel,12 month,5.0,buy,57.0
+2016-01-29,Morgan Stanley,12 month,5.0,Overwt/In-Line,79.0
+2016-01-29,Goldman Sachs,12 month,3.0,neutral/cautious,46.0
+2016-01-29,Susquehanna Financial,12 month,3.0,neutral,50.0
+2016-01-29,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-01-29,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-02-01,Barclays,Not Provided,5.0,overweight,74.0
+2016-02-01,Oppenheimer & Co,12 month,5.0,outperform,54.0
+2016-02-01,Thompson Research Group,12 month,5.0,buy,95.0
+2016-02-04,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-02-08,Avondale Partners LLC,Not Provided,3.0,market perform,41.0
+2016-02-09,Jefferies,12 month,5.0,buy,60.0
+2016-02-10,Evercore ISI,Not Provided,3.0,hold,44.0
+2016-02-16,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-02-16,Avondale Partners LLC,Not Provided,3.0,market perform,41.0
+2016-02-21,Evercore ISI,Not Provided,3.0,hold,44.0
+2016-02-22,Axiom Capital,Not Provided,1.0,sell,39.0
+2016-02-22,Avondale Partners LLC,Not Provided,3.0,market perform,41.0
+2016-02-23,Piper Jaffray,12 month,5.0,overweight,71.0
+2016-02-24,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-02-24,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-02-29,Avondale Partners LLC,Not Provided,3.0,market perform,41.0
+2016-03-01,Susquehanna Financial,12 month,3.0,neutral,50.0
+2016-03-01,Thompson Research Group,12 month,5.0,buy,95.0
+2016-03-01,Goldman Sachs,12 month,3.0,neutral/cautious,44.0
+2016-03-01,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-03-07,Avondale Partners LLC,Not Provided,3.0,market perform,41.0
+2016-03-08,Axiom Capital,Not Provided,1.0,sell,39.0
+2016-03-09,Morgan Stanley,12 month,5.0,Overwt/In-Line,79.0
+2016-03-10,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-03-14,Axiom Capital,Not Provided,1.0,sell,39.0
+2016-03-15,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-03-15,Avondale Partners LLC,Not Provided,3.0,market perform,41.0
+2016-03-16,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-03-18,Morgan Stanley,12 month,5.0,Overwt/In-Line,79.0
+2016-03-27,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-03-28,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-03-28,Goldman Sachs,12 month,3.0,neutral/cautious,60.0
+2016-03-31,Thompson Research Group,Not Provided,5.0,buy,95.0
+2016-04-01,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-04-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-04-04,Axiom Capital,Not Provided,1.0,sell,39.0
+2016-04-04,Jefferies,12 month,5.0,buy,70.0
+2016-04-11,Axiom Capital,Not Provided,1.0,sell,39.0
+2016-04-13,Thompson Research Group,Not Provided,5.0,buy,95.0
+2016-04-13,Barclays,Not Provided,5.0,overweight,74.0
+2016-04-13,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-04-20,Evercore ISI,12 month,3.0,hold,44.0
+2016-04-20,Axiom Capital,Not Provided,1.0,sell,25.0
+2016-04-20,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-04-20,Morgan Stanley,12 month,5.0,Overwt/In-Line,74.0
+2016-04-20,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-04-20,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-04-20,Piper Jaffray,12 month,5.0,overweight,71.0
+2016-04-20,Avondale Partners LLC,12 month,3.0,market perform,53.0
+2016-04-20,Thompson Research Group,12 month,5.0,buy,95.0
+2016-04-21,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-04-21,Barclays,Not Provided,5.0,overweight,74.0
+2016-04-21,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-21,Morgan Stanley,12 month,5.0,Overwt/In-Line,75.0
+2016-04-21,Jefferies,12 month,5.0,buy,70.0
+2016-04-21,Piper Jaffray,12 month,5.0,overweight,75.0
+2016-04-21,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-04-22,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-04-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-04-22,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-04-24,Goldman Sachs,12 month,3.0,neutral/neutral,60.0
+2016-04-25,Macquarie,12 month,1.0,underperform,37.0
+2016-04-25,Avondale Partners LLC,Not Provided,3.0,market perform,58.0
+2016-04-26,Thompson Research Group,12 month,5.0,buy,95.0
+2016-04-26,RBC Capital Markets,12 month,3.0,sector perform,68.0
+2016-05-05,Goldman Sachs,12 month,1.0,Sell/Neutral,58.0
+2016-05-06,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-05-09,Avondale Partners LLC,Not Provided,3.0,market perform,58.0
+2016-05-09,Axiom Capital,Not Provided,1.0,sell,25.0
+2016-05-10,RBC Capital Markets,12 month,3.0,sector perform,68.0
+2016-05-13,Avondale Partners LLC,Not Provided,3.0,market perform,58.0
+2016-05-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-05-16,Axiom Capital,Not Provided,1.0,sell,25.0
+2016-05-16,Thompson Research Group,Not Provided,5.0,buy,95.0
+2016-05-16,RBC Capital Markets,12 month,3.0,sector perform,68.0
+2016-05-16,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-05-19,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-05-20,Piper Jaffray,12 month,5.0,overweight,75.0
+2016-05-23,Avondale Partners LLC,Not Provided,3.0,market perform,58.0
+2016-05-23,Axiom Capital,Not Provided,1.0,sell,25.0
+2016-05-25,Evercore ISI,Not Provided,3.0,hold,61.0
+2016-05-30,UBS,12 month,-2147483648.0,Under Review,56.0
+2016-05-31,Avondale Partners LLC,Not Provided,3.0,market perform,58.0
+2016-06-02,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-06-03,UBS,12 month,3.0,neutral,71.0
+2016-06-06,Axiom Capital,Not Provided,1.0,sell,25.0
+2016-06-06,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-06-09,RBC Capital Markets,12 month,3.0,sector perform,68.0
+2016-06-13,Thompson Research Group,Not Provided,5.0,buy,95.0
+2016-06-15,Avondale Partners LLC,Not Provided,3.0,market perform,58.0
+2016-06-15,RBC Capital Markets,12 month,3.0,sector perform,68.0
+2016-06-16,Axiom Capital,Not Provided,1.0,sell,25.0
+2016-06-20,Avondale Partners LLC,Not Provided,3.0,market perform,58.0
+2016-06-22,Piper Jaffray,12 month,5.0,overweight,80.0
+2016-06-24,RBC Capital Markets,12 month,3.0,sector perform,68.0
+2016-06-27,Avondale Partners LLC,Not Provided,3.0,market perform,58.0
+2016-06-27,Axiom Capital,Not Provided,1.0,sell,25.0
+2016-06-28,Morgan Stanley,12 month,5.0,Overwt/In-Line,75.0
+2016-07-01,Thompson Research Group,12 month,5.0,buy,95.0
+2016-07-01,RBC Capital Markets,12 month,3.0,sector perform,68.0
+2016-07-04,Axiom Capital,Not Provided,1.0,sell,25.0
+2016-07-05,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-07-11,Barclays,Not Provided,5.0,overweight,74.0
+2016-07-11,Avondale Partners LLC,Not Provided,3.0,market perform,58.0
+2016-07-11,Morgan Stanley,12 month,5.0,Overwt/In-Line,80.0
+2016-07-12,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-07-12,RBC Capital Markets,12 month,3.0,sector perform,68.0
+2016-07-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-07-18,Axiom Capital,Not Provided,1.0,sell,25.0
+2016-07-20,Evercore ISI,12 month,3.0,hold,61.0
+2016-07-20,Thompson Research Group,12 month,5.0,buy,95.0
+2016-07-21,Goldman Sachs,12 month,1.0,Sell/Neutral,61.0
+2016-07-21,Avondale Partners LLC,12 month,3.0,market perform,75.0
+2016-07-21,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-21,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-07-21,Barclays,Not Provided,5.0,overweight,81.0
+2016-07-21,UBS,12 month,3.0,neutral,73.0
+2016-07-22,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-07-22,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-07-22,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-07-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-07-22,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2016-07-22,Morgan Stanley,12 month,5.0,Overwt/In-Line,86.0
+2016-07-22,Jefferies,12 month,5.0,buy,88.0
+2016-07-22,Piper Jaffray,12 month,5.0,overweight,92.0
+2016-07-23,Macquarie,12 month,1.0,underperform,37.0
+2016-07-25,Axiom Capital,Not Provided,1.0,sell,25.0
+2016-07-26,Thompson Research Group,12 month,5.0,buy,95.0
+2016-07-26,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2016-08-01,Axiom Capital,Not Provided,1.0,sell,25.0
+2016-08-08,Evercore ISI,Not Provided,3.0,hold,73.0
+2016-08-12,Avondale Partners LLC,Not Provided,3.0,market perform,75.0
+2016-08-12,Jefferies,12 month,5.0,buy,88.0
+2016-08-12,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-08-17,Piper Jaffray,12 month,5.0,overweight,92.0
+2016-08-19,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-08-22,Axiom Capital,Not Provided,1.0,sell,45.0
+2016-08-22,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-08-24,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2016-09-01,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-09-05,Morgan Stanley,12 month,5.0,Overwt/In-Line,86.0
+2016-09-05,Axiom Capital,Not Provided,1.0,sell,45.0
+2016-09-07,Jefferies,12 month,5.0,buy,88.0
+2016-09-07,Thompson Research Group,12 month,5.0,buy,95.0
+2016-09-12,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-09-12,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2016-09-16,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-09-19,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-09-19,Axiom Capital,Not Provided,1.0,sell,45.0
+2016-09-26,Axiom Capital,Not Provided,1.0,sell,45.0
+2016-09-26,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-09-27,Thompson Research Group,12 month,5.0,buy,95.0
+2016-09-29,Piper Jaffray,12 month,5.0,overweight,92.0
+2016-09-30,Stifel,12 month,3.0,hold,81.0
+2016-10-06,Thompson Research Group,12 month,5.0,buy,95.0
+2016-10-10,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-10-10,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-10-10,Axiom Capital,Not Provided,1.0,sell,45.0
+2016-10-10,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-10-10,Argus Research Corp,Not Provided,5.0,buy,90.0
+2016-10-10,Goldman Sachs,12 month,1.0,sell/attractive,61.0
+2016-10-11,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2016-10-11,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-10-12,Jefferies,12 month,5.0,buy,92.0
+2016-10-12,Barclays,Not Provided,5.0,overweight,94.0
+2016-10-14,UBS,12 month,1.0,sell,70.0
+2016-10-14,Thompson Research Group,Not Provided,5.0,buy,95.0
+2016-10-16,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-10-17,Axiom Capital,Not Provided,1.0,sell,45.0
+2016-10-19,Evercore ISI,Not Provided,3.0,hold,73.0
+2016-10-20,Jefferies,12 month,5.0,buy,92.0
+2016-10-20,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2016-10-20,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-10-20,Piper Jaffray,12 month,5.0,overweight,95.0
+2016-10-20,Goldman Sachs,12 month,1.0,sell/attractive,66.0
+2016-10-20,Barclays,Not Provided,5.0,overweight,96.0
+2016-10-21,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2016-10-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-10-21,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-10-21,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-10-21,Macquarie,12 month,1.0,underperform,37.0
+2016-10-21,Argus Research Corp,12 month,5.0,buy,90.0
+2016-10-24,Axiom Capital,Not Provided,1.0,sell,45.0
+2016-10-24,Thompson Research Group,12 month,5.0,buy,95.0
+2016-10-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,81.0
+2016-10-26,Argus Research Corp,Not Provided,5.0,buy,90.0
+2016-10-27,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2016-11-04,Axiom Capital,12 month,1.0,sell,46.0
+2016-11-06,Evercore ISI,Not Provided,3.0,hold,77.0
+2016-11-07,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-11-07,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-11-10,Goldman Sachs,12 month,3.0,neutral/attractive,90.0
+2016-11-14,Axiom Capital,12 month,1.0,sell,46.0
+2016-11-14,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-11-15,Macquarie,12 month,1.0,underperform,42.0
+2016-11-18,Morgan Stanley,12 month,3.0,Equalwt/In-Line,88.0
+2016-11-21,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-11-23,Piper Jaffray,12 month,5.0,overweight,112.0
+2016-11-23,Axiom Capital,Not Provided,1.0,sell,46.0
+2016-11-29,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-11-29,Jefferies,Not Provided,5.0,buy,115.0
+2016-11-30,Avondale Partners LLC,Not Provided,3.0,market perform,85.0
+2016-12-01,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-12-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2016-12-02,Vertical Research Partners,Not Provided,5.0,buy,130.0
+2016-12-02,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-12-02,Jefferies,12 month,5.0,buy,115.0
+2016-12-02,Barclays,Not Provided,5.0,overweight,120.0
+2016-12-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,88.0
+2016-12-02,Piper Jaffray,12 month,5.0,overweight,112.0
+2016-12-02,Stifel,12 month,3.0,hold,112.0
+2016-12-05,Axiom Capital,Not Provided,1.0,sell,46.0
+2016-12-06,RBC Capital Markets,12 month,3.0,sector perform,95.0
+2016-12-08,Stifel,Not Provided,3.0,hold,112.0
+2016-12-09,Avondale Partners LLC,Not Provided,3.0,market perform,110.0
+2016-12-11,Goldman Sachs,12 month,3.0,neutral/attractive,110.0
+2016-12-12,Axiom Capital,Not Provided,1.0,sell,46.0
+2016-12-14,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-12-15,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-12-16,Avondale Partners LLC,Not Provided,3.0,market perform,110.0
+2016-12-17,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2016-12-19,Axiom Capital,Not Provided,1.0,sell,46.0
+2016-12-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,95.0
+2016-12-19,UBS,12 month,3.0,neutral,112.0
+2016-12-23,Piper Jaffray,12 month,5.0,overweight,129.0
+2016-12-26,Axiom Capital,Not Provided,1.0,sell,-0.0
+2016-12-27,RBC Capital Markets,12 month,3.0,sector perform,95.0
+2016-12-29,Avondale Partners LLC,Not Provided,3.0,market perform,110.0
+2017-01-02,Evercore ISI,Not Provided,3.0,hold,118.0
+2017-01-02,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-01-09,Barclays,Not Provided,5.0,overweight,120.0
+2017-01-09,Morgan Stanley,12 month,3.0,Equalwt/In-Line,112.0
+2017-01-09,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-01-09,Thompson Research Group,12 month,5.0,buy,122.0
+2017-01-10,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-01-12,RBC Capital Markets,12 month,3.0,sector perform,95.0
+2017-01-13,Avondale Partners LLC,Not Provided,3.0,market perform,110.0
+2017-01-13,RBC Capital Markets,12 month,3.0,sector perform,100.0
+2017-01-20,Jefferies,12 month,5.0,buy,130.0
+2017-01-23,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-01-24,Thompson Research Group,12 month,5.0,buy,122.0
+2017-01-25,Barclays,Not Provided,5.0,overweight,128.0
+2017-01-25,Piper Jaffray,12 month,5.0,overweight,150.0
+2017-01-25,Evercore ISI,12 month,3.0,hold,118.0
+2017-01-26,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-01-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-01-26,Stifel,12 month,3.0,hold,130.0
+2017-01-26,RBC Capital Markets,12 month,3.0,sector perform,100.0
+2017-01-26,Jefferies,12 month,5.0,buy,130.0
+2017-01-27,Morgan Stanley,12 month,3.0,Equalwt/In-Line,123.0
+2017-01-27,Avondale Partners LLC,Not Provided,4.0,market outperform,145.0
+2017-01-27,UBS,12 month,3.0,neutral,117.0
+2017-01-27,Macquarie,12 month,1.0,underperform,95.0
+2017-01-27,Longbow Research,Not Provided,3.0,neutral,-0.0
+2017-01-27,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2017-01-27,Goldman Sachs,12 month,3.0,neutral/attractive,126.0
+2017-01-27,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-01-27,Vertical Research Partners,Not Provided,5.0,buy,150.0
+2017-01-29,Avondale Partners LLC,Not Provided,4.0,market outperform,145.0
+2017-01-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-01-30,Jefferies,12 month,5.0,buy,150.0
+2017-01-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-01-31,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-01-31,RBC Capital Markets,12 month,3.0,sector perform,130.0
+2017-02-02,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2017-02-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,128.0
+2017-02-10,RBC Capital Markets,12 month,3.0,sector perform,130.0
+2017-02-10,Evercore ISI,Not Provided,3.0,hold,134.0
+2017-02-15,Avondale Partners LLC,Not Provided,4.0,market outperform,145.0
+2017-02-15,Vertical Research Partners,Not Provided,5.0,buy,150.0
+2017-02-15,Jefferies,12 month,5.0,buy,150.0
+2017-02-24,Avondale Partners LLC,Not Provided,4.0,market outperform,145.0
+2017-02-27,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-02-27,RBC Capital Markets,Not Provided,3.0,sector perform,130.0
+2017-03-01,Macquarie,12 month,1.0,underperform,95.0
+2017-03-02,Evercore ISI,Not Provided,3.0,in-line,134.0
+2017-03-02,Jefferies,12 month,5.0,buy,150.0
+2017-03-03,Thompson Research Group,12 month,5.0,buy,122.0
+2017-03-06,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-03-09,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-03-10,RBC Capital Markets,12 month,3.0,sector perform,130.0
+2017-03-16,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2017-03-16,RBC Capital Markets,12 month,3.0,sector perform,130.0
+2017-03-16,Piper Jaffray,12 month,5.0,overweight,156.0
+2017-03-20,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-03-20,Avondale Partners LLC,12 month,4.0,market outperform,145.0
+2017-03-22,Piper Jaffray,12 month,5.0,overweight,156.0
+2017-03-23,Avondale Partners LLC,Not Provided,4.0,market outperform,145.0
+2017-03-24,RBC Capital Markets,12 month,3.0,sector perform,130.0
+2017-03-27,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-03-28,Thompson Research Group,12 month,5.0,buy,138.0
+2017-04-03,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-04-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,128.0
+2017-04-06,Macquarie,12 month,1.0,underperform,95.0
+2017-04-09,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-04-10,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-04-11,Vertical Research Partners,Not Provided,5.0,buy,150.0
+2017-04-13,Jefferies,12 month,5.0,buy,150.0
+2017-04-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2017-04-17,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-04-17,UBS,12 month,3.0,neutral,121.0
+2017-04-17,Barclays,Not Provided,5.0,overweight,128.0
+2017-04-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,129.0
+2017-04-18,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2017-04-18,Piper Jaffray,12 month,5.0,overweight,156.0
+2017-04-20,Morgan Stanley,12 month,3.0,Equalwt/In-Line,127.0
+2017-04-20,Goldman Sachs,12 month,3.0,neutral/attractive,121.0
+2017-04-20,Stifel,12 month,3.0,hold,130.0
+2017-04-20,Piper Jaffray,12 month,5.0,overweight,144.0
+2017-04-20,Barclays,Not Provided,5.0,overweight,128.0
+2017-04-20,Vertical Research Partners,Not Provided,5.0,buy,140.0
+2017-04-20,Evercore ISI,12 month,3.0,in-line,134.0
+2017-04-20,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-04-21,Longbow Research,Not Provided,3.0,neutral,-0.0
+2017-04-21,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2017-04-21,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-04-21,Macquarie,12 month,1.0,underperform,90.0
+2017-04-24,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-04-24,Jefferies,12 month,5.0,buy,150.0
+2017-04-24,Thompson Research Group,12 month,5.0,buy,138.0
+2017-04-25,RBC Capital Markets,12 month,3.0,sector perform,128.0
+2017-04-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-26,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2017-04-26,Thompson Research Group,12 month,5.0,buy,138.0
+2017-05-01,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-05-02,Macquarie,12 month,1.0,underperform,90.0
+2017-05-03,Macquarie,12 month,1.0,underperform,90.0
+2017-05-07,Jefferies,12 month,5.0,buy,150.0
+2017-05-08,Evercore ISI,Not Provided,5.0,outperform,134.0
+2017-05-08,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-05-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-11,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-15,Axiom Capital,Not Provided,1.0,sell,-0.0
+2017-05-16,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-05-22,Axiom Capital,Not Provided,1.0,sell,-0.0

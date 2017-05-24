@@ -1,0 +1,452 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-05-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-05-06,Raymond James,12 month,5.0,strong buy,94.0
+2015-05-07,MKM Partners,12 month,5.0,buy,95.0
+2015-05-07,D.A. Davidson & Co,Not Provided,5.0,buy,100.0
+2015-05-07,Craig-Hallum Capital Group LLC,12 month,5.0,buy,90.0
+2015-05-07,Needham & Co,12 month,5.0,buy,88.0
+2015-05-08,Northland Securities Inc,12 month,5.0,outperform,88.5
+2015-05-12,Barclays,Not Provided,3.0,equalweight,80.0
+2015-05-19,Canaccord Genuity,Not Provided,5.0,buy,89.0
+2015-05-22,Goldman Sachs,12 month,5.0,Buy/Cautious,98.0
+2015-05-29,BMO Capital Markets,Not Provided,5.0,outperform,97.0
+2015-06-02,Pacific Crest Securities,12 month,5.0,overweight,85.0
+2015-06-04,Ascendiant Capital Markets,Not Provided,5.0,buy,90.0
+2015-06-05,Stephens Inc,12 month,5.0,overweight,95.0
+2015-06-09,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-06-10,Brean Capital LLC,12 month,5.0,buy,95.0
+2015-06-16,Brean Capital LLC,12 month,5.0,buy,95.0
+2015-06-17,Canaccord Genuity,Not Provided,5.0,buy,89.0
+2015-06-24,Brean Capital LLC,12 month,5.0,buy,95.0
+2015-06-29,Pacific Crest Securities,Not Provided,5.0,overweight,85.0
+2015-07-07,Canaccord Genuity,12 month,5.0,buy,89.0
+2015-07-09,Brean Capital LLC,12 month,5.0,buy,95.0
+2015-07-12,Pacific Crest Securities,Not Provided,5.0,overweight,85.0
+2015-07-14,Mizuho Securities USA Inc,12 month,5.0,buy,92.0
+2015-07-15,BMO Capital Markets,Not Provided,5.0,outperform,97.0
+2015-07-17,Stephens Inc,12 month,5.0,overweight,95.0
+2015-07-17,MKM Partners,12 month,5.0,buy,95.0
+2015-07-20,Pacific Crest Securities,12 month,5.0,overweight,85.0
+2015-07-20,Brean Capital LLC,12 month,5.0,buy,95.0
+2015-07-22,Brean Capital LLC,12 month,5.0,buy,92.0
+2015-07-27,Mizuho Securities USA Inc,12 month,5.0,buy,92.0
+2015-07-29,Canaccord Genuity,12 month,5.0,buy,77.0
+2015-07-29,Mizuho Securities USA Inc,12 month,5.0,buy,80.0
+2015-07-29,Ascendiant Capital Markets,12 month,5.0,buy,80.0
+2015-07-29,Pacific Crest Securities,12 month,5.0,overweight,80.0
+2015-07-30,BMO Capital Markets,Not Provided,5.0,outperform,80.0
+2015-07-30,Raymond James,12 month,5.0,strong buy,84.0
+2015-07-30,Stephens Inc,12 month,5.0,overweight,95.0
+2015-07-30,Goldman Sachs,12 month,5.0,Buy/Cautious,84.0
+2015-07-30,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-07-30,Brean Capital LLC,12 month,5.0,buy,80.0
+2015-07-30,Craig-Hallum Capital Group LLC,12 month,5.0,buy,80.0
+2015-07-30,Northland Securities Inc,12 month,5.0,outperform,75.0
+2015-07-30,Barclays,Not Provided,3.0,equalweight,65.0
+2015-07-30,D.A. Davidson & Co,Not Provided,5.0,buy,90.0
+2015-07-30,Needham & Co,12 month,5.0,buy,82.0
+2015-07-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-07-30,MKM Partners,12 month,5.0,buy,77.0
+2015-08-04,Mizuho Securities USA Inc,Not Provided,5.0,buy,80.0
+2015-08-04,BMO Capital Markets,Not Provided,5.0,outperform,80.0
+2015-08-11,Pacific Crest Securities,12 month,5.0,overweight,80.0
+2015-08-12,Goldman Sachs,12 month,5.0,Buy/Cautious,73.0
+2015-08-13,Canaccord Genuity,12 month,5.0,buy,77.0
+2015-08-14,Stephens Inc,12 month,5.0,overweight,95.0
+2015-08-17,Raymond James,12 month,5.0,strong buy,84.0
+2015-08-24,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-09-04,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-09-07,Pacific Crest Securities,Not Provided,5.0,overweight,70.0
+2015-09-08,Brean Capital LLC,12 month,5.0,buy,80.0
+2015-09-09,Mizuho Securities USA Inc,Not Provided,5.0,buy,80.0
+2015-09-11,Pacific Crest Securities,Not Provided,5.0,overweight,70.0
+2015-09-14,Brean Capital LLC,12 month,5.0,buy,80.0
+2015-09-18,Brean Capital LLC,12 month,5.0,buy,80.0
+2015-09-21,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-09-22,Mizuho Securities USA Inc,12 month,5.0,buy,80.0
+2015-09-24,Needham & Co,12 month,5.0,buy,68.0
+2015-09-25,Craig-Hallum Capital Group LLC,12 month,5.0,buy,80.0
+2015-09-25,Canaccord Genuity,12 month,5.0,buy,77.0
+2015-09-25,MKM Partners,12 month,5.0,buy,77.0
+2015-09-25,Mizuho Securities USA Inc,Not Provided,5.0,buy,80.0
+2015-09-27,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2015-09-29,Goldman Sachs,12 month,5.0,Buy/Cautious,65.0
+2015-09-29,Brean Capital LLC,12 month,5.0,buy,80.0
+2015-09-30,Northland Securities Inc,12 month,5.0,outperform,75.0
+2015-10-13,Barclays,Not Provided,3.0,equalweight,50.0
+2015-10-13,Stephens Inc,12 month,5.0,overweight,95.0
+2015-10-13,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2015-10-13,Brean Capital LLC,12 month,5.0,buy,80.0
+2015-10-15,Mizuho Securities USA Inc,12 month,5.0,buy,70.0
+2015-10-19,Brean Capital LLC,12 month,5.0,buy,80.0
+2015-10-19,Drexel Hamilton LLC,12 month,5.0,buy,80.0
+2015-10-21,MKM Partners,12 month,5.0,buy,72.0
+2015-10-27,Mizuho Securities USA Inc,Not Provided,5.0,buy,70.0
+2015-10-27,BMO Capital Markets,Not Provided,5.0,outperform,80.0
+2015-10-28,Raymond James,12 month,5.0,strong buy,77.0
+2015-11-02,Mizuho Securities USA Inc,12 month,5.0,buy,70.0
+2015-11-02,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2015-11-03,MKM Partners,12 month,5.0,buy,72.0
+2015-11-03,D.A. Davidson & Co,12 month,5.0,buy,80.0
+2015-11-05,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2015-11-05,Canaccord Genuity,12 month,5.0,buy,77.0
+2015-11-05,Mizuho Securities USA Inc,12 month,5.0,buy,70.0
+2015-11-06,Stephens Inc,12 month,5.0,overweight,95.0
+2015-11-06,Brean Capital LLC,12 month,5.0,buy,70.0
+2015-11-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-11-06,Needham & Co,12 month,5.0,buy,64.0
+2015-11-06,D.A. Davidson & Co,Not Provided,5.0,buy,80.0
+2015-11-06,Raymond James,12 month,5.0,strong buy,77.0
+2015-11-06,Barclays,Not Provided,3.0,equalweight,46.0
+2015-11-06,Drexel Hamilton LLC,12 month,5.0,buy,80.0
+2015-11-06,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-11-06,Craig-Hallum Capital Group LLC,12 month,5.0,buy,80.0
+2015-11-06,MKM Partners,12 month,5.0,buy,71.0
+2015-11-06,Northland Securities Inc,12 month,5.0,outperform,75.0
+2015-11-09,BMO Capital Markets,Not Provided,5.0,outperform,68.0
+2015-11-13,Brean Capital LLC,12 month,5.0,buy,70.0
+2015-11-15,Mizuho Securities USA Inc,Not Provided,5.0,buy,65.0
+2015-11-16,Stephens Inc,12 month,5.0,overweight,95.0
+2015-11-17,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-11-17,Canaccord Genuity,12 month,5.0,buy,77.0
+2015-11-17,Raymond James,12 month,5.0,strong buy,77.0
+2015-11-17,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2015-11-17,MKM Partners,12 month,5.0,buy,71.0
+2015-11-17,BMO Capital Markets,Not Provided,5.0,outperform,68.0
+2015-11-18,D.A. Davidson & Co,Not Provided,5.0,buy,80.0
+2015-11-18,JMP Securities,12 month,4.0,market outperform,72.0
+2015-11-18,Stephens Inc,12 month,5.0,overweight,95.0
+2015-11-18,Drexel Hamilton LLC,12 month,5.0,buy,80.0
+2015-11-18,Needham & Co,12 month,5.0,buy,64.0
+2015-11-18,Mizuho Securities USA Inc,12 month,5.0,buy,65.0
+2015-11-18,Barclays,Not Provided,3.0,equalweight,46.0
+2015-11-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-20,Raymond James,12 month,5.0,strong buy,77.0
+2015-11-23,Brean Capital LLC,12 month,5.0,buy,70.0
+2015-11-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-06,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2015-12-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-09,Raymond James,12 month,5.0,strong buy,77.0
+2015-12-10,Brean Capital LLC,12 month,5.0,buy,70.0
+2015-12-10,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2015-12-16,Mizuho Securities USA Inc,12 month,5.0,buy,65.0
+2015-12-16,BMO Capital Markets,Not Provided,5.0,outperform,68.0
+2015-12-17,Needham & Co,12 month,5.0,buy,64.0
+2015-12-28,Mizuho Securities USA Inc,12 month,5.0,buy,65.0
+2016-01-07,Mizuho Securities USA Inc,12 month,5.0,buy,50.0
+2016-01-07,Goldman Sachs,12 month,5.0,Buy/Cautious,58.0
+2016-01-07,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-01-08,Needham & Co,12 month,5.0,buy,55.0
+2016-01-08,Stephens Inc,12 month,5.0,overweight,70.0
+2016-01-08,Raymond James,Not Provided,5.0,strong buy,55.0
+2016-01-08,BMO Capital Markets,Not Provided,5.0,outperform,55.0
+2016-01-08,Barclays,Not Provided,3.0,equalweight,46.0
+2016-01-08,Drexel Hamilton LLC,12 month,5.0,buy,72.0
+2016-01-08,Craig-Hallum Capital Group LLC,12 month,5.0,buy,60.0
+2016-01-08,JMP Securities,Not Provided,4.0,market outperform,72.0
+2016-01-08,Canaccord Genuity,Not Provided,5.0,buy,62.0
+2016-01-08,Brean Capital LLC,Not Provided,5.0,buy,55.0
+2016-01-08,D.A. Davidson & Co,Not Provided,5.0,buy,75.0
+2016-01-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-08,MKM Partners,12 month,5.0,buy,66.0
+2016-01-10,BMO Capital Markets,Not Provided,5.0,outperform,55.0
+2016-01-13,Brean Capital LLC,Not Provided,5.0,buy,55.0
+2016-01-14,MKM Partners,12 month,5.0,buy,66.0
+2016-01-14,Northland Securities Inc,Not Provided,5.0,outperform,55.0
+2016-01-15,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-17,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-01-18,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-01-21,D.A. Davidson & Co,12 month,5.0,buy,75.0
+2016-01-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-27,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-01-27,MKM Partners,12 month,5.0,buy,66.0
+2016-01-27,Stephens Inc,12 month,5.0,overweight,70.0
+2016-01-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-31,BMO Capital Markets,Not Provided,5.0,outperform,55.0
+2016-02-01,Mizuho Securities USA Inc,12 month,5.0,buy,50.0
+2016-02-02,Goldman Sachs,12 month,3.0,neutral/neutral,42.0
+2016-02-04,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-02-04,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-04,Raymond James,12 month,5.0,strong buy,55.0
+2016-02-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-02-04,Canaccord Genuity,Not Provided,5.0,buy,55.0
+2016-02-05,Brean Capital LLC,12 month,5.0,buy,55.0
+2016-02-05,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2016-02-05,Barclays,Not Provided,3.0,equalweight,46.0
+2016-02-05,D.A. Davidson & Co,Not Provided,5.0,buy,65.0
+2016-02-05,MKM Partners,12 month,5.0,buy,65.0
+2016-02-05,Craig-Hallum Capital Group LLC,12 month,5.0,buy,56.0
+2016-02-05,Northland Securities Inc,12 month,5.0,outperform,55.0
+2016-02-05,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-02-05,Stephens Inc,12 month,5.0,overweight,70.0
+2016-02-07,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2016-02-08,Mizuho Securities USA Inc,Not Provided,5.0,buy,50.0
+2016-02-09,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-02-10,Needham & Co,12 month,5.0,buy,54.0
+2016-02-15,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2016-02-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-22,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-02-23,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2016-02-23,Needham & Co,12 month,5.0,buy,54.0
+2016-02-23,Brean Capital LLC,12 month,5.0,buy,55.0
+2016-02-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-02-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-28,Canaccord Genuity,12 month,5.0,buy,55.0
+2016-02-28,Mizuho Securities USA Inc,Not Provided,5.0,buy,50.0
+2016-02-28,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-02-28,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2016-03-02,Brean Capital LLC,12 month,5.0,buy,55.0
+2016-03-04,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2016-03-06,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-03-07,Goldman Sachs,12 month,3.0,neutral/neutral,47.0
+2016-03-09,Raymond James,12 month,5.0,strong buy,60.0
+2016-03-11,Brean Capital LLC,12 month,5.0,buy,55.0
+2016-03-13,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2016-03-14,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-03-28,Mizuho Securities USA Inc,Not Provided,5.0,buy,50.0
+2016-03-28,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2016-03-28,Barclays,Not Provided,3.0,equalweight,50.0
+2016-03-30,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-03-31,Mizuho Securities USA Inc,Not Provided,5.0,buy,50.0
+2016-04-04,Stephens Inc,12 month,5.0,overweight,70.0
+2016-04-07,MKM Partners,12 month,5.0,buy,63.0
+2016-04-11,Mizuho Securities USA Inc,Not Provided,5.0,buy,55.0
+2016-04-13,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-04-14,Stephens Inc,12 month,5.0,overweight,70.0
+2016-04-14,Brean Capital LLC,12 month,5.0,buy,55.0
+2016-04-18,Cowen,12 month,3.0,market perform,50.0
+2016-04-18,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2016-04-19,Raymond James,12 month,5.0,outperform,53.0
+2016-04-20,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-04-24,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-04-27,Needham & Co,12 month,5.0,buy,50.0
+2016-04-27,Mizuho Securities USA Inc,Not Provided,5.0,buy,55.0
+2016-05-02,Goldman Sachs,12 month,3.0,neutral/neutral,44.0
+2016-05-03,Cowen,Not Provided,3.0,market perform,50.0
+2016-05-04,D.A. Davidson & Co,12 month,5.0,buy,65.0
+2016-05-04,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-05-04,Stephens Inc,12 month,5.0,overweight,70.0
+2016-05-04,BMO Capital Markets,Not Provided,5.0,outperform,57.0
+2016-05-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-05-04,Mizuho Securities USA Inc,12 month,5.0,buy,55.0
+2016-05-04,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2016-05-04,Raymond James,12 month,5.0,outperform,51.0
+2016-05-04,Canaccord Genuity,Not Provided,5.0,buy,60.0
+2016-05-05,Stephens Inc,12 month,5.0,overweight,70.0
+2016-05-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-05,Brean Capital LLC,Not Provided,5.0,buy,62.0
+2016-05-05,Craig-Hallum Capital Group LLC,12 month,5.0,buy,58.0
+2016-05-05,Barclays,Not Provided,3.0,equalweight,50.0
+2016-05-05,Goldman Sachs,12 month,3.0,neutral/neutral,48.0
+2016-05-05,Needham & Co,12 month,5.0,buy,53.0
+2016-05-05,D.A. Davidson & Co,Not Provided,5.0,buy,70.0
+2016-05-05,Northland Securities Inc,12 month,5.0,outperform,55.0
+2016-05-08,BMO Capital Markets,Not Provided,5.0,outperform,57.0
+2016-05-08,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-05-09,Cowen,Not Provided,3.0,market perform,55.0
+2016-05-11,MKM Partners,12 month,5.0,buy,64.0
+2016-05-12,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-05-13,Stephens Inc,12 month,5.0,overweight,70.0
+2016-05-15,BMO Capital Markets,Not Provided,5.0,outperform,57.0
+2016-05-20,Brean Capital LLC,12 month,5.0,buy,62.0
+2016-05-27,BMO Capital Markets,Not Provided,5.0,outperform,66.0
+2016-05-30,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-06-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-06-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-06-09,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-06-09,Stephens Inc,12 month,5.0,overweight,70.0
+2016-06-09,BMO Capital Markets,Not Provided,5.0,outperform,66.0
+2016-06-14,Brean Capital LLC,12 month,5.0,buy,62.0
+2016-06-20,Goldman Sachs,12 month,3.0,neutral/neutral,50.0
+2016-06-27,Morgan Stanley,12 month,3.0,Equalwt/In-Line,56.0
+2016-06-28,Northland Securities Inc,12 month,5.0,outperform,55.0
+2016-06-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-06-30,Mizuho Securities USA Inc,12 month,3.0,neutral,55.0
+2016-07-05,Cowen,Not Provided,3.0,market perform,55.0
+2016-07-05,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-07-06,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2016-07-07,Stephens Inc,12 month,5.0,overweight,70.0
+2016-07-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-17,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-07-22,Cowen,12 month,3.0,market perform,65.0
+2016-08-02,Mizuho Securities USA Inc,12 month,3.0,neutral,58.0
+2016-08-02,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-08-02,Canaccord Genuity,Not Provided,5.0,buy,67.0
+2016-08-02,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-08-03,Brean Capital LLC,Not Provided,5.0,buy,62.0
+2016-08-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-03,Craig-Hallum Capital Group LLC,12 month,5.0,buy,68.0
+2016-08-03,Cowen,12 month,3.0,market perform,65.0
+2016-08-03,Stephens Inc,12 month,5.0,overweight,70.0
+2016-08-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,56.0
+2016-08-03,Goldman Sachs,12 month,3.0,neutral/neutral,55.0
+2016-08-03,Needham & Co,12 month,5.0,buy,63.0
+2016-08-03,D.A. Davidson & Co,12 month,5.0,buy,67.0
+2016-08-03,BMO Capital Markets,Not Provided,5.0,outperform,66.0
+2016-08-03,Drexel Hamilton LLC,12 month,5.0,buy,72.0
+2016-08-03,Barclays,Not Provided,3.0,equalweight,50.0
+2016-08-03,MKM Partners,12 month,5.0,buy,70.0
+2016-08-03,Raymond James,12 month,5.0,outperform,62.0
+2016-08-03,Northland Securities Inc,12 month,5.0,outperform,65.0
+2016-08-14,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-08-15,Brean Capital LLC,12 month,5.0,buy,62.0
+2016-08-23,Mizuho Securities USA Inc,12 month,3.0,neutral,58.0
+2016-08-25,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-08-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-31,Cowen,Not Provided,3.0,market perform,65.0
+2016-09-07,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-09-07,Mizuho Securities USA Inc,Not Provided,3.0,neutral,58.0
+2016-09-08,Craig-Hallum Capital Group LLC,12 month,5.0,buy,68.0
+2016-09-12,Cowen,Not Provided,3.0,market perform,65.0
+2016-09-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-12,Brean Capital LLC,12 month,5.0,buy,62.0
+2016-09-13,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-09-15,Stephens Inc,12 month,5.0,overweight,70.0
+2016-09-16,Craig-Hallum Capital Group LLC,12 month,5.0,buy,68.0
+2016-09-19,Canaccord Genuity,12 month,5.0,buy,67.0
+2016-09-20,Brean Capital LLC,Not Provided,5.0,buy,62.0
+2016-09-25,Mizuho Securities USA Inc,Not Provided,3.0,neutral,58.0
+2016-10-07,MKM Partners,12 month,5.0,buy,71.0
+2016-10-09,Goldman Sachs,12 month,3.0,neutral/neutral,60.0
+2016-10-11,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-10-12,Brean Capital LLC,12 month,5.0,buy,62.0
+2016-10-13,Mizuho Securities USA Inc,12 month,3.0,neutral,58.0
+2016-10-13,Stephens Inc,12 month,5.0,overweight,70.0
+2016-10-20,Brean Capital LLC,Not Provided,5.0,buy,62.0
+2016-10-24,J.P. Morgan,18 month,5.0,overweight,72.0
+2016-10-25,Canaccord Genuity,Not Provided,5.0,buy,67.0
+2016-10-26,Northland Securities Inc,12 month,5.0,outperform,65.0
+2016-10-26,Mizuho Securities USA Inc,Not Provided,3.0,neutral,58.0
+2016-10-30,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-10-31,Cowen,12 month,3.0,market perform,65.0
+2016-11-03,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-11-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-03,Canaccord Genuity,12 month,5.0,buy,67.0
+2016-11-03,Cowen,12 month,3.0,market perform,53.0
+2016-11-03,Mizuho Securities USA Inc,12 month,3.0,neutral,54.0
+2016-11-04,D.A. Davidson & Co,12 month,5.0,buy,65.0
+2016-11-04,MKM Partners,Not Provided,5.0,buy,64.0
+2016-11-04,Raymond James,12 month,5.0,outperform,56.0
+2016-11-04,Craig-Hallum Capital Group LLC,12 month,5.0,buy,68.0
+2016-11-04,Northland Securities Inc,12 month,5.0,outperform,60.0
+2016-11-04,Brean Capital LLC,Not Provided,5.0,buy,60.0
+2016-11-04,Stephens Inc,12 month,5.0,overweight,70.0
+2016-11-04,Needham & Co,12 month,5.0,buy,62.0
+2016-11-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-11-04,BMO Capital Markets,Not Provided,5.0,outperform,61.0
+2016-11-04,Drexel Hamilton LLC,12 month,5.0,buy,72.0
+2016-11-04,Barclays,Not Provided,3.0,equalweight,50.0
+2016-11-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,53.0
+2016-11-04,Goldman Sachs,12 month,3.0,neutral/neutral,54.0
+2016-11-04,J.P. Morgan,18 month,5.0,overweight,70.0
+2016-11-09,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-11-18,Morgan Stanley,12 month,3.0,Equalwt/In-Line,53.0
+2016-11-22,MKM Partners,Not Provided,5.0,buy,64.0
+2016-11-28,Stephens Inc,12 month,5.0,overweight,70.0
+2016-12-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-01,Mizuho Securities USA Inc,Not Provided,3.0,neutral,54.0
+2016-12-01,Brean Capital LLC,12 month,5.0,buy,60.0
+2016-12-04,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-12-05,Raymond James,12 month,5.0,outperform,56.0
+2016-12-11,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-12-13,Canaccord Genuity,12 month,5.0,buy,67.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-12-19,MKM Partners,Not Provided,-2147483648.0,suspended coverage,-0.0
+2017-01-05,Craig-Hallum Capital Group LLC,12 month,5.0,buy,68.0
+2017-01-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-12,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-01-17,Raymond James,12 month,5.0,outperform,65.0
+2017-01-18,Barclays,Not Provided,3.0,equalweight,60.0
+2017-01-18,Stephens Inc,12 month,5.0,overweight,70.0
+2017-01-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-01,Canaccord Genuity,12 month,5.0,buy,73.0
+2017-02-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-02-01,Mizuho Securities USA Inc,12 month,3.0,neutral,56.0
+2017-02-01,Raymond James,12 month,5.0,outperform,64.0
+2017-02-01,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-02-02,Stephens Inc,12 month,5.0,overweight,70.0
+2017-02-02,Drexel Hamilton LLC,12 month,5.0,buy,72.0
+2017-02-02,Barclays,Not Provided,3.0,equalweight,60.0
+2017-02-02,Goldman Sachs,12 month,3.0,neutral/neutral,57.0
+2017-02-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,56.0
+2017-02-02,Craig-Hallum Capital Group LLC,12 month,5.0,buy,68.0
+2017-02-02,D.A. Davidson & Co,12 month,5.0,buy,70.0
+2017-02-02,J.P. Morgan,12 month,5.0,overweight,70.0
+2017-02-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-02,Needham & Co,12 month,5.0,buy,70.0
+2017-02-02,Northland Securities Inc,12 month,5.0,outperform,70.0
+2017-02-02,BMO Capital Markets,Not Provided,3.0,market perform,58.0
+2017-02-03,Cowen,Not Provided,3.0,market perform,60.0
+2017-02-13,CM Research,Not Provided,5.0,buy,79.54
+2017-02-23,MKM Partners,Not Provided,5.0,buy,78.0
+2017-02-27,Raymond James,12 month,5.0,outperform,73.0
+2017-02-27,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-02-28,Needham & Co,12 month,5.0,buy,70.0
+2017-03-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-03-01,MKM Partners,Not Provided,5.0,buy,78.0
+2017-03-05,Canaccord Genuity,12 month,5.0,buy,79.0
+2017-03-05,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-03-07,Raymond James,12 month,5.0,outperform,73.0
+2017-03-07,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-03-09,Mizuho Securities USA Inc,12 month,3.0,neutral,56.0
+2017-03-09,Stephens Inc,12 month,5.0,overweight,75.0
+2017-03-12,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-03-15,Mizuho Securities USA Inc,12 month,3.0,neutral,56.0
+2017-03-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-03-29,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-03-30,J.P. Morgan,9 month,5.0,overweight,85.0
+2017-03-31,Macquarie,12 month,3.0,neutral,70.0
+2017-04-02,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-02,Cowen,Not Provided,3.0,market perform,60.0
+2017-04-02,BMO Capital Markets,Not Provided,3.0,market perform,67.0
+2017-04-04,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-04-05,Northland Securities Inc,12 month,5.0,outperform,75.0
+2017-04-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-13,Longbow Research,Not Provided,5.0,buy,91.0
+2017-04-16,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-04-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-17,BMO Capital Markets,Not Provided,3.0,market perform,67.0
+2017-04-18,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-04-18,Barclays,Not Provided,3.0,equalweight,75.0
+2017-04-18,Goldman Sachs,12 month,3.0,neutral/neutral,63.0
+2017-04-18,Mizuho Securities USA Inc,12 month,3.0,neutral,68.0
+2017-04-19,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-04-20,MKM Partners,Not Provided,5.0,buy,78.0
+2017-04-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-24,Macquarie,12 month,3.0,neutral,70.0
+2017-04-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,66.0
+2017-04-24,Longbow Research,Not Provided,5.0,buy,91.0
+2017-04-25,Benchmark Company LLC,12 month,5.0,buy,90.0
+2017-04-28,Raymond James,Not Provided,-2147483648.0,suspended coverage,-0.0
+2017-04-30,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-04-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-01,Benchmark Company LLC,12 month,5.0,buy,90.0
+2017-05-02,Cowen,12 month,3.0,market perform,60.0
+2017-05-02,Mizuho Securities USA Inc,Not Provided,3.0,neutral,68.0
+2017-05-02,MKM Partners,Not Provided,5.0,buy,78.0
+2017-05-03,Mizuho Securities USA Inc,12 month,3.0,neutral,68.0
+2017-05-03,Canaccord Genuity,12 month,5.0,buy,79.0
+2017-05-03,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-05-03,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-05-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-04,D.A. Davidson & Co,12 month,3.0,neutral,70.0
+2017-05-04,Craig-Hallum Capital Group LLC,12 month,5.0,buy,78.0
+2017-05-04,Barclays,Not Provided,3.0,equalweight,70.0
+2017-05-04,Northland Securities Inc,12 month,5.0,outperform,75.0
+2017-05-04,MKM Partners,12 month,5.0,buy,78.0
+2017-05-04,Longbow Research,12 month,5.0,buy,91.0
+2017-05-04,Goldman Sachs,12 month,3.0,neutral/neutral,68.0
+2017-05-04,Macquarie,12 month,3.0,neutral,68.0
+2017-05-04,Stephens Inc,12 month,5.0,overweight,75.0
+2017-05-04,Drexel Hamilton LLC,12 month,5.0,buy,72.0
+2017-05-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,66.0
+2017-05-04,Cowen,12 month,3.0,market perform,74.0
+2017-05-04,J.P. Morgan,9 month,5.0,overweight,85.0
+2017-05-04,Needham & Co,12 month,5.0,buy,70.0
+2017-05-04,BMO Capital Markets,Not Provided,3.0,market perform,63.0
+2017-05-07,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-11,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-05-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-21,BMO Capital Markets,Not Provided,3.0,market perform,63.0

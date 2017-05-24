@@ -1,0 +1,439 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-01-14,Goldman Sachs,12 month,1.0,Sell/Neutral,48.0
+2015-01-23,UBS,12 month,3.0,neutral,51.0
+2015-02-17,Morgan Stanley,12 month,1.0,Underwt/In-Line,45.0
+2015-02-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-18,Oppenheimer & Co,12 month,5.0,outperform,57.0
+2015-02-23,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-02-23,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2015-03-17,J.P. Morgan,9 month,3.0,neutral,51.0
+2015-03-19,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-03-23,Baird,12 month,3.0,neutral,52.0
+2015-03-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-04-06,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-06,Edward Jones,Not Provided,1.0,sell,-0.0
+2015-04-07,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,50.0
+2015-04-13,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-20,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-04-29,Oppenheimer & Co,12 month,5.0,outperform,57.0
+2015-04-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-29,J.P. Morgan,9 month,3.0,neutral,51.0
+2015-04-29,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-29,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-04-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-04-30,Morgan Stanley,12 month,1.0,Underwt/In-Line,45.0
+2015-04-30,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,50.0
+2015-04-30,Edward Jones,Not Provided,1.0,sell,-0.0
+2015-05-04,Stifel,Not Provided,3.0,hold,-0.0
+2015-05-04,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2015-05-06,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-05-07,Baird,12 month,3.0,neutral,52.0
+2015-05-08,UBS,12 month,3.0,neutral,47.0
+2015-05-12,Goldman Sachs,12 month,1.0,Sell/Neutral,44.0
+2015-05-20,J.P. Morgan,9 month,3.0,neutral,51.0
+2015-05-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-29,Edward Jones,Not Provided,1.0,sell,-0.0
+2015-06-03,Morgan Stanley,12 month,1.0,Underwt/In-Line,45.0
+2015-06-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-06-11,Stifel,Not Provided,3.0,hold,-0.0
+2015-06-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-06-15,Cowen,12 month,3.0,market perform,46.0
+2015-06-15,Stifel,Not Provided,3.0,hold,-0.0
+2015-06-18,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2015-06-22,Morgan Stanley,12 month,1.0,Underwt/In-Line,45.0
+2015-06-22,Cowen,Not Provided,3.0,market perform,46.0
+2015-06-23,Stifel,Not Provided,3.0,hold,-0.0
+2015-06-25,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-06-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-06-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-06-29,Edward Jones,Not Provided,1.0,sell,-0.0
+2015-07-05,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-06,Cowen,Not Provided,3.0,market perform,46.0
+2015-07-09,Oppenheimer & Co,12 month,5.0,outperform,57.0
+2015-07-13,Cowen,Not Provided,3.0,market perform,46.0
+2015-07-22,D.A. Davidson & Co,12 month,3.0,neutral,50.0
+2015-07-24,Edward Jones,Not Provided,1.0,sell,-0.0
+2015-07-27,Cowen,Not Provided,3.0,market perform,46.0
+2015-07-27,Oppenheimer & Co,12 month,5.0,outperform,57.0
+2015-07-27,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,50.0
+2015-07-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-07-29,Morgan Stanley,12 month,1.0,Underwt/In-Line,45.0
+2015-07-29,J.P. Morgan,12 month,3.0,neutral,51.0
+2015-07-30,D.A. Davidson & Co,Not Provided,3.0,neutral,50.0
+2015-07-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-07-30,Edward Jones,Not Provided,1.0,sell,-0.0
+2015-07-31,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,50.0
+2015-07-31,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2015-07-31,RBC Capital Markets,12 month,3.0,sector perform,51.0
+2015-08-03,Cowen,Not Provided,3.0,market perform,46.0
+2015-08-03,Stifel,Not Provided,3.0,hold,-0.0
+2015-08-07,J.P. Morgan,6 month,3.0,neutral,51.0
+2015-08-09,Oppenheimer & Co,12 month,5.0,outperform,57.0
+2015-08-10,Stifel,Not Provided,3.0,hold,-0.0
+2015-08-10,Cowen,Not Provided,3.0,market perform,46.0
+2015-08-14,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,50.0
+2015-08-17,Cowen,Not Provided,3.0,market perform,46.0
+2015-08-17,Stifel,Not Provided,3.0,hold,-0.0
+2015-08-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-08-21,Baird,12 month,3.0,neutral,50.0
+2015-08-24,Cowen,Not Provided,3.0,market perform,46.0
+2015-08-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-08-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-28,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,50.0
+2015-08-31,Cowen,Not Provided,3.0,market perform,46.0
+2015-08-31,Edward Jones,Not Provided,1.0,sell,-0.0
+2015-09-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-09-07,Stifel,12 month,5.0,buy,49.0
+2015-09-08,Cowen,Not Provided,3.0,market perform,46.0
+2015-09-11,D.A. Davidson & Co,Not Provided,3.0,neutral,48.0
+2015-09-11,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-09-14,Cowen,Not Provided,3.0,market perform,46.0
+2015-09-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-21,Cowen,Not Provided,3.0,market perform,46.0
+2015-09-27,Stifel,Not Provided,5.0,buy,49.0
+2015-09-28,Cowen,Not Provided,3.0,market perform,46.0
+2015-10-01,Edward Jones,Not Provided,1.0,sell,-0.0
+2015-10-02,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,50.0
+2015-10-04,Stifel,12 month,5.0,buy,50.0
+2015-10-05,Cowen,Not Provided,3.0,market perform,46.0
+2015-10-08,J.P. Morgan,18 month,3.0,neutral,51.0
+2015-10-08,Oppenheimer & Co,12 month,5.0,outperform,56.0
+2015-10-11,Stifel,12 month,5.0,buy,50.0
+2015-10-12,Cowen,Not Provided,3.0,market perform,46.0
+2015-10-15,Morgan Stanley,12 month,1.0,Underwt/Attractive,45.0
+2015-10-19,Cowen,Not Provided,3.0,market perform,46.0
+2015-10-19,Stifel,12 month,5.0,buy,50.0
+2015-10-26,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,52.0
+2015-10-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-26,Cowen,Not Provided,3.0,market perform,46.0
+2015-10-27,Wunderlich Securities,18 month,3.0,hold,47.5
+2015-10-28,Oppenheimer & Co,12 month,5.0,outperform,56.0
+2015-10-28,Stifel,12 month,5.0,buy,52.0
+2015-10-28,UBS,12 month,1.0,sell,46.0
+2015-10-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-10-28,Morgan Stanley,12 month,1.0,Underwt/Attractive,45.0
+2015-10-29,D.A. Davidson & Co,Not Provided,3.0,neutral,55.0
+2015-10-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-10-29,J.P. Morgan,18 month,3.0,neutral,51.0
+2015-10-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-02,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,52.0
+2015-11-02,Wunderlich Securities,12 month,3.0,hold,47.5
+2015-11-02,Cowen,Not Provided,3.0,market perform,46.0
+2015-11-02,RBC Capital Markets,12 month,3.0,sector perform,51.0
+2015-11-02,Edward Jones,Not Provided,1.0,sell,-0.0
+2015-11-03,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2015-11-03,Baird,12 month,3.0,neutral,52.0
+2015-11-09,Cowen,Not Provided,3.0,market perform,47.0
+2015-11-15,Stifel,12 month,5.0,buy,52.0
+2015-11-16,Cowen,Not Provided,3.0,market perform,47.0
+2015-11-18,RBC Capital Markets,12 month,3.0,sector perform,51.0
+2015-11-20,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,52.0
+2015-11-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-11-22,Stifel,12 month,5.0,buy,52.0
+2015-11-23,Cowen,Not Provided,3.0,market perform,47.0
+2015-11-24,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2015-11-24,J.P. Morgan,18 month,3.0,neutral,51.0
+2015-11-24,Baird,12 month,3.0,neutral,51.0
+2015-11-27,Edward Jones,Not Provided,1.0,sell,-0.0
+2015-11-29,Stifel,12 month,5.0,buy,52.0
+2015-12-07,Cowen,Not Provided,3.0,market perform,47.0
+2015-12-08,Wunderlich Securities,Not Provided,3.0,hold,47.5
+2015-12-14,Cowen,Not Provided,3.0,market perform,47.0
+2015-12-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-12-16,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-12-17,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-12-17,Janney Montgomery Scott LLC,12 month,5.0,buy,56.0
+2015-12-20,Stifel,12 month,5.0,buy,52.0
+2015-12-21,Cowen,Not Provided,3.0,market perform,47.0
+2015-12-29,Stifel,12 month,5.0,buy,54.0
+2015-12-30,Janney Montgomery Scott LLC,Not Provided,5.0,buy,56.0
+2016-01-03,Stifel,12 month,5.0,buy,54.0
+2016-01-06,Baird,12 month,3.0,neutral,54.0
+2016-01-08,D.A. Davidson & Co,Not Provided,3.0,neutral,55.0
+2016-01-12,Cowen,Not Provided,3.0,market perform,47.0
+2016-01-15,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-01-18,Stifel,12 month,5.0,buy,54.0
+2016-01-20,Morgan Stanley,12 month,1.0,Underwt/Attractive,48.0
+2016-01-22,Janney Montgomery Scott LLC,12 month,5.0,buy,56.0
+2016-01-25,Cowen,Not Provided,3.0,market perform,47.0
+2016-01-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-01,Cowen,Not Provided,3.0,market perform,47.0
+2016-02-02,Morgan Stanley,12 month,3.0,Equalwt/Attractive,55.0
+2016-02-02,D.A. Davidson & Co,Not Provided,3.0,neutral,55.0
+2016-02-04,Janney Montgomery Scott LLC,12 month,5.0,buy,60.0
+2016-02-08,Cowen,Not Provided,3.0,market perform,47.0
+2016-02-10,J.P. Morgan,12 month,3.0,neutral,51.0
+2016-02-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-10,"Capital One Securities, Inc.",12 month,3.0,equalweight,52.0
+2016-02-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-02-11,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-02-11,Janney Montgomery Scott LLC,12 month,5.0,buy,60.0
+2016-02-11,Oppenheimer & Co,12 month,5.0,outperform,66.0
+2016-02-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-11,Baird,Not Provided,3.0,neutral,62.0
+2016-02-12,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2016-02-15,Stifel,12 month,5.0,buy,59.0
+2016-02-16,Wunderlich Securities,12 month,1.0,sell,53.0
+2016-02-16,Cowen,Not Provided,3.0,market perform,47.0
+2016-02-16,RBC Capital Markets,12 month,3.0,sector perform,58.0
+2016-02-17,D.A. Davidson & Co,Not Provided,3.0,neutral,63.0
+2016-02-18,Oppenheimer & Co,18 month,5.0,outperform,66.0
+2016-02-18,Goldman Sachs,12 month,1.0,Sell/Neutral,48.0
+2016-02-18,"Capital One Securities, Inc.",12 month,3.0,equalweight,56.0
+2016-02-22,Cowen,Not Provided,3.0,market perform,47.0
+2016-02-23,J.P. Morgan,12 month,3.0,neutral,54.0
+2016-02-23,UBS,12 month,1.0,sell,48.0
+2016-02-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-29,Cowen,Not Provided,3.0,market perform,47.0
+2016-03-02,Baird,Not Provided,3.0,neutral,61.0
+2016-03-04,Janney Montgomery Scott LLC,12 month,5.0,buy,63.0
+2016-03-06,Stifel,12 month,5.0,buy,59.0
+2016-03-07,RBC Capital Markets,12 month,3.0,sector perform,58.0
+2016-03-07,Cowen,Not Provided,3.0,market perform,47.0
+2016-03-08,Morgan Stanley,12 month,3.0,Equalwt/Attractive,55.0
+2016-03-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-03-13,Stifel,12 month,5.0,buy,59.0
+2016-03-14,Cowen,Not Provided,3.0,market perform,47.0
+2016-03-16,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,56.0
+2016-03-20,Stifel,12 month,5.0,buy,59.0
+2016-03-21,Cowen,Not Provided,3.0,market perform,47.0
+2016-03-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-03-27,Stifel,12 month,5.0,buy,59.0
+2016-03-28,Cowen,Not Provided,3.0,market perform,47.0
+2016-04-04,"MUFG Securities Americas, Inc",12 month,3.0,neutral,60.0
+2016-04-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-05,Stifel,12 month,5.0,buy,64.0
+2016-04-11,Stifel,12 month,5.0,buy,64.0
+2016-04-11,Cowen,Not Provided,3.0,market perform,47.0
+2016-04-15,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,56.0
+2016-04-17,Stifel,12 month,5.0,buy,64.0
+2016-04-18,Goldman Sachs,12 month,1.0,Sell/Neutral,52.0
+2016-04-26,Oppenheimer & Co,12 month,5.0,outperform,66.0
+2016-04-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-26,J.P. Morgan,12 month,3.0,neutral,54.0
+2016-04-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-26,Stifel,12 month,5.0,buy,64.0
+2016-04-26,"MUFG Securities Americas, Inc",12 month,3.0,neutral,60.0
+2016-04-26,RBC Capital Markets,12 month,3.0,sector perform,58.0
+2016-04-26,"Capital One Securities, Inc.",12 month,3.0,equalweight,56.0
+2016-04-27,Morgan Stanley,12 month,3.0,Equalwt/Attractive,55.0
+2016-04-27,Janney Montgomery Scott LLC,12 month,5.0,buy,62.0
+2016-04-27,D.A. Davidson & Co,Not Provided,3.0,neutral,63.0
+2016-04-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-04-28,"Capital One Securities, Inc.",12 month,3.0,equalweight,56.0
+2016-04-28,Wunderlich Securities,12 month,1.0,sell,53.0
+2016-04-29,RBC Capital Markets,12 month,3.0,sector perform,58.0
+2016-05-01,Stifel,12 month,5.0,buy,64.0
+2016-05-02,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-05-03,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2016-05-04,"MUFG Securities Americas, Inc",12 month,3.0,neutral,58.0
+2016-05-08,Stifel,12 month,5.0,buy,64.0
+2016-05-13,J.P. Morgan,9 month,3.0,neutral,54.0
+2016-05-16,Morgan Stanley,12 month,3.0,Equalwt/In-Line,61.0
+2016-05-16,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,56.0
+2016-05-18,UBS,12 month,1.0,sell,52.0
+2016-05-19,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-05-19,Stifel,12 month,5.0,buy,64.0
+2016-05-19,Janney Montgomery Scott LLC,Not Provided,5.0,buy,65.0
+2016-05-20,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,56.0
+2016-05-24,Baird,Not Provided,3.0,neutral,62.0
+2016-05-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-26,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,56.0
+2016-05-30,Stifel,12 month,5.0,buy,64.0
+2016-06-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-06-09,"MUFG Securities Americas, Inc",12 month,3.0,neutral,58.0
+2016-06-09,Stifel,12 month,5.0,buy,66.0
+2016-06-09,Janney Montgomery Scott LLC,12 month,5.0,buy,65.0
+2016-06-09,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-06-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-06-13,Stifel,12 month,5.0,buy,66.0
+2016-06-14,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2016-06-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-26,Stifel,Not Provided,5.0,buy,66.0
+2016-06-28,Janney Montgomery Scott LLC,Not Provided,5.0,buy,70.0
+2016-06-28,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-07-01,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-07-01,UBS,12 month,1.0,sell,52.0
+2016-07-04,Stifel,12 month,5.0,buy,66.0
+2016-07-07,Goldman Sachs,12 month,1.0,Sell/Neutral,57.0
+2016-07-08,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-07-08,D.A. Davidson & Co,Not Provided,3.0,neutral,75.0
+2016-07-12,Baird,Not Provided,3.0,neutral,70.0
+2016-07-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-15,Janney Montgomery Scott LLC,12 month,5.0,buy,72.0
+2016-07-18,"MUFG Securities Americas, Inc",12 month,3.0,neutral,63.0
+2016-07-27,Oppenheimer & Co,12 month,5.0,outperform,78.0
+2016-07-27,Janney Montgomery Scott LLC,12 month,5.0,buy,72.0
+2016-07-27,RBC Capital Markets,12 month,3.0,sector perform,58.0
+2016-07-27,J.P. Morgan,12 month,3.0,neutral,54.0
+2016-07-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-27,"Capital One Securities, Inc.",12 month,3.0,equalweight,68.0
+2016-07-27,Stifel,12 month,5.0,buy,73.0
+2016-07-28,D.A. Davidson & Co,12 month,3.0,neutral,75.0
+2016-07-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-07-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-07-29,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2016-07-29,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-07-29,"MUFG Securities Americas, Inc",12 month,3.0,neutral,66.0
+2016-07-31,"Capital One Securities, Inc.",12 month,3.0,equalweight,68.0
+2016-08-01,RBC Capital Markets,12 month,3.0,sector perform,66.0
+2016-08-01,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-01,Wunderlich Securities,12 month,1.0,sell,60.0
+2016-08-02,Baird,12 month,3.0,neutral,73.0
+2016-08-09,J.P. Morgan,6 month,3.0,neutral,63.0
+2016-08-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-12,Baird,Not Provided,3.0,neutral,73.0
+2016-08-15,Baird,Not Provided,3.0,neutral,73.0
+2016-08-15,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,68.0
+2016-08-25,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2016-08-26,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-09-05,Stifel,12 month,5.0,buy,73.0
+2016-09-07,Morgan Stanley,12 month,3.0,Equalwt/In-Line,67.0
+2016-09-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-13,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-09-14,RBC Capital Markets,12 month,3.0,sector perform,66.0
+2016-09-16,D.A. Davidson & Co,Not Provided,3.0,neutral,70.0
+2016-09-18,Stifel,12 month,5.0,buy,73.0
+2016-09-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-04,"Capital One Securities, Inc.",12 month,3.0,equalweight,68.0
+2016-10-05,Janney Montgomery Scott LLC,12 month,5.0,buy,72.0
+2016-10-09,Oppenheimer & Co,12 month,5.0,outperform,78.0
+2016-10-09,Stifel,Not Provided,5.0,buy,73.0
+2016-10-12,Stifel,Not Provided,5.0,buy,73.0
+2016-10-12,"MUFG Securities Americas, Inc",12 month,3.0,neutral,62.0
+2016-10-13,Mizuho Securities USA Inc,12 month,3.0,neutral,65.0
+2016-10-14,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-24,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,68.0
+2016-10-24,RBC Capital Markets,12 month,3.0,sector perform,66.0
+2016-10-26,Janney Montgomery Scott LLC,12 month,5.0,buy,73.0
+2016-10-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-26,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2016-10-26,Morgan Stanley,12 month,3.0,Equalwt/In-Line,67.0
+2016-10-26,J.P. Morgan,12 month,3.0,neutral,63.0
+2016-10-26,Stifel,12 month,5.0,buy,70.0
+2016-10-26,Oppenheimer & Co,12 month,5.0,outperform,78.0
+2016-10-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-27,"Capital One Securities, Inc.",12 month,3.0,equalweight,68.0
+2016-10-27,D.A. Davidson & Co,12 month,3.0,neutral,65.0
+2016-10-27,UBS,12 month,1.0,sell,57.0
+2016-10-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-31,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-31,"MUFG Securities Americas, Inc",12 month,3.0,neutral,60.0
+2016-10-31,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2016-10-31,Wunderlich Securities,12 month,1.0,sell,54.0
+2016-11-01,D.A. Davidson & Co,12 month,3.0,neutral,65.0
+2016-11-01,J.P. Morgan,18 month,3.0,neutral,63.0
+2016-11-01,RBC Capital Markets,12 month,3.0,sector perform,62.0
+2016-11-07,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-11-09,Oppenheimer & Co,12 month,5.0,outperform,78.0
+2016-11-09,Mizuho Securities USA Inc,Not Provided,3.0,neutral,65.0
+2016-11-13,Stifel,12 month,5.0,buy,65.0
+2016-11-13,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,60.0
+2016-11-15,RBC Capital Markets,12 month,3.0,sector perform,62.0
+2016-11-17,"MUFG Securities Americas, Inc",12 month,3.0,neutral,60.0
+2016-11-18,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,60.0
+2016-11-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-18,Mizuho Securities USA Inc,Not Provided,3.0,neutral,65.0
+2016-11-20,Stifel,12 month,5.0,buy,65.0
+2016-11-21,Baird,Not Provided,3.0,neutral,62.0
+2016-11-21,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2016-11-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-11-27,Stifel,12 month,5.0,buy,65.0
+2016-11-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-04,Stifel,12 month,5.0,buy,65.0
+2016-12-09,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,60.0
+2016-12-12,Stifel,12 month,5.0,buy,65.0
+2016-12-12,Morgan Stanley,12 month,5.0,Overwt/Cautious,60.0
+2016-12-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-12-14,Wunderlich Securities,Not Provided,1.0,sell,54.0
+2016-12-14,Oppenheimer & Co,12 month,5.0,outperform,78.0
+2016-12-15,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-12-16,Mizuho Securities USA Inc,Not Provided,3.0,neutral,57.0
+2016-12-18,Stifel,Not Provided,5.0,buy,65.0
+2016-12-19,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2016-12-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-23,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2017-01-02,Stifel,12 month,5.0,buy,65.0
+2017-01-03,RBC Capital Markets,12 month,3.0,sector perform,62.0
+2017-01-04,"MUFG Securities Americas, Inc",12 month,3.0,neutral,57.0
+2017-01-09,Raymond James,Not Provided,1.0,underperform,-0.0
+2017-01-11,Stifel,12 month,5.0,buy,65.0
+2017-01-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-20,Mizuho Securities USA Inc,Not Provided,3.0,neutral,57.0
+2017-02-05,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,60.0
+2017-02-10,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2017-02-17,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-22,"MUFG Securities Americas, Inc",12 month,3.0,neutral,57.0
+2017-02-22,"Capital One Securities, Inc.",12 month,3.0,equalweight,60.0
+2017-02-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-22,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-02-22,J.P. Morgan,18 month,3.0,neutral,63.0
+2017-02-22,Stifel,12 month,5.0,buy,65.0
+2017-02-22,Oppenheimer & Co,12 month,5.0,outperform,78.0
+2017-02-23,Janney Montgomery Scott LLC,12 month,5.0,buy,65.0
+2017-02-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-23,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2017-02-23,Raymond James,Not Provided,1.0,underperform,-0.0
+2017-02-24,Wunderlich Securities,12 month,1.0,sell,58.0
+2017-02-27,D.A. Davidson & Co,12 month,3.0,neutral,68.0
+2017-02-27,RBC Capital Markets,12 month,3.0,sector perform,64.0
+2017-02-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-28,Mizuho Securities USA Inc,12 month,3.0,neutral,61.0
+2017-02-28,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,65.0
+2017-02-28,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2017-03-06,Stifel,12 month,5.0,buy,65.0
+2017-03-08,Baird,Not Provided,3.0,neutral,62.0
+2017-03-08,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,65.0
+2017-03-08,Stifel,12 month,5.0,buy,65.0
+2017-03-10,Janney Montgomery Scott LLC,Not Provided,5.0,buy,64.0
+2017-03-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-17,UBS,12 month,1.0,sell,57.0
+2017-03-19,Stifel,12 month,5.0,buy,65.0
+2017-03-20,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-03-24,J.P. Morgan,9 month,3.0,neutral,63.0
+2017-03-29,Baird,Not Provided,3.0,neutral,62.0
+2017-03-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-31,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-04-07,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,65.0
+2017-04-10,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-04-10,Oppenheimer & Co,12 month,5.0,outperform,78.0
+2017-04-10,Janney Montgomery Scott LLC,Not Provided,5.0,buy,64.0
+2017-04-11,Raymond James,Not Provided,1.0,underperform,-0.0
+2017-04-12,Stifel,Not Provided,5.0,buy,65.0
+2017-04-17,Mizuho Securities USA Inc,12 month,3.0,neutral,61.0
+2017-04-17,RBC Capital Markets,12 month,3.0,sector perform,64.0
+2017-04-18,"MUFG Securities Americas, Inc",12 month,3.0,neutral,57.0
+2017-04-25,Stifel,12 month,5.0,buy,65.0
+2017-04-25,"MUFG Securities Americas, Inc",12 month,3.0,neutral,57.0
+2017-04-25,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2017-04-25,J.P. Morgan,12 month,3.0,neutral,63.0
+2017-04-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-25,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-04-25,RBC Capital Markets,12 month,3.0,sector perform,64.0
+2017-04-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-26,D.A. Davidson & Co,12 month,3.0,neutral,67.0
+2017-04-26,Baird,12 month,3.0,neutral,62.0
+2017-04-26,Janney Montgomery Scott LLC,Not Provided,5.0,buy,64.0
+2017-04-26,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-04-27,Ladenburg Thalmann & Co,Not Provided,3.0,neutral,-0.0
+2017-04-27,Wunderlich Securities,12 month,1.0,sell,55.0
+2017-04-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-01,RBC Capital Markets,12 month,3.0,sector perform,64.0
+2017-05-01,Raymond James,Not Provided,1.0,underperform,-0.0
+2017-05-02,"Capital One Securities, Inc.",12 month,3.0,equalweight,65.0
+2017-05-11,Mizuho Securities USA Inc,Not Provided,3.0,neutral,58.0
+2017-05-12,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,65.0
+2017-05-15,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-05-15,"MUFG Securities Americas, Inc",12 month,3.0,neutral,55.0
+2017-05-16,UBS,12 month,1.0,sell,52.0
+2017-05-17,J.P. Morgan,9 month,3.0,neutral,59.0
+2017-05-18,Goldman Sachs,12 month,1.0,Sell/Neutral,50.0
+2017-05-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-19,"Capital One Securities, Inc.",Not Provided,3.0,equalweight,65.0
+2017-05-22,BTIG LLC,Not Provided,3.0,neutral,-0.0

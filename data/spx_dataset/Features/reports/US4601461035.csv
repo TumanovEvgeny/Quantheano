@@ -1,0 +1,1793 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2005-06-03,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2005-06-03,Goldman Sachs,Not Provided,3.0,in-line,-0.0
+2005-06-16,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2005-06-27,Credit Suisse,Not Provided,-2147483648.0,restricted,-0.0
+2005-07-13,Soleil Securities,Not Provided,3.0,hold,-0.0
+2005-10-26,D.A. Davidson & Co,18 month,5.0,buy,37.46
+2005-10-26,CIBC World Markets,18 month,3.0,sector perform,35.49
+2005-12-02,Buckingham Research Group,Not Provided,3.0,neutral,29.58
+2005-12-06,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,28.59
+2005-12-15,Barclays,12 month,5.0,overwt/positive,37.46
+2005-12-15,UBS,12 month,5.0,buy 2,35.49
+2005-12-22,Prudential Equity Group Inc,Not Provided,1.0,underweight,26.62
+2006-01-04,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-01-05,D.A. Davidson & Co,18 month,5.0,buy,37.46
+2006-01-06,BMO Capital Markets,Not Provided,1.0,underperform,27.6
+2006-01-18,Soleil Securities,Not Provided,3.0,hold,-0.0
+2006-01-23,Goldman Sachs,Not Provided,3.0,in-line/neutral,-0.0
+2006-02-02,BMO Capital Markets,Not Provided,1.0,underperform,27.6
+2006-02-02,D.A. Davidson & Co,18 month,5.0,buy,37.46
+2006-02-03,Barclays,12 month,5.0,overwt/positive,38.45
+2006-02-03,UBS,12 month,5.0,buy 2,38.94
+2006-02-03,Soleil Securities,Not Provided,3.0,hold,-0.0
+2006-02-03,Prudential Equity Group Inc,Not Provided,1.0,underweight,26.62
+2006-02-09,CIBC World Markets,18 month,3.0,sector perform,35.49
+2006-03-10,CIBC World Markets,18 month,5.0,sector outperform,34.5
+2006-03-15,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-03-24,Buckingham Research Group,Not Provided,3.0,neutral,31.55
+2006-04-03,UBS,12 month,5.0,buy 2,40.42
+2006-04-05,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2006-04-05,CIBC World Markets,18 month,5.0,sector outperform,34.5
+2006-04-06,Barclays,12 month,5.0,overwt/positive,39.43
+2006-04-07,BMO Capital Markets,Not Provided,1.0,underperform,31.55
+2006-04-10,Prudential Equity Group Inc,Not Provided,1.0,underweight,26.62
+2006-04-12,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,44.36
+2006-04-19,CIBC World Markets,18 month,5.0,sector outperform,34.5
+2006-04-19,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,41.41
+2006-05-04,Prudential Equity Group Inc,Not Provided,1.0,underweight,26.62
+2006-05-04,BMO Capital Markets,Not Provided,1.0,underperform,31.55
+2006-05-05,D.A. Davidson & Co,18 month,3.0,neutral,39.43
+2006-05-05,CIBC World Markets,18 month,5.0,sector outperform,34.5
+2006-05-05,UBS,12 month,5.0,buy 2,43.38
+2006-05-05,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,43.38
+2006-05-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-05-25,UBS,12 month,5.0,buy 2,43.38
+2006-05-26,D.A. Davidson & Co,18 month,5.0,buy,39.43
+2006-05-30,CIBC World Markets,18 month,3.0,sector perform,33.52
+2006-05-30,Prudential Equity Group Inc,Not Provided,1.0,underweight,26.62
+2006-06-06,BMO Capital Markets,Not Provided,1.0,underperform,31.55
+2006-06-06,CIBC World Markets,18 month,3.0,sector perform,33.52
+2006-06-06,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,31.55
+2006-06-13,BMO Capital Markets,12 month,3.0,market perform,34.5
+2006-06-29,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,39.43
+2006-07-14,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,31.55
+2006-07-14,D.A. Davidson & Co,18 month,5.0,buy,39.43
+2006-07-14,CIBC World Markets,18 month,3.0,sector perform,33.52
+2006-07-14,Barclays,12 month,5.0,overwt/positive,38.45
+2006-07-14,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-07-24,BMO Capital Markets,Not Provided,5.0,outperform,37.46
+2006-08-02,BMO Capital Markets,Not Provided,5.0,outperform,37.46
+2006-08-02,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,31.55
+2006-08-02,CIBC World Markets,18 month,3.0,sector perform,33.52
+2006-08-02,D.A. Davidson & Co,18 month,5.0,buy,39.43
+2006-08-16,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-09-18,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,31.55
+2006-09-19,BMO Capital Markets,Not Provided,5.0,outperform,39.43
+2006-09-20,UBS,12 month,5.0,buy 2,43.38
+2006-09-20,D.A. Davidson & Co,18 month,5.0,buy,39.43
+2006-09-28,CIBC World Markets,18 month,3.0,sector perform,33.52
+2006-10-17,UBS,12 month,5.0,buy 2,43.38
+2006-10-19,Barclays,Not Provided,3.0,equalwt/positive,37.46
+2006-10-31,UBS,12 month,5.0,buy 2,43.38
+2006-11-02,BMO Capital Markets,Not Provided,5.0,outperform,39.43
+2006-11-03,Barclays,Not Provided,3.0,equalwt/positive,36.48
+2006-11-03,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,37.46
+2006-11-03,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,33.52
+2006-11-03,CIBC World Markets,18 month,3.0,sector perform,34.5
+2006-11-06,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-11-07,D.A. Davidson & Co,18 month,5.0,buy,39.43
+2006-11-17,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-11-30,Credit Suisse,Not Provided,5.0,outperform,38.45
+2006-11-30,CIBC World Markets,18 month,5.0,sector outperform,36.48
+2006-12-01,UBS,12 month,5.0,buy 2,43.38
+2006-12-01,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,33.52
+2006-12-07,Barclays,Not Provided,3.0,equalwt/positive,37.46
+2006-12-07,Credit Suisse,Not Provided,5.0,outperform,38.45
+2006-12-07,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-12-13,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,36.48
+2006-12-20,CIBC World Markets,18 month,5.0,sector outperform,36.48
+2006-12-20,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-12-22,Credit Suisse,12 month,5.0,outperform,38.45
+2006-12-22,UBS,12 month,5.0,buy 2,43.38
+2006-12-22,BMO Capital Markets,Not Provided,5.0,outperform,41.41
+2007-01-02,Credit Suisse,12 month,5.0,outperform,38.45
+2007-01-04,D.A. Davidson & Co,18 month,5.0,buy,39.43
+2007-01-19,Barclays,Not Provided,3.0,equalwt/positive,36.48
+2007-01-19,Goldman Sachs,Not Provided,3.0,neutral/neutral,33.52
+2007-02-01,BMO Capital Markets,Not Provided,5.0,outperform,41.41
+2007-02-02,Credit Suisse,12 month,5.0,outperform,38.45
+2007-02-02,D.A. Davidson & Co,18 month,5.0,buy,39.43
+2007-02-02,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,39.43
+2007-02-02,CIBC World Markets,18 month,5.0,sector outperform,36.48
+2007-02-02,Barclays,Not Provided,3.0,equalwt/positive,38.45
+2007-02-02,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,36.48
+2007-02-02,Soleil Securities,Not Provided,3.0,hold,-0.0
+2007-02-05,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-02-07,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-02-20,BMO Capital Markets,Not Provided,5.0,outperform,41.41
+2007-03-09,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-03-16,Credit Suisse,12 month,5.0,outperform,38.45
+2007-03-20,Buckingham Research Group,Not Provided,3.0,neutral,32.53
+2007-04-04,BMO Capital Markets,Not Provided,5.0,outperform,41.41
+2007-04-05,Goldman Sachs,Not Provided,3.0,neutral/neutral,37.46
+2007-04-11,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-04-20,Barclays,Not Provided,3.0,equalwt/positive,39.43
+2007-04-23,Soleil Securities,Not Provided,3.0,hold,-0.0
+2007-04-30,S&P Capital IQ,Not Provided,3.0,hold,40.42
+2007-05-03,BMO Capital Markets,Not Provided,5.0,outperform,41.41
+2007-05-03,Soleil Securities,Not Provided,3.0,hold,-0.0
+2007-05-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-05-04,Barclays,Not Provided,3.0,equalwt/positive,40.42
+2007-05-04,D.A. Davidson & Co,18 month,5.0,buy,42.39
+2007-05-04,CIBC World Markets,18 month,5.0,sector outperform,36.48
+2007-05-07,Prudential Equity Group Inc,Not Provided,3.0,neutral weight,36.48
+2007-05-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-05-16,UBS,12 month,5.0,buy 2,43.38
+2007-05-16,Soleil Securities,Not Provided,3.0,hold,-0.0
+2007-05-24,Credit Suisse,12 month,5.0,outperform,38.45
+2007-05-25,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-06-08,CIBC World Markets,18 month,3.0,sector perform,35.49
+2007-06-11,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2007-06-12,UBS,12 month,5.0,buy 2,43.38
+2007-06-14,Buckingham Research Group,Not Provided,3.0,neutral,33.52
+2007-07-02,Credit Suisse,12 month,3.0,neutral,38.45
+2007-07-10,UBS,12 month,5.0,buy,43.38
+2007-07-16,Barclays,Not Provided,3.0,equalwt/positive,42.39
+2007-07-20,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2007-08-02,Soleil Securities,Not Provided,3.0,hold,-0.0
+2007-08-02,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2007-08-03,Barclays,Not Provided,3.0,equalwt/positive,40.42
+2007-08-03,D.A. Davidson & Co,18 month,5.0,buy,41.41
+2007-08-03,CIBC World Markets,18 month,3.0,sector perform,37.46
+2007-08-15,UBS,12 month,5.0,buy,43.38
+2007-08-17,Credit Suisse,12 month,3.0,neutral,38.45
+2007-08-24,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2007-08-24,UBS,12 month,5.0,buy,43.38
+2007-09-25,Longbow Research,Not Provided,5.0,buy,43.38
+2007-10-01,UBS,12 month,5.0,buy,43.38
+2007-10-09,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,39.43
+2007-10-10,Credit Suisse,12 month,3.0,neutral,38.45
+2007-10-10,Soleil Securities,Not Provided,3.0,hold,-0.0
+2007-10-10,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-10-10,UBS,12 month,5.0,buy,43.38
+2007-10-10,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2007-10-11,D.A. Davidson & Co,18 month,5.0,buy,41.41
+2007-10-16,Soleil Securities,Not Provided,3.0,hold,-0.0
+2007-10-16,Barclays,Not Provided,3.0,equalwt/positive,42.39
+2007-10-17,Credit Suisse,12 month,3.0,neutral,38.45
+2007-10-23,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-11-02,Soleil Securities,Not Provided,3.0,hold,-0.0
+2007-11-05,CIBC World Markets,18 month,3.0,sector perform,37.46
+2007-11-05,D.A. Davidson & Co,18 month,5.0,buy,41.41
+2007-11-06,Credit Suisse,12 month,3.0,neutral,38.45
+2007-11-07,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2007-12-05,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2007-12-05,Goldman Sachs,Not Provided,3.0,neutral/neutral,36.48
+2007-12-12,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2007-12-17,D.A. Davidson & Co,18 month,5.0,buy,41.41
+2007-12-18,Credit Suisse,12 month,5.0,outperform,38.45
+2008-01-03,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-01-03,D.A. Davidson & Co,18 month,5.0,buy,41.41
+2008-01-11,Goldman Sachs,12 month,3.0,neutral/cautious,34.5
+2008-01-23,Barclays,Not Provided,3.0,equalwt/positive,37.46
+2008-01-24,Soleil Securities,Not Provided,5.0,buy,39.43
+2008-02-07,Soleil Securities,Not Provided,5.0,buy,39.43
+2008-02-08,CIBC World Markets,18 month,5.0,sector outperform,39.43
+2008-02-08,UBS,12 month,5.0,buy,43.38
+2008-02-08,Barclays,Not Provided,3.0,equalwt/positive,38.45
+2008-02-08,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2008-02-08,Credit Suisse,12 month,5.0,outperform,38.45
+2008-02-08,D.A. Davidson & Co,18 month,5.0,buy,41.41
+2008-02-11,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2008-02-12,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-03-04,Goldman Sachs,12 month,5.0,Buy/Cautious,39.43
+2008-03-17,Credit Suisse,12 month,5.0,outperform,38.45
+2008-03-17,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2008-03-17,Goldman Sachs,6 month,3.0,neutral/cautious,33.52
+2008-03-18,CIBC World Markets,18 month,5.0,sector outperform,39.43
+2008-03-18,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-03-18,D.A. Davidson & Co,18 month,3.0,neutral,32.53
+2008-03-19,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2008-03-20,Soleil Securities,Not Provided,3.0,hold,34.5
+2008-03-24,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2008-04-02,Longbow Research,Not Provided,5.0,buy,43.38
+2008-04-07,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2008-04-07,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-04-10,Credit Suisse,12 month,5.0,outperform,38.45
+2008-04-11,Goldman Sachs,6 month,3.0,neutral/cautious,31.55
+2008-04-17,Credit Suisse,Not Provided,3.0,neutral,27.6
+2008-04-17,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2008-04-18,Barclays,Not Provided,3.0,equalwt/positive,32.53
+2008-04-30,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2008-04-30,Credit Suisse,Not Provided,3.0,neutral,27.6
+2008-05-01,Barclays,Not Provided,3.0,equalwt/positive,31.55
+2008-05-01,Soleil Securities,Not Provided,3.0,hold,31.55
+2008-05-01,CIBC World Markets,18 month,5.0,sector outperform,35.49
+2008-05-01,D.A. Davidson & Co,18 month,3.0,neutral,28.59
+2008-05-01,Goldman Sachs,6 month,3.0,neutral/cautious,29.58
+2008-05-01,UBS,12 month,5.0,buy,43.38
+2008-05-13,BMO Capital Markets,Not Provided,5.0,outperform,39.43
+2008-05-27,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2008-06-16,BMO Capital Markets,Not Provided,5.0,outperform,36.48
+2008-06-18,Goldman Sachs,6 month,5.0,Buy/Cautious,29.58
+2008-06-26,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2008-06-26,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-06-30,Credit Suisse,Not Provided,3.0,neutral,27.6
+2008-07-02,D.A. Davidson & Co,18 month,5.0,buy,28.59
+2008-07-07,UBS,12 month,5.0,buy,43.38
+2008-07-15,UBS,12 month,5.0,buy,35.49
+2008-07-16,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2008-07-17,Buckingham Research Group,Not Provided,4.0,accumulate,29.58
+2008-07-18,Barclays,Not Provided,3.0,equalwt/positive,26.62
+2008-08-01,Barclays,Not Provided,3.0,equalwt/positive,30.56
+2008-08-01,Buckingham Research Group,12 month,4.0,accumulate,31.1
+2008-08-01,Credit Suisse,Not Provided,3.0,neutral,27.6
+2008-08-01,Goldman Sachs,6 month,5.0,Buy/Cautious,32.53
+2008-08-01,UBS,12 month,5.0,buy,35.49
+2008-08-01,Soleil Securities,Not Provided,3.0,hold,31.55
+2008-08-01,D.A. Davidson & Co,18 month,5.0,buy,32.53
+2008-08-01,CIBC World Markets,18 month,5.0,sector outperform,30.56
+2008-08-05,BMO Capital Markets,Not Provided,5.0,outperform,42.39
+2008-08-06,Credit Suisse,Not Provided,3.0,neutral,27.6
+2008-09-05,Barclays,Not Provided,3.0,equalwt/positive,32.53
+2008-09-10,BMO Capital Markets,Not Provided,5.0,outperform,39.43
+2008-09-11,Buckingham Research Group,Not Provided,4.0,accumulate,33.52
+2008-09-22,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2008-09-23,Goldman Sachs,6 month,5.0,Buy/Cautious,35.49
+2008-09-24,Barclays,Not Provided,3.0,equalwt/positive,32.53
+2008-09-29,BMO Capital Markets,Not Provided,5.0,outperform,39.43
+2008-10-15,Goldman Sachs,6 month,5.0,Buy/Cautious,24.65
+2008-10-15,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2008-10-16,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2008-10-21,Barclays,Not Provided,3.0,equalwt/positive,19.72
+2008-10-24,CIBC World Markets,Not Provided,5.0,sector outperform,32.53
+2008-10-27,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2008-10-29,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2008-10-30,Credit Suisse,Not Provided,3.0,neutral,20.7
+2008-10-31,Barclays,Not Provided,3.0,equalwt/positive,17.75
+2008-10-31,CIBC World Markets,Not Provided,5.0,sector outperform,29.58
+2008-10-31,UBS,Not Provided,5.0,buy,29.58
+2008-10-31,Soleil Securities,Not Provided,3.0,hold,23.66
+2008-10-31,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2008-10-31,D.A. Davidson & Co,18 month,5.0,buy,27.6
+2008-10-31,Longbow Research,Not Provided,5.0,buy,25.63
+2008-11-03,BMO Capital Markets,Not Provided,5.0,outperform,19.72
+2008-11-03,Goldman Sachs,6 month,3.0,neutral/cautious,16.76
+2008-11-10,Longbow Research,Not Provided,3.0,neutral,-0.0
+2008-11-11,D.A. Davidson & Co,Not Provided,5.0,buy,27.6
+2008-11-13,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-11-13,Credit Suisse,Not Provided,3.0,neutral,20.7
+2008-12-01,D.A. Davidson & Co,Not Provided,5.0,buy,27.6
+2008-12-03,Credit Suisse,Not Provided,3.0,neutral,17.75
+2008-12-05,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2008-12-11,UBS,Not Provided,5.0,buy,23.66
+2008-12-11,D.A. Davidson & Co,18 month,5.0,buy,19.72
+2008-12-11,Goldman Sachs,6 month,3.0,neutral/cautious,13.8
+2008-12-16,Credit Suisse,Not Provided,3.0,neutral,17.75
+2008-12-19,Soleil Securities,Not Provided,3.0,hold,14.79
+2009-01-08,BMO Capital Markets,Not Provided,3.0,market perform,12.32
+2009-01-20,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2009-01-23,Soleil Securities,Not Provided,3.0,hold,14.79
+2009-01-26,Barclays,Not Provided,3.0,equalwt/positive,9.86
+2009-01-29,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2009-01-30,J.P. Morgan,12 month,3.0,neutral,11.83
+2009-01-30,Soleil Securities,Not Provided,3.0,hold,12.82
+2009-01-30,D.A. Davidson & Co,18 month,5.0,buy,14.79
+2009-01-30,Barclays,Not Provided,1.0,underwt/positive,6.9
+2009-01-30,UBS,Not Provided,5.0,buy,23.66
+2009-01-30,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-02-01,Goldman Sachs,6 month,1.0,Sell/Cautious,5.92
+2009-02-03,BMO Capital Markets,Not Provided,5.0,outperform,9.37
+2009-02-23,Soleil Securities,Not Provided,3.0,hold,12.82
+2009-02-24,D.A. Davidson & Co,18 month,5.0,buy,14.79
+2009-02-25,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-03-11,Goldman Sachs,6 month,3.0,neutral/cautious,5.42
+2009-03-11,J.P. Morgan,9 month,3.0,neutral,6.9
+2009-03-12,BMO Capital Markets,12 month,5.0,outperform,5.92
+2009-03-18,D.A. Davidson & Co,Not Provided,5.0,buy,-0.0
+2009-03-20,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2009-03-24,BMO Capital Markets,Not Provided,5.0,outperform,5.92
+2009-03-27,BMO Capital Markets,Not Provided,1.0,underperform,7.89
+2009-04-06,UBS,Not Provided,5.0,buy,17.75
+2009-04-07,D.A. Davidson & Co,Not Provided,5.0,buy,14.79
+2009-04-08,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2009-04-20,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2009-04-21,Barclays,Not Provided,1.0,underwt/positive,6.9
+2009-04-21,Soleil Securities,Not Provided,3.0,hold,-0.0
+2009-04-28,D.A. Davidson & Co,18 month,5.0,buy,14.79
+2009-04-30,Soleil Securities,12 month,3.0,hold,12.82
+2009-04-30,BMO Capital Markets,Not Provided,1.0,underperform,9.86
+2009-05-01,Barclays,Not Provided,1.0,underwt/positive,8.87
+2009-05-01,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2009-05-01,BMO Capital Markets,Not Provided,3.0,market perform,12.82
+2009-05-01,D.A. Davidson & Co,Not Provided,5.0,buy,19.72
+2009-05-01,UBS,Not Provided,5.0,buy,17.75
+2009-05-05,J.P. Morgan,9 month,3.0,neutral,14.79
+2009-05-06,Credit Suisse,Not Provided,5.0,outperform,17.75
+2009-05-10,Goldman Sachs,12 month,5.0,Buy/Neutral,17.75
+2009-05-13,D.A. Davidson & Co,18 month,5.0,buy,19.72
+2009-05-18,Soleil Securities,12 month,3.0,hold,12.82
+2009-05-19,D.A. Davidson & Co,18 month,5.0,buy,19.72
+2009-06-01,BMO Capital Markets,Not Provided,3.0,market perform,14.79
+2009-06-02,D.A. Davidson & Co,Not Provided,5.0,buy,19.72
+2009-06-03,J.P. Morgan,12 month,3.0,neutral,14.79
+2009-06-09,Credit Suisse,Not Provided,5.0,outperform,17.75
+2009-06-09,J.P. Morgan,9 month,3.0,neutral,14.79
+2009-06-10,Barclays,Not Provided,1.0,underwt/positive,8.87
+2009-06-16,BMO Capital Markets,Not Provided,1.0,underperform,14.79
+2009-06-17,J.P. Morgan,6 month,3.0,neutral,14.79
+2009-06-23,Buckingham Research Group,12 month,4.0,accumulate,17.75
+2009-06-29,Credit Suisse,Not Provided,5.0,outperform,18.73
+2009-07-02,UBS,Not Provided,5.0,buy,20.7
+2009-07-07,BMO Capital Markets,Not Provided,1.0,underperform,13.8
+2009-07-15,BMO Capital Markets,Not Provided,1.0,underperform,13.8
+2009-07-20,Buckingham Research Group,12 month,4.0,accumulate,17.75
+2009-07-21,Buckingham Research Group,12 month,4.0,accumulate,19.72
+2009-07-23,Goldman Sachs,12 month,5.0,Buy/Neutral,22.67
+2009-07-24,UBS,Not Provided,5.0,buy,20.7
+2009-07-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-07-30,Goldman Sachs,12 month,5.0,Buy/Neutral,25.63
+2009-07-30,Buckingham Research Group,12 month,4.0,accumulate,21.69
+2009-07-30,J.P. Morgan,18 month,3.0,neutral,20.21
+2009-07-30,Soleil Securities,Not Provided,3.0,hold,19.72
+2009-07-31,UBS,Not Provided,5.0,buy,23.66
+2009-07-31,D.A. Davidson & Co,Not Provided,5.0,buy,24.65
+2009-07-31,BMO Capital Markets,Not Provided,5.0,outperform,24.15
+2009-08-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-03,Credit Suisse,Not Provided,5.0,outperform,23.66
+2009-08-03,Barclays,Not Provided,1.0,underwt/positive,11.83
+2009-08-04,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-08-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-14,Buckingham Research Group,12 month,4.0,accumulate,23.66
+2009-08-31,Goldman Sachs,12 month,5.0,Buy/Neutral,27.6
+2009-09-02,Credit Suisse,Not Provided,5.0,outperform,25.63
+2009-09-08,J.P. Morgan,15 month,3.0,neutral,23.66
+2009-09-09,Sterne Agee CRT,Not Provided,5.0,buy,28.59
+2009-09-15,BMO Capital Markets,Not Provided,5.0,outperform,27.6
+2009-09-16,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2009-09-17,BMO Capital Markets,Not Provided,5.0,outperform,27.6
+2009-09-18,Sterne Agee CRT,12 month,5.0,buy,28.59
+2009-09-24,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-09-25,UBS,Not Provided,5.0,buy,29.58
+2009-10-02,Buckingham Research Group,Not Provided,4.0,accumulate,25.63
+2009-10-02,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-10-09,Sterne Agee CRT,12 month,5.0,buy,28.59
+2009-10-14,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-10-16,Soleil Securities,12 month,3.0,hold,23.66
+2009-10-19,RBC Capital Markets,Not Provided,5.0,outperform,26.62
+2009-10-19,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-10-20,Barclays,Not Provided,1.0,underwt/positive,17.75
+2009-10-22,Sterne Agee CRT,12 month,5.0,buy,28.59
+2009-10-23,BMO Capital Markets,Not Provided,5.0,outperform,29.58
+2009-10-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-10-28,Buckingham Research Group,Not Provided,4.0,accumulate,29.58
+2009-10-28,J.P. Morgan,12 month,3.0,neutral,25.63
+2009-10-28,Credit Suisse,Not Provided,5.0,outperform,26.62
+2009-10-29,Barclays,Not Provided,1.0,underwt/positive,19.72
+2009-10-29,D.A. Davidson & Co,Not Provided,5.0,buy,29.58
+2009-10-29,RBC Capital Markets,12 month,5.0,outperform,28.59
+2009-10-29,UBS,Not Provided,5.0,buy,29.58
+2009-10-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2009-10-29,Soleil Securities,12 month,3.0,hold,23.66
+2009-10-29,BMO Capital Markets,Not Provided,5.0,outperform,29.58
+2009-10-31,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-11-02,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-11-03,Sterne Agee CRT,12 month,5.0,buy,28.59
+2009-11-12,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-11-19,BMO Capital Markets,Not Provided,5.0,outperform,29.58
+2009-11-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-11-20,Credit Suisse,Not Provided,5.0,outperform,29.58
+2009-11-23,Soleil Securities,12 month,3.0,hold,23.66
+2009-11-25,Goldman Sachs,12 month,5.0,Buy/Neutral,29.58
+2009-11-27,BMO Capital Markets,Not Provided,5.0,outperform,33.52
+2009-12-01,Sterne Agee CRT,12 month,5.0,buy,28.59
+2009-12-04,Sterne Agee CRT,12 month,5.0,buy,28.59
+2009-12-09,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-12-14,Sterne Agee CRT,12 month,5.0,buy,28.59
+2009-12-16,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-12-17,Sterne Agee CRT,12 month,5.0,buy,28.59
+2009-12-18,BMO Capital Markets,Not Provided,5.0,outperform,38.45
+2009-12-21,Soleil Securities,12 month,3.0,hold,23.66
+2009-12-31,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-01-05,Goldman Sachs,12 month,5.0,Buy/Neutral,32.53
+2010-01-06,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-01-07,Buckingham Research Group,12 month,5.0,buy,30.56
+2010-01-07,Sterne Agee CRT,12 month,5.0,buy,28.59
+2010-01-08,UBS,Not Provided,5.0,buy,36.48
+2010-01-11,BMO Capital Markets,Not Provided,5.0,outperform,38.45
+2010-01-19,RBC Capital Markets,12 month,5.0,outperform,28.59
+2010-01-20,BMO Capital Markets,Not Provided,5.0,outperform,39.43
+2010-01-21,Soleil Securities,12 month,3.0,hold,29.58
+2010-01-22,Barclays,Not Provided,1.0,underwt/positive,19.72
+2010-01-25,Credit Suisse,Not Provided,5.0,outperform,29.58
+2010-01-25,Sterne Agee CRT,12 month,5.0,buy,28.59
+2010-01-25,Goldman Sachs,12 month,5.0,Buy/Neutral,31.55
+2010-02-03,Buckingham Research Group,12 month,5.0,buy,30.56
+2010-02-03,Credit Suisse,Not Provided,5.0,outperform,31.55
+2010-02-03,J.P. Morgan,12 month,3.0,neutral,25.63
+2010-02-03,Soleil Securities,12 month,5.0,buy,29.58
+2010-02-04,Barclays,Not Provided,1.0,underwt/positive,19.72
+2010-02-04,RBC Capital Markets,12 month,5.0,outperform,28.59
+2010-02-04,UBS,Not Provided,5.0,buy,36.48
+2010-02-04,Goldman Sachs,12 month,5.0,Buy/Neutral,28.59
+2010-02-04,D.A. Davidson & Co,Not Provided,5.0,buy,29.58
+2010-02-05,BMO Capital Markets,Not Provided,5.0,outperform,39.43
+2010-02-05,Sterne Agee CRT,12 month,5.0,buy,28.59
+2010-02-08,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-02-23,BMO Capital Markets,Not Provided,5.0,outperform,39.43
+2010-02-26,RBC Capital Markets,12 month,5.0,outperform,28.59
+2010-03-02,BMO Capital Markets,Not Provided,5.0,outperform,42.39
+2010-03-05,J.P. Morgan,12 month,3.0,neutral,26.13
+2010-03-09,UBS,Not Provided,5.0,buy,37.46
+2010-03-09,BMO Capital Markets,Not Provided,5.0,outperform,42.39
+2010-03-16,Goldman Sachs,12 month,5.0,Buy/Neutral,31.55
+2010-03-17,Soleil Securities,12 month,5.0,buy,29.58
+2010-03-23,BMO Capital Markets,Not Provided,5.0,outperform,42.39
+2010-04-01,Soleil Securities,12 month,5.0,buy,29.58
+2010-04-06,D.A. Davidson & Co,18 month,5.0,buy,29.58
+2010-04-07,BMO Capital Markets,Not Provided,5.0,outperform,42.39
+2010-04-07,Goldman Sachs,12 month,5.0,Buy/Neutral,34.5
+2010-04-13,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2010-04-13,Barclays,Not Provided,1.0,underwt/positive,23.66
+2010-04-13,D.A. Davidson & Co,18 month,5.0,buy,29.58
+2010-04-14,J.P. Morgan,9 month,3.0,neutral,28.59
+2010-04-16,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2010-04-26,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2010-04-27,D.A. Davidson & Co,18 month,5.0,buy,29.58
+2010-04-29,Buckingham Research Group,12 month,5.0,buy,34.5
+2010-04-29,J.P. Morgan,9 month,3.0,neutral,30.56
+2010-04-29,Soleil Securities,12 month,5.0,buy,33.52
+2010-04-30,UBS,Not Provided,5.0,buy,37.46
+2010-04-30,D.A. Davidson & Co,Not Provided,5.0,buy,35.49
+2010-04-30,RBC Capital Markets,Not Provided,5.0,outperform,35.49
+2010-04-30,Credit Suisse,Not Provided,5.0,outperform,34.5
+2010-04-30,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2010-05-03,Barclays,Not Provided,1.0,underwt/positive,22.67
+2010-05-05,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-05-11,UBS,Not Provided,5.0,buy,37.46
+2010-05-14,UBS,Not Provided,5.0,buy,37.46
+2010-05-18,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2010-05-25,D.A. Davidson & Co,Not Provided,5.0,buy,35.49
+2010-05-25,RBC Capital Markets,12 month,5.0,outperform,30.56
+2010-05-26,Goldman Sachs,12 month,5.0,Buy/Neutral,29.58
+2010-06-03,Soleil Securities,12 month,5.0,buy,33.52
+2010-06-07,J.P. Morgan,6 month,3.0,neutral,26.62
+2010-06-11,Longbow Research,Not Provided,5.0,buy,31.55
+2010-06-14,RBC Capital Markets,12 month,5.0,outperform,30.56
+2010-06-15,Soleil Securities,12 month,5.0,buy,33.52
+2010-06-16,BMO Capital Markets,Not Provided,5.0,outperform,43.38
+2010-06-18,Credit Suisse,Not Provided,5.0,outperform,41.41
+2010-06-21,RBC Capital Markets,12 month,5.0,outperform,30.56
+2010-06-30,UBS,Not Provided,5.0,buy,37.46
+2010-07-01,BMO Capital Markets,Not Provided,5.0,outperform,43.38
+2010-07-12,UBS,Not Provided,5.0,buy,42.39
+2010-07-14,J.P. Morgan,6 month,3.0,neutral,26.62
+2010-07-16,BMO Capital Markets,Not Provided,5.0,outperform,43.38
+2010-07-18,Goldman Sachs,12 month,5.0,Buy/Neutral,28.59
+2010-07-19,RBC Capital Markets,12 month,5.0,outperform,30.56
+2010-07-22,BMO Capital Markets,Not Provided,5.0,outperform,43.38
+2010-07-28,Soleil Securities,12 month,5.0,buy,33.52
+2010-07-28,Credit Suisse,Not Provided,5.0,outperform,41.41
+2010-07-28,Buckingham Research Group,12 month,5.0,buy,34.5
+2010-07-28,J.P. Morgan,18 month,3.0,neutral,26.62
+2010-07-29,D.A. Davidson & Co,18 month,5.0,buy,35.49
+2010-07-29,BMO Capital Markets,Not Provided,5.0,outperform,43.38
+2010-07-29,Goldman Sachs,12 month,5.0,Buy/Neutral,27.6
+2010-07-29,RBC Capital Markets,Not Provided,5.0,outperform,30.56
+2010-07-29,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2010-07-29,UBS,Not Provided,5.0,buy,42.39
+2010-07-30,Barclays,Not Provided,1.0,underwt/positive,25.63
+2010-08-10,D.A. Davidson & Co,Not Provided,5.0,buy,35.49
+2010-08-18,BMO Capital Markets,Not Provided,5.0,outperform,43.38
+2010-08-30,D.A. Davidson & Co,Not Provided,5.0,buy,35.49
+2010-09-08,Goldman Sachs,12 month,5.0,Buy/Neutral,28.59
+2010-09-08,D.A. Davidson & Co,Not Provided,5.0,buy,35.49
+2010-09-09,BMO Capital Markets,Not Provided,5.0,outperform,43.38
+2010-09-14,D.A. Davidson & Co,Not Provided,5.0,buy,35.49
+2010-09-19,Credit Suisse,Not Provided,5.0,outperform,39.43
+2010-09-20,RBC Capital Markets,12 month,5.0,outperform,30.56
+2010-09-21,Goldman Sachs,12 month,5.0,Buy/Neutral,27.6
+2010-09-22,BMO Capital Markets,Not Provided,5.0,outperform,43.38
+2010-10-04,Soleil Securities,12 month,5.0,buy,33.52
+2010-10-05,D.A. Davidson & Co,Not Provided,5.0,buy,35.49
+2010-10-05,RBC Capital Markets,12 month,5.0,outperform,30.56
+2010-10-05,BMO Capital Markets,Not Provided,5.0,outperform,43.38
+2010-10-08,UBS,Not Provided,5.0,buy,39.43
+2010-10-11,Goldman Sachs,12 month,5.0,Buy/Neutral,28.59
+2010-10-19,D.A. Davidson & Co,Not Provided,5.0,buy,35.49
+2010-10-27,Goldman Sachs,12 month,5.0,Buy/Neutral,29.58
+2010-10-27,Buckingham Research Group,12 month,5.0,buy,34.5
+2010-10-28,Barclays,Not Provided,1.0,underwt/positive,26.62
+2010-10-28,RBC Capital Markets,12 month,5.0,outperform,31.55
+2010-10-28,UBS,12 month,5.0,buy,39.43
+2010-10-28,Credit Suisse,Not Provided,5.0,outperform,39.43
+2010-10-28,D.A. Davidson & Co,18 month,5.0,buy,35.49
+2010-10-28,BMO Capital Markets,Not Provided,5.0,outperform,43.38
+2010-11-01,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-11-02,D.A. Davidson & Co,Not Provided,5.0,buy,35.49
+2010-11-09,D.A. Davidson & Co,18 month,5.0,buy,35.49
+2010-12-06,D.A. Davidson & Co,18 month,5.0,buy,35.49
+2010-12-14,Buckingham Research Group,12 month,5.0,buy,34.5
+2010-12-21,D.A. Davidson & Co,18 month,5.0,buy,35.49
+2011-01-03,D.A. Davidson & Co,Not Provided,5.0,buy,35.49
+2011-01-09,Goldman Sachs,12 month,5.0,Buy/Neutral,32.53
+2011-01-11,Credit Suisse,Not Provided,5.0,outperform,39.43
+2011-01-12,BMO Capital Markets,Not Provided,5.0,outperform,43.38
+2011-01-18,RBC Capital Markets,12 month,5.0,outperform,31.55
+2011-01-19,D.A. Davidson & Co,18 month,5.0,buy,35.49
+2011-01-26,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-02-03,Buckingham Research Group,12 month,5.0,buy,36.48
+2011-02-03,Credit Suisse,Not Provided,5.0,outperform,39.43
+2011-02-03,RBC Capital Markets,12 month,5.0,outperform,31.55
+2011-02-03,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-02-04,Longbow Research,Not Provided,5.0,buy,37.46
+2011-02-04,Barclays,Not Provided,1.0,underwt/positive,26.62
+2011-02-04,Credit Suisse,Not Provided,5.0,outperform,40.42
+2011-02-04,D.A. Davidson & Co,12 month,5.0,buy,40.42
+2011-02-07,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-02-07,RBC Capital Markets,12 month,5.0,outperform,35.49
+2011-02-08,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-02-15,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-02-18,Goldman Sachs,12 month,5.0,Buy/Neutral,36.48
+2011-02-18,J.P. Morgan,12 month,3.0,neutral,34.5
+2011-02-23,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-08,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-03-08,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-03-08,RBC Capital Markets,12 month,5.0,outperform,35.49
+2011-03-09,Credit Suisse,Not Provided,5.0,outperform,40.42
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-15,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-03-17,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-03-29,D.A. Davidson & Co,Not Provided,5.0,buy,40.42
+2011-03-29,Credit Suisse,Not Provided,5.0,outperform,40.42
+2011-03-31,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-04-08,J.P. Morgan,12 month,3.0,neutral,34.5
+2011-04-11,RBC Capital Markets,12 month,5.0,outperform,35.49
+2011-04-12,Credit Suisse,Not Provided,5.0,outperform,41.41
+2011-04-25,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-04-25,RBC Capital Markets,12 month,5.0,outperform,35.49
+2011-04-28,J.P. Morgan,9 month,3.0,neutral,35.49
+2011-04-28,Buckingham Research Group,12 month,5.0,buy,37.46
+2011-04-29,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-04-29,Barclays,Not Provided,1.0,underwt/positive,27.6
+2011-04-29,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-04-29,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-04-29,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-05-03,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-05-10,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-05-16,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-05-17,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-05-18,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-05-24,D.A. Davidson & Co,Not Provided,5.0,buy,40.42
+2011-05-30,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-06-06,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2011-06-07,J.P. Morgan,9 month,3.0,neutral,35.49
+2011-06-07,UBS,Not Provided,-2147483648.0,restricted,-0.0
+2011-06-07,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-06-07,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-06-07,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-06-10,Barclays,Not Provided,1.0,underwt/positive,27.6
+2011-06-13,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-06-17,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-06-28,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-07-12,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-07-12,BMO Capital Markets,Not Provided,5.0,outperform,45.35
+2011-07-15,J.P. Morgan,18 month,3.0,neutral,37.46
+2011-07-17,BMO Capital Markets,Not Provided,5.0,outperform,47.32
+2011-07-18,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-07-25,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-07-27,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-07-28,Buckingham Research Group,12 month,5.0,buy,37.46
+2011-07-28,BMO Capital Markets,Not Provided,5.0,outperform,47.32
+2011-07-29,Barclays,Not Provided,1.0,underwt/positive,28.59
+2011-07-29,J.P. Morgan,18 month,3.0,neutral,38.45
+2011-07-29,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-08-02,D.A. Davidson & Co,Not Provided,5.0,buy,40.42
+2011-08-09,BMO Capital Markets,Not Provided,5.0,outperform,47.32
+2011-08-15,J.P. Morgan,18 month,3.0,neutral,38.45
+2011-08-16,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-08-17,BMO Capital Markets,Not Provided,5.0,outperform,47.32
+2011-08-23,D.A. Davidson & Co,Not Provided,5.0,buy,40.42
+2011-08-24,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-09-06,Buckingham Research Group,12 month,5.0,buy,37.46
+2011-09-06,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-09-06,BMO Capital Markets,Not Provided,5.0,outperform,47.32
+2011-09-07,UBS,12 month,5.0,buy,39.43
+2011-09-07,J.P. Morgan,15 month,3.0,neutral,38.45
+2011-09-13,BMO Capital Markets,Not Provided,5.0,outperform,47.32
+2011-09-13,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-09-20,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-09-22,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-09-26,RBC Capital Markets,12 month,5.0,outperform,36.48
+2011-09-28,J.P. Morgan,15 month,3.0,neutral,26.62
+2011-10-04,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-10-05,D.A. Davidson & Co,Not Provided,5.0,buy,40.42
+2011-10-13,Longbow Research,12 month,5.0,buy,35.49
+2011-10-13,RBC Capital Markets,12 month,5.0,outperform,32.53
+2011-10-17,RBC Capital Markets,12 month,5.0,outperform,32.53
+2011-10-18,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2011-10-18,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-27,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2011-10-27,Buckingham Research Group,12 month,5.0,buy,37.46
+2011-10-27,RBC Capital Markets,12 month,5.0,outperform,34.5
+2011-10-27,UBS,12 month,5.0,buy,42.39
+2011-10-28,UBS,12 month,5.0,buy,42.39
+2011-10-28,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-10-31,J.P. Morgan,12 month,3.0,neutral,28.59
+2011-11-03,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-11-08,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-15,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-11-16,RBC Capital Markets,12 month,5.0,outperform,34.5
+2011-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-22,UBS,12 month,5.0,buy,42.39
+2011-11-22,RBC Capital Markets,12 month,5.0,outperform,34.5
+2011-11-24,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-30,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2011-12-05,Credit Suisse,Not Provided,3.0,neutral,28.59
+2011-12-06,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2011-12-16,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2011-12-20,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2012-01-03,D.A. Davidson & Co,Not Provided,5.0,buy,40.42
+2012-01-09,Credit Suisse,Not Provided,3.0,neutral,30.56
+2012-01-10,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2012-01-12,J.P. Morgan,9 month,3.0,neutral,34.5
+2012-01-19,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2012-01-23,RBC Capital Markets,12 month,5.0,outperform,34.5
+2012-01-23,Credit Suisse,Not Provided,3.0,neutral,30.56
+2012-01-30,Credit Suisse,Not Provided,3.0,neutral,30.56
+2012-01-31,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2012-02-01,RBC Capital Markets,12 month,5.0,outperform,34.5
+2012-02-02,J.P. Morgan,9 month,3.0,neutral,34.5
+2012-02-02,Buckingham Research Group,12 month,5.0,buy,37.46
+2012-02-02,UBS,12 month,5.0,buy,38.45
+2012-02-03,Credit Suisse,Not Provided,3.0,neutral,30.56
+2012-02-03,D.A. Davidson & Co,12 month,5.0,buy,40.42
+2012-02-03,BMO Capital Markets,Not Provided,5.0,outperform,44.36
+2012-02-03,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-02-08,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2012-02-13,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2012-02-13,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-02-13,Longbow Research,12 month,5.0,buy,37.46
+2012-02-13,BMO Capital Markets,Not Provided,5.0,outperform,46.34
+2012-02-15,Credit Suisse,Not Provided,3.0,neutral,32.53
+2012-02-22,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-03-04,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-03-06,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2012-03-08,Credit Suisse,Not Provided,3.0,neutral,32.53
+2012-03-14,UBS,12 month,5.0,buy,42.39
+2012-03-15,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-03-22,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-03-28,Credit Suisse,Not Provided,3.0,neutral,32.53
+2012-04-02,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-04-03,Barclays,Not Provided,5.0,overwt/neutral,43.38
+2012-04-10,D.A. Davidson & Co,Not Provided,5.0,buy,40.42
+2012-04-10,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-04-12,J.P. Morgan,6 month,3.0,neutral,34.5
+2012-04-16,Credit Suisse,Not Provided,3.0,neutral,33.52
+2012-04-17,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-04-17,D.A. Davidson & Co,18 month,5.0,buy,40.42
+2012-04-20,BMO Capital Markets,Not Provided,5.0,outperform,46.34
+2012-04-27,J.P. Morgan,6 month,3.0,neutral,34.5
+2012-04-27,Buckingham Research Group,12 month,5.0,buy,41.41
+2012-04-27,BMO Capital Markets,Not Provided,5.0,outperform,46.34
+2012-04-27,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-04-28,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-04-29,Credit Suisse,Not Provided,3.0,neutral,34.5
+2012-04-29,BMO Capital Markets,Not Provided,5.0,outperform,46.34
+2012-04-30,UBS,12 month,5.0,buy,41.41
+2012-04-30,Barclays,Not Provided,5.0,overwt/neutral,43.38
+2012-04-30,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-05-01,D.A. Davidson & Co,12 month,5.0,buy,44.36
+2012-05-04,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2012-05-08,D.A. Davidson & Co,18 month,5.0,buy,44.36
+2012-05-14,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-05-16,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-05-22,Goldman Sachs,12 month,3.0,neutral/attractive,30.56
+2012-05-24,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-05-24,J.P. Morgan,6 month,3.0,neutral,32.53
+2012-05-25,UBS,12 month,5.0,buy,41.41
+2012-05-25,Credit Suisse,Not Provided,3.0,neutral,34.5
+2012-06-01,BMO Capital Markets,Not Provided,5.0,outperform,46.34
+2012-06-01,Credit Suisse,Not Provided,3.0,neutral,34.5
+2012-06-01,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-06-05,D.A. Davidson & Co,18 month,5.0,buy,44.36
+2012-06-06,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-06-18,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-06-19,D.A. Davidson & Co,18 month,5.0,buy,44.36
+2012-06-22,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-06-25,Credit Suisse,Not Provided,3.0,neutral,33.52
+2012-06-26,Credit Suisse,Not Provided,3.0,neutral,33.52
+2012-06-29,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-07-06,Barclays,Not Provided,5.0,overweight,38.45
+2012-07-08,BMO Capital Markets,Not Provided,5.0,outperform,46.34
+2012-07-10,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-07-13,J.P. Morgan,12 month,3.0,neutral,31.55
+2012-07-15,Credit Suisse,Not Provided,3.0,neutral,33.52
+2012-07-16,Goldman Sachs,12 month,3.0,neutral/attractive,28.59
+2012-07-17,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-07-17,D.A. Davidson & Co,18 month,5.0,buy,44.36
+2012-07-20,RBC Capital Markets,12 month,3.0,sector perform,33.52
+2012-07-24,D.A. Davidson & Co,18 month,5.0,buy,44.36
+2012-07-26,J.P. Morgan,3 month,3.0,neutral,31.55
+2012-07-27,RBC Capital Markets,12 month,3.0,sector perform,35.49
+2012-07-27,Credit Suisse,Not Provided,3.0,neutral,33.52
+2012-07-27,D.A. Davidson & Co,12 month,5.0,buy,44.36
+2012-07-27,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-07-27,Buckingham Research Group,12 month,5.0,buy,41.41
+2012-07-27,BMO Capital Markets,Not Provided,5.0,outperform,46.34
+2012-07-30,Barclays,Not Provided,5.0,overweight,38.45
+2012-07-31,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2012-08-07,D.A. Davidson & Co,18 month,5.0,buy,44.36
+2012-08-13,Credit Suisse,Not Provided,5.0,outperform,39.43
+2012-08-14,D.A. Davidson & Co,18 month,5.0,buy,44.36
+2012-08-17,J.P. Morgan,3 month,3.0,neutral,31.55
+2012-08-22,RBC Capital Markets,12 month,3.0,sector perform,35.49
+2012-08-29,Credit Suisse,Not Provided,5.0,outperform,39.43
+2012-09-05,D.A. Davidson & Co,18 month,5.0,buy,44.36
+2012-09-07,Goldman Sachs,12 month,3.0,neutral/attractive,38.45
+2012-09-13,Barclays,Not Provided,5.0,overweight,38.45
+2012-09-17,Longbow Research,12 month,3.0,neutral,37.46
+2012-09-19,D.A. Davidson & Co,18 month,5.0,buy,44.36
+2012-09-23,Credit Suisse,Not Provided,5.0,outperform,43.38
+2012-09-24,J.P. Morgan,12 month,3.0,neutral,45.35
+2012-09-24,RBC Capital Markets,12 month,3.0,sector perform,36.48
+2012-09-24,Buckingham Research Group,12 month,5.0,buy,43.38
+2012-09-24,BMO Capital Markets,Not Provided,5.0,outperform,47.32
+2012-10-02,BMO Capital Markets,Not Provided,5.0,outperform,47.32
+2012-10-09,Credit Suisse,Not Provided,5.0,outperform,43.38
+2012-10-09,D.A. Davidson & Co,18 month,5.0,buy,49.29
+2012-10-10,UBS,12 month,5.0,buy,41.41
+2012-10-10,BMO Capital Markets,Not Provided,5.0,outperform,47.32
+2012-10-10,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-10-11,Buckingham Research Group,12 month,5.0,buy,43.38
+2012-10-12,Credit Suisse,Not Provided,5.0,outperform,43.38
+2012-10-15,RBC Capital Markets,12 month,3.0,sector perform,36.48
+2012-10-16,D.A. Davidson & Co,18 month,5.0,buy,49.29
+2012-10-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-10-22,RBC Capital Markets,12 month,3.0,sector perform,36.48
+2012-10-23,D.A. Davidson & Co,18 month,5.0,buy,49.29
+2012-10-24,Credit Suisse,Not Provided,5.0,outperform,43.38
+2012-10-24,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-10-25,BMO Capital Markets,Not Provided,5.0,outperform,47.32
+2012-10-25,Buckingham Research Group,12 month,5.0,buy,43.38
+2012-10-26,D.A. Davidson & Co,12 month,5.0,buy,49.29
+2012-10-26,Credit Suisse,Not Provided,5.0,outperform,41.41
+2012-10-26,RBC Capital Markets,12 month,3.0,sector perform,36.48
+2012-10-26,UBS,12 month,5.0,buy,43.38
+2012-10-26,Barclays,Not Provided,5.0,overweight,40.42
+2012-10-26,J.P. Morgan,12 month,3.0,neutral,43.38
+2012-10-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-11-05,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-11-06,Argus Research Corp,Not Provided,5.0,buy,41.41
+2012-11-06,D.A. Davidson & Co,18 month,5.0,buy,49.29
+2012-11-15,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-11-21,D.A. Davidson & Co,18 month,5.0,buy,49.29
+2012-11-21,RBC Capital Markets,12 month,3.0,sector perform,36.48
+2012-11-26,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-11-28,RBC Capital Markets,12 month,3.0,sector perform,36.48
+2012-12-03,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-12-04,D.A. Davidson & Co,18 month,5.0,buy,49.29
+2012-12-05,Argus Research Corp,Not Provided,5.0,buy,41.41
+2012-12-10,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-12-13,Buckingham Research Group,12 month,5.0,buy,43.38
+2012-12-13,BMO Capital Markets,Not Provided,5.0,outperform,47.32
+2012-12-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-12-18,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-12-26,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-12-31,RBC Capital Markets,12 month,3.0,sector perform,36.48
+2013-01-02,D.A. Davidson & Co,18 month,5.0,buy,49.29
+2013-01-07,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-01-09,J.P. Morgan,12 month,3.0,neutral,45.35
+2013-01-14,BMO Capital Markets,Not Provided,5.0,outperform,55.21
+2013-01-15,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-01-15,D.A. Davidson & Co,18 month,5.0,buy,49.29
+2013-01-15,Goldman Sachs,12 month,3.0,neutral/neutral,40.42
+2013-01-16,Buckingham Research Group,12 month,5.0,buy,47.32
+2013-01-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-01-18,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-01-22,D.A. Davidson & Co,18 month,5.0,buy,49.29
+2013-01-24,RBC Capital Markets,12 month,3.0,sector perform,39.43
+2013-01-29,J.P. Morgan,9 month,3.0,neutral,45.35
+2013-01-29,RBC Capital Markets,12 month,3.0,sector perform,39.43
+2013-01-30,Goldman Sachs,12 month,3.0,neutral/neutral,41.41
+2013-01-30,Buckingham Research Group,12 month,5.0,buy,47.32
+2013-01-30,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-01-30,UBS,12 month,5.0,buy,45.35
+2013-01-30,D.A. Davidson & Co,18 month,5.0,buy,49.29
+2013-01-30,BMO Capital Markets,Not Provided,5.0,outperform,55.21
+2013-01-30,Barclays,Not Provided,5.0,overweight,54.22
+2013-02-04,Argus Research Corp,Not Provided,5.0,buy,47.32
+2013-02-04,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-02-05,D.A. Davidson & Co,18 month,5.0,buy,49.29
+2013-02-11,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-02-21,Goldman Sachs,12 month,3.0,neutral/neutral,46.34
+2013-02-21,RBC Capital Markets,12 month,3.0,sector perform,39.43
+2013-02-21,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-02-25,J.P. Morgan,9 month,5.0,overweight,50.28
+2013-02-25,Jefferies,12 month,5.0,buy,51.26
+2013-02-27,Longbow Research,12 month,5.0,buy,55.21
+2013-02-28,Barclays,Not Provided,5.0,overweight,54.22
+2013-03-01,RBC Capital Markets,12 month,5.0,outperform,51.26
+2013-03-01,D.A. Davidson & Co,18 month,5.0,buy,54.22
+2013-03-04,BMO Capital Markets,Not Provided,5.0,outperform,55.21
+2013-03-04,Longbow Research,12 month,5.0,buy,55.21
+2013-03-04,D.A. Davidson & Co,18 month,5.0,buy,54.22
+2013-03-07,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-03-13,Longbow Research,12 month,5.0,buy,55.21
+2013-03-18,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-03-18,Longbow Research,12 month,5.0,buy,55.21
+2013-03-19,BMO Capital Markets,Not Provided,5.0,outperform,55.21
+2013-03-25,RBC Capital Markets,12 month,5.0,outperform,51.26
+2013-04-01,Longbow Research,12 month,5.0,buy,55.21
+2013-04-08,Longbow Research,12 month,5.0,buy,55.21
+2013-04-09,UBS,12 month,5.0,buy,51.26
+2013-04-12,Goldman Sachs,12 month,3.0,neutral/neutral,50.28
+2013-04-12,Jefferies,12 month,5.0,buy,59.15
+2013-04-15,Longbow Research,12 month,5.0,buy,55.21
+2013-04-16,J.P. Morgan,6 month,5.0,overweight,50.28
+2013-04-16,Macquarie,12 month,5.0,outperform,55.21
+2013-04-22,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-04-22,RBC Capital Markets,12 month,5.0,outperform,53.24
+2013-04-22,BMO Capital Markets,Not Provided,5.0,outperform,55.21
+2013-04-22,Jefferies,12 month,5.0,buy,59.15
+2013-04-22,Longbow Research,12 month,5.0,buy,55.21
+2013-04-23,Jefferies,12 month,5.0,buy,59.15
+2013-04-24,BMO Capital Markets,Not Provided,5.0,outperform,61.12
+2013-04-29,Longbow Research,12 month,5.0,buy,55.21
+2013-04-29,D.A. Davidson & Co,18 month,5.0,buy,54.22
+2013-05-02,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-05-02,J.P. Morgan,6 month,5.0,overweight,49.29
+2013-05-02,RBC Capital Markets,12 month,5.0,outperform,53.24
+2013-05-02,UBS,12 month,5.0,buy,50.28
+2013-05-03,BMO Capital Markets,Not Provided,5.0,outperform,61.12
+2013-05-03,Jefferies,12 month,5.0,buy,59.15
+2013-05-03,Macquarie,12 month,5.0,outperform,52.25
+2013-05-03,Barclays,Not Provided,5.0,overweight,52.25
+2013-05-06,Longbow Research,12 month,5.0,buy,53.24
+2013-05-06,D.A. Davidson & Co,12 month,5.0,buy,54.22
+2013-05-06,Goldman Sachs,12 month,3.0,neutral/neutral,49.29
+2013-05-13,Longbow Research,12 month,5.0,buy,53.24
+2013-05-13,D.A. Davidson & Co,18 month,5.0,buy,54.22
+2013-05-13,RBC Capital Markets,12 month,5.0,outperform,53.24
+2013-05-14,Macquarie,12 month,5.0,outperform,52.25
+2013-05-15,Argus Research Corp,Not Provided,5.0,buy,52.25
+2013-05-17,RBC Capital Markets,12 month,5.0,outperform,53.24
+2013-05-17,Jefferies,12 month,5.0,buy,59.15
+2013-05-20,Longbow Research,12 month,5.0,buy,53.24
+2013-05-22,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-05-23,Jefferies,12 month,5.0,buy,59.15
+2013-05-27,RBC Capital Markets,12 month,5.0,outperform,53.24
+2013-06-03,Longbow Research,12 month,5.0,buy,53.24
+2013-06-04,D.A. Davidson & Co,18 month,5.0,buy,54.22
+2013-06-10,Macquarie,12 month,5.0,outperform,52.25
+2013-06-11,Longbow Research,12 month,5.0,buy,53.24
+2013-06-13,Goldman Sachs,12 month,5.0,Buy/Neutral,54.22
+2013-06-17,Longbow Research,12 month,5.0,buy,53.24
+2013-06-18,BMO Capital Markets,Not Provided,5.0,outperform,61.12
+2013-06-23,BMO Capital Markets,Not Provided,5.0,outperform,61.12
+2013-06-24,Longbow Research,12 month,5.0,buy,53.24
+2013-06-24,RBC Capital Markets,12 month,5.0,outperform,53.24
+2013-07-01,Longbow Research,12 month,5.0,buy,53.24
+2013-07-09,Longbow Research,12 month,5.0,buy,53.24
+2013-07-10,J.P. Morgan,15 month,5.0,overweight,52.25
+2013-07-10,Jefferies,12 month,5.0,buy,59.15
+2013-07-15,Macquarie,12 month,5.0,outperform,54.22
+2013-07-15,Barclays,Not Provided,5.0,overweight,52.25
+2013-07-16,RBC Capital Markets,12 month,5.0,outperform,53.24
+2013-07-16,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-07-17,Longbow Research,12 month,5.0,buy,53.24
+2013-07-17,D.A. Davidson & Co,18 month,5.0,buy,54.22
+2013-07-19,Jefferies,12 month,5.0,buy,59.15
+2013-07-22,D.A. Davidson & Co,18 month,5.0,buy,54.22
+2013-07-22,Longbow Research,12 month,5.0,buy,53.24
+2013-07-25,UBS,12 month,5.0,buy,54.22
+2013-07-25,BMO Capital Markets,Not Provided,5.0,outperform,61.12
+2013-07-26,RBC Capital Markets,12 month,5.0,outperform,57.18
+2013-07-26,Longbow Research,12 month,5.0,buy,53.24
+2013-07-26,Macquarie,12 month,5.0,outperform,54.22
+2013-07-26,J.P. Morgan,15 month,5.0,overweight,55.21
+2013-07-26,Jefferies,12 month,5.0,buy,59.15
+2013-07-26,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-07-26,D.A. Davidson & Co,12 month,5.0,buy,61.12
+2013-07-26,Barclays,Not Provided,5.0,overweight,57.18
+2013-07-30,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-08-06,D.A. Davidson & Co,18 month,5.0,buy,61.12
+2013-08-07,Argus Research Corp,Not Provided,5.0,buy,55.21
+2013-08-13,Longbow Research,12 month,5.0,buy,53.24
+2013-08-14,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-08-15,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-08-16,J.P. Morgan,15 month,5.0,overweight,55.21
+2013-08-16,BMO Capital Markets,Not Provided,5.0,outperform,61.12
+2013-08-19,Longbow Research,12 month,5.0,buy,53.24
+2013-08-26,Jefferies,12 month,5.0,buy,59.15
+2013-09-04,Longbow Research,12 month,5.0,buy,53.24
+2013-09-04,D.A. Davidson & Co,18 month,5.0,buy,61.12
+2013-09-11,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-09-11,Jefferies,12 month,5.0,buy,59.15
+2013-09-11,BMO Capital Markets,Not Provided,5.0,outperform,61.12
+2013-09-11,Longbow Research,12 month,5.0,buy,53.24
+2013-09-13,J.P. Morgan,12 month,5.0,overweight,53.24
+2013-09-17,BMO Capital Markets,Not Provided,5.0,outperform,61.12
+2013-09-18,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-09-18,Longbow Research,12 month,5.0,buy,53.24
+2013-09-18,D.A. Davidson & Co,18 month,5.0,buy,61.12
+2013-09-26,D.A. Davidson & Co,12 month,5.0,buy,61.12
+2013-10-01,BMO Capital Markets,Not Provided,5.0,outperform,57.18
+2013-10-01,D.A. Davidson & Co,12 month,5.0,buy,61.12
+2013-10-01,Longbow Research,12 month,5.0,buy,53.24
+2013-10-08,Longbow Research,12 month,5.0,buy,53.24
+2013-10-08,BMO Capital Markets,Not Provided,5.0,outperform,57.18
+2013-10-08,Jefferies,12 month,5.0,buy,56.19
+2013-10-08,D.A. Davidson & Co,18 month,5.0,buy,61.12
+2013-10-09,RBC Capital Markets,12 month,5.0,outperform,55.21
+2013-10-14,Barclays,Not Provided,5.0,overweight,54.22
+2013-10-14,Macquarie,12 month,5.0,outperform,51.26
+2013-10-15,BMO Capital Markets,Not Provided,5.0,outperform,57.18
+2013-10-15,Longbow Research,12 month,5.0,buy,53.24
+2013-10-15,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-10-24,Longbow Research,12 month,5.0,buy,53.24
+2013-10-24,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-10-24,BMO Capital Markets,Not Provided,5.0,outperform,57.18
+2013-10-24,RBC Capital Markets,12 month,5.0,outperform,55.21
+2013-10-24,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-10-24,Jefferies,12 month,5.0,buy,56.19
+2013-10-25,Barclays,Not Provided,5.0,overweight,52.25
+2013-10-25,J.P. Morgan,12 month,5.0,overweight,49.29
+2013-10-25,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-10-25,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-10-25,Jefferies,12 month,5.0,buy,55.21
+2013-10-25,BMO Capital Markets,Not Provided,5.0,outperform,57.18
+2013-10-25,D.A. Davidson & Co,12 month,5.0,buy,61.12
+2013-10-28,Argus Research Corp,Not Provided,5.0,buy,55.21
+2013-10-28,Macquarie,12 month,5.0,outperform,51.26
+2013-10-28,Longbow Research,12 month,5.0,buy,53.24
+2013-10-29,Spin-Off Research,12 month,3.0,neutral,44.36
+2013-11-04,D.A. Davidson & Co,18 month,5.0,buy,61.12
+2013-11-08,Spin-Off Research,Not Provided,3.0,neutral,44.36
+2013-11-11,Jefferies,12 month,5.0,buy,55.21
+2013-11-13,Longbow Research,12 month,5.0,buy,53.24
+2013-11-13,BMO Capital Markets,Not Provided,5.0,outperform,57.18
+2013-11-18,Jefferies,12 month,5.0,buy,55.21
+2013-11-19,Longbow Research,12 month,5.0,buy,53.24
+2013-11-21,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-11-21,RBC Capital Markets,12 month,5.0,outperform,53.24
+2013-11-25,Longbow Research,12 month,5.0,buy,53.24
+2013-12-03,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-12-04,Longbow Research,12 month,5.0,buy,53.24
+2013-12-06,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-12-09,D.A. Davidson & Co,18 month,5.0,buy,61.12
+2013-12-11,Longbow Research,12 month,5.0,buy,53.24
+2013-12-13,Buckingham Research Group,12 month,5.0,buy,51.26
+2013-12-16,Longbow Research,12 month,5.0,buy,53.24
+2013-12-17,D.A. Davidson & Co,18 month,5.0,buy,61.12
+2013-12-20,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-01-06,D.A. Davidson & Co,18 month,5.0,buy,61.12
+2014-01-06,Longbow Research,12 month,5.0,buy,53.24
+2014-01-08,UBS,12 month,5.0,buy,53.24
+2014-01-10,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-01-14,Longbow Research,12 month,5.0,buy,53.24
+2014-01-14,J.P. Morgan,12 month,5.0,overweight,52.25
+2014-01-16,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-01-21,Longbow Research,12 month,5.0,buy,53.24
+2014-01-22,Barclays,Not Provided,5.0,overweight,54.22
+2014-01-27,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-01-27,Macquarie,12 month,5.0,outperform,57.18
+2014-01-28,Jefferies,12 month,5.0,buy,55.21
+2014-01-28,RBC Capital Markets,12 month,5.0,outperform,53.24
+2014-01-28,Longbow Research,12 month,5.0,buy,53.24
+2014-02-04,D.A. Davidson & Co,12 month,5.0,buy,61.12
+2014-02-04,RBC Capital Markets,12 month,5.0,outperform,52.25
+2014-02-04,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-02-05,Longbow Research,12 month,5.0,buy,53.24
+2014-02-05,Macquarie,12 month,5.0,outperform,56.19
+2014-02-05,Jefferies,12 month,5.0,buy,54.22
+2014-02-05,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-02-05,Spin-Off Research,12 month,3.0,neutral,51.26
+2014-02-05,Goldman Sachs,12 month,5.0,Buy/Neutral,51.26
+2014-02-10,Barclays,Not Provided,5.0,overweight,54.22
+2014-02-10,Longbow Research,12 month,5.0,buy,53.24
+2014-02-12,Argus Research Corp,Not Provided,5.0,buy,55.21
+2014-02-20,Longbow Research,12 month,5.0,buy,53.24
+2014-02-20,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-02-24,Longbow Research,12 month,5.0,buy,53.24
+2014-02-25,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-03-03,Longbow Research,12 month,5.0,buy,53.24
+2014-03-04,D.A. Davidson & Co,18 month,5.0,buy,61.12
+2014-03-06,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-03-10,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-03-11,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-03-12,Longbow Research,12 month,5.0,buy,53.24
+2014-03-17,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-03-17,Longbow Research,12 month,5.0,buy,53.24
+2014-03-23,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-03-24,Macquarie,12 month,5.0,outperform,56.19
+2014-03-27,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-03-27,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-03-31,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-04-02,Jefferies,12 month,5.0,buy,54.22
+2014-04-03,Longbow Research,12 month,5.0,buy,53.24
+2014-04-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-07,D.A. Davidson & Co,Not Provided,5.0,buy,61.12
+2014-04-07,Buckingham Research Group,Not Provided,5.0,buy,51.26
+2014-04-08,Credit Suisse,Not Provided,5.0,outperform,66.05
+2014-04-09,Goldman Sachs,12 month,5.0,Buy/Neutral,57.18
+2014-04-10,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-14,Barclays,Not Provided,5.0,overweight,53.24
+2014-04-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-15,Macquarie,12 month,5.0,outperform,56.19
+2014-04-16,RBC Capital Markets,12 month,5.0,outperform,52.25
+2014-04-16,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-04-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-04-21,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-04-24,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-04-29,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-30,Goldman Sachs,12 month,5.0,Buy/Neutral,54.22
+2014-04-30,Jefferies,12 month,5.0,buy,55.21
+2014-04-30,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-04-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-01,D.A. Davidson & Co,12 month,5.0,buy,61.12
+2014-05-01,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-05-01,RBC Capital Markets,12 month,5.0,outperform,52.25
+2014-05-01,Spin-Off Research,Not Provided,3.0,neutral,50.28
+2014-05-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-05-02,Macquarie,12 month,5.0,outperform,56.19
+2014-05-05,Barclays,Not Provided,5.0,overweight,52.25
+2014-05-05,Credit Suisse,Not Provided,5.0,outperform,69.01
+2014-05-05,D.A. Davidson & Co,12 month,5.0,buy,61.12
+2014-05-05,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-05-08,Jefferies,12 month,5.0,buy,55.21
+2014-05-12,RBC Capital Markets,12 month,5.0,outperform,52.25
+2014-05-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-14,Argus Research Corp,Not Provided,5.0,buy,55.21
+2014-05-15,Jefferies,12 month,5.0,buy,55.21
+2014-05-15,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-05-15,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-05-20,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-05-23,Macquarie,12 month,5.0,outperform,56.19
+2014-05-27,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-05-27,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-05-29,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-06-03,Jefferies,Not Provided,5.0,buy,55.21
+2014-06-09,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-06-09,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-06-10,D.A. Davidson & Co,12 month,5.0,buy,61.12
+2014-06-16,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-06-16,Jefferies,Not Provided,5.0,buy,55.21
+2014-06-16,Spin-Off Research,Not Provided,3.0,neutral,52.25
+2014-06-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-06-18,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-06-19,Spin-Off Research,Not Provided,3.0,neutral,52.25
+2014-06-23,Jefferies,Not Provided,5.0,buy,55.21
+2014-06-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-23,Buckingham Research Group,Not Provided,5.0,buy,51.26
+2014-06-23,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-06-30,Jefferies,Not Provided,5.0,buy,55.21
+2014-07-01,D.A. Davidson & Co,Not Provided,5.0,buy,61.12
+2014-07-02,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-07-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-02,Credit Suisse,Not Provided,5.0,outperform,69.0
+2014-07-07,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-07-07,Spin-Off Research,Not Provided,3.0,neutral,52.0
+2014-07-07,Buckingham Research Group,12 month,5.0,buy,51.26
+2014-07-08,Jefferies,12 month,5.0,buy,55.21
+2014-07-09,Credit Suisse,Not Provided,5.0,outperform,69.0
+2014-07-11,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-07-11,Jefferies,12 month,5.0,buy,59.0
+2014-07-15,Macquarie,12 month,5.0,outperform,58.0
+2014-07-15,RBC Capital Markets,12 month,3.0,sector perform,53.0
+2014-07-15,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-07-21,Macquarie,12 month,3.0,neutral,54.0
+2014-07-21,Goldman Sachs,12 month,5.0,Buy/Neutral,54.0
+2014-07-21,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-07-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-21,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-07-21,Jefferies,Not Provided,5.0,buy,59.0
+2014-07-28,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-07-29,Barclays,Not Provided,5.0,overweight,52.25
+2014-07-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-29,Credit Suisse,Not Provided,5.0,outperform,69.0
+2014-07-29,D.A. Davidson & Co,Not Provided,5.0,buy,61.12
+2014-07-29,RBC Capital Markets,12 month,3.0,sector perform,53.0
+2014-07-29,Jefferies,12 month,5.0,buy,59.0
+2014-07-29,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-07-29,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-07-30,Spin-Off Research,Not Provided,3.0,neutral,52.0
+2014-07-30,Macquarie,12 month,3.0,neutral,52.0
+2014-07-30,D.A. Davidson & Co,Not Provided,5.0,buy,61.12
+2014-07-30,Credit Suisse,Not Provided,5.0,outperform,69.0
+2014-08-04,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-08-04,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-08-04,Jefferies,Not Provided,5.0,buy,59.0
+2014-08-06,Barclays,Not Provided,5.0,overweight,60.0
+2014-08-10,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2014-08-11,Jefferies,12 month,5.0,buy,59.0
+2014-08-11,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-08-11,Argus Research Corp,Not Provided,5.0,buy,55.21
+2014-08-11,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-08-18,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-08-18,Jefferies,12 month,5.0,buy,59.0
+2014-08-18,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-08-25,Jefferies,Not Provided,5.0,buy,59.0
+2014-08-25,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-08-26,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-09-01,Jefferies,Not Provided,5.0,buy,59.0
+2014-09-02,D.A. Davidson & Co,Not Provided,5.0,buy,61.12
+2014-09-03,BMO Capital Markets,Not Provided,3.0,market perform,51.0
+2014-09-03,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-09-09,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-09-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-09,Jefferies,12 month,5.0,buy,59.0
+2014-09-10,Macquarie,12 month,3.0,neutral,52.0
+2014-09-11,Macquarie,12 month,3.0,neutral,52.0
+2014-09-11,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2014-09-12,Credit Suisse,Not Provided,5.0,outperform,69.0
+2014-09-12,Jefferies,12 month,5.0,buy,59.0
+2014-09-17,BMO Capital Markets,Not Provided,3.0,market perform,51.0
+2014-09-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-09-17,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-09-22,BMO Capital Markets,Not Provided,3.0,market perform,51.0
+2014-09-22,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-09-22,D.A. Davidson & Co,18 month,5.0,buy,61.12
+2014-09-24,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-09-24,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-09-26,Jefferies,Not Provided,5.0,buy,59.0
+2014-09-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-09-29,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-09-29,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-09-30,ERA Forest Products Research,Not Provided,5.0,sector outperform,52.0
+2014-10-03,Jefferies,Not Provided,5.0,buy,59.0
+2014-10-03,ERA Forest Products Research,Not Provided,5.0,sector outperform,52.0
+2014-10-06,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-07,Buckingham Research Group,Not Provided,3.0,neutral,52.0
+2014-10-13,Macquarie,12 month,3.0,neutral,48.0
+2014-10-13,Barclays,Not Provided,5.0,overweight,55.0
+2014-10-13,Jefferies,Not Provided,5.0,buy,59.0
+2014-10-14,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-10-15,Goldman Sachs,12 month,5.0,Buy/Neutral,51.0
+2014-10-15,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-15,BMO Capital Markets,Not Provided,3.0,market perform,51.0
+2014-10-20,Jefferies,Not Provided,5.0,buy,59.0
+2014-10-20,Buckingham Research Group,12 month,3.0,neutral,52.0
+2014-10-20,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-22,Eight Capital,Not Provided,5.0,buy,55.0
+2014-10-24,Jefferies,12 month,5.0,buy,59.0
+2014-10-27,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-10-27,Buckingham Research Group,Not Provided,3.0,neutral,52.0
+2014-10-28,ERA Forest Products Research,Not Provided,3.0,sector perform,52.0
+2014-11-04,D.A. Davidson & Co,Not Provided,5.0,buy,61.12
+2014-11-04,BMO Capital Markets,Not Provided,3.0,market perform,51.0
+2014-11-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-04,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-11-05,Barclays,Not Provided,5.0,overweight,62.0
+2014-11-05,Buckingham Research Group,12 month,3.0,neutral,53.0
+2014-11-05,Credit Suisse,Not Provided,5.0,outperform,68.0
+2014-11-05,Macquarie,12 month,3.0,neutral,50.0
+2014-11-05,Jefferies,12 month,5.0,buy,61.0
+2014-11-05,RBC Capital Markets,12 month,3.0,sector perform,47.0
+2014-11-06,Eight Capital,12 month,5.0,buy,57.0
+2014-11-10,Buckingham Research Group,Not Provided,3.0,neutral,53.0
+2014-11-10,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-11-10,Goldman Sachs,12 month,5.0,Buy/Neutral,60.0
+2014-11-12,BMO Capital Markets,Not Provided,3.0,market perform,51.0
+2014-11-12,Jefferies,12 month,5.0,buy,61.0
+2014-11-13,BMO Capital Markets,Not Provided,3.0,market perform,51.0
+2014-11-17,Buckingham Research Group,12 month,3.0,neutral,53.0
+2014-11-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-11-18,Jefferies,Not Provided,5.0,buy,61.0
+2014-11-19,Eight Capital,Not Provided,3.0,neutral,57.0
+2014-11-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-11-24,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-11-24,Jefferies,Not Provided,5.0,buy,61.0
+2014-11-25,Argus Research Corp,Not Provided,5.0,buy,62.0
+2014-11-26,RBC Capital Markets,12 month,3.0,sector perform,47.0
+2014-12-01,Buckingham Research Group,Not Provided,3.0,neutral,53.0
+2014-12-03,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-12-07,RBC Capital Markets,12 month,3.0,sector perform,47.0
+2014-12-08,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-12-08,Buckingham Research Group,12 month,3.0,neutral,56.0
+2014-12-09,Eight Capital,12 month,3.0,neutral,59.0
+2014-12-11,BMO Capital Markets,Not Provided,3.0,market perform,51.0
+2014-12-11,Jefferies,12 month,5.0,buy,61.0
+2014-12-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-12-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-12-16,Buckingham Research Group,12 month,3.0,neutral,56.0
+2014-12-16,BMO Capital Markets,Not Provided,3.0,market perform,51.0
+2014-12-17,Eight Capital,12 month,3.0,neutral,59.0
+2014-12-18,Jefferies,Not Provided,5.0,buy,61.0
+2014-12-19,BMO Capital Markets,Not Provided,3.0,market perform,51.0
+2014-12-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-12-22,Jefferies,Not Provided,5.0,buy,61.0
+2014-12-22,Buckingham Research Group,12 month,3.0,neutral,56.0
+2014-12-22,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-12-31,RBC Capital Markets,12 month,3.0,sector perform,47.0
+2015-01-05,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-01-05,Buckingham Research Group,Not Provided,3.0,neutral,56.0
+2015-01-05,Jefferies,Not Provided,5.0,buy,61.0
+2015-01-06,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2015-01-08,RBC Capital Markets,12 month,3.0,sector perform,51.0
+2015-01-08,Jefferies,Not Provided,5.0,buy,61.0
+2015-01-11,BMO Capital Markets,Not Provided,3.0,market perform,51.0
+2015-01-12,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-01-13,Macquarie,12 month,3.0,neutral,54.0
+2015-01-13,Goldman Sachs,12 month,5.0,Buy/Neutral,62.0
+2015-01-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-19,RBC Capital Markets,12 month,3.0,sector perform,51.0
+2015-01-20,Barclays,Not Provided,5.0,overweight,63.0
+2015-01-20,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-01-21,D.A. Davidson & Co,Not Provided,5.0,buy,61.12
+2015-01-22,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-01-22,BMO Capital Markets,Not Provided,3.0,market perform,56.0
+2015-01-26,RBC Capital Markets,12 month,3.0,sector perform,51.0
+2015-01-26,Credit Suisse,Not Provided,5.0,outperform,73.0
+2015-01-26,Jefferies,Not Provided,5.0,buy,61.0
+2015-01-28,UBS,12 month,5.0,buy,59.0
+2015-01-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-28,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2015-01-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-01-29,D.A. Davidson & Co,Not Provided,5.0,buy,69.0
+2015-01-29,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-01-29,Jefferies,12 month,5.0,buy,61.0
+2015-01-29,Barclays,Not Provided,5.0,overweight,63.0
+2015-01-29,Credit Suisse,Not Provided,5.0,outperform,73.0
+2015-01-29,Macquarie,12 month,3.0,neutral,54.0
+2015-02-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-02-02,BMO Capital Markets,Not Provided,3.0,market perform,56.0
+2015-02-02,Buckingham Research Group,Not Provided,3.0,neutral,56.0
+2015-02-02,Goldman Sachs,12 month,5.0,Buy/Neutral,59.0
+2015-02-09,Jefferies,12 month,5.0,buy,61.0
+2015-02-09,Argus Research Corp,Not Provided,5.0,buy,62.0
+2015-02-09,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-02-09,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-02-09,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-02-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-17,Buckingham Research Group,Not Provided,3.0,neutral,56.0
+2015-02-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-02-17,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-02-20,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-02-23,Jefferies,Not Provided,5.0,buy,61.0
+2015-02-23,BMO Capital Markets,Not Provided,3.0,market perform,56.0
+2015-02-23,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-02-23,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-02-26,Barclays,Not Provided,5.0,overweight,69.0
+2015-03-01,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-03-02,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-03-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-03-02,Buckingham Research Group,Not Provided,3.0,neutral,56.0
+2015-03-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-03-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-09,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-03-09,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-03-10,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-03-10,D.A. Davidson & Co,Not Provided,5.0,buy,69.0
+2015-03-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-03-18,BMO Capital Markets,Not Provided,3.0,market perform,56.0
+2015-03-18,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-03-18,Buckingham Research Group,Not Provided,3.0,neutral,56.0
+2015-03-22,BMO Capital Markets,Not Provided,3.0,market perform,56.0
+2015-03-23,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-03-23,Buckingham Research Group,Not Provided,3.0,neutral,56.0
+2015-03-23,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-03-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-30,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-03-30,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-03-31,Buckingham Research Group,Not Provided,3.0,neutral,56.0
+2015-03-31,Jefferies,12 month,5.0,buy,63.0
+2015-03-31,Eight Capital,Not Provided,3.0,neutral,59.0
+2015-04-01,Credit Suisse,Not Provided,5.0,outperform,73.0
+2015-04-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-05,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-04-06,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-04-07,ERA Forest Products Research,Not Provided,3.0,sector perform,52.0
+2015-04-07,Buckingham Research Group,Not Provided,3.0,neutral,56.0
+2015-04-09,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-04-13,Goldman Sachs,12 month,5.0,Buy/Neutral,63.0
+2015-04-13,Jefferies,12 month,5.0,buy,63.0
+2015-04-13,Macquarie,12 month,3.0,neutral,54.0
+2015-04-13,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-04-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-14,Credit Suisse,Not Provided,5.0,outperform,73.0
+2015-04-14,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-04-14,BMO Capital Markets,Not Provided,3.0,market perform,56.0
+2015-04-15,Barclays,Not Provided,5.0,overweight,70.0
+2015-04-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-04-17,BMO Capital Markets,Not Provided,3.0,market perform,56.0
+2015-04-20,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-04-21,Eight Capital,Not Provided,3.0,neutral,59.0
+2015-04-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-29,Barclays,Not Provided,5.0,overweight,70.0
+2015-04-29,BMO Capital Markets,Not Provided,3.0,market perform,56.0
+2015-04-29,Credit Suisse,Not Provided,5.0,outperform,73.0
+2015-04-29,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-04-29,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-04-29,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-04-30,Macquarie,12 month,3.0,neutral,54.0
+2015-04-30,Eight Capital,Not Provided,3.0,neutral,59.0
+2015-04-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-30,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-04-30,Jefferies,12 month,5.0,buy,63.0
+2015-04-30,D.A. Davidson & Co,12 month,5.0,buy,69.0
+2015-05-04,Barclays,Not Provided,5.0,overweight,67.0
+2015-05-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-05,D.A. Davidson & Co,18 month,5.0,buy,69.0
+2015-05-06,Goldman Sachs,12 month,5.0,Buy/Neutral,59.0
+2015-05-06,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-05-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-05-11,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-05-11,D.A. Davidson & Co,Not Provided,5.0,buy,69.0
+2015-05-14,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-05-14,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-05-15,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-05-15,BMO Capital Markets,Not Provided,3.0,market perform,56.0
+2015-05-18,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-05-18,Argus Research Corp,Not Provided,5.0,buy,62.0
+2015-05-19,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-05-26,Jefferies,Not Provided,5.0,buy,63.0
+2015-05-26,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-01,Jefferies,Not Provided,5.0,buy,63.0
+2015-06-04,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-05,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-06-08,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-06-08,Jefferies,Not Provided,5.0,buy,63.0
+2015-06-08,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-15,Jefferies,Not Provided,5.0,buy,63.0
+2015-06-15,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-06-16,BMO Capital Markets,Not Provided,3.0,market perform,56.0
+2015-06-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-16,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-06-16,Macquarie,12 month,3.0,neutral,54.0
+2015-06-22,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-06-22,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-06-23,Jefferies,Not Provided,5.0,buy,63.0
+2015-06-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-29,Jefferies,Not Provided,5.0,buy,63.0
+2015-07-02,Goldman Sachs,12 month,5.0,Buy/Neutral,55.0
+2015-07-06,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-06,Eight Capital,Not Provided,5.0,buy,59.0
+2015-07-06,Buckingham Research Group,12 month,3.0,neutral,56.0
+2015-07-06,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2015-07-13,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-13,Jefferies,Not Provided,5.0,buy,63.0
+2015-07-14,D.A. Davidson & Co,Not Provided,5.0,buy,69.0
+2015-07-15,Barclays,Not Provided,5.0,overweight,65.0
+2015-07-16,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-07-16,BMO Capital Markets,Not Provided,3.0,market perform,54.0
+2015-07-16,Credit Suisse,Not Provided,5.0,outperform,66.0
+2015-07-17,Goldman Sachs,12 month,5.0,Buy/Neutral,56.0
+2015-07-20,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-20,Buckingham Research Group,12 month,3.0,neutral,54.0
+2015-07-27,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-07-29,BMO Capital Markets,Not Provided,3.0,market perform,54.0
+2015-07-29,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-07-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-29,Credit Suisse,Not Provided,5.0,outperform,66.0
+2015-07-29,UBS,12 month,5.0,buy,57.0
+2015-07-30,Buckingham Research Group,12 month,3.0,neutral,54.0
+2015-07-30,D.A. Davidson & Co,Not Provided,5.0,buy,65.0
+2015-07-30,Eight Capital,12 month,5.0,buy,59.0
+2015-07-30,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-07-30,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-08-03,Barclays,Not Provided,5.0,overweight,60.0
+2015-08-03,Jefferies,Not Provided,5.0,buy,59.0
+2015-08-05,Buckingham Research Group,12 month,3.0,neutral,54.0
+2015-08-07,Argus Research Corp,Not Provided,5.0,buy,62.0
+2015-08-10,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-08-10,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-08-17,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-08-17,Buckingham Research Group,12 month,3.0,neutral,54.0
+2015-08-17,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-08-18,ERA Forest Products Research,Not Provided,3.0,sector perform,50.0
+2015-08-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-08-24,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-08-24,Buckingham Research Group,12 month,3.0,neutral,54.0
+2015-08-24,Credit Suisse,Not Provided,5.0,outperform,59.0
+2015-08-26,Eight Capital,Not Provided,5.0,buy,59.0
+2015-08-31,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-08-31,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-08-31,Buckingham Research Group,12 month,5.0,buy,50.0
+2015-09-04,Buckingham Research Group,12 month,5.0,buy,50.0
+2015-09-08,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-09-10,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-09-14,Eight Capital,Not Provided,5.0,buy,59.0
+2015-09-14,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-09-14,Credit Suisse,Not Provided,5.0,outperform,59.0
+2015-09-14,Buckingham Research Group,Not Provided,5.0,buy,50.0
+2015-09-14,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-09-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-09-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-16,BMO Capital Markets,Not Provided,3.0,market perform,54.0
+2015-09-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-09-21,Buckingham Research Group,Not Provided,5.0,buy,50.0
+2015-09-21,Jefferies,Not Provided,5.0,buy,59.0
+2015-09-22,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-09-22,D.A. Davidson & Co,Not Provided,5.0,buy,65.0
+2015-09-25,Jefferies,Not Provided,5.0,buy,59.0
+2015-09-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-28,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-10-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-10-04,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-10-05,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-10-05,Buckingham Research Group,Not Provided,5.0,buy,50.0
+2015-10-06,D.A. Davidson & Co,Not Provided,5.0,buy,65.0
+2015-10-08,ERA Forest Products Research,Not Provided,5.0,sector outperform,48.0
+2015-10-09,BMO Capital Markets,Not Provided,3.0,market perform,52.0
+2015-10-09,Credit Suisse,Not Provided,5.0,outperform,59.0
+2015-10-09,Eight Capital,12 month,5.0,buy,59.0
+2015-10-13,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2015-10-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-13,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-10-15,Eight Capital,Not Provided,5.0,buy,59.0
+2015-10-15,Jefferies,Not Provided,5.0,buy,59.0
+2015-10-15,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-10-18,BMO Capital Markets,Not Provided,3.0,market perform,52.0
+2015-10-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-20,Buckingham Research Group,Not Provided,5.0,buy,50.0
+2015-10-21,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2015-10-22,Credit Suisse,Not Provided,5.0,outperform,59.0
+2015-10-26,Buckingham Research Group,12 month,5.0,buy,50.0
+2015-10-27,D.A. Davidson & Co,Not Provided,5.0,buy,65.0
+2015-10-27,Longbow Research,Not Provided,3.0,neutral,-0.0
+2015-10-28,BMO Capital Markets,Not Provided,3.0,market perform,52.0
+2015-10-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-28,Jefferies,12 month,5.0,buy,59.0
+2015-10-28,UBS,12 month,5.0,buy,56.0
+2015-10-28,Buckingham Research Group,12 month,5.0,buy,50.0
+2015-10-29,D.A. Davidson & Co,Not Provided,5.0,buy,65.0
+2015-10-29,Eight Capital,12 month,5.0,buy,59.0
+2015-10-30,Credit Suisse,Not Provided,5.0,outperform,56.0
+2015-10-30,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-11-02,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2015-11-02,Barclays,Not Provided,5.0,overweight,57.0
+2015-11-06,Argus Research Corp,Not Provided,5.0,buy,62.0
+2015-11-09,Jefferies,Not Provided,5.0,buy,59.0
+2015-11-10,Macquarie,12 month,3.0,neutral,43.0
+2015-11-16,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2015-11-16,BMO Capital Markets,Not Provided,3.0,market perform,52.0
+2015-11-23,BMO Capital Markets,Not Provided,3.0,market perform,52.0
+2015-11-23,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2015-11-29,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2015-11-30,BMO Capital Markets,Not Provided,3.0,market perform,52.0
+2015-12-07,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2015-12-08,D.A. Davidson & Co,Not Provided,5.0,buy,65.0
+2015-12-15,Buckingham Research Group,12 month,5.0,buy,50.0
+2015-12-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-12-16,ERA Forest Products Research,Not Provided,5.0,sector outperform,48.0
+2015-12-17,Goldman Sachs,12 month,5.0,Buy/Neutral,54.0
+2015-12-21,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2015-12-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-31,D.A. Davidson & Co,Not Provided,5.0,buy,65.0
+2016-01-05,D.A. Davidson & Co,Not Provided,5.0,buy,65.0
+2016-01-05,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-01-06,Eight Capital,Not Provided,5.0,buy,52.0
+2016-01-06,Buckingham Research Group,12 month,5.0,buy,50.0
+2016-01-07,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-07,Jefferies,Not Provided,5.0,buy,59.0
+2016-01-08,Barclays,Not Provided,3.0,equalweight,42.0
+2016-01-08,BMO Capital Markets,Not Provided,3.0,market perform,52.0
+2016-01-11,RBC Capital Markets,12 month,5.0,outperform,46.0
+2016-01-11,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-01-18,Credit Suisse,Not Provided,5.0,outperform,50.0
+2016-01-25,Eight Capital,12 month,5.0,buy,52.0
+2016-01-25,Jefferies,Not Provided,5.0,buy,50.0
+2016-01-25,RBC Capital Markets,12 month,5.0,outperform,46.0
+2016-01-25,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-01-25,Macquarie,12 month,3.0,neutral,34.0
+2016-01-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-01-27,Eight Capital,12 month,5.0,buy,44.0
+2016-02-01,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-02-01,RBC Capital Markets,12 month,5.0,outperform,46.0
+2016-02-01,Jefferies,Not Provided,5.0,buy,50.0
+2016-02-03,Jefferies,12 month,5.0,buy,50.0
+2016-02-03,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-02-03,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-02-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-04,Eight Capital,12 month,5.0,buy,44.0
+2016-02-04,D.A. Davidson & Co,Not Provided,5.0,buy,57.0
+2016-02-04,Macquarie,12 month,3.0,neutral,32.0
+2016-02-04,Argus Research Corp,Not Provided,5.0,buy,49.0
+2016-02-07,RBC Capital Markets,12 month,5.0,outperform,46.0
+2016-02-08,Barclays,Not Provided,3.0,equalweight,38.0
+2016-02-08,Credit Suisse,Not Provided,5.0,outperform,45.0
+2016-02-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-08,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-02-12,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-02-12,Jefferies,12 month,5.0,buy,47.0
+2016-02-16,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-02-16,RBC Capital Markets,12 month,5.0,outperform,46.0
+2016-02-19,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-02-22,Eight Capital,Not Provided,5.0,buy,44.0
+2016-02-23,D.A. Davidson & Co,18 month,5.0,buy,57.0
+2016-02-26,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-02-28,RBC Capital Markets,12 month,5.0,outperform,46.0
+2016-03-06,RBC Capital Markets,12 month,5.0,outperform,46.0
+2016-03-08,D.A. Davidson & Co,Not Provided,5.0,buy,57.0
+2016-03-10,Eight Capital,12 month,5.0,buy,48.0
+2016-03-13,RBC Capital Markets,12 month,5.0,outperform,46.0
+2016-03-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-03-16,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-03-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-17,Jefferies,12 month,5.0,buy,47.0
+2016-03-20,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-03-20,RBC Capital Markets,12 month,5.0,outperform,46.0
+2016-03-28,Buckingham Research Group,Not Provided,5.0,buy,47.0
+2016-03-30,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-04-03,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-04-04,RBC Capital Markets,12 month,5.0,outperform,46.0
+2016-04-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-06,D.A. Davidson & Co,Not Provided,5.0,buy,57.0
+2016-04-06,Buckingham Research Group,Not Provided,5.0,buy,47.0
+2016-04-11,RBC Capital Markets,12 month,5.0,outperform,46.0
+2016-04-11,Eight Capital,Not Provided,5.0,buy,48.0
+2016-04-12,Jefferies,12 month,5.0,buy,47.0
+2016-04-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-15,Buckingham Research Group,Not Provided,5.0,buy,47.0
+2016-04-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-19,Barclays,Not Provided,3.0,equalweight,38.0
+2016-04-20,Argus Research Corp,Not Provided,5.0,buy,49.0
+2016-04-20,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-04-20,Macquarie,12 month,3.0,neutral,37.0
+2016-04-20,Eight Capital,12 month,5.0,buy,48.0
+2016-04-27,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-04-27,Credit Suisse,Not Provided,5.0,outperform,46.0
+2016-04-27,Barclays,Not Provided,3.0,equalweight,38.0
+2016-04-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-27,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-04-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-27,D.A. Davidson & Co,12 month,5.0,buy,57.0
+2016-04-27,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-04-27,Jefferies,12 month,5.0,buy,51.0
+2016-04-27,RBC Capital Markets,12 month,3.0,sector perform,46.0
+2016-04-28,Eight Capital,12 month,5.0,buy,48.0
+2016-05-02,RBC Capital Markets,12 month,3.0,sector perform,46.0
+2016-05-02,Barclays,Not Provided,3.0,equalweight,44.0
+2016-05-02,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-05-02,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-05-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-03,Jefferies,12 month,3.0,hold,47.0
+2016-05-03,D.A. Davidson & Co,Not Provided,5.0,buy,57.0
+2016-05-03,Credit Suisse,Not Provided,3.0,neutral,47.0
+2016-05-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-04,Argus Research Corp,Not Provided,5.0,buy,49.0
+2016-05-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-09,Macquarie,12 month,3.0,neutral,39.0
+2016-05-09,RBC Capital Markets,12 month,3.0,sector perform,46.0
+2016-05-09,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-05-16,Buckingham Research Group,Not Provided,5.0,buy,47.0
+2016-05-16,RBC Capital Markets,12 month,3.0,sector perform,46.0
+2016-05-17,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-05-18,Jefferies,Not Provided,3.0,hold,47.0
+2016-05-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-30,RBC Capital Markets,12 month,3.0,sector perform,46.0
+2016-05-31,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-06-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-03,ROE Equity Research,Not Provided,5.0,buy,-0.0
+2016-06-05,RBC Capital Markets,12 month,3.0,sector perform,46.0
+2016-06-06,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-06-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-13,RBC Capital Markets,12 month,3.0,sector perform,46.0
+2016-06-15,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-06-15,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-06-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-20,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-06-20,RBC Capital Markets,12 month,3.0,sector perform,46.0
+2016-06-22,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-06-24,Buckingham Research Group,12 month,5.0,buy,47.0
+2016-07-08,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2016-07-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-11,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2016-07-11,Buckingham Research Group,Not Provided,5.0,buy,47.0
+2016-07-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-14,Jefferies,12 month,3.0,hold,47.0
+2016-07-15,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-07-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-15,Eight Capital,12 month,5.0,buy,48.0
+2016-07-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-20,Eight Capital,Not Provided,5.0,buy,55.0
+2016-07-28,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-07-28,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-07-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-28,Buckingham Research Group,12 month,5.0,buy,48.0
+2016-07-28,Jefferies,12 month,3.0,hold,49.0
+2016-07-29,Credit Suisse,Not Provided,3.0,neutral,47.0
+2016-07-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-29,Eight Capital,12 month,5.0,buy,55.0
+2016-07-29,D.A. Davidson & Co,12 month,5.0,buy,57.0
+2016-07-29,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2016-08-01,Barclays,Not Provided,3.0,equalweight,49.0
+2016-08-01,Argus Research Corp,Not Provided,5.0,buy,49.0
+2016-08-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-05,Jefferies,12 month,3.0,hold,49.0
+2016-08-05,Buckingham Research Group,12 month,5.0,buy,48.0
+2016-08-08,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2016-08-08,Buckingham Research Group,12 month,5.0,buy,48.0
+2016-08-09,D.A. Davidson & Co,12 month,5.0,buy,57.0
+2016-08-10,Credit Suisse,Not Provided,3.0,neutral,47.0
+2016-08-10,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-08-10,Eight Capital,12 month,5.0,buy,52.0
+2016-08-12,Macquarie,12 month,3.0,neutral,43.0
+2016-08-16,Buckingham Research Group,12 month,5.0,buy,48.0
+2016-08-19,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-08-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-08-25,Buckingham Research Group,12 month,5.0,buy,52.0
+2016-08-29,Buckingham Research Group,Not Provided,5.0,buy,52.0
+2016-09-07,Buckingham Research Group,12 month,5.0,buy,52.0
+2016-09-07,D.A. Davidson & Co,12 month,5.0,buy,57.0
+2016-09-09,BMO Capital Markets,Not Provided,3.0,market perform,47.0
+2016-09-11,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2016-09-13,D.A. Davidson & Co,18 month,5.0,buy,62.0
+2016-09-16,Buckingham Research Group,12 month,5.0,buy,52.0
+2016-09-19,Eight Capital,Not Provided,5.0,buy,54.0
+2016-09-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-20,D.A. Davidson & Co,Not Provided,5.0,buy,62.0
+2016-09-22,Goldman Sachs,12 month,3.0,neutral/neutral,49.0
+2016-09-25,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2016-09-26,Buckingham Research Group,12 month,5.0,buy,52.0
+2016-09-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-28,Eight Capital,Not Provided,5.0,buy,54.0
+2016-10-03,Buckingham Research Group,12 month,5.0,buy,52.0
+2016-10-03,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2016-10-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-09,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2016-10-10,Buckingham Research Group,Not Provided,5.0,buy,52.0
+2016-10-13,Jefferies,12 month,3.0,hold,49.0
+2016-10-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-17,Buckingham Research Group,12 month,5.0,buy,52.0
+2016-10-17,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2016-10-19,BMO Capital Markets,Not Provided,3.0,market perform,50.0
+2016-10-19,Macquarie,12 month,1.0,underperform,38.0
+2016-10-20,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2016-10-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-24,Buckingham Research Group,Not Provided,5.0,buy,55.0
+2016-10-24,Jefferies,Not Provided,3.0,hold,53.0
+2016-10-24,D.A. Davidson & Co,Not Provided,5.0,buy,62.0
+2016-10-24,Credit Suisse,Not Provided,3.0,neutral,52.0
+2016-10-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-27,BMO Capital Markets,Not Provided,3.0,market perform,50.0
+2016-10-27,Buckingham Research Group,12 month,5.0,buy,54.0
+2016-10-27,Jefferies,12 month,3.0,hold,51.0
+2016-10-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-28,D.A. Davidson & Co,12 month,5.0,buy,62.0
+2016-10-28,Credit Suisse,Not Provided,3.0,neutral,52.0
+2016-10-31,Goldman Sachs,12 month,3.0,neutral/neutral,47.0
+2016-10-31,Macquarie,12 month,1.0,underperform,38.0
+2016-10-31,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-10-31,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2016-10-31,Barclays,Not Provided,3.0,equalweight,50.0
+2016-11-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-01,Jefferies,12 month,3.0,hold,51.0
+2016-11-03,Argus Research Corp,Not Provided,5.0,buy,49.0
+2016-11-06,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2016-11-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-13,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2016-11-14,Buckingham Research Group,12 month,5.0,buy,54.0
+2016-11-16,Buckingham Research Group,12 month,5.0,buy,54.0
+2016-11-16,D.A. Davidson & Co,12 month,5.0,buy,62.0
+2016-11-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-27,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2016-11-28,Buckingham Research Group,Not Provided,5.0,buy,54.0
+2016-11-30,Vertical Research Partners,12 month,5.0,buy,59.0
+2016-12-02,Argus Research Corp,Not Provided,5.0,buy,56.0
+2016-12-02,Credit Suisse,Not Provided,3.0,neutral,52.0
+2016-12-05,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2016-12-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-12-06,Buckingham Research Group,12 month,5.0,buy,55.0
+2016-12-17,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2016-12-19,Buckingham Research Group,Not Provided,5.0,buy,55.0
+2016-12-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-12-28,Jefferies,12 month,3.0,hold,55.0
+2017-01-05,Vertical Research Partners,12 month,5.0,buy,59.0
+2017-01-05,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2017-01-09,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-01-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-09,ROE Equity Research,12 month,3.0,hold,49.0
+2017-01-12,Goldman Sachs,12 month,3.0,neutral/neutral,54.0
+2017-01-18,Vertical Research Partners,12 month,5.0,buy,63.0
+2017-01-18,Barclays,Not Provided,3.0,equalweight,50.0
+2017-01-20,Jefferies,12 month,5.0,buy,65.0
+2017-01-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-23,Buckingham Research Group,Not Provided,5.0,buy,59.0
+2017-01-23,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2017-01-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-26,BMO Capital Markets,Not Provided,5.0,outperform,62.0
+2017-01-31,Macquarie,12 month,1.0,underperform,50.0
+2017-02-02,BMO Capital Markets,Not Provided,5.0,outperform,62.0
+2017-02-02,Credit Suisse,Not Provided,3.0,neutral,52.0
+2017-02-02,ROE Equity Research,12 month,3.0,hold,49.0
+2017-02-02,Barclays,Not Provided,3.0,equalweight,50.0
+2017-02-02,Vertical Research Partners,12 month,5.0,buy,61.0
+2017-02-02,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2017-02-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-03,D.A. Davidson & Co,18 month,3.0,neutral,59.0
+2017-02-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-03,Jefferies,12 month,5.0,buy,62.0
+2017-02-03,Buckingham Research Group,12 month,5.0,buy,59.0
+2017-02-06,Macquarie,12 month,1.0,underperform,45.0
+2017-02-06,Barclays,Not Provided,1.0,underweight,45.0
+2017-02-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-06,Goldman Sachs,12 month,3.0,neutral/neutral,52.0
+2017-02-06,Buckingham Research Group,12 month,5.0,buy,59.0
+2017-02-06,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2017-02-07,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-02-07,Vertical Research Partners,12 month,5.0,buy,63.0
+2017-02-07,Argus Research Corp,Not Provided,5.0,buy,56.0
+2017-02-12,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2017-02-15,Jefferies,12 month,5.0,buy,62.0
+2017-02-15,Vertical Research Partners,12 month,5.0,buy,61.0
+2017-02-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-15,Buckingham Research Group,12 month,5.0,buy,59.0
+2017-02-16,Macquarie,12 month,1.0,underperform,47.0
+2017-02-16,Credit Suisse,Not Provided,3.0,neutral,57.0
+2017-02-21,Buckingham Research Group,12 month,5.0,buy,59.0
+2017-02-21,Macquarie,12 month,1.0,underperform,47.0
+2017-02-23,Jefferies,12 month,5.0,buy,62.0
+2017-02-27,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2017-02-27,Vertical Research Partners,12 month,5.0,buy,61.0
+2017-02-27,Barclays,Not Provided,1.0,underweight,45.0
+2017-03-03,Jefferies,12 month,5.0,buy,62.0
+2017-03-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2017-03-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-06,Vertical Research Partners,12 month,5.0,buy,61.0
+2017-03-06,Buckingham Research Group,12 month,5.0,buy,59.0
+2017-03-06,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2017-03-07,Jefferies,12 month,5.0,buy,63.0
+2017-03-13,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2017-03-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-20,Vertical Research Partners,12 month,5.0,buy,62.0
+2017-03-20,Buckingham Research Group,Not Provided,5.0,buy,59.0
+2017-03-24,Vertical Research Partners,12 month,5.0,buy,62.0
+2017-03-26,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2017-03-30,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-04-03,BMO Capital Markets,Not Provided,5.0,outperform,62.0
+2017-04-04,Vertical Research Partners,12 month,5.0,buy,62.0
+2017-04-05,Buckingham Research Group,Not Provided,5.0,buy,59.0
+2017-04-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-10,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2017-04-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-12,Vertical Research Partners,12 month,5.0,buy,62.0
+2017-04-13,Barclays,Not Provided,1.0,underweight,45.0
+2017-04-17,Buckingham Research Group,Not Provided,5.0,buy,59.0
+2017-04-18,Goldman Sachs,12 month,3.0,neutral/neutral,53.0
+2017-04-18,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2017-04-18,Jefferies,Not Provided,5.0,buy,63.0
+2017-04-19,BMO Capital Markets,Not Provided,5.0,outperform,62.0
+2017-04-24,RBC Capital Markets,12 month,5.0,outperform,56.0
+2017-04-24,Credit Suisse,Not Provided,3.0,neutral,57.0
+2017-04-25,D.A. Davidson & Co,Not Provided,3.0,neutral,59.0
+2017-04-27,ROE Equity Research,12 month,3.0,hold,50.0
+2017-04-27,Credit Suisse,Not Provided,3.0,neutral,57.0
+2017-04-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-27,Vertical Research Partners,12 month,5.0,buy,62.0
+2017-04-27,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-04-28,Jefferies,12 month,5.0,buy,65.0
+2017-04-28,D.A. Davidson & Co,12 month,3.0,neutral,62.0
+2017-04-28,BMO Capital Markets,Not Provided,5.0,outperform,62.0
+2017-04-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-01,Barclays,Not Provided,1.0,underweight,48.0
+2017-05-01,Goldman Sachs,12 month,3.0,neutral/neutral,55.0
+2017-05-01,RBC Capital Markets,12 month,5.0,outperform,60.0
+2017-05-01,Buckingham Research Group,12 month,5.0,buy,59.0
+2017-05-05,Vertical Research Partners,12 month,5.0,buy,62.0
+2017-05-05,Credit Suisse,Not Provided,3.0,neutral,57.0
+2017-05-05,Buckingham Research Group,12 month,5.0,buy,59.0
+2017-05-08,D.A. Davidson & Co,12 month,3.0,neutral,62.0
+2017-05-08,BMO Capital Markets,Not Provided,5.0,outperform,62.0
+2017-05-08,RBC Capital Markets,12 month,5.0,outperform,60.0
+2017-05-10,Wells Fargo Securities,12 month,5.0,outperform,61.5
+2017-05-14,RBC Capital Markets,12 month,5.0,outperform,60.0
+2017-05-15,Vertical Research Partners,12 month,5.0,buy,62.0
+2017-05-15,Buckingham Research Group,Not Provided,5.0,buy,59.0
+2017-05-22,Buckingham Research Group,Not Provided,5.0,buy,59.0
+2017-05-23,RBC Capital Markets,12 month,5.0,outperform,60.0
+2017-05-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0

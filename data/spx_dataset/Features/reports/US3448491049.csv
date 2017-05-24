@@ -1,0 +1,361 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2016-02-22,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-02-26,Jefferies,12 month,5.0,buy,82.0
+2016-02-26,Canaccord Genuity,Not Provided,5.0,buy,81.0
+2016-02-26,Evercore ISI,12 month,3.0,hold,70.0
+2016-02-26,Credit Suisse,Not Provided,3.0,neutral,72.0
+2016-02-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-26,Barclays,Not Provided,5.0,overweight,83.0
+2016-02-28,Sterne Agee CRT,12 month,5.0,buy,85.0
+2016-02-29,Brean Capital LLC,12 month,5.0,buy,78.0
+2016-02-29,Buckingham Research Group,12 month,3.0,neutral,69.0
+2016-02-29,Telsey Advisory Group,12 month,5.0,outperform,78.0
+2016-02-29,Morgan Stanley,12 month,3.0,Equalwt/In-Line,78.0
+2016-02-29,Piper Jaffray,12 month,3.0,neutral,67.0
+2016-02-29,UBS,12 month,5.0,buy,74.0
+2016-02-29,BB&T Capital Markets,12 month,5.0,buy,80.0
+2016-03-01,FBR Capital Markets,12 month,3.0,market perform,71.0
+2016-03-02,B Riley & Co,Not Provided,3.0,neutral,71.0
+2016-03-03,Argus Research Corp,Not Provided,5.0,buy,88.0
+2016-03-07,J.P. Morgan,9 month,5.0,overweight,73.0
+2016-03-18,Cowen,Not Provided,5.0,outperform,75.0
+2016-03-18,Goldman Sachs,12 month,1.0,Sell/Neutral,58.0
+2016-03-28,Baird,12 month,5.0,outperform,83.0
+2016-04-04,Susquehanna Financial,12 month,4.0,Positive,82.0
+2016-04-08,Baird,12 month,5.0,outperform,83.0
+2016-04-11,Telsey Advisory Group,12 month,5.0,outperform,78.0
+2016-04-11,Sterne Agee CRT,12 month,5.0,buy,85.0
+2016-04-12,Piper Jaffray,12 month,5.0,overweight,67.0
+2016-04-12,Susquehanna Financial,12 month,4.0,Positive,82.0
+2016-04-15,Brean Capital LLC,12 month,5.0,buy,78.0
+2016-04-15,Baird,Not Provided,5.0,outperform,83.0
+2016-04-15,Telsey Advisory Group,12 month,5.0,outperform,78.0
+2016-04-18,Susquehanna Financial,12 month,4.0,Positive,82.0
+2016-04-20,Cowen,Not Provided,3.0,market perform,66.0
+2016-04-22,Baird,Not Provided,5.0,outperform,83.0
+2016-04-24,Susquehanna Financial,12 month,4.0,Positive,82.0
+2016-04-27,Piper Jaffray,12 month,5.0,overweight,67.0
+2016-04-29,Baird,12 month,5.0,outperform,83.0
+2016-05-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-02,Susquehanna Financial,12 month,4.0,Positive,82.0
+2016-05-03,Jefferies,12 month,5.0,buy,82.0
+2016-05-04,Cowen,Not Provided,3.0,market perform,66.0
+2016-05-05,Piper Jaffray,12 month,5.0,overweight,67.0
+2016-05-05,Telsey Advisory Group,12 month,5.0,outperform,78.0
+2016-05-06,Baird,Not Provided,5.0,outperform,83.0
+2016-05-09,J.P. Morgan,Not Provided,5.0,overweight,73.0
+2016-05-09,Susquehanna Financial,12 month,4.0,Positive,82.0
+2016-05-13,Baird,12 month,5.0,outperform,83.0
+2016-05-16,Cowen,Not Provided,3.0,market perform,66.0
+2016-05-16,Susquehanna Financial,12 month,4.0,Positive,82.0
+2016-05-16,Canaccord Genuity,12 month,5.0,buy,81.0
+2016-05-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-17,B Riley & Co,Not Provided,3.0,neutral,71.0
+2016-05-17,Piper Jaffray,12 month,5.0,overweight,67.0
+2016-05-19,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-05-20,Piper Jaffray,12 month,5.0,overweight,67.0
+2016-05-20,Credit Suisse,Not Provided,3.0,neutral,64.0
+2016-05-20,Telsey Advisory Group,12 month,5.0,outperform,72.0
+2016-05-20,Goldman Sachs,12 month,1.0,Sell/Neutral,51.0
+2016-05-20,J.P. Morgan,9 month,5.0,overweight,65.0
+2016-05-20,B Riley & Co,12 month,3.0,neutral,63.0
+2016-05-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-20,Sterne Agee CRT,12 month,5.0,buy,80.0
+2016-05-20,Canaccord Genuity,Not Provided,5.0,buy,75.0
+2016-05-23,Brean Capital LLC,12 month,5.0,buy,66.0
+2016-05-23,Buckingham Research Group,12 month,3.0,neutral,61.0
+2016-05-23,Morgan Stanley,12 month,3.0,Equalwt/In-Line,73.0
+2016-05-23,Cowen,12 month,3.0,market perform,60.0
+2016-05-23,BB&T Capital Markets,12 month,5.0,buy,80.0
+2016-05-23,Barclays,Not Provided,5.0,overweight,83.0
+2016-05-23,Baird,12 month,5.0,outperform,78.0
+2016-05-23,Susquehanna Financial,12 month,4.0,Positive,72.0
+2016-05-23,Jefferies,Not Provided,5.0,buy,73.0
+2016-05-23,UBS,12 month,5.0,buy,69.0
+2016-05-23,FBR Capital Markets,12 month,3.0,market perform,71.0
+2016-05-23,Evercore ISI,12 month,3.0,hold,60.0
+2016-05-27,Baird,Not Provided,5.0,outperform,78.0
+2016-05-30,Susquehanna Financial,12 month,4.0,Positive,72.0
+2016-05-31,Piper Jaffray,12 month,5.0,overweight,67.0
+2016-06-06,Susquehanna Financial,12 month,4.0,Positive,72.0
+2016-06-06,Baird,12 month,5.0,outperform,78.0
+2016-06-06,Telsey Advisory Group,12 month,5.0,outperform,72.0
+2016-06-08,Argus Research Corp,Not Provided,5.0,buy,88.0
+2016-06-10,Telsey Advisory Group,12 month,5.0,outperform,72.0
+2016-06-13,Susquehanna Financial,12 month,4.0,Positive,72.0
+2016-06-14,Piper Jaffray,12 month,5.0,overweight,67.0
+2016-06-15,Baird,12 month,5.0,outperform,78.0
+2016-06-16,Cowen,Not Provided,3.0,market perform,60.0
+2016-06-16,Brean Capital LLC,12 month,5.0,buy,66.0
+2016-06-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-20,Susquehanna Financial,12 month,4.0,Positive,72.0
+2016-06-27,Jefferies,12 month,5.0,buy,73.0
+2016-06-28,Baird,12 month,5.0,outperform,78.0
+2016-06-29,BB&T Capital Markets,12 month,5.0,buy,70.0
+2016-07-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-05,Piper Jaffray,12 month,5.0,overweight,67.0
+2016-07-05,Susquehanna Financial,12 month,4.0,Positive,72.0
+2016-07-06,Cowen,Not Provided,3.0,market perform,60.0
+2016-07-08,Baird,Not Provided,5.0,outperform,78.0
+2016-07-11,Susquehanna Financial,12 month,4.0,Positive,72.0
+2016-07-15,Cowen,Not Provided,3.0,market perform,60.0
+2016-07-15,Baird,Not Provided,5.0,outperform,78.0
+2016-07-18,Cowen,Not Provided,3.0,market perform,60.0
+2016-07-20,Brean Capital LLC,Not Provided,5.0,buy,66.0
+2016-07-22,Baird,Not Provided,5.0,outperform,78.0
+2016-07-22,Telsey Advisory Group,12 month,5.0,outperform,72.0
+2016-07-29,Baird,Not Provided,5.0,outperform,78.0
+2016-08-05,Baird,Not Provided,5.0,outperform,78.0
+2016-08-08,Buckingham Research Group,Not Provided,3.0,neutral,61.0
+2016-08-08,J.P. Morgan,18 month,5.0,overweight,73.0
+2016-08-11,Susquehanna Financial,12 month,4.0,Positive,73.0
+2016-08-11,Cowen,Not Provided,3.0,market perform,60.0
+2016-08-12,B Riley & Co,Not Provided,5.0,buy,75.0
+2016-08-12,Baird,12 month,5.0,outperform,78.0
+2016-08-15,Brean Capital LLC,12 month,5.0,buy,68.0
+2016-08-16,Telsey Advisory Group,12 month,5.0,outperform,72.0
+2016-08-16,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-08-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-08-19,FBR Capital Markets,12 month,3.0,market perform,71.0
+2016-08-19,Barclays,Not Provided,5.0,overweight,83.0
+2016-08-19,Cowen,12 month,3.0,market perform,68.0
+2016-08-19,Credit Suisse,Not Provided,3.0,neutral,68.0
+2016-08-19,B Riley & Co,12 month,5.0,buy,80.0
+2016-08-19,Evercore ISI,Not Provided,3.0,hold,75.0
+2016-08-19,J.P. Morgan,18 month,5.0,overweight,76.0
+2016-08-19,Jefferies,12 month,5.0,buy,80.0
+2016-08-19,Canaccord Genuity,Not Provided,5.0,buy,79.0
+2016-08-19,Buckingham Research Group,12 month,3.0,neutral,61.0
+2016-08-19,Piper Jaffray,12 month,5.0,overweight,72.0
+2016-08-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,73.0
+2016-08-19,Baird,Not Provided,5.0,outperform,79.0
+2016-08-22,Buckingham Research Group,12 month,3.0,neutral,67.0
+2016-08-22,Susquehanna Financial,12 month,4.0,Positive,80.0
+2016-08-22,FBR Capital Markets,12 month,3.0,market perform,71.0
+2016-08-22,B Riley & Co,12 month,5.0,buy,80.0
+2016-08-22,Telsey Advisory Group,12 month,5.0,outperform,78.0
+2016-08-22,UBS,12 month,5.0,buy,76.0
+2016-08-25,Brean Capital LLC,12 month,5.0,buy,77.0
+2016-08-25,Cowen,Not Provided,3.0,market perform,68.0
+2016-08-26,Baird,12 month,5.0,outperform,79.0
+2016-08-26,Argus Research Corp,Not Provided,5.0,buy,88.0
+2016-09-01,Telsey Advisory Group,12 month,5.0,outperform,78.0
+2016-09-01,Barclays,Not Provided,5.0,overweight,83.0
+2016-09-02,Baird,12 month,5.0,outperform,79.0
+2016-09-08,Piper Jaffray,12 month,5.0,overweight,72.0
+2016-09-09,Barclays,Not Provided,5.0,overweight,80.0
+2016-09-09,Cowen,Not Provided,3.0,market perform,68.0
+2016-09-09,Baird,12 month,5.0,outperform,79.0
+2016-09-15,Barclays,Not Provided,5.0,overweight,80.0
+2016-09-16,Baird,Not Provided,5.0,outperform,79.0
+2016-09-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-19,Cowen,Not Provided,3.0,market perform,70.0
+2016-09-21,Piper Jaffray,12 month,5.0,overweight,72.0
+2016-09-22,Brean Capital LLC,Not Provided,5.0,buy,77.0
+2016-09-23,Baird,12 month,5.0,outperform,79.0
+2016-09-26,J.P. Morgan,18 month,5.0,overweight,79.0
+2016-09-27,Susquehanna Financial,12 month,4.0,Positive,80.0
+2016-09-27,Cowen,Not Provided,3.0,market perform,70.0
+2016-09-29,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-09-30,Baird,12 month,5.0,outperform,79.0
+2016-10-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-07,Telsey Advisory Group,12 month,5.0,outperform,78.0
+2016-10-07,Baird,12 month,5.0,outperform,79.0
+2016-10-13,Piper Jaffray,12 month,5.0,overweight,72.0
+2016-10-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-14,Baird,12 month,5.0,outperform,79.0
+2016-10-14,Cowen,Not Provided,3.0,market perform,70.0
+2016-10-18,Cowen,Not Provided,3.0,market perform,70.0
+2016-10-28,J.P. Morgan,18 month,5.0,overweight,79.0
+2016-10-28,Baird,12 month,5.0,outperform,79.0
+2016-10-31,Buckingham Research Group,Not Provided,3.0,neutral,67.0
+2016-10-31,Cowen,Not Provided,3.0,market perform,70.0
+2016-11-01,Cowen,Not Provided,3.0,market perform,70.0
+2016-11-01,Wedbush,12 month,5.0,outperform,80.0
+2016-11-04,Baird,12 month,5.0,outperform,79.0
+2016-11-07,J.P. Morgan,18 month,5.0,overweight,79.0
+2016-11-08,Jefferies,Not Provided,5.0,buy,80.0
+2016-11-09,Brean Capital LLC,Not Provided,5.0,buy,77.0
+2016-11-10,Susquehanna Financial,12 month,4.0,Positive,80.0
+2016-11-10,Barclays,Not Provided,5.0,overweight,80.0
+2016-11-10,Canaccord Genuity,Not Provided,5.0,buy,79.0
+2016-11-11,Wedbush,12 month,5.0,outperform,80.0
+2016-11-11,Baird,Not Provided,5.0,outperform,79.0
+2016-11-14,FBR Capital Markets,12 month,3.0,market perform,71.0
+2016-11-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-14,Cowen,12 month,3.0,market perform,74.0
+2016-11-14,B Riley & Co,12 month,5.0,buy,81.0
+2016-11-14,Telsey Advisory Group,12 month,5.0,outperform,78.0
+2016-11-14,Credit Suisse,Not Provided,3.0,neutral,68.0
+2016-11-15,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-11-18,Jefferies,12 month,5.0,buy,85.0
+2016-11-18,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-11-18,J.P. Morgan,18 month,5.0,overweight,79.0
+2016-11-18,Barclays,Not Provided,5.0,overweight,80.0
+2016-11-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-18,Credit Suisse,Not Provided,3.0,neutral,71.0
+2016-11-18,Telsey Advisory Group,12 month,5.0,outperform,78.0
+2016-11-18,Evercore ISI,12 month,3.0,hold,75.0
+2016-11-18,Baird,12 month,5.0,outperform,79.0
+2016-11-20,Canaccord Genuity,12 month,5.0,buy,79.0
+2016-11-21,Cowen,Not Provided,3.0,market perform,74.0
+2016-11-21,Morgan Stanley,12 month,3.0,Equalwt/In-Line,73.0
+2016-11-21,UBS,12 month,5.0,buy,80.0
+2016-11-21,Susquehanna Financial,12 month,4.0,Positive,83.0
+2016-11-21,B Riley & Co,Not Provided,5.0,buy,81.0
+2016-11-21,Brean Capital LLC,12 month,5.0,buy,78.0
+2016-11-21,FBR Capital Markets,12 month,3.0,market perform,71.0
+2016-11-21,Wedbush,12 month,5.0,outperform,80.0
+2016-11-21,Piper Jaffray,12 month,3.0,neutral,72.0
+2016-11-21,Buckingham Research Group,12 month,3.0,neutral,73.0
+2016-11-22,Argus Research Corp,Not Provided,5.0,buy,88.0
+2016-11-28,Buckingham Research Group,Not Provided,3.0,neutral,73.0
+2016-11-28,Cowen,Not Provided,3.0,market perform,74.0
+2016-11-28,Canaccord Genuity,Not Provided,5.0,buy,79.0
+2016-12-01,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-12-02,Baird,12 month,5.0,outperform,79.0
+2016-12-05,Canaccord Genuity,Not Provided,5.0,buy,83.0
+2016-12-07,B Riley & Co,Not Provided,5.0,buy,83.0
+2016-12-07,Buckingham Research Group,Not Provided,3.0,neutral,73.0
+2016-12-08,Telsey Advisory Group,12 month,5.0,outperform,78.0
+2016-12-12,Baird,12 month,5.0,outperform,88.0
+2016-12-13,Cowen,Not Provided,3.0,market perform,74.0
+2016-12-14,Cowen,Not Provided,3.0,market perform,74.0
+2016-12-16,Susquehanna Financial,12 month,4.0,Positive,83.0
+2016-12-19,Baird,Not Provided,5.0,outperform,88.0
+2016-12-21,Piper Jaffray,12 month,3.0,neutral,72.0
+2016-12-22,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2016-12-27,Baird,Not Provided,5.0,outperform,88.0
+2016-12-30,Baird,12 month,5.0,outperform,88.0
+2017-01-03,Cowen,Not Provided,3.0,market perform,74.0
+2017-01-03,Jefferies,Not Provided,5.0,buy,85.0
+2017-01-04,Telsey Advisory Group,12 month,5.0,outperform,88.0
+2017-01-04,Buckingham Research Group,Not Provided,3.0,neutral,73.0
+2017-01-06,Baird,Not Provided,5.0,outperform,88.0
+2017-01-12,Buckingham Research Group,Not Provided,3.0,neutral,73.0
+2017-01-12,Cowen,Not Provided,3.0,market perform,74.0
+2017-01-17,Telsey Advisory Group,12 month,5.0,outperform,88.0
+2017-01-17,Cowen,Not Provided,3.0,market perform,74.0
+2017-01-20,Baird,12 month,5.0,outperform,88.0
+2017-01-23,Telsey Advisory Group,Not Provided,5.0,outperform,85.0
+2017-01-23,Canaccord Genuity,Not Provided,5.0,buy,83.0
+2017-01-25,Cowen,Not Provided,3.0,market perform,74.0
+2017-01-27,Baird,Not Provided,5.0,outperform,82.0
+2017-01-30,Cowen,Not Provided,3.0,market perform,74.0
+2017-02-01,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2017-02-02,Guggenheim Securities,12 month,5.0,buy,85.0
+2017-02-03,Baird,Not Provided,5.0,outperform,82.0
+2017-02-10,Buckingham Research Group,Not Provided,3.0,neutral,76.0
+2017-02-10,Baird,Not Provided,5.0,outperform,82.0
+2017-02-10,Cowen,Not Provided,3.0,market perform,74.0
+2017-02-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-15,Cowen,Not Provided,3.0,market perform,74.0
+2017-02-16,J.P. Morgan,12 month,5.0,overweight,79.0
+2017-02-17,Susquehanna Financial,12 month,4.0,Positive,83.0
+2017-02-17,Baird,Not Provided,5.0,outperform,82.0
+2017-02-17,Telsey Advisory Group,Not Provided,5.0,outperform,85.0
+2017-02-17,Barclays,Not Provided,5.0,overweight,80.0
+2017-02-17,Credit Suisse,Not Provided,3.0,neutral,71.0
+2017-02-23,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-02-24,B Riley & Co,Not Provided,5.0,buy,79.0
+2017-02-24,Evercore ISI,12 month,3.0,hold,80.0
+2017-02-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,77.0
+2017-02-24,J.P. Morgan,12 month,5.0,overweight,82.0
+2017-02-24,Barclays,Not Provided,5.0,overweight,85.0
+2017-02-24,Guggenheim Securities,12 month,5.0,buy,85.0
+2017-02-24,Susquehanna Financial,12 month,4.0,Positive,86.0
+2017-02-24,Piper Jaffray,12 month,3.0,neutral,76.0
+2017-02-24,Credit Suisse,Not Provided,3.0,neutral,77.0
+2017-02-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-26,Baird,12 month,5.0,outperform,85.0
+2017-02-27,Argus Research Corp,Not Provided,5.0,buy,88.0
+2017-02-27,Canaccord Genuity,Not Provided,5.0,buy,87.0
+2017-02-27,FBR Capital Markets,Not Provided,3.0,market perform,76.0
+2017-02-27,Cowen,Not Provided,3.0,market perform,77.0
+2017-02-27,Buckingham Research Group,12 month,3.0,neutral,77.0
+2017-02-27,Telsey Advisory Group,Not Provided,5.0,outperform,85.0
+2017-02-27,Jefferies,Not Provided,5.0,buy,90.0
+2017-02-27,UBS,12 month,5.0,buy,83.0
+2017-02-27,Wedbush,12 month,5.0,outperform,84.0
+2017-03-02,Evercore ISI,Not Provided,3.0,in-line,80.0
+2017-03-03,Cowen,Not Provided,3.0,market perform,77.0
+2017-03-06,Telsey Advisory Group,12 month,5.0,outperform,85.0
+2017-03-10,Baird,Not Provided,5.0,outperform,85.0
+2017-03-10,Cowen,Not Provided,3.0,market perform,77.0
+2017-03-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-20,Piper Jaffray,12 month,3.0,neutral,76.0
+2017-03-20,Cowen,Not Provided,3.0,market perform,77.0
+2017-03-23,Telsey Advisory Group,12 month,5.0,outperform,85.0
+2017-03-28,Telsey Advisory Group,12 month,5.0,outperform,85.0
+2017-03-28,Cowen,Not Provided,3.0,market perform,77.0
+2017-03-30,Wedbush,12 month,5.0,outperform,84.0
+2017-03-31,Baird,Not Provided,5.0,outperform,85.0
+2017-04-03,Evercore ISI,Not Provided,3.0,no position,-0.0
+2017-04-03,J.P. Morgan,9 month,5.0,overweight,82.0
+2017-04-03,Guggenheim Securities,Not Provided,5.0,buy,85.0
+2017-04-04,Evercore ISI,Not Provided,3.0,no position,-0.0
+2017-04-07,Baird,Not Provided,5.0,outperform,85.0
+2017-04-07,Telsey Advisory Group,12 month,5.0,outperform,85.0
+2017-04-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-17,Cowen,Not Provided,3.0,market perform,77.0
+2017-04-20,Guggenheim Securities,Not Provided,5.0,buy,85.0
+2017-04-20,Credit Suisse,Not Provided,3.0,neutral,77.0
+2017-04-20,Wedbush,12 month,5.0,outperform,83.0
+2017-04-20,B Riley & Co,Not Provided,5.0,buy,79.0
+2017-04-20,Piper Jaffray,12 month,3.0,neutral,74.0
+2017-04-20,Jefferies,12 month,5.0,buy,88.0
+2017-04-20,Buckingham Research Group,12 month,5.0,buy,89.0
+2017-04-20,Susquehanna Financial,12 month,4.0,Positive,86.0
+2017-04-20,Telsey Advisory Group,12 month,5.0,outperform,85.0
+2017-04-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-20,J.P. Morgan,9 month,5.0,overweight,82.0
+2017-04-20,Canaccord Genuity,Not Provided,5.0,buy,87.0
+2017-04-21,Cowen,12 month,3.0,market perform,77.0
+2017-04-21,Evercore ISI,Not Provided,3.0,no position,-0.0
+2017-04-21,Baird,12 month,5.0,outperform,85.0
+2017-04-26,Cowen,Not Provided,3.0,market perform,77.0
+2017-04-28,Baird,12 month,5.0,outperform,85.0
+2017-05-01,Telsey Advisory Group,12 month,5.0,outperform,85.0
+2017-05-01,Guggenheim Securities,Not Provided,5.0,buy,85.0
+2017-05-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-05,Baird,Not Provided,5.0,outperform,85.0
+2017-05-08,Guggenheim Securities,12 month,5.0,buy,85.0
+2017-05-08,Jefferies,12 month,5.0,buy,88.0
+2017-05-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-08,Susquehanna Financial,12 month,4.0,Positive,86.0
+2017-05-10,J.P. Morgan,9 month,5.0,overweight,82.0
+2017-05-10,Telsey Advisory Group,12 month,5.0,outperform,85.0
+2017-05-12,Credit Suisse,Not Provided,3.0,neutral,77.0
+2017-05-12,B Riley & Co,Not Provided,5.0,buy,79.0
+2017-05-15,Cowen,Not Provided,3.0,market perform,77.0
+2017-05-15,FBR Capital Markets,12 month,3.0,market perform,76.0
+2017-05-16,Baird,12 month,5.0,outperform,85.0
+2017-05-16,Piper Jaffray,12 month,3.0,neutral,74.0
+2017-05-17,Wedbush,12 month,5.0,outperform,83.0
+2017-05-17,Barclays,Not Provided,5.0,overweight,85.0
+2017-05-18,Cowen,Not Provided,3.0,market perform,77.0
+2017-05-19,Cowen,Not Provided,3.0,market perform,64.0
+2017-05-19,Barclays,Not Provided,5.0,overweight,80.0
+2017-05-19,Piper Jaffray,12 month,3.0,neutral,60.0
+2017-05-19,Susquehanna Financial,12 month,4.0,Positive,86.0
+2017-05-19,Guggenheim Securities,12 month,5.0,buy,80.0
+2017-05-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,70.0
+2017-05-19,Evercore ISI,Not Provided,3.0,no position,-0.0
+2017-05-19,Canaccord Genuity,Not Provided,5.0,buy,75.0
+2017-05-19,FBR Capital Markets,12 month,3.0,market perform,66.0
+2017-05-19,J.P. Morgan,9 month,5.0,overweight,69.0
+2017-05-19,Credit Suisse,Not Provided,3.0,neutral,66.0
+2017-05-19,Jefferies,12 month,5.0,buy,80.0
+2017-05-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-19,Wedbush,12 month,5.0,outperform,83.0
+2017-05-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,77.0
+2017-05-19,Telsey Advisory Group,12 month,5.0,outperform,79.0
+2017-05-19,Baird,12 month,5.0,outperform,85.0
+2017-05-19,Credit Suisse,Not Provided,3.0,neutral,77.0
+2017-05-19,Buckingham Research Group,12 month,5.0,buy,89.0
+2017-05-21,Baird,12 month,5.0,outperform,77.0
+2017-05-22,Wedbush,12 month,5.0,outperform,72.0
+2017-05-22,Buckingham Research Group,12 month,5.0,buy,81.0
+2017-05-22,B Riley & Co,Not Provided,5.0,buy,68.0
+2017-05-22,Telsey Advisory Group,12 month,5.0,outperform,79.0
+2017-05-23,UBS,12 month,5.0,buy,70.0

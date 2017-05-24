@@ -1,0 +1,494 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-07-17,Goldman Sachs,12 month,5.0,buy/attractive,37.0
+2015-10-15,BTIG LLC,12 month,5.0,buy,42.0
+2015-10-18,Morgan Stanley,12 month,5.0,Overwt/Attractive,40.0
+2015-10-19,Guggenheim Securities,12 month,5.0,buy,42.0
+2015-10-19,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2015-10-19,Susquehanna Financial,12 month,4.0,Positive,41.0
+2015-10-19,UBS,12 month,3.0,neutral,33.5
+2015-10-19,BMO Capital Markets,Not Provided,3.0,market perform,36.0
+2015-10-20,Portales Partners,Not Provided,5.0,outperform,-0.0
+2015-10-20,JMP Securities,12 month,4.0,market outperform,39.0
+2015-11-12,Credit Suisse,Not Provided,5.0,outperform,38.0
+2015-11-12,Nomura,12 month,5.0,buy,39.0
+2015-11-16,Barclays,Not Provided,5.0,overweight,41.0
+2015-11-17,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-11-17,Jefferies,Not Provided,5.0,buy,42.0
+2015-11-18,J.P. Morgan,18 month,5.0,overweight,38.0
+2015-11-20,Bernstein,Not Provided,5.0,outperform,41.0
+2015-11-22,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2015-11-23,Sterne Agee CRT,12 month,5.0,buy,38.0
+2015-11-23,Spin-Off Research,Not Provided,5.0,buy,36.5
+2015-11-23,Buckingham Research Group,Not Provided,5.0,buy,40.0
+2015-11-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-11-27,BMO Capital Markets,Not Provided,5.0,outperform,36.0
+2015-11-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-30,Buckingham Research Group,Not Provided,5.0,buy,40.0
+2015-12-07,Buckingham Research Group,Not Provided,5.0,buy,40.0
+2015-12-09,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-14,Buckingham Research Group,Not Provided,5.0,buy,40.0
+2015-12-15,Barclays,Not Provided,5.0,overweight,41.0
+2015-12-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2015-12-17,Guggenheim Securities,12 month,5.0,buy,42.0
+2015-12-17,Susquehanna Financial,12 month,4.0,Positive,41.0
+2015-12-18,Bernstein,12 month,5.0,outperform,41.0
+2015-12-20,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-22,JMP Securities,12 month,4.0,market outperform,39.0
+2015-12-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-12-22,Jefferies,12 month,5.0,buy,42.0
+2016-01-04,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-04,Susquehanna Financial,12 month,4.0,Positive,41.0
+2016-01-05,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-01-06,Nomura,12 month,5.0,buy,38.0
+2016-01-06,Bernstein,Not Provided,5.0,outperform,39.0
+2016-01-07,Portales Partners,Not Provided,5.0,outperform,-0.0
+2016-01-07,Spin-Off Research,Not Provided,5.0,buy,36.5
+2016-01-07,Guggenheim Securities,12 month,5.0,buy,42.0
+2016-01-07,Jefferies,Not Provided,5.0,buy,42.0
+2016-01-12,BMO Capital Markets,Not Provided,5.0,outperform,36.0
+2016-01-13,Bernstein,Not Provided,5.0,outperform,39.0
+2016-01-14,D.A. Davidson & Co,18 month,5.0,buy,37.0
+2016-01-14,Guggenheim Securities,12 month,5.0,buy,42.0
+2016-01-14,J.P. Morgan,18 month,5.0,overweight,35.0
+2016-01-15,JMP Securities,12 month,4.0,market outperform,39.0
+2016-01-15,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-15,Barclays,Not Provided,5.0,overweight,41.0
+2016-01-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2016-01-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-22,Nomura,12 month,5.0,buy,39.0
+2016-01-22,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-01-22,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2016-01-22,Guggenheim Securities,12 month,5.0,buy,42.0
+2016-01-22,Jefferies,12 month,5.0,buy,42.0
+2016-01-22,D.A. Davidson & Co,12 month,5.0,buy,37.0
+2016-01-22,Susquehanna Financial,12 month,4.0,Positive,41.0
+2016-01-22,BTIG LLC,12 month,5.0,buy,42.0
+2016-01-22,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-24,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2016-01-25,J.P. Morgan,9 month,5.0,overweight,35.0
+2016-01-25,Bernstein,12 month,5.0,outperform,37.0
+2016-01-25,JMP Securities,Not Provided,4.0,market outperform,39.0
+2016-01-25,Barclays,Not Provided,5.0,overweight,41.0
+2016-01-25,Portales Partners,Not Provided,5.0,outperform,-0.0
+2016-01-25,Morgan Stanley,12 month,5.0,Overwt/Attractive,40.0
+2016-01-25,Sterne Agee CRT,12 month,5.0,buy,38.0
+2016-01-26,UBS,12 month,3.0,neutral,32.0
+2016-01-26,Sterne Agee CRT,12 month,5.0,buy,38.0
+2016-01-28,Guggenheim Securities,Not Provided,5.0,buy,42.0
+2016-01-29,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-01-29,Portales Partners,Not Provided,5.0,outperform,-0.0
+2016-02-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-02-04,Guggenheim Securities,Not Provided,5.0,buy,42.0
+2016-02-08,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2016-02-09,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-02-11,Morgan Stanley,12 month,5.0,Overwt/Attractive,34.0
+2016-02-11,Nomura,Not Provided,5.0,buy,35.0
+2016-02-11,D.A. Davidson & Co,Not Provided,5.0,buy,37.0
+2016-02-16,Guggenheim Securities,12 month,5.0,buy,42.0
+2016-02-16,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2016-02-16,Barclays,Not Provided,5.0,overweight,41.0
+2016-02-16,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2016-02-17,JMP Securities,Not Provided,4.0,market outperform,39.0
+2016-02-22,Sterne Agee CRT,Not Provided,5.0,buy,32.0
+2016-02-26,Bernstein,12 month,5.0,outperform,37.0
+2016-03-01,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2016-03-02,Bernstein,12 month,5.0,outperform,37.0
+2016-03-02,JMP Securities,12 month,4.0,market outperform,39.0
+2016-03-03,Nomura,12 month,5.0,buy,35.0
+2016-03-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-03-04,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-03-14,D.A. Davidson & Co,Not Provided,5.0,buy,37.0
+2016-03-15,Barclays,Not Provided,5.0,overweight,41.0
+2016-03-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2016-03-16,Portales Partners,Not Provided,5.0,outperform,-0.0
+2016-03-16,Jefferies,12 month,5.0,buy,42.0
+2016-03-16,Susquehanna Financial,12 month,4.0,Positive,41.0
+2016-03-18,Bernstein,12 month,5.0,outperform,37.0
+2016-03-23,Susquehanna Financial,12 month,4.0,Positive,41.0
+2016-04-01,J.P. Morgan,9 month,5.0,overweight,35.0
+2016-04-04,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-04-06,Guggenheim Securities,Not Provided,5.0,buy,42.0
+2016-04-07,Bernstein,Not Provided,5.0,outperform,37.0
+2016-04-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-07,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-04-08,JMP Securities,12 month,4.0,market outperform,39.0
+2016-04-10,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,40.0
+2016-04-12,Barclays,Not Provided,5.0,overweight,41.0
+2016-04-12,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2016-04-12,BTIG LLC,12 month,5.0,buy,42.0
+2016-04-14,D.A. Davidson & Co,18 month,5.0,buy,37.0
+2016-04-14,Jefferies,Not Provided,5.0,buy,42.0
+2016-04-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2016-04-15,JMP Securities,12 month,4.0,market outperform,39.0
+2016-04-15,J.P. Morgan,Not Provided,5.0,overweight,35.0
+2016-04-15,Barclays,Not Provided,5.0,overweight,41.0
+2016-04-22,Nomura,12 month,5.0,buy,35.0
+2016-04-22,Susquehanna Financial,12 month,4.0,Positive,36.0
+2016-04-22,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2016-04-22,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-04-22,J.P. Morgan,9 month,5.0,overweight,35.0
+2016-04-22,Guggenheim Securities,12 month,5.0,buy,40.0
+2016-04-22,D.A. Davidson & Co,12 month,5.0,buy,37.0
+2016-04-22,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-04-22,Jefferies,12 month,5.0,buy,42.0
+2016-04-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-22,BTIG LLC,12 month,5.0,buy,42.0
+2016-04-25,Morgan Stanley,12 month,5.0,Overwt/Attractive,34.0
+2016-04-25,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2016-04-25,Bernstein,12 month,5.0,outperform,40.0
+2016-04-25,Sterne Agee CRT,12 month,5.0,buy,35.0
+2016-04-25,JMP Securities,12 month,4.0,market outperform,39.0
+2016-04-25,Barclays,Not Provided,5.0,overweight,41.0
+2016-04-26,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-04-28,Bernstein,Not Provided,5.0,outperform,40.0
+2016-05-02,Jefferies,12 month,5.0,buy,42.0
+2016-05-03,Portales Partners,Not Provided,5.0,outperform,-0.0
+2016-05-04,Susquehanna Financial,12 month,4.0,Positive,36.0
+2016-05-11,Macquarie,12 month,3.0,neutral,37.0
+2016-05-13,D.A. Davidson & Co,Not Provided,5.0,buy,37.0
+2016-05-16,Barclays,Not Provided,5.0,overweight,41.0
+2016-05-16,JMP Securities,12 month,4.0,market outperform,39.0
+2016-05-16,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2016-05-17,Susquehanna Financial,12 month,4.0,Positive,36.0
+2016-05-19,Guggenheim Securities,12 month,5.0,buy,40.0
+2016-05-20,Portales Partners,Not Provided,5.0,outperform,-0.0
+2016-05-20,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2016-05-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-24,Bernstein,Not Provided,5.0,outperform,40.0
+2016-05-31,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2016-06-01,Jefferies,Not Provided,5.0,buy,42.0
+2016-06-01,Sterne Agee CRT,Not Provided,5.0,buy,35.0
+2016-06-02,Guggenheim Securities,Not Provided,5.0,buy,40.0
+2016-06-06,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2016-06-06,Susquehanna Financial,12 month,4.0,Positive,36.0
+2016-06-06,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-06-06,Bernstein,Not Provided,5.0,outperform,40.0
+2016-06-07,Nomura,12 month,5.0,buy,35.0
+2016-06-08,Guggenheim Securities,12 month,5.0,buy,40.0
+2016-06-08,J.P. Morgan,6 month,5.0,overweight,35.0
+2016-06-14,Guggenheim Securities,12 month,5.0,buy,40.0
+2016-06-14,BTIG LLC,12 month,5.0,buy,42.0
+2016-06-14,JMP Securities,12 month,4.0,market outperform,39.0
+2016-06-14,BMO Capital Markets,Not Provided,5.0,outperform,36.0
+2016-06-14,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-06-14,Nomura,12 month,5.0,buy,34.0
+2016-06-14,Credit Suisse,Not Provided,5.0,outperform,37.0
+2016-06-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-06-15,Barclays,Not Provided,5.0,overweight,41.0
+2016-06-15,Goldman Sachs,12 month,5.0,buy/attractive,35.0
+2016-06-15,D.A. Davidson & Co,18 month,5.0,buy,37.0
+2016-06-15,Jefferies,12 month,5.0,buy,35.0
+2016-06-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,35.0
+2016-06-15,Bernstein,12 month,5.0,outperform,39.0
+2016-06-15,Macquarie,12 month,3.0,neutral,33.0
+2016-06-15,Morgan Stanley,12 month,5.0,Overwt/Attractive,33.0
+2016-06-16,J.P. Morgan,6 month,5.0,overweight,35.0
+2016-06-16,Portales Partners,Not Provided,5.0,outperform,-0.0
+2016-06-17,"Keefe, Bruyette & Woods",12 month,5.0,outperform,35.0
+2016-06-20,JMP Securities,12 month,4.0,market outperform,33.0
+2016-06-20,D.A. Davidson & Co,Not Provided,5.0,buy,37.0
+2016-06-22,Bernstein,12 month,5.0,outperform,39.0
+2016-06-23,Susquehanna Financial,12 month,4.0,Positive,36.0
+2016-06-23,Guggenheim Securities,12 month,5.0,buy,40.0
+2016-06-27,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-06-27,Macquarie,12 month,3.0,neutral,33.0
+2016-06-27,Jefferies,12 month,5.0,buy,35.0
+2016-06-27,BTIG LLC,12 month,5.0,buy,42.0
+2016-06-29,Guggenheim Securities,Not Provided,5.0,buy,40.0
+2016-06-30,Susquehanna Financial,12 month,4.0,Positive,36.0
+2016-06-30,Bernstein,Not Provided,5.0,outperform,39.0
+2016-07-07,Jefferies,12 month,5.0,buy,35.0
+2016-07-07,"Keefe, Bruyette & Woods",12 month,5.0,outperform,35.0
+2016-07-07,Guggenheim Securities,Not Provided,5.0,buy,40.0
+2016-07-07,Credit Suisse,Not Provided,5.0,outperform,37.0
+2016-07-08,BMO Capital Markets,Not Provided,5.0,outperform,36.0
+2016-07-08,J.P. Morgan,6 month,5.0,overweight,35.0
+2016-07-08,D.A. Davidson & Co,Not Provided,5.0,buy,37.0
+2016-07-08,BTIG LLC,12 month,5.0,buy,42.0
+2016-07-08,Morgan Stanley,12 month,5.0,Overwt/Attractive,33.0
+2016-07-08,Nomura,12 month,5.0,buy,34.0
+2016-07-08,Barclays,Not Provided,5.0,overweight,41.0
+2016-07-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-07-08,Bernstein,Not Provided,5.0,outperform,39.0
+2016-07-08,JMP Securities,12 month,4.0,market outperform,33.0
+2016-07-11,Macquarie,12 month,3.0,neutral,33.0
+2016-07-11,BTIG LLC,12 month,5.0,buy,42.0
+2016-07-12,Bernstein,Not Provided,5.0,outperform,39.0
+2016-07-12,Jefferies,Not Provided,5.0,buy,35.0
+2016-07-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-07-14,Nomura,12 month,5.0,buy,34.0
+2016-07-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,35.0
+2016-07-15,Barclays,Not Provided,5.0,overweight,41.0
+2016-07-15,Credit Suisse,Not Provided,5.0,outperform,37.0
+2016-07-18,JMP Securities,Not Provided,4.0,market outperform,33.0
+2016-07-22,Bernstein,12 month,5.0,outperform,39.0
+2016-07-22,Morgan Stanley,12 month,5.0,Overwt/Attractive,33.0
+2016-07-22,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2016-07-22,Guggenheim Securities,12 month,5.0,buy,32.0
+2016-07-22,D.A. Davidson & Co,12 month,5.0,buy,37.0
+2016-07-22,J.P. Morgan,12 month,5.0,overweight,33.5
+2016-07-22,Barclays,Not Provided,5.0,overweight,41.0
+2016-07-22,Nomura,12 month,5.0,buy,34.0
+2016-07-22,Credit Suisse,Not Provided,5.0,outperform,37.0
+2016-07-22,Jefferies,12 month,5.0,buy,35.0
+2016-07-22,Susquehanna Financial,12 month,4.0,Positive,36.0
+2016-07-22,BTIG LLC,12 month,5.0,buy,42.0
+2016-07-22,"Keefe, Bruyette & Woods",12 month,5.0,outperform,35.0
+2016-07-23,Macquarie,12 month,3.0,neutral,33.0
+2016-07-25,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-07-25,Barclays,Not Provided,5.0,overweight,41.0
+2016-07-25,JMP Securities,12 month,4.0,market outperform,33.0
+2016-07-25,J.P. Morgan,18 month,5.0,overweight,33.5
+2016-07-25,Morgan Stanley,12 month,5.0,Overwt/Attractive,33.0
+2016-07-28,Guggenheim Securities,Not Provided,5.0,buy,32.0
+2016-07-28,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-08-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-08-11,Guggenheim Securities,12 month,5.0,buy,32.0
+2016-08-12,D.A. Davidson & Co,12 month,5.0,buy,37.0
+2016-08-12,Bernstein,Not Provided,5.0,outperform,39.0
+2016-08-15,Barclays,Not Provided,5.0,overweight,41.0
+2016-08-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,35.0
+2016-08-17,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2016-08-19,Bernstein,Not Provided,5.0,outperform,39.0
+2016-08-26,Bernstein,Not Provided,5.0,outperform,39.0
+2016-09-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-07,Barclays,Not Provided,5.0,overweight,41.0
+2016-09-08,Guggenheim Securities,12 month,5.0,buy,32.0
+2016-09-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-12,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2016-09-13,Jefferies,12 month,5.0,buy,35.0
+2016-09-15,Guggenheim Securities,Not Provided,5.0,buy,32.0
+2016-09-15,Barclays,Not Provided,5.0,overweight,41.0
+2016-09-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,35.0
+2016-09-15,Credit Suisse,Not Provided,5.0,outperform,37.0
+2016-09-22,Credit Suisse,Not Provided,5.0,outperform,37.0
+2016-09-22,Nomura,12 month,5.0,buy,34.0
+2016-09-22,Guggenheim Securities,Not Provided,5.0,buy,32.0
+2016-09-23,Bernstein,Not Provided,5.0,outperform,39.0
+2016-09-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-29,Guggenheim Securities,Not Provided,5.0,buy,32.0
+2016-10-05,Guggenheim Securities,Not Provided,5.0,buy,32.0
+2016-10-05,"Keefe, Bruyette & Woods",12 month,5.0,outperform,35.0
+2016-10-07,Susquehanna Financial,12 month,4.0,Positive,36.0
+2016-10-10,Wedbush,12 month,5.0,outperform,31.0
+2016-10-11,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2016-10-11,Jefferies,Not Provided,5.0,buy,35.0
+2016-10-11,Credit Suisse,Not Provided,5.0,outperform,37.0
+2016-10-12,Bernstein,Not Provided,5.0,outperform,39.0
+2016-10-12,BTIG LLC,12 month,5.0,buy,42.0
+2016-10-14,J.P. Morgan,18 month,5.0,overweight,33.5
+2016-10-14,D.A. Davidson & Co,12 month,5.0,buy,37.0
+2016-10-17,Barclays,Not Provided,5.0,overweight,41.0
+2016-10-17,"Keefe, Bruyette & Woods",12 month,5.0,outperform,35.0
+2016-10-21,D.A. Davidson & Co,12 month,5.0,buy,37.0
+2016-10-21,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2016-10-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-10-21,Guggenheim Securities,12 month,5.0,buy,32.0
+2016-10-21,Morgan Stanley,12 month,5.0,Overwt/Attractive,33.0
+2016-10-21,Credit Suisse,Not Provided,5.0,outperform,37.0
+2016-10-21,BTIG LLC,12 month,5.0,buy,42.0
+2016-10-21,Nomura,12 month,5.0,buy,34.0
+2016-10-21,"Keefe, Bruyette & Woods",12 month,5.0,outperform,35.0
+2016-10-21,Jefferies,12 month,5.0,buy,35.0
+2016-10-21,Susquehanna Financial,12 month,4.0,Positive,36.0
+2016-10-23,Goldman Sachs,12 month,5.0,buy/attractive,36.0
+2016-10-24,J.P. Morgan,18 month,5.0,overweight,33.5
+2016-10-24,Wedbush,12 month,5.0,outperform,32.0
+2016-10-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-24,JMP Securities,12 month,4.0,market outperform,33.0
+2016-10-24,Bernstein,12 month,5.0,outperform,39.0
+2016-10-24,Barclays,Not Provided,5.0,overweight,41.0
+2016-10-26,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-10-27,Guggenheim Securities,12 month,5.0,buy,32.0
+2016-10-31,Barclays,Not Provided,5.0,overweight,41.0
+2016-10-31,Nomura,12 month,5.0,buy,34.0
+2016-11-04,Compass Point Research & Trading LLC,12 month,5.0,buy,34.0
+2016-11-07,Jefferies,12 month,5.0,buy,35.0
+2016-11-10,Bernstein,Not Provided,5.0,outperform,39.0
+2016-11-14,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-11-14,D.A. Davidson & Co,12 month,5.0,buy,37.0
+2016-11-14,Morgan Stanley,12 month,5.0,Overwt/Attractive,40.0
+2016-11-15,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-11-15,Nomura Instinet,12 month,5.0,buy,34.0
+2016-11-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,35.0
+2016-11-17,Stephens Inc,12 month,5.0,overweight,40.0
+2016-11-18,Susquehanna Financial,12 month,4.0,Positive,36.0
+2016-11-21,Guggenheim Securities,12 month,5.0,buy,37.0
+2016-11-21,Barclays,Not Provided,5.0,overweight,41.0
+2016-11-22,JMP Securities,Not Provided,4.0,market outperform,37.0
+2016-11-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-11-22,Bernstein,Not Provided,5.0,outperform,43.0
+2016-11-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-30,Wedbush,Not Provided,5.0,outperform,37.0
+2016-12-01,Guggenheim Securities,12 month,5.0,buy,37.0
+2016-12-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-01,Goldman Sachs,12 month,5.0,buy/attractive,40.0
+2016-12-02,Bernstein,12 month,5.0,outperform,43.0
+2016-12-05,D.A. Davidson & Co,12 month,5.0,buy,41.0
+2016-12-05,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,40.0
+2016-12-05,Susquehanna Financial,12 month,4.0,Positive,40.0
+2016-12-07,Wedbush,12 month,3.0,neutral,37.0
+2016-12-08,Guggenheim Securities,12 month,5.0,buy,37.0
+2016-12-08,J.P. Morgan,12 month,5.0,overweight,39.0
+2016-12-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-12-09,Susquehanna Financial,12 month,4.0,Positive,40.0
+2016-12-13,D.A. Davidson & Co,12 month,5.0,buy,41.0
+2016-12-14,Wedbush,Not Provided,3.0,neutral,37.0
+2016-12-15,Barclays,Not Provided,5.0,overweight,41.0
+2016-12-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2016-12-15,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-12-16,JMP Securities,12 month,4.0,market outperform,37.0
+2016-12-20,Jefferies,Not Provided,5.0,buy,43.0
+2016-12-22,Guggenheim Securities,12 month,5.0,buy,37.0
+2016-12-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-04,Credit Suisse,Not Provided,5.0,outperform,43.0
+2017-01-04,Nomura Instinet,12 month,5.0,buy,44.0
+2017-01-05,Susquehanna Financial,12 month,4.0,Positive,40.0
+2017-01-06,Bernstein,Not Provided,5.0,outperform,43.0
+2017-01-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-01-09,Guggenheim Securities,Not Provided,5.0,buy,41.0
+2017-01-09,BTIG LLC,12 month,5.0,buy,42.0
+2017-01-09,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2017-01-09,Jefferies,Not Provided,5.0,buy,45.0
+2017-01-09,Goldman Sachs,12 month,5.0,buy/attractive,51.0
+2017-01-11,Nomura Instinet,12 month,5.0,buy,44.0
+2017-01-11,Credit Suisse,Not Provided,5.0,outperform,43.0
+2017-01-11,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2017-01-11,JMP Securities,12 month,4.0,market outperform,37.0
+2017-01-12,Barclays,Not Provided,5.0,overweight,47.0
+2017-01-20,Morgan Stanley,12 month,5.0,Overwt/Attractive,40.0
+2017-01-20,Barclays,Not Provided,5.0,overweight,47.0
+2017-01-20,Credit Suisse,Not Provided,5.0,outperform,43.0
+2017-01-20,D.A. Davidson & Co,12 month,5.0,buy,45.0
+2017-01-20,Stephens Inc,12 month,5.0,overweight,44.0
+2017-01-20,Nomura Instinet,12 month,5.0,buy,44.0
+2017-01-20,JMP Securities,12 month,4.0,market outperform,37.0
+2017-01-20,Bernstein,Not Provided,5.0,outperform,43.0
+2017-01-20,Guggenheim Securities,12 month,5.0,buy,41.0
+2017-01-20,"Keefe, Bruyette & Woods",12 month,5.0,outperform,44.0
+2017-01-20,BTIG LLC,12 month,5.0,buy,42.0
+2017-01-20,BMO Capital Markets,Not Provided,5.0,outperform,38.0
+2017-01-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-20,Susquehanna Financial,12 month,4.0,Positive,40.0
+2017-01-20,Goldman Sachs,12 month,5.0,buy/attractive,49.0
+2017-01-20,Jefferies,12 month,5.0,buy,45.0
+2017-01-20,Wedbush,12 month,3.0,neutral,37.0
+2017-01-20,J.P. Morgan,12 month,5.0,overweight,39.0
+2017-01-23,JMP Securities,12 month,4.0,market outperform,41.0
+2017-01-23,Bernstein,Not Provided,5.0,outperform,45.0
+2017-01-23,Compass Point Research & Trading LLC,12 month,5.0,buy,42.0
+2017-01-23,Guggenheim Securities,12 month,5.0,buy,41.0
+2017-01-23,J.P. Morgan,12 month,5.0,overweight,39.0
+2017-01-23,Barclays,Not Provided,5.0,overweight,47.0
+2017-01-23,D.A. Davidson & Co,12 month,5.0,buy,45.0
+2017-01-23,Morgan Stanley,12 month,5.0,Overwt/Attractive,42.0
+2017-01-24,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2017-01-25,Stephens Inc,12 month,5.0,overweight,44.0
+2017-01-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-26,Jefferies,12 month,5.0,buy,45.0
+2017-01-27,Daiwa Securities,12 month,5.0,outperform,41.0
+2017-01-30,Barclays,Not Provided,5.0,overweight,47.0
+2017-01-31,Daiwa Securities,12 month,5.0,outperform,41.0
+2017-02-01,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2017-02-02,Guggenheim Securities,12 month,5.0,buy,41.0
+2017-02-07,Wedbush,12 month,3.0,neutral,39.0
+2017-02-07,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2017-02-08,Susquehanna Financial,12 month,4.0,Positive,40.0
+2017-02-10,Nomura Instinet,12 month,5.0,buy,44.0
+2017-02-10,Bernstein,Not Provided,5.0,outperform,45.0
+2017-02-10,Guggenheim Securities,Not Provided,5.0,buy,41.0
+2017-02-14,Jefferies,12 month,5.0,buy,45.0
+2017-02-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-15,D.A. Davidson & Co,12 month,5.0,buy,45.0
+2017-02-15,Barclays,Not Provided,5.0,overweight,47.0
+2017-02-15,Credit Suisse,Not Provided,5.0,outperform,43.0
+2017-02-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,44.0
+2017-02-16,Compass Point Research & Trading LLC,12 month,5.0,buy,42.0
+2017-02-16,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2017-02-21,Jefferies,12 month,5.0,buy,45.0
+2017-02-21,"Keefe, Bruyette & Woods",12 month,5.0,outperform,44.0
+2017-02-22,JMP Securities,12 month,4.0,market outperform,41.0
+2017-02-24,Bernstein,Not Provided,5.0,outperform,45.0
+2017-02-27,Credit Suisse,Not Provided,5.0,outperform,43.0
+2017-02-27,Rafferty Capital Markets,12 month,3.0,hold,40.0
+2017-03-01,Stephens Inc,Not Provided,5.0,overweight,44.0
+2017-03-06,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2017-03-09,Guggenheim Securities,Not Provided,5.0,buy,41.0
+2017-03-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-03-11,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2017-03-13,Bernstein,Not Provided,5.0,outperform,45.0
+2017-03-15,Credit Suisse,Not Provided,5.0,outperform,43.0
+2017-03-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,44.0
+2017-03-15,Barclays,Not Provided,5.0,overweight,47.0
+2017-03-16,JMP Securities,12 month,4.0,market outperform,41.0
+2017-03-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-17,J.P. Morgan,9 month,5.0,overweight,39.0
+2017-03-17,Bernstein,Not Provided,5.0,outperform,45.0
+2017-03-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-03,J.P. Morgan,Not Provided,5.0,overweight,39.0
+2017-04-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-05,Guggenheim Securities,Not Provided,5.0,buy,38.0
+2017-04-06,Compass Point Research & Trading LLC,12 month,5.0,buy,42.0
+2017-04-06,Goldman Sachs,12 month,5.0,buy/attractive,44.0
+2017-04-06,Credit Suisse,Not Provided,5.0,outperform,43.0
+2017-04-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-10,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-04-10,Stephens Inc,12 month,5.0,overweight,44.0
+2017-04-10,Wedbush,12 month,3.0,neutral,39.0
+2017-04-11,Jefferies,Not Provided,5.0,buy,45.0
+2017-04-11,Bernstein,Not Provided,5.0,outperform,45.0
+2017-04-17,Barclays,Not Provided,5.0,overweight,47.0
+2017-04-17,Susquehanna Financial,12 month,4.0,Positive,40.0
+2017-04-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-17,"Keefe, Bruyette & Woods",12 month,5.0,outperform,44.0
+2017-04-18,D.A. Davidson & Co,Not Provided,5.0,buy,45.0
+2017-04-21,Wedbush,12 month,3.0,neutral,39.0
+2017-04-28,Goldman Sachs,12 month,3.0,neutral/attractive,33.0
+2017-04-28,J.P. Morgan,9 month,5.0,overweight,33.0
+2017-04-28,Wedbush,12 month,3.0,neutral,33.0
+2017-04-28,Guggenheim Securities,Not Provided,5.0,buy,38.0
+2017-04-28,Nomura Instinet,12 month,5.0,buy,38.0
+2017-04-28,Morgan Stanley,12 month,5.0,Overwt/Attractive,33.0
+2017-04-28,"Keefe, Bruyette & Woods",12 month,5.0,outperform,44.0
+2017-04-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-28,Credit Suisse,Not Provided,5.0,outperform,39.0
+2017-04-30,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-04-30,BTIG LLC,12 month,5.0,buy,36.0
+2017-05-01,D.A. Davidson & Co,12 month,5.0,buy,41.0
+2017-05-01,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2017-05-01,JMP Securities,Not Provided,4.0,market outperform,35.0
+2017-05-01,Susquehanna Financial,12 month,4.0,Positive,36.0
+2017-05-01,Compass Point Research & Trading LLC,12 month,5.0,buy,34.0
+2017-05-01,Stephens Inc,12 month,3.0,equalweight,29.0
+2017-05-01,Bernstein,12 month,5.0,outperform,40.0
+2017-05-01,Barclays,Not Provided,5.0,overweight,36.0
+2017-05-02,Jefferies,12 month,5.0,buy,40.0
+2017-05-02,BMO Capital Markets,Not Provided,5.0,outperform,38.0
+2017-05-03,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2017-05-05,Bernstein,Not Provided,5.0,outperform,40.0
+2017-05-10,Daiwa Securities,Not Provided,5.0,outperform,30.0
+2017-05-11,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2017-05-15,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-05-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,39.0
+2017-05-15,Stephens Inc,12 month,3.0,equalweight,29.0
+2017-05-15,Credit Suisse,Not Provided,5.0,outperform,39.0
+2017-05-15,Barclays,Not Provided,5.0,overweight,36.0
+2017-05-16,JMP Securities,Not Provided,4.0,market outperform,35.0
+2017-05-17,Bernstein,Not Provided,5.0,outperform,40.0
+2017-05-18,Stephens Inc,12 month,3.0,equalweight,29.0
+2017-05-18,"Keefe, Bruyette & Woods",12 month,5.0,outperform,39.0
+2017-05-18,Jefferies,12 month,5.0,buy,40.0
+2017-05-18,Credit Suisse,Not Provided,5.0,outperform,39.0
+2017-05-18,Barclays,Not Provided,5.0,overweight,36.0
+2017-05-18,Nomura Instinet,12 month,5.0,buy,38.0
+2017-05-19,Bernstein,Not Provided,5.0,outperform,40.0
+2017-05-19,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-05-19,Morgan Stanley,12 month,5.0,Overwt/Attractive,33.0
+2017-05-19,Wells Fargo Securities,12 month,5.0,outperform,30.0
+2017-05-19,JMP Securities,12 month,4.0,market outperform,35.0
+2017-05-21,BTIG LLC,12 month,5.0,buy,36.0
+2017-05-22,Guggenheim Securities,Not Provided,3.0,neutral,-0.0
+2017-05-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0

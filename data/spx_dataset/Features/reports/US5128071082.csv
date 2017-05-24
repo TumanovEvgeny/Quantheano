@@ -1,0 +1,1061 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2011-02-07,First Global Stockbroking,Not Provided,3.0,market perform,-0.0
+2011-08-17,Knight,12 month,5.0,buy,50.0
+2012-04-19,Cowen,Not Provided,3.0,neutral,-0.0
+2012-04-19,UBS,12 month,5.0,buy,50.0
+2012-04-19,Piper Jaffray,12 month,5.0,overweight,50.0
+2012-04-19,Caris & Company,Not Provided,4.0,above average,50.0
+2012-06-04,Credit Suisse,Not Provided,5.0,outperform,52.0
+2012-06-04,J.P. Morgan,6 month,1.0,underweight,35.0
+2012-06-04,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2012-06-05,Goldman Sachs,12 month,3.0,neutral/neutral,38.0
+2012-06-05,Needham & Co,12 month,5.0,buy,48.0
+2012-06-05,Barclays,Not Provided,5.0,overwt/neutral,48.0
+2012-06-05,Stifel,12 month,5.0,buy,60.0
+2012-06-06,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2012-06-10,Susquehanna Financial,12 month,3.0,neutral,42.0
+2012-06-14,Stifel,12 month,5.0,buy,60.0
+2012-06-25,Caris & Company,Not Provided,4.0,above average,50.0
+2012-06-26,J.P. Morgan,6 month,1.0,underweight,35.0
+2012-07-02,Stifel,12 month,5.0,buy,60.0
+2012-07-06,Needham & Co,12 month,5.0,buy,48.0
+2012-07-09,Susquehanna Financial,12 month,3.0,neutral,42.0
+2012-07-09,Barclays,Not Provided,5.0,overwt/neutral,48.0
+2012-07-10,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2012-07-10,Stifel,12 month,5.0,buy,60.0
+2012-07-11,Caris & Company,Not Provided,4.0,above average,50.0
+2012-07-16,Needham & Co,12 month,5.0,buy,48.0
+2012-07-16,Barclays,Not Provided,5.0,overwt/neutral,39.0
+2012-07-16,Piper Jaffray,12 month,5.0,overweight,50.0
+2012-07-17,Stifel,12 month,5.0,buy,60.0
+2012-07-18,Credit Suisse,Not Provided,5.0,outperform,45.0
+2012-07-19,Needham & Co,12 month,5.0,buy,44.0
+2012-07-19,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2012-07-20,Caris & Company,Not Provided,4.0,above average,50.0
+2012-07-23,Stifel,12 month,5.0,buy,60.0
+2012-07-23,Susquehanna Financial,12 month,3.0,neutral,40.0
+2012-07-25,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2012-07-26,J.P. Morgan,3 month,1.0,underweight,32.0
+2012-07-26,Needham & Co,12 month,5.0,buy,42.0
+2012-07-26,UBS,12 month,5.0,buy,45.0
+2012-07-26,Credit Suisse,Not Provided,5.0,outperform,45.0
+2012-07-26,Caris & Company,Not Provided,4.0,above average,50.0
+2012-07-26,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2012-07-26,Barclays,Not Provided,5.0,overweight,39.0
+2012-07-26,Cowen,Not Provided,3.0,neutral,-0.0
+2012-07-26,Piper Jaffray,12 month,5.0,overweight,45.0
+2012-07-27,Stifel,12 month,5.0,buy,60.0
+2012-07-30,Susquehanna Financial,12 month,3.0,neutral,35.0
+2012-08-06,Stifel,12 month,5.0,buy,60.0
+2012-08-13,Stifel,12 month,5.0,buy,60.0
+2012-08-20,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2012-08-27,Stifel,12 month,5.0,buy,60.0
+2012-09-04,Stifel,12 month,5.0,buy,60.0
+2012-09-04,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2012-09-10,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2012-09-13,Knight,12 month,5.0,buy,46.0
+2012-09-13,Piper Jaffray,12 month,5.0,overweight,45.0
+2012-09-20,Stifel,12 month,5.0,buy,60.0
+2012-09-30,Pacific Crest Securities,12 month,5.0,outperform,50.0
+2012-10-01,Credit Suisse,Not Provided,5.0,outperform,38.0
+2012-10-02,Barclays,Not Provided,5.0,overweight,39.0
+2012-10-03,J.P. Morgan,12 month,1.0,underweight,32.0
+2012-10-04,Susquehanna Financial,12 month,3.0,neutral,32.0
+2012-10-08,Needham & Co,12 month,5.0,buy,38.0
+2012-10-09,Piper Jaffray,12 month,5.0,overweight,45.0
+2012-10-10,Caris & Company,12 month,4.0,above average,50.0
+2012-10-15,UBS,12 month,5.0,buy,42.0
+2012-10-16,Credit Suisse,Not Provided,5.0,outperform,38.0
+2012-10-16,Cowen,Not Provided,3.0,neutral,-0.0
+2012-10-17,Goldman Sachs,12 month,3.0,neutral/neutral,37.0
+2012-10-17,Pacific Crest Securities,12 month,5.0,outperform,46.0
+2012-10-17,Stifel,12 month,5.0,buy,54.0
+2012-10-18,Piper Jaffray,12 month,5.0,overweight,39.0
+2012-10-18,UBS,12 month,5.0,buy,42.0
+2012-10-18,J.P. Morgan,12 month,1.0,underweight,32.0
+2012-10-18,Needham & Co,12 month,5.0,buy,38.0
+2012-10-18,Credit Suisse,Not Provided,5.0,outperform,38.0
+2012-10-18,Barclays,Not Provided,5.0,overweight,39.0
+2012-10-18,Stifel,12 month,5.0,buy,54.0
+2012-10-18,Caris & Company,12 month,4.0,above average,45.0
+2012-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-10-29,Stifel,12 month,5.0,buy,54.0
+2012-11-08,Pacific Crest Securities,12 month,5.0,outperform,46.0
+2012-11-08,Susquehanna Financial,12 month,4.0,Positive,48.0
+2012-11-09,J.P. Morgan,12 month,1.0,underweight,32.0
+2012-11-09,Piper Jaffray,12 month,5.0,overweight,41.0
+2012-11-09,Credit Suisse,Not Provided,5.0,outperform,43.0
+2012-11-09,Barclays,Not Provided,5.0,overweight,44.0
+2012-11-09,Needham & Co,12 month,5.0,buy,40.0
+2012-11-09,Caris & Company,Not Provided,4.0,above average,45.0
+2012-11-09,Stifel,12 month,5.0,buy,54.0
+2012-11-20,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2012-11-25,Pacific Crest Securities,12 month,5.0,outperform,46.0
+2012-12-04,Needham & Co,12 month,5.0,buy,40.0
+2012-12-04,Stifel,12 month,5.0,buy,54.0
+2012-12-05,J.P. Morgan,12 month,1.0,underweight,32.0
+2012-12-17,B Riley & Co,Not Provided,5.0,buy,45.0
+2013-01-02,D.A. Davidson & Co,18 month,5.0,buy,56.0
+2013-01-03,Barclays,Not Provided,3.0,equalweight,38.0
+2013-01-07,J.P. Morgan,12 month,1.0,underweight,32.0
+2013-01-07,Stifel,12 month,5.0,buy,54.0
+2013-01-08,B Riley & Co,Not Provided,5.0,buy,45.0
+2013-01-10,Needham & Co,12 month,5.0,buy,43.0
+2013-01-16,Stifel,12 month,5.0,buy,54.0
+2013-01-23,Goldman Sachs,12 month,3.0,neutral/neutral,41.0
+2013-01-23,Susquehanna Financial,12 month,4.0,Positive,48.0
+2013-01-23,Pacific Crest Securities,12 month,5.0,outperform,46.0
+2013-01-24,Piper Jaffray,12 month,5.0,overweight,44.0
+2013-01-24,B Riley & Co,Not Provided,5.0,buy,49.0
+2013-01-24,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-01-24,UBS,12 month,5.0,buy,44.0
+2013-01-24,Credit Suisse,Not Provided,5.0,outperform,48.0
+2013-01-24,J.P. Morgan,12 month,1.0,underweight,32.0
+2013-01-24,Barclays,Not Provided,3.0,equalweight,40.0
+2013-01-24,Needham & Co,12 month,5.0,buy,45.0
+2013-01-24,D.A. Davidson & Co,18 month,5.0,buy,60.0
+2013-01-24,Stifel,12 month,5.0,buy,54.0
+2013-01-25,Stifel,12 month,5.0,buy,54.0
+2013-01-29,D.A. Davidson & Co,18 month,5.0,buy,60.0
+2013-02-03,Pacific Crest Securities,12 month,5.0,outperform,46.0
+2013-02-04,Cowen,Not Provided,3.0,neutral,-0.0
+2013-02-04,Needham & Co,12 month,5.0,buy,45.0
+2013-02-07,Stifel,12 month,5.0,buy,54.0
+2013-02-11,Stifel,12 month,5.0,buy,54.0
+2013-02-13,Susquehanna Financial,12 month,4.0,Positive,54.0
+2013-02-26,Needham & Co,12 month,5.0,buy,45.0
+2013-02-26,D.A. Davidson & Co,18 month,5.0,buy,60.0
+2013-02-27,Pacific Crest Securities,12 month,5.0,outperform,48.0
+2013-02-27,Stifel,12 month,5.0,buy,54.0
+2013-02-27,Cowen,Not Provided,3.0,neutral,-0.0
+2013-03-04,Cowen,Not Provided,3.0,neutral,-0.0
+2013-03-13,Pacific Crest Securities,12 month,5.0,outperform,48.0
+2013-03-15,Piper Jaffray,12 month,5.0,overweight,44.0
+2013-03-18,Stifel,12 month,5.0,buy,54.0
+2013-03-18,Credit Suisse,Not Provided,5.0,outperform,48.0
+2013-03-21,B Riley & Co,Not Provided,5.0,buy,49.0
+2013-03-28,Stifel,12 month,5.0,buy,54.0
+2013-04-02,Pacific Crest Securities,12 month,5.0,outperform,48.0
+2013-04-11,Cowen,Not Provided,5.0,outperform,-0.0
+2013-04-12,Credit Suisse,Not Provided,5.0,outperform,48.0
+2013-04-12,Needham & Co,12 month,5.0,buy,45.0
+2013-04-15,Stifel,12 month,5.0,buy,54.0
+2013-04-17,Pacific Crest Securities,12 month,5.0,outperform,48.0
+2013-04-17,Needham & Co,12 month,5.0,buy,50.0
+2013-04-22,Stifel,12 month,5.0,buy,54.0
+2013-04-22,D.A. Davidson & Co,18 month,5.0,buy,60.0
+2013-04-24,Susquehanna Financial,12 month,4.0,Positive,55.0
+2013-04-24,Goldman Sachs,12 month,3.0,neutral/neutral,43.0
+2013-04-25,B Riley & Co,12 month,5.0,buy,58.0
+2013-04-25,UBS,12 month,5.0,buy,52.0
+2013-04-25,Credit Suisse,Not Provided,5.0,outperform,55.0
+2013-04-25,Piper Jaffray,12 month,5.0,overweight,49.0
+2013-04-25,D.A. Davidson & Co,18 month,5.0,buy,60.0
+2013-04-25,Cowen,Not Provided,5.0,outperform,-0.0
+2013-04-25,Pacific Crest Securities,12 month,5.0,outperform,51.0
+2013-04-25,Needham & Co,12 month,5.0,buy,53.0
+2013-04-26,Stifel,12 month,5.0,buy,54.0
+2013-05-09,Cowen,Not Provided,5.0,outperform,-0.0
+2013-05-09,Stifel,12 month,5.0,buy,54.0
+2013-05-10,D.A. Davidson & Co,18 month,5.0,buy,60.0
+2013-05-14,Susquehanna Financial,12 month,4.0,Positive,55.0
+2013-05-28,Pacific Crest Securities,12 month,5.0,outperform,51.0
+2013-05-28,Needham & Co,12 month,5.0,buy,53.0
+2013-06-03,Needham & Co,12 month,5.0,buy,60.0
+2013-06-03,Cowen,12 month,5.0,outperform,56.0
+2013-06-03,D.A. Davidson & Co,18 month,5.0,buy,60.0
+2013-06-07,B Riley & Co,Not Provided,5.0,buy,58.0
+2013-06-11,Susquehanna Financial,12 month,4.0,Positive,57.0
+2013-06-18,Stifel,12 month,5.0,buy,54.0
+2013-06-18,B Riley & Co,Not Provided,5.0,buy,58.0
+2013-06-19,Pacific Crest Securities,12 month,5.0,outperform,51.0
+2013-06-20,Needham & Co,12 month,5.0,buy,60.0
+2013-06-25,D.A. Davidson & Co,18 month,5.0,buy,60.0
+2013-06-25,Stifel,12 month,5.0,buy,54.0
+2013-06-26,Cowen,12 month,5.0,outperform,50.0
+2013-07-01,Needham & Co,12 month,5.0,buy,60.0
+2013-07-01,B Riley & Co,Not Provided,5.0,buy,58.0
+2013-07-02,Stifel,12 month,5.0,buy,54.0
+2013-07-08,Susquehanna Financial,12 month,4.0,Positive,57.0
+2013-07-10,Cowen,12 month,5.0,outperform,50.0
+2013-07-10,Piper Jaffray,12 month,5.0,overweight,49.0
+2013-07-10,Stifel,12 month,5.0,buy,54.0
+2013-07-10,D.A. Davidson & Co,12 month,5.0,buy,60.0
+2013-07-10,Needham & Co,12 month,5.0,buy,60.0
+2013-07-10,B Riley & Co,Not Provided,5.0,buy,58.0
+2013-07-11,D.A. Davidson & Co,18 month,5.0,buy,60.0
+2013-07-11,Pacific Crest Securities,12 month,5.0,outperform,51.0
+2013-07-14,Goldman Sachs,12 month,3.0,neutral/neutral,45.0
+2013-07-15,Needham & Co,12 month,5.0,buy,60.0
+2013-07-16,Cowen,12 month,5.0,outperform,49.0
+2013-07-16,B Riley & Co,Not Provided,5.0,buy,58.0
+2013-07-17,Stifel,12 month,5.0,buy,54.0
+2013-07-18,Needham & Co,12 month,5.0,buy,60.0
+2013-07-22,RBC Capital Markets,12 month,5.0,outperform,61.0
+2013-07-22,B Riley & Co,Not Provided,5.0,buy,58.0
+2013-07-22,Cowen,12 month,5.0,outperform,50.0
+2013-07-23,Stifel,12 month,5.0,buy,54.0
+2013-07-24,D.A. Davidson & Co,18 month,5.0,buy,60.0
+2013-07-26,Credit Suisse,Not Provided,5.0,outperform,55.0
+2013-07-29,Stifel,12 month,5.0,buy,54.0
+2013-07-30,Piper Jaffray,12 month,5.0,overweight,49.0
+2013-07-30,Cowen,12 month,5.0,outperform,50.0
+2013-07-31,UBS,12 month,5.0,buy,55.0
+2013-07-31,Susquehanna Financial,12 month,4.0,Positive,57.0
+2013-07-31,D.A. Davidson & Co,18 month,5.0,buy,60.0
+2013-07-31,RBC Capital Markets,12 month,5.0,outperform,61.0
+2013-08-01,Credit Suisse,Not Provided,5.0,outperform,58.0
+2013-08-01,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-08-01,Piper Jaffray,12 month,5.0,overweight,56.0
+2013-08-01,D.A. Davidson & Co,12 month,5.0,buy,60.0
+2013-08-01,Needham & Co,12 month,5.0,buy,60.0
+2013-08-01,Cowen,12 month,5.0,outperform,58.0
+2013-08-01,B Riley & Co,12 month,5.0,buy,58.0
+2013-08-01,Pacific Crest Securities,12 month,5.0,outperform,55.0
+2013-08-05,Stifel,12 month,5.0,buy,57.0
+2013-08-15,Pacific Crest Securities,12 month,5.0,outperform,55.0
+2013-08-19,B Riley & Co,Not Provided,5.0,buy,58.0
+2013-08-19,Cowen,12 month,5.0,outperform,58.0
+2013-08-22,Needham & Co,12 month,5.0,buy,60.0
+2013-08-26,Cowen,12 month,5.0,outperform,58.0
+2013-08-27,Northland Securities Inc,12 month,5.0,outperform,58.0
+2013-09-03,B Riley & Co,Not Provided,5.0,buy,58.0
+2013-09-04,Piper Jaffray,12 month,5.0,overweight,56.0
+2013-09-05,Needham & Co,12 month,5.0,buy,60.0
+2013-09-06,D.A. Davidson & Co,12 month,5.0,buy,60.0
+2013-09-13,Stifel,12 month,5.0,buy,57.0
+2013-09-16,Cowen,12 month,5.0,outperform,58.0
+2013-09-16,Pacific Crest Securities,12 month,5.0,outperform,55.0
+2013-09-23,Cowen,12 month,5.0,outperform,58.0
+2013-09-23,Pacific Crest Securities,12 month,5.0,outperform,55.0
+2013-09-24,RBC Capital Markets,12 month,5.0,outperform,61.0
+2013-09-25,Stifel,12 month,5.0,buy,57.0
+2013-09-27,Piper Jaffray,12 month,5.0,overweight,56.0
+2013-09-30,Cowen,12 month,5.0,outperform,58.0
+2013-10-07,Cowen,12 month,5.0,outperform,58.0
+2013-10-08,B Riley & Co,Not Provided,5.0,buy,63.0
+2013-10-11,B Riley & Co,Not Provided,5.0,buy,63.0
+2013-10-14,J.P. Morgan,12 month,5.0,overweight,65.0
+2013-10-17,Stifel,12 month,5.0,buy,57.0
+2013-10-23,Susquehanna Financial,12 month,4.0,Positive,63.0
+2013-10-24,Credit Suisse,Not Provided,5.0,outperform,60.0
+2013-10-24,UBS,12 month,5.0,buy,60.0
+2013-10-24,J.P. Morgan,9 month,5.0,overweight,65.0
+2013-10-24,Goldman Sachs,12 month,5.0,Buy/Neutral,64.0
+2013-10-24,Piper Jaffray,12 month,5.0,overweight,59.0
+2013-10-24,Northland Securities Inc,12 month,5.0,outperform,65.0
+2013-10-24,Stifel,12 month,5.0,buy,68.0
+2013-10-24,Pacific Crest Securities,12 month,5.0,outperform,62.0
+2013-10-24,Needham & Co,12 month,5.0,buy,63.0
+2013-10-24,D.A. Davidson & Co,18 month,5.0,buy,63.0
+2013-10-24,B Riley & Co,12 month,5.0,buy,65.0
+2013-10-24,Cowen,12 month,5.0,outperform,58.0
+2013-10-24,RBC Capital Markets,12 month,5.0,outperform,62.0
+2013-10-28,Cowen,12 month,5.0,outperform,58.0
+2013-10-28,B Riley & Co,Not Provided,5.0,buy,65.0
+2013-10-29,Stifel,12 month,5.0,buy,68.0
+2013-11-04,Cowen,12 month,5.0,outperform,58.0
+2013-11-04,Susquehanna Financial,12 month,4.0,Positive,63.0
+2013-11-08,Needham & Co,12 month,5.0,buy,63.0
+2013-11-11,Susquehanna Financial,12 month,3.0,neutral,60.0
+2013-11-11,Cowen,12 month,5.0,outperform,58.0
+2013-11-20,Needham & Co,12 month,5.0,buy,63.0
+2013-11-22,Pacific Crest Securities,12 month,5.0,outperform,62.0
+2013-11-22,Stifel,12 month,5.0,buy,68.0
+2013-12-02,Susquehanna Financial,12 month,3.0,neutral,60.0
+2013-12-05,Stifel,12 month,5.0,buy,68.0
+2013-12-05,Needham & Co,12 month,5.0,buy,63.0
+2013-12-09,Stifel,12 month,5.0,buy,68.0
+2013-12-17,Susquehanna Financial,12 month,3.0,neutral,60.0
+2013-12-19,Stifel,12 month,5.0,buy,68.0
+2013-12-19,Cowen,12 month,5.0,outperform,58.0
+2013-12-20,D.A. Davidson & Co,18 month,5.0,buy,63.0
+2013-12-23,Stifel,12 month,5.0,buy,68.0
+2014-01-06,Susquehanna Financial,12 month,3.0,neutral,60.0
+2014-01-07,Stifel,12 month,5.0,buy,68.0
+2014-01-12,Susquehanna Financial,12 month,3.0,neutral,60.0
+2014-01-13,Needham & Co,12 month,5.0,buy,63.0
+2014-01-13,Cowen,12 month,5.0,outperform,58.0
+2014-01-13,B Riley & Co,Not Provided,5.0,buy,65.0
+2014-01-20,Susquehanna Financial,12 month,3.0,neutral,60.0
+2014-01-21,B Riley & Co,Not Provided,5.0,buy,65.0
+2014-01-22,Stifel,12 month,5.0,buy,68.0
+2014-01-27,D.A. Davidson & Co,12 month,5.0,buy,63.0
+2014-01-27,Northland Securities Inc,12 month,5.0,outperform,65.0
+2014-01-27,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-01-27,Cowen,12 month,5.0,outperform,58.0
+2014-01-27,B Riley & Co,Not Provided,5.0,buy,65.0
+2014-01-29,Stifel,12 month,5.0,buy,69.0
+2014-01-29,Piper Jaffray,12 month,5.0,overweight,60.0
+2014-01-29,RBC Capital Markets,12 month,5.0,outperform,62.0
+2014-01-30,Pacific Crest Securities,12 month,5.0,outperform,62.0
+2014-01-30,Susquehanna Financial,12 month,3.0,neutral,56.0
+2014-01-30,Needham & Co,12 month,5.0,buy,63.0
+2014-01-30,Northland Securities Inc,12 month,5.0,outperform,65.0
+2014-01-30,J.P. Morgan,9 month,5.0,overweight,65.0
+2014-01-30,Credit Suisse,Not Provided,5.0,outperform,60.0
+2014-02-03,RBC Capital Markets,12 month,3.0,sector perform,57.0
+2014-02-03,D.A. Davidson & Co,Not Provided,5.0,buy,70.0
+2014-02-03,Cowen,12 month,5.0,outperform,58.0
+2014-02-03,B Riley & Co,Not Provided,5.0,buy,65.0
+2014-02-09,Stifel,12 month,5.0,buy,69.0
+2014-02-13,Cowen,12 month,5.0,outperform,58.0
+2014-02-13,Stifel,12 month,5.0,buy,69.0
+2014-02-18,B Riley & Co,Not Provided,5.0,buy,65.0
+2014-02-21,Susquehanna Financial,12 month,3.0,neutral,56.0
+2014-02-24,Needham & Co,12 month,5.0,buy,63.0
+2014-02-26,Stifel,12 month,5.0,buy,69.0
+2014-02-26,Pacific Crest Securities,12 month,5.0,outperform,62.0
+2014-02-28,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-03-03,Cowen,12 month,5.0,outperform,58.0
+2014-03-10,B Riley & Co,Not Provided,5.0,buy,65.0
+2014-03-16,Credit Suisse,Not Provided,5.0,outperform,60.0
+2014-03-19,Nomura,12 month,5.0,buy,65.0
+2014-03-19,Stifel,12 month,5.0,buy,69.0
+2014-03-20,Cowen,12 month,5.0,outperform,58.0
+2014-03-24,Cowen,12 month,5.0,outperform,58.0
+2014-03-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-04-01,Cowen,12 month,5.0,outperform,58.0
+2014-04-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-04-04,Cowen,12 month,5.0,outperform,58.0
+2014-04-07,B Riley & Co,Not Provided,5.0,buy,65.0
+2014-04-07,Needham & Co,12 month,5.0,buy,63.0
+2014-04-08,Pacific Crest Securities,12 month,5.0,outperform,62.0
+2014-04-10,Nomura,12 month,5.0,buy,65.0
+2014-04-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-04-10,Evercore ISI,Not Provided,5.0,strong buy,70.0
+2014-04-14,Nomura,Not Provided,5.0,buy,65.0
+2014-04-15,Cowen,12 month,5.0,outperform,58.0
+2014-04-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-16,Stifel,12 month,5.0,buy,69.0
+2014-04-23,Evercore ISI,12 month,5.0,strong buy,70.0
+2014-04-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-23,RBC Capital Markets,12 month,3.0,sector perform,57.0
+2014-04-24,Northland Securities Inc,12 month,5.0,outperform,65.0
+2014-04-24,J.P. Morgan,6 month,5.0,overweight,70.0
+2014-04-24,B Riley & Co,12 month,5.0,buy,67.0
+2014-04-24,Nomura,12 month,5.0,buy,70.0
+2014-04-24,Piper Jaffray,12 month,5.0,overweight,62.0
+2014-04-24,UBS,12 month,5.0,buy,65.0
+2014-04-24,Credit Suisse,Not Provided,5.0,outperform,68.0
+2014-04-24,Needham & Co,12 month,5.0,buy,67.0
+2014-04-24,Stifel,12 month,5.0,buy,69.0
+2014-04-24,Susquehanna Financial,12 month,3.0,neutral,56.0
+2014-04-24,Pacific Crest Securities,12 month,5.0,outperform,65.0
+2014-04-24,Cowen,12 month,5.0,outperform,60.0
+2014-04-24,D.A. Davidson & Co,12 month,5.0,buy,70.0
+2014-04-29,Stifel,12 month,5.0,buy,69.0
+2014-04-30,B Riley & Co,12 month,5.0,buy,67.0
+2014-04-30,Cowen,12 month,5.0,outperform,63.0
+2014-04-30,Nomura,12 month,5.0,buy,70.0
+2014-04-30,J.P. Morgan,6 month,5.0,overweight,70.0
+2014-04-30,Credit Suisse,Not Provided,5.0,outperform,68.0
+2014-04-30,Needham & Co,12 month,5.0,buy,67.0
+2014-05-05,B Riley & Co,12 month,5.0,buy,67.0
+2014-05-05,Cowen,12 month,5.0,outperform,63.0
+2014-05-12,RBC Capital Markets,12 month,3.0,sector perform,62.0
+2014-05-13,Pacific Crest Securities,12 month,5.0,outperform,65.0
+2014-05-15,B Riley & Co,Not Provided,5.0,buy,67.0
+2014-05-16,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-05-16,Stifel,12 month,5.0,buy,69.0
+2014-05-22,Pacific Crest Securities,12 month,5.0,outperform,65.0
+2014-05-23,Nomura,12 month,5.0,buy,70.0
+2014-05-29,J.P. Morgan,3 month,5.0,overweight,70.0
+2014-05-31,Evercore ISI,12 month,5.0,strong buy,70.0
+2014-06-02,B Riley & Co,Not Provided,5.0,buy,67.0
+2014-06-02,Jefferies,12 month,5.0,buy,75.0
+2014-06-02,Cowen,Not Provided,5.0,outperform,63.0
+2014-06-03,Goldman Sachs,12 month,5.0,Buy/Neutral,70.0
+2014-06-07,Evercore ISI,12 month,5.0,strong buy,70.0
+2014-06-12,D.A. Davidson & Co,18 month,5.0,buy,80.0
+2014-06-13,B Riley & Co,Not Provided,5.0,buy,67.0
+2014-06-16,Stifel,12 month,5.0,buy,69.0
+2014-06-17,Stifel,12 month,5.0,buy,69.0
+2014-06-17,Pacific Crest Securities,12 month,5.0,outperform,75.0
+2014-06-23,Cowen,12 month,5.0,outperform,80.0
+2014-06-25,Pacific Crest Securities,Not Provided,5.0,outperform,75.0
+2014-06-26,B Riley & Co,Not Provided,5.0,buy,80.0
+2014-06-27,Needham & Co,12 month,5.0,buy,82.0
+2014-06-30,UBS,12 month,5.0,buy,77.0
+2014-06-30,Stifel,12 month,5.0,buy,81.0
+2014-07-01,B Riley & Co,Not Provided,5.0,buy,80.0
+2014-07-02,Nomura,12 month,5.0,buy,70.0
+2014-07-07,Susquehanna Financial,12 month,3.0,neutral,56.0
+2014-07-07,D.A. Davidson & Co,18 month,5.0,buy,80.0
+2014-07-08,Stifel,12 month,5.0,buy,81.0
+2014-07-08,Cowen,12 month,5.0,outperform,80.0
+2014-07-08,Pacific Crest Securities,12 month,5.0,outperform,75.0
+2014-07-09,Piper Jaffray,12 month,5.0,overweight,80.0
+2014-07-09,D.A. Davidson & Co,Not Provided,5.0,buy,90.0
+2014-07-09,Goldman Sachs,12 month,5.0,Buy/Neutral,78.0
+2014-07-09,J.P. Morgan,3 month,5.0,overweight,70.0
+2014-07-09,Needham & Co,12 month,5.0,buy,82.0
+2014-07-10,Jefferies,12 month,5.0,buy,84.0
+2014-07-14,Nomura,12 month,5.0,buy,75.0
+2014-07-14,Pacific Crest Securities,12 month,5.0,outperform,75.0
+2014-07-14,Evercore ISI,Not Provided,5.0,strong buy,80.0
+2014-07-15,Stifel,12 month,5.0,buy,81.0
+2014-07-15,Cowen,Not Provided,5.0,outperform,80.0
+2014-07-15,B Riley & Co,Not Provided,5.0,buy,80.0
+2014-07-16,Stifel,12 month,5.0,buy,81.0
+2014-07-20,Pacific Crest Securities,Not Provided,5.0,outperform,75.0
+2014-07-21,Needham & Co,Not Provided,5.0,buy,82.0
+2014-07-22,Nomura,12 month,5.0,buy,75.0
+2014-07-26,Evercore ISI,12 month,5.0,strong buy,80.0
+2014-07-28,B Riley & Co,Not Provided,5.0,buy,80.0
+2014-07-28,Stifel,12 month,5.0,buy,81.0
+2014-07-30,Piper Jaffray,12 month,5.0,overweight,80.0
+2014-07-30,Evercore ISI,12 month,5.0,strong buy,80.0
+2014-07-30,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-07-30,Pacific Crest Securities,12 month,5.0,outperform,75.0
+2014-07-31,Jefferies,12 month,5.0,buy,80.0
+2014-07-31,Cowen,12 month,5.0,outperform,85.0
+2014-07-31,Stifel,12 month,5.0,buy,84.0
+2014-07-31,B Riley & Co,12 month,5.0,buy,80.0
+2014-07-31,Credit Suisse,Not Provided,5.0,outperform,85.0
+2014-07-31,J.P. Morgan,Not Provided,5.0,overweight,80.0
+2014-07-31,RBC Capital Markets,12 month,3.0,sector perform,70.0
+2014-07-31,D.A. Davidson & Co,Not Provided,5.0,buy,90.0
+2014-07-31,Susquehanna Financial,12 month,3.0,neutral,60.0
+2014-07-31,Needham & Co,12 month,5.0,buy,82.0
+2014-07-31,Nomura,12 month,5.0,buy,75.0
+2014-08-12,Pacific Crest Securities,12 month,5.0,outperform,75.0
+2014-08-17,Pacific Crest Securities,Not Provided,5.0,outperform,75.0
+2014-08-20,B Riley & Co,Not Provided,5.0,buy,80.0
+2014-08-22,Jefferies,Not Provided,5.0,buy,80.0
+2014-09-01,Evercore ISI,Not Provided,5.0,strong buy,80.0
+2014-09-02,B Riley & Co,Not Provided,5.0,buy,80.0
+2014-09-08,Cowen,12 month,5.0,outperform,85.0
+2014-09-10,Stifel,12 month,5.0,buy,84.0
+2014-09-13,Evercore ISI,12 month,5.0,strong buy,80.0
+2014-09-16,B Riley & Co,Not Provided,5.0,buy,80.0
+2014-09-25,Needham & Co,12 month,5.0,buy,82.0
+2014-09-29,B Riley & Co,Not Provided,5.0,buy,80.0
+2014-09-30,Stifel,12 month,5.0,buy,84.0
+2014-10-01,Pacific Crest Securities,12 month,5.0,outperform,75.0
+2014-10-02,Pacific Crest Securities,Not Provided,5.0,outperform,75.0
+2014-10-05,Susquehanna Financial,12 month,3.0,neutral,60.0
+2014-10-06,Nomura,12 month,5.0,buy,80.0
+2014-10-06,Cowen,Not Provided,5.0,outperform,85.0
+2014-10-07,B Riley & Co,Not Provided,5.0,buy,80.0
+2014-10-11,Evercore ISI,12 month,5.0,buy,80.0
+2014-10-12,Goldman Sachs,12 month,5.0,Buy/Neutral,85.0
+2014-10-12,Stifel,12 month,5.0,buy,84.0
+2014-10-13,Nomura,Not Provided,5.0,buy,80.0
+2014-10-13,Susquehanna Financial,12 month,3.0,neutral,60.0
+2014-10-13,B Riley & Co,Not Provided,5.0,buy,80.0
+2014-10-13,Jefferies,Not Provided,5.0,buy,80.0
+2014-10-18,Evercore ISI,12 month,5.0,buy,90.0
+2014-10-19,Stifel,12 month,5.0,buy,84.0
+2014-10-20,B Riley & Co,Not Provided,5.0,buy,80.0
+2014-10-21,Cowen,12 month,5.0,outperform,85.0
+2014-10-22,Pacific Crest Securities,12 month,5.0,outperform,79.0
+2014-10-22,Jefferies,12 month,5.0,buy,83.0
+2014-10-22,D.A. Davidson & Co,12 month,5.0,buy,90.0
+2014-10-22,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-10-22,RBC Capital Markets,12 month,3.0,sector perform,72.0
+2014-10-22,Piper Jaffray,12 month,5.0,overweight,80.0
+2014-10-23,Evercore ISI,12 month,5.0,buy,90.0
+2014-10-23,Credit Suisse,Not Provided,5.0,outperform,85.0
+2014-10-23,Needham & Co,12 month,5.0,buy,84.0
+2014-10-23,J.P. Morgan,Not Provided,5.0,overweight,84.0
+2014-10-23,Cowen,12 month,5.0,outperform,85.0
+2014-10-23,Nomura,12 month,5.0,buy,78.0
+2014-10-27,Jefferies,Not Provided,5.0,buy,83.0
+2014-10-27,Stifel,12 month,5.0,buy,84.0
+2014-10-28,B Riley & Co,Not Provided,5.0,buy,82.0
+2014-10-29,Susquehanna Financial,12 month,3.0,neutral,60.0
+2014-10-30,Stifel,12 month,5.0,buy,84.0
+2014-10-31,Susquehanna Financial,12 month,3.0,neutral,60.0
+2014-11-03,Cowen,Not Provided,5.0,outperform,85.0
+2014-11-03,Nomura,12 month,5.0,buy,78.0
+2014-11-07,Nomura,12 month,5.0,buy,85.0
+2014-11-10,UBS,12 month,5.0,buy,88.0
+2014-11-10,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-11-11,Pacific Crest Securities,Not Provided,5.0,outperform,84.0
+2014-11-12,D.A. Davidson & Co,Not Provided,5.0,buy,90.0
+2014-11-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-11-19,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-11-20,Pacific Crest Securities,12 month,5.0,outperform,84.0
+2014-11-20,Stifel,12 month,5.0,buy,84.0
+2014-11-24,Goldman Sachs,12 month,5.0,Buy/Neutral,91.0
+2014-12-04,Stifel,12 month,5.0,buy,84.0
+2014-12-04,UBS,12 month,5.0,buy,88.0
+2014-12-04,Berenberg,Not Provided,5.0,buy,95.0
+2014-12-08,Cowen,Not Provided,5.0,outperform,85.0
+2014-12-08,Stifel,12 month,5.0,buy,93.0
+2014-12-08,B Riley & Co,Not Provided,5.0,buy,82.0
+2014-12-08,Susquehanna Financial,12 month,3.0,neutral,60.0
+2014-12-10,Nomura,12 month,5.0,buy,90.0
+2014-12-12,B Riley & Co,12 month,5.0,buy,95.0
+2014-12-14,Evercore ISI,Not Provided,5.0,buy,105.0
+2014-12-15,Cowen,Not Provided,5.0,outperform,85.0
+2014-12-16,Stifel,12 month,5.0,buy,93.0
+2014-12-24,Stifel,12 month,5.0,buy,93.0
+2014-12-29,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-01-05,Stifel,12 month,5.0,buy,93.0
+2015-01-09,Cowen,12 month,5.0,outperform,85.0
+2015-01-09,Needham & Co,12 month,5.0,buy,93.0
+2015-01-11,Stifel,12 month,5.0,buy,93.0
+2015-01-12,B Riley & Co,Not Provided,5.0,buy,95.0
+2015-01-13,Nomura,12 month,5.0,buy,90.0
+2015-01-13,Cowen,Not Provided,5.0,outperform,85.0
+2015-01-15,Berenberg,Not Provided,5.0,buy,95.0
+2015-01-15,Stifel,12 month,5.0,buy,93.0
+2015-01-16,Needham & Co,12 month,5.0,buy,93.0
+2015-01-20,Credit Suisse,Not Provided,5.0,outperform,104.0
+2015-01-23,D.A. Davidson & Co,12 month,5.0,buy,100.0
+2015-01-25,Stifel,12 month,5.0,buy,93.0
+2015-01-25,Piper Jaffray,12 month,5.0,overweight,96.0
+2015-01-26,B Riley & Co,Not Provided,5.0,buy,95.0
+2015-01-27,Cowen,12 month,5.0,outperform,85.0
+2015-01-28,Pacific Crest Securities,12 month,5.0,outperform,103.0
+2015-01-28,Evercore ISI,12 month,5.0,buy,105.0
+2015-01-28,RBC Capital Markets,12 month,3.0,sector perform,82.0
+2015-01-29,Needham & Co,12 month,5.0,buy,95.0
+2015-01-29,Jefferies,12 month,5.0,buy,93.0
+2015-01-29,J.P. Morgan,12 month,5.0,overweight,88.0
+2015-01-29,Stifel,12 month,5.0,buy,93.0
+2015-01-29,Nomura,12 month,5.0,buy,90.0
+2015-01-29,Berenberg,Not Provided,5.0,buy,95.0
+2015-01-29,Credit Suisse,Not Provided,5.0,outperform,102.0
+2015-01-29,Susquehanna Financial,12 month,3.0,neutral,68.0
+2015-01-29,D.A. Davidson & Co,Not Provided,5.0,buy,100.0
+2015-01-29,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-01-29,Piper Jaffray,12 month,5.0,overweight,96.0
+2015-02-02,B Riley & Co,Not Provided,5.0,buy,95.0
+2015-02-02,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-02-03,Cowen,Not Provided,5.0,outperform,88.0
+2015-02-06,Cowen,Not Provided,5.0,outperform,88.0
+2015-02-09,J.P. Morgan,12 month,5.0,overweight,88.0
+2015-02-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-02-11,Stifel,12 month,5.0,buy,93.0
+2015-02-17,Cowen,12 month,5.0,outperform,88.0
+2015-02-19,Pacific Crest Securities,Not Provided,5.0,outperform,103.0
+2015-02-19,Nomura,12 month,5.0,buy,90.0
+2015-02-20,Stifel,12 month,5.0,buy,93.0
+2015-03-02,Cowen,Not Provided,5.0,outperform,88.0
+2015-03-05,B Riley & Co,Not Provided,5.0,buy,95.0
+2015-03-05,Stifel,Not Provided,5.0,buy,93.0
+2015-03-10,Cowen,Not Provided,5.0,outperform,88.0
+2015-03-12,Berenberg,Not Provided,5.0,buy,95.0
+2015-03-18,Stifel,12 month,5.0,buy,93.0
+2015-03-18,Cowen,Not Provided,5.0,outperform,88.0
+2015-03-19,Pacific Crest Securities,Not Provided,5.0,outperform,103.0
+2015-03-19,Nomura,12 month,5.0,buy,90.0
+2015-03-20,Needham & Co,12 month,5.0,buy,93.0
+2015-03-25,B Riley & Co,Not Provided,5.0,buy,95.0
+2015-03-26,Stifel,12 month,5.0,buy,93.0
+2015-03-30,B Riley & Co,Not Provided,5.0,buy,95.0
+2015-04-05,Cowen,Not Provided,5.0,outperform,88.0
+2015-04-08,Stifel,Not Provided,5.0,buy,93.0
+2015-04-13,Cowen,Not Provided,5.0,outperform,88.0
+2015-04-13,Nomura,12 month,5.0,buy,90.0
+2015-04-14,Susquehanna Financial,12 month,3.0,neutral,68.0
+2015-04-16,Stifel,12 month,5.0,buy,93.0
+2015-04-20,Stifel,12 month,5.0,buy,93.0
+2015-04-20,Pacific Crest Securities,Not Provided,5.0,overweight,100.0
+2015-04-20,Evercore ISI,12 month,5.0,buy,105.0
+2015-04-20,Piper Jaffray,12 month,5.0,overweight,94.0
+2015-04-21,Jefferies,12 month,5.0,buy,93.0
+2015-04-21,J.P. Morgan,6 month,5.0,overweight,95.0
+2015-04-21,D.A. Davidson & Co,Not Provided,5.0,buy,100.0
+2015-04-21,RBC Capital Markets,12 month,3.0,sector perform,76.0
+2015-04-21,Credit Suisse,Not Provided,5.0,outperform,105.0
+2015-04-21,Needham & Co,12 month,5.0,buy,95.0
+2015-04-21,Berenberg,Not Provided,5.0,buy,95.0
+2015-04-21,Nomura,12 month,5.0,buy,90.0
+2015-04-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-21,B Riley & Co,12 month,5.0,buy,101.0
+2015-04-21,Cowen,12 month,5.0,outperform,93.0
+2015-04-21,Susquehanna Financial,12 month,3.0,neutral,75.0
+2015-04-27,B Riley & Co,Not Provided,5.0,buy,101.0
+2015-04-29,Stifel,12 month,5.0,buy,93.0
+2015-05-04,Cowen,Not Provided,5.0,outperform,93.0
+2015-05-08,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-05-08,UBS,12 month,5.0,buy,92.0
+2015-05-11,Cowen,Not Provided,5.0,outperform,93.0
+2015-05-18,Nomura,12 month,5.0,buy,90.0
+2015-05-18,Stifel,12 month,5.0,buy,93.0
+2015-05-19,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-05-21,Pacific Crest Securities,Not Provided,5.0,overweight,100.0
+2015-05-21,Evercore ISI,Not Provided,5.0,buy,105.0
+2015-05-28,Pacific Crest Securities,Not Provided,5.0,overweight,100.0
+2015-05-29,Cowen,12 month,5.0,outperform,93.0
+2015-06-07,Goldman Sachs,12 month,5.0,Buy/Neutral,100.0
+2015-06-09,Pacific Crest Securities,Not Provided,5.0,overweight,100.0
+2015-06-10,Cowen,Not Provided,5.0,outperform,93.0
+2015-06-14,Credit Suisse,Not Provided,5.0,outperform,105.0
+2015-06-18,Susquehanna Financial,12 month,3.0,neutral,75.0
+2015-06-22,B Riley & Co,Not Provided,5.0,buy,101.0
+2015-06-24,Stifel,12 month,5.0,buy,93.0
+2015-06-25,RBC Capital Markets,12 month,3.0,sector perform,76.0
+2015-06-29,Stifel,12 month,5.0,buy,93.0
+2015-07-01,B Riley & Co,Not Provided,5.0,buy,101.0
+2015-07-01,Cowen,12 month,5.0,outperform,98.0
+2015-07-02,Berenberg,Not Provided,5.0,buy,95.0
+2015-07-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-08,Piper Jaffray,12 month,5.0,overweight,94.0
+2015-07-08,Pacific Crest Securities,Not Provided,5.0,overweight,100.0
+2015-07-09,Nomura,12 month,5.0,buy,90.0
+2015-07-10,Susquehanna Financial,12 month,3.0,neutral,81.0
+2015-07-10,Cowen,Not Provided,5.0,outperform,98.0
+2015-07-13,Stifel,12 month,5.0,buy,93.0
+2015-07-14,Cowen,12 month,5.0,outperform,98.0
+2015-07-14,Pacific Crest Securities,12 month,5.0,overweight,100.0
+2015-07-15,D.A. Davidson & Co,Not Provided,5.0,buy,100.0
+2015-07-15,J.P. Morgan,6 month,5.0,overweight,95.0
+2015-07-15,Nomura,12 month,5.0,buy,90.0
+2015-07-15,Piper Jaffray,12 month,5.0,overweight,94.0
+2015-07-16,Berenberg,12 month,5.0,buy,95.0
+2015-07-19,Stifel,12 month,5.0,buy,93.0
+2015-07-20,Needham & Co,12 month,5.0,buy,95.0
+2015-07-20,B Riley & Co,Not Provided,5.0,buy,101.0
+2015-07-21,Cowen,Not Provided,5.0,outperform,98.0
+2015-07-26,Stifel,12 month,5.0,buy,93.0
+2015-07-27,Susquehanna Financial,12 month,3.0,neutral,81.0
+2015-07-29,Piper Jaffray,12 month,5.0,overweight,94.0
+2015-07-29,Evercore ISI,12 month,5.0,buy,105.0
+2015-07-29,UBS,12 month,5.0,buy,99.0
+2015-07-29,RBC Capital Markets,12 month,3.0,sector perform,76.0
+2015-07-29,Pacific Crest Securities,12 month,5.0,overweight,100.0
+2015-07-30,J.P. Morgan,6 month,5.0,overweight,95.0
+2015-07-30,Cowen,12 month,5.0,outperform,98.0
+2015-07-30,B Riley & Co,12 month,5.0,buy,101.0
+2015-07-30,Jefferies,12 month,5.0,buy,93.0
+2015-07-30,Nomura,12 month,5.0,buy,90.0
+2015-07-30,Credit Suisse,Not Provided,5.0,outperform,105.0
+2015-07-30,Needham & Co,12 month,5.0,buy,95.0
+2015-07-30,D.A. Davidson & Co,Not Provided,5.0,buy,105.0
+2015-07-30,Berenberg,Not Provided,5.0,buy,95.0
+2015-07-30,Stifel,12 month,5.0,buy,93.0
+2015-07-31,Susquehanna Financial,12 month,3.0,neutral,84.0
+2015-08-10,Cowen,Not Provided,5.0,outperform,98.0
+2015-08-13,Cowen,Not Provided,5.0,outperform,98.0
+2015-08-16,Pacific Crest Securities,Not Provided,5.0,overweight,100.0
+2015-08-17,B Riley & Co,12 month,5.0,buy,101.0
+2015-08-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-24,B Riley & Co,Not Provided,5.0,buy,101.0
+2015-08-27,Jefferies,Not Provided,5.0,buy,93.0
+2015-08-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-31,B Riley & Co,Not Provided,5.0,buy,101.0
+2015-09-04,Cowen,Not Provided,5.0,outperform,98.0
+2015-09-07,Stifel,12 month,5.0,buy,93.0
+2015-09-08,B Riley & Co,Not Provided,5.0,buy,101.0
+2015-09-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-09,Cowen,12 month,5.0,outperform,98.0
+2015-09-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-16,Pacific Crest Securities,Not Provided,5.0,overweight,98.0
+2015-09-18,Nomura,12 month,5.0,buy,90.0
+2015-09-19,Evercore ISI,Not Provided,5.0,buy,105.0
+2015-09-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-21,Susquehanna Financial,12 month,3.0,neutral,76.0
+2015-09-23,Jefferies,Not Provided,5.0,buy,93.0
+2015-09-24,B Riley & Co,Not Provided,5.0,buy,101.0
+2015-09-28,UBS,12 month,5.0,buy,90.0
+2015-09-28,Cowen,Not Provided,5.0,outperform,85.0
+2015-09-29,Nomura,12 month,5.0,buy,80.0
+2015-10-05,RBC Capital Markets,12 month,1.0,underperform,52.0
+2015-10-05,D.A. Davidson & Co,Not Provided,5.0,buy,103.0
+2015-10-05,Cowen,Not Provided,5.0,outperform,85.0
+2015-10-06,Piper Jaffray,12 month,5.0,overweight,94.0
+2015-10-07,Pacific Crest Securities,Not Provided,5.0,overweight,91.0
+2015-10-09,Needham & Co,Not Provided,5.0,buy,88.0
+2015-10-10,Evercore ISI,Not Provided,5.0,buy,105.0
+2015-10-11,Cowen,Not Provided,5.0,outperform,85.0
+2015-10-12,Nomura,12 month,5.0,buy,80.0
+2015-10-12,Stifel,12 month,5.0,buy,93.0
+2015-10-13,J.P. Morgan,18 month,5.0,overweight,88.0
+2015-10-15,RBC Capital Markets,12 month,1.0,underperform,52.0
+2015-10-15,Berenberg,12 month,5.0,buy,95.0
+2015-10-19,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-10-19,D.A. Davidson & Co,18 month,5.0,buy,103.0
+2015-10-19,B Riley & Co,Not Provided,5.0,buy,101.0
+2015-10-20,Stifel,12 month,5.0,buy,93.0
+2015-10-20,Cowen,Not Provided,5.0,outperform,80.0
+2015-10-20,Pacific Crest Securities,Not Provided,5.0,overweight,91.0
+2015-10-21,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2015-10-21,D.A. Davidson & Co,Not Provided,5.0,buy,103.0
+2015-10-21,Pacific Crest Securities,Not Provided,5.0,overweight,91.0
+2015-10-21,Stifel,12 month,5.0,buy,93.0
+2015-10-21,Berenberg,Not Provided,5.0,buy,95.0
+2015-10-21,Cowen,12 month,5.0,outperform,85.0
+2015-10-21,Nomura,12 month,5.0,buy,100.0
+2015-10-22,Piper Jaffray,12 month,5.0,overweight,92.0
+2015-10-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-22,Credit Suisse,Not Provided,5.0,outperform,98.0
+2015-10-22,Needham & Co,12 month,5.0,buy,88.0
+2015-10-22,J.P. Morgan,18 month,5.0,overweight,92.0
+2015-10-24,Evercore ISI,Not Provided,5.0,buy,105.0
+2015-10-26,B Riley & Co,Not Provided,5.0,buy,98.0
+2015-10-27,RBC Capital Markets,12 month,1.0,underperform,56.0
+2015-10-29,Nomura,12 month,5.0,buy,100.0
+2015-10-29,Stifel,12 month,5.0,buy,93.0
+2015-10-31,Evercore ISI,Not Provided,5.0,buy,105.0
+2015-11-02,Cowen,Not Provided,5.0,outperform,85.0
+2015-11-10,Susquehanna Financial,12 month,3.0,neutral,76.0
+2015-11-10,Berenberg,12 month,5.0,buy,95.0
+2015-11-10,Cowen,Not Provided,5.0,outperform,85.0
+2015-11-12,Cowen,12 month,5.0,outperform,85.0
+2015-11-15,Stifel,12 month,5.0,buy,93.0
+2015-11-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-19,Pacific Crest Securities,Not Provided,5.0,overweight,91.0
+2015-11-30,Pacific Crest Securities,Not Provided,5.0,overweight,91.0
+2015-12-04,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-12-07,B Riley & Co,Not Provided,5.0,buy,98.0
+2015-12-08,Berenberg,Not Provided,5.0,buy,95.0
+2015-12-09,Nomura,12 month,5.0,buy,100.0
+2015-12-10,Pacific Crest Securities,Not Provided,5.0,overweight,91.0
+2015-12-11,Nomura,12 month,5.0,buy,100.0
+2015-12-11,Cowen,Not Provided,5.0,outperform,90.0
+2015-12-13,Susquehanna Financial,12 month,3.0,neutral,76.0
+2015-12-14,Morgan Stanley,12 month,5.0,Overwt/Attractive,95.0
+2015-12-14,Stifel,12 month,5.0,buy,93.0
+2015-12-16,Evercore ISI,Not Provided,5.0,buy,-0.0
+2015-12-22,Stifel,12 month,5.0,buy,93.0
+2015-12-28,B Riley & Co,Not Provided,5.0,buy,98.0
+2016-01-04,Cowen,Not Provided,5.0,outperform,90.0
+2016-01-06,Nomura,12 month,5.0,buy,100.0
+2016-01-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-06,Stifel,12 month,5.0,buy,93.0
+2016-01-12,Stifel,12 month,5.0,buy,93.0
+2016-01-14,RBC Capital Markets,12 month,1.0,underperform,56.0
+2016-01-14,Susquehanna Financial,12 month,3.0,neutral,76.0
+2016-01-14,Pacific Crest Securities,Not Provided,5.0,overweight,91.0
+2016-01-24,Stifel,12 month,5.0,buy,93.0
+2016-01-24,Cowen,12 month,5.0,outperform,90.0
+2016-01-25,D.A. Davidson & Co,12 month,5.0,buy,103.0
+2016-01-25,B Riley & Co,Not Provided,5.0,buy,98.0
+2016-01-25,Susquehanna Financial,12 month,3.0,neutral,76.0
+2016-01-25,Nomura,12 month,5.0,buy,85.0
+2016-01-25,Credit Suisse,Not Provided,5.0,outperform,98.0
+2016-01-27,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-01-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2016-01-27,Pacific Crest Securities,Not Provided,5.0,overweight,91.0
+2016-01-28,D.A. Davidson & Co,Not Provided,5.0,buy,100.0
+2016-01-28,Credit Suisse,Not Provided,5.0,outperform,98.0
+2016-01-28,Berenberg,Not Provided,5.0,buy,95.0
+2016-01-28,Nomura,12 month,5.0,buy,85.0
+2016-01-28,Needham & Co,12 month,5.0,buy,88.0
+2016-01-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-28,Morgan Stanley,12 month,5.0,Overwt/Attractive,95.0
+2016-01-28,J.P. Morgan,12 month,5.0,overweight,92.0
+2016-01-28,Susquehanna Financial,12 month,3.0,neutral,76.0
+2016-01-31,Stifel,12 month,5.0,buy,93.0
+2016-02-01,Cowen,Not Provided,5.0,outperform,90.0
+2016-02-01,B Riley & Co,Not Provided,5.0,buy,90.0
+2016-02-02,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2016-02-14,Susquehanna Financial,12 month,3.0,neutral,76.0
+2016-02-19,Morgan Stanley,12 month,5.0,Overwt/Attractive,95.0
+2016-02-21,Stifel,12 month,5.0,buy,93.0
+2016-02-23,Susquehanna Financial,12 month,3.0,neutral,76.0
+2016-02-23,Pacific Crest Securities,12 month,5.0,overweight,91.0
+2016-02-24,Nomura,12 month,5.0,buy,85.0
+2016-02-25,Cowen,Not Provided,5.0,outperform,90.0
+2016-02-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2016-03-02,B Riley & Co,Not Provided,5.0,buy,90.0
+2016-03-07,Cowen,Not Provided,5.0,outperform,90.0
+2016-03-07,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-03-09,Pacific Crest Securities,Not Provided,5.0,overweight,91.0
+2016-03-13,Cowen,12 month,5.0,outperform,90.0
+2016-03-16,RBC Capital Markets,12 month,5.0,outperform,92.0
+2016-03-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-16,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2016-03-17,Needham & Co,12 month,5.0,buy,88.0
+2016-03-19,Evercore ISI,Not Provided,5.0,buy,-0.0
+2016-03-21,B Riley & Co,Not Provided,5.0,buy,90.0
+2016-03-23,Cowen,Not Provided,5.0,outperform,90.0
+2016-03-24,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-03-25,UBS,12 month,5.0,buy,96.0
+2016-03-25,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2016-03-29,Susquehanna Financial,12 month,3.0,neutral,80.0
+2016-03-29,Berenberg,12 month,5.0,buy,95.0
+2016-04-02,Evercore ISI,Not Provided,5.0,buy,-0.0
+2016-04-03,Cowen,Not Provided,5.0,outperform,90.0
+2016-04-04,Stifel,12 month,5.0,buy,93.0
+2016-04-04,Berenberg,Not Provided,5.0,buy,95.0
+2016-04-12,Pacific Crest Securities,Not Provided,5.0,overweight,91.0
+2016-04-13,B Riley & Co,Not Provided,5.0,buy,90.0
+2016-04-14,Berenberg,12 month,5.0,buy,95.0
+2016-04-18,B Riley & Co,12 month,5.0,buy,90.0
+2016-04-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-20,Cowen,12 month,5.0,outperform,93.0
+2016-04-20,Evercore ISI,12 month,5.0,buy,105.0
+2016-04-20,RBC Capital Markets,12 month,5.0,outperform,95.0
+2016-04-20,Pacific Crest Securities,12 month,5.0,overweight,96.0
+2016-04-20,Stifel,12 month,5.0,buy,93.0
+2016-04-20,Needham & Co,Not Provided,5.0,buy,95.0
+2016-04-21,Credit Suisse,Not Provided,5.0,outperform,98.0
+2016-04-21,D.A. Davidson & Co,Not Provided,5.0,buy,100.0
+2016-04-21,Berenberg,Not Provided,5.0,buy,95.0
+2016-04-21,J.P. Morgan,9 month,5.0,overweight,95.0
+2016-04-21,Nomura,12 month,5.0,buy,85.0
+2016-04-21,Morgan Stanley,12 month,5.0,Overwt/Attractive,95.0
+2016-04-21,Susquehanna Financial,12 month,3.0,neutral,80.0
+2016-04-21,Needham & Co,12 month,5.0,buy,95.0
+2016-04-23,Evercore ISI,12 month,5.0,buy,105.0
+2016-04-24,Stifel,12 month,5.0,buy,93.0
+2016-04-25,B Riley & Co,Not Provided,5.0,buy,96.0
+2016-04-27,RBC Capital Markets,12 month,5.0,outperform,95.0
+2016-04-30,Evercore ISI,Not Provided,5.0,buy,105.0
+2016-05-02,B Riley & Co,Not Provided,5.0,buy,96.0
+2016-05-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-03,Cowen,Not Provided,5.0,outperform,93.0
+2016-05-07,Evercore ISI,Not Provided,5.0,buy,105.0
+2016-05-09,Cowen,Not Provided,5.0,outperform,93.0
+2016-05-13,RBC Capital Markets,12 month,5.0,outperform,95.0
+2016-05-15,Pacific Crest Securities,12 month,5.0,overweight,96.0
+2016-05-15,Stifel,12 month,5.0,buy,93.0
+2016-05-16,Cowen,12 month,5.0,outperform,85.0
+2016-05-16,Needham & Co,12 month,5.0,buy,95.0
+2016-05-16,Evercore ISI,12 month,5.0,buy,105.0
+2016-05-18,B Riley & Co,12 month,5.0,buy,96.0
+2016-05-20,Morgan Stanley,12 month,5.0,Overwt/Attractive,95.0
+2016-05-22,Stifel,12 month,5.0,buy,93.0
+2016-05-23,RBC Capital Markets,12 month,5.0,outperform,95.0
+2016-05-24,Evercore ISI,12 month,5.0,buy,105.0
+2016-05-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-26,RBC Capital Markets,12 month,5.0,outperform,95.0
+2016-05-31,Stifel,12 month,5.0,buy,93.0
+2016-06-03,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-06-04,Evercore ISI,Not Provided,5.0,buy,105.0
+2016-06-05,Cowen,Not Provided,5.0,outperform,85.0
+2016-06-09,Susquehanna Financial,12 month,3.0,neutral,80.0
+2016-06-15,Evercore ISI,12 month,5.0,buy,105.0
+2016-06-16,Nomura,12 month,5.0,buy,85.0
+2016-06-16,Needham & Co,12 month,5.0,buy,95.0
+2016-06-16,Stifel,12 month,5.0,buy,93.0
+2016-06-21,Pacific Crest Securities,Not Provided,5.0,overweight,96.0
+2016-06-21,B Riley & Co,12 month,5.0,buy,96.0
+2016-06-23,Nomura,12 month,5.0,buy,95.0
+2016-06-24,Needham & Co,12 month,5.0,buy,95.0
+2016-06-27,B Riley & Co,Not Provided,5.0,buy,96.0
+2016-06-28,Susquehanna Financial,12 month,3.0,neutral,88.0
+2016-06-29,Credit Suisse,Not Provided,5.0,outperform,98.0
+2016-06-30,Cowen,Not Provided,5.0,outperform,85.0
+2016-07-02,Evercore ISI,Not Provided,5.0,buy,105.0
+2016-07-06,Berenberg,Not Provided,5.0,buy,95.0
+2016-07-06,Stifel,12 month,5.0,buy,93.0
+2016-07-06,Cowen,Not Provided,5.0,outperform,85.0
+2016-07-07,Pacific Crest Securities,Not Provided,5.0,overweight,96.0
+2016-07-08,B Riley & Co,Not Provided,5.0,buy,96.0
+2016-07-09,Evercore ISI,12 month,5.0,buy,105.0
+2016-07-10,Cowen,Not Provided,5.0,outperform,85.0
+2016-07-13,Stifel,12 month,5.0,buy,93.0
+2016-07-14,Berenberg,Not Provided,5.0,buy,95.0
+2016-07-14,Pacific Crest Securities,Not Provided,5.0,overweight,96.0
+2016-07-15,B Riley & Co,12 month,5.0,buy,96.0
+2016-07-15,Nomura,12 month,5.0,buy,95.0
+2016-07-20,Pacific Crest Securities,Not Provided,5.0,overweight,96.0
+2016-07-21,Stifel,12 month,5.0,buy,93.0
+2016-07-21,Nomura,12 month,5.0,buy,95.0
+2016-07-26,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-07-27,Susquehanna Financial,12 month,3.0,neutral,88.0
+2016-07-27,Cowen,12 month,5.0,outperform,95.0
+2016-07-27,Evercore ISI,12 month,5.0,buy,105.0
+2016-07-27,Pacific Crest Securities,Not Provided,5.0,overweight,101.0
+2016-07-28,RBC Capital Markets,12 month,5.0,outperform,105.0
+2016-07-28,Morgan Stanley,12 month,5.0,Overwt/Attractive,100.0
+2016-07-28,UBS,12 month,5.0,buy,105.0
+2016-07-28,Needham & Co,12 month,5.0,buy,105.0
+2016-07-28,Berenberg,Not Provided,5.0,buy,95.0
+2016-07-28,Credit Suisse,Not Provided,5.0,outperform,100.0
+2016-07-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-28,B Riley & Co,Not Provided,5.0,buy,106.0
+2016-07-28,Stifel,12 month,5.0,buy,102.0
+2016-07-28,J.P. Morgan,6 month,5.0,overweight,105.0
+2016-07-28,Nomura,12 month,5.0,buy,95.0
+2016-07-28,D.A. Davidson & Co,12 month,5.0,buy,110.0
+2016-08-01,B Riley & Co,Not Provided,5.0,buy,106.0
+2016-08-02,Cowen,Not Provided,5.0,outperform,95.0
+2016-08-10,Needham & Co,12 month,5.0,buy,105.0
+2016-08-10,Susquehanna Financial,12 month,3.0,neutral,88.0
+2016-08-10,RBC Capital Markets,12 month,5.0,outperform,105.0
+2016-08-10,Evercore ISI,12 month,5.0,buy,105.0
+2016-08-10,D.A. Davidson & Co,12 month,5.0,buy,110.0
+2016-08-10,Stifel,12 month,5.0,buy,102.0
+2016-08-11,Nomura,12 month,3.0,neutral,85.0
+2016-08-11,Cowen,Not Provided,5.0,outperform,95.0
+2016-08-11,J.P. Morgan,6 month,5.0,overweight,105.0
+2016-08-11,Credit Suisse,Not Provided,5.0,outperform,100.0
+2016-08-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-16,Susquehanna Financial,12 month,3.0,neutral,88.0
+2016-08-17,Berenberg,Not Provided,5.0,buy,95.0
+2016-08-19,Morgan Stanley,12 month,5.0,Overwt/Attractive,100.0
+2016-08-23,Morgan Stanley,12 month,5.0,Overwt/Attractive,105.0
+2016-08-31,Cowen,Not Provided,5.0,outperform,95.0
+2016-08-31,Stifel,Not Provided,5.0,buy,102.0
+2016-09-01,B Riley & Co,Not Provided,5.0,buy,106.0
+2016-09-06,Susquehanna Financial,12 month,3.0,neutral,90.0
+2016-09-08,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-09-11,Stifel,12 month,5.0,buy,102.0
+2016-09-12,Cowen,Not Provided,5.0,outperform,95.0
+2016-09-16,Cowen,Not Provided,5.0,outperform,95.0
+2016-09-17,Evercore ISI,12 month,5.0,buy,105.0
+2016-09-19,J.P. Morgan,6 month,5.0,overweight,105.0
+2016-09-20,Needham & Co,12 month,5.0,buy,105.0
+2016-09-22,Morgan Stanley,12 month,5.0,Overwt/Attractive,105.0
+2016-09-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-26,Stifel,Not Provided,5.0,buy,102.0
+2016-10-03,Cowen,Not Provided,5.0,outperform,95.0
+2016-10-05,Pacific Crest Securities,12 month,5.0,overweight,101.0
+2016-10-05,Cowen,12 month,5.0,outperform,95.0
+2016-10-06,J.P. Morgan,12 month,5.0,overweight,105.0
+2016-10-06,Morgan Stanley,12 month,5.0,Overwt/Attractive,105.0
+2016-10-06,Needham & Co,12 month,5.0,buy,115.0
+2016-10-06,RBC Capital Markets,12 month,5.0,outperform,105.0
+2016-10-06,Susquehanna Financial,12 month,3.0,neutral,90.0
+2016-10-06,Evercore ISI,12 month,5.0,buy,120.0
+2016-10-06,D.A. Davidson & Co,12 month,5.0,buy,120.0
+2016-10-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-07,Credit Suisse,Not Provided,5.0,outperform,108.0
+2016-10-07,Berenberg,Not Provided,5.0,buy,95.0
+2016-10-10,Stifel,12 month,5.0,buy,102.0
+2016-10-11,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-10-13,Needham & Co,12 month,5.0,buy,115.0
+2016-10-16,Cowen,12 month,5.0,outperform,95.0
+2016-10-17,B Riley & Co,Not Provided,5.0,buy,106.0
+2016-10-17,Stifel,Not Provided,5.0,buy,102.0
+2016-10-18,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-10-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-19,Evercore ISI,12 month,5.0,buy,120.0
+2016-10-19,RBC Capital Markets,12 month,5.0,outperform,110.0
+2016-10-19,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-10-19,Stifel,12 month,5.0,buy,110.0
+2016-10-20,J.P. Morgan,18 month,5.0,overweight,120.0
+2016-10-20,Credit Suisse,Not Provided,5.0,outperform,111.0
+2016-10-20,D.A. Davidson & Co,12 month,5.0,buy,125.0
+2016-10-20,UBS,12 month,5.0,buy,112.0
+2016-10-20,Needham & Co,12 month,5.0,buy,120.0
+2016-10-20,Morgan Stanley,12 month,5.0,Overwt/Attractive,113.0
+2016-10-20,Nomura,12 month,3.0,neutral,95.0
+2016-10-20,Cowen,12 month,5.0,outperform,100.0
+2016-10-21,Berenberg,Not Provided,5.0,buy,110.0
+2016-10-23,Susquehanna Financial,12 month,3.0,neutral,92.0
+2016-10-24,B Riley & Co,Not Provided,5.0,buy,120.0
+2016-10-24,Goldman Sachs,12 month,3.0,neutral/attractive,104.0
+2016-10-26,B Riley & Co,Not Provided,5.0,buy,120.0
+2016-10-27,Stifel,12 month,5.0,buy,110.0
+2016-10-31,Needham & Co,12 month,5.0,buy,120.0
+2016-10-31,Cowen,Not Provided,5.0,outperform,100.0
+2016-11-02,Cowen,Not Provided,5.0,outperform,100.0
+2016-11-07,Nomura,Not Provided,3.0,neutral,95.0
+2016-11-13,Cowen,Not Provided,5.0,outperform,100.0
+2016-11-14,B Riley & Co,Not Provided,5.0,buy,120.0
+2016-11-15,Nomura Instinet,12 month,3.0,neutral,95.0
+2016-11-18,RBC Capital Markets,12 month,5.0,outperform,110.0
+2016-11-18,Susquehanna Financial,12 month,3.0,neutral,92.0
+2016-11-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-18,Cowen,12 month,5.0,outperform,105.0
+2016-11-18,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-11-18,Evercore ISI,12 month,5.0,buy,120.0
+2016-11-21,J.P. Morgan,12 month,5.0,overweight,120.0
+2016-11-21,Needham & Co,12 month,5.0,buy,120.0
+2016-11-21,UBS,12 month,5.0,buy,116.0
+2016-11-21,Morgan Stanley,12 month,5.0,Overwt/Attractive,123.0
+2016-11-21,Berenberg,Not Provided,5.0,buy,110.0
+2016-11-21,Goldman Sachs,12 month,3.0,neutral/attractive,116.0
+2016-11-21,Stifel,12 month,5.0,buy,116.0
+2016-11-21,D.A. Davidson & Co,12 month,5.0,buy,125.0
+2016-11-21,Credit Suisse,Not Provided,5.0,outperform,119.0
+2016-11-21,B Riley & Co,Not Provided,5.0,buy,120.0
+2016-11-22,Stifel,Not Provided,5.0,buy,116.0
+2016-11-24,B Riley & Co,Not Provided,5.0,buy,120.0
+2016-12-02,B Riley & Co,Not Provided,5.0,buy,120.0
+2016-12-03,Evercore ISI,12 month,5.0,buy,120.0
+2016-12-04,Cowen,Not Provided,5.0,outperform,105.0
+2016-12-04,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2016-12-13,Stifel,Not Provided,5.0,buy,116.0
+2016-12-14,Evercore ISI,Not Provided,5.0,buy,120.0
+2016-12-16,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2016-12-19,Goldman Sachs,12 month,5.0,buy/attractive,125.0
+2016-12-19,Stifel,12 month,5.0,buy,116.0
+2016-12-24,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2017-01-03,Stifel,Not Provided,5.0,buy,116.0
+2017-01-03,Cowen,Not Provided,5.0,outperform,105.0
+2017-01-05,Needham & Co,12 month,5.0,buy,135.0
+2017-01-09,Stifel,Not Provided,5.0,buy,116.0
+2017-01-09,Credit Suisse,Not Provided,5.0,outperform,125.0
+2017-01-13,RBC Capital Markets,12 month,5.0,outperform,120.0
+2017-01-14,Evercore ISI,Not Provided,5.0,buy,120.0
+2017-01-17,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2017-01-17,B Riley & Co,Not Provided,5.0,buy,120.0
+2017-01-20,J.P. Morgan,12 month,5.0,overweight,120.0
+2017-01-24,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-01-25,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-01-25,RBC Capital Markets,12 month,5.0,outperform,125.0
+2017-01-25,Goldman Sachs,12 month,5.0,buy/attractive,133.0
+2017-01-25,Evercore ISI,12 month,5.0,buy,125.0
+2017-01-26,Susquehanna Financial,12 month,3.0,neutral,100.0
+2017-01-26,Cowen,12 month,5.0,outperform,125.0
+2017-01-26,UBS,12 month,5.0,buy,135.0
+2017-01-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-26,B Riley & Co,Not Provided,5.0,buy,150.0
+2017-01-26,Credit Suisse,Not Provided,5.0,outperform,143.0
+2017-01-26,Needham & Co,12 month,5.0,buy,145.0
+2017-01-26,Nomura Instinet,12 month,3.0,neutral,110.0
+2017-01-26,D.A. Davidson & Co,12 month,5.0,buy,140.0
+2017-01-26,J.P. Morgan,12 month,5.0,overweight,130.0
+2017-01-26,Stifel,12 month,5.0,buy,125.0
+2017-01-26,Morgan Stanley,12 month,5.0,Overwt/Attractive,129.0
+2017-01-30,B Riley & Co,Not Provided,5.0,buy,150.0
+2017-02-03,Cowen,Not Provided,5.0,outperform,125.0
+2017-02-09,Stifel,12 month,5.0,buy,125.0
+2017-02-10,Cowen,Not Provided,5.0,outperform,125.0
+2017-02-21,Nomura Instinet,Not Provided,3.0,neutral,110.0
+2017-02-21,Cowen,Not Provided,5.0,outperform,125.0
+2017-02-25,Evercore ISI,12 month,5.0,buy,125.0
+2017-02-28,Pacific Crest Securities,Not Provided,3.0,sector weight,-0.0
+2017-03-04,Evercore ISI,12 month,5.0,outperform,150.0
+2017-03-05,Cowen,Not Provided,5.0,outperform,125.0
+2017-03-10,UBS,12 month,5.0,buy,144.0
+2017-03-13,Cowen,Not Provided,5.0,outperform,125.0
+2017-03-13,Nomura Instinet,Not Provided,3.0,neutral,110.0
+2017-03-15,Pacific Crest Securities,12 month,5.0,overweight,163.0
+2017-03-16,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-03-16,B Riley & Co,Not Provided,5.0,buy,150.0
+2017-03-20,Nomura Instinet,Not Provided,3.0,neutral,110.0
+2017-03-23,RBC Capital Markets,12 month,5.0,outperform,125.0
+2017-03-26,Stifel,12 month,5.0,buy,150.0
+2017-04-03,Cowen,Not Provided,5.0,outperform,125.0
+2017-04-05,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-04-05,Goldman Sachs,12 month,5.0,buy/attractive,146.0
+2017-04-07,B Riley & Co,Not Provided,5.0,buy,150.0
+2017-04-10,Pacific Crest Securities,12 month,5.0,overweight,163.0
+2017-04-17,Needham & Co,12 month,5.0,buy,145.0
+2017-04-17,B Riley & Co,12 month,5.0,buy,150.0
+2017-04-18,Evercore ISI,12 month,5.0,outperform,175.0
+2017-04-18,Pacific Crest Securities,12 month,5.0,overweight,180.0
+2017-04-18,RBC Capital Markets,12 month,5.0,outperform,145.0
+2017-04-18,Goldman Sachs,12 month,5.0,buy/attractive,153.0
+2017-04-18,Cowen,12 month,5.0,outperform,150.0
+2017-04-18,Susquehanna Financial,12 month,3.0,neutral,115.0
+2017-04-18,Stifel,12 month,5.0,buy,150.0
+2017-04-19,Morgan Stanley,12 month,5.0,Overwt/Attractive,135.0
+2017-04-19,RBC Capital Markets,12 month,5.0,outperform,145.0
+2017-04-19,J.P. Morgan,9 month,5.0,overweight,155.0
+2017-04-19,Needham & Co,12 month,5.0,buy,165.0
+2017-04-19,Evercore ISI,12 month,5.0,outperform,175.0
+2017-04-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-19,UBS,12 month,5.0,buy,158.0
+2017-04-19,Nomura Instinet,12 month,3.0,neutral,125.0
+2017-04-19,Credit Suisse,Not Provided,5.0,outperform,160.0
+2017-04-19,D.A. Davidson & Co,12 month,5.0,buy,175.0
+2017-04-19,Susquehanna Financial,12 month,3.0,neutral,115.0
+2017-04-23,Stifel,Not Provided,5.0,buy,170.0
+2017-04-24,B Riley & Co,12 month,5.0,buy,175.0
+2017-04-25,Cowen,12 month,5.0,outperform,150.0
+2017-04-28,Stifel,12 month,5.0,buy,170.0
+2017-05-01,Nomura Instinet,Not Provided,3.0,neutral,125.0
+2017-05-01,B Riley & Co,Not Provided,5.0,buy,175.0
+2017-05-02,Cowen,Not Provided,5.0,outperform,150.0
+2017-05-03,B Riley & Co,12 month,5.0,buy,175.0
+2017-05-03,Stifel,12 month,5.0,buy,170.0
+2017-05-07,Goldman Sachs,12 month,5.0,buy/attractive,160.0
+2017-05-07,Susquehanna Financial,12 month,3.0,neutral,115.0
+2017-05-10,Pacific Crest Securities,Not Provided,5.0,overweight,180.0
+2017-05-16,UBS,12 month,5.0,buy,180.0
+2017-05-17,Stifel,12 month,5.0,buy,170.0
+2017-05-19,Stifel,12 month,5.0,buy,170.0
+2017-05-23,D.A. Davidson & Co,12 month,5.0,buy,175.0
+2017-05-23,Credit Suisse,Not Provided,5.0,outperform,201.0

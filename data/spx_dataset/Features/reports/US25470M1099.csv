@@ -1,0 +1,86 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2016-11-17,BTIG LLC,12 month,5.0,buy,90.0
+2016-11-21,Wunderlich Securities,18 month,1.0,sell,48.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2017-01-09,New Street Research,Not Provided,5.0,buy,175.0
+2017-01-10,Credit Suisse,Not Provided,3.0,neutral,52.0
+2017-02-07,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-02-13,CM Research,Not Provided,1.0,sell,48.86
+2017-02-21,Pacific Crest Securities,Not Provided,-2147483648.0,suspended coverage,-0.0
+2017-02-22,Barclays,Not Provided,3.0,equalweight,62.0
+2017-02-22,ROE Equity Research,Not Provided,5.0,buy,80.0
+2017-02-22,Morgan Stanley,12 month,5.0,Overwt/In-Line,75.0
+2017-02-23,Goldman Sachs,12 month,5.0,Buy/Neutral,84.0
+2017-02-23,UBS,12 month,3.0,neutral,63.0
+2017-02-23,Macquarie,12 month,5.0,outperform,70.0
+2017-02-23,Jefferies,12 month,5.0,buy,80.0
+2017-02-23,J.P. Morgan,12 month,5.0,overweight,85.0
+2017-02-23,Telsey Advisory Group,12 month,3.0,market perform,62.0
+2017-02-23,Pivotal Research Group LLC,12 month,5.0,buy,86.0
+2017-02-23,Guggenheim Securities,12 month,3.0,neutral,68.0
+2017-02-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-28,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2017-03-01,MoffettNathanson,12 month,1.0,sell,40.0
+2017-03-09,Evercore ISI,Not Provided,5.0,outperform,85.0
+2017-03-09,FBR Capital Markets,12 month,1.0,underperform,44.0
+2017-03-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-10,HSBC,Not Provided,3.0,hold,61.0
+2017-03-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-19,Evercore ISI,Not Provided,5.0,outperform,85.0
+2017-03-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-21,Guggenheim Securities,12 month,3.0,neutral,68.0
+2017-03-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-30,Macquarie,12 month,5.0,outperform,70.0
+2017-03-31,Jefferies,Not Provided,5.0,buy,80.0
+2017-04-03,J.P. Morgan,12 month,5.0,overweight,85.0
+2017-04-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-06,MoffettNathanson,Not Provided,1.0,sell,45.0
+2017-04-10,Telsey Advisory Group,12 month,3.0,market perform,62.0
+2017-04-11,J.P. Morgan,9 month,5.0,overweight,85.0
+2017-04-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,75.0
+2017-04-16,Evercore ISI,Not Provided,5.0,outperform,85.0
+2017-04-17,MoffettNathanson,Not Provided,1.0,sell,45.0
+2017-04-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-17,Jefferies,Not Provided,5.0,buy,80.0
+2017-04-18,Barclays,Not Provided,3.0,equalweight,62.0
+2017-04-18,Macquarie,12 month,3.0,neutral,61.0
+2017-04-18,New Street Research,Not Provided,5.0,buy,175.0
+2017-04-18,SunTrust Robinson Humphrey,12 month,3.0,hold,60.0
+2017-04-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-19,SunTrust Robinson Humphrey,Not Provided,3.0,hold,60.0
+2017-04-20,New Street Research,Not Provided,5.0,buy,175.0
+2017-04-23,Evercore ISI,12 month,5.0,outperform,85.0
+2017-04-24,Macquarie,12 month,3.0,neutral,61.0
+2017-04-28,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-05-01,Barclays,Not Provided,5.0,overweight,74.0
+2017-05-01,Pivotal Research Group LLC,12 month,5.0,buy,70.0
+2017-05-01,ROE Equity Research,Not Provided,5.0,buy,80.0
+2017-05-01,SunTrust Robinson Humphrey,12 month,3.0,hold,60.0
+2017-05-01,J.P. Morgan,9 month,5.0,overweight,81.0
+2017-05-01,Telsey Advisory Group,12 month,3.0,market perform,62.0
+2017-05-01,MoffettNathanson,12 month,1.0,sell,40.0
+2017-05-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-01,Morgan Stanley,12 month,5.0,Overwt/In-Line,75.0
+2017-05-01,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2017-05-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-01,New Street Research,Not Provided,5.0,buy,175.0
+2017-05-02,Guggenheim Securities,12 month,3.0,neutral,68.0
+2017-05-02,Wunderlich Securities,12 month,1.0,sell,54.0
+2017-05-02,Macquarie,12 month,3.0,neutral,65.0
+2017-05-02,Jefferies,12 month,5.0,buy,80.0
+2017-05-02,UBS,12 month,3.0,neutral,68.0
+2017-05-02,Goldman Sachs,12 month,5.0,Buy/Neutral,83.0
+2017-05-02,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-02,Evercore ISI,Not Provided,5.0,outperform,85.0
+2017-05-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-03,Evercore ISI,Not Provided,5.0,outperform,85.0
+2017-05-04,HSBC,Not Provided,3.0,hold,65.0
+2017-05-08,Telsey Advisory Group,12 month,3.0,market perform,62.0
+2017-05-09,MoffettNathanson,12 month,1.0,sell,45.0
+2017-05-10,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2017-05-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,75.0
+2017-05-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-20,New Street Research,Not Provided,5.0,buy,175.0

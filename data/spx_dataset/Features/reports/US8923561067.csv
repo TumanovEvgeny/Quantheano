@@ -1,0 +1,996 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2013-10-24,Oppenheimer & Co,12 month,5.0,outperform,80.0
+2013-10-24,Feltl & Company,12 month,3.0,hold,80.0
+2013-10-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-10-24,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2013-10-24,Credit Suisse,Not Provided,3.0,neutral,74.0
+2013-10-25,Daiwa Securities,Not Provided,3.0,neutral,74.47
+2013-10-30,Argus Research Corp,Not Provided,5.0,buy,84.0
+2013-12-01,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2013-12-05,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-12-09,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-12-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-12-16,Goldman Sachs,12 month,3.0,neutral/neutral,70.0
+2014-01-16,Northcoast Research,12 month,5.0,buy,80.0
+2014-01-23,Raymond James,Not Provided,5.0,strong buy,-0.0
+2014-01-23,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,79.0
+2014-01-24,Janney Montgomery Scott LLC,12 month,5.0,buy,70.0
+2014-01-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-01-27,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-01-28,Avondale Partners LLC,12 month,4.0,market outperform,77.0
+2014-01-28,Baird,12 month,5.0,outperform,85.0
+2014-01-29,UBS,12 month,5.0,buy,80.0
+2014-01-29,Barclays,Not Provided,5.0,overweight,78.0
+2014-01-29,RBC Capital Markets,12 month,5.0,outperform,76.0
+2014-01-29,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-01-29,Wedbush,12 month,5.0,outperform,80.0
+2014-01-29,Piper Jaffray,12 month,3.0,neutral,62.0
+2014-01-29,J.P. Morgan,9 month,5.0,overweight,78.0
+2014-01-29,SunTrust Robinson Humphrey,12 month,5.0,buy,82.0
+2014-01-30,SunTrust Robinson Humphrey,12 month,5.0,buy,82.0
+2014-01-30,Avondale Partners LLC,12 month,4.0,market outperform,77.0
+2014-01-30,Telsey Advisory Group,12 month,-2147483648.0,no rating system,79.0
+2014-01-30,Oppenheimer & Co,12 month,5.0,outperform,80.0
+2014-01-30,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-01-30,Baird,12 month,5.0,outperform,80.0
+2014-01-30,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-01-30,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-01-30,Piper Jaffray,12 month,3.0,neutral,64.0
+2014-01-30,Janney Montgomery Scott LLC,12 month,5.0,buy,70.0
+2014-01-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-01-30,J.P. Morgan,9 month,5.0,overweight,74.0
+2014-01-30,Credit Suisse,Not Provided,3.0,neutral,74.0
+2014-01-30,Feltl & Company,12 month,3.0,hold,80.0
+2014-01-30,Goldman Sachs,12 month,3.0,neutral/neutral,71.0
+2014-01-30,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-01-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-01-31,Daiwa Securities,Not Provided,3.0,neutral,67.85
+2014-02-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-02-03,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-02-05,Northcoast Research,12 month,5.0,buy,80.0
+2014-02-10,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-02-10,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-02-12,Argus Research Corp,Not Provided,5.0,buy,84.0
+2014-02-13,Baird,12 month,5.0,outperform,80.0
+2014-02-14,Oppenheimer & Co,12 month,3.0,market perform,70.0
+2014-02-17,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2014-02-18,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-02-18,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-02-24,SunTrust Robinson Humphrey,12 month,5.0,buy,82.0
+2014-02-24,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-02-25,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-02-25,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-02-25,Barclays,Not Provided,5.0,overweight,78.0
+2014-02-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-02-26,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-02-26,Telsey Advisory Group,12 month,-2147483648.0,no rating system,79.0
+2014-02-26,Piper Jaffray,12 month,3.0,neutral,64.0
+2014-02-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-02-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-02-26,Janney Montgomery Scott LLC,12 month,5.0,buy,75.0
+2014-02-26,Baird,12 month,5.0,outperform,80.0
+2014-02-27,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2014-03-03,Baird,12 month,5.0,outperform,80.0
+2014-03-03,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-03-06,Wedbush,12 month,5.0,outperform,80.0
+2014-03-10,Avondale Partners LLC,12 month,4.0,market outperform,85.0
+2014-03-10,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-03-13,Baird,12 month,5.0,outperform,80.0
+2014-03-14,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-03-17,RBC Capital Markets,12 month,5.0,outperform,76.0
+2014-03-17,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-03-18,Janney Montgomery Scott LLC,12 month,5.0,buy,78.0
+2014-03-24,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-03-27,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-03-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-03-31,Telsey Advisory Group,12 month,-2147483648.0,no rating system,79.0
+2014-03-31,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-04-03,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-07,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-04-07,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,79.0
+2014-04-08,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-04-10,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-14,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2014-04-14,Stephens Inc,Not Provided,5.0,overweight,83.0
+2014-04-14,Baird,Not Provided,5.0,outperform,80.0
+2014-04-16,Wedbush,12 month,5.0,outperform,80.0
+2014-04-17,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-04-17,Barclays,Not Provided,5.0,overweight,78.0
+2014-04-17,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,79.0
+2014-04-22,Baird,12 month,5.0,outperform,80.0
+2014-04-23,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-04-23,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-04-23,Barclays,Not Provided,5.0,overweight,78.0
+2014-04-23,RBC Capital Markets,12 month,5.0,outperform,78.0
+2014-04-23,Oppenheimer & Co,12 month,3.0,market perform,70.0
+2014-04-23,Northcoast Research,12 month,5.0,buy,80.0
+2014-04-24,Feltl & Company,12 month,3.0,hold,65.0
+2014-04-24,Piper Jaffray,12 month,3.0,neutral,64.0
+2014-04-24,Wedbush,12 month,5.0,outperform,80.0
+2014-04-24,Stephens Inc,12 month,5.0,overweight,83.0
+2014-04-24,Janney Montgomery Scott LLC,12 month,5.0,buy,78.0
+2014-04-24,Avondale Partners LLC,12 month,4.0,market outperform,77.0
+2014-04-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-04-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-04-24,Credit Suisse,Not Provided,3.0,neutral,74.0
+2014-04-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-04-24,Telsey Advisory Group,12 month,-2147483648.0,no rating system,79.0
+2014-04-24,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-04-24,J.P. Morgan,6 month,5.0,overweight,74.0
+2014-04-24,Goldman Sachs,12 month,3.0,neutral/neutral,75.0
+2014-04-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-04-24,SunTrust Robinson Humphrey,12 month,5.0,buy,82.0
+2014-04-25,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2014-04-30,Daiwa Securities,Not Provided,3.0,neutral,69.85
+2014-04-30,Stephens Inc,12 month,5.0,overweight,83.0
+2014-05-01,Northcoast Research,12 month,5.0,buy,80.0
+2014-05-01,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-05-02,Oppenheimer & Co,12 month,3.0,market perform,70.0
+2014-05-05,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-05-08,Baird,12 month,5.0,outperform,80.0
+2014-05-09,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-05-09,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2014-05-13,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-05-13,Baird,12 month,5.0,outperform,80.0
+2014-05-19,Baird,12 month,5.0,outperform,80.0
+2014-05-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-06-05,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-06-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-06-09,Avondale Partners LLC,12 month,4.0,market outperform,77.0
+2014-06-11,J.P. Morgan,3 month,5.0,overweight,74.0
+2014-06-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-06-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-06-13,Baird,Not Provided,5.0,outperform,80.0
+2014-06-16,Barclays,Not Provided,5.0,overweight,78.0
+2014-06-20,Avondale Partners LLC,Not Provided,4.0,market outperform,77.0
+2014-06-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-06-23,Morgan Stanley,12 month,3.0,Equalwt/In-Line,70.0
+2014-06-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-06-30,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-07-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-07-09,UBS,12 month,5.0,buy,70.0
+2014-07-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-07-09,Barclays,Not Provided,5.0,overweight,70.0
+2014-07-09,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-07-09,BMO Capital Markets,Not Provided,3.0,market perform,66.0
+2014-07-09,RBC Capital Markets,12 month,5.0,outperform,69.0
+2014-07-10,Baird,12 month,5.0,outperform,70.0
+2014-07-10,Telsey Advisory Group,12 month,-2147483648.0,no rating system,74.0
+2014-07-10,Feltl & Company,12 month,3.0,hold,65.0
+2014-07-10,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-07-10,Stephens Inc,12 month,5.0,overweight,80.0
+2014-07-10,Credit Suisse,Not Provided,5.0,outperform,70.0
+2014-07-10,Goldman Sachs,12 month,3.0,neutral/neutral,69.0
+2014-07-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,65.0
+2014-07-10,Janney Montgomery Scott LLC,12 month,5.0,buy,63.0
+2014-07-10,J.P. Morgan,3 month,5.0,overweight,72.0
+2014-07-10,Wedbush,12 month,5.0,outperform,66.0
+2014-07-10,SunTrust Robinson Humphrey,Not Provided,5.0,buy,75.0
+2014-07-10,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-07-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-07-10,Daiwa Securities,Not Provided,3.0,neutral,64.94
+2014-07-10,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-07-11,Avondale Partners LLC,12 month,4.0,market outperform,67.0
+2014-07-11,Piper Jaffray,12 month,3.0,neutral,64.0
+2014-07-16,Oppenheimer & Co,12 month,3.0,market perform,60.0
+2014-07-21,RBC Capital Markets,12 month,5.0,outperform,69.0
+2014-07-21,Telsey Advisory Group,12 month,-2147483648.0,no rating system,74.0
+2014-07-22,Janney Montgomery Scott LLC,12 month,5.0,buy,63.0
+2014-07-22,Feltl & Company,12 month,3.0,hold,64.0
+2014-07-23,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-07-23,Barclays,Not Provided,5.0,overweight,70.0
+2014-07-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-07-24,Wedbush,12 month,5.0,outperform,66.0
+2014-07-24,Credit Suisse,Not Provided,5.0,outperform,70.0
+2014-07-24,SunTrust Robinson Humphrey,12 month,5.0,buy,75.0
+2014-07-24,J.P. Morgan,Not Provided,5.0,overweight,72.0
+2014-07-24,Janney Montgomery Scott LLC,12 month,5.0,buy,67.0
+2014-07-24,Stephens Inc,12 month,5.0,overweight,80.0
+2014-07-24,Oppenheimer & Co,12 month,3.0,market perform,60.0
+2014-07-24,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-07-24,Feltl & Company,12 month,5.0,buy,68.0
+2014-07-24,Northcoast Research,12 month,5.0,buy,80.0
+2014-07-24,RBC Capital Markets,12 month,5.0,outperform,69.0
+2014-07-24,Baird,12 month,5.0,outperform,70.0
+2014-07-24,Piper Jaffray,12 month,3.0,neutral,64.0
+2014-07-24,BMO Capital Markets,Not Provided,3.0,market perform,66.0
+2014-07-24,Telsey Advisory Group,12 month,-2147483648.0,no rating system,74.0
+2014-07-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-07-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-07-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-07-25,Daiwa Securities,Not Provided,3.0,neutral,69.9
+2014-07-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-07-31,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-08-08,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-08-11,Avondale Partners LLC,Not Provided,3.0,market perform,55.0
+2014-08-12,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-08-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-08-18,Baird,12 month,5.0,outperform,70.0
+2014-08-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-08-21,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-08-27,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-09-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-09-11,Barclays,Not Provided,5.0,overweight,70.0
+2014-09-11,Telsey Advisory Group,Not Provided,5.0,outperform,74.0
+2014-09-12,Baird,12 month,5.0,outperform,70.0
+2014-09-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-09-24,Baird,12 month,5.0,outperform,70.0
+2014-09-29,Telsey Advisory Group,12 month,5.0,outperform,74.0
+2014-10-03,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-10-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-10-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-10-15,Northcoast Research,12 month,5.0,buy,80.0
+2014-10-15,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-10-15,Baird,12 month,5.0,outperform,70.0
+2014-10-15,Janney Montgomery Scott LLC,12 month,5.0,buy,67.0
+2014-10-17,Telsey Advisory Group,12 month,5.0,outperform,74.0
+2014-10-17,Avondale Partners LLC,12 month,3.0,market perform,55.0
+2014-10-17,Wedbush,12 month,5.0,outperform,66.0
+2014-10-17,Goldman Sachs,12 month,3.0,neutral/neutral,62.0
+2014-10-20,Baird,12 month,5.0,outperform,70.0
+2014-10-21,Credit Suisse,Not Provided,5.0,outperform,70.0
+2014-10-21,SunTrust Robinson Humphrey,12 month,5.0,buy,70.0
+2014-10-21,J.P. Morgan,Not Provided,5.0,overweight,72.0
+2014-10-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-10-21,Feltl & Company,12 month,5.0,buy,68.0
+2014-10-22,UBS,12 month,5.0,buy,75.0
+2014-10-22,BMO Capital Markets,Not Provided,3.0,market perform,66.0
+2014-10-22,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-10-22,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-10-22,RBC Capital Markets,12 month,5.0,outperform,69.0
+2014-10-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-10-23,Janney Montgomery Scott LLC,12 month,5.0,buy,77.0
+2014-10-23,RBC Capital Markets,12 month,5.0,outperform,74.0
+2014-10-23,Goldman Sachs,12 month,3.0,neutral/neutral,69.0
+2014-10-23,J.P. Morgan,Not Provided,5.0,overweight,75.0
+2014-10-23,Morgan Stanley,12 month,3.0,Equalwt/In-Line,72.0
+2014-10-23,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-10-23,Raymond James,12 month,5.0,strong buy,78.0
+2014-10-23,Wedbush,12 month,5.0,outperform,73.0
+2014-10-23,Feltl & Company,12 month,5.0,buy,77.0
+2014-10-23,Baird,12 month,5.0,outperform,80.0
+2014-10-23,SunTrust Robinson Humphrey,12 month,5.0,buy,80.0
+2014-10-23,Piper Jaffray,12 month,3.0,neutral,66.0
+2014-10-23,Barclays,Not Provided,5.0,overweight,75.0
+2014-10-23,Telsey Advisory Group,12 month,5.0,outperform,74.0
+2014-10-23,Oppenheimer & Co,12 month,3.0,market perform,60.0
+2014-10-23,Credit Suisse,Not Provided,5.0,outperform,75.0
+2014-10-23,Stephens Inc,12 month,5.0,overweight,85.0
+2014-10-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-10-23,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-10-24,BMO Capital Markets,Not Provided,3.0,market perform,76.0
+2014-10-24,Avondale Partners LLC,12 month,3.0,market perform,68.0
+2014-10-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-10-31,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2014-10-31,Avondale Partners LLC,Not Provided,3.0,market perform,68.0
+2014-11-03,Daiwa Securities,Not Provided,3.0,neutral,74.14
+2014-11-05,Oppenheimer & Co,12 month,3.0,market perform,60.0
+2014-11-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-11-10,Baird,12 month,5.0,outperform,80.0
+2014-11-12,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-11-13,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-11-13,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-11-13,Stephens Inc,12 month,5.0,overweight,85.0
+2014-11-17,Northcoast Research,12 month,5.0,buy,84.0
+2014-11-17,Baird,Not Provided,5.0,outperform,80.0
+2014-11-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-11-20,UBS,12 month,5.0,buy,84.0
+2014-12-02,SunTrust Robinson Humphrey,Not Provided,5.0,buy,80.0
+2014-12-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-05,Wedbush,12 month,5.0,outperform,85.0
+2014-12-05,J.P. Morgan,12 month,5.0,overweight,90.0
+2014-12-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-12-09,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-12-16,Nomura,12 month,5.0,buy,89.0
+2014-12-16,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-12-18,BMO Capital Markets,Not Provided,3.0,market perform,76.0
+2014-12-19,Goldman Sachs,12 month,3.0,neutral/neutral,77.0
+2014-12-19,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-01-05,Piper Jaffray,Not Provided,3.0,neutral,66.0
+2015-01-08,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-01-09,Credit Suisse,Not Provided,5.0,outperform,75.0
+2015-01-09,RBC Capital Markets,12 month,5.0,outperform,82.0
+2015-01-09,Telsey Advisory Group,12 month,5.0,outperform,85.0
+2015-01-09,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-01-12,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-01-14,Baird,Not Provided,5.0,outperform,80.0
+2015-01-15,UBS,12 month,5.0,buy,87.0
+2015-01-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-01-22,Raymond James,Not Provided,5.0,strong buy,-0.0
+2015-01-22,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-01-23,SunTrust Robinson Humphrey,12 month,5.0,buy,92.0
+2015-01-23,Stephens Inc,12 month,5.0,overweight,85.0
+2015-01-23,Barclays,Not Provided,5.0,overweight,85.0
+2015-01-23,Telsey Advisory Group,12 month,5.0,outperform,85.0
+2015-01-23,Wedbush,12 month,5.0,outperform,85.0
+2015-01-26,Janney Montgomery Scott LLC,12 month,5.0,buy,77.0
+2015-01-26,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-01-26,Baird,12 month,5.0,outperform,86.0
+2015-01-26,J.P. Morgan,12 month,5.0,overweight,90.0
+2015-01-26,Credit Suisse,Not Provided,5.0,outperform,88.0
+2015-01-26,Goldman Sachs,12 month,3.0,neutral/neutral,81.0
+2015-01-26,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2015-01-27,RBC Capital Markets,12 month,5.0,outperform,82.0
+2015-01-27,Nomura,12 month,5.0,buy,89.0
+2015-01-28,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2015-01-28,BMO Capital Markets,Not Provided,3.0,market perform,76.0
+2015-01-28,Credit Suisse,Not Provided,5.0,outperform,88.0
+2015-01-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-01-28,Raymond James,12 month,5.0,strong buy,92.0
+2015-01-28,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-01-29,Barclays,Not Provided,5.0,overweight,92.0
+2015-01-29,J.P. Morgan,12 month,5.0,overweight,91.0
+2015-01-29,Stephens Inc,12 month,5.0,overweight,92.0
+2015-01-29,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-01-29,Piper Jaffray,12 month,3.0,neutral,79.0
+2015-01-29,Wedbush,12 month,5.0,outperform,85.0
+2015-01-29,Feltl & Company,12 month,5.0,buy,90.6
+2015-01-29,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-01-29,Telsey Advisory Group,12 month,5.0,outperform,92.0
+2015-01-29,Nomura,12 month,5.0,buy,92.0
+2015-01-29,SunTrust Robinson Humphrey,12 month,5.0,buy,92.0
+2015-01-29,Janney Montgomery Scott LLC,12 month,5.0,buy,89.0
+2015-01-29,Goldman Sachs,12 month,3.0,neutral/neutral,86.0
+2015-01-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-01-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-01-29,Baird,12 month,5.0,outperform,88.0
+2015-01-29,RBC Capital Markets,12 month,5.0,outperform,86.0
+2015-01-29,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2015-01-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-01-29,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-01-30,Northcoast Research,12 month,5.0,buy,96.0
+2015-02-02,Daiwa Securities,Not Provided,3.0,neutral,91.09
+2015-02-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-02-12,Baird,Not Provided,5.0,outperform,88.0
+2015-02-13,Argus Research Corp,Not Provided,5.0,buy,96.0
+2015-02-20,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-02-23,BMO Capital Markets,Not Provided,3.0,market perform,76.0
+2015-02-23,J.P. Morgan,12 month,5.0,overweight,91.0
+2015-02-24,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-02-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-02-24,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2015-02-24,Raymond James,12 month,5.0,strong buy,92.0
+2015-02-24,Janney Montgomery Scott LLC,12 month,5.0,buy,89.0
+2015-02-25,Baird,12 month,5.0,outperform,96.0
+2015-02-25,UBS,12 month,5.0,buy,99.0
+2015-02-25,Oppenheimer & Co,18 month,5.0,outperform,95.0
+2015-02-25,Telsey Advisory Group,12 month,5.0,outperform,92.0
+2015-02-25,Stephens Inc,12 month,5.0,overweight,92.0
+2015-02-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-02-25,Feltl & Company,12 month,5.0,buy,90.6
+2015-02-25,Morgan Stanley,12 month,3.0,Equalwt/In-Line,92.0
+2015-02-25,Barclays,Not Provided,5.0,overweight,110.0
+2015-02-25,Credit Suisse,Not Provided,5.0,outperform,88.0
+2015-02-25,SunTrust Robinson Humphrey,12 month,5.0,buy,102.0
+2015-02-25,Nomura,12 month,5.0,buy,98.0
+2015-02-25,Wedbush,12 month,5.0,outperform,100.0
+2015-02-27,J.P. Morgan,12 month,5.0,overweight,96.0
+2015-03-01,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-03-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-03-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-03-17,Baird,12 month,5.0,outperform,96.0
+2015-03-20,BMO Capital Markets,Not Provided,3.0,market perform,76.0
+2015-03-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-03-31,BMO Capital Markets,Not Provided,3.0,market perform,76.0
+2015-04-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-04-07,Northcoast Research,12 month,5.0,buy,96.0
+2015-04-13,Goldman Sachs,12 month,3.0,neutral/neutral,91.0
+2015-04-13,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-04-15,RBC Capital Markets,12 month,5.0,outperform,86.0
+2015-04-15,Nomura,12 month,5.0,buy,98.0
+2015-04-15,Barclays,Not Provided,5.0,overweight,110.0
+2015-04-16,Telsey Advisory Group,12 month,5.0,outperform,92.0
+2015-04-22,Raymond James,12 month,5.0,strong buy,105.0
+2015-04-22,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-04-22,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-04-23,Goldman Sachs,12 month,3.0,neutral/neutral,95.0
+2015-04-23,SunTrust Robinson Humphrey,12 month,5.0,buy,104.0
+2015-04-23,RBC Capital Markets,12 month,5.0,outperform,96.0
+2015-04-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-04-23,Morgan Stanley,12 month,3.0,Equalwt/In-Line,100.0
+2015-04-23,Feltl & Company,12 month,5.0,buy,103.36
+2015-04-23,Northcoast Research,12 month,5.0,buy,96.0
+2015-04-23,Telsey Advisory Group,12 month,5.0,outperform,95.0
+2015-04-23,Piper Jaffray,12 month,3.0,neutral,88.0
+2015-04-23,Wedbush,12 month,5.0,outperform,100.0
+2015-04-23,Stephens Inc,12 month,5.0,overweight,107.0
+2015-04-23,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-04-23,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2015-04-23,Nomura,12 month,5.0,buy,98.0
+2015-04-23,J.P. Morgan,9 month,5.0,overweight,97.0
+2015-04-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-23,Janney Montgomery Scott LLC,12 month,5.0,buy,89.0
+2015-04-23,Baird,12 month,5.0,outperform,100.0
+2015-04-23,BMO Capital Markets,Not Provided,3.0,market perform,90.0
+2015-04-23,Credit Suisse,Not Provided,5.0,outperform,88.0
+2015-04-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-04-23,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-04-23,Barclays,Not Provided,5.0,overweight,110.0
+2015-04-27,Daiwa Securities,Not Provided,3.0,neutral,102.1
+2015-04-29,Argus Research Corp,Not Provided,5.0,buy,102.0
+2015-04-29,Barclays,Not Provided,5.0,overweight,110.0
+2015-04-30,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-05-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-05-05,Barclays,Not Provided,5.0,overweight,110.0
+2015-05-06,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-05-08,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-05-12,Credit Suisse,Not Provided,5.0,outperform,100.0
+2015-05-13,Baird,12 month,5.0,outperform,100.0
+2015-05-18,BMO Capital Markets,Not Provided,3.0,market perform,90.0
+2015-06-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-06-08,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-06-10,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-06-11,Baird,Not Provided,5.0,outperform,100.0
+2015-06-11,J.P. Morgan,6 month,5.0,overweight,97.0
+2015-06-15,Wedbush,Not Provided,5.0,outperform,100.0
+2015-06-16,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-06-22,Stephens Inc,12 month,5.0,overweight,107.0
+2015-06-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-07-01,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-07-09,Nomura,12 month,5.0,buy,102.0
+2015-07-13,Stephens Inc,12 month,5.0,overweight,107.0
+2015-07-13,Northcoast Research,12 month,5.0,buy,96.0
+2015-07-13,Raymond James,12 month,5.0,strong buy,105.0
+2015-07-13,Credit Suisse,Not Provided,5.0,outperform,100.0
+2015-07-14,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-07-14,SunTrust Robinson Humphrey,12 month,5.0,buy,104.0
+2015-07-14,RBC Capital Markets,12 month,5.0,outperform,96.0
+2015-07-16,Nomura,12 month,5.0,buy,102.0
+2015-07-16,Piper Jaffray,12 month,5.0,overweight,116.0
+2015-07-17,Telsey Advisory Group,12 month,5.0,outperform,105.0
+2015-07-17,Baird,12 month,5.0,outperform,107.0
+2015-07-20,Wedbush,12 month,5.0,outperform,100.0
+2015-07-22,Raymond James,12 month,5.0,strong buy,110.0
+2015-07-22,Nomura,12 month,5.0,buy,102.0
+2015-07-22,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-07-22,Morgan Stanley,12 month,3.0,Equalwt/In-Line,100.0
+2015-07-22,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-07-23,Stephens Inc,12 month,5.0,overweight,110.0
+2015-07-23,SunTrust Robinson Humphrey,12 month,5.0,buy,110.0
+2015-07-23,Credit Suisse,Not Provided,5.0,outperform,100.0
+2015-07-23,J.P. Morgan,6 month,5.0,overweight,97.0
+2015-07-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-23,Feltl & Company,12 month,5.0,buy,106.6
+2015-07-23,BMO Capital Markets,Not Provided,3.0,market perform,106.0
+2015-07-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-07-23,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-07-23,Baird,12 month,5.0,outperform,107.0
+2015-07-23,Telsey Advisory Group,12 month,5.0,outperform,105.0
+2015-07-23,Goldman Sachs,12 month,3.0,neutral/neutral,101.0
+2015-07-23,Piper Jaffray,12 month,5.0,overweight,116.0
+2015-07-23,Oppenheimer & Co,Not Provided,5.0,outperform,-0.0
+2015-07-23,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-07-23,RBC Capital Markets,12 month,5.0,outperform,100.0
+2015-07-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-07-23,Wedbush,12 month,5.0,outperform,100.0
+2015-07-30,Argus Research Corp,Not Provided,5.0,buy,105.0
+2015-07-31,Daiwa Securities,Not Provided,3.0,neutral,103.87
+2015-08-04,Daiwa Securities,Not Provided,3.0,neutral,103.87
+2015-08-06,RBC Capital Markets,12 month,5.0,outperform,100.0
+2015-08-12,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-08-13,Baird,Not Provided,5.0,outperform,107.0
+2015-08-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,105.0
+2015-08-18,Northcoast Research,12 month,5.0,buy,104.0
+2015-08-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-08-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-08-27,Oppenheimer & Co,18 month,5.0,outperform,95.0
+2015-08-31,Baird,12 month,5.0,outperform,107.0
+2015-08-31,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-09-01,Piper Jaffray,12 month,5.0,overweight,116.0
+2015-09-03,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-09-15,Baird,Not Provided,5.0,outperform,107.0
+2015-09-16,Baird,Not Provided,5.0,outperform,107.0
+2015-09-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-09-18,Goldman Sachs,12 month,3.0,neutral/neutral,92.0
+2015-09-18,Wedbush,12 month,5.0,outperform,100.0
+2015-09-23,Baird,12 month,5.0,outperform,107.0
+2015-09-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-09-25,Piper Jaffray,12 month,5.0,overweight,116.0
+2015-09-28,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-09-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-08,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-10-12,Wedbush,12 month,5.0,outperform,100.0
+2015-10-13,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2015-10-14,Credit Suisse,Not Provided,5.0,outperform,100.0
+2015-10-14,SunTrust Robinson Humphrey,12 month,5.0,buy,110.0
+2015-10-14,Raymond James,12 month,5.0,strong buy,110.0
+2015-10-14,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-10-14,Northcoast Research,12 month,5.0,buy,104.0
+2015-10-14,Telsey Advisory Group,12 month,5.0,outperform,105.0
+2015-10-15,J.P. Morgan,18 month,5.0,overweight,100.0
+2015-10-16,RBC Capital Markets,12 month,5.0,outperform,100.0
+2015-10-16,Piper Jaffray,12 month,5.0,overweight,116.0
+2015-10-19,Baird,12 month,5.0,outperform,107.0
+2015-10-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,105.0
+2015-10-20,BMO Capital Markets,Not Provided,3.0,market perform,106.0
+2015-10-21,BMO Capital Markets,Not Provided,3.0,market perform,106.0
+2015-10-21,Piper Jaffray,12 month,5.0,overweight,114.0
+2015-10-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-10-21,Nomura,12 month,5.0,buy,102.0
+2015-10-21,Morgan Stanley,12 month,3.0,Equalwt/In-Line,105.0
+2015-10-21,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2015-10-21,Credit Suisse,Not Provided,5.0,outperform,100.0
+2015-10-21,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-10-22,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-10-22,J.P. Morgan,12 month,5.0,overweight,104.0
+2015-10-22,Telsey Advisory Group,12 month,5.0,outperform,105.0
+2015-10-22,Goldman Sachs,12 month,3.0,neutral/neutral,95.0
+2015-10-22,RBC Capital Markets,12 month,5.0,outperform,101.0
+2015-10-22,Feltl & Company,12 month,5.0,buy,103.0
+2015-10-22,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-10-22,Wedbush,12 month,5.0,outperform,100.0
+2015-10-22,Stephens Inc,12 month,5.0,overweight,110.0
+2015-10-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-22,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-10-22,SunTrust Robinson Humphrey,Not Provided,5.0,buy,105.0
+2015-10-22,Baird,12 month,5.0,outperform,107.0
+2015-10-22,Raymond James,12 month,5.0,strong buy,110.0
+2015-10-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-10-26,Argus Research Corp,Not Provided,5.0,buy,105.0
+2015-10-29,Raymond James,12 month,5.0,strong buy,110.0
+2015-11-02,Northcoast Research,12 month,5.0,buy,104.0
+2015-11-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-11-04,Daiwa Securities,Not Provided,3.0,neutral,107.39
+2015-11-05,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-11-13,Baird,12 month,5.0,outperform,107.0
+2015-11-16,SunTrust Robinson Humphrey,Not Provided,5.0,buy,105.0
+2015-11-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-11-30,SunTrust Robinson Humphrey,Not Provided,5.0,buy,105.0
+2015-12-08,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2015-12-11,Baird,Not Provided,5.0,outperform,107.0
+2015-12-17,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-12-22,SunTrust Robinson Humphrey,Not Provided,5.0,buy,105.0
+2015-12-23,Northcoast Research,12 month,5.0,buy,104.0
+2015-12-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-04,J.P. Morgan,12 month,5.0,overweight,104.0
+2016-01-04,Baird,12 month,5.0,outperform,103.0
+2016-01-08,RBC Capital Markets,12 month,5.0,outperform,94.0
+2016-01-11,Wedbush,12 month,5.0,outperform,100.0
+2016-01-12,UBS,12 month,5.0,buy,97.0
+2016-01-12,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-01-12,SunTrust Robinson Humphrey,Not Provided,5.0,buy,100.0
+2016-01-12,J.P. Morgan,12 month,5.0,overweight,104.0
+2016-01-12,Raymond James,12 month,5.0,strong buy,105.0
+2016-01-12,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2016-01-12,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-01-12,Nomura,12 month,5.0,buy,102.0
+2016-01-13,Piper Jaffray,12 month,5.0,overweight,100.0
+2016-01-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-13,Goldman Sachs,12 month,3.0,neutral/neutral,90.0
+2016-01-13,Feltl & Company,12 month,5.0,buy,97.7
+2016-01-13,Credit Suisse,Not Provided,5.0,outperform,95.0
+2016-01-13,Telsey Advisory Group,12 month,5.0,outperform,100.0
+2016-01-13,Stephens Inc,12 month,5.0,overweight,99.0
+2016-01-13,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2016-01-13,RBC Capital Markets,12 month,5.0,outperform,90.0
+2016-01-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-14,BMO Capital Markets,Not Provided,3.0,market perform,94.0
+2016-01-15,Baird,Not Provided,5.0,outperform,103.0
+2016-01-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,95.0
+2016-01-21,Telsey Advisory Group,12 month,5.0,outperform,100.0
+2016-01-22,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-01-25,Baird,Not Provided,5.0,outperform,103.0
+2016-01-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-01-27,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2016-01-27,Credit Suisse,Not Provided,5.0,outperform,95.0
+2016-01-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-01-27,Nomura,12 month,5.0,buy,102.0
+2016-01-27,Raymond James,12 month,5.0,strong buy,105.0
+2016-01-27,SunTrust Robinson Humphrey,12 month,5.0,buy,100.0
+2016-01-27,BMO Capital Markets,Not Provided,3.0,market perform,94.0
+2016-01-27,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-01-28,J.P. Morgan,12 month,5.0,overweight,104.0
+2016-01-28,Argus Research Corp,Not Provided,5.0,buy,105.0
+2016-01-28,Stephens Inc,12 month,5.0,overweight,99.0
+2016-01-28,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2016-01-28,Goldman Sachs,12 month,3.0,neutral/neutral,92.0
+2016-01-28,Feltl & Company,12 month,5.0,buy,97.13
+2016-01-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-28,Morgan Stanley,12 month,3.0,Equalwt/In-Line,95.0
+2016-01-28,RBC Capital Markets,12 month,5.0,outperform,90.0
+2016-01-28,Telsey Advisory Group,12 month,5.0,outperform,100.0
+2016-01-28,Piper Jaffray,12 month,5.0,overweight,100.0
+2016-01-28,Baird,12 month,5.0,outperform,103.0
+2016-01-29,Daiwa Securities,Not Provided,3.0,neutral,91.19
+2016-02-01,Northcoast Research,12 month,5.0,buy,104.0
+2016-02-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-12,Oppenheimer & Co,Not Provided,5.0,outperform,92.0
+2016-02-12,Baird,12 month,5.0,outperform,103.0
+2016-02-15,BMO Capital Markets,Not Provided,3.0,market perform,94.0
+2016-02-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-19,Baird,12 month,5.0,outperform,103.0
+2016-02-22,Wedbush,12 month,5.0,outperform,94.0
+2016-02-22,Raymond James,12 month,5.0,strong buy,105.0
+2016-02-23,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-02-23,RBC Capital Markets,12 month,5.0,outperform,90.0
+2016-02-24,Oppenheimer & Co,18 month,5.0,outperform,92.0
+2016-02-24,Nomura,12 month,5.0,buy,98.0
+2016-02-24,Raymond James,12 month,5.0,strong buy,105.0
+2016-02-24,Wedbush,12 month,5.0,outperform,94.0
+2016-02-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,95.0
+2016-02-24,Piper Jaffray,12 month,5.0,overweight,100.0
+2016-02-24,SunTrust Robinson Humphrey,12 month,5.0,buy,100.0
+2016-02-24,Telsey Advisory Group,12 month,5.0,outperform,100.0
+2016-02-24,Baird,12 month,5.0,outperform,103.0
+2016-02-25,Feltl & Company,12 month,5.0,buy,97.13
+2016-02-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-02-26,J.P. Morgan,9 month,5.0,overweight,104.0
+2016-03-01,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-03-02,Northcoast Research,12 month,5.0,buy,112.0
+2016-03-15,Baird,12 month,5.0,outperform,103.0
+2016-03-16,SunTrust Robinson Humphrey,Not Provided,5.0,buy,100.0
+2016-03-18,Piper Jaffray,12 month,5.0,overweight,100.0
+2016-03-22,Telsey Advisory Group,Not Provided,5.0,outperform,100.0
+2016-03-24,Northcoast Research,12 month,5.0,buy,112.0
+2016-03-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-03-30,Barclays,Not Provided,5.0,overweight,100.0
+2016-04-04,Baird,Not Provided,5.0,outperform,103.0
+2016-04-06,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2016-04-06,Goldman Sachs,12 month,3.0,neutral/neutral,95.0
+2016-04-12,Credit Suisse,Not Provided,5.0,outperform,95.0
+2016-04-13,Baird,Not Provided,5.0,outperform,103.0
+2016-04-15,Wedbush,12 month,5.0,outperform,94.0
+2016-04-18,Baird,12 month,5.0,outperform,103.0
+2016-04-18,Morgan Stanley,12 month,3.0,Equalwt/In-Line,95.0
+2016-04-19,Feltl & Company,12 month,5.0,buy,97.13
+2016-04-20,Credit Suisse,Not Provided,5.0,outperform,95.0
+2016-04-20,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-04-20,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2016-04-20,Telsey Advisory Group,12 month,5.0,outperform,100.0
+2016-04-20,Raymond James,12 month,5.0,strong buy,110.0
+2016-04-20,Piper Jaffray,12 month,5.0,overweight,105.0
+2016-04-20,RBC Capital Markets,12 month,5.0,outperform,90.0
+2016-04-20,Stephens Inc,12 month,5.0,overweight,107.0
+2016-04-20,Nomura,12 month,5.0,buy,105.0
+2016-04-20,BMO Capital Markets,Not Provided,3.0,market perform,94.0
+2016-04-21,RBC Capital Markets,12 month,5.0,outperform,100.0
+2016-04-21,Morgan Stanley,12 month,3.0,Equalwt/In-Line,100.0
+2016-04-21,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-04-21,Wedbush,12 month,5.0,outperform,96.0
+2016-04-21,Stephens Inc,12 month,5.0,overweight,107.0
+2016-04-21,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2016-04-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-21,Telsey Advisory Group,12 month,5.0,outperform,103.0
+2016-04-21,Goldman Sachs,12 month,3.0,neutral/neutral,102.0
+2016-04-21,UBS,12 month,5.0,buy,110.0
+2016-04-21,Barclays,Not Provided,5.0,overweight,100.0
+2016-04-21,Feltl & Company,12 month,5.0,buy,101.77
+2016-04-21,Oppenheimer & Co,18 month,5.0,outperform,92.0
+2016-04-21,Piper Jaffray,12 month,5.0,overweight,105.0
+2016-04-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-21,Baird,12 month,5.0,outperform,103.0
+2016-04-21,BMO Capital Markets,Not Provided,3.0,market perform,101.0
+2016-04-26,Daiwa Securities,Not Provided,3.0,neutral,95.75
+2016-04-26,J.P. Morgan,9 month,5.0,overweight,105.0
+2016-04-28,BMO Capital Markets,Not Provided,3.0,market perform,101.0
+2016-05-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-03,Raymond James,12 month,5.0,strong buy,110.0
+2016-05-11,Northcoast Research,12 month,5.0,buy,112.0
+2016-05-11,Credit Suisse,Not Provided,5.0,outperform,100.0
+2016-05-13,RBC Capital Markets,12 month,5.0,outperform,100.0
+2016-05-13,Baird,Not Provided,5.0,outperform,103.0
+2016-05-19,Piper Jaffray,12 month,5.0,overweight,105.0
+2016-05-19,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-05-31,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-06-01,BTIG LLC,Not Provided,5.0,buy,115.0
+2016-06-02,RBC Capital Markets,12 month,5.0,outperform,100.0
+2016-06-08,Baird,12 month,5.0,outperform,103.0
+2016-06-08,BMO Capital Markets,Not Provided,3.0,market perform,101.0
+2016-06-10,Oppenheimer & Co,12 month,5.0,outperform,110.0
+2016-06-14,Guggenheim Securities,12 month,5.0,buy,110.0
+2016-06-14,Baird,Not Provided,5.0,outperform,103.0
+2016-06-17,BTIG LLC,12 month,5.0,buy,115.0
+2016-06-29,BMO Capital Markets,Not Provided,3.0,market perform,98.0
+2016-06-29,Credit Suisse,Not Provided,5.0,outperform,96.0
+2016-06-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-06-29,BTIG LLC,12 month,5.0,buy,105.0
+2016-06-29,Raymond James,12 month,5.0,strong buy,110.0
+2016-06-29,Nomura,12 month,5.0,buy,105.0
+2016-06-29,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-06-29,Piper Jaffray,12 month,5.0,overweight,103.0
+2016-06-29,RBC Capital Markets,12 month,5.0,outperform,97.0
+2016-06-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-06-29,J.P. Morgan,6 month,5.0,overweight,103.0
+2016-06-30,SunTrust Robinson Humphrey,Not Provided,5.0,buy,102.0
+2016-06-30,Goldman Sachs,12 month,3.0,neutral/neutral,96.0
+2016-06-30,UBS,12 month,5.0,buy,102.0
+2016-06-30,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-06-30,Morgan Stanley,12 month,3.0,Equalwt/In-Line,100.0
+2016-06-30,Barclays,Not Provided,5.0,overweight,100.0
+2016-06-30,Baird,12 month,5.0,outperform,100.0
+2016-06-30,Telsey Advisory Group,12 month,5.0,outperform,103.0
+2016-06-30,Wedbush,12 month,5.0,outperform,96.0
+2016-06-30,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-06-30,Daiwa Securities,Not Provided,3.0,neutral,92.13
+2016-06-30,Oppenheimer & Co,12 month,5.0,outperform,110.0
+2016-06-30,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2016-06-30,Guggenheim Securities,12 month,5.0,buy,110.0
+2016-06-30,Stephens Inc,12 month,5.0,overweight,100.0
+2016-07-06,Feltl & Company,12 month,5.0,buy,101.77
+2016-07-07,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-07-08,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-07-12,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-07-15,Baird,12 month,5.0,outperform,100.0
+2016-07-15,RBC Capital Markets,12 month,5.0,outperform,97.0
+2016-07-20,BTIG LLC,12 month,5.0,buy,105.0
+2016-07-20,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-07-20,Piper Jaffray,12 month,5.0,overweight,103.0
+2016-07-20,Raymond James,12 month,5.0,strong buy,110.0
+2016-07-21,Barclays,Not Provided,5.0,overweight,100.0
+2016-07-21,Goldman Sachs,12 month,3.0,neutral/neutral,102.0
+2016-07-21,Feltl & Company,12 month,5.0,buy,101.46
+2016-07-21,Nomura,12 month,5.0,buy,105.0
+2016-07-21,Guggenheim Securities,12 month,5.0,buy,110.0
+2016-07-21,Telsey Advisory Group,12 month,5.0,outperform,103.0
+2016-07-21,J.P. Morgan,6 month,5.0,overweight,103.0
+2016-07-21,Stephens Inc,12 month,5.0,overweight,100.0
+2016-07-21,Morgan Stanley,12 month,3.0,Equalwt/In-Line,100.0
+2016-07-21,Baird,12 month,5.0,outperform,100.0
+2016-07-21,RBC Capital Markets,12 month,5.0,outperform,100.0
+2016-07-21,SunTrust Robinson Humphrey,12 month,5.0,buy,102.0
+2016-07-21,Wedbush,12 month,5.0,outperform,96.0
+2016-07-21,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2016-07-21,BMO Capital Markets,Not Provided,3.0,market perform,98.0
+2016-07-21,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-07-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-21,Oppenheimer & Co,12 month,5.0,outperform,110.0
+2016-07-22,Daiwa Securities,Not Provided,3.0,neutral,95.44
+2016-08-04,Oppenheimer & Co,12 month,5.0,outperform,110.0
+2016-08-08,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-08-08,BMO Capital Markets,Not Provided,3.0,market perform,98.0
+2016-08-12,Wedbush,12 month,5.0,outperform,96.0
+2016-08-12,RBC Capital Markets,12 month,5.0,outperform,100.0
+2016-08-12,Baird,12 month,5.0,outperform,100.0
+2016-08-25,Stephens Inc,12 month,5.0,overweight,100.0
+2016-08-31,Guggenheim Securities,12 month,5.0,buy,110.0
+2016-09-07,Oppenheimer & Co,12 month,5.0,outperform,110.0
+2016-09-07,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-09-07,Nomura,12 month,5.0,buy,105.0
+2016-09-07,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-09-07,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2016-09-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-08,Feltl & Company,12 month,5.0,buy,87.6
+2016-09-08,Piper Jaffray,12 month,3.0,neutral,72.0
+2016-09-08,UBS,12 month,5.0,buy,88.0
+2016-09-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-09-08,Barclays,Not Provided,5.0,overweight,90.0
+2016-09-08,Credit Suisse,Not Provided,3.0,neutral,72.0
+2016-09-08,Morgan Stanley,12 month,3.0,Equalwt/In-Line,86.0
+2016-09-08,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2016-09-08,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-09-08,Wedbush,12 month,3.0,neutral,72.0
+2016-09-08,Baird,12 month,5.0,outperform,90.0
+2016-09-08,Telsey Advisory Group,12 month,5.0,outperform,88.0
+2016-09-08,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2016-09-08,Guggenheim Securities,12 month,5.0,buy,90.0
+2016-09-08,RBC Capital Markets,12 month,3.0,sector perform,79.0
+2016-09-09,Daiwa Securities,Not Provided,3.0,neutral,73.58
+2016-09-09,Stephens Inc,12 month,5.0,overweight,85.0
+2016-09-12,Goldman Sachs,12 month,3.0,neutral/neutral,77.0
+2016-09-12,J.P. Morgan,6 month,5.0,overweight,86.0
+2016-09-15,RBC Capital Markets,12 month,3.0,sector perform,79.0
+2016-09-15,Guggenheim Securities,12 month,5.0,buy,90.0
+2016-09-15,Baird,Not Provided,5.0,outperform,90.0
+2016-09-23,Oppenheimer & Co,12 month,5.0,outperform,80.0
+2016-09-27,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-09-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-29,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2016-09-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-09-30,RBC Capital Markets,12 month,3.0,sector perform,79.0
+2016-09-30,Baird,12 month,5.0,outperform,90.0
+2016-09-30,Barclays,Not Provided,5.0,overweight,90.0
+2016-09-30,UBS,12 month,5.0,buy,80.0
+2016-09-30,Guggenheim Securities,12 month,5.0,buy,90.0
+2016-09-30,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-09-30,Telsey Advisory Group,12 month,5.0,outperform,88.0
+2016-09-30,Oppenheimer & Co,12 month,5.0,outperform,80.0
+2016-09-30,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-09-30,Wedbush,12 month,3.0,neutral,72.0
+2016-10-01,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-10-03,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2016-10-04,Daiwa Securities,Not Provided,5.0,outperform,74.1
+2016-10-06,Oppenheimer & Co,12 month,5.0,outperform,80.0
+2016-10-06,Piper Jaffray,12 month,3.0,neutral,72.0
+2016-10-14,Guggenheim Securities,12 month,5.0,buy,90.0
+2016-10-14,Nomura,12 month,5.0,buy,80.0
+2016-10-16,Piper Jaffray,12 month,3.0,neutral,62.0
+2016-10-17,Baird,12 month,5.0,outperform,90.0
+2016-10-17,J.P. Morgan,18 month,5.0,overweight,81.0
+2016-10-17,RBC Capital Markets,12 month,3.0,sector perform,79.0
+2016-10-18,UBS,12 month,5.0,buy,76.0
+2016-10-19,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-19,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-10-19,Piper Jaffray,12 month,3.0,neutral,62.0
+2016-10-19,SunTrust Robinson Humphrey,12 month,5.0,buy,80.0
+2016-10-19,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-10-19,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-10-20,Feltl & Company,12 month,5.0,buy,74.55
+2016-10-20,Baird,12 month,5.0,outperform,80.0
+2016-10-20,J.P. Morgan,18 month,5.0,overweight,78.0
+2016-10-20,Telsey Advisory Group,12 month,5.0,outperform,80.0
+2016-10-20,Wedbush,12 month,3.0,neutral,65.0
+2016-10-20,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2016-10-20,Oppenheimer & Co,12 month,5.0,outperform,80.0
+2016-10-20,Goldman Sachs,12 month,3.0,neutral/neutral,73.0
+2016-10-20,Guggenheim Securities,12 month,5.0,buy,85.0
+2016-10-20,Stephens Inc,12 month,5.0,overweight,85.0
+2016-10-20,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-10-20,Credit Suisse,Not Provided,3.0,neutral,62.0
+2016-10-20,Morgan Stanley,12 month,3.0,Equalwt/In-Line,74.0
+2016-10-20,RBC Capital Markets,12 month,3.0,sector perform,68.0
+2016-10-20,Nomura,12 month,5.0,buy,80.0
+2016-10-20,Barclays,Not Provided,5.0,overweight,90.0
+2016-10-21,BMO Capital Markets,Not Provided,3.0,market perform,71.0
+2016-10-27,Nomura,12 month,5.0,buy,80.0
+2016-10-28,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-10-28,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-10-30,Daiwa Securities,Not Provided,5.0,outperform,68.39
+2016-11-02,Daiwa Securities,Not Provided,5.0,outperform,68.39
+2016-11-11,Baird,12 month,5.0,outperform,80.0
+2016-11-15,Nomura Instinet,12 month,5.0,buy,80.0
+2016-11-16,Baird,Not Provided,5.0,outperform,80.0
+2016-11-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-11-21,Morgan Stanley,12 month,3.0,Equalwt/In-Line,74.0
+2016-11-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-25,SunTrust Robinson Humphrey,Not Provided,5.0,buy,80.0
+2016-11-28,Northcoast Research,12 month,5.0,buy,102.0
+2016-12-05,Credit Suisse,Not Provided,3.0,neutral,73.0
+2016-12-14,RBC Capital Markets,12 month,3.0,sector perform,68.0
+2016-12-14,Baird,Not Provided,5.0,outperform,80.0
+2016-12-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-01-03,Baird,Not Provided,5.0,outperform,85.0
+2017-01-03,Loop Capital Markets,12 month,3.0,hold,79.0
+2017-01-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-01-05,Piper Jaffray,12 month,3.0,neutral,77.0
+2017-01-06,UBS,12 month,5.0,buy,86.0
+2017-01-09,Loop Capital Markets,12 month,3.0,hold,79.0
+2017-01-11,Northcoast Research,12 month,5.0,buy,102.0
+2017-01-12,Wedbush,12 month,5.0,outperform,85.0
+2017-01-12,RBC Capital Markets,12 month,3.0,sector perform,78.0
+2017-01-13,Baird,Not Provided,5.0,outperform,85.0
+2017-01-13,RBC Capital Markets,12 month,3.0,sector perform,78.0
+2017-01-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2017-01-23,Stephens Inc,12 month,5.0,overweight,85.0
+2017-01-24,Barclays,Not Provided,5.0,overweight,90.0
+2017-01-25,Guggenheim Securities,12 month,5.0,buy,85.0
+2017-01-26,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-01-27,RBC Capital Markets,12 month,3.0,sector perform,78.0
+2017-01-27,Oppenheimer & Co,12 month,5.0,outperform,88.0
+2017-01-27,Loop Capital Markets,12 month,3.0,hold,79.0
+2017-01-27,Telsey Advisory Group,12 month,5.0,outperform,84.0
+2017-01-27,SunTrust Robinson Humphrey,Not Provided,5.0,buy,80.0
+2017-01-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-01,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-02-01,Baird,12 month,5.0,outperform,85.0
+2017-02-01,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-02-02,Barclays,Not Provided,5.0,overweight,90.0
+2017-02-02,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-02-02,Credit Suisse,Not Provided,3.0,neutral,73.0
+2017-02-02,Telsey Advisory Group,12 month,5.0,outperform,84.0
+2017-02-02,Stephens Inc,12 month,5.0,overweight,85.0
+2017-02-02,Piper Jaffray,12 month,3.0,neutral,79.0
+2017-02-02,Feltl & Company,12 month,5.0,buy,77.0
+2017-02-02,Nomura Instinet,12 month,5.0,buy,80.0
+2017-02-02,J.P. Morgan,12 month,5.0,overweight,88.0
+2017-02-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-02-02,Goldman Sachs,12 month,3.0,neutral/neutral,79.0
+2017-02-02,Loop Capital Markets,12 month,3.0,hold,79.0
+2017-02-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,82.0
+2017-02-02,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-02,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-02-02,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2017-02-02,Guggenheim Securities,12 month,5.0,buy,85.0
+2017-02-02,Oppenheimer & Co,12 month,5.0,outperform,88.0
+2017-02-03,SunTrust Robinson Humphrey,12 month,3.0,hold,80.0
+2017-02-03,BMO Capital Markets,Not Provided,3.0,market perform,71.0
+2017-02-03,Northcoast Research,12 month,5.0,buy,102.0
+2017-02-07,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-02-08,Oppenheimer & Co,12 month,5.0,outperform,88.0
+2017-02-08,Daiwa Securities,Not Provided,5.0,outperform,78.19
+2017-02-12,Piper Jaffray,12 month,3.0,neutral,79.0
+2017-02-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-15,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-02-16,Guggenheim Securities,12 month,5.0,buy,85.0
+2017-02-17,SunTrust Robinson Humphrey,12 month,3.0,hold,80.0
+2017-02-17,Baird,12 month,5.0,outperform,85.0
+2017-02-17,Wedbush,12 month,5.0,outperform,85.0
+2017-02-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-21,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-02-21,Piper Jaffray,12 month,3.0,neutral,79.0
+2017-02-22,Oppenheimer & Co,12 month,5.0,outperform,88.0
+2017-02-22,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-02-22,Nomura Instinet,12 month,5.0,buy,80.0
+2017-02-22,Telsey Advisory Group,12 month,5.0,outperform,84.0
+2017-02-22,Barclays,Not Provided,5.0,overweight,90.0
+2017-02-22,Wedbush,12 month,5.0,outperform,85.0
+2017-02-22,Loop Capital Markets,12 month,3.0,hold,79.0
+2017-02-22,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-02-22,Morgan Stanley,12 month,3.0,Equalwt/In-Line,82.0
+2017-02-22,Baird,12 month,5.0,outperform,85.0
+2017-02-24,Guggenheim Securities,12 month,5.0,buy,85.0
+2017-02-24,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-02-24,Feltl & Company,12 month,5.0,buy,77.0
+2017-02-26,Credit Suisse,Not Provided,3.0,neutral,73.0
+2017-02-27,Stephens Inc,12 month,5.0,overweight,85.0
+2017-02-27,SunTrust Robinson Humphrey,12 month,3.0,hold,80.0
+2017-03-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-03-06,Guggenheim Securities,12 month,5.0,buy,85.0
+2017-03-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-03-09,Nomura Instinet,12 month,5.0,buy,85.0
+2017-03-11,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-03-15,Baird,Not Provided,5.0,outperform,85.0
+2017-03-15,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2017-03-17,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-03-20,Stephens Inc,12 month,5.0,overweight,85.0
+2017-03-20,Morgan Stanley,12 month,3.0,Equalwt/In-Line,82.0
+2017-03-22,SunTrust Robinson Humphrey,12 month,3.0,hold,80.0
+2017-03-22,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-03-30,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-04-06,Northcoast Research,12 month,5.0,buy,102.0
+2017-04-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-10,Wedbush,12 month,5.0,outperform,85.0
+2017-04-11,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-04-11,Nomura Instinet,12 month,5.0,buy,85.0
+2017-04-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-11,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-11,Credit Suisse,Not Provided,3.0,neutral,70.0
+2017-04-11,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-04-11,Loop Capital Markets,12 month,3.0,hold,79.0
+2017-04-11,BMO Capital Markets,Not Provided,3.0,market perform,71.0
+2017-04-11,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-04-12,Guggenheim Securities,12 month,5.0,buy,85.0
+2017-04-12,J.P. Morgan,9 month,3.0,neutral,67.0
+2017-04-12,Barclays,Not Provided,5.0,overweight,90.0
+2017-04-12,Telsey Advisory Group,12 month,5.0,outperform,83.0
+2017-04-12,Morgan Stanley,12 month,3.0,Equalwt/In-Line,74.0
+2017-04-12,Stephens Inc,12 month,3.0,equalweight,65.0
+2017-04-12,Wedbush,12 month,5.0,outperform,83.0
+2017-04-12,Oppenheimer & Co,12 month,5.0,outperform,88.0
+2017-04-12,RBC Capital Markets,12 month,3.0,sector perform,72.0
+2017-04-12,SunTrust Robinson Humphrey,12 month,3.0,hold,77.0
+2017-04-12,Goldman Sachs,12 month,3.0,neutral/neutral,74.0
+2017-04-13,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-04-13,Piper Jaffray,12 month,3.0,neutral,73.0
+2017-04-17,Baird,Not Provided,5.0,outperform,80.0
+2017-04-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-04-19,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2017-04-19,Loop Capital Markets,12 month,3.0,hold,67.0
+2017-04-21,Telsey Advisory Group,12 month,5.0,outperform,83.0
+2017-04-24,Piper Jaffray,12 month,3.0,neutral,73.0
+2017-04-26,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-04-26,SunTrust Robinson Humphrey,12 month,3.0,hold,77.0
+2017-04-26,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-04-26,Guggenheim Securities,12 month,5.0,buy,80.0
+2017-04-26,Baird,12 month,5.0,outperform,80.0
+2017-04-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-27,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-04-27,Telsey Advisory Group,12 month,5.0,outperform,83.0
+2017-04-27,Wedbush,12 month,5.0,outperform,80.0
+2017-04-27,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2017-04-27,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-04-27,Loop Capital Markets,12 month,3.0,hold,67.0
+2017-04-27,J.P. Morgan,9 month,3.0,neutral,67.0
+2017-04-27,Goldman Sachs,12 month,3.0,neutral/neutral,76.0
+2017-04-27,Barclays,Not Provided,5.0,overweight,90.0
+2017-04-27,UBS,12 month,5.0,buy,75.0
+2017-04-27,Credit Suisse,Not Provided,3.0,neutral,70.0
+2017-04-27,Oppenheimer & Co,12 month,5.0,outperform,88.0
+2017-04-27,RBC Capital Markets,12 month,3.0,sector perform,67.0
+2017-04-27,Morgan Stanley,12 month,3.0,Equalwt/In-Line,74.0
+2017-04-27,Piper Jaffray,12 month,3.0,neutral,68.0
+2017-04-28,Daiwa Securities,Not Provided,5.0,outperform,68.58
+2017-05-01,Stephens Inc,12 month,3.0,equalweight,65.0
+2017-05-01,BMO Capital Markets,Not Provided,3.0,market perform,71.0
+2017-05-02,Northcoast Research,12 month,5.0,buy,96.0
+2017-05-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-05-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-05-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-12,RBC Capital Markets,12 month,3.0,sector perform,67.0
+2017-05-12,Baird,Not Provided,5.0,outperform,80.0
+2017-05-14,Piper Jaffray,12 month,3.0,neutral,68.0
+2017-05-18,Raymond James,Not Provided,3.0,market perform,-0.0

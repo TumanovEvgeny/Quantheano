@@ -1,0 +1,391 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2016-01-05,Barclays,Not Provided,-2147483648.0,suspended coverage,-0.0
+2016-01-29,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-04-06,Susquehanna Financial,12 month,3.0,neutral,72.0
+2016-04-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-06,Morgan Stanley,12 month,3.0,Equalwt/In-Line,68.0
+2016-04-06,Oppenheimer & Co,12 month,5.0,outperform,80.0
+2016-04-06,Evercore ISI,12 month,5.0,buy,79.0
+2016-04-07,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-04-07,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-08,Jefferies,Not Provided,3.0,hold,68.0
+2016-04-08,Stephens Inc,12 month,3.0,equalweight,73.0
+2016-04-13,Piper Jaffray,12 month,3.0,neutral,76.0
+2016-04-14,Cowen,12 month,5.0,outperform,82.0
+2016-04-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-04-15,Compass Point Research & Trading LLC,Not Provided,3.0,neutral,70.0
+2016-04-15,Credit Suisse,Not Provided,5.0,outperform,80.0
+2016-04-18,First Analysis Corp,Not Provided,5.0,overweight,90.0
+2016-04-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-19,Nomura,12 month,2.0,reduce,65.0
+2016-04-20,SunTrust Robinson Humphrey,Not Provided,5.0,buy,90.0
+2016-04-20,Sterne Agee CRT,Not Provided,5.0,buy,85.0
+2016-04-25,Goldman Sachs,12 month,3.0,neutral/attractive,82.0
+2016-04-25,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-26,"Keefe, Bruyette & Woods",12 month,5.0,outperform,88.0
+2016-04-26,Baird,12 month,5.0,outperform,85.0
+2016-04-27,J.P. Morgan,9 month,5.0,overweight,83.0
+2016-04-27,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-04-29,Baird,Not Provided,5.0,outperform,85.0
+2016-05-04,Barclays,Not Provided,3.0,equalweight,78.0
+2016-05-04,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-05-06,Baird,Not Provided,5.0,outperform,85.0
+2016-05-11,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-05-11,Jefferies,12 month,3.0,hold,68.0
+2016-05-11,Cowen,12 month,5.0,outperform,82.0
+2016-05-13,Baird,Not Provided,5.0,outperform,85.0
+2016-05-16,Sterne Agee CRT,Not Provided,5.0,buy,85.0
+2016-05-17,Oppenheimer & Co,12 month,5.0,outperform,80.0
+2016-05-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-18,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-05-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-05-23,Jefferies,12 month,3.0,hold,75.0
+2016-05-23,Piper Jaffray,12 month,3.0,neutral,76.0
+2016-05-23,Baird,12 month,5.0,outperform,85.0
+2016-05-25,Sterne Agee CRT,Not Provided,5.0,buy,85.0
+2016-05-25,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-06-01,Baird,Not Provided,5.0,outperform,85.0
+2016-06-02,Sterne Agee CRT,Not Provided,5.0,buy,85.0
+2016-06-02,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-06-03,Nomura,12 month,2.0,reduce,64.0
+2016-06-06,Baird,12 month,5.0,outperform,85.0
+2016-06-09,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-06-10,Cowen,Not Provided,5.0,outperform,82.0
+2016-06-13,Susquehanna Financial,12 month,3.0,neutral,72.0
+2016-06-14,Baird,12 month,5.0,outperform,85.0
+2016-06-15,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-06-23,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-06-24,Baird,12 month,5.0,outperform,85.0
+2016-06-26,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,-0.0
+2016-06-27,Credit Suisse,Not Provided,5.0,outperform,80.0
+2016-06-29,Goldman Sachs,12 month,3.0,neutral/attractive,80.0
+2016-06-29,Compass Point Research & Trading LLC,Not Provided,3.0,neutral,70.0
+2016-06-30,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-07-07,Barclays,Not Provided,3.0,equalweight,73.0
+2016-07-08,Baird,Not Provided,5.0,outperform,85.0
+2016-07-08,Jefferies,Not Provided,3.0,hold,75.0
+2016-07-08,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-07-12,J.P. Morgan,6 month,5.0,overweight,83.0
+2016-07-13,Evercore ISI,12 month,5.0,buy,79.0
+2016-07-14,Piper Jaffray,12 month,3.0,neutral,76.0
+2016-07-15,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-07-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-07-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-15,Baird,Not Provided,5.0,outperform,85.0
+2016-07-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-07-18,First Analysis Corp,12 month,5.0,overweight,90.0
+2016-07-19,Compass Point Research & Trading LLC,Not Provided,3.0,neutral,70.0
+2016-07-19,Cowen,Not Provided,5.0,outperform,83.0
+2016-07-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,74.0
+2016-07-21,RBC Capital Markets,12 month,5.0,outperform,75.0
+2016-07-22,Baird,12 month,5.0,outperform,85.0
+2016-07-22,Oppenheimer & Co,12 month,5.0,outperform,80.0
+2016-07-28,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-07-28,Oppenheimer & Co,12 month,5.0,outperform,85.0
+2016-07-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-28,Evercore ISI,12 month,5.0,buy,95.0
+2016-07-28,"Keefe, Bruyette & Woods",12 month,5.0,outperform,90.0
+2016-07-28,Stephens Inc,12 month,3.0,equalweight,73.0
+2016-07-28,First Analysis Corp,12 month,5.0,overweight,90.0
+2016-07-28,SunTrust Robinson Humphrey,12 month,5.0,buy,90.0
+2016-07-28,Credit Suisse,Not Provided,5.0,outperform,84.0
+2016-07-29,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-07-29,Baird,Not Provided,5.0,outperform,85.0
+2016-07-29,Cowen,12 month,5.0,outperform,88.0
+2016-07-29,Morgan Stanley,12 month,3.0,Equalwt/In-Line,74.0
+2016-07-29,J.P. Morgan,6 month,5.0,overweight,83.0
+2016-07-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-07-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-07-29,Piper Jaffray,12 month,3.0,neutral,78.0
+2016-07-29,Nomura,12 month,2.0,reduce,66.0
+2016-07-29,Jefferies,Not Provided,3.0,hold,75.0
+2016-07-29,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-29,Barclays,Not Provided,3.0,equalweight,75.0
+2016-07-29,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-07-31,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-08-03,First Analysis Corp,12 month,5.0,overweight,90.0
+2016-08-03,Credit Suisse,Not Provided,5.0,outperform,84.0
+2016-08-05,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-08-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-08-05,Baird,Not Provided,5.0,outperform,85.0
+2016-08-08,Morgan Stanley,12 month,3.0,Equalwt/In-Line,77.0
+2016-08-10,Cowen,Not Provided,5.0,outperform,88.0
+2016-08-11,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-08-11,Baird,12 month,5.0,outperform,85.0
+2016-08-15,Stephens Inc,12 month,3.0,equalweight,77.0
+2016-08-17,Oppenheimer & Co,12 month,5.0,outperform,85.0
+2016-08-19,J.P. Morgan,18 month,5.0,overweight,90.0
+2016-08-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-08-19,Compass Point Research & Trading LLC,12 month,3.0,neutral,70.0
+2016-08-19,Baird,Not Provided,5.0,outperform,85.0
+2016-08-26,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-08-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-31,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-09-02,Baird,Not Provided,5.0,outperform,85.0
+2016-09-07,Compass Point Research & Trading LLC,Not Provided,3.0,neutral,70.0
+2016-09-08,Wedbush,12 month,5.0,outperform,85.0
+2016-09-08,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-09-09,Baird,Not Provided,5.0,outperform,85.0
+2016-09-12,Nomura,12 month,2.0,reduce,66.0
+2016-09-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-09-14,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-09-15,Goldman Sachs,12 month,5.0,buy/attractive,88.0
+2016-09-16,Baird,Not Provided,5.0,outperform,85.0
+2016-09-22,Cowen,Not Provided,5.0,outperform,88.0
+2016-09-23,Wedbush,12 month,5.0,outperform,85.0
+2016-09-23,Baird,Not Provided,5.0,outperform,85.0
+2016-09-23,Jefferies,Not Provided,3.0,hold,75.0
+2016-09-26,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-09-26,Oppenheimer & Co,12 month,5.0,outperform,85.0
+2016-09-27,Credit Suisse,Not Provided,5.0,outperform,84.0
+2016-09-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-09-29,Compass Point Research & Trading LLC,Not Provided,3.0,neutral,70.0
+2016-09-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-29,Stifel,12 month,3.0,hold,75.0
+2016-09-30,Barclays,Not Provided,3.0,equalweight,85.0
+2016-09-30,Baird,12 month,5.0,outperform,85.0
+2016-10-03,RBC Capital Markets,12 month,5.0,outperform,86.0
+2016-10-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,80.0
+2016-10-05,J.P. Morgan,18 month,5.0,overweight,90.0
+2016-10-05,Goldman Sachs,12 month,5.0,buy/attractive,89.0
+2016-10-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-05,Wedbush,12 month,5.0,outperform,85.0
+2016-10-05,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-10-05,Piper Jaffray,12 month,3.0,neutral,83.0
+2016-10-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-05,Cowen,12 month,5.0,outperform,92.0
+2016-10-05,Barclays,Not Provided,3.0,equalweight,85.0
+2016-10-05,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-10-05,Oppenheimer & Co,12 month,5.0,outperform,85.0
+2016-10-06,Evercore ISI,12 month,5.0,buy,95.0
+2016-10-06,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-10-06,Credit Suisse,Not Provided,5.0,outperform,84.0
+2016-10-06,SunTrust Robinson Humphrey,12 month,5.0,buy,93.0
+2016-10-06,Stifel,12 month,3.0,hold,76.0
+2016-10-06,Compass Point Research & Trading LLC,12 month,3.0,neutral,76.0
+2016-10-07,First Analysis Corp,12 month,5.0,overweight,90.0
+2016-10-07,Baird,Not Provided,5.0,outperform,88.0
+2016-10-07,Nomura,12 month,2.0,reduce,67.0
+2016-10-07,Stephens Inc,12 month,3.0,equalweight,84.0
+2016-10-07,Jefferies,12 month,3.0,hold,75.0
+2016-10-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-10,"Keefe, Bruyette & Woods",12 month,5.0,outperform,90.0
+2016-10-10,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-10-14,Credit Suisse,Not Provided,5.0,outperform,84.0
+2016-10-14,Baird,Not Provided,5.0,outperform,88.0
+2016-10-16,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-10-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-10-19,Compass Point Research & Trading LLC,Not Provided,3.0,neutral,76.0
+2016-10-19,Wedbush,Not Provided,5.0,outperform,85.0
+2016-10-19,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-10-23,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-10-28,Baird,Not Provided,5.0,outperform,88.0
+2016-10-31,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-11-01,First Analysis Corp,12 month,5.0,overweight,90.0
+2016-11-03,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-11-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-11-04,Baird,Not Provided,5.0,outperform,88.0
+2016-11-04,Stifel,12 month,5.0,buy,85.0
+2016-11-06,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-11-08,Cowen,12 month,5.0,outperform,89.0
+2016-11-11,SunTrust Robinson Humphrey,Not Provided,5.0,buy,93.0
+2016-11-14,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-11-14,Baird,Not Provided,5.0,outperform,88.0
+2016-11-15,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,90.0
+2016-11-15,Baird,Not Provided,5.0,outperform,88.0
+2016-11-15,Nomura Instinet,12 month,2.0,reduce,67.0
+2016-11-18,Stifel,12 month,5.0,buy,85.0
+2016-11-21,Morgan Stanley,12 month,3.0,Equalwt/In-Line,80.0
+2016-11-21,Compass Point Research & Trading LLC,Not Provided,5.0,buy,77.0
+2016-11-21,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-11-22,Baird,Not Provided,5.0,outperform,88.0
+2016-11-23,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-11-27,First Analysis Corp,12 month,5.0,overweight,90.0
+2016-11-28,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-11-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-12-01,Wedbush,12 month,5.0,outperform,85.0
+2016-12-05,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-12-06,Baird,Not Provided,5.0,outperform,88.0
+2016-12-07,Piper Jaffray,Not Provided,3.0,neutral,83.0
+2016-12-07,Baird,Not Provided,5.0,outperform,88.0
+2016-12-09,J.P. Morgan,12 month,5.0,overweight,84.0
+2016-12-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-12,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-12-13,Wedbush,Not Provided,5.0,outperform,85.0
+2016-12-15,Evercore ISI,Not Provided,5.0,buy,94.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-12-18,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,90.0
+2016-12-19,RBC Capital Markets,12 month,5.0,outperform,89.0
+2016-12-19,Guggenheim Securities,12 month,5.0,buy,82.0
+2016-12-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-12-20,Baird,Not Provided,5.0,outperform,88.0
+2016-12-22,Wedbush,Not Provided,5.0,outperform,85.0
+2016-12-22,Guggenheim Securities,12 month,5.0,buy,82.0
+2017-01-03,Stephens Inc,12 month,3.0,equalweight,84.0
+2017-01-04,Oppenheimer & Co,12 month,5.0,outperform,85.0
+2017-01-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-04,Baird,12 month,5.0,outperform,88.0
+2017-01-04,Guggenheim Securities,12 month,5.0,buy,82.0
+2017-01-05,Cowen,12 month,5.0,outperform,89.0
+2017-01-05,RBC Capital Markets,12 month,5.0,outperform,87.0
+2017-01-05,BMO Capital Markets,Not Provided,5.0,outperform,86.0
+2017-01-05,Credit Suisse,Not Provided,5.0,outperform,80.0
+2017-01-05,Stifel,12 month,5.0,buy,85.0
+2017-01-09,Jefferies,12 month,3.0,hold,75.0
+2017-01-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-09,Stephens Inc,12 month,3.0,equalweight,84.0
+2017-01-09,Nomura Instinet,12 month,2.0,reduce,67.0
+2017-01-09,Oppenheimer & Co,12 month,5.0,outperform,88.0
+2017-01-09,Piper Jaffray,12 month,3.0,neutral,84.0
+2017-01-09,Evercore ISI,12 month,5.0,buy,96.0
+2017-01-09,Credit Suisse,Not Provided,5.0,outperform,86.0
+2017-01-09,Wedbush,12 month,5.0,outperform,85.0
+2017-01-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-09,Stifel,12 month,5.0,buy,92.0
+2017-01-09,"Keefe, Bruyette & Woods",12 month,5.0,outperform,90.0
+2017-01-09,Susquehanna Financial,12 month,3.0,neutral,80.0
+2017-01-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-01-10,Barclays,Not Provided,3.0,equalweight,88.0
+2017-01-10,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2017-01-10,J.P. Morgan,12 month,5.0,overweight,92.0
+2017-01-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,83.0
+2017-01-10,Compass Point Research & Trading LLC,12 month,5.0,buy,90.0
+2017-01-10,SunTrust Robinson Humphrey,12 month,5.0,buy,93.0
+2017-01-10,BMO Capital Markets,Not Provided,5.0,outperform,89.0
+2017-01-10,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-01-11,First Analysis Corp,12 month,5.0,overweight,90.0
+2017-01-11,Guggenheim Securities,12 month,5.0,buy,88.0
+2017-01-11,Cowen,Not Provided,5.0,outperform,89.0
+2017-01-12,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-01-12,Baird,12 month,5.0,outperform,88.0
+2017-01-13,Jefferies,Not Provided,3.0,hold,76.0
+2017-01-13,Stephens Inc,12 month,3.0,equalweight,84.0
+2017-01-17,Nomura Instinet,12 month,2.0,reduce,70.0
+2017-01-18,Oppenheimer & Co,12 month,5.0,outperform,88.0
+2017-01-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-01-19,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-01-20,Baird,Not Provided,5.0,outperform,88.0
+2017-01-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-23,Oppenheimer & Co,Not Provided,5.0,outperform,88.0
+2017-01-24,Compass Point Research & Trading LLC,12 month,5.0,buy,90.0
+2017-01-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-27,Baird,Not Provided,5.0,outperform,88.0
+2017-01-27,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-01-27,Cantor Fitzgerald,12 month,5.0,overweight,93.0
+2017-01-29,Cantor Fitzgerald,Not Provided,5.0,overweight,93.0
+2017-02-03,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-02-03,Baird,Not Provided,5.0,outperform,88.0
+2017-02-09,Guggenheim Securities,Not Provided,5.0,buy,88.0
+2017-02-09,Nomura Instinet,12 month,2.0,reduce,70.0
+2017-02-10,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-02-14,Barclays,Not Provided,3.0,equalweight,88.0
+2017-02-15,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-02-17,Baird,Not Provided,5.0,outperform,88.0
+2017-02-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-02-22,Baird,Not Provided,5.0,outperform,88.0
+2017-02-27,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-03-03,Guggenheim Securities,12 month,5.0,buy,88.0
+2017-03-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-03,Baird,Not Provided,5.0,outperform,88.0
+2017-03-05,First Analysis Corp,12 month,5.0,overweight,90.0
+2017-03-05,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-03-06,Evercore ISI,12 month,5.0,outperform,103.0
+2017-03-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-08,Credit Suisse,Not Provided,5.0,outperform,86.0
+2017-03-09,Guggenheim Securities,Not Provided,5.0,buy,88.0
+2017-03-09,Cowen,12 month,5.0,outperform,89.0
+2017-03-10,Baird,12 month,5.0,outperform,88.0
+2017-03-13,Oppenheimer & Co,12 month,5.0,outperform,88.0
+2017-03-13,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-03-14,Nomura Instinet,12 month,2.0,reduce,70.0
+2017-03-14,J.P. Morgan,9 month,5.0,overweight,92.0
+2017-03-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-16,Cantor Fitzgerald,Not Provided,5.0,overweight,93.0
+2017-03-16,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2017-03-17,Baird,Not Provided,5.0,outperform,88.0
+2017-03-20,Piper Jaffray,12 month,3.0,neutral,85.0
+2017-03-20,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-03-21,SunTrust Robinson Humphrey,12 month,5.0,buy,93.0
+2017-03-22,Compass Point Research & Trading LLC,Not Provided,5.0,buy,90.0
+2017-03-24,Baird,Not Provided,5.0,outperform,88.0
+2017-03-24,Credit Suisse,Not Provided,5.0,outperform,86.0
+2017-03-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,85.0
+2017-03-27,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-03-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-30,Barclays,Not Provided,5.0,overweight,92.0
+2017-03-31,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-04-02,Baird,Not Provided,5.0,outperform,94.0
+2017-04-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-05,Susquehanna Financial,12 month,3.0,neutral,80.0
+2017-04-06,Guggenheim Securities,Not Provided,5.0,buy,88.0
+2017-04-07,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-07,Baird,Not Provided,5.0,outperform,94.0
+2017-04-10,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,90.0
+2017-04-10,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-04-10,Stephens Inc,12 month,3.0,equalweight,84.0
+2017-04-11,BMO Capital Markets,Not Provided,5.0,outperform,91.0
+2017-04-11,Oppenheimer & Co,12 month,5.0,outperform,88.0
+2017-04-12,Atlantic Equities LLP,12 month,5.0,overweight,91.0
+2017-04-12,Piper Jaffray,12 month,3.0,neutral,85.0
+2017-04-13,Baird,Not Provided,5.0,outperform,94.0
+2017-04-17,Wedbush,Not Provided,5.0,outperform,85.0
+2017-04-17,J.P. Morgan,9 month,5.0,overweight,92.0
+2017-04-18,Cowen,Not Provided,5.0,outperform,89.0
+2017-04-18,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-04-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-20,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-04-21,Piper Jaffray,12 month,3.0,neutral,85.0
+2017-04-21,Baird,12 month,5.0,outperform,94.0
+2017-04-24,Guggenheim Securities,Not Provided,5.0,buy,88.0
+2017-04-24,Cantor Fitzgerald,Not Provided,5.0,overweight,93.0
+2017-04-24,Credit Suisse,Not Provided,5.0,outperform,86.0
+2017-04-25,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-04-28,Baird,12 month,5.0,outperform,94.0
+2017-05-01,Cantor Fitzgerald,Not Provided,5.0,overweight,93.0
+2017-05-02,RBC Capital Markets,12 month,5.0,outperform,88.0
+2017-05-04,Barclays,Not Provided,5.0,overweight,96.0
+2017-05-04,Piper Jaffray,12 month,3.0,neutral,88.0
+2017-05-04,Susquehanna Financial,12 month,3.0,neutral,90.0
+2017-05-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-04,Oppenheimer & Co,12 month,5.0,outperform,92.0
+2017-05-04,Evercore ISI,12 month,5.0,outperform,105.0
+2017-05-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-04,"Keefe, Bruyette & Woods",12 month,5.0,outperform,100.0
+2017-05-04,SunTrust Robinson Humphrey,12 month,5.0,buy,100.0
+2017-05-04,Credit Suisse,Not Provided,5.0,outperform,91.0
+2017-05-04,Goldman Sachs,12 month,5.0,buy/attractive,94.0
+2017-05-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,90.0
+2017-05-04,BMO Capital Markets,Not Provided,5.0,outperform,93.0
+2017-05-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-04,J.P. Morgan,9 month,5.0,overweight,93.0
+2017-05-04,Stephens Inc,12 month,3.0,equalweight,84.0
+2017-05-04,Wedbush,12 month,5.0,outperform,85.0
+2017-05-04,Cowen,12 month,5.0,outperform,96.0
+2017-05-04,Nomura Instinet,12 month,2.0,reduce,70.0
+2017-05-05,Baird,Not Provided,5.0,outperform,98.0
+2017-05-05,Jefferies,Not Provided,3.0,hold,76.0
+2017-05-05,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2017-05-05,Compass Point Research & Trading LLC,Not Provided,5.0,buy,96.0
+2017-05-05,Atlantic Equities LLP,12 month,5.0,overweight,97.0
+2017-05-08,Cantor Fitzgerald,12 month,5.0,overweight,97.0
+2017-05-10,RBC Capital Markets,12 month,5.0,outperform,90.0
+2017-05-10,Guggenheim Securities,12 month,5.0,buy,101.0
+2017-05-11,Guggenheim Securities,Not Provided,5.0,buy,101.0
+2017-05-11,Stephens Inc,12 month,3.0,equalweight,91.0
+2017-05-12,Atlantic Equities LLP,12 month,5.0,overweight,97.0
+2017-05-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-16,RBC Capital Markets,12 month,5.0,outperform,90.0
+2017-05-17,Nomura Instinet,12 month,2.0,reduce,79.0
+2017-05-17,Baird,Not Provided,5.0,outperform,98.0
+2017-05-18,RBC Capital Markets,12 month,5.0,outperform,90.0
+2017-05-19,Baird,Not Provided,5.0,outperform,98.0
+2017-05-19,RBC Capital Markets,12 month,5.0,outperform,90.0
+2017-05-21,RBC Capital Markets,12 month,5.0,outperform,90.0
+2017-05-22,Wedbush,Not Provided,5.0,outperform,85.0
+2017-05-23,Cowen,Not Provided,5.0,outperform,96.0
+2017-05-23,RBC Capital Markets,12 month,5.0,outperform,90.0

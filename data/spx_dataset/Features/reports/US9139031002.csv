@@ -1,0 +1,622 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2008-12-17,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2014-07-24,Credit Suisse,Not Provided,5.0,outperform,118.0
+2014-07-24,Mizuho Securities USA Inc,12 month,5.0,buy,115.0
+2014-07-25,KeyBanc Capital Markets,12 month,5.0,buy,114.0
+2014-07-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-08-11,Barclays,Not Provided,5.0,overweight,121.0
+2014-08-19,UBS,12 month,5.0,buy,125.0
+2014-08-19,Avondale Partners LLC,12 month,4.0,market outperform,127.0
+2014-09-08,Susquehanna Financial,12 month,4.0,Positive,120.0
+2014-09-10,BMO Capital Markets,Not Provided,3.0,market perform,105.0
+2014-09-11,Goldman Sachs,12 month,5.0,buy/attractive,133.0
+2014-09-12,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-09-15,Raymond James,12 month,5.0,outperform,90.0
+2014-09-15,RBC Capital Markets,12 month,5.0,outperform,131.0
+2014-09-15,J.P. Morgan,12 month,5.0,overweight,118.0
+2014-09-22,Baird,Not Provided,5.0,outperform,121.0
+2014-09-23,Leerink Partners LLC,12 month,5.0,outperform,135.0
+2014-09-26,Susquehanna Financial,12 month,4.0,Positive,120.0
+2014-09-26,Credit Suisse,Not Provided,5.0,outperform,118.0
+2014-09-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-09-29,BMO Capital Markets,Not Provided,5.0,outperform,123.0
+2014-10-01,Baird,12 month,5.0,outperform,121.0
+2014-10-01,Leerink Partners LLC,12 month,5.0,outperform,135.0
+2014-10-03,Baird,Not Provided,5.0,outperform,121.0
+2014-10-07,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-10-07,Susquehanna Financial,12 month,4.0,Positive,120.0
+2014-10-10,Baird,Not Provided,5.0,outperform,121.0
+2014-10-14,Leerink Partners LLC,12 month,5.0,outperform,135.0
+2014-10-15,Susquehanna Financial,12 month,4.0,Positive,128.0
+2014-10-19,Leerink Partners LLC,12 month,5.0,outperform,135.0
+2014-10-20,RBC Capital Markets,12 month,5.0,outperform,131.0
+2014-10-20,Avondale Partners LLC,Not Provided,4.0,market outperform,127.0
+2014-10-20,Baird,Not Provided,5.0,outperform,127.0
+2014-10-21,Mizuho Securities USA Inc,Not Provided,5.0,buy,115.0
+2014-10-22,J.P. Morgan,12 month,5.0,overweight,118.0
+2014-10-27,Credit Suisse,Not Provided,5.0,outperform,118.0
+2014-10-27,Avondale Partners LLC,12 month,4.0,market outperform,127.0
+2014-10-27,Mizuho Securities USA Inc,12 month,5.0,buy,120.0
+2014-10-28,Susquehanna Financial,12 month,4.0,Positive,128.0
+2014-10-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-10-28,Raymond James,12 month,5.0,outperform,120.0
+2014-10-28,KeyBanc Capital Markets,12 month,5.0,buy,114.0
+2014-10-29,Barclays,Not Provided,5.0,overweight,123.0
+2014-10-29,Leerink Partners LLC,12 month,5.0,outperform,135.0
+2014-10-29,RBC Capital Markets,12 month,5.0,outperform,131.0
+2014-10-29,BMO Capital Markets,Not Provided,5.0,outperform,123.0
+2014-10-29,Baird,12 month,5.0,outperform,129.0
+2014-10-31,Baird,Not Provided,5.0,outperform,129.0
+2014-10-31,BMO Capital Markets,Not Provided,5.0,outperform,123.0
+2014-11-05,Leerink Partners LLC,12 month,5.0,outperform,135.0
+2014-11-07,RBC Capital Markets,12 month,5.0,outperform,131.0
+2014-11-10,Baird,Not Provided,5.0,outperform,127.0
+2014-11-11,Leerink Partners LLC,12 month,5.0,outperform,135.0
+2014-11-12,Barclays,Not Provided,5.0,overweight,123.0
+2014-11-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-11-12,Avondale Partners LLC,12 month,4.0,market outperform,127.0
+2014-11-14,Baird,Not Provided,5.0,outperform,129.0
+2014-11-14,Leerink Partners LLC,12 month,5.0,outperform,135.0
+2014-11-20,BMO Capital Markets,Not Provided,5.0,outperform,123.0
+2014-11-20,Leerink Partners LLC,12 month,5.0,outperform,135.0
+2014-11-21,Baird,Not Provided,5.0,outperform,129.0
+2014-12-01,J.P. Morgan,12 month,5.0,overweight,118.0
+2014-12-04,Susquehanna Financial,12 month,4.0,Positive,128.0
+2014-12-09,Baird,Not Provided,5.0,outperform,129.0
+2014-12-10,Susquehanna Financial,12 month,4.0,Positive,128.0
+2014-12-15,Susquehanna Financial,12 month,4.0,Positive,128.0
+2014-12-16,Leerink Partners LLC,12 month,5.0,outperform,124.0
+2014-12-17,Sterne Agee CRT,12 month,3.0,neutral,110.0
+2014-12-17,Baird,Not Provided,5.0,outperform,129.0
+2014-12-19,Leerink Partners LLC,12 month,5.0,outperform,124.0
+2014-12-26,Baird,Not Provided,5.0,outperform,129.0
+2015-01-02,Baird,Not Provided,5.0,outperform,129.0
+2015-01-07,J.P. Morgan,12 month,5.0,overweight,126.0
+2015-01-08,Barclays,Not Provided,3.0,equalweight,119.0
+2015-01-08,Credit Suisse,Not Provided,5.0,outperform,124.0
+2015-01-12,Baird,Not Provided,5.0,outperform,129.0
+2015-01-15,Leerink Partners LLC,12 month,5.0,outperform,124.0
+2015-01-16,Susquehanna Financial,12 month,4.0,Positive,122.0
+2015-01-20,Baird,Not Provided,5.0,outperform,129.0
+2015-01-26,Baird,12 month,5.0,outperform,129.0
+2015-01-27,Leerink Partners LLC,12 month,5.0,outperform,124.0
+2015-01-27,Mizuho Securities USA Inc,12 month,5.0,buy,120.0
+2015-01-29,Avondale Partners LLC,Not Provided,4.0,market outperform,127.0
+2015-02-01,KeyBanc Capital Markets,Not Provided,5.0,buy,114.0
+2015-02-02,Baird,12 month,5.0,outperform,129.0
+2015-02-02,Leerink Partners LLC,12 month,5.0,outperform,124.0
+2015-02-02,J.P. Morgan,Not Provided,5.0,overweight,126.0
+2015-02-03,BMO Capital Markets,Not Provided,5.0,outperform,123.0
+2015-02-06,Leerink Partners LLC,12 month,5.0,outperform,124.0
+2015-02-09,Baird,Not Provided,5.0,outperform,129.0
+2015-02-10,Susquehanna Financial,12 month,4.0,Positive,122.0
+2015-02-18,Baird,Not Provided,5.0,outperform,129.0
+2015-02-18,Leerink Partners LLC,12 month,5.0,outperform,124.0
+2015-02-22,BMO Capital Markets,Not Provided,5.0,outperform,123.0
+2015-02-23,Baird,Not Provided,5.0,outperform,129.0
+2015-02-27,Avondale Partners LLC,12 month,4.0,market outperform,130.0
+2015-02-27,Raymond James,12 month,5.0,outperform,125.0
+2015-02-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-02-27,Credit Suisse,Not Provided,5.0,outperform,126.0
+2015-02-27,Sterne Agee CRT,12 month,3.0,neutral,110.0
+2015-02-27,Susquehanna Financial,12 month,4.0,Positive,132.0
+2015-03-01,KeyBanc Capital Markets,Not Provided,5.0,overweight,128.0
+2015-03-02,Baird,12 month,5.0,outperform,129.0
+2015-03-03,BMO Capital Markets,Not Provided,5.0,outperform,126.0
+2015-03-03,Leerink Partners LLC,12 month,5.0,outperform,130.0
+2015-03-03,Barclays,Not Provided,3.0,equalweight,119.0
+2015-03-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-03-03,RBC Capital Markets,12 month,5.0,outperform,131.0
+2015-03-04,Mizuho Securities USA Inc,12 month,5.0,buy,125.0
+2015-03-09,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-03-09,Baird,Not Provided,5.0,outperform,129.0
+2015-03-15,Mizuho Securities USA Inc,Not Provided,5.0,buy,125.0
+2015-03-16,Leerink Partners LLC,12 month,5.0,outperform,130.0
+2015-03-16,Susquehanna Financial,12 month,4.0,Positive,132.0
+2015-03-16,Sterne Agee CRT,12 month,3.0,neutral,136.0
+2015-03-16,Baird,Not Provided,5.0,outperform,129.0
+2015-03-19,BMO Capital Markets,Not Provided,5.0,outperform,126.0
+2015-03-20,Leerink Partners LLC,12 month,5.0,outperform,130.0
+2015-03-22,Susquehanna Financial,12 month,4.0,Positive,132.0
+2015-03-23,Baird,Not Provided,5.0,outperform,129.0
+2015-03-23,Mizuho Securities USA Inc,Not Provided,5.0,buy,125.0
+2015-03-25,UBS,12 month,5.0,buy,139.0
+2015-03-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-03-30,Baird,Not Provided,5.0,outperform,129.0
+2015-04-01,Avondale Partners LLC,Not Provided,4.0,market outperform,130.0
+2015-04-01,Sterne Agee CRT,12 month,1.0,underperform,98.0
+2015-04-01,Mizuho Securities USA Inc,12 month,5.0,buy,136.0
+2015-04-01,Leerink Partners LLC,12 month,5.0,outperform,130.0
+2015-04-05,BMO Capital Markets,Not Provided,5.0,outperform,126.0
+2015-04-08,Baird,Not Provided,5.0,outperform,129.0
+2015-04-10,Barclays,Not Provided,3.0,equalweight,119.0
+2015-04-13,Baird,Not Provided,5.0,outperform,129.0
+2015-04-20,Baird,Not Provided,5.0,outperform,129.0
+2015-04-20,Leerink Partners LLC,12 month,5.0,outperform,130.0
+2015-04-23,Susquehanna Financial,12 month,4.0,Positive,141.0
+2015-04-27,Sterne Agee CRT,12 month,1.0,underperform,98.0
+2015-04-27,Credit Suisse,Not Provided,5.0,outperform,134.0
+2015-04-27,Avondale Partners LLC,Not Provided,4.0,market outperform,130.0
+2015-04-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-04-28,Susquehanna Financial,12 month,4.0,Positive,141.0
+2015-04-28,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-04-28,KeyBanc Capital Markets,Not Provided,5.0,overweight,129.0
+2015-04-28,RBC Capital Markets,12 month,5.0,outperform,135.0
+2015-04-28,Mizuho Securities USA Inc,12 month,5.0,buy,140.0
+2015-04-28,Raymond James,12 month,5.0,outperform,135.0
+2015-04-29,Leerink Partners LLC,12 month,5.0,outperform,140.0
+2015-04-29,BMO Capital Markets,Not Provided,5.0,outperform,132.0
+2015-04-29,Barclays,Not Provided,3.0,equalweight,128.0
+2015-04-29,Baird,Not Provided,5.0,outperform,140.0
+2015-05-06,Mizuho Securities USA Inc,12 month,5.0,buy,140.0
+2015-05-08,Baird,Not Provided,5.0,outperform,140.0
+2015-05-08,Avondale Partners LLC,12 month,4.0,market outperform,133.0
+2015-05-10,Susquehanna Financial,12 month,4.0,Positive,141.0
+2015-05-11,BMO Capital Markets,Not Provided,5.0,outperform,132.0
+2015-05-12,Sterne Agee CRT,12 month,1.0,underperform,116.0
+2015-05-12,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-05-14,Barclays,Not Provided,3.0,equalweight,128.0
+2015-05-18,Susquehanna Financial,12 month,4.0,Positive,141.0
+2015-05-20,Baird,12 month,5.0,outperform,140.0
+2015-05-27,Susquehanna Financial,12 month,4.0,Positive,141.0
+2015-05-27,Leerink Partners LLC,12 month,5.0,outperform,140.0
+2015-05-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-05-29,Baird,Not Provided,5.0,outperform,140.0
+2015-06-02,Leerink Partners LLC,12 month,5.0,outperform,150.0
+2015-06-05,Goldman Sachs,12 month,3.0,neutral/attractive,140.0
+2015-06-05,Baird,Not Provided,5.0,outperform,140.0
+2015-06-09,Wedbush,12 month,3.0,neutral,141.0
+2015-06-12,Baird,Not Provided,5.0,outperform,140.0
+2015-06-19,Baird,Not Provided,5.0,outperform,140.0
+2015-06-25,BMO Capital Markets,Not Provided,5.0,outperform,132.0
+2015-06-25,Goldman Sachs,12 month,3.0,neutral/attractive,150.0
+2015-06-25,RBC Capital Markets,12 month,5.0,outperform,135.0
+2015-06-26,Baird,Not Provided,5.0,outperform,140.0
+2015-06-26,Avondale Partners LLC,12 month,4.0,market outperform,154.0
+2015-06-26,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2015-06-26,UBS,12 month,5.0,buy,152.0
+2015-06-29,BMO Capital Markets,Not Provided,5.0,outperform,158.0
+2015-06-30,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-07-01,Mizuho Securities USA Inc,12 month,5.0,buy,162.0
+2015-07-01,Wedbush,Not Provided,3.0,neutral,152.0
+2015-07-02,Baird,Not Provided,5.0,outperform,140.0
+2015-07-09,Susquehanna Financial,12 month,4.0,Positive,141.0
+2015-07-13,Baird,Not Provided,5.0,outperform,140.0
+2015-07-15,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2015-07-16,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-07-17,Baird,Not Provided,5.0,outperform,158.0
+2015-07-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-07-21,BMO Capital Markets,Not Provided,5.0,outperform,158.0
+2015-07-22,Susquehanna Financial,12 month,4.0,Positive,161.0
+2015-07-24,Baird,Not Provided,5.0,outperform,158.0
+2015-07-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-07-30,UBS,12 month,5.0,buy,166.0
+2015-07-30,Wedbush,12 month,3.0,neutral,152.0
+2015-07-30,Mizuho Securities USA Inc,12 month,5.0,buy,166.0
+2015-07-31,Raymond James,12 month,5.0,outperform,160.0
+2015-07-31,Susquehanna Financial,12 month,4.0,Positive,167.0
+2015-07-31,Avondale Partners LLC,12 month,4.0,market outperform,154.0
+2015-07-31,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-07-31,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-07-31,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-08-02,BMO Capital Markets,Not Provided,5.0,outperform,161.0
+2015-08-03,Baird,Not Provided,5.0,outperform,165.0
+2015-08-03,Barclays,Not Provided,3.0,equalweight,156.0
+2015-08-03,Leerink Partners LLC,12 month,5.0,outperform,165.0
+2015-08-03,Goldman Sachs,12 month,3.0,neutral/attractive,162.0
+2015-08-03,RBC Capital Markets,12 month,5.0,outperform,161.0
+2015-08-06,Wedbush,12 month,3.0,neutral,152.0
+2015-08-07,BMO Capital Markets,Not Provided,5.0,outperform,161.0
+2015-08-07,Avondale Partners LLC,12 month,4.0,market outperform,159.0
+2015-08-10,Baird,12 month,5.0,outperform,165.0
+2015-08-10,Sterne Agee CRT,12 month,1.0,underperform,144.0
+2015-08-11,Mizuho Securities USA Inc,12 month,5.0,buy,166.0
+2015-08-11,Barclays,Not Provided,3.0,equalweight,156.0
+2015-08-14,Baird,Not Provided,5.0,outperform,165.0
+2015-08-19,Avondale Partners LLC,18 month,4.0,market outperform,159.0
+2015-08-19,RBC Capital Markets,12 month,5.0,outperform,161.0
+2015-08-20,BMO Capital Markets,Not Provided,5.0,outperform,161.0
+2015-08-21,Sterne Agee CRT,Not Provided,1.0,underperform,144.0
+2015-08-21,Baird,Not Provided,5.0,outperform,165.0
+2015-08-31,Baird,Not Provided,5.0,outperform,165.0
+2015-09-04,Baird,Not Provided,5.0,outperform,165.0
+2015-09-14,Baird,Not Provided,5.0,outperform,165.0
+2015-09-16,J.P. Morgan,18 month,5.0,overweight,170.0
+2015-09-18,Avondale Partners LLC,12 month,4.0,market outperform,159.0
+2015-09-18,Leerink Partners LLC,12 month,5.0,outperform,165.0
+2015-09-18,Mizuho Securities USA Inc,12 month,5.0,buy,166.0
+2015-09-18,Susquehanna Financial,12 month,4.0,Positive,167.0
+2015-09-18,RBC Capital Markets,12 month,5.0,outperform,161.0
+2015-09-21,Baird,Not Provided,5.0,outperform,165.0
+2015-09-22,BMO Capital Markets,Not Provided,5.0,outperform,161.0
+2015-10-01,KeyBanc Capital Markets,12 month,5.0,overweight,145.0
+2015-10-02,Baird,Not Provided,5.0,outperform,165.0
+2015-10-05,Wedbush,Not Provided,3.0,neutral,152.0
+2015-10-08,Barclays,Not Provided,3.0,equalweight,145.0
+2015-10-09,Avondale Partners LLC,Not Provided,4.0,market outperform,159.0
+2015-10-12,Leerink Partners LLC,12 month,5.0,outperform,165.0
+2015-10-12,Baird,Not Provided,5.0,outperform,162.0
+2015-10-16,Mizuho Securities USA Inc,12 month,5.0,buy,166.0
+2015-10-18,Susquehanna Financial,12 month,4.0,Positive,154.0
+2015-10-19,Leerink Partners LLC,12 month,5.0,outperform,165.0
+2015-10-20,Baird,Not Provided,5.0,outperform,162.0
+2015-10-23,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-10-23,Goldman Sachs,12 month,3.0,neutral/attractive,140.0
+2015-10-26,BMO Capital Markets,Not Provided,5.0,outperform,161.0
+2015-10-27,Baird,12 month,5.0,outperform,162.0
+2015-10-27,Mizuho Securities USA Inc,12 month,5.0,buy,166.0
+2015-10-27,Sterne Agee CRT,12 month,1.0,underperform,144.0
+2015-10-27,J.P. Morgan,12 month,5.0,overweight,170.0
+2015-10-27,UBS,12 month,5.0,buy,145.0
+2015-10-27,Avondale Partners LLC,Not Provided,4.0,market outperform,159.0
+2015-10-27,Leerink Partners LLC,12 month,5.0,outperform,165.0
+2015-10-27,KeyBanc Capital Markets,12 month,5.0,overweight,145.0
+2015-10-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-10-27,Susquehanna Financial,12 month,4.0,Positive,154.0
+2015-10-28,KeyBanc Capital Markets,12 month,5.0,overweight,145.0
+2015-10-28,Avondale Partners LLC,12 month,4.0,market outperform,159.0
+2015-10-28,Susquehanna Financial,12 month,4.0,Positive,154.0
+2015-10-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2015-10-28,J.P. Morgan,12 month,5.0,overweight,155.0
+2015-10-29,Raymond James,12 month,5.0,outperform,145.0
+2015-10-29,Wedbush,12 month,3.0,neutral,152.0
+2015-10-29,RBC Capital Markets,12 month,5.0,outperform,150.0
+2015-10-29,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2015-10-30,Barclays,Not Provided,3.0,equalweight,135.0
+2015-10-30,BMO Capital Markets,Not Provided,5.0,outperform,161.0
+2015-11-02,Baird,Not Provided,5.0,outperform,132.0
+2015-11-04,RBC Capital Markets,12 month,5.0,outperform,150.0
+2015-11-06,Baird,Not Provided,5.0,outperform,132.0
+2015-11-10,Susquehanna Financial,12 month,4.0,Positive,154.0
+2015-11-12,Sterne Agee CRT,Not Provided,1.0,underperform,144.0
+2015-11-13,Baird,12 month,5.0,outperform,132.0
+2015-11-13,Barclays,Not Provided,3.0,equalweight,135.0
+2015-11-17,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2015-11-17,J.P. Morgan,12 month,5.0,overweight,155.0
+2015-11-17,Avondale Partners LLC,12 month,4.0,market outperform,146.0
+2015-11-20,RBC Capital Markets,12 month,5.0,outperform,150.0
+2015-11-20,Goldman Sachs,12 month,3.0,neutral/attractive,132.0
+2015-11-23,Baird,12 month,5.0,outperform,132.0
+2015-11-29,BMO Capital Markets,Not Provided,5.0,outperform,161.0
+2015-12-02,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2015-12-07,Baird,Not Provided,5.0,outperform,132.0
+2015-12-09,BMO Capital Markets,Not Provided,5.0,outperform,161.0
+2015-12-16,Baird,12 month,5.0,outperform,132.0
+2015-12-16,Credit Suisse,Not Provided,3.0,neutral,129.0
+2015-12-17,Goldman Sachs,12 month,3.0,neutral/neutral,132.0
+2015-12-18,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2015-12-21,J.P. Morgan,12 month,5.0,overweight,155.0
+2015-12-22,Credit Suisse,Not Provided,3.0,neutral,129.0
+2015-12-23,Baird,Not Provided,5.0,outperform,132.0
+2015-12-30,Credit Suisse,Not Provided,3.0,neutral,129.0
+2015-12-31,BMO Capital Markets,Not Provided,5.0,outperform,161.0
+2015-12-31,Susquehanna Financial,12 month,4.0,Positive,154.0
+2015-12-31,Baird,Not Provided,5.0,outperform,132.0
+2016-01-06,Raymond James,18 month,5.0,outperform,145.0
+2016-01-06,Barclays,Not Provided,3.0,equalweight,130.0
+2016-01-07,Baird,Not Provided,5.0,outperform,-0.0
+2016-01-07,Credit Suisse,Not Provided,3.0,neutral,129.0
+2016-01-07,Wedbush,Not Provided,3.0,neutral,141.0
+2016-01-07,Susquehanna Financial,12 month,4.0,Positive,154.0
+2016-01-08,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2016-01-12,Susquehanna Financial,12 month,4.0,Positive,154.0
+2016-01-13,BMO Capital Markets,Not Provided,5.0,outperform,161.0
+2016-01-13,Credit Suisse,Not Provided,3.0,neutral,129.0
+2016-01-14,Avondale Partners LLC,12 month,4.0,market outperform,146.0
+2016-01-14,Baird,Not Provided,5.0,outperform,132.0
+2016-01-19,Barclays,Not Provided,3.0,equalweight,130.0
+2016-01-20,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2016-01-20,Credit Suisse,Not Provided,3.0,neutral,129.0
+2016-01-20,RBC Capital Markets,12 month,5.0,outperform,150.0
+2016-01-22,Mizuho Securities USA Inc,12 month,5.0,buy,140.0
+2016-01-24,BMO Capital Markets,Not Provided,5.0,outperform,161.0
+2016-01-25,Baird,Not Provided,5.0,outperform,132.0
+2016-02-01,Baird,Not Provided,5.0,outperform,132.0
+2016-02-08,Baird,Not Provided,5.0,outperform,132.0
+2016-02-08,RBC Capital Markets,12 month,5.0,outperform,150.0
+2016-02-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-02-12,Baird,Not Provided,5.0,outperform,132.0
+2016-02-12,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2016-02-19,Avondale Partners LLC,12 month,4.0,market outperform,146.0
+2016-02-19,Mizuho Securities USA Inc,Not Provided,5.0,buy,140.0
+2016-02-22,Baird,Not Provided,5.0,outperform,132.0
+2016-02-25,Sterne Agee CRT,12 month,1.0,underperform,144.0
+2016-02-25,Wedbush,12 month,3.0,neutral,127.0
+2016-02-26,Credit Suisse,Not Provided,3.0,neutral,129.0
+2016-02-26,KeyBanc Capital Markets,12 month,5.0,overweight,145.0
+2016-02-26,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-02-28,Susquehanna Financial,12 month,4.0,Positive,136.0
+2016-02-29,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-02-29,BMO Capital Markets,Not Provided,5.0,outperform,148.0
+2016-02-29,Barclays,Not Provided,3.0,equalweight,130.0
+2016-02-29,RBC Capital Markets,12 month,5.0,outperform,150.0
+2016-02-29,Baird,Not Provided,5.0,outperform,131.0
+2016-02-29,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2016-02-29,J.P. Morgan,12 month,5.0,overweight,138.0
+2016-02-29,Raymond James,12 month,5.0,outperform,135.0
+2016-03-01,Avondale Partners LLC,12 month,4.0,market outperform,133.0
+2016-03-01,Mizuho Securities USA Inc,Not Provided,5.0,buy,140.0
+2016-03-04,Barclays,Not Provided,3.0,equalweight,130.0
+2016-03-07,Baird,Not Provided,5.0,outperform,131.0
+2016-03-08,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-03-10,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-03-10,Credit Suisse,Not Provided,3.0,neutral,129.0
+2016-03-14,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2016-03-14,Baird,Not Provided,5.0,outperform,131.0
+2016-03-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-03-17,Susquehanna Financial,12 month,4.0,Positive,136.0
+2016-03-21,KeyBanc Capital Markets,12 month,5.0,overweight,145.0
+2016-03-21,Baird,Not Provided,5.0,outperform,131.0
+2016-03-23,BMO Capital Markets,Not Provided,5.0,outperform,148.0
+2016-03-28,Baird,12 month,5.0,outperform,131.0
+2016-03-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-04,Baird,Not Provided,5.0,outperform,131.0
+2016-04-07,Wedbush,Not Provided,3.0,neutral,136.0
+2016-04-11,Baird,12 month,5.0,outperform,131.0
+2016-04-12,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2016-04-13,Susquehanna Financial,12 month,4.0,Positive,141.0
+2016-04-14,Raymond James,12 month,5.0,outperform,135.0
+2016-04-18,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2016-04-18,RBC Capital Markets,12 month,5.0,outperform,150.0
+2016-04-19,Baird,Not Provided,5.0,outperform,131.0
+2016-04-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-27,Avondale Partners LLC,18 month,4.0,market outperform,150.0
+2016-04-27,Susquehanna Financial,12 month,4.0,Positive,141.0
+2016-04-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-04-27,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-04-27,Mizuho Securities USA Inc,12 month,5.0,buy,150.0
+2016-04-27,Barclays,Not Provided,3.0,equalweight,130.0
+2016-04-27,KeyBanc Capital Markets,12 month,5.0,overweight,145.0
+2016-04-27,Baird,Not Provided,5.0,outperform,131.0
+2016-04-27,J.P. Morgan,12 month,5.0,overweight,138.0
+2016-04-27,Credit Suisse,Not Provided,3.0,neutral,129.0
+2016-04-27,RBC Capital Markets,12 month,5.0,outperform,150.0
+2016-04-27,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2016-04-28,RBC Capital Markets,12 month,5.0,outperform,157.0
+2016-04-28,Wedbush,12 month,3.0,neutral,136.0
+2016-04-28,KeyBanc Capital Markets,12 month,5.0,overweight,164.0
+2016-04-29,Barclays,Not Provided,3.0,equalweight,150.0
+2016-04-29,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2016-04-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-29,Credit Suisse,Not Provided,3.0,neutral,140.0
+2016-05-02,J.P. Morgan,9 month,5.0,overweight,138.0
+2016-05-02,Raymond James,12 month,5.0,outperform,145.0
+2016-05-02,Baird,Not Provided,5.0,outperform,150.0
+2016-05-03,Susquehanna Financial,12 month,4.0,Positive,155.0
+2016-05-09,Avondale Partners LLC,18 month,4.0,market outperform,150.0
+2016-05-10,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-05-12,RBC Capital Markets,12 month,5.0,outperform,157.0
+2016-05-13,Baird,Not Provided,5.0,outperform,150.0
+2016-05-20,Barclays,Not Provided,3.0,equalweight,150.0
+2016-05-24,Baird,12 month,5.0,outperform,150.0
+2016-06-01,Baird,Not Provided,5.0,outperform,150.0
+2016-06-02,Susquehanna Financial,12 month,4.0,Positive,155.0
+2016-06-06,Baird,12 month,5.0,outperform,150.0
+2016-06-06,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2016-06-06,Susquehanna Financial,12 month,4.0,Positive,155.0
+2016-06-13,Baird,Not Provided,5.0,outperform,150.0
+2016-06-15,Mizuho Securities USA Inc,Not Provided,5.0,buy,150.0
+2016-06-17,RBC Capital Markets,12 month,5.0,outperform,157.0
+2016-06-23,Baird,Not Provided,5.0,outperform,150.0
+2016-06-24,RBC Capital Markets,12 month,5.0,outperform,157.0
+2016-06-24,Avondale Partners LLC,Not Provided,4.0,market outperform,150.0
+2016-06-27,Baird,Not Provided,5.0,outperform,150.0
+2016-06-29,Leerink Partners LLC,12 month,5.0,outperform,155.0
+2016-07-07,RBC Capital Markets,12 month,5.0,outperform,157.0
+2016-07-08,Baird,Not Provided,5.0,outperform,150.0
+2016-07-15,Baird,Not Provided,5.0,outperform,150.0
+2016-07-18,Wedbush,Not Provided,3.0,neutral,148.0
+2016-07-18,Credit Suisse,Not Provided,3.0,neutral,140.0
+2016-07-20,Susquehanna Financial,12 month,4.0,Positive,155.0
+2016-07-22,Baird,Not Provided,5.0,outperform,150.0
+2016-07-26,Mizuho Securities USA Inc,Not Provided,5.0,buy,150.0
+2016-07-26,Avondale Partners LLC,12 month,4.0,market outperform,150.0
+2016-07-26,Goldman Sachs,12 month,3.0,neutral/neutral,150.0
+2016-07-26,Wedbush,12 month,3.0,neutral,148.0
+2016-07-27,KeyBanc Capital Markets,12 month,5.0,overweight,157.0
+2016-07-27,Credit Suisse,Not Provided,3.0,neutral,135.0
+2016-07-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-27,Susquehanna Financial,12 month,4.0,Positive,155.0
+2016-07-28,J.P. Morgan,18 month,5.0,overweight,150.0
+2016-07-28,RBC Capital Markets,12 month,5.0,outperform,161.0
+2016-07-28,Barclays,Not Provided,3.0,equalweight,147.0
+2016-07-28,Raymond James,12 month,5.0,outperform,145.0
+2016-07-28,Leerink Partners LLC,12 month,5.0,outperform,150.0
+2016-07-29,Baird,Not Provided,5.0,outperform,150.0
+2016-08-01,Barclays,Not Provided,3.0,equalweight,147.0
+2016-08-03,RBC Capital Markets,12 month,5.0,outperform,161.0
+2016-08-04,Baird,Not Provided,5.0,outperform,150.0
+2016-08-05,Avondale Partners LLC,12 month,4.0,market outperform,150.0
+2016-08-15,Mizuho Securities USA Inc,12 month,5.0,buy,150.0
+2016-08-15,Baird,Not Provided,5.0,outperform,150.0
+2016-08-18,Barclays,Not Provided,3.0,equalweight,147.0
+2016-08-18,Susquehanna Financial,12 month,4.0,Positive,155.0
+2016-08-25,Leerink Partners LLC,12 month,5.0,outperform,150.0
+2016-08-25,Baird,12 month,5.0,outperform,150.0
+2016-08-30,Credit Suisse,Not Provided,3.0,neutral,130.0
+2016-08-31,Wedbush,Not Provided,3.0,neutral,148.0
+2016-09-01,Baird,Not Provided,5.0,outperform,150.0
+2016-09-07,Baird,12 month,5.0,outperform,150.0
+2016-09-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-12,RBC Capital Markets,12 month,5.0,outperform,161.0
+2016-09-19,Baird,Not Provided,5.0,outperform,150.0
+2016-09-23,Baird,Not Provided,5.0,outperform,150.0
+2016-09-29,Goldman Sachs,12 month,3.0,neutral/neutral,142.0
+2016-10-03,Baird,12 month,5.0,outperform,150.0
+2016-10-07,RBC Capital Markets,12 month,5.0,outperform,161.0
+2016-10-07,Baird,12 month,5.0,outperform,150.0
+2016-10-14,Credit Suisse,Not Provided,3.0,neutral,130.0
+2016-10-14,Baird,Not Provided,5.0,outperform,150.0
+2016-10-17,J.P. Morgan,Not Provided,5.0,overweight,150.0
+2016-10-21,Baird,Not Provided,5.0,outperform,150.0
+2016-10-24,Susquehanna Financial,12 month,4.0,Positive,155.0
+2016-10-24,Wolfe Research,12 month,3.0,peerperform,133.0
+2016-10-24,Avondale Partners LLC,Not Provided,4.0,market outperform,150.0
+2016-10-26,Mizuho Securities USA Inc,12 month,5.0,buy,142.0
+2016-10-26,Avondale Partners LLC,12 month,4.0,market outperform,150.0
+2016-10-26,J.P. Morgan,18 month,5.0,overweight,137.0
+2016-10-27,KeyBanc Capital Markets,12 month,5.0,overweight,153.0
+2016-10-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-27,RBC Capital Markets,12 month,5.0,outperform,157.0
+2016-10-27,Credit Suisse,Not Provided,3.0,neutral,130.0
+2016-10-27,UBS,12 month,5.0,buy,140.0
+2016-10-27,Leerink Partners LLC,12 month,5.0,outperform,145.0
+2016-10-28,Susquehanna Financial,12 month,4.0,Positive,155.0
+2016-10-28,Barclays,Not Provided,3.0,equalweight,147.0
+2016-10-31,Raymond James,12 month,5.0,outperform,145.0
+2016-10-31,Wolfe Research,12 month,3.0,peerperform,130.0
+2016-10-31,Baird,Not Provided,5.0,outperform,132.0
+2016-11-03,Leerink Partners LLC,12 month,5.0,outperform,145.0
+2016-11-04,Baird,Not Provided,5.0,outperform,132.0
+2016-11-09,Wolfe Research,12 month,3.0,peerperform,130.0
+2016-11-09,RBC Capital Markets,12 month,5.0,outperform,157.0
+2016-11-10,Goldman Sachs,12 month,3.0,neutral/neutral,125.0
+2016-11-10,Raymond James,12 month,5.0,outperform,145.0
+2016-11-10,Avondale Partners LLC,12 month,3.0,market perform,131.0
+2016-11-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-11,Credit Suisse,Not Provided,3.0,neutral,125.0
+2016-11-11,Mizuho Securities USA Inc,Not Provided,3.0,neutral,133.0
+2016-11-14,Baird,Not Provided,5.0,outperform,132.0
+2016-11-14,Barclays,Not Provided,3.0,equalweight,147.0
+2016-11-14,Leerink Partners LLC,Not Provided,5.0,outperform,142.0
+2016-11-16,Mizuho Securities USA Inc,Not Provided,3.0,neutral,133.0
+2016-11-16,Wolfe Research,12 month,3.0,peerperform,130.0
+2016-11-21,RBC Capital Markets,12 month,5.0,outperform,157.0
+2016-11-21,Baird,Not Provided,5.0,outperform,132.0
+2016-11-22,Leerink Partners LLC,Not Provided,5.0,outperform,142.0
+2016-11-22,Wolfe Research,12 month,3.0,peerperform,127.0
+2016-11-28,Baird,12 month,5.0,outperform,132.0
+2016-11-28,Credit Suisse,Not Provided,3.0,neutral,124.0
+2016-12-04,KeyBanc Capital Markets,Not Provided,5.0,overweight,153.0
+2016-12-05,Barclays,Not Provided,3.0,equalweight,147.0
+2016-12-05,Credit Suisse,Not Provided,3.0,neutral,124.0
+2016-12-05,RBC Capital Markets,12 month,5.0,outperform,157.0
+2016-12-05,Leerink Partners LLC,12 month,5.0,outperform,142.0
+2016-12-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-12-05,Baird,Not Provided,5.0,outperform,132.0
+2016-12-06,Raymond James,12 month,5.0,outperform,145.0
+2016-12-06,J.P. Morgan,12 month,5.0,overweight,137.0
+2016-12-07,Leerink Partners LLC,12 month,5.0,outperform,142.0
+2016-12-07,Mizuho Securities USA Inc,12 month,3.0,neutral,133.0
+2016-12-07,Credit Suisse,Not Provided,3.0,neutral,130.0
+2016-12-07,J.P. Morgan,12 month,5.0,overweight,137.0
+2016-12-07,RBC Capital Markets,12 month,5.0,outperform,157.0
+2016-12-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-12-08,Baird,12 month,5.0,outperform,132.0
+2016-12-08,Raymond James,12 month,5.0,outperform,145.0
+2016-12-08,Wolfe Research,12 month,3.0,peerperform,127.0
+2016-12-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-16,Leerink Partners LLC,12 month,5.0,outperform,142.0
+2016-12-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-12-19,Baird,Not Provided,5.0,outperform,132.0
+2016-12-20,Wolfe Research,12 month,3.0,peerperform,127.0
+2016-12-22,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-27,Baird,12 month,5.0,outperform,132.0
+2017-01-03,Mizuho Securities USA Inc,Not Provided,3.0,neutral,115.0
+2017-01-05,Piper Jaffray,Not Provided,3.0,neutral,119.0
+2017-01-05,Wolfe Research,12 month,3.0,peerperform,127.0
+2017-01-05,KeyBanc Capital Markets,Not Provided,5.0,overweight,153.0
+2017-01-05,Baird,Not Provided,5.0,outperform,132.0
+2017-01-05,Barclays,Not Provided,3.0,equalweight,120.0
+2017-01-09,Baird,Not Provided,5.0,outperform,132.0
+2017-01-10,Piper Jaffray,Not Provided,3.0,neutral,119.0
+2017-01-10,Leerink Partners LLC,12 month,5.0,outperform,142.0
+2017-01-16,Piper Jaffray,Not Provided,3.0,neutral,119.0
+2017-01-18,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-01-18,Baird,Not Provided,5.0,outperform,132.0
+2017-01-22,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-01-23,RBC Capital Markets,12 month,5.0,outperform,157.0
+2017-01-25,Leerink Partners LLC,Not Provided,5.0,outperform,142.0
+2017-01-27,Baird,12 month,5.0,outperform,135.0
+2017-01-30,Goldman Sachs,12 month,3.0,neutral/neutral,120.0
+2017-01-31,Leerink Partners LLC,Not Provided,5.0,outperform,142.0
+2017-02-01,Baird,Not Provided,5.0,outperform,135.0
+2017-02-02,Piper Jaffray,Not Provided,3.0,neutral,119.0
+2017-02-05,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-02-08,Piper Jaffray,Not Provided,3.0,neutral,119.0
+2017-02-10,Baird,Not Provided,5.0,outperform,135.0
+2017-02-13,Baird,Not Provided,5.0,outperform,135.0
+2017-02-14,Wolfe Research,12 month,5.0,outperform,142.0
+2017-02-15,Leerink Partners LLC,Not Provided,5.0,outperform,142.0
+2017-02-21,Baird,Not Provided,5.0,outperform,135.0
+2017-02-22,Leerink Partners LLC,12 month,5.0,outperform,142.0
+2017-02-27,Avondale Partners LLC,12 month,3.0,market perform,131.0
+2017-02-27,Mizuho Securities USA Inc,12 month,3.0,neutral,133.0
+2017-02-28,Mizuho Securities USA Inc,12 month,3.0,neutral,133.0
+2017-03-01,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-01,Avondale Partners LLC,12 month,3.0,market perform,131.0
+2017-03-01,Credit Suisse,Not Provided,3.0,neutral,132.0
+2017-03-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-02,Leerink Partners LLC,12 month,5.0,outperform,142.0
+2017-03-02,Wolfe Research,12 month,5.0,outperform,142.0
+2017-03-02,Barclays,Not Provided,3.0,equalweight,128.0
+2017-03-02,RBC Capital Markets,12 month,5.0,outperform,157.0
+2017-03-03,J.P. Morgan,9 month,5.0,overweight,137.0
+2017-03-06,UBS,12 month,5.0,buy,143.0
+2017-03-06,Baird,Not Provided,5.0,outperform,139.0
+2017-03-06,KeyBanc Capital Markets,12 month,5.0,overweight,145.0
+2017-03-06,Piper Jaffray,12 month,5.0,overweight,147.0
+2017-03-07,Mizuho Securities USA Inc,Not Provided,3.0,neutral,133.0
+2017-03-07,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-03-08,Avondale Partners LLC,12 month,3.0,market perform,135.0
+2017-03-13,Wolfe Research,Not Provided,5.0,outperform,142.0
+2017-03-13,Baird,12 month,5.0,outperform,139.0
+2017-03-13,RBC Capital Markets,12 month,5.0,outperform,157.0
+2017-03-16,Leerink Partners LLC,12 month,5.0,outperform,142.0
+2017-03-19,Wolfe Research,Not Provided,5.0,outperform,142.0
+2017-03-20,Baird,Not Provided,5.0,outperform,139.0
+2017-03-23,Credit Suisse,Not Provided,3.0,neutral,132.0
+2017-03-24,KeyBanc Capital Markets,12 month,5.0,overweight,145.0
+2017-03-26,Mizuho Securities USA Inc,Not Provided,5.0,buy,138.0
+2017-03-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-27,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-03-27,Baird,Not Provided,5.0,outperform,139.0
+2017-03-27,Leerink Partners LLC,12 month,5.0,outperform,144.0
+2017-04-03,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-04-03,Baird,Not Provided,5.0,outperform,139.0
+2017-04-06,Wolfe Research,Not Provided,5.0,outperform,-0.0
+2017-04-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-08,RBC Capital Markets,Not Provided,5.0,outperform,-0.0
+2017-04-10,Leerink Partners LLC,12 month,5.0,outperform,144.0
+2017-04-10,Baird,Not Provided,5.0,outperform,139.0
+2017-04-11,RBC Capital Markets,12 month,5.0,outperform,157.0
+2017-04-11,Piper Jaffray,12 month,5.0,overweight,147.0
+2017-04-16,Baird,12 month,5.0,outperform,139.0
+2017-04-17,Wolfe Research,12 month,5.0,outperform,142.0
+2017-04-18,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-18,Leerink Partners LLC,12 month,5.0,outperform,144.0
+2017-04-20,Baird,Not Provided,5.0,outperform,139.0
+2017-04-25,Piper Jaffray,12 month,5.0,overweight,147.0
+2017-04-25,Barclays,Not Provided,3.0,equalweight,128.0
+2017-04-25,RBC Capital Markets,12 month,5.0,outperform,157.0
+2017-04-25,Mizuho Securities USA Inc,12 month,5.0,buy,138.0
+2017-04-25,Wolfe Research,12 month,5.0,outperform,149.0
+2017-04-25,J.P. Morgan,12 month,5.0,overweight,137.0
+2017-04-25,Leerink Partners LLC,12 month,5.0,outperform,144.0
+2017-04-25,Credit Suisse,Not Provided,3.0,neutral,132.0
+2017-04-26,J.P. Morgan,9 month,5.0,overweight,137.0
+2017-04-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-26,Mizuho Securities USA Inc,Not Provided,5.0,buy,138.0
+2017-04-26,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2017-04-26,RBC Capital Markets,12 month,5.0,outperform,153.0
+2017-04-26,Credit Suisse,Not Provided,3.0,neutral,130.0
+2017-04-26,Leerink Partners LLC,12 month,5.0,outperform,144.0
+2017-04-27,Barclays,Not Provided,3.0,equalweight,128.0
+2017-04-27,KeyBanc Capital Markets,12 month,5.0,overweight,142.0
+2017-04-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-27,Wolfe Research,Not Provided,5.0,outperform,149.0
+2017-04-28,Baird,Not Provided,5.0,outperform,142.0
+2017-05-01,Piper Jaffray,Not Provided,5.0,overweight,147.0
+2017-05-05,Baird,Not Provided,5.0,outperform,142.0
+2017-05-08,Wolfe Research,12 month,5.0,outperform,149.0
+2017-05-12,Baird,Not Provided,5.0,outperform,142.0
+2017-05-14,Piper Jaffray,12 month,5.0,overweight,147.0
+2017-05-15,Leerink Partners LLC,12 month,5.0,outperform,144.0
+2017-05-15,Wolfe Research,12 month,5.0,outperform,147.0
+2017-05-15,RBC Capital Markets,12 month,5.0,outperform,153.0
+2017-05-19,RBC Capital Markets,12 month,5.0,outperform,153.0
+2017-05-19,Leerink Partners LLC,12 month,5.0,outperform,144.0
+2017-05-19,Baird,Not Provided,5.0,outperform,142.0
+2017-05-22,Baird,Not Provided,5.0,outperform,142.0
+2017-05-22,Wolfe Research,Not Provided,5.0,outperform,147.0
+2017-05-23,Baird,12 month,5.0,outperform,142.0

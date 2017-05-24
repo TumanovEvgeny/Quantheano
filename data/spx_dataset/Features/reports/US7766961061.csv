@@ -1,0 +1,836 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2009-04-27,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2009-07-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-09-09,Goldman Sachs,12 month,5.0,buy/attractive,62.0
+2009-10-16,Longbow Research,Not Provided,3.0,neutral,-0.0
+2009-10-26,J.P. Morgan,15 month,5.0,overweight,44.0
+2009-10-26,Baird,12 month,5.0,outperform,60.0
+2009-10-27,Barclays,Not Provided,5.0,overwt/positive,68.0
+2009-11-09,KeyBanc Capital Markets,12 month,5.0,buy,60.0
+2009-11-09,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2009-11-16,Sterne Agee CRT,12 month,1.0,sell,44.0
+2009-11-19,Oppenheimer & Co,18 month,5.0,outperform,60.0
+2009-12-12,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-12-21,FBR Capital Markets,Not Provided,3.0,market perform,58.0
+2009-12-22,Janney Montgomery Scott LLC,12 month,5.0,buy,60.0
+2010-01-07,J.P. Morgan,12 month,3.0,neutral,51.0
+2010-01-19,Longbow Research,Not Provided,5.0,buy,64.0
+2010-01-19,Oppenheimer & Co,18 month,5.0,outperform,63.0
+2010-01-21,FBR Capital Markets,12 month,3.0,market perform,58.0
+2010-01-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-02-03,Oppenheimer & Co,18 month,5.0,outperform,65.0
+2010-02-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-02-03,J.P. Morgan,9 month,3.0,neutral,53.0
+2010-02-03,Janney Montgomery Scott LLC,Not Provided,5.0,buy,64.0
+2010-02-03,Goldman Sachs,12 month,5.0,buy/attractive,67.0
+2010-02-04,KeyBanc Capital Markets,12 month,5.0,buy,63.0
+2010-02-04,Baird,12 month,5.0,outperform,63.0
+2010-02-04,FBR Capital Markets,12 month,3.0,market perform,64.0
+2010-02-04,Barclays,Not Provided,5.0,overwt/positive,68.0
+2010-02-04,Sterne Agee CRT,12 month,1.0,sell,49.0
+2010-02-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-02-09,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,60.0
+2010-03-03,FBR Capital Markets,12 month,3.0,market perform,64.0
+2010-03-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-03-29,Barclays,Not Provided,5.0,overwt/positive,68.0
+2010-04-07,KeyBanc Capital Markets,12 month,5.0,buy,69.0
+2010-04-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-04-09,Janney Montgomery Scott LLC,12 month,5.0,buy,69.0
+2010-04-13,Baird,12 month,5.0,outperform,68.0
+2010-04-15,Janney Montgomery Scott LLC,12 month,5.0,buy,69.0
+2010-04-26,Goldman Sachs,12 month,5.0,buy/attractive,71.0
+2010-04-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-04-26,J.P. Morgan,9 month,3.0,neutral,63.0
+2010-04-26,Janney Montgomery Scott LLC,12 month,5.0,buy,73.0
+2010-04-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-04-26,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,65.0
+2010-04-26,Sterne Agee CRT,12 month,3.0,neutral,62.0
+2010-04-27,Oppenheimer & Co,18 month,5.0,outperform,70.0
+2010-04-27,Longbow Research,Not Provided,5.0,buy,70.0
+2010-04-27,Barclays,Not Provided,5.0,overwt/positive,71.0
+2010-04-27,KeyBanc Capital Markets,12 month,5.0,buy,69.0
+2010-04-27,Baird,12 month,5.0,outperform,70.0
+2010-04-30,Sterne Agee CRT,12 month,3.0,neutral,62.0
+2010-05-12,SunTrust Robinson Humphrey,12 month,5.0,buy,72.0
+2010-05-18,Oppenheimer & Co,18 month,5.0,outperform,70.0
+2010-05-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-05-24,Goldman Sachs,12 month,5.0,buy/attractive,69.0
+2010-05-26,J.P. Morgan,9 month,3.0,neutral,63.0
+2010-05-27,SunTrust Robinson Humphrey,12 month,5.0,buy,72.0
+2010-06-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-06-09,J.P. Morgan,6 month,3.0,neutral,63.0
+2010-06-22,Janney Montgomery Scott LLC,12 month,5.0,buy,73.0
+2010-06-24,Sterne Agee CRT,12 month,3.0,neutral,55.0
+2010-07-06,Janney Montgomery Scott LLC,12 month,5.0,buy,73.0
+2010-07-16,KeyBanc Capital Markets,12 month,5.0,buy,69.0
+2010-07-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-07-26,Janney Montgomery Scott LLC,12 month,5.0,buy,77.0
+2010-07-26,SunTrust Robinson Humphrey,12 month,5.0,buy,72.0
+2010-07-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-07-26,Goldman Sachs,12 month,5.0,buy/attractive,73.0
+2010-07-27,Barclays,Not Provided,5.0,overwt/positive,71.0
+2010-07-27,KeyBanc Capital Markets,12 month,5.0,buy,75.0
+2010-07-27,Baird,12 month,5.0,outperform,73.0
+2010-07-27,Oppenheimer & Co,18 month,5.0,outperform,73.0
+2010-07-27,Morgan Stanley,12 month,3.0,Equalwt/Attractive,67.0
+2010-07-27,Sterne Agee CRT,12 month,3.0,neutral,58.0
+2010-07-27,Longbow Research,Not Provided,5.0,buy,73.0
+2010-08-02,J.P. Morgan,6 month,3.0,neutral,69.0
+2010-08-17,J.P. Morgan,15 month,3.0,neutral,71.0
+2010-08-20,Janney Montgomery Scott LLC,12 month,5.0,buy,77.0
+2010-08-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-08-26,SunTrust Robinson Humphrey,12 month,5.0,buy,72.0
+2010-09-29,Janney Montgomery Scott LLC,12 month,5.0,buy,77.0
+2010-09-30,Oppenheimer & Co,12 month,5.0,outperform,73.0
+2010-10-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-10-06,SunTrust Robinson Humphrey,12 month,5.0,buy,72.0
+2010-10-18,SunTrust Robinson Humphrey,12 month,5.0,buy,72.0
+2010-10-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-10-25,SunTrust Robinson Humphrey,12 month,5.0,buy,82.0
+2010-10-25,Oppenheimer & Co,12 month,5.0,outperform,80.0
+2010-10-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-10-25,Janney Montgomery Scott LLC,12 month,5.0,buy,82.0
+2010-10-26,Morgan Stanley,12 month,3.0,Equalwt/Attractive,72.0
+2010-10-26,J.P. Morgan,12 month,3.0,neutral,71.0
+2010-10-26,Barclays,Not Provided,5.0,overwt/positive,82.0
+2010-10-26,Goldman Sachs,12 month,5.0,buy/attractive,76.0
+2010-10-26,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2010-10-26,Baird,12 month,5.0,outperform,81.0
+2010-10-26,Longbow Research,Not Provided,5.0,buy,80.0
+2010-10-26,KeyBanc Capital Markets,12 month,5.0,buy,80.0
+2010-10-29,Sterne Agee CRT,12 month,3.0,neutral,66.0
+2010-11-09,SunTrust Robinson Humphrey,Not Provided,5.0,buy,82.0
+2010-11-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-12-02,KeyBanc Capital Markets,12 month,5.0,buy,82.0
+2010-12-06,SunTrust Robinson Humphrey,Not Provided,5.0,buy,82.0
+2010-12-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-12-13,SunTrust Robinson Humphrey,Not Provided,5.0,buy,82.0
+2010-12-23,SunTrust Robinson Humphrey,12 month,5.0,buy,88.0
+2011-01-04,Janney Montgomery Scott LLC,12 month,5.0,buy,90.0
+2011-01-09,Goldman Sachs,12 month,3.0,neutral/attractive,87.0
+2011-01-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-01-18,SunTrust Robinson Humphrey,12 month,5.0,buy,88.0
+2011-01-21,Longbow Research,Not Provided,5.0,buy,83.0
+2011-01-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-01-31,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-01-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-01-31,Janney Montgomery Scott LLC,12 month,5.0,buy,90.0
+2011-01-31,Oppenheimer & Co,12 month,5.0,outperform,90.0
+2011-02-01,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2011-02-01,J.P. Morgan,12 month,3.0,neutral,77.0
+2011-02-01,Baird,12 month,5.0,outperform,87.0
+2011-02-01,Barclays,Not Provided,5.0,overwt/positive,90.0
+2011-02-01,Morgan Stanley,12 month,3.0,Equalwt/Attractive,78.0
+2011-02-01,Sterne Agee CRT,12 month,3.0,neutral,70.0
+2011-02-01,KeyBanc Capital Markets,12 month,5.0,buy,87.0
+2011-02-01,Longbow Research,Not Provided,5.0,buy,90.0
+2011-02-09,Sterne Agee CRT,12 month,3.0,neutral,73.0
+2011-02-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-08,Barclays,Not Provided,5.0,overwt/positive,97.0
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-03-17,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2011-03-18,Morgan Stanley,12 month,3.0,Equalwt/Attractive,85.0
+2011-03-21,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2011-03-22,Sterne Agee CRT,12 month,3.0,neutral,71.0
+2011-03-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-03-23,J.P. Morgan,12 month,3.0,neutral,84.0
+2011-04-06,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2011-04-08,Janney Montgomery Scott LLC,12 month,5.0,buy,90.0
+2011-04-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-04-18,SunTrust Robinson Humphrey,12 month,5.0,buy,95.0
+2011-04-26,Oppenheimer & Co,12 month,3.0,market perform,97.0
+2011-04-26,SunTrust Robinson Humphrey,12 month,5.0,buy,100.0
+2011-04-26,Goldman Sachs,12 month,3.0,neutral/attractive,95.0
+2011-04-26,Morgan Stanley,12 month,3.0,Equalwt/Attractive,88.0
+2011-04-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-04-27,Sterne Agee CRT,12 month,3.0,neutral,93.0
+2011-04-27,Longbow Research,Not Provided,5.0,buy,98.0
+2011-04-27,Janney Montgomery Scott LLC,12 month,5.0,buy,101.0
+2011-04-27,Barclays,Not Provided,5.0,overwt/positive,99.0
+2011-04-27,KeyBanc Capital Markets,12 month,5.0,buy,95.0
+2011-04-27,Baird,12 month,5.0,outperform,92.0
+2011-04-28,J.P. Morgan,9 month,3.0,neutral,84.0
+2011-05-10,SunTrust Robinson Humphrey,12 month,5.0,buy,100.0
+2011-05-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-05-11,Goldman Sachs,12 month,3.0,neutral/attractive,97.0
+2011-05-16,Oppenheimer & Co,18 month,3.0,market perform,97.0
+2011-05-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-06-06,SunTrust Robinson Humphrey,12 month,5.0,buy,100.0
+2011-06-06,KeyBanc Capital Markets,12 month,5.0,buy,95.0
+2011-06-07,Baird,12 month,5.0,outperform,92.0
+2011-06-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-06-23,SunTrust Robinson Humphrey,12 month,5.0,buy,100.0
+2011-06-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-07-14,KeyBanc Capital Markets,12 month,5.0,buy,95.0
+2011-07-18,SunTrust Robinson Humphrey,12 month,5.0,buy,100.0
+2011-07-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-07-25,Janney Montgomery Scott LLC,12 month,5.0,buy,102.0
+2011-07-25,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2011-07-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-07-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-07-25,Oppenheimer & Co,12 month,3.0,market perform,97.0
+2011-07-25,Goldman Sachs,12 month,3.0,neutral/attractive,101.0
+2011-07-26,KeyBanc Capital Markets,12 month,5.0,buy,100.0
+2011-07-26,Baird,12 month,5.0,outperform,94.0
+2011-07-26,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2011-07-27,Barclays,Not Provided,5.0,overwt/positive,100.0
+2011-07-28,J.P. Morgan,3 month,3.0,neutral,87.0
+2011-08-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-08-08,Goldman Sachs,12 month,3.0,neutral/neutral,84.0
+2011-08-09,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2011-08-12,Janney Montgomery Scott LLC,12 month,5.0,buy,87.0
+2011-08-12,J.P. Morgan,15 month,3.0,neutral,76.0
+2011-08-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-08-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-08-22,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2011-08-29,Longbow Research,12 month,5.0,buy,88.0
+2011-08-29,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2011-08-31,Oppenheimer & Co,12 month,3.0,market perform,97.0
+2011-09-01,Oppenheimer & Co,12 month,3.0,market perform,87.0
+2011-09-06,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2011-09-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-09-22,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2011-09-27,Janney Montgomery Scott LLC,12 month,5.0,buy,83.0
+2011-10-04,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2011-10-07,KeyBanc Capital Markets,12 month,5.0,buy,90.0
+2011-10-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-10-13,Barclays,Not Provided,5.0,overwt/positive,96.0
+2011-10-17,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2011-10-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-24,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2011-10-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-10-24,Goldman Sachs,12 month,3.0,neutral/neutral,87.0
+2011-10-24,Janney Montgomery Scott LLC,12 month,5.0,buy,85.0
+2011-10-24,Oppenheimer & Co,12 month,3.0,market perform,89.0
+2011-10-24,Barclays,Not Provided,5.0,overwt/positive,96.0
+2011-10-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-10-25,J.P. Morgan,12 month,3.0,neutral,76.0
+2011-10-25,Baird,12 month,5.0,outperform,89.0
+2011-10-25,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2011-10-25,KeyBanc Capital Markets,12 month,5.0,buy,90.0
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-18,Janney Montgomery Scott LLC,12 month,5.0,buy,85.0
+2011-11-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-11-30,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2011-12-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2011-12-12,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-01-06,J.P. Morgan,9 month,3.0,neutral,76.0
+2012-01-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-01-10,Goldman Sachs,12 month,3.0,neutral/neutral,96.0
+2012-01-12,Baird,12 month,5.0,outperform,101.0
+2012-01-17,Janney Montgomery Scott LLC,12 month,3.0,neutral,95.0
+2012-01-17,Barclays,Not Provided,5.0,overwt/positive,96.0
+2012-01-18,KeyBanc Capital Markets,12 month,5.0,buy,104.0
+2012-01-23,Longbow Research,12 month,5.0,buy,104.0
+2012-01-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-02-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-02-02,Barclays,Not Provided,5.0,overwt/positive,102.0
+2012-02-03,J.P. Morgan,6 month,3.0,neutral,79.0
+2012-02-03,Baird,12 month,5.0,outperform,102.0
+2012-02-03,Janney Montgomery Scott LLC,12 month,3.0,neutral,96.0
+2012-02-03,Oppenheimer & Co,18 month,3.0,market perform,100.0
+2012-02-03,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2012-02-03,KeyBanc Capital Markets,12 month,5.0,buy,106.0
+2012-02-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-02-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-03-13,Janney Montgomery Scott LLC,12 month,3.0,neutral,96.0
+2012-03-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-04-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-04-16,Barclays,Not Provided,5.0,overwt/positive,102.0
+2012-04-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-04-23,Janney Montgomery Scott LLC,12 month,3.0,neutral,103.0
+2012-04-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-04-23,Oppenheimer & Co,12 month,3.0,market perform,110.0
+2012-04-23,Barclays,Not Provided,5.0,overwt/positive,107.0
+2012-04-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-04-23,Goldman Sachs,12 month,3.0,neutral/neutral,107.0
+2012-04-24,Baird,12 month,3.0,neutral,105.0
+2012-04-24,KeyBanc Capital Markets,12 month,5.0,buy,115.0
+2012-04-24,Longbow Research,12 month,5.0,buy,110.0
+2012-04-25,J.P. Morgan,6 month,3.0,neutral,79.0
+2012-05-17,Oppenheimer & Co,18 month,3.0,market perform,110.0
+2012-05-21,Oppenheimer & Co,18 month,3.0,market perform,110.0
+2012-05-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-06-04,Barclays,Not Provided,5.0,overwt/positive,107.0
+2012-06-18,Barclays,Not Provided,5.0,overweight,106.0
+2012-06-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-06-21,J.P. Morgan,3 month,3.0,neutral,79.0
+2012-06-27,Goldman Sachs,12 month,3.0,neutral/neutral,106.0
+2012-07-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-07-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-07-05,Oppenheimer & Co,18 month,3.0,market perform,110.0
+2012-07-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-07-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-07-30,Oppenheimer & Co,12 month,3.0,market perform,115.0
+2012-07-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-07-30,Goldman Sachs,12 month,3.0,neutral/neutral,112.0
+2012-07-31,KeyBanc Capital Markets,12 month,5.0,buy,120.0
+2012-07-31,Baird,12 month,3.0,neutral,110.0
+2012-07-31,Barclays,Not Provided,-2147483648.0,suspended coverage,-0.0
+2012-08-06,J.P. Morgan,3 month,3.0,neutral,94.0
+2012-08-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-09-10,J.P. Morgan,12 month,3.0,neutral,103.0
+2012-09-13,Barclays,Not Provided,5.0,overweight,120.0
+2012-09-21,KeyBanc Capital Markets,12 month,5.0,buy,125.0
+2012-09-24,Barclays,Not Provided,5.0,overweight,120.0
+2012-09-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-10-15,Barclays,Not Provided,5.0,overweight,120.0
+2012-10-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-10-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-10-25,Oppenheimer & Co,12 month,3.0,market perform,120.0
+2012-10-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-10-26,Longbow Research,Not Provided,3.0,neutral,-0.0
+2012-10-26,Barclays,Not Provided,5.0,overweight,120.0
+2012-10-26,Baird,12 month,3.0,neutral,111.0
+2012-10-26,J.P. Morgan,12 month,3.0,neutral,103.0
+2012-10-29,KeyBanc Capital Markets,12 month,5.0,buy,125.0
+2012-11-02,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-11-07,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-11-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2012-12-06,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-12-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-01-04,Baird,12 month,3.0,neutral,123.0
+2013-01-09,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-01-10,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-01-15,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-01-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-01-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-01-28,Barclays,Not Provided,5.0,overweight,128.0
+2013-01-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-01-28,KeyBanc Capital Markets,12 month,5.0,buy,135.0
+2013-01-28,Oppenheimer & Co,12 month,3.0,market perform,120.0
+2013-01-29,Baird,12 month,3.0,neutral,123.0
+2013-01-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-01-31,J.P. Morgan,6 month,3.0,neutral,108.0
+2013-02-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-02-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-02-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-03-06,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-03-20,Goldman Sachs,12 month,3.0,neutral/neutral,140.0
+2013-03-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-03-27,Canaccord Genuity,Not Provided,3.0,hold,128.0
+2013-04-04,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-04-15,Barclays,Not Provided,5.0,overweight,128.0
+2013-04-18,Barclays,Not Provided,5.0,overweight,128.0
+2013-04-18,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-04-18,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-04-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-04-26,Canaccord Genuity,12 month,3.0,hold,128.0
+2013-04-29,Oppenheimer & Co,12 month,3.0,market perform,130.0
+2013-04-29,Goldman Sachs,12 month,3.0,neutral/neutral,137.0
+2013-04-29,Barclays,Not Provided,5.0,overweight,130.0
+2013-04-29,KeyBanc Capital Markets,12 month,5.0,buy,135.0
+2013-04-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-04-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-04-29,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-04-30,Canaccord Genuity,12 month,3.0,hold,128.0
+2013-04-30,J.P. Morgan,3 month,3.0,neutral,112.0
+2013-04-30,Baird,12 month,3.0,neutral,120.0
+2013-04-30,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-05-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-05-15,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-05-21,Oppenheimer & Co,12 month,3.0,market perform,130.0
+2013-05-21,KeyBanc Capital Markets,12 month,5.0,buy,135.0
+2013-05-22,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-06-14,Baird,12 month,3.0,neutral,120.0
+2013-06-17,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-06-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-07-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-07-14,Canaccord Genuity,12 month,3.0,hold,128.0
+2013-07-17,Barclays,Not Provided,5.0,overweight,130.0
+2013-07-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-07-29,Canaccord Genuity,12 month,3.0,hold,128.0
+2013-07-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-07-29,Oppenheimer & Co,12 month,3.0,market perform,135.0
+2013-07-29,Goldman Sachs,12 month,3.0,neutral/neutral,135.0
+2013-07-29,Barclays,Not Provided,5.0,overweight,130.0
+2013-07-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-07-30,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-07-30,J.P. Morgan,3 month,3.0,neutral,112.0
+2013-07-30,Baird,12 month,3.0,neutral,137.0
+2013-07-30,KeyBanc Capital Markets,12 month,5.0,buy,138.0
+2013-07-30,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-08-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-08-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-09-11,J.P. Morgan,12 month,3.0,neutral,136.0
+2013-09-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-10-01,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-10-07,Barclays,Not Provided,5.0,overweight,140.0
+2013-10-07,Goldman Sachs,12 month,3.0,neutral/neutral,132.0
+2013-10-09,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-10-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-10-23,Canaccord Genuity,12 month,3.0,hold,128.0
+2013-10-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-28,Goldman Sachs,12 month,3.0,neutral/neutral,130.0
+2013-10-28,Barclays,Not Provided,5.0,overweight,131.0
+2013-10-28,Canaccord Genuity,12 month,3.0,hold,128.0
+2013-10-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-10-28,KeyBanc Capital Markets,12 month,5.0,buy,138.0
+2013-10-28,Oppenheimer & Co,Not Provided,3.0,market perform,135.0
+2013-10-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-10-29,Baird,12 month,3.0,neutral,137.0
+2013-10-29,J.P. Morgan,12 month,3.0,neutral,133.0
+2013-11-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-11-08,Baird,12 month,3.0,neutral,137.0
+2013-11-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-12-05,Longbow Research,Not Provided,3.0,neutral,-0.0
+2013-12-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-01-06,Baird,12 month,3.0,neutral,137.0
+2014-01-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-01-13,Barclays,Not Provided,5.0,overweight,131.0
+2014-01-13,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-01-15,J.P. Morgan,12 month,5.0,overweight,155.0
+2014-01-16,Goldman Sachs,12 month,3.0,neutral/neutral,148.0
+2014-01-27,Barclays,Not Provided,5.0,overweight,139.0
+2014-01-27,KeyBanc Capital Markets,12 month,5.0,buy,155.0
+2014-01-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-01-27,J.P. Morgan,6 month,5.0,overweight,155.0
+2014-01-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-01-27,Canaccord Genuity,Not Provided,3.0,hold,135.0
+2014-01-28,Baird,12 month,3.0,neutral,138.0
+2014-01-28,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-01-31,Canaccord Genuity,Not Provided,3.0,hold,135.0
+2014-02-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-03-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-03-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-04-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-04-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-04-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-04-11,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-04-14,Barclays,Not Provided,5.0,overweight,139.0
+2014-04-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-15,Canaccord Genuity,12 month,3.0,hold,135.0
+2014-04-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-04-28,Barclays,Not Provided,5.0,overweight,150.0
+2014-04-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-04-28,Canaccord Genuity,Not Provided,3.0,hold,140.0
+2014-04-28,KeyBanc Capital Markets,12 month,5.0,buy,160.0
+2014-04-28,Goldman Sachs,12 month,3.0,neutral/neutral,151.0
+2014-04-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-04-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-04-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-29,Baird,12 month,3.0,neutral,140.0
+2014-04-29,J.P. Morgan,3 month,5.0,overweight,158.0
+2014-04-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-05-01,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-05-08,Barclays,Not Provided,5.0,overweight,163.0
+2014-05-15,Barclays,Not Provided,5.0,overweight,163.0
+2014-05-20,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-05-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-05-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-05-30,KeyBanc Capital Markets,12 month,5.0,buy,160.0
+2014-06-02,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-06-11,Canaccord Genuity,Not Provided,3.0,hold,140.0
+2014-06-13,Baird,Not Provided,3.0,neutral,140.0
+2014-06-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-07-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-07-07,Barclays,Not Provided,5.0,overweight,163.0
+2014-07-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-11,Baird,Not Provided,3.0,neutral,140.0
+2014-07-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-22,Canaccord Genuity,12 month,3.0,hold,140.0
+2014-07-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-07-28,Goldman Sachs,12 month,3.0,neutral/neutral,152.0
+2014-07-28,Canaccord Genuity,Not Provided,3.0,hold,150.0
+2014-07-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-28,Barclays,Not Provided,5.0,overweight,166.0
+2014-07-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-07-29,KeyBanc Capital Markets,12 month,5.0,buy,162.0
+2014-07-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-29,Baird,12 month,3.0,neutral,155.0
+2014-07-29,J.P. Morgan,3 month,5.0,overweight,158.0
+2014-07-29,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-08-07,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-08-27,Longbow Research,Not Provided,3.0,neutral,-0.0
+2014-08-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-09-11,J.P. Morgan,3 month,5.0,overweight,165.0
+2014-09-24,J.P. Morgan,3 month,5.0,overweight,155.0
+2014-09-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-10-06,Barclays,Not Provided,5.0,overweight,167.0
+2014-10-13,Goldman Sachs,12 month,3.0,neutral/neutral,146.0
+2014-10-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-15,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-10-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-15,KeyBanc Capital Markets,12 month,5.0,buy,162.0
+2014-10-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-21,Canaccord Genuity,12 month,3.0,hold,150.0
+2014-10-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-10-27,Barclays,Not Provided,5.0,overweight,187.0
+2014-10-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-10-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-27,Canaccord Genuity,12 month,3.0,hold,150.0
+2014-10-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-10-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-28,Baird,12 month,3.0,neutral,155.0
+2014-11-05,J.P. Morgan,3 month,3.0,neutral,155.0
+2014-11-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-11-12,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-11-14,Baird,12 month,3.0,neutral,155.0
+2014-11-24,RBC Capital Markets,12 month,5.0,outperform,185.0
+2014-12-01,Goldman Sachs,12 month,3.0,neutral/neutral,160.0
+2014-12-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-12-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-12-23,RBC Capital Markets,12 month,5.0,outperform,184.0
+2015-01-07,Baird,Not Provided,3.0,neutral,155.0
+2015-01-12,Barclays,Not Provided,5.0,overweight,187.0
+2015-01-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-01-12,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-01-14,RBC Capital Markets,12 month,5.0,outperform,182.0
+2015-01-15,J.P. Morgan,Not Provided,3.0,neutral,144.0
+2015-01-16,Goldman Sachs,12 month,3.0,neutral/neutral,155.0
+2015-01-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-21,UBS,12 month,5.0,buy,185.0
+2015-01-26,Barclays,Not Provided,5.0,overweight,187.0
+2015-01-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-01-26,RBC Capital Markets,12 month,5.0,outperform,182.0
+2015-01-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-26,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-01-27,Canaccord Genuity,12 month,3.0,hold,155.0
+2015-01-27,J.P. Morgan,Not Provided,3.0,neutral,148.0
+2015-01-27,Baird,12 month,3.0,neutral,165.0
+2015-02-05,RBC Capital Markets,12 month,5.0,outperform,182.0
+2015-02-06,Baird,12 month,3.0,neutral,165.0
+2015-02-10,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-02-17,Barclays,Not Provided,5.0,overweight,187.0
+2015-02-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-03-17,Barclays,Not Provided,5.0,overweight,185.0
+2015-03-20,Goldman Sachs,12 month,3.0,neutral/neutral,167.0
+2015-03-22,RBC Capital Markets,12 month,5.0,outperform,190.0
+2015-03-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-04-01,Canaccord Genuity,12 month,3.0,hold,155.0
+2015-04-10,RBC Capital Markets,12 month,5.0,outperform,190.0
+2015-04-13,J.P. Morgan,9 month,3.0,neutral,151.0
+2015-04-14,Baird,Not Provided,3.0,neutral,165.0
+2015-04-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-04-22,Canaccord Genuity,Not Provided,3.0,hold,155.0
+2015-04-27,Canaccord Genuity,12 month,3.0,hold,175.0
+2015-04-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-27,Barclays,Not Provided,5.0,overweight,193.0
+2015-04-27,Goldman Sachs,12 month,3.0,neutral/neutral,171.0
+2015-04-27,J.P. Morgan,9 month,3.0,neutral,155.0
+2015-04-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-04-27,RBC Capital Markets,12 month,5.0,outperform,190.0
+2015-04-28,Baird,12 month,3.0,neutral,172.0
+2015-04-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-04-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-07,RBC Capital Markets,12 month,5.0,outperform,198.0
+2015-05-11,Barclays,Not Provided,5.0,overweight,193.0
+2015-05-18,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-05-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-06-03,Barclays,Not Provided,5.0,overweight,193.0
+2015-06-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-06-09,UBS,12 month,5.0,buy,200.0
+2015-06-21,RBC Capital Markets,12 month,5.0,outperform,208.0
+2015-06-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-06-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-09,J.P. Morgan,Not Provided,3.0,neutral,155.0
+2015-07-10,Goldman Sachs,12 month,3.0,neutral/neutral,174.0
+2015-07-13,Barclays,Not Provided,5.0,overweight,193.0
+2015-07-16,Baird,Not Provided,3.0,neutral,172.0
+2015-07-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-27,Canaccord Genuity,12 month,3.0,hold,175.0
+2015-07-27,UBS,12 month,5.0,buy,195.0
+2015-07-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-27,Barclays,Not Provided,5.0,overweight,186.0
+2015-07-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-07-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-07-27,RBC Capital Markets,12 month,5.0,outperform,201.0
+2015-07-27,Goldman Sachs,12 month,3.0,neutral/neutral,173.0
+2015-07-28,J.P. Morgan,Not Provided,3.0,neutral,153.0
+2015-07-28,Baird,12 month,3.0,neutral,168.0
+2015-08-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-10,Barclays,Not Provided,5.0,overweight,186.0
+2015-08-18,RBC Capital Markets,12 month,5.0,outperform,201.0
+2015-08-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-08-28,Baird,12 month,3.0,neutral,168.0
+2015-09-03,RBC Capital Markets,12 month,5.0,outperform,201.0
+2015-09-03,Goldman Sachs,12 month,3.0,neutral/neutral,174.0
+2015-09-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-09,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-09-09,UBS,12 month,5.0,buy,200.0
+2015-09-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-09-11,J.P. Morgan,18 month,1.0,underweight,158.0
+2015-09-11,Baird,12 month,3.0,neutral,170.0
+2015-09-18,RBC Capital Markets,12 month,5.0,outperform,198.0
+2015-10-05,Barclays,Not Provided,5.0,overweight,160.0
+2015-10-05,Baird,Not Provided,3.0,neutral,170.0
+2015-10-07,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-10-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-10-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-10-09,Baird,12 month,3.0,neutral,170.0
+2015-10-09,J.P. Morgan,Not Provided,1.0,underweight,157.0
+2015-10-12,Cowen,12 month,5.0,outperform,210.0
+2015-10-12,Barclays,Not Provided,5.0,overweight,172.0
+2015-10-13,RBC Capital Markets,12 month,5.0,outperform,198.0
+2015-10-26,RBC Capital Markets,12 month,5.0,outperform,207.0
+2015-10-26,Goldman Sachs,12 month,3.0,neutral/neutral,178.0
+2015-10-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-10-26,UBS,12 month,5.0,buy,205.0
+2015-10-26,Cowen,12 month,5.0,outperform,210.0
+2015-10-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-26,Canaccord Genuity,12 month,3.0,hold,175.0
+2015-10-26,J.P. Morgan,18 month,1.0,underweight,163.0
+2015-10-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-27,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-10-27,Barclays,Not Provided,5.0,overweight,180.0
+2015-10-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-10-27,Baird,12 month,3.0,neutral,175.0
+2015-11-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-11-13,Baird,Not Provided,3.0,neutral,175.0
+2015-11-16,Cowen,12 month,5.0,outperform,215.0
+2015-11-16,Barclays,Not Provided,5.0,overweight,180.0
+2015-11-20,Cowen,Not Provided,5.0,outperform,215.0
+2015-11-24,Stifel,12 month,5.0,buy,215.0
+2015-11-30,RBC Capital Markets,12 month,5.0,outperform,216.0
+2015-11-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-12-07,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-12-07,Cowen,12 month,5.0,outperform,215.0
+2015-12-11,J.P. Morgan,12 month,1.0,underweight,168.0
+2015-12-13,Goldman Sachs,12 month,3.0,neutral/neutral,185.0
+2015-12-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-05,RBC Capital Markets,12 month,5.0,outperform,214.0
+2016-01-08,Baird,Not Provided,3.0,neutral,195.0
+2016-01-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-12,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-14,J.P. Morgan,Not Provided,1.0,underweight,165.0
+2016-01-19,Barclays,Not Provided,5.0,overweight,192.0
+2016-01-20,Stifel,Not Provided,5.0,buy,190.0
+2016-01-20,RBC Capital Markets,12 month,5.0,outperform,214.0
+2016-01-22,Cowen,Not Provided,5.0,outperform,215.0
+2016-01-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-01-27,Canaccord Genuity,12 month,3.0,hold,175.0
+2016-02-01,Goldman Sachs,12 month,3.0,neutral/neutral,175.0
+2016-02-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-02-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-01,UBS,12 month,5.0,buy,195.0
+2016-02-01,Stifel,12 month,5.0,buy,186.0
+2016-02-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-01,J.P. Morgan,12 month,1.0,underweight,165.0
+2016-02-01,Cowen,12 month,5.0,outperform,215.0
+2016-02-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-02-01,RBC Capital Markets,12 month,5.0,outperform,201.0
+2016-02-01,Barclays,Not Provided,5.0,overweight,182.0
+2016-02-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-02,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-02-02,RBC Capital Markets,12 month,5.0,outperform,201.0
+2016-02-02,Canaccord Genuity,Not Provided,3.0,hold,172.0
+2016-02-02,Baird,12 month,3.0,neutral,183.0
+2016-02-05,J.P. Morgan,12 month,1.0,underweight,150.0
+2016-02-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-17,Cowen,Not Provided,5.0,outperform,210.0
+2016-02-18,RBC Capital Markets,12 month,5.0,outperform,201.0
+2016-03-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-03-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-03,Stifel,Not Provided,5.0,buy,209.0
+2016-04-12,RBC Capital Markets,12 month,5.0,outperform,201.0
+2016-04-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-14,Stifel,Not Provided,5.0,buy,209.0
+2016-04-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-18,Barclays,Not Provided,5.0,overweight,198.0
+2016-04-18,Baird,Not Provided,3.0,neutral,183.0
+2016-04-20,Canaccord Genuity,Not Provided,3.0,hold,180.0
+2016-04-20,J.P. Morgan,Not Provided,1.0,underweight,164.0
+2016-04-25,Barclays,Not Provided,5.0,overweight,198.0
+2016-04-25,Goldman Sachs,12 month,3.0,neutral/neutral,177.0
+2016-04-25,Canaccord Genuity,12 month,3.0,hold,180.0
+2016-04-25,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-04-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-25,RBC Capital Markets,12 month,5.0,outperform,200.0
+2016-04-25,Cowen,12 month,5.0,outperform,210.0
+2016-04-25,Stifel,12 month,5.0,buy,200.0
+2016-04-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-25,J.P. Morgan,9 month,1.0,underweight,164.0
+2016-04-26,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-04-26,Baird,12 month,3.0,neutral,183.0
+2016-04-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-05,Cowen,Not Provided,5.0,outperform,210.0
+2016-05-10,Stifel,Not Provided,5.0,buy,200.0
+2016-05-11,RBC Capital Markets,12 month,5.0,outperform,200.0
+2016-05-13,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-05-13,J.P. Morgan,9 month,1.0,underweight,164.0
+2016-05-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-18,Stifel,12 month,5.0,buy,200.0
+2016-05-19,Stifel,12 month,5.0,buy,200.0
+2016-05-20,Cowen,Not Provided,5.0,outperform,210.0
+2016-05-23,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-05-24,J.P. Morgan,12 month,1.0,underweight,164.0
+2016-05-24,Canaccord Genuity,12 month,3.0,hold,180.0
+2016-06-02,RBC Capital Markets,12 month,5.0,outperform,206.0
+2016-06-08,Stifel,Not Provided,5.0,buy,200.0
+2016-06-10,Barclays,Not Provided,5.0,overweight,198.0
+2016-06-13,Stifel,Not Provided,5.0,buy,200.0
+2016-06-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-06-20,Stifel,12 month,5.0,buy,200.0
+2016-06-22,Baird,12 month,3.0,neutral,183.0
+2016-06-28,Goldman Sachs,12 month,3.0,neutral/neutral,176.0
+2016-07-12,RBC Capital Markets,12 month,5.0,outperform,205.0
+2016-07-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-07-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-15,Stifel,Not Provided,5.0,buy,200.0
+2016-07-18,Barclays,Not Provided,5.0,overweight,198.0
+2016-07-19,Raymond James,12 month,5.0,strong buy,206.0
+2016-07-19,Baird,Not Provided,3.0,neutral,183.0
+2016-07-21,J.P. Morgan,12 month,1.0,underweight,164.0
+2016-07-21,Canaccord Genuity,12 month,3.0,hold,180.0
+2016-07-22,Cowen,12 month,5.0,outperform,210.0
+2016-07-25,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-07-25,Stifel,12 month,5.0,buy,180.0
+2016-07-25,RBC Capital Markets,12 month,5.0,outperform,196.0
+2016-07-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-07-25,Barclays,Not Provided,5.0,overweight,192.0
+2016-07-25,Canaccord Genuity,Not Provided,3.0,hold,175.0
+2016-07-25,Raymond James,12 month,5.0,strong buy,206.0
+2016-07-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-26,J.P. Morgan,6 month,1.0,underweight,157.0
+2016-07-26,Cowen,12 month,5.0,outperform,200.0
+2016-07-26,Baird,12 month,3.0,neutral,176.0
+2016-07-26,UBS,12 month,5.0,buy,190.0
+2016-07-26,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-08-01,J.P. Morgan,Not Provided,3.0,neutral,157.0
+2016-08-14,Stifel,12 month,5.0,buy,180.0
+2016-08-18,RBC Capital Markets,12 month,5.0,outperform,212.0
+2016-08-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-08,Stifel,Not Provided,5.0,buy,203.0
+2016-09-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-18,Goldman Sachs,12 month,3.0,neutral/neutral,177.0
+2016-09-23,Raymond James,12 month,5.0,strong buy,206.0
+2016-09-23,J.P. Morgan,18 month,3.0,neutral,166.0
+2016-09-28,Stifel,Not Provided,5.0,buy,203.0
+2016-09-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-04,Cowen,Not Provided,5.0,outperform,200.0
+2016-10-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-10-11,Stifel,Not Provided,5.0,buy,199.0
+2016-10-12,RBC Capital Markets,12 month,5.0,outperform,211.0
+2016-10-12,Baird,Not Provided,3.0,neutral,176.0
+2016-10-13,J.P. Morgan,18 month,3.0,neutral,166.0
+2016-10-13,Cowen,Not Provided,5.0,outperform,200.0
+2016-10-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-17,Barclays,Not Provided,5.0,overweight,190.0
+2016-10-19,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-10-31,Barclays,Not Provided,5.0,overweight,192.0
+2016-10-31,Cowen,12 month,5.0,outperform,200.0
+2016-10-31,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-10-31,Stifel,12 month,5.0,buy,196.0
+2016-10-31,RBC Capital Markets,12 month,5.0,outperform,214.0
+2016-10-31,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-31,Canaccord Genuity,12 month,3.0,hold,175.0
+2016-10-31,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-10-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-01,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-11-01,Raymond James,12 month,5.0,strong buy,206.0
+2016-11-01,J.P. Morgan,18 month,3.0,neutral,177.0
+2016-11-01,Baird,12 month,3.0,neutral,178.0
+2016-11-07,UBS,12 month,5.0,buy,195.0
+2016-11-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-10,Canaccord Genuity,Not Provided,3.0,hold,175.0
+2016-11-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-15,Stifel,Not Provided,5.0,buy,203.0
+2016-11-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-11-21,Goldman Sachs,12 month,3.0,neutral/neutral,178.0
+2016-11-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-23,Baird,Not Provided,3.0,neutral,178.0
+2016-11-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-12-06,Vertical Research Partners,Not Provided,3.0,hold,175.0
+2016-12-06,Stifel,12 month,5.0,buy,203.0
+2016-12-06,Canaccord Genuity,Not Provided,3.0,hold,187.0
+2016-12-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-12-06,Raymond James,12 month,5.0,strong buy,215.0
+2016-12-06,RBC Capital Markets,12 month,5.0,outperform,214.0
+2016-12-07,Baird,12 month,3.0,neutral,195.0
+2016-12-07,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-12-08,Stifel,Not Provided,5.0,buy,203.0
+2016-12-08,J.P. Morgan,12 month,3.0,neutral,177.0
+2016-12-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-12-11,Goldman Sachs,12 month,3.0,neutral/neutral,185.0
+2016-12-14,Cowen,Not Provided,5.0,outperform,220.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-12-22,Baird,Not Provided,3.0,neutral,200.0
+2017-01-02,Vertical Research Partners,Not Provided,3.0,hold,180.0
+2017-01-04,RBC Capital Markets,12 month,5.0,outperform,222.0
+2017-01-05,Oppenheimer & Co,12 month,5.0,outperform,225.0
+2017-01-06,UBS,12 month,5.0,buy,230.0
+2017-01-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-01-10,Goldman Sachs,12 month,3.0,neutral/neutral,184.0
+2017-01-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-01-13,J.P. Morgan,Not Provided,5.0,overweight,219.0
+2017-01-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-17,Stifel,Not Provided,5.0,buy,211.0
+2017-01-17,Barclays,Not Provided,5.0,overweight,221.0
+2017-01-18,RBC Capital Markets,12 month,5.0,outperform,222.0
+2017-01-23,Cowen,Not Provided,5.0,outperform,220.0
+2017-01-24,Raymond James,12 month,5.0,strong buy,215.0
+2017-02-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-09,RBC Capital Markets,12 month,5.0,outperform,229.0
+2017-02-09,Baird,12 month,3.0,neutral,209.0
+2017-02-09,Raymond James,12 month,5.0,strong buy,232.0
+2017-02-09,Cowen,12 month,5.0,outperform,220.0
+2017-02-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-09,Goldman Sachs,12 month,3.0,neutral/neutral,198.0
+2017-02-09,Barclays,Not Provided,5.0,overweight,223.0
+2017-02-09,Canaccord Genuity,Not Provided,3.0,hold,205.0
+2017-02-10,J.P. Morgan,Not Provided,5.0,overweight,219.0
+2017-02-10,Oppenheimer & Co,12 month,5.0,outperform,250.0
+2017-02-10,Stifel,12 month,5.0,buy,225.0
+2017-02-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-13,Cowen,Not Provided,5.0,outperform,220.0
+2017-02-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-16,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-02-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-23,Argus Research Corp,Not Provided,5.0,buy,235.0
+2017-02-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-03-03,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2017-03-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-03-10,RBC Capital Markets,12 month,5.0,outperform,245.0
+2017-03-13,Baird,Not Provided,3.0,neutral,209.0
+2017-03-13,Goldman Sachs,12 month,3.0,neutral/neutral,204.0
+2017-03-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-24,J.P. Morgan,12 month,3.0,neutral,219.0
+2017-03-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-05,RBC Capital Markets,12 month,5.0,outperform,245.0
+2017-04-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-11,Cowen,12 month,5.0,outperform,250.0
+2017-04-17,Vertical Research Partners,Not Provided,3.0,hold,180.0
+2017-04-17,Barclays,Not Provided,5.0,overweight,221.0
+2017-04-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-18,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2017-04-20,Canaccord Genuity,12 month,3.0,hold,205.0
+2017-04-27,UBS,Not Provided,-2147483648.0,restricted,-0.0
+2017-04-28,Vertical Research Partners,Not Provided,3.0,hold,220.0
+2017-04-28,Barclays,Not Provided,5.0,overweight,237.0
+2017-04-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-28,Goldman Sachs,12 month,3.0,neutral/neutral,224.0
+2017-04-28,Cowen,12 month,5.0,outperform,250.0
+2017-04-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-30,Stifel,12 month,5.0,buy,242.0
+2017-04-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-01,RBC Capital Markets,12 month,5.0,outperform,248.0
+2017-05-01,Raymond James,12 month,5.0,strong buy,253.0
+2017-05-01,Canaccord Genuity,12 month,3.0,hold,225.0
+2017-05-01,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-05-01,Baird,12 month,3.0,neutral,218.0
+2017-05-01,J.P. Morgan,12 month,3.0,neutral,222.0
+2017-05-01,Oppenheimer & Co,12 month,5.0,outperform,250.0
+2017-05-03,Cowen,12 month,5.0,outperform,250.0
+2017-05-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-05-11,J.P. Morgan,12 month,3.0,neutral,222.0
+2017-05-12,Stifel,12 month,5.0,buy,242.0
+2017-05-17,Cowen,12 month,5.0,outperform,250.0
+2017-05-17,Argus Research Corp,Not Provided,5.0,buy,236.0
+2017-05-19,Argus Research Corp,Not Provided,5.0,buy,236.0
+2017-05-22,Oppenheimer & Co,12 month,5.0,outperform,250.0
+2017-05-22,Stifel,12 month,5.0,buy,242.0

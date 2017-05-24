@@ -1,0 +1,2113 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2005-03-22,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2005-06-03,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2005-06-16,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2005-07-07,Bear Stearns & Co,Not Provided,3.0,peerperform,47.0
+2005-07-08,Goldman Sachs,Not Provided,3.0,in-line,-0.0
+2005-08-09,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2005-10-20,Bernstein,Not Provided,3.0,market perform,51.0
+2005-10-28,Fox-Pitt Kelton Cochran Caronia Waller,Not Provided,5.0,outperform,55.0
+2005-10-28,FBR Capital Markets,12 month,3.0,market perform,49.0
+2005-11-25,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,57.0
+2005-11-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2005-12-05,Oppenheimer & Co,Not Provided,3.0,neutral,47.0
+2005-12-06,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,56.0
+2005-12-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2005-12-06,UBS,12 month,3.0,neutral 2,55.0
+2005-12-06,Barclays,Not Provided,3.0,equalwt/neutral,51.0
+2005-12-06,Credit Suisse,12 month,5.0,outperform,57.0
+2006-01-31,Oppenheimer & Co,Not Provided,3.0,neutral,47.0
+2006-02-10,UBS,12 month,3.0,neutral 2,54.0
+2006-02-10,Bear Stearns & Co,Not Provided,3.0,peerperform,-0.0
+2006-02-10,Credit Suisse,12 month,5.0,outperform,57.0
+2006-02-10,Oppenheimer & Co,Not Provided,3.0,neutral,-0.0
+2006-02-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-02-10,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,56.0
+2006-02-10,FBR Capital Markets,12 month,3.0,market perform,49.0
+2006-02-17,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,57.0
+2006-03-09,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-04-06,J.P. Morgan,9 month,5.0,overweight,57.0
+2006-04-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-04-28,FBR Capital Markets,12 month,3.0,market perform,58.0
+2006-04-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-04-28,Credit Suisse,12 month,5.0,outperform,60.0
+2006-05-01,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,59.0
+2006-05-01,Raymond James,Not Provided,3.0,market perform,-0.0
+2006-05-01,Fox-Pitt Kelton Cochran Caronia Waller,Not Provided,5.0,outperform,-0.0
+2006-05-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-05-10,Barclays,Not Provided,5.0,overwt/neutral,59.0
+2006-05-17,Goldman Sachs,Not Provided,3.0,in-line/cautious,-0.0
+2006-05-30,Credit Suisse,12 month,5.0,outperform,60.0
+2006-06-02,UBS,12 month,3.0,neutral 2,58.0
+2006-06-26,Goldman Sachs,12 month,3.0,in-line/cautious,59.0
+2006-07-10,Credit Suisse,12 month,5.0,outperform,60.0
+2006-07-19,Credit Suisse,12 month,5.0,outperform,60.0
+2006-07-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-07-24,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,59.0
+2006-08-01,UBS,12 month,3.0,neutral 2,59.0
+2006-08-01,Raymond James,Not Provided,5.0,outperform,60.0
+2006-08-01,Barclays,Not Provided,5.0,overwt/neutral,62.0
+2006-08-01,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,58.0
+2006-08-01,FBR Capital Markets,12 month,3.0,market perform,58.0
+2006-08-01,Credit Suisse,12 month,5.0,outperform,60.0
+2006-08-02,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,59.0
+2006-08-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-08-10,Goldman Sachs,Not Provided,5.0,outperf/cautious,59.0
+2006-09-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-09-13,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,59.0
+2006-09-13,Credit Suisse,12 month,5.0,outperform,60.0
+2006-09-27,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-10-04,Goldman Sachs,Not Provided,5.0,Buy/Cautious,62.0
+2006-10-17,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,63.0
+2006-10-17,Goldman Sachs,Not Provided,5.0,Buy/Cautious,63.5
+2006-10-18,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,64.0
+2006-10-18,Credit Suisse,12 month,5.0,outperform,60.0
+2006-10-31,Credit Suisse,12 month,5.0,outperform,60.0
+2006-10-31,UBS,12 month,3.0,neutral 2,64.0
+2006-10-31,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-10-31,FBR Capital Markets,12 month,3.0,market perform,58.0
+2006-10-31,Barclays,Not Provided,5.0,overwt/neutral,68.0
+2006-11-01,Goldman Sachs,Not Provided,5.0,Buy/Cautious,64.0
+2006-11-01,Raymond James,Not Provided,5.0,outperform,65.0
+2006-11-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-11-02,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,64.0
+2006-12-07,Barclays,Not Provided,5.0,overwt/neutral,64.0
+2006-12-07,FBR Capital Markets,Not Provided,1.0,underperform,58.0
+2006-12-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-12-07,Credit Suisse,12 month,5.0,outperform,65.0
+2006-12-07,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,62.0
+2006-12-14,Bear Stearns & Co,12 month,5.0,outperform,69.0
+2007-01-11,UBS,Not Provided,5.0,buy 2,71.0
+2007-01-16,Investec,Not Provided,3.0,hold,-0.0
+2007-01-17,Goldman Sachs,Not Provided,5.0,Buy/Cautious,67.0
+2007-01-22,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,62.0
+2007-01-22,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,64.0
+2007-01-29,Goldman Sachs,Not Provided,5.0,Buy/Neutral,67.0
+2007-02-14,FBR Capital Markets,Not Provided,1.0,underperform,58.0
+2007-02-14,Wells Fargo Securities,Not Provided,5.0,outperform,73.5
+2007-02-14,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-02-14,UBS,Not Provided,5.0,buy 2,73.0
+2007-02-14,Credit Suisse,12 month,5.0,outperform,65.0
+2007-02-14,Bear Stearns & Co,12 month,5.0,outperform,71.0
+2007-02-14,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,62.0
+2007-02-15,Raymond James,Not Provided,5.0,outperform,72.0
+2007-02-19,Investec,Not Provided,5.0,buy,-0.0
+2007-02-20,Bear Stearns & Co,Not Provided,5.0,outperform,72.0
+2007-02-22,Credit Suisse,12 month,5.0,outperform,71.0
+2007-02-28,Wells Fargo Securities,Not Provided,5.0,outperform,73.5
+2007-03-01,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,62.0
+2007-03-12,Barclays,Not Provided,5.0,overwt/neutral,67.0
+2007-03-13,Atlantic Equities LLP,Not Provided,5.0,overweight,75.0
+2007-03-13,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,66.0
+2007-03-19,Investec,Not Provided,3.0,hold,-0.0
+2007-03-28,UBS,Not Provided,5.0,buy 2,73.0
+2007-04-19,Barclays,Not Provided,5.0,overwt/neutral,70.0
+2007-04-24,Atlantic Equities LLP,Not Provided,5.0,overweight,75.0
+2007-04-30,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-05-02,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,69.0
+2007-05-02,Goldman Sachs,Not Provided,5.0,Buy/Neutral,72.0
+2007-05-02,Atlantic Equities LLP,Not Provided,5.0,overweight,75.0
+2007-05-02,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-05-02,Credit Suisse,12 month,5.0,outperform,76.0
+2007-05-02,Barclays,Not Provided,5.0,overwt/neutral,71.0
+2007-05-02,Wells Fargo Securities,Not Provided,5.0,outperform,73.5
+2007-05-03,Raymond James,Not Provided,5.0,outperform,75.0
+2007-05-04,Bear Stearns & Co,Not Provided,5.0,outperform,73.0
+2007-05-07,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,74.0
+2007-05-21,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,72.0
+2007-05-22,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2007-05-23,UBS,Not Provided,3.0,neutral 2,74.0
+2007-06-06,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,73.0
+2007-07-02,Investec,Not Provided,5.0,buy,-0.0
+2007-07-11,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-07-13,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2007-07-16,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,74.0
+2007-07-20,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2007-07-24,Wells Fargo Securities,Not Provided,5.0,outperform,73.5
+2007-08-01,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-08-01,Wells Fargo Securities,Not Provided,5.0,outperform,73.5
+2007-08-01,Credit Suisse,12 month,5.0,outperform,75.0
+2007-08-01,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2007-08-01,Barclays,Not Provided,5.0,overwt/neutral,68.0
+2007-08-01,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,74.0
+2007-08-01,UBS,Not Provided,3.0,neutral,74.0
+2007-08-01,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-08-02,Raymond James,Not Provided,5.0,outperform,70.0
+2007-08-07,Goldman Sachs,Not Provided,5.0,Buy/Neutral,74.0
+2007-08-14,Credit Suisse,12 month,5.0,outperform,75.0
+2007-08-21,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2007-09-05,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,73.0
+2007-09-06,Bernstein,Not Provided,3.0,market perform,66.0
+2007-09-26,Wells Fargo Securities,Not Provided,5.0,outperform,73.5
+2007-09-26,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,73.0
+2007-10-01,Barclays,Not Provided,5.0,overwt/neutral,77.0
+2007-10-02,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2007-10-11,FBR Capital Markets,Not Provided,5.0,outperform,83.0
+2007-10-12,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-10-17,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,75.0
+2007-10-19,FBR Capital Markets,Not Provided,5.0,outperform,83.0
+2007-10-23,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2007-11-01,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,70.0
+2007-11-01,UBS,12 month,3.0,neutral,76.0
+2007-11-01,Wells Fargo Securities,Not Provided,5.0,outperform,73.5
+2007-11-01,Barclays,Not Provided,5.0,overwt/neutral,76.0
+2007-11-01,Morgan Stanley,12 month,3.0,Equalwt/Attractive,75.0
+2007-11-01,Credit Suisse,12 month,5.0,outperform,75.0
+2007-11-01,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2007-11-02,Raymond James,Not Provided,5.0,outperform,74.0
+2007-11-05,FBR Capital Markets,Not Provided,5.0,outperform,83.0
+2007-11-05,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,71.0
+2007-11-28,Credit Suisse,12 month,5.0,outperform,73.0
+2007-12-03,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2007-12-03,Wells Fargo Securities,Not Provided,5.0,outperform,73.5
+2007-12-04,FBR Capital Markets,Not Provided,5.0,outperform,76.0
+2007-12-04,UBS,12 month,3.0,neutral,76.0
+2007-12-04,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,71.0
+2007-12-04,Morgan Stanley,12 month,3.0,Equalwt/Attractive,75.0
+2007-12-04,Raymond James,Not Provided,5.0,outperform,71.0
+2007-12-04,Credit Suisse,12 month,5.0,outperform,73.0
+2007-12-10,Goldman Sachs,Not Provided,5.0,Buy/Neutral,74.0
+2007-12-10,"Keefe, Bruyette & Woods",12 month,3.0,market perform,72.0
+2007-12-10,FBR Capital Markets,Not Provided,5.0,outperform,76.0
+2007-12-12,UBS,12 month,3.0,neutral,70.0
+2008-01-07,FBR Capital Markets,Not Provided,5.0,outperform,76.0
+2008-01-08,Morgan Stanley,12 month,3.0,Equalwt/Attractive,70.0
+2008-01-14,"Keefe, Bruyette & Woods",12 month,3.0,market perform,72.0
+2008-01-15,Bernstein,Not Provided,5.0,outperform,75.0
+2008-01-22,Morgan Stanley,12 month,3.0,Equalwt/Attractive,65.0
+2008-01-22,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2008-01-22,Goldman Sachs,12 month,3.0,neutral/neutral,65.0
+2008-01-22,Bernstein,Not Provided,5.0,outperform,75.0
+2008-01-28,Credit Suisse,12 month,5.0,outperform,64.0
+2008-02-01,Morgan Stanley,12 month,3.0,Equalwt/In-Line,65.0
+2008-02-07,FBR Capital Markets,Not Provided,5.0,outperform,76.0
+2008-02-07,Credit Suisse,12 month,5.0,outperform,65.0
+2008-02-07,Barclays,Not Provided,5.0,overwt/neutral,72.0
+2008-02-07,Wells Fargo Securities,Not Provided,5.0,outperform,71.0
+2008-02-07,UBS,12 month,3.0,neutral,70.0
+2008-02-07,Raymond James,Not Provided,5.0,outperform,67.0
+2008-02-07,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2008-02-07,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-02-07,Morgan Stanley,12 month,3.0,Equalwt/In-Line,66.0
+2008-02-11,"Keefe, Bruyette & Woods",12 month,3.0,market perform,66.0
+2008-02-21,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2008-02-28,Morgan Stanley,12 month,3.0,Equalwt/In-Line,66.0
+2008-03-05,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2008-04-01,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-04-08,Goldman Sachs,12 month,5.0,Buy/Neutral,72.0
+2008-04-14,"Keefe, Bruyette & Woods",12 month,3.0,market perform,66.0
+2008-04-16,Morgan Stanley,12 month,3.0,Equalwt/In-Line,67.0
+2008-05-01,Credit Suisse,12 month,5.0,outperform,65.0
+2008-05-02,Barclays,Not Provided,5.0,overwt/neutral,71.0
+2008-05-02,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2008-05-02,Wells Fargo Securities,Not Provided,5.0,outperform,71.0
+2008-05-02,UBS,12 month,3.0,neutral,65.0
+2008-05-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,67.0
+2008-05-02,"Keefe, Bruyette & Woods",12 month,3.0,market perform,66.0
+2008-05-02,Raymond James,Not Provided,5.0,outperform,74.0
+2008-05-02,FBR Capital Markets,Not Provided,5.0,outperform,75.0
+2008-05-05,Goldman Sachs,12 month,5.0,Buy/Neutral,73.0
+2008-05-05,Barclays,Not Provided,5.0,overwt/neutral,71.0
+2008-05-13,UBS,12 month,3.0,neutral,65.0
+2008-05-15,Fox-Pitt Kelton Cochran Caronia Waller,Not Provided,5.0,outperform,73.0
+2008-05-30,Bernstein,Not Provided,5.0,outperform,75.0
+2008-06-02,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2008-06-03,Credit Suisse,12 month,5.0,outperform,65.0
+2008-06-03,Raymond James,Not Provided,5.0,outperform,74.0
+2008-06-10,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-06-23,Wells Fargo Securities,Not Provided,5.0,outperform,71.0
+2008-07-08,"Keefe, Bruyette & Woods",12 month,3.0,market perform,65.0
+2008-07-10,Credit Suisse,12 month,5.0,outperform,62.0
+2008-07-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-07-17,Goldman Sachs,12 month,5.0,Buy/Neutral,60.0
+2008-07-30,Credit Suisse,12 month,5.0,outperform,62.0
+2008-07-30,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-07-30,FBR Capital Markets,Not Provided,5.0,outperform,65.0
+2008-07-30,Barclays,Not Provided,5.0,overwt/neutral,65.0
+2008-07-30,Atlantic Equities LLP,Not Provided,5.0,overweight,78.0
+2008-07-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-07-30,UBS,12 month,3.0,neutral,65.0
+2008-07-31,"Keefe, Bruyette & Woods",12 month,3.0,market perform,65.0
+2008-08-01,Goldman Sachs,12 month,5.0,Buy/Neutral,62.0
+2008-08-04,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2008-08-11,UBS,12 month,3.0,neutral,59.0
+2008-09-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-09-11,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,65.0
+2008-09-22,FBR Capital Markets,Not Provided,5.0,outperform,67.0
+2008-09-24,Barclays,Not Provided,5.0,overwt/neutral,65.0
+2008-10-03,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-10-07,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,51.0
+2008-10-08,Sterne Agee CRT,Not Provided,5.0,buy,63.0
+2008-10-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-10-08,Credit Suisse,Not Provided,-2147483648.0,restricted,-0.0
+2008-10-08,Atlantic Equities LLP,12 month,1.0,underweight,36.0
+2008-10-09,Raymond James,12 month,5.0,outperform,46.0
+2008-10-09,Goldman Sachs,12 month,5.0,Buy/Neutral,42.0
+2008-10-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-10-09,Atlantic Equities LLP,Not Provided,3.0,neutral,36.0
+2008-10-14,Sterne Agee CRT,12 month,5.0,buy,52.0
+2008-10-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-10-29,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,44.0
+2008-10-29,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,51.0
+2008-10-29,Credit Suisse,Not Provided,5.0,outperform,45.0
+2008-10-30,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2008-10-30,Sterne Agee CRT,Not Provided,5.0,buy,45.0
+2008-10-30,FBR Capital Markets,Not Provided,5.0,outperform,54.0
+2008-10-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-10-30,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,51.0
+2008-10-31,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,42.0
+2008-10-31,Raymond James,12 month,5.0,outperform,33.0
+2008-10-31,UBS,Not Provided,5.0,buy,35.0
+2008-11-05,Fox-Pitt Kelton Cochran Caronia Waller,Not Provided,5.0,outperform,50.0
+2008-11-07,Fox-Pitt Kelton Cochran Caronia Waller,Not Provided,5.0,outperform,50.0
+2008-11-11,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,48.0
+2008-11-11,Goldman Sachs,12 month,3.0,neutral/cautious,34.0
+2008-11-15,Sterne Agee CRT,Not Provided,5.0,buy,48.0
+2008-11-18,Credit Suisse,Not Provided,5.0,outperform,40.0
+2008-11-21,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,26.0
+2008-11-21,Dowling & Partners,Not Provided,3.0,neutral,-0.0
+2008-11-24,FBR Capital Markets,Not Provided,5.0,outperform,-0.0
+2008-12-08,Credit Suisse,Not Provided,5.0,outperform,40.0
+2008-12-09,Raymond James,12 month,5.0,outperform,33.0
+2008-12-09,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2008-12-09,Barclays,Not Provided,5.0,overwt/neutral,47.0
+2008-12-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-12-09,FBR Capital Markets,Not Provided,5.0,outperform,44.0
+2008-12-09,Sterne Agee CRT,Not Provided,5.0,buy,41.0
+2008-12-09,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,48.0
+2008-12-15,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,38.0
+2008-12-16,Sterne Agee CRT,Not Provided,5.0,buy,48.0
+2008-12-22,J.P. Morgan,15 month,5.0,overweight,42.0
+2009-01-01,J.P. Morgan,12 month,5.0,overweight,42.0
+2009-01-07,Fox-Pitt Kelton Cochran Caronia Waller,Not Provided,5.0,outperform,43.0
+2009-01-07,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,48.0
+2009-01-09,FBR Capital Markets,Not Provided,5.0,outperform,44.0
+2009-01-15,Bernstein,Not Provided,5.0,outperform,50.0
+2009-01-16,Raymond James,12 month,5.0,outperform,32.0
+2009-02-04,Sterne Agee CRT,Not Provided,5.0,buy,-0.0
+2009-02-04,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2009-02-04,Barclays,Not Provided,5.0,overwt/neutral,45.0
+2009-02-04,J.P. Morgan,12 month,5.0,overweight,38.0
+2009-02-04,FBR Capital Markets,Not Provided,5.0,outperform,45.0
+2009-02-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-02-04,Raymond James,12 month,5.0,outperform,31.0
+2009-02-04,Credit Suisse,Not Provided,5.0,outperform,38.0
+2009-02-04,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2009-02-04,UBS,Not Provided,5.0,buy,35.0
+2009-02-17,Sterne Agee CRT,Not Provided,5.0,buy,49.0
+2009-02-27,Goldman Sachs,12 month,3.0,neutral/cautious,21.0
+2009-03-09,UBS,Not Provided,5.0,buy,17.0
+2009-03-10,FBR Capital Markets,Not Provided,3.0,market perform,14.0
+2009-03-12,J.P. Morgan,9 month,5.0,overweight,24.0
+2009-03-13,UBS,Not Provided,5.0,buy,17.0
+2009-03-16,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,35.0
+2009-03-25,UBS,Not Provided,5.0,buy,26.0
+2009-03-30,Atlantic Equities LLP,Not Provided,3.0,neutral,-0.0
+2009-03-31,FBR Capital Markets,Not Provided,3.0,market perform,14.0
+2009-04-08,Sterne Agee CRT,12 month,5.0,buy,49.0
+2009-04-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-04-15,Bernstein,Not Provided,5.0,outperform,42.0
+2009-04-15,Credit Suisse,Not Provided,5.0,outperform,38.0
+2009-04-17,Bernstein,Not Provided,5.0,outperform,42.0
+2009-04-20,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,38.0
+2009-04-21,UBS,Not Provided,5.0,buy,31.0
+2009-04-23,Atlantic Equities LLP,12 month,3.0,neutral,38.44
+2009-04-24,Goldman Sachs,12 month,3.0,neutral/cautious,27.0
+2009-04-28,Barclays,Not Provided,5.0,overwt/neutral,45.0
+2009-04-28,Bernstein,Not Provided,5.0,outperform,42.0
+2009-04-30,Sterne Agee CRT,Not Provided,5.0,buy,42.0
+2009-04-30,Credit Suisse,Not Provided,5.0,outperform,38.0
+2009-05-01,Bernstein,Not Provided,5.0,outperform,42.0
+2009-05-01,Atlantic Equities LLP,12 month,3.0,neutral,38.44
+2009-05-01,UBS,Not Provided,5.0,buy,31.0
+2009-05-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-05-01,FBR Capital Markets,12 month,3.0,market perform,26.0
+2009-05-01,Barclays,Not Provided,5.0,overwt/neutral,45.0
+2009-05-04,Raymond James,12 month,5.0,outperform,31.0
+2009-05-04,J.P. Morgan,9 month,5.0,overweight,28.0
+2009-05-07,Credit Suisse,Not Provided,5.0,outperform,38.0
+2009-05-11,Goldman Sachs,12 month,5.0,Buy/Cautious,43.0
+2009-05-12,Sterne Agee CRT,Not Provided,5.0,buy,42.0
+2009-05-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-05-14,Atlantic Equities LLP,12 month,5.0,overweight,44.0
+2009-05-14,UBS,Not Provided,5.0,buy,40.0
+2009-05-19,Bernstein,Not Provided,5.0,outperform,47.0
+2009-05-21,Sterne Agee CRT,12 month,5.0,buy,41.0
+2009-05-26,FBR Capital Markets,Not Provided,3.0,market perform,35.0
+2009-05-27,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,39.0
+2009-05-29,J.P. Morgan,6 month,5.0,overweight,28.0
+2009-06-04,Bernstein,12 month,5.0,outperform,47.0
+2009-06-08,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,43.0
+2009-06-10,Bernstein,Not Provided,5.0,outperform,47.0
+2009-06-18,FBR Capital Markets,Not Provided,3.0,market perform,35.0
+2009-06-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-06-26,Bernstein,12 month,5.0,outperform,47.0
+2009-07-01,Credit Suisse,Not Provided,5.0,outperform,38.0
+2009-07-02,Bernstein,Not Provided,5.0,outperform,47.0
+2009-07-07,Sterne Agee CRT,Not Provided,5.0,buy,41.0
+2009-07-07,J.P. Morgan,6 month,5.0,overweight,30.0
+2009-07-08,FBR Capital Markets,Not Provided,3.0,market perform,35.0
+2009-07-09,Atlantic Equities LLP,12 month,5.0,overweight,44.0
+2009-07-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-07-15,Credit Suisse,Not Provided,5.0,outperform,38.0
+2009-07-19,Goldman Sachs,12 month,5.0,Buy/Cautious,34.0
+2009-07-20,J.P. Morgan,6 month,5.0,overweight,30.0
+2009-07-20,Fox-Pitt Kelton Cochran Caronia Waller,Not Provided,5.0,outperform,36.0
+2009-07-20,Bernstein,12 month,5.0,outperform,47.0
+2009-07-22,Bernstein,12 month,5.0,outperform,47.0
+2009-07-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-07-27,UBS,Not Provided,-2147483648.0,suspended coverage,-0.0
+2009-07-31,Sterne Agee CRT,Not Provided,5.0,buy,44.0
+2009-07-31,Raymond James,12 month,5.0,strong buy,42.0
+2009-07-31,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,44.0
+2009-07-31,J.P. Morgan,15 month,5.0,overweight,37.0
+2009-07-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-07-31,Atlantic Equities LLP,12 month,5.0,overweight,44.0
+2009-07-31,Barclays,Not Provided,5.0,overwt/neutral,43.0
+2009-07-31,FBR Capital Markets,Not Provided,3.0,market perform,35.0
+2009-07-31,Credit Suisse,Not Provided,5.0,outperform,38.0
+2009-08-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-08-05,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2009-08-06,Goldman Sachs,12 month,3.0,neutral/cautious,37.0
+2009-08-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-12,Sterne Agee CRT,Not Provided,5.0,buy,45.0
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-14,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,41.0
+2009-08-26,Sterne Agee CRT,12 month,3.0,neutral,45.0
+2009-09-01,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2009-09-01,Raymond James,Not Provided,3.0,market perform,-0.0
+2009-09-14,Fox-Pitt Kelton Cochran Caronia Waller,Not Provided,5.0,outperform,43.0
+2009-09-16,Barclays,Not Provided,5.0,overwt/neutral,43.0
+2009-09-17,Sterne Agee CRT,12 month,3.0,neutral,45.0
+2009-09-21,Bernstein,12 month,5.0,outperform,50.0
+2009-09-23,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,47.0
+2009-10-01,FBR Capital Markets,Not Provided,3.0,market perform,36.0
+2009-10-05,UBS,Not Provided,5.0,buy,43.0
+2009-10-06,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,39.0
+2009-10-07,J.P. Morgan,15 month,5.0,overweight,42.0
+2009-10-13,Credit Suisse,Not Provided,3.0,neutral,38.0
+2009-10-14,Sterne Agee CRT,12 month,3.0,neutral,45.0
+2009-10-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-10-20,FBR Capital Markets,Not Provided,3.0,market perform,36.0
+2009-10-30,J.P. Morgan,12 month,5.0,overweight,42.0
+2009-10-30,Bernstein,Not Provided,5.0,outperform,50.0
+2009-10-30,Barclays,Not Provided,5.0,overwt/neutral,42.0
+2009-10-30,Atlantic Equities LLP,12 month,5.0,overweight,45.0
+2009-10-30,UBS,Not Provided,5.0,buy,43.0
+2009-10-30,Sterne Agee CRT,12 month,3.0,neutral,45.0
+2009-10-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2009-10-30,Credit Suisse,Not Provided,3.0,neutral,38.0
+2009-10-30,FBR Capital Markets,Not Provided,3.0,market perform,41.0
+2009-11-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-11-07,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2009-11-12,FBR Capital Markets,Not Provided,3.0,market perform,41.0
+2009-11-20,Bernstein,12 month,5.0,outperform,53.0
+2009-11-30,Sterne Agee CRT,12 month,3.0,neutral,45.0
+2009-12-01,Macquarie,12 month,5.0,outperform,43.0
+2009-12-07,Atlantic Equities LLP,12 month,5.0,overweight,45.0
+2009-12-08,Barclays,Not Provided,5.0,overwt/positive,42.0
+2009-12-08,Credit Suisse,Not Provided,3.0,neutral,38.0
+2009-12-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2009-12-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-12-08,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,39.0
+2009-12-08,FBR Capital Markets,12 month,3.0,market perform,41.0
+2009-12-08,Bernstein,Not Provided,5.0,outperform,53.0
+2009-12-08,UBS,Not Provided,5.0,buy,43.0
+2009-12-08,Macquarie,12 month,5.0,outperform,43.0
+2009-12-15,FBR Capital Markets,12 month,3.0,market perform,43.0
+2009-12-16,Macquarie,12 month,5.0,outperform,43.0
+2009-12-17,Bernstein,12 month,5.0,outperform,53.0
+2009-12-18,UBS,Not Provided,5.0,buy,43.0
+2009-12-22,"Keefe, Bruyette & Woods",Not Provided,3.0,market perform,41.0
+2010-01-05,Portales Partners,Not Provided,3.0,hold,-0.0
+2010-01-06,Macquarie,12 month,5.0,outperform,44.0
+2010-01-06,Sterne Agee CRT,12 month,3.0,neutral,44.0
+2010-01-07,FBR Capital Markets,12 month,3.0,market perform,43.0
+2010-01-08,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-01-11,Bernstein,12 month,5.0,outperform,53.0
+2010-01-11,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,45.0
+2010-01-12,FBR Capital Markets,Not Provided,3.0,market perform,43.0
+2010-01-20,UBS,Not Provided,5.0,buy,43.0
+2010-01-20,Atlantic Equities LLP,12 month,5.0,overweight,47.0
+2010-01-22,Bernstein,12 month,5.0,outperform,53.0
+2010-01-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-01-26,FBR Capital Markets,12 month,3.0,market perform,43.0
+2010-02-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-02-02,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2010-02-03,Credit Suisse,Not Provided,3.0,neutral,38.0
+2010-02-03,Atlantic Equities LLP,12 month,5.0,overweight,47.0
+2010-02-03,UBS,Not Provided,5.0,buy,43.0
+2010-02-03,J.P. Morgan,12 month,5.0,overweight,42.0
+2010-02-03,Barclays,Not Provided,5.0,overwt/positive,41.0
+2010-02-03,Sterne Agee CRT,12 month,3.0,neutral,44.0
+2010-02-03,Bernstein,12 month,5.0,outperform,53.0
+2010-02-04,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-02-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2010-02-04,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,44.0
+2010-02-05,FBR Capital Markets,12 month,5.0,outperform,46.0
+2010-02-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-02-17,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,45.0
+2010-02-18,Sterne Agee CRT,12 month,3.0,neutral,45.0
+2010-02-26,Sterne Agee CRT,12 month,3.0,neutral,45.0
+2010-03-02,Bernstein,12 month,5.0,outperform,53.0
+2010-03-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-03-08,Atlantic Equities LLP,12 month,5.0,overweight,47.0
+2010-03-08,Barclays,Not Provided,-2147483648.0,suspended coverage,-0.0
+2010-03-08,Credit Suisse,Not Provided,-2147483648.0,restricted,-0.0
+2010-03-09,Sterne Agee CRT,12 month,3.0,neutral,49.0
+2010-03-09,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,49.0
+2010-03-09,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,50.0
+2010-03-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-03-09,UBS,Not Provided,5.0,buy,46.0
+2010-03-09,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-03-09,Bernstein,12 month,5.0,outperform,53.0
+2010-03-10,J.P. Morgan,9 month,5.0,overweight,44.0
+2010-03-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2010-03-15,Bernstein,12 month,5.0,outperform,53.0
+2010-03-16,FBR Capital Markets,12 month,5.0,outperform,50.0
+2010-03-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-03-26,Bernstein,12 month,5.0,outperform,55.0
+2010-04-07,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2010-04-08,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,53.0
+2010-04-09,Sterne Agee CRT,12 month,3.0,neutral,57.0
+2010-04-12,"Keefe, Bruyette & Woods",12 month,5.0,outperform,54.0
+2010-04-16,Bernstein,12 month,5.0,outperform,55.0
+2010-04-18,Macquarie,12 month,5.0,outperform,55.0
+2010-04-20,FBR Capital Markets,12 month,5.0,outperform,50.0
+2010-04-21,J.P. Morgan,9 month,5.0,overweight,49.0
+2010-04-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-04-22,UBS,Not Provided,5.0,buy,54.0
+2010-04-23,Bernstein,12 month,5.0,outperform,55.0
+2010-04-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-04-30,UBS,Not Provided,5.0,buy,54.0
+2010-04-30,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,53.0
+2010-04-30,J.P. Morgan,6 month,5.0,overweight,49.0
+2010-04-30,Sterne Agee CRT,12 month,3.0,neutral,57.0
+2010-04-30,Atlantic Equities LLP,12 month,5.0,overweight,55.0
+2010-04-30,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-04-30,Bernstein,12 month,5.0,outperform,55.0
+2010-05-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2010-05-03,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,54.0
+2010-05-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-05-07,Bernstein,12 month,5.0,outperform,55.0
+2010-05-14,Bernstein,12 month,5.0,outperform,55.0
+2010-05-17,UBS,Not Provided,5.0,buy,60.0
+2010-05-18,Sterne Agee CRT,12 month,3.0,neutral,57.0
+2010-06-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-06-10,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-06-10,Sterne Agee CRT,12 month,5.0,buy,58.0
+2010-06-23,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-06-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-06-25,Bernstein,12 month,5.0,outperform,55.0
+2010-06-30,Atlantic Equities LLP,12 month,5.0,overweight,55.0
+2010-07-07,Macquarie,12 month,5.0,outperform,55.0
+2010-07-08,Sterne Agee CRT,12 month,5.0,buy,53.0
+2010-07-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-07-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2010-07-12,Sterne Agee CRT,12 month,5.0,buy,53.0
+2010-07-13,Macquarie,12 month,5.0,outperform,55.0
+2010-07-14,"Keefe, Bruyette & Woods",12 month,5.0,outperform,53.0
+2010-07-15,J.P. Morgan,6 month,5.0,overweight,46.0
+2010-07-16,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-07-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-07-29,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,53.0
+2010-07-29,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2010-07-30,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-07-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2010-07-30,Atlantic Equities LLP,12 month,5.0,overweight,55.0
+2010-07-30,Sterne Agee CRT,12 month,5.0,buy,53.0
+2010-07-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-07-30,UBS,Not Provided,5.0,buy,60.0
+2010-07-30,J.P. Morgan,6 month,5.0,overweight,46.0
+2010-07-30,Macquarie,12 month,5.0,outperform,55.0
+2010-08-02,Portales Partners,Not Provided,3.0,hold,-0.0
+2010-08-02,Raymond James,Not Provided,3.0,market perform,-0.0
+2010-08-03,Atlantic Equities LLP,12 month,5.0,overweight,55.0
+2010-08-03,"Keefe, Bruyette & Woods",12 month,5.0,outperform,53.0
+2010-08-06,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-08-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-08-10,Sterne Agee CRT,12 month,5.0,buy,53.0
+2010-08-12,Macquarie,12 month,5.0,outperform,55.0
+2010-08-19,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-08-20,UBS,Not Provided,5.0,buy,60.0
+2010-08-26,Sterne Agee CRT,12 month,5.0,buy,53.0
+2010-09-14,Bernstein,12 month,5.0,outperform,52.0
+2010-09-15,Sterne Agee CRT,12 month,5.0,buy,53.0
+2010-09-15,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,53.0
+2010-09-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-09-17,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-09-20,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-09-20,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-09-23,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-09-23,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,52.0
+2010-09-23,Bernstein,12 month,5.0,outperform,52.0
+2010-09-30,Macquarie,12 month,5.0,outperform,55.0
+2010-09-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-10-11,Sterne Agee CRT,12 month,5.0,buy,49.0
+2010-10-11,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-10-11,J.P. Morgan,15 month,5.0,overweight,47.0
+2010-10-11,"Keefe, Bruyette & Woods",12 month,5.0,outperform,51.0
+2010-10-12,Macquarie,12 month,5.0,outperform,49.0
+2010-10-13,Atlantic Equities LLP,12 month,5.0,overweight,55.0
+2010-10-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-10-19,Raymond James,Not Provided,3.0,market perform,-0.0
+2010-10-22,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-10-25,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2010-10-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-10-29,Macquarie,12 month,5.0,outperform,49.0
+2010-10-29,Sterne Agee CRT,12 month,5.0,buy,49.0
+2010-10-29,UBS,Not Provided,5.0,buy,60.0
+2010-10-29,Barclays,Not Provided,-2147483648.0,suspended coverage,-0.0
+2010-10-29,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-10-29,J.P. Morgan,15 month,5.0,overweight,47.0
+2010-10-29,Morgan Stanley,12 month,5.0,Overwt/Attractive,50.0
+2010-10-29,Atlantic Equities LLP,12 month,5.0,overweight,55.0
+2010-11-01,Portales Partners,Not Provided,3.0,hold,-0.0
+2010-11-01,Raymond James,Not Provided,3.0,market perform,-0.0
+2010-11-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-11-04,"Keefe, Bruyette & Woods",12 month,5.0,outperform,51.0
+2010-11-04,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2010-11-08,Credit Suisse,Not Provided,5.0,outperform,50.0
+2010-11-08,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-11-09,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2010-11-09,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-11-10,Macquarie,12 month,5.0,outperform,49.0
+2010-11-12,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-11-12,Barclays,Not Provided,5.0,overwt/positive,52.0
+2010-11-23,Macquarie,12 month,5.0,outperform,49.0
+2010-11-24,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-11-30,Sterne Agee CRT,12 month,5.0,buy,49.0
+2010-12-01,Goldman Sachs,12 month,3.0,neutral/neutral,42.0
+2010-12-06,Credit Suisse,Not Provided,5.0,outperform,50.0
+2010-12-06,Atlantic Equities LLP,12 month,5.0,overweight,56.0
+2010-12-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2010-12-07,"Keefe, Bruyette & Woods",12 month,5.0,outperform,51.0
+2010-12-07,Barclays,Not Provided,5.0,overwt/positive,50.0
+2010-12-07,Sterne Agee CRT,12 month,5.0,buy,49.0
+2010-12-07,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-12-07,UBS,12 month,5.0,buy,60.0
+2010-12-07,Macquarie,12 month,5.0,outperform,49.0
+2010-12-08,Sterne Agee CRT,12 month,5.0,buy,49.0
+2010-12-10,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-12-12,Goldman Sachs,12 month,3.0,neutral/neutral,48.0
+2010-12-15,Goldman Sachs,12 month,3.0,neutral/attractive,49.0
+2010-12-17,FBR Capital Markets,12 month,5.0,outperform,52.0
+2010-12-21,"Keefe, Bruyette & Woods",12 month,5.0,outperform,52.0
+2011-01-04,J.P. Morgan,12 month,5.0,overweight,51.0
+2011-01-04,FBR Capital Markets,12 month,5.0,outperform,52.0
+2011-01-05,Macquarie,12 month,5.0,outperform,54.0
+2011-01-06,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-01-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2011-01-13,Sterne Agee CRT,12 month,5.0,buy,54.0
+2011-01-14,Bernstein,Not Provided,5.0,outperform,60.0
+2011-01-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-01-24,"Keefe, Bruyette & Woods",12 month,5.0,outperform,53.0
+2011-01-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-01-26,Sterne Agee CRT,12 month,5.0,buy,54.0
+2011-01-27,Bernstein,12 month,5.0,outperform,60.0
+2011-01-31,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-01-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-01-31,Bernstein,12 month,5.0,outperform,60.0
+2011-02-02,Scotia Capital,12 month,5.0,sector outperform,57.0
+2011-02-07,Macquarie,12 month,5.0,outperform,54.0
+2011-02-07,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-02-10,Bernstein,12 month,5.0,outperform,60.0
+2011-02-10,Raymond James,Not Provided,3.0,market perform,-0.0
+2011-02-10,FBR Capital Markets,12 month,5.0,outperform,52.0
+2011-02-10,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-02-10,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-02-10,Sterne Agee CRT,12 month,5.0,buy,55.0
+2011-02-10,UBS,12 month,5.0,buy,60.0
+2011-02-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-02-10,J.P. Morgan,12 month,5.0,overweight,51.0
+2011-02-10,Scotia Capital,12 month,5.0,sector outperform,57.0
+2011-02-11,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-02-14,Portales Partners,Not Provided,3.0,hold,-0.0
+2011-02-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2011-02-15,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-02-18,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2011-02-21,Goldman Sachs,12 month,3.0,neutral/attractive,52.0
+2011-02-23,Macquarie,12 month,5.0,outperform,54.0
+2011-03-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-03-02,Bernstein,12 month,5.0,outperform,60.0
+2011-03-02,Scotia Capital,Not Provided,-2147483648.0,restricted,-0.0
+2011-03-02,"Keefe, Bruyette & Woods",12 month,5.0,outperform,55.0
+2011-03-03,Morgan Stanley,12 month,5.0,Overwt/Attractive,57.0
+2011-03-03,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-03-04,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-03-11,Bernstein,12 month,5.0,outperform,60.0
+2011-03-11,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-03-12,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-03-16,Bernstein,12 month,5.0,outperform,60.0
+2011-03-16,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-03-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-03-21,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-03-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-03-22,Sterne Agee CRT,12 month,5.0,buy,55.0
+2011-03-22,Bernstein,12 month,5.0,outperform,60.0
+2011-03-22,Scotia Capital,12 month,5.0,sector outperform,57.0
+2011-04-01,Bernstein,12 month,5.0,outperform,60.0
+2011-04-06,Sterne Agee CRT,12 month,5.0,buy,55.0
+2011-04-07,Bernstein,12 month,5.0,outperform,60.0
+2011-04-15,Bernstein,12 month,5.0,outperform,60.0
+2011-04-15,Sterne Agee CRT,12 month,5.0,buy,55.0
+2011-04-18,Barclays,Not Provided,5.0,overwt/positive,56.0
+2011-04-19,J.P. Morgan,9 month,5.0,overweight,51.0
+2011-04-20,FBR Capital Markets,12 month,5.0,outperform,52.0
+2011-04-21,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-04-21,Bernstein,12 month,5.0,outperform,60.0
+2011-04-25,"Keefe, Bruyette & Woods",12 month,5.0,outperform,55.0
+2011-04-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-05-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-05-05,UBS,12 month,5.0,buy,60.0
+2011-05-05,FBR Capital Markets,12 month,5.0,outperform,54.0
+2011-05-05,Barclays,Not Provided,5.0,overwt/positive,56.0
+2011-05-05,Sterne Agee CRT,12 month,5.0,buy,55.0
+2011-05-05,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-05-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-05-05,Scotia Capital,12 month,5.0,sector outperform,57.0
+2011-05-05,Morgan Stanley,12 month,5.0,Overwt/Attractive,57.0
+2011-05-05,J.P. Morgan,9 month,5.0,overweight,51.0
+2011-05-06,Bernstein,12 month,5.0,outperform,60.0
+2011-05-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2011-05-11,Macquarie,12 month,5.0,outperform,54.0
+2011-05-16,FBR Capital Markets,12 month,5.0,outperform,54.0
+2011-05-24,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2011-05-24,"Keefe, Bruyette & Woods",12 month,5.0,outperform,55.0
+2011-05-31,Bernstein,12 month,5.0,outperform,60.0
+2011-06-02,Bernstein,12 month,5.0,outperform,60.0
+2011-06-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-06-10,Barclays,Not Provided,5.0,overwt/positive,56.0
+2011-06-13,Morgan Stanley,12 month,5.0,Overwt/Attractive,53.0
+2011-06-14,Bernstein,12 month,5.0,outperform,60.0
+2011-06-17,Sterne Agee CRT,12 month,5.0,buy,55.0
+2011-06-20,FBR Capital Markets,12 month,5.0,outperform,54.0
+2011-06-21,UBS,12 month,5.0,buy,60.0
+2011-06-28,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-06-28,Bernstein,12 month,5.0,outperform,60.0
+2011-06-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-06-29,Sterne Agee CRT,12 month,5.0,buy,55.0
+2011-06-29,Bernstein,12 month,5.0,outperform,60.0
+2011-07-01,FBR Capital Markets,12 month,5.0,outperform,54.0
+2011-07-06,Scotia Capital,12 month,5.0,sector outperform,57.0
+2011-07-07,Sterne Agee CRT,12 month,5.0,buy,58.0
+2011-07-08,"Keefe, Bruyette & Woods",12 month,5.0,outperform,55.0
+2011-07-11,Bernstein,12 month,5.0,outperform,60.0
+2011-07-11,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-07-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2011-07-15,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-07-18,J.P. Morgan,12 month,5.0,overweight,50.0
+2011-07-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-07-21,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-07-21,FBR Capital Markets,12 month,5.0,outperform,54.0
+2011-07-21,Barclays,Not Provided,5.0,overwt/positive,56.0
+2011-07-22,Bernstein,12 month,5.0,outperform,60.0
+2011-07-25,Sterne Agee CRT,12 month,5.0,buy,58.0
+2011-07-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-07-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2011-07-28,Barclays,Not Provided,5.0,overwt/positive,56.0
+2011-07-28,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2011-07-29,Sterne Agee CRT,12 month,5.0,buy,59.0
+2011-07-29,Bernstein,12 month,5.0,outperform,60.0
+2011-07-29,FBR Capital Markets,12 month,5.0,outperform,54.0
+2011-07-29,Atlantic Equities LLP,12 month,5.0,overweight,56.0
+2011-07-29,Credit Suisse,Not Provided,5.0,outperform,52.0
+2011-07-29,Morgan Stanley,12 month,5.0,Overwt/Attractive,53.0
+2011-07-29,J.P. Morgan,3 month,5.0,overweight,50.0
+2011-07-29,Scotia Capital,12 month,5.0,sector outperform,57.0
+2011-08-01,Portales Partners,Not Provided,3.0,hold,-0.0
+2011-08-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-08-01,Raymond James,Not Provided,3.0,market perform,-0.0
+2011-08-02,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2011-08-08,Bernstein,12 month,5.0,outperform,60.0
+2011-08-09,FBR Capital Markets,12 month,5.0,outperform,54.0
+2011-08-10,Sterne Agee CRT,12 month,5.0,buy,59.0
+2011-08-11,Goldman Sachs,12 month,3.0,neutral/attractive,43.0
+2011-08-12,"Keefe, Bruyette & Woods",12 month,5.0,outperform,55.0
+2011-08-17,Raymond James,12 month,5.0,outperform,39.0
+2011-08-22,Bernstein,12 month,5.0,outperform,51.0
+2011-08-26,Raymond James,12 month,5.0,outperform,39.0
+2011-08-29,FBR Capital Markets,12 month,5.0,outperform,50.0
+2011-09-09,"Keefe, Bruyette & Woods",12 month,5.0,outperform,55.0
+2011-09-14,Credit Suisse,Not Provided,5.0,outperform,44.0
+2011-09-15,Bernstein,12 month,5.0,outperform,51.0
+2011-09-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-09-27,RBC Capital Markets,12 month,3.0,sector perform,44.0
+2011-09-29,Bernstein,12 month,5.0,outperform,51.0
+2011-10-03,Evercore ISI,12 month,5.0,overweight,38.0
+2011-10-06,Credit Suisse,Not Provided,5.0,outperform,44.0
+2011-10-06,Barclays,Not Provided,5.0,overwt/positive,40.0
+2011-10-06,FBR Capital Markets,12 month,5.0,outperform,50.0
+2011-10-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-10-11,Bernstein,12 month,5.0,outperform,51.0
+2011-10-12,Sterne Agee CRT,12 month,5.0,buy,49.0
+2011-10-12,Morgan Stanley,12 month,5.0,Overwt/Attractive,43.0
+2011-10-12,J.P. Morgan,15 month,5.0,overweight,45.0
+2011-10-13,Raymond James,12 month,5.0,strong buy,39.0
+2011-10-13,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2011-10-13,FBR Capital Markets,12 month,5.0,outperform,43.0
+2011-10-17,Bernstein,12 month,5.0,outperform,51.0
+2011-10-18,Evercore ISI,12 month,5.0,overweight,38.0
+2011-10-19,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2011-10-20,Credit Suisse,Not Provided,5.0,outperform,44.0
+2011-10-24,Scotia Capital,12 month,5.0,sector outperform,42.0
+2011-10-25,Barclays,Not Provided,5.0,overwt/positive,40.0
+2011-10-25,Portales Partners,Not Provided,3.0,hold,-0.0
+2011-10-26,RBC Capital Markets,12 month,3.0,sector perform,44.0
+2011-10-26,Atlantic Equities LLP,12 month,3.0,neutral,36.0
+2011-10-26,Sterne Agee CRT,12 month,5.0,buy,49.0
+2011-10-26,FBR Capital Markets,12 month,5.0,outperform,43.0
+2011-10-26,Bernstein,12 month,5.0,outperform,51.0
+2011-10-27,Evercore ISI,12 month,5.0,overweight,38.0
+2011-10-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-10-27,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2011-10-27,Morgan Stanley,12 month,5.0,Overwt/Attractive,43.0
+2011-10-27,Credit Suisse,Not Provided,5.0,outperform,44.0
+2011-10-27,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2011-10-28,UBS,12 month,5.0,buy,60.0
+2011-10-28,Credit Suisse,Not Provided,5.0,outperform,44.0
+2011-10-28,RBC Capital Markets,12 month,3.0,sector perform,44.0
+2011-10-28,Sterne Agee CRT,12 month,5.0,buy,49.0
+2011-10-28,Atlantic Equities LLP,12 month,3.0,neutral,41.0
+2011-10-28,FBR Capital Markets,12 month,5.0,outperform,50.0
+2011-10-28,J.P. Morgan,12 month,5.0,overweight,45.0
+2011-10-28,Morgan Stanley,12 month,5.0,Overwt/Attractive,45.0
+2011-10-31,Bernstein,12 month,5.0,outperform,51.0
+2011-10-31,Evercore ISI,12 month,5.0,overweight,44.0
+2011-10-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-10-31,Barclays,Not Provided,5.0,overwt/positive,40.0
+2011-10-31,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-10-31,Raymond James,12 month,5.0,strong buy,42.0
+2011-11-09,Sterne Agee CRT,12 month,5.0,buy,45.0
+2011-11-10,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2011-11-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-14,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,41.0
+2011-11-17,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-18,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-21,FBR Capital Markets,12 month,5.0,outperform,50.0
+2011-11-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-11-21,Bernstein,12 month,5.0,outperform,51.0
+2011-11-21,Credit Suisse,Not Provided,5.0,outperform,44.0
+2011-11-22,UBS,12 month,5.0,buy,60.0
+2011-11-22,RBC Capital Markets,12 month,3.0,sector perform,47.0
+2011-11-23,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2011-11-28,Raymond James,12 month,5.0,strong buy,36.5
+2011-11-28,Atlantic Equities LLP,12 month,3.0,neutral,41.0
+2011-11-30,Bernstein,12 month,5.0,outperform,51.0
+2011-11-30,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,40.0
+2011-12-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-12-01,Barclays,Not Provided,5.0,overwt/positive,40.0
+2011-12-01,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-12-02,Goldman Sachs,12 month,3.0,neutral/attractive,40.0
+2011-12-02,Credit Suisse,Not Provided,5.0,outperform,44.0
+2011-12-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-12-05,Bernstein,12 month,5.0,outperform,51.0
+2011-12-05,Barclays,Not Provided,5.0,overwt/positive,40.0
+2011-12-05,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2011-12-05,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2011-12-05,Credit Suisse,Not Provided,5.0,outperform,44.0
+2011-12-06,UBS,12 month,5.0,buy,60.0
+2011-12-06,RBC Capital Markets,12 month,3.0,sector perform,48.0
+2011-12-06,Raymond James,12 month,5.0,strong buy,39.0
+2011-12-06,Sterne Agee CRT,12 month,5.0,buy,46.0
+2011-12-06,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,40.0
+2011-12-06,Atlantic Equities LLP,12 month,3.0,neutral,41.0
+2011-12-06,Evercore ISI,12 month,5.0,overweight,44.0
+2011-12-07,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-12-08,Morgan Stanley,12 month,5.0,Overwt/Attractive,45.0
+2011-12-12,FBR Capital Markets,12 month,5.0,outperform,50.0
+2011-12-13,Atlantic Equities LLP,12 month,3.0,neutral,41.0
+2011-12-15,Evercore ISI,12 month,5.0,overweight,44.0
+2011-12-16,Bernstein,12 month,5.0,outperform,51.0
+2011-12-18,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2011-12-27,FBR Capital Markets,12 month,5.0,outperform,50.0
+2011-12-27,Barclays,Not Provided,5.0,overwt/positive,40.0
+2011-12-27,Credit Suisse,Not Provided,5.0,outperform,44.0
+2011-12-27,Bernstein,12 month,5.0,outperform,51.0
+2011-12-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-12-28,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,40.0
+2012-01-04,J.P. Morgan,9 month,5.0,overweight,45.0
+2012-01-05,UBS,12 month,5.0,buy,60.0
+2012-01-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-01-09,Sterne Agee CRT,12 month,5.0,buy,46.0
+2012-01-09,Goldman Sachs,12 month,5.0,buy/attractive,41.0
+2012-01-10,Bernstein,12 month,5.0,outperform,51.0
+2012-01-10,Evercore ISI,12 month,5.0,overweight,44.0
+2012-01-11,RBC Capital Markets,12 month,3.0,sector perform,48.0
+2012-01-13,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-01-18,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-01-22,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2012-01-25,Bernstein,12 month,5.0,outperform,51.0
+2012-01-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-01-26,Scotia Capital,12 month,5.0,sector outperform,46.0
+2012-01-27,UBS,12 month,5.0,buy,60.0
+2012-01-30,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-01-30,Bernstein,12 month,5.0,outperform,51.0
+2012-01-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-02-06,Bernstein,12 month,5.0,outperform,51.0
+2012-02-06,Barclays,Not Provided,5.0,overwt/positive,40.0
+2012-02-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-02-14,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2012-02-14,UBS,12 month,5.0,buy,60.0
+2012-02-14,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-02-14,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2012-02-14,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,40.0
+2012-02-15,Morgan Stanley,12 month,5.0,Overwt/Attractive,45.0
+2012-02-15,J.P. Morgan,6 month,5.0,overweight,45.0
+2012-02-15,Barclays,Not Provided,5.0,overwt/positive,40.0
+2012-02-15,RBC Capital Markets,12 month,3.0,sector perform,52.0
+2012-02-15,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-02-15,Bernstein,12 month,5.0,outperform,51.0
+2012-02-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-02-15,Sterne Agee CRT,12 month,5.0,buy,46.0
+2012-02-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-02-15,Evercore ISI,12 month,5.0,overweight,44.0
+2012-02-16,Evercore ISI,12 month,5.0,overweight,44.0
+2012-02-16,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-02-16,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,44.0
+2012-02-16,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2012-02-16,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2012-02-17,Morgan Stanley,12 month,5.0,Overwt/In-Line,46.0
+2012-02-22,Portales Partners,Not Provided,3.0,sector perform,-0.0
+2012-02-23,Sterne Agee CRT,12 month,5.0,buy,49.0
+2012-02-23,Goldman Sachs,12 month,5.0,buy/attractive,45.0
+2012-02-23,Macquarie,12 month,5.0,outperform,48.0
+2012-02-24,Bernstein,12 month,5.0,outperform,53.0
+2012-03-01,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2012-03-08,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-03-13,Scotia Capital,12 month,5.0,sector outperform,46.0
+2012-03-13,Barclays,Not Provided,5.0,overwt/positive,40.0
+2012-03-14,Sterne Agee CRT,12 month,5.0,buy,47.0
+2012-03-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-03-14,UBS,12 month,5.0,buy,60.0
+2012-03-14,Macquarie,12 month,5.0,outperform,48.0
+2012-03-14,RBC Capital Markets,12 month,3.0,sector perform,52.0
+2012-03-14,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-03-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-03-14,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,44.0
+2012-03-14,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-03-14,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2012-03-14,Evercore ISI,12 month,5.0,overweight,44.0
+2012-03-19,Evercore ISI,12 month,5.0,overweight,45.0
+2012-03-26,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2012-03-30,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-04-02,Barclays,Not Provided,5.0,overwt/positive,48.0
+2012-04-03,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,44.0
+2012-04-09,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-04-09,Morgan Stanley,12 month,5.0,Overwt/In-Line,46.0
+2012-04-11,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,44.0
+2012-04-11,"Keefe, Bruyette & Woods",12 month,5.0,outperform,48.0
+2012-04-11,Evercore ISI,12 month,5.0,overweight,45.0
+2012-04-11,Raymond James,12 month,5.0,outperform,42.0
+2012-04-12,Macquarie,12 month,5.0,outperform,48.0
+2012-04-16,Barclays,Not Provided,5.0,overwt/positive,48.0
+2012-04-20,Macquarie,12 month,5.0,outperform,48.0
+2012-04-20,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-04-20,Atlantic Equities LLP,12 month,3.0,neutral,41.0
+2012-04-20,Raymond James,12 month,5.0,outperform,42.0
+2012-04-20,Morgan Stanley,12 month,5.0,Overwt/In-Line,46.0
+2012-04-20,"Keefe, Bruyette & Woods",12 month,5.0,outperform,48.0
+2012-04-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-04-20,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,44.0
+2012-04-20,Sterne Agee CRT,12 month,5.0,buy,49.0
+2012-04-20,Evercore ISI,12 month,5.0,overweight,45.0
+2012-04-20,RBC Capital Markets,12 month,3.0,sector perform,52.0
+2012-04-21,Macquarie,12 month,5.0,outperform,48.0
+2012-04-23,RBC Capital Markets,12 month,3.0,sector perform,52.0
+2012-04-26,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,44.0
+2012-04-26,Sterne Agee CRT,12 month,5.0,buy,50.0
+2012-04-26,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-04-26,"Keefe, Bruyette & Woods",12 month,5.0,outperform,48.0
+2012-04-26,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-04-26,Morgan Stanley,12 month,5.0,Overwt/In-Line,46.0
+2012-04-26,Evercore ISI,12 month,5.0,overweight,45.0
+2012-04-26,Scotia Capital,12 month,5.0,sector outperform,46.0
+2012-04-26,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2012-04-27,Barclays,Not Provided,5.0,overwt/positive,48.0
+2012-04-27,UBS,12 month,5.0,buy,60.0
+2012-04-27,Raymond James,12 month,5.0,outperform,42.0
+2012-04-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-04-27,J.P. Morgan,6 month,5.0,overweight,45.0
+2012-04-28,Macquarie,12 month,5.0,outperform,48.0
+2012-04-30,Raymond James,12 month,5.0,outperform,44.0
+2012-04-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-04-30,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,44.0
+2012-04-30,Sterne Agee CRT,12 month,5.0,buy,50.0
+2012-05-01,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2012-05-08,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2012-05-08,Sterne Agee CRT,12 month,5.0,buy,50.0
+2012-05-09,"Keefe, Bruyette & Woods",12 month,5.0,outperform,48.0
+2012-05-09,Evercore ISI,12 month,5.0,overweight,45.0
+2012-05-10,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-05-17,Evercore ISI,12 month,5.0,overweight,45.0
+2012-05-20,Evercore ISI,12 month,5.0,overweight,45.0
+2012-05-23,Scotia Capital,12 month,5.0,sector outperform,46.0
+2012-05-23,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-05-23,Barclays,Not Provided,5.0,overwt/positive,48.0
+2012-05-23,"Keefe, Bruyette & Woods",12 month,5.0,outperform,48.0
+2012-05-24,UBS,12 month,5.0,buy,60.0
+2012-05-24,Morgan Stanley,12 month,5.0,Overwt/In-Line,46.0
+2012-05-24,Raymond James,12 month,5.0,outperform,40.0
+2012-05-24,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-05-24,Sterne Agee CRT,12 month,5.0,buy,50.0
+2012-05-24,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2012-05-24,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,44.0
+2012-05-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-06-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-06-14,Sterne Agee CRT,12 month,5.0,buy,50.0
+2012-06-14,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-06-15,Scotia Capital,12 month,5.0,sector outperform,46.0
+2012-06-19,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-06-19,Evercore ISI,12 month,5.0,overweight,45.0
+2012-06-19,Sterne Agee CRT,12 month,5.0,buy,50.0
+2012-06-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-06-28,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-07-02,Barclays,Not Provided,5.0,overweight,42.0
+2012-07-10,"Keefe, Bruyette & Woods",12 month,5.0,outperform,46.0
+2012-07-10,J.P. Morgan,3 month,5.0,overweight,44.0
+2012-07-10,Sterne Agee CRT,12 month,5.0,buy,48.0
+2012-07-11,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-07-13,Macquarie,12 month,5.0,outperform,48.0
+2012-07-16,Evercore ISI,12 month,5.0,overweight,45.0
+2012-07-16,Goldman Sachs,12 month,5.0,buy/attractive,42.0
+2012-07-17,UBS,12 month,5.0,buy,43.0
+2012-07-17,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-07-17,Raymond James,12 month,5.0,outperform,41.0
+2012-07-18,Atlantic Equities LLP,12 month,3.0,neutral,41.0
+2012-07-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-07-23,Scotia Capital,12 month,5.0,sector outperform,44.0
+2012-07-23,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,44.0
+2012-07-24,Sterne Agee CRT,12 month,5.0,buy,48.0
+2012-07-24,"Keefe, Bruyette & Woods",12 month,5.0,outperform,46.0
+2012-07-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-08-01,Scotia Capital,12 month,5.0,sector outperform,44.0
+2012-08-01,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-08-01,Sterne Agee CRT,12 month,5.0,buy,48.0
+2012-08-01,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2012-08-02,Evercore ISI,12 month,5.0,overweight,45.0
+2012-08-02,S&P Capital IQ,Not Provided,5.0,buy,37.0
+2012-08-02,Barclays,Not Provided,5.0,overweight,42.0
+2012-08-02,Atlantic Equities LLP,12 month,3.0,neutral,41.0
+2012-08-02,Morgan Stanley,12 month,5.0,Overwt/In-Line,44.0
+2012-08-02,J.P. Morgan,3 month,5.0,overweight,44.0
+2012-08-02,RBC Capital Markets,12 month,3.0,sector perform,45.0
+2012-08-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-08-02,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-08-03,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,44.0
+2012-08-03,Macquarie,12 month,5.0,outperform,48.0
+2012-08-06,Raymond James,12 month,5.0,outperform,43.5
+2012-08-07,"Keefe, Bruyette & Woods",12 month,5.0,outperform,46.0
+2012-08-09,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-08-10,Barclays,Not Provided,5.0,overweight,42.0
+2012-08-13,Scotia Capital,12 month,5.0,sector outperform,44.0
+2012-08-14,UBS,12 month,5.0,buy,45.0
+2012-08-14,Evercore ISI,12 month,5.0,overweight,45.0
+2012-08-14,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2012-08-15,Evercore ISI,12 month,5.0,overweight,45.0
+2012-08-16,S&P Capital IQ,Not Provided,5.0,buy,40.0
+2012-08-23,UBS,12 month,5.0,buy,45.0
+2012-08-26,Sterne Agee CRT,12 month,5.0,buy,49.0
+2012-09-04,Argus Research Corp,Not Provided,5.0,buy,46.0
+2012-09-05,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-09-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-09-12,Evercore ISI,12 month,5.0,overweight,45.0
+2012-09-12,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-09-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,44.0
+2012-09-12,Sterne Agee CRT,12 month,5.0,buy,48.0
+2012-09-12,Barclays,Not Provided,5.0,overweight,42.0
+2012-09-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-09-14,Raymond James,12 month,5.0,outperform,45.5
+2012-09-16,Evercore ISI,12 month,5.0,overweight,45.0
+2012-09-21,Barclays,Not Provided,5.0,overweight,42.0
+2012-09-24,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,44.0
+2012-09-24,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-09-24,Raymond James,12 month,5.0,outperform,43.0
+2012-09-24,RBC Capital Markets,12 month,3.0,sector perform,47.0
+2012-09-24,Sterne Agee CRT,12 month,5.0,buy,48.0
+2012-09-24,UBS,12 month,5.0,buy,45.0
+2012-09-24,Scotia Capital,12 month,5.0,sector outperform,44.0
+2012-10-01,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-10-01,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-10-01,Barclays,Not Provided,5.0,overweight,42.0
+2012-10-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-10-02,S&P Capital IQ,Not Provided,5.0,buy,40.0
+2012-10-02,Sterne Agee CRT,12 month,5.0,buy,48.0
+2012-10-08,Macquarie,12 month,5.0,outperform,48.0
+2012-10-09,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-10-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-10-09,S&P Capital IQ,Not Provided,5.0,buy,40.0
+2012-10-10,"Keefe, Bruyette & Woods",12 month,5.0,outperform,46.0
+2012-10-10,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,44.0
+2012-10-11,J.P. Morgan,12 month,5.0,overweight,44.0
+2012-10-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-10-15,Sterne Agee CRT,12 month,5.0,buy,49.0
+2012-10-16,Raymond James,12 month,5.0,outperform,43.0
+2012-10-17,Evercore ISI,12 month,5.0,overweight,45.0
+2012-10-18,RBC Capital Markets,12 month,3.0,sector perform,47.0
+2012-10-22,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-10-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-10-24,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-10-31,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-10-31,Scotia Capital,12 month,5.0,sector outperform,44.0
+2012-10-31,"Keefe, Bruyette & Woods",12 month,5.0,outperform,46.0
+2012-10-31,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2012-10-31,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-11-01,Barclays,Not Provided,5.0,overweight,42.0
+2012-11-01,Evercore ISI,12 month,5.0,overweight,45.0
+2012-11-01,Sterne Agee CRT,12 month,5.0,buy,49.0
+2012-11-01,J.P. Morgan,12 month,5.0,overweight,44.0
+2012-11-01,Morgan Stanley,12 month,5.0,Overwt/In-Line,44.0
+2012-11-01,Macquarie,12 month,5.0,outperform,47.0
+2012-11-01,RBC Capital Markets,12 month,3.0,sector perform,48.0
+2012-11-01,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-11-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-11-01,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,44.0
+2012-11-02,Raymond James,12 month,5.0,outperform,43.0
+2012-11-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-11-05,Sterne Agee CRT,12 month,5.0,buy,49.0
+2012-11-08,Evercore ISI,12 month,5.0,overweight,32.0
+2012-11-09,"Keefe, Bruyette & Woods",12 month,5.0,outperform,46.0
+2012-11-13,FBR Capital Markets,12 month,5.0,outperform,50.0
+2012-11-13,"Keefe, Bruyette & Woods",12 month,5.0,outperform,46.0
+2012-11-15,Sterne Agee CRT,12 month,5.0,buy,49.0
+2012-11-15,Evercore ISI,12 month,5.0,overweight,45.0
+2012-11-19,UBS,12 month,5.0,buy,45.0
+2012-11-20,Sterne Agee CRT,12 month,5.0,buy,49.0
+2012-11-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-12-04,UBS,12 month,5.0,buy,42.0
+2012-12-06,Barclays,Not Provided,3.0,equalweight,37.0
+2012-12-10,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-12-10,Scotia Capital,12 month,5.0,sector outperform,44.0
+2012-12-10,J.P. Morgan,12 month,5.0,overweight,44.0
+2012-12-13,"Keefe, Bruyette & Woods",12 month,5.0,outperform,46.0
+2012-12-13,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-12-13,Barclays,Not Provided,3.0,equalweight,37.0
+2012-12-13,RBC Capital Markets,12 month,3.0,sector perform,48.0
+2012-12-13,Morgan Stanley,12 month,5.0,Overwt/In-Line,42.0
+2012-12-13,Sterne Agee CRT,12 month,5.0,buy,48.0
+2012-12-13,Evercore ISI,12 month,5.0,overweight,42.0
+2012-12-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-12-13,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,44.0
+2012-12-14,Raymond James,12 month,5.0,outperform,41.5
+2012-12-14,Macquarie,12 month,5.0,outperform,45.0
+2012-12-17,Scotia Capital,12 month,5.0,sector outperform,44.0
+2012-12-17,Goldman Sachs,12 month,5.0,buy/attractive,40.0
+2012-12-18,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2012-12-19,Sterne Agee CRT,12 month,5.0,buy,48.0
+2012-12-19,Evercore ISI,12 month,5.0,overweight,40.0
+2012-12-20,Credit Suisse,Not Provided,5.0,outperform,44.0
+2012-12-20,UBS,12 month,5.0,buy,41.0
+2012-12-21,Macquarie,12 month,5.0,outperform,45.0
+2013-01-02,S&P Capital IQ,Not Provided,5.0,buy,40.0
+2013-01-02,Scotia Capital,12 month,5.0,sector outperform,44.0
+2013-01-03,J.P. Morgan,12 month,5.0,overweight,41.0
+2013-01-03,Barclays,Not Provided,3.0,equalweight,37.0
+2013-01-07,Sterne Agee CRT,12 month,5.0,buy,48.0
+2013-01-07,Scotia Capital,12 month,5.0,focus stock,44.0
+2013-01-08,FBR Capital Markets,12 month,5.0,outperform,50.0
+2013-01-08,Goldman Sachs,12 month,5.0,buy/attractive,45.0
+2013-01-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-01-08,Credit Suisse,Not Provided,5.0,outperform,44.0
+2013-01-09,Argus Research Corp,Not Provided,5.0,buy,46.0
+2013-01-09,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,44.0
+2013-01-14,Barclays,Not Provided,3.0,equalweight,37.0
+2013-01-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-01-15,Argus Research Corp,Not Provided,5.0,buy,46.0
+2013-01-15,Sterne Agee CRT,12 month,5.0,buy,48.0
+2013-01-15,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-01-16,Macquarie,12 month,5.0,outperform,45.0
+2013-01-17,Raymond James,12 month,5.0,outperform,42.0
+2013-01-21,Evercore ISI,12 month,5.0,overweight,40.0
+2013-01-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-01-24,Credit Suisse,Not Provided,5.0,outperform,44.0
+2013-01-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-01-29,Sterne Agee CRT,12 month,5.0,buy,48.0
+2013-01-29,"Keefe, Bruyette & Woods",12 month,5.0,outperform,40.0
+2013-01-29,Credit Suisse,Not Provided,5.0,outperform,44.0
+2013-01-30,Scotia Capital,12 month,5.0,focus stock,47.0
+2013-02-01,S&P Capital IQ,12 month,5.0,buy,45.0
+2013-02-01,FBR Capital Markets,12 month,5.0,outperform,50.0
+2013-02-01,Scotia Capital,12 month,5.0,focus stock,47.0
+2013-02-01,Evercore ISI,12 month,5.0,overweight,40.0
+2013-02-01,Sterne Agee CRT,12 month,5.0,buy,48.0
+2013-02-01,Credit Suisse,Not Provided,5.0,outperform,44.0
+2013-02-01,Barclays,Not Provided,3.0,equalweight,37.0
+2013-02-01,Morgan Stanley,12 month,5.0,Overwt/In-Line,42.0
+2013-02-01,J.P. Morgan,9 month,5.0,overweight,41.0
+2013-02-04,RBC Capital Markets,12 month,3.0,sector perform,48.0
+2013-02-04,Raymond James,12 month,5.0,outperform,44.0
+2013-02-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-02-13,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2013-02-13,Sterne Agee CRT,12 month,5.0,buy,48.0
+2013-02-13,FBR Capital Markets,12 month,5.0,outperform,50.0
+2013-02-13,Evercore ISI,12 month,5.0,overweight,40.0
+2013-02-13,Barclays,Not Provided,3.0,equalweight,37.0
+2013-02-14,J.P. Morgan,9 month,5.0,overweight,41.0
+2013-02-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-02-14,Scotia Capital,12 month,5.0,focus stock,47.0
+2013-02-14,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-02-14,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,44.0
+2013-02-14,"Keefe, Bruyette & Woods",12 month,5.0,outperform,42.0
+2013-02-14,Credit Suisse,Not Provided,5.0,outperform,44.0
+2013-02-14,Raymond James,12 month,5.0,outperform,44.0
+2013-02-14,RBC Capital Markets,12 month,3.0,sector perform,50.0
+2013-02-14,Portales Partners,Not Provided,3.0,sector perform,-0.0
+2013-02-15,FBR Capital Markets,12 month,5.0,outperform,50.0
+2013-02-15,S&P Capital IQ,Not Provided,5.0,buy,43.0
+2013-02-15,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2013-02-15,Macquarie,12 month,5.0,outperform,45.0
+2013-02-19,Argus Research Corp,Not Provided,5.0,buy,46.0
+2013-02-25,Sterne Agee CRT,12 month,5.0,buy,48.0
+2013-02-28,FBR Capital Markets,12 month,5.0,outperform,50.0
+2013-02-28,Evercore ISI,12 month,5.0,overweight,40.0
+2013-03-06,Portales Partners,Not Provided,3.0,sector perform,-0.0
+2013-03-07,FBR Capital Markets,12 month,5.0,outperform,50.0
+2013-03-11,Sterne Agee CRT,12 month,5.0,buy,48.0
+2013-03-19,UBS,12 month,5.0,buy,45.0
+2013-03-19,S&P Capital IQ,Not Provided,5.0,buy,46.0
+2013-03-26,FBR Capital Markets,12 month,5.0,outperform,50.0
+2013-04-02,Barclays,Not Provided,3.0,equalweight,42.0
+2013-04-03,J.P. Morgan,6 month,5.0,overweight,42.0
+2013-04-05,Credit Suisse,Not Provided,5.0,outperform,44.0
+2013-04-09,Raymond James,12 month,5.0,outperform,44.0
+2013-04-10,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,44.0
+2013-04-10,Sterne Agee CRT,12 month,5.0,buy,51.0
+2013-04-14,"Keefe, Bruyette & Woods",12 month,5.0,outperform,44.0
+2013-04-15,Portales Partners,Not Provided,3.0,sector perform,-0.0
+2013-04-18,Macquarie,12 month,5.0,outperform,45.0
+2013-04-19,Evercore ISI,12 month,5.0,overweight,42.0
+2013-04-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-04-23,Credit Suisse,Not Provided,5.0,outperform,44.0
+2013-04-23,Barclays,Not Provided,3.0,equalweight,42.0
+2013-04-23,Sterne Agee CRT,12 month,5.0,buy,51.0
+2013-04-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-05-01,"Keefe, Bruyette & Woods",12 month,5.0,outperform,44.0
+2013-05-02,J.P. Morgan,6 month,5.0,overweight,42.0
+2013-05-02,Credit Suisse,Not Provided,5.0,outperform,45.0
+2013-05-02,S&P Capital IQ,12 month,5.0,buy,46.0
+2013-05-02,FBR Capital Markets,12 month,5.0,outperform,50.0
+2013-05-02,Portales Partners,Not Provided,3.0,sector perform,-0.0
+2013-05-02,Evercore ISI,12 month,5.0,overweight,42.0
+2013-05-02,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-05-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-05-02,RBC Capital Markets,12 month,3.0,sector perform,51.0
+2013-05-02,Barclays,Not Provided,3.0,equalweight,42.0
+2013-05-03,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,44.0
+2013-05-03,Macquarie,12 month,5.0,outperform,45.0
+2013-05-03,Sterne Agee CRT,12 month,5.0,buy,51.0
+2013-05-06,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2013-05-06,Raymond James,12 month,5.0,outperform,47.0
+2013-05-07,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2013-05-07,FBR Capital Markets,12 month,5.0,outperform,55.0
+2013-05-09,Barclays,Not Provided,3.0,equalweight,42.0
+2013-05-13,Argus Research Corp,Not Provided,5.0,buy,48.0
+2013-05-13,Scotia Capital,12 month,5.0,focus stock,47.0
+2013-05-15,Goldman Sachs,12 month,5.0,buy/attractive,51.0
+2013-05-16,Evercore ISI,12 month,5.0,overweight,48.0
+2013-05-19,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2013-05-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-05-20,Scotia Capital,12 month,5.0,focus stock,47.0
+2013-05-21,Argus Research Corp,Not Provided,5.0,buy,48.0
+2013-05-21,Credit Suisse,Not Provided,5.0,outperform,45.0
+2013-05-21,FBR Capital Markets,12 month,5.0,outperform,55.0
+2013-05-21,Sterne Agee CRT,12 month,5.0,buy,51.0
+2013-05-21,Portales Partners,Not Provided,3.0,sector perform,-0.0
+2013-05-21,Barclays,Not Provided,3.0,equalweight,42.0
+2013-05-21,"Keefe, Bruyette & Woods",12 month,5.0,outperform,50.0
+2013-05-22,RBC Capital Markets,12 month,3.0,sector perform,51.0
+2013-05-22,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-05-22,Macquarie,12 month,5.0,outperform,48.0
+2013-05-22,Scotia Capital,12 month,5.0,focus stock,47.0
+2013-05-22,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,47.0
+2013-05-22,Evercore ISI,12 month,5.0,overweight,48.0
+2013-05-22,Raymond James,12 month,5.0,outperform,49.0
+2013-05-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-05-23,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2013-05-29,Credit Suisse,Not Provided,5.0,outperform,48.0
+2013-06-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-06-11,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-06-17,FBR Capital Markets,12 month,5.0,outperform,55.0
+2013-06-17,J.P. Morgan,6 month,5.0,overweight,42.0
+2013-06-20,Scotia Capital,12 month,5.0,focus stock,52.0
+2013-06-26,Portales Partners,Not Provided,5.0,outperform,-0.0
+2013-06-27,UBS,12 month,5.0,buy,50.0
+2013-07-01,Barclays,Not Provided,3.0,equalweight,50.0
+2013-07-02,Sterne Agee CRT,12 month,5.0,buy,56.0
+2013-07-03,Sterne Agee CRT,12 month,5.0,buy,56.0
+2013-07-09,S&P Capital IQ,12 month,5.0,buy,55.0
+2013-07-09,J.P. Morgan,15 month,5.0,overweight,53.0
+2013-07-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-07-11,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,55.0
+2013-07-12,Credit Suisse,Not Provided,5.0,outperform,48.0
+2013-07-15,Evercore ISI,12 month,5.0,overweight,54.0
+2013-07-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-07-16,Goldman Sachs,12 month,5.0,buy/attractive,52.0
+2013-07-16,Portales Partners,Not Provided,5.0,outperform,-0.0
+2013-07-17,"Keefe, Bruyette & Woods",12 month,5.0,outperform,54.0
+2013-07-17,FBR Capital Markets,12 month,5.0,outperform,55.0
+2013-07-17,S&P Capital IQ,Not Provided,5.0,buy,55.0
+2013-07-17,Scotia Capital,12 month,5.0,focus stock,52.0
+2013-07-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-07-18,Macquarie,12 month,5.0,outperform,53.0
+2013-07-18,Credit Suisse,Not Provided,5.0,outperform,54.0
+2013-07-19,S&P Capital IQ,Not Provided,5.0,buy,55.0
+2013-07-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-07-23,Scotia Capital,12 month,5.0,focus stock,58.0
+2013-07-29,Barclays,Not Provided,3.0,equalweight,50.0
+2013-07-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-07-31,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,55.0
+2013-07-31,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2013-07-31,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-07-31,Credit Suisse,Not Provided,5.0,outperform,55.0
+2013-07-31,"Keefe, Bruyette & Woods",12 month,5.0,outperform,54.0
+2013-07-31,UBS,12 month,5.0,buy,57.0
+2013-07-31,FBR Capital Markets,12 month,5.0,outperform,55.0
+2013-08-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-08-01,S&P Capital IQ,Not Provided,5.0,buy,55.0
+2013-08-01,Barclays,Not Provided,3.0,equalweight,54.0
+2013-08-01,Portales Partners,Not Provided,5.0,outperform,-0.0
+2013-08-01,Scotia Capital,12 month,5.0,focus stock,58.0
+2013-08-01,Sterne Agee CRT,12 month,5.0,buy,57.0
+2013-08-01,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-08-01,J.P. Morgan,15 month,5.0,overweight,53.0
+2013-08-01,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2013-08-02,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,58.0
+2013-08-02,Macquarie,12 month,5.0,outperform,58.0
+2013-08-02,"Keefe, Bruyette & Woods",12 month,5.0,outperform,54.0
+2013-08-04,Evercore ISI,12 month,5.0,overweight,54.0
+2013-08-05,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2013-08-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-08-05,UBS,12 month,5.0,buy,56.0
+2013-08-05,Goldman Sachs,12 month,5.0,buy/attractive,54.0
+2013-08-12,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2013-08-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,57.0
+2013-08-16,FBR Capital Markets,12 month,5.0,outperform,55.0
+2013-09-04,Barclays,Not Provided,5.0,overweight,58.0
+2013-09-09,Argus Research Corp,Not Provided,5.0,buy,55.0
+2013-09-19,FBR Capital Markets,12 month,5.0,outperform,55.0
+2013-09-19,Scotia Capital,12 month,5.0,focus stock,58.0
+2013-09-20,Goldman Sachs,12 month,5.0,Buy/Neutral,58.0
+2013-09-23,Barclays,Not Provided,5.0,overweight,58.0
+2013-10-02,Barclays,Not Provided,5.0,overweight,58.0
+2013-10-03,J.P. Morgan,12 month,5.0,overweight,53.0
+2013-10-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-09,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,58.0
+2013-10-10,Sterne Agee CRT,12 month,5.0,buy,56.0
+2013-10-11,Credit Suisse,Not Provided,5.0,outperform,55.0
+2013-10-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-15,Evercore ISI,12 month,5.0,overweight,54.0
+2013-10-16,FBR Capital Markets,12 month,5.0,outperform,55.0
+2013-10-16,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-10-17,Macquarie,12 month,5.0,outperform,58.0
+2013-10-20,"Keefe, Bruyette & Woods",12 month,5.0,outperform,57.0
+2013-10-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-30,Credit Suisse,Not Provided,5.0,outperform,55.0
+2013-10-30,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2013-10-30,"Keefe, Bruyette & Woods",12 month,5.0,outperform,57.0
+2013-10-30,FBR Capital Markets,12 month,5.0,outperform,55.0
+2013-10-31,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-10-31,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,57.0
+2013-10-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-10-31,Morgan Stanley,12 month,5.0,Overwt/In-Line,57.0
+2013-10-31,Sterne Agee CRT,12 month,5.0,buy,56.0
+2013-10-31,Macquarie,12 month,5.0,outperform,58.0
+2013-10-31,Scotia Capital,12 month,5.0,focus stock,58.0
+2013-10-31,Evercore ISI,12 month,5.0,overweight,54.0
+2013-10-31,J.P. Morgan,12 month,5.0,overweight,53.0
+2013-10-31,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2013-10-31,Barclays,Not Provided,5.0,overweight,58.0
+2013-11-01,Portales Partners,Not Provided,5.0,outperform,-0.0
+2013-11-01,"Sandler O'Neill & Partners, LP",Not Provided,5.0,buy,57.0
+2013-11-03,"Keefe, Bruyette & Woods",12 month,5.0,outperform,57.0
+2013-11-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-11-04,Janney Montgomery Scott LLC,Not Provided,3.0,neutral,-0.0
+2013-11-08,Argus Research Corp,Not Provided,5.0,buy,55.0
+2013-11-11,FBR Capital Markets,12 month,5.0,outperform,55.0
+2013-11-12,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2013-11-13,Morgan Stanley,12 month,5.0,Overwt/In-Line,58.0
+2013-11-21,Scotia Capital,12 month,5.0,focus stock,59.0
+2013-12-06,Barclays,Not Provided,5.0,overweight,58.0
+2013-12-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-12-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,58.0
+2013-12-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-12-12,"Keefe, Bruyette & Woods",12 month,5.0,outperform,57.0
+2013-12-12,Credit Suisse,Not Provided,5.0,outperform,57.0
+2013-12-12,Scotia Capital,12 month,5.0,focus stock,59.0
+2013-12-12,Barclays,Not Provided,5.0,overweight,58.0
+2013-12-12,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,58.0
+2013-12-13,Macquarie,12 month,5.0,outperform,58.0
+2013-12-13,RBC Capital Markets,12 month,3.0,sector perform,55.0
+2013-12-13,Evercore ISI,12 month,5.0,overweight,59.0
+2013-12-15,"Keefe, Bruyette & Woods",12 month,5.0,outperform,64.0
+2013-12-20,Sterne Agee CRT,12 month,5.0,buy,56.0
+2014-01-03,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2014-01-05,Evercore ISI,12 month,5.0,overweight,59.0
+2014-01-06,UBS,12 month,3.0,neutral,58.0
+2014-01-06,J.P. Morgan,9 month,5.0,overweight,58.0
+2014-01-06,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-01-06,Morgan Stanley,12 month,5.0,Overwt/In-Line,59.0
+2014-01-07,Barclays,Not Provided,5.0,overweight,62.0
+2014-01-08,Argus Research Corp,Not Provided,5.0,buy,62.0
+2014-01-09,FBR Capital Markets,12 month,5.0,outperform,60.0
+2014-01-09,Goldman Sachs,12 month,5.0,Buy/Neutral,61.0
+2014-01-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-01-13,Macquarie,12 month,5.0,outperform,60.0
+2014-01-13,Sterne Agee CRT,12 month,5.0,buy,65.0
+2014-01-13,Portales Partners,Not Provided,3.0,sector perform,-0.0
+2014-01-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-01-16,Argus Research Corp,Not Provided,5.0,buy,62.0
+2014-01-20,"Keefe, Bruyette & Woods",12 month,5.0,outperform,64.0
+2014-01-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-01-21,Evercore ISI,12 month,5.0,overweight,60.0
+2014-01-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-02-12,"Keefe, Bruyette & Woods",12 month,5.0,outperform,64.0
+2014-02-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-02-12,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2014-02-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-02-12,Barclays,Not Provided,5.0,overweight,62.0
+2014-02-12,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,58.0
+2014-02-12,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-02-12,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-02-12,Sterne Agee CRT,12 month,5.0,buy,65.0
+2014-02-12,FBR Capital Markets,12 month,5.0,outperform,60.0
+2014-02-12,Evercore ISI,12 month,5.0,overweight,60.0
+2014-02-13,Macquarie,12 month,5.0,outperform,60.0
+2014-02-13,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2014-02-13,Portales Partners,Not Provided,3.0,sector perform,-0.0
+2014-02-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-02-13,"Keefe, Bruyette & Woods",12 month,5.0,outperform,64.0
+2014-02-13,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,58.0
+2014-02-13,Morgan Stanley,12 month,5.0,Overwt/In-Line,58.0
+2014-02-14,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2014-02-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-02-20,FBR Capital Markets,12 month,5.0,outperform,60.0
+2014-02-20,J.P. Morgan,9 month,5.0,overweight,58.0
+2014-02-25,Morgan Stanley,12 month,5.0,Overwt/In-Line,57.0
+2014-03-02,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-03-03,Argus Research Corp,Not Provided,5.0,buy,62.0
+2014-03-06,FBR Capital Markets,12 month,5.0,outperform,60.0
+2014-03-19,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-03-27,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-03-31,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2014-03-31,Barclays,Not Provided,5.0,overweight,62.0
+2014-04-01,J.P. Morgan,6 month,5.0,overweight,58.0
+2014-04-02,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-04-03,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-04-07,Daiwa Securities,Not Provided,5.0,outperform,59.0
+2014-04-10,FBR Capital Markets,12 month,5.0,outperform,60.0
+2014-04-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-04-10,Evercore ISI,12 month,5.0,overweight,60.0
+2014-04-10,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-04-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-04-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-16,Macquarie,12 month,5.0,outperform,60.0
+2014-04-16,Barclays,Not Provided,5.0,overweight,62.0
+2014-04-21,Sterne Agee CRT,12 month,5.0,buy,65.0
+2014-04-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-04-22,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-04-22,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-04-25,Macquarie,12 month,5.0,outperform,60.0
+2014-04-28,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-04-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-04-30,Evercore ISI,12 month,5.0,overweight,60.0
+2014-04-30,FBR Capital Markets,12 month,5.0,outperform,60.0
+2014-04-30,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-04-30,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2014-04-30,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-04-30,Barclays,Not Provided,5.0,overweight,62.0
+2014-05-01,"Keefe, Bruyette & Woods",12 month,5.0,outperform,61.0
+2014-05-01,Sterne Agee CRT,12 month,5.0,buy,65.0
+2014-05-01,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2014-05-01,J.P. Morgan,6 month,5.0,overweight,58.0
+2014-05-01,Morgan Stanley,12 month,5.0,Overwt/In-Line,57.0
+2014-05-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-05-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-01,Portales Partners,Not Provided,3.0,sector perform,-0.0
+2014-05-02,Macquarie,12 month,5.0,outperform,60.0
+2014-05-02,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,58.0
+2014-05-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-05-13,FBR Capital Markets,12 month,5.0,outperform,60.0
+2014-05-16,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2014-05-27,Daiwa Securities,Not Provided,5.0,buy,60.0
+2014-05-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-06-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-08,"Keefe, Bruyette & Woods",12 month,5.0,outperform,61.0
+2014-06-09,Barclays,Not Provided,5.0,overweight,62.0
+2014-06-10,Goldman Sachs,12 month,5.0,Buy/Neutral,63.0
+2014-06-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-06-10,Portales Partners,Not Provided,3.0,sector perform,-0.0
+2014-06-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-10,Barclays,Not Provided,5.0,overweight,65.0
+2014-06-10,Morgan Stanley,12 month,5.0,Overwt/In-Line,57.0
+2014-06-10,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-06-10,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-06-11,Macquarie,12 month,5.0,outperform,64.0
+2014-06-11,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2014-06-11,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,61.0
+2014-06-11,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2014-06-11,RBC Capital Markets,12 month,3.0,sector perform,57.0
+2014-06-12,Argus Research Corp,Not Provided,5.0,buy,62.0
+2014-06-13,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-06-17,Sterne Agee CRT,12 month,5.0,buy,65.0
+2014-06-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-06-23,RBC Capital Markets,12 month,3.0,sector perform,57.0
+2014-06-30,Barclays,Not Provided,5.0,overweight,65.0
+2014-07-01,J.P. Morgan,15 month,5.0,overweight,63.0
+2014-07-07,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2014-07-07,Morgan Stanley,12 month,5.0,Overwt/In-Line,62.0
+2014-07-07,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-07-08,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,65.0
+2014-07-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-14,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2014-07-17,Sterne Agee CRT,Not Provided,5.0,buy,66.0
+2014-07-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-07-18,Macquarie,12 month,5.0,outperform,64.0
+2014-07-20,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,65.0
+2014-07-21,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-07-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-21,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2014-07-23,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-07-25,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-07-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-30,FBR Capital Markets,12 month,5.0,outperform,60.0
+2014-07-30,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2014-07-31,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-31,Morgan Stanley,12 month,5.0,Overwt/In-Line,62.0
+2014-07-31,Portales Partners,Not Provided,3.0,sector perform,-0.0
+2014-07-31,RBC Capital Markets,12 month,3.0,sector perform,59.0
+2014-07-31,J.P. Morgan,15 month,5.0,overweight,63.0
+2014-07-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-08-01,Macquarie,12 month,5.0,outperform,64.0
+2014-08-01,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2014-08-01,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-08-03,"Keefe, Bruyette & Woods",12 month,5.0,outperform,64.0
+2014-08-04,Barclays,Not Provided,5.0,overweight,65.0
+2014-08-04,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-08-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-08-08,Argus Research Corp,Not Provided,5.0,buy,62.0
+2014-08-11,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2014-08-11,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-08-11,"Keefe, Bruyette & Woods",12 month,5.0,outperform,64.0
+2014-08-11,Morgan Stanley,12 month,5.0,Overwt/In-Line,60.0
+2014-08-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-08-22,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2014-08-25,Daiwa Securities,Not Provided,5.0,buy,63.0
+2014-08-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-08-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-09-02,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2014-09-04,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-09-04,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-09-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-09-17,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-09-17,"Keefe, Bruyette & Woods",12 month,5.0,outperform,64.0
+2014-09-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-09-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-09-17,Morgan Stanley,12 month,5.0,Overwt/In-Line,60.0
+2014-09-17,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-09-17,Barclays,Not Provided,5.0,overweight,65.0
+2014-09-18,RBC Capital Markets,12 month,3.0,sector perform,59.0
+2014-10-01,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2014-10-01,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2014-10-01,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2014-10-01,Macquarie,12 month,5.0,outperform,64.0
+2014-10-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-02,J.P. Morgan,12 month,5.0,overweight,63.0
+2014-10-02,Barclays,Not Provided,5.0,overweight,65.0
+2014-10-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-08,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-10-09,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-10-10,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-10-13,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,62.0
+2014-10-13,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2014-10-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-15,Sterne Agee CRT,12 month,5.0,buy,68.0
+2014-10-16,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2014-10-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-10-21,Morgan Stanley,12 month,5.0,Overwt/In-Line,60.0
+2014-10-29,RBC Capital Markets,12 month,3.0,sector perform,57.0
+2014-10-29,Scotia Capital,12 month,5.0,focus stock,59.0
+2014-10-29,Sterne Agee CRT,12 month,5.0,buy,68.0
+2014-10-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-29,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2014-10-29,FBR Capital Markets,12 month,5.0,outperform,60.0
+2014-10-29,Credit Suisse,Not Provided,5.0,outperform,59.0
+2014-10-29,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2014-10-30,Morgan Stanley,12 month,5.0,Overwt/In-Line,60.0
+2014-10-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-10-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-30,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-10-30,Barclays,Not Provided,5.0,overweight,65.0
+2014-10-30,J.P. Morgan,12 month,5.0,overweight,63.0
+2014-10-31,Macquarie,12 month,5.0,outperform,64.0
+2014-11-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-11-03,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2014-11-04,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,62.0
+2014-11-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-11,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2014-11-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,62.0
+2014-11-12,Sterne Agee CRT,Not Provided,5.0,buy,68.0
+2014-11-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-18,Sterne Agee CRT,12 month,5.0,buy,68.0
+2014-11-19,RBC Capital Markets,12 month,3.0,sector perform,57.0
+2014-11-20,Argus Research Corp,Not Provided,5.0,buy,62.0
+2014-11-24,Daiwa Securities,Not Provided,5.0,outperform,60.0
+2014-12-01,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2014-12-01,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2014-12-03,Atlantic Equities LLP,12 month,3.0,neutral,57.0
+2014-12-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-12-12,Credit Suisse,Not Provided,5.0,outperform,58.0
+2014-12-12,Barclays,Not Provided,5.0,overweight,65.0
+2014-12-13,Macquarie,12 month,5.0,outperform,64.0
+2014-12-14,"Keefe, Bruyette & Woods",12 month,5.0,outperform,64.0
+2014-12-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-12-15,Atlantic Equities LLP,12 month,3.0,neutral,57.0
+2014-12-15,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2014-12-15,Morgan Stanley,12 month,5.0,Overwt/In-Line,60.0
+2014-12-15,RBC Capital Markets,12 month,3.0,sector perform,56.0
+2014-12-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-12-18,Sterne Agee CRT,12 month,5.0,buy,65.0
+2014-12-19,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2014-12-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-01-05,Drexel Hamilton LLC,12 month,5.0,buy,63.0
+2015-01-05,J.P. Morgan,Not Provided,5.0,overweight,63.0
+2015-01-06,Morgan Stanley,12 month,5.0,Overwt/In-Line,59.0
+2015-01-06,UBS,12 month,3.0,neutral,55.0
+2015-01-06,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2015-01-08,Barclays,Not Provided,5.0,overweight,65.0
+2015-01-08,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-01-08,Atlantic Equities LLP,12 month,3.0,neutral,57.0
+2015-01-08,Macquarie,12 month,3.0,neutral,56.0
+2015-01-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-13,Barclays,Not Provided,5.0,overweight,65.0
+2015-01-13,Sterne Agee CRT,Not Provided,5.0,buy,65.0
+2015-01-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-01-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-16,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-01-22,Sterne Agee CRT,12 month,5.0,buy,65.0
+2015-02-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-02-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-02-11,Sterne Agee CRT,12 month,5.0,buy,65.0
+2015-02-11,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-02-11,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2015-02-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-12,Macquarie,12 month,3.0,neutral,55.0
+2015-02-12,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-02-12,J.P. Morgan,12 month,5.0,overweight,63.0
+2015-02-12,Barclays,Not Provided,5.0,overweight,65.0
+2015-02-12,RBC Capital Markets,12 month,3.0,sector perform,57.0
+2015-02-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,59.0
+2015-02-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-02-13,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-02-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-02-17,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2015-02-17,Argus Research Corp,Not Provided,5.0,buy,62.0
+2015-02-23,Daiwa Securities,Not Provided,5.0,outperform,55.0
+2015-02-23,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-02-23,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2015-02-25,Morgan Stanley,12 month,5.0,Overwt/In-Line,59.0
+2015-03-05,J.P. Morgan,9 month,5.0,overweight,63.0
+2015-03-05,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-03-12,RBC Capital Markets,12 month,3.0,sector perform,57.0
+2015-03-12,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-03-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-13,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-03-16,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-03-17,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2015-03-23,Barclays,Not Provided,5.0,overweight,65.0
+2015-03-23,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-03-30,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-03-31,J.P. Morgan,9 month,5.0,overweight,63.0
+2015-03-31,Barclays,Not Provided,5.0,overweight,65.0
+2015-04-06,Morgan Stanley,12 month,5.0,Overwt/In-Line,58.0
+2015-04-07,J.P. Morgan,9 month,5.0,overweight,60.0
+2015-04-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-09,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-04-14,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-04-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-14,Macquarie,12 month,3.0,neutral,55.0
+2015-04-14,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-04-15,Barclays,Not Provided,5.0,overweight,65.0
+2015-04-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-04-20,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2015-04-21,Barclays,Not Provided,5.0,overweight,65.0
+2015-04-22,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-04-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-05-06,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2015-05-06,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2015-05-07,J.P. Morgan,9 month,5.0,overweight,60.0
+2015-05-07,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-05-07,Morgan Stanley,12 month,5.0,Overwt/In-Line,59.0
+2015-05-07,Barclays,Not Provided,5.0,overweight,65.0
+2015-05-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-05-07,RBC Capital Markets,12 month,3.0,sector perform,57.0
+2015-05-07,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-05-07,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-05-07,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-05-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-08,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-05-10,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-05-11,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-05-12,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-05-12,Macquarie,12 month,3.0,neutral,55.0
+2015-05-14,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2015-05-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-05-15,Goldman Sachs,12 month,3.0,neutral/neutral,54.0
+2015-05-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-29,Argus Research Corp,Not Provided,5.0,buy,62.0
+2015-05-29,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2015-06-01,Piper Jaffray,12 month,3.0,neutral,59.0
+2015-06-09,Argus Research Corp,Not Provided,5.0,buy,62.0
+2015-06-10,Piper Jaffray,Not Provided,3.0,neutral,59.0
+2015-06-18,Piper Jaffray,12 month,3.0,neutral,59.0
+2015-06-22,RBC Capital Markets,12 month,5.0,outperform,68.0
+2015-06-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-06-23,Goldman Sachs,12 month,3.0,neutral/neutral,59.0
+2015-07-06,Morgan Stanley,12 month,5.0,Overwt/In-Line,60.0
+2015-07-06,J.P. Morgan,Not Provided,5.0,overweight,62.0
+2015-07-09,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2015-07-09,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-07-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-07-15,Piper Jaffray,12 month,3.0,neutral,59.0
+2015-07-16,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-07-16,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,62.0
+2015-07-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-22,Macquarie,12 month,3.0,neutral,58.0
+2015-07-29,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2015-07-29,Piper Jaffray,12 month,3.0,neutral,59.0
+2015-07-29,RBC Capital Markets,12 month,5.0,outperform,68.0
+2015-07-30,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-07-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-30,Barclays,Not Provided,5.0,overweight,65.0
+2015-07-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-30,Morgan Stanley,12 month,5.0,Overwt/In-Line,61.0
+2015-07-30,J.P. Morgan,18 month,5.0,overweight,62.0
+2015-07-30,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-07-31,Macquarie,12 month,3.0,neutral,58.0
+2015-07-31,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-08-03,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2015-08-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-08-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-07,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-08-11,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2015-08-11,Argus Research Corp,Not Provided,5.0,buy,62.0
+2015-08-13,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-08-14,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-08-19,Barclays,Not Provided,5.0,overweight,65.0
+2015-08-20,Piper Jaffray,Not Provided,3.0,neutral,59.0
+2015-08-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-08-21,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-08-24,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-09-03,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-09-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-09-08,Morgan Stanley,12 month,5.0,Overwt/In-Line,59.0
+2015-09-09,Goldman Sachs,12 month,3.0,neutral/neutral,55.0
+2015-09-17,RBC Capital Markets,12 month,5.0,outperform,67.0
+2015-09-17,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-09-17,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-09-18,Macquarie,12 month,3.0,neutral,55.0
+2015-09-22,"Keefe, Bruyette & Woods",12 month,5.0,outperform,62.0
+2015-09-22,Barclays,Not Provided,5.0,overweight,65.0
+2015-09-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-09-22,Piper Jaffray,12 month,3.0,neutral,59.0
+2015-09-28,FBR Capital Markets,12 month,5.0,outperform,60.0
+2015-09-28,Barclays,Not Provided,5.0,overweight,65.0
+2015-09-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-02,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2015-10-05,J.P. Morgan,18 month,5.0,overweight,59.0
+2015-10-06,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-10-06,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-10-09,Piper Jaffray,Not Provided,3.0,neutral,58.0
+2015-10-13,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2015-10-14,Credit Suisse,Not Provided,5.0,outperform,60.0
+2015-10-14,RBC Capital Markets,12 month,5.0,outperform,67.0
+2015-10-15,Macquarie,12 month,3.0,neutral,51.0
+2015-10-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-16,Argus Research Corp,Not Provided,5.0,buy,62.0
+2015-10-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-10-23,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2015-11-04,Credit Suisse,Not Provided,5.0,outperform,58.0
+2015-11-05,"Keefe, Bruyette & Woods",12 month,5.0,outperform,60.0
+2015-11-05,J.P. Morgan,18 month,5.0,overweight,57.0
+2015-11-05,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-11-05,Morgan Stanley,12 month,5.0,Overwt/In-Line,58.0
+2015-11-05,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-11-05,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-11-05,Macquarie,12 month,3.0,neutral,51.0
+2015-11-05,Barclays,Not Provided,5.0,overweight,63.0
+2015-11-05,Piper Jaffray,12 month,3.0,neutral,57.0
+2015-11-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-06,Goldman Sachs,12 month,3.0,neutral/neutral,54.0
+2015-11-06,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2015-11-09,FBR Capital Markets,Not Provided,5.0,outperform,58.0
+2015-11-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-11-11,Morgan Stanley,12 month,3.0,Equalwt/In-Line,56.0
+2015-11-13,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,60.0
+2015-11-13,Credit Suisse,Not Provided,5.0,outperform,58.0
+2015-11-13,J.P. Morgan,18 month,5.0,overweight,57.0
+2015-11-16,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2015-11-17,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-11-25,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-11-29,Piper Jaffray,12 month,3.0,neutral,56.0
+2015-12-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-12-04,Argus Research Corp,12 month,5.0,buy,62.0
+2015-12-07,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,60.0
+2015-12-08,Credit Suisse,Not Provided,5.0,outperform,58.0
+2015-12-11,Morgan Stanley,12 month,3.0,Equalwt/In-Line,55.0
+2015-12-11,Barclays,Not Provided,5.0,overweight,60.0
+2015-12-11,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-12-12,Macquarie,12 month,3.0,neutral,51.0
+2015-12-13,RBC Capital Markets,12 month,5.0,outperform,61.0
+2015-12-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-12-14,Goldman Sachs,12 month,3.0,neutral/neutral,53.0
+2015-12-14,"Keefe, Bruyette & Woods",12 month,5.0,outperform,60.0
+2015-12-14,Credit Suisse,Not Provided,5.0,outperform,57.0
+2015-12-14,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2015-12-14,UBS,12 month,3.0,neutral,51.0
+2015-12-16,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-16,Piper Jaffray,12 month,3.0,neutral,56.0
+2016-01-04,RBC Capital Markets,12 month,5.0,outperform,61.0
+2016-01-05,J.P. Morgan,12 month,5.0,overweight,57.0
+2016-01-06,UBS,12 month,3.0,neutral,50.0
+2016-01-06,Macquarie,12 month,3.0,neutral,51.0
+2016-01-07,Barclays,Not Provided,5.0,overweight,60.0
+2016-01-12,Barclays,Not Provided,5.0,overweight,60.0
+2016-01-12,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-13,FBR Capital Markets,Not Provided,5.0,outperform,58.0
+2016-01-13,Credit Suisse,Not Provided,5.0,outperform,60.0
+2016-01-13,"Keefe, Bruyette & Woods",12 month,5.0,outperform,60.0
+2016-01-13,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-01-13,Morgan Stanley,12 month,3.0,Equalwt/In-Line,55.0
+2016-01-13,Goldman Sachs,Not Provided,-2147483648.0,Rating Suspended,-0.0
+2016-01-13,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-01-13,RBC Capital Markets,12 month,5.0,outperform,61.0
+2016-01-14,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-01-14,Macquarie,12 month,5.0,outperform,55.0
+2016-01-15,Piper Jaffray,Not Provided,3.0,neutral,55.0
+2016-01-19,FBR Capital Markets,Not Provided,5.0,outperform,58.0
+2016-01-22,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-01-22,Raymond James,12 month,5.0,strong buy,56.0
+2016-01-25,Credit Suisse,Not Provided,5.0,outperform,60.0
+2016-01-29,Raymond James,12 month,5.0,strong buy,56.0
+2016-01-29,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-04,Barclays,Not Provided,5.0,overweight,53.0
+2016-02-04,Macquarie,12 month,5.0,outperform,53.0
+2016-02-04,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-02-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,54.0
+2016-02-04,Credit Suisse,Not Provided,5.0,outperform,58.0
+2016-02-04,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-04,"Keefe, Bruyette & Woods",12 month,5.0,outperform,60.0
+2016-02-04,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2016-02-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-02-04,Piper Jaffray,12 month,3.0,neutral,53.0
+2016-02-04,J.P. Morgan,12 month,5.0,overweight,54.0
+2016-02-05,Raymond James,12 month,5.0,strong buy,55.0
+2016-02-08,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-02-08,FBR Capital Markets,Not Provided,5.0,outperform,51.0
+2016-02-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-09,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-02-12,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-12,Barclays,Not Provided,5.0,overweight,53.0
+2016-02-18,J.P. Morgan,12 month,5.0,overweight,54.0
+2016-02-19,Raymond James,12 month,5.0,strong buy,55.0
+2016-02-22,UBS,12 month,3.0,neutral,42.0
+2016-02-22,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-02-22,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,53.0
+2016-02-22,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2016-02-25,"Keefe, Bruyette & Woods",12 month,5.0,outperform,53.0
+2016-02-26,Atlantic Equities LLP,12 month,3.0,neutral,45.0
+2016-02-28,Piper Jaffray,12 month,3.0,neutral,53.0
+2016-02-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-29,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-02-29,Credit Suisse,Not Provided,5.0,outperform,58.0
+2016-03-02,Credit Suisse,Not Provided,5.0,outperform,58.0
+2016-03-03,"Morningstar, Inc",Not Provided,-2147483648.0,Under Review,-0.0
+2016-03-04,FBR Capital Markets,12 month,5.0,outperform,51.0
+2016-03-07,Piper Jaffray,12 month,3.0,neutral,53.0
+2016-03-10,Argus Research Corp,Not Provided,5.0,buy,54.0
+2016-03-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-03-15,UBS,12 month,3.0,neutral,44.0
+2016-03-30,FBR Capital Markets,12 month,5.0,outperform,51.0
+2016-03-30,Piper Jaffray,12 month,3.0,neutral,53.0
+2016-03-30,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2016-03-30,Raymond James,12 month,5.0,strong buy,55.0
+2016-03-30,"Keefe, Bruyette & Woods",12 month,5.0,outperform,53.0
+2016-03-30,Barclays,Not Provided,5.0,overweight,53.0
+2016-03-30,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-03-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-03-31,Atlantic Equities LLP,12 month,3.0,neutral,45.0
+2016-04-03,"Keefe, Bruyette & Woods",12 month,5.0,outperform,53.0
+2016-04-04,Raymond James,12 month,5.0,strong buy,55.0
+2016-04-04,J.P. Morgan,Not Provided,5.0,overweight,53.0
+2016-04-05,Barclays,Not Provided,5.0,overweight,53.0
+2016-04-06,RBC Capital Markets,12 month,5.0,outperform,65.0
+2016-04-07,"Morningstar, Inc",Not Provided,-2147483648.0,Under Review,-0.0
+2016-04-07,Piper Jaffray,12 month,3.0,neutral,53.0
+2016-04-07,Atlantic Equities LLP,12 month,3.0,neutral,45.0
+2016-04-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-08,Barclays,Not Provided,5.0,overweight,53.0
+2016-04-11,"Keefe, Bruyette & Woods",12 month,5.0,outperform,53.0
+2016-04-12,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,46.0
+2016-04-14,Macquarie,12 month,5.0,outperform,53.0
+2016-04-15,Barclays,Not Provided,5.0,overweight,53.0
+2016-04-17,Piper Jaffray,Not Provided,3.0,neutral,52.0
+2016-04-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-20,FBR Capital Markets,Not Provided,5.0,outperform,51.0
+2016-04-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-20,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,55.0
+2016-04-21,Raymond James,Not Provided,5.0,strong buy,53.0
+2016-04-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-26,Barclays,Not Provided,5.0,overweight,53.0
+2016-04-26,"Keefe, Bruyette & Woods",12 month,5.0,outperform,55.0
+2016-04-27,FBR Capital Markets,Not Provided,5.0,outperform,51.0
+2016-05-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-04,Piper Jaffray,12 month,3.0,neutral,52.0
+2016-05-04,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-05-04,FBR Capital Markets,12 month,5.0,outperform,51.0
+2016-05-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2016-05-04,Barclays,Not Provided,5.0,overweight,51.0
+2016-05-04,"Keefe, Bruyette & Woods",12 month,5.0,outperform,55.0
+2016-05-05,J.P. Morgan,Not Provided,5.0,overweight,51.0
+2016-05-05,RBC Capital Markets,12 month,5.0,outperform,62.0
+2016-05-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-05,"Sandler O'Neill & Partners, LP",12 month,3.0,hold,46.0
+2016-05-05,Macquarie,12 month,5.0,outperform,51.0
+2016-05-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2016-05-06,Raymond James,12 month,5.0,strong buy,51.0
+2016-05-06,Atlantic Equities LLP,12 month,3.0,neutral,45.0
+2016-05-09,"Keefe, Bruyette & Woods",12 month,5.0,outperform,55.0
+2016-05-10,FBR Capital Markets,Not Provided,5.0,outperform,51.0
+2016-05-11,Barclays,Not Provided,5.0,overweight,51.0
+2016-05-11,Piper Jaffray,12 month,3.0,neutral,52.0
+2016-05-12,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-05-16,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,54.0
+2016-05-20,RBC Capital Markets,12 month,5.0,outperform,62.0
+2016-05-31,J.P. Morgan,9 month,5.0,overweight,51.0
+2016-06-01,Barclays,Not Provided,5.0,overweight,51.0
+2016-06-06,RBC Capital Markets,12 month,5.0,outperform,62.0
+2016-06-07,Argus Research Corp,Not Provided,5.0,buy,54.0
+2016-06-09,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2016-06-10,"Keefe, Bruyette & Woods",12 month,5.0,outperform,54.0
+2016-06-10,FBR Capital Markets,Not Provided,5.0,outperform,51.0
+2016-06-14,Argus Research Corp,Not Provided,5.0,buy,54.0
+2016-06-15,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-06-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-06-24,RBC Capital Markets,12 month,5.0,outperform,62.0
+2016-06-29,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,46.0
+2016-07-01,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-07-01,Barclays,Not Provided,5.0,overweight,49.0
+2016-07-05,J.P. Morgan,18 month,5.0,overweight,51.0
+2016-07-06,Evercore ISI,Not Provided,5.0,buy,52.0
+2016-07-07,Atlantic Equities LLP,12 month,3.0,neutral,45.0
+2016-07-07,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,46.0
+2016-07-11,FBR Capital Markets,Not Provided,5.0,outperform,51.0
+2016-07-12,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,51.0
+2016-07-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-20,FBR Capital Markets,Not Provided,5.0,outperform,51.0
+2016-07-21,Barclays,Not Provided,5.0,overweight,49.0
+2016-07-21,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,48.0
+2016-07-25,RBC Capital Markets,12 month,5.0,outperform,56.0
+2016-07-25,Evercore ISI,Not Provided,5.0,buy,52.0
+2016-08-03,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-08-03,FBR Capital Markets,Not Provided,5.0,outperform,51.0
+2016-08-04,J.P. Morgan,18 month,5.0,overweight,51.0
+2016-08-04,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-08-04,Evercore ISI,Not Provided,5.0,buy,51.0
+2016-08-04,"Keefe, Bruyette & Woods",12 month,5.0,outperform,51.0
+2016-08-04,RBC Capital Markets,12 month,5.0,outperform,53.0
+2016-08-04,Barclays,Not Provided,5.0,overweight,49.0
+2016-08-05,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,48.0
+2016-08-06,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-08-08,RBC Capital Markets,12 month,5.0,outperform,53.0
+2016-08-08,Barclays,Not Provided,5.0,overweight,49.0
+2016-08-08,Evercore ISI,12 month,5.0,buy,51.0
+2016-08-08,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-08-10,Atlantic Equities LLP,12 month,3.0,neutral,45.0
+2016-08-10,FBR Capital Markets,Not Provided,5.0,outperform,51.0
+2016-08-11,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-08-12,"Keefe, Bruyette & Woods",12 month,5.0,outperform,51.0
+2016-08-15,Barclays,Not Provided,5.0,overweight,49.0
+2016-08-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,49.0
+2016-08-17,Evercore ISI,12 month,5.0,buy,51.0
+2016-08-22,UBS,12 month,3.0,neutral,44.0
+2016-08-23,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,49.0
+2016-08-24,RBC Capital Markets,12 month,5.0,outperform,53.0
+2016-08-29,FBR Capital Markets,12 month,5.0,outperform,54.0
+2016-09-01,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-09-06,Argus Research Corp,Not Provided,5.0,buy,54.0
+2016-09-09,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,48.0
+2016-09-15,RBC Capital Markets,12 month,5.0,outperform,53.0
+2016-09-20,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,50.0
+2016-09-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-25,"Keefe, Bruyette & Woods",12 month,5.0,outperform,49.0
+2016-09-26,Evercore ISI,12 month,5.0,buy,51.0
+2016-09-27,Evercore ISI,12 month,5.0,buy,51.0
+2016-09-30,Barclays,Not Provided,5.0,overweight,49.0
+2016-10-04,J.P. Morgan,Not Provided,5.0,overweight,51.0
+2016-10-06,Credit Suisse,Not Provided,3.0,neutral,51.0
+2016-10-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-06,"Keefe, Bruyette & Woods",12 month,5.0,outperform,49.0
+2016-10-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-06,Morgan Stanley,12 month,3.0,Equalwt/In-Line,49.0
+2016-10-06,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-10-06,Barclays,Not Provided,5.0,overweight,49.0
+2016-10-07,UBS,12 month,3.0,neutral,48.0
+2016-10-07,Argus Research Corp,Not Provided,5.0,buy,54.0
+2016-10-07,Evercore ISI,12 month,5.0,buy,51.0
+2016-10-10,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,54.0
+2016-10-11,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-10-12,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2016-10-14,Atlantic Equities LLP,12 month,3.0,neutral,45.0
+2016-10-16,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,52.0
+2016-10-18,FBR Capital Markets,Not Provided,5.0,outperform,54.0
+2016-10-21,Evercore ISI,Not Provided,5.0,buy,51.0
+2016-10-24,Barclays,Not Provided,5.0,overweight,49.0
+2016-10-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-24,"Keefe, Bruyette & Woods",12 month,5.0,outperform,52.0
+2016-10-25,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2016-10-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-26,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,54.0
+2016-10-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-31,Credit Suisse,Not Provided,3.0,neutral,49.0
+2016-10-31,Barclays,Not Provided,5.0,overweight,49.0
+2016-11-02,FBR Capital Markets,12 month,5.0,outperform,54.0
+2016-11-02,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-11-03,"Keefe, Bruyette & Woods",12 month,5.0,outperform,52.0
+2016-11-03,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,54.0
+2016-11-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,51.0
+2016-11-03,Atlantic Equities LLP,12 month,3.0,neutral,45.0
+2016-11-03,J.P. Morgan,Not Provided,5.0,overweight,51.0
+2016-11-03,Barclays,Not Provided,5.0,overweight,49.0
+2016-11-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-04,Argus Research Corp,Not Provided,5.0,buy,54.0
+2016-11-04,RBC Capital Markets,Not Provided,5.0,outperform,53.0
+2016-11-04,Evercore ISI,12 month,5.0,buy,51.0
+2016-11-06,Credit Suisse,Not Provided,3.0,neutral,49.0
+2016-11-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-10,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2016-11-10,FBR Capital Markets,Not Provided,5.0,outperform,54.0
+2016-11-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-10,Evercore ISI,12 month,5.0,buy,55.0
+2016-11-10,Barclays,Not Provided,5.0,overweight,49.0
+2016-11-11,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,59.0
+2016-11-11,RBC Capital Markets,12 month,5.0,outperform,61.0
+2016-11-11,Morgan Stanley,12 month,3.0,Equalwt/In-Line,53.0
+2016-11-11,Credit Suisse,Not Provided,3.0,neutral,52.0
+2016-11-11,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-11-11,UBS,12 month,3.0,neutral,54.0
+2016-11-14,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,58.0
+2016-11-14,Spin-Off Research,Not Provided,3.0,neutral,54.5
+2016-11-15,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,61.0
+2016-11-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-18,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2016-11-21,Credit Suisse,Not Provided,3.0,neutral,54.0
+2016-11-28,FBR Capital Markets,12 month,3.0,market perform,54.0
+2016-12-01,Barclays,Not Provided,5.0,overweight,66.0
+2016-12-01,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-12-13,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,65.0
+2016-12-13,Morgan Stanley,12 month,3.0,Equalwt/In-Line,62.0
+2016-12-13,Evercore ISI,12 month,5.0,buy,67.0
+2016-12-13,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,64.0
+2016-12-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-16,RBC Capital Markets,12 month,5.0,outperform,63.0
+2016-12-16,Barclays,Not Provided,5.0,overweight,66.0
+2016-12-16,Morgan Stanley,12 month,3.0,Equalwt/In-Line,61.0
+2016-12-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-12-16,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,62.0
+2016-12-16,Credit Suisse,Not Provided,3.0,neutral,54.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-12-19,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2016-12-19,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2016-12-19,UBS,12 month,3.0,neutral,57.0
+2016-12-19,Evercore ISI,12 month,5.0,buy,65.0
+2016-12-20,"Keefe, Bruyette & Woods",12 month,5.0,outperform,61.0
+2016-12-20,FBR Capital Markets,Not Provided,3.0,market perform,54.0
+2016-12-21,Credit Suisse,Not Provided,3.0,neutral,56.0
+2017-01-03,Argus Research Corp,Not Provided,5.0,buy,60.0
+2017-01-03,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2017-01-03,J.P. Morgan,Not Provided,5.0,overweight,57.0
+2017-01-04,Barclays,Not Provided,5.0,overweight,67.0
+2017-01-05,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,62.0
+2017-01-06,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2017-01-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-09,Credit Suisse,Not Provided,3.0,neutral,67.0
+2017-01-09,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,62.0
+2017-01-11,Evercore ISI,Not Provided,5.0,buy,65.0
+2017-01-18,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2017-01-23,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,61.0
+2017-01-23,Evercore ISI,12 month,5.0,buy,65.0
+2017-01-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-01,FBR Capital Markets,12 month,3.0,market perform,54.0
+2017-02-01,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2017-02-02,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2017-02-02,"Keefe, Bruyette & Woods",12 month,5.0,outperform,61.0
+2017-02-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-02,J.P. Morgan,Not Provided,5.0,overweight,57.0
+2017-02-02,Barclays,Not Provided,5.0,overweight,67.0
+2017-02-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-02,RBC Capital Markets,12 month,5.0,outperform,61.0
+2017-02-02,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,61.0
+2017-02-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,61.0
+2017-02-03,Evercore ISI,Not Provided,5.0,buy,65.0
+2017-02-06,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2017-02-06,"Keefe, Bruyette & Woods",12 month,5.0,outperform,61.0
+2017-02-06,Credit Suisse,Not Provided,3.0,neutral,66.0
+2017-02-07,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2017-02-13,FBR Capital Markets,Not Provided,3.0,market perform,54.0
+2017-02-16,Morgan Stanley,12 month,3.0,Equalwt/In-Line,60.0
+2017-02-17,Barclays,Not Provided,5.0,overweight,67.0
+2017-02-22,Barclays,Not Provided,5.0,overweight,67.0
+2017-03-01,Argus Research Corp,Not Provided,5.0,buy,60.0
+2017-03-01,"Keefe, Bruyette & Woods",12 month,5.0,outperform,61.0
+2017-03-02,Credit Suisse,Not Provided,3.0,neutral,66.0
+2017-03-03,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,61.0
+2017-03-06,Evercore ISI,Not Provided,5.0,buy,65.0
+2017-03-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-23,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,61.0
+2017-03-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-31,Evercore ISI,Not Provided,5.0,outperform,65.0
+2017-04-03,J.P. Morgan,Not Provided,5.0,overweight,54.0
+2017-04-03,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2017-04-03,FBR Capital Markets,Not Provided,3.0,market perform,54.0
+2017-04-03,Barclays,Not Provided,5.0,overweight,67.0
+2017-04-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-04,Barclays,Not Provided,5.0,overweight,67.0
+2017-04-05,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,61.0
+2017-04-10,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,60.0
+2017-04-12,RBC Capital Markets,12 month,5.0,outperform,61.0
+2017-04-18,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2017-04-18,Credit Suisse,Not Provided,3.0,neutral,66.0
+2017-04-18,Evercore ISI,Not Provided,5.0,outperform,65.0
+2017-04-18,"Keefe, Bruyette & Woods",12 month,5.0,outperform,60.0
+2017-04-18,Morgan Stanley,12 month,3.0,Equalwt/In-Line,60.0
+2017-04-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-18,Barclays,Not Provided,5.0,overweight,67.0
+2017-04-19,"Keefe, Bruyette & Woods",12 month,5.0,outperform,59.0
+2017-04-21,Evercore ISI,Not Provided,5.0,outperform,63.0
+2017-04-24,Credit Suisse,Not Provided,3.0,neutral,66.0
+2017-04-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-28,"Keefe, Bruyette & Woods",12 month,5.0,outperform,59.0
+2017-05-02,Evercore ISI,Not Provided,5.0,outperform,63.0
+2017-05-03,Janney Montgomery Scott LLC,Not Provided,5.0,buy,-0.0
+2017-05-04,RBC Capital Markets,12 month,5.0,outperform,62.0
+2017-05-04,J.P. Morgan,Not Provided,5.0,overweight,54.0
+2017-05-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-04,Atlantic Equities LLP,12 month,3.0,neutral,55.0
+2017-05-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,60.0
+2017-05-04,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,61.0
+2017-05-04,Barclays,Not Provided,5.0,overweight,67.0
+2017-05-05,Spin-Off Research,Not Provided,3.0,hold,60.0
+2017-05-05,Argus Research Corp,Not Provided,5.0,buy,60.0
+2017-05-07,"Keefe, Bruyette & Woods",12 month,5.0,outperform,59.0
+2017-05-09,Evercore ISI,12 month,5.0,outperform,63.0
+2017-05-09,Credit Suisse,Not Provided,3.0,neutral,65.0
+2017-05-10,FBR Capital Markets,Not Provided,3.0,market perform,54.0
+2017-05-12,Barclays,Not Provided,5.0,overweight,67.0
+2017-05-14,"Keefe, Bruyette & Woods",Not Provided,5.0,outperform,59.0
+2017-05-15,"Sandler O'Neill & Partners, LP",12 month,5.0,buy,61.0
+2017-05-16,Evercore ISI,12 month,5.0,outperform,63.0

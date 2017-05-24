@@ -1,0 +1,3157 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2004-08-16,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2005-01-17,Dresdner Kleinwort,Not Provided,3.0,hold,80.0
+2005-05-12,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2005-05-19,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,-0.0
+2005-07-22,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2005-07-22,Bear Stearns & Co,Not Provided,3.0,peerperform,-0.0
+2005-07-22,Nomura,Not Provided,3.0,neutral,-0.0
+2005-08-31,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2005-10-14,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2005-10-21,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2005-10-21,Raymond James,Not Provided,5.0,outperform,77.0
+2005-10-27,HSBC,Not Provided,3.0,neutral,-0.0
+2005-11-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2005-11-15,UBS,Not Provided,3.0,neutral 1,87.0
+2005-11-21,BB&T Capital Markets,12 month,5.0,buy,85.0
+2005-12-01,Stifel,Not Provided,3.0,hold,-0.0
+2005-12-09,Credit Suisse,12 month,3.0,neutral,80.0
+2005-12-23,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2005-12-30,Baird,Not Provided,5.0,outperform,87.0
+2006-01-12,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2006-01-13,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-01-17,Credit Suisse,12 month,5.0,outperform,87.0
+2006-01-20,Raymond James,Not Provided,5.0,outperform,77.0
+2006-01-23,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2006-01-24,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2006-01-27,Raymond James,Not Provided,5.0,outperform,83.0
+2006-01-27,Stifel,Not Provided,3.0,hold,-0.0
+2006-01-27,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2006-02-21,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2006-03-08,HSBC,Not Provided,3.0,neutral,80.0
+2006-03-23,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-04-04,UBS,Not Provided,3.0,neutral 1,90.0
+2006-04-11,Barclays,Not Provided,5.0,overwt/neutral,92.0
+2006-04-20,Credit Suisse,12 month,5.0,outperform,92.0
+2006-04-20,Stifel,Not Provided,3.0,hold,-0.0
+2006-04-20,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2006-04-21,Baird,Not Provided,5.0,outperform,92.0
+2006-04-21,UBS,Not Provided,3.0,neutral 1,93.0
+2006-04-21,Raymond James,Not Provided,5.0,outperform,91.0
+2006-05-08,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2006-05-15,Baird,Not Provided,5.0,outperform,96.0
+2006-05-15,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2006-05-22,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-05-22,Stifel,Not Provided,5.0,buy,95.0
+2006-05-25,Stifel,Not Provided,5.0,buy,95.0
+2006-06-01,Benchmark Company LLC,Not Provided,5.0,buy,102.0
+2006-07-03,Baird,Not Provided,5.0,outperform,96.0
+2006-07-03,Credit Suisse,12 month,5.0,outperform,92.0
+2006-07-03,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2006-07-10,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2006-07-14,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-07-25,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2006-07-25,Benchmark Company LLC,Not Provided,5.0,buy,85.0
+2006-07-25,Stifel,Not Provided,5.0,buy,84.0
+2006-07-25,Raymond James,12 month,5.0,strong buy,79.0
+2006-07-26,Barclays,Not Provided,5.0,overwt/neutral,85.0
+2006-07-26,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-07-26,Credit Suisse,12 month,5.0,outperform,86.0
+2006-07-26,UBS,Not Provided,3.0,neutral 1,80.0
+2006-07-26,Baird,Not Provided,3.0,neutral,80.0
+2006-07-26,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2006-08-07,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2006-08-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-09-05,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2006-09-08,UBS,12 month,3.0,neutral 1,78.0
+2006-09-19,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-09-25,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-09-29,Benchmark Company LLC,Not Provided,5.0,buy,85.0
+2006-10-06,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2006-10-09,Baird,Not Provided,3.0,neutral,80.0
+2006-10-19,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2006-10-19,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2006-10-19,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2006-10-19,Stifel,Not Provided,5.0,buy,85.0
+2006-10-20,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-10-20,Credit Suisse,12 month,5.0,outperform,86.0
+2006-10-20,Baird,Not Provided,3.0,neutral,83.0
+2006-10-20,Barclays,Not Provided,5.0,overwt/neutral,81.0
+2006-10-20,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-10-20,Raymond James,Not Provided,5.0,outperform,83.0
+2006-10-22,UBS,12 month,3.0,neutral 1,83.0
+2006-10-24,Benchmark Company LLC,Not Provided,5.0,buy,85.0
+2006-11-06,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2006-11-07,HSBC,Not Provided,3.0,neutral,80.0
+2006-11-09,Baird,Not Provided,3.0,neutral,83.0
+2006-11-09,Credit Suisse,12 month,5.0,outperform,86.0
+2006-11-09,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2006-11-09,Stifel,Not Provided,5.0,buy,85.0
+2006-11-09,UBS,12 month,3.0,neutral 1,84.0
+2006-11-09,Raymond James,Not Provided,5.0,outperform,83.0
+2006-11-09,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-11-10,Benchmark Company LLC,Not Provided,5.0,buy,85.0
+2006-11-20,Baird,Not Provided,3.0,neutral,83.0
+2006-11-22,HSBC,Not Provided,3.0,neutral,80.0
+2006-11-22,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2006-11-30,Benchmark Company LLC,Not Provided,5.0,buy,85.0
+2006-12-01,Credit Suisse,12 month,5.0,outperform,86.0
+2006-12-04,Baird,Not Provided,3.0,neutral,83.0
+2006-12-12,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-12-12,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2007-01-12,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2007-01-12,Benchmark Company LLC,Not Provided,5.0,buy,85.0
+2007-01-19,Benchmark Company LLC,Not Provided,5.0,buy,85.0
+2007-01-22,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-01-22,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2007-01-30,Benchmark Company LLC,Not Provided,5.0,buy,85.0
+2007-01-30,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2007-01-30,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2007-01-31,Baird,Not Provided,3.0,neutral,83.0
+2007-01-31,UBS,12 month,3.0,neutral 1,82.0
+2007-01-31,Stifel,Not Provided,5.0,buy,85.0
+2007-01-31,Raymond James,Not Provided,5.0,outperform,78.0
+2007-01-31,Credit Suisse,12 month,5.0,outperform,83.0
+2007-02-05,HSBC,Not Provided,3.0,neutral,80.0
+2007-02-09,Baird,Not Provided,5.0,outperform,86.0
+2007-02-23,S&P Capital IQ,12 month,5.0,buy,89.0
+2007-03-01,Baird,Not Provided,5.0,outperform,86.0
+2007-03-05,Nomura,Not Provided,2.0,reduce,-0.0
+2007-03-07,Baird,Not Provided,5.0,outperform,86.0
+2007-03-07,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2007-03-09,Credit Suisse,12 month,5.0,outperform,83.0
+2007-03-30,Raymond James,Not Provided,5.0,outperform,79.0
+2007-04-12,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-04-23,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2007-04-25,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2007-04-26,Raymond James,Not Provided,5.0,outperform,78.0
+2007-04-26,Credit Suisse,12 month,5.0,outperform,92.0
+2007-04-26,Stifel,Not Provided,3.0,hold,-0.0
+2007-04-26,Baird,Not Provided,5.0,outperform,86.0
+2007-04-26,Bear Stearns & Co,Not Provided,3.0,peerperform,-0.0
+2007-05-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-05-07,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2007-05-09,Stifel,Not Provided,3.0,hold,81.0
+2007-05-24,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-06-04,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2007-06-08,Baird,Not Provided,5.0,outperform,86.0
+2007-06-18,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2007-06-27,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-06-27,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2007-07-09,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2007-07-19,Dresdner Kleinwort,Not Provided,3.0,hold,80.0
+2007-07-20,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2007-07-20,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-07-24,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2007-07-24,UBS,12 month,3.0,neutral,83.0
+2007-07-25,Baird,Not Provided,5.0,outperform,87.0
+2007-07-25,Credit Suisse,12 month,5.0,outperform,92.0
+2007-07-25,Raymond James,Not Provided,5.0,outperform,78.0
+2007-08-02,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-08-06,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-08-08,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-08-17,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-08-23,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-09-14,Credit Suisse,12 month,5.0,outperform,92.0
+2007-10-01,Baird,Not Provided,5.0,outperform,87.0
+2007-10-01,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-10-01,Raymond James,Not Provided,5.0,outperform,-0.0
+2007-10-01,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2007-10-01,Dresdner Kleinwort,Not Provided,3.0,hold,80.0
+2007-10-01,Credit Suisse,12 month,5.0,outperform,92.0
+2007-10-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2007-10-02,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2007-10-04,Stifel,Not Provided,3.0,hold,-0.0
+2007-10-11,ING Bank,Not Provided,5.0,buy,85.0
+2007-10-11,Barclays,Not Provided,5.0,overwt/neutral,84.0
+2007-10-16,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-10-16,Baird,Not Provided,5.0,outperform,87.0
+2007-10-17,Bear Stearns & Co,Not Provided,3.0,peerperform,-0.0
+2007-10-23,S&P Capital IQ,12 month,5.0,buy,89.0
+2007-10-23,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2007-10-23,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-10-23,UBS,12 month,3.0,neutral,83.0
+2007-10-23,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2007-10-24,Raymond James,Not Provided,5.0,outperform,80.0
+2007-10-24,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-10-24,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2007-10-24,Credit Suisse,12 month,5.0,outperform,91.0
+2007-10-24,Baird,Not Provided,5.0,outperform,88.0
+2007-11-05,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2007-11-12,Baird,Not Provided,5.0,outperform,88.0
+2007-11-13,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-11-21,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-12-10,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2007-12-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2007-12-20,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2007-12-20,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2007-12-21,Baird,Not Provided,5.0,outperform,88.0
+2007-12-21,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-12-21,Raymond James,Not Provided,5.0,outperform,80.0
+2008-01-09,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-01-09,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2008-01-10,Credit Suisse,12 month,5.0,outperform,90.0
+2008-01-10,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-01-10,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2008-01-10,Baird,Not Provided,5.0,outperform,88.0
+2008-01-10,Bear Stearns & Co,Not Provided,5.0,outperform,85.0
+2008-01-10,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2008-01-10,Stifel,Not Provided,3.0,hold,-0.0
+2008-01-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-01-15,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2008-01-17,UBS,12 month,3.0,neutral,76.0
+2008-01-21,Dresdner Kleinwort,Not Provided,3.0,hold,70.0
+2008-01-29,UBS,12 month,3.0,neutral,78.0
+2008-01-30,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2008-01-30,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2008-01-31,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2008-01-31,Baird,Not Provided,5.0,outperform,88.0
+2008-01-31,Credit Suisse,12 month,5.0,outperform,90.0
+2008-01-31,Raymond James,Not Provided,5.0,outperform,80.0
+2008-01-31,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2008-02-01,Stifel,Not Provided,3.0,hold,-0.0
+2008-02-05,HSBC,12 month,5.0,overweight,86.0
+2008-02-11,Bear Stearns & Co,Not Provided,5.0,outperform,85.0
+2008-02-19,UBS,12 month,3.0,neutral,78.0
+2008-02-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-03-03,Baird,Not Provided,5.0,outperform,88.0
+2008-03-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-03-07,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2008-03-12,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2008-03-13,Bear Stearns & Co,Not Provided,5.0,outperform,85.0
+2008-03-13,Raymond James,Not Provided,5.0,outperform,80.0
+2008-03-13,Baird,Not Provided,5.0,outperform,86.0
+2008-03-13,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2008-03-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2008-03-13,Credit Suisse,12 month,5.0,outperform,88.0
+2008-03-13,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2008-03-13,Stifel,Not Provided,3.0,hold,-0.0
+2008-03-13,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-03-20,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2008-03-24,Barclays,Not Provided,5.0,overwt/neutral,81.0
+2008-03-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-04-02,HSBC,12 month,5.0,overweight,84.0
+2008-04-07,Dresdner Kleinwort,Not Provided,3.0,hold,75.0
+2008-04-08,Avondale Partners LLC,Not Provided,3.0,market perform,75.5
+2008-04-09,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-04-09,UBS,12 month,3.0,neutral,78.0
+2008-04-09,Baird,Not Provided,5.0,outperform,86.0
+2008-04-09,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-04-09,Raymond James,Not Provided,5.0,outperform,78.0
+2008-04-09,Credit Suisse,12 month,5.0,outperform,85.0
+2008-04-09,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2008-04-09,Stifel,Not Provided,3.0,hold,-0.0
+2008-04-09,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2008-04-09,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2008-04-11,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2008-04-15,Dresdner Kleinwort,Not Provided,3.0,hold,75.0
+2008-04-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-04-23,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2008-04-23,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2008-04-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2008-04-23,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2008-04-24,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-04-24,Baird,Not Provided,5.0,outperform,86.0
+2008-04-24,Raymond James,Not Provided,5.0,outperform,78.0
+2008-04-25,UBS,12 month,3.0,neutral,75.0
+2008-04-25,Stifel,Not Provided,3.0,hold,-0.0
+2008-04-28,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2008-04-30,Dresdner Kleinwort,Not Provided,3.0,hold,75.0
+2008-05-02,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2008-05-21,Stifel,Not Provided,3.0,hold,-0.0
+2008-05-23,"Thompson, Davis & Co",12 month,5.0,buy,93.0
+2008-05-28,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2008-05-28,Raymond James,Not Provided,5.0,outperform,-0.0
+2008-05-28,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-05-29,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-05-29,Baird,Not Provided,5.0,outperform,86.0
+2008-05-29,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2008-06-03,HSBC,12 month,5.0,overweight,84.0
+2008-06-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2008-06-19,Wells Fargo Securities,Not Provided,5.0,outperform,82.5
+2008-06-19,Raymond James,Not Provided,5.0,outperform,78.0
+2008-06-23,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2008-06-24,Avondale Partners LLC,Not Provided,3.0,market perform,60.0
+2008-06-24,Barclays,Not Provided,5.0,overwt/neutral,78.0
+2008-06-24,UBS,12 month,3.0,neutral,72.0
+2008-06-24,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2008-06-24,Wells Fargo Securities,Not Provided,5.0,outperform,82.5
+2008-06-24,Stifel,Not Provided,3.0,hold,-0.0
+2008-06-24,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2008-06-24,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2008-06-24,Baird,Not Provided,3.0,neutral,72.0
+2008-06-24,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-06-24,Raymond James,Not Provided,5.0,outperform,73.0
+2008-06-24,Dresdner Kleinwort,Not Provided,3.0,hold,75.0
+2008-06-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-07-08,Stifel,Not Provided,5.0,buy,77.0
+2008-07-09,"Thompson, Davis & Co",12 month,5.0,buy,85.0
+2008-07-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-07-22,Stifel,Not Provided,5.0,buy,71.0
+2008-07-22,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2008-07-23,Raymond James,Not Provided,5.0,strong buy,73.0
+2008-07-23,Baird,Not Provided,3.0,neutral,72.0
+2008-07-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2008-07-23,UBS,12 month,3.0,neutral,68.0
+2008-07-23,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2008-07-23,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-07-23,Avondale Partners LLC,Not Provided,3.0,market perform,60.0
+2008-07-23,HSBC,12 month,5.0,overweight,78.0
+2008-07-28,Dresdner Kleinwort,Not Provided,3.0,hold,60.0
+2008-07-30,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2008-08-11,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-08-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-09-03,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-09-10,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-09-17,Stifel,Not Provided,3.0,hold,-0.0
+2008-09-24,Barclays,Not Provided,5.0,overwt/neutral,78.0
+2008-10-01,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2008-10-02,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-10-06,"Thompson, Davis & Co",12 month,5.0,buy,85.0
+2008-10-08,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2008-10-14,Credit Suisse,12 month,3.0,neutral,56.0
+2008-10-15,Raymond James,Not Provided,5.0,strong buy,60.0
+2008-10-17,Barclays,Not Provided,5.0,overwt/neutral,72.0
+2008-10-20,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2008-10-20,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-10-20,"Thompson, Davis & Co",12 month,5.0,buy,85.0
+2008-10-20,Baird,Not Provided,3.0,neutral,72.0
+2008-10-23,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2008-10-23,Credit Suisse,12 month,3.0,neutral,55.0
+2008-10-24,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-10-24,Raymond James,Not Provided,5.0,strong buy,55.0
+2008-10-24,Baird,Not Provided,3.0,neutral,56.0
+2008-10-24,Stifel,Not Provided,3.0,hold,-0.0
+2008-10-24,Avondale Partners LLC,Not Provided,3.0,market perform,60.0
+2008-10-24,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2008-10-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2008-10-27,"Thompson, Davis & Co",12 month,5.0,buy,85.0
+2008-10-30,HSBC,Not Provided,5.0,overweight,65.0
+2008-11-03,"Thompson, Davis & Co",12 month,5.0,buy,85.0
+2008-11-06,Credit Suisse,Not Provided,3.0,neutral,54.0
+2008-11-10,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-11-11,UBS,Not Provided,3.0,neutral,56.0
+2008-11-17,Stifel,Not Provided,3.0,hold,-0.0
+2008-11-26,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-12-02,Dresdner Kleinwort,Not Provided,3.0,hold,55.0
+2008-12-05,Credit Suisse,Not Provided,3.0,neutral,57.0
+2008-12-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2008-12-09,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-12-09,Barclays,Not Provided,5.0,overwt/neutral,66.0
+2008-12-09,Raymond James,Not Provided,5.0,outperform,60.0
+2008-12-15,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2008-12-17,Stifel,Not Provided,3.0,hold,55.0
+2008-12-22,J.P. Morgan,15 month,3.0,neutral,51.0
+2008-12-23,Morgan Keegan,Not Provided,3.0,market perform,-0.0
+2008-12-23,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2008-12-24,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2009-01-01,J.P. Morgan,12 month,3.0,neutral,51.0
+2009-01-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-01-09,Credit Suisse,Not Provided,3.0,neutral,52.0
+2009-01-20,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-01-20,"Thompson, Davis & Co",12 month,3.0,hold,80.0
+2009-01-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-01-28,Morgan Stanley,Not Provided,1.0,Underwt/Attractive,-0.0
+2009-02-02,"Thompson, Davis & Co",12 month,3.0,hold,80.0
+2009-02-03,Stifel,Not Provided,3.0,hold,-0.0
+2009-02-04,Credit Suisse,Not Provided,3.0,neutral,43.0
+2009-02-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-02-04,J.P. Morgan,9 month,3.0,neutral,50.0
+2009-02-04,Baird,Not Provided,3.0,neutral,53.0
+2009-02-04,Avondale Partners LLC,Not Provided,3.0,market perform,60.0
+2009-02-04,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2009-02-04,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2009-02-04,Raymond James,Not Provided,5.0,outperform,50.0
+2009-02-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-02-09,"Thompson, Davis & Co",12 month,3.0,hold,80.0
+2009-02-13,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-02-17,"Thompson, Davis & Co",12 month,3.0,hold,80.0
+2009-02-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2009-02-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-02-23,"Thompson, Davis & Co",12 month,3.0,hold,80.0
+2009-02-24,UBS,Not Provided,3.0,neutral,46.0
+2009-03-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-03-03,"Thompson, Davis & Co",12 month,3.0,hold,80.0
+2009-03-11,Credit Suisse,Not Provided,3.0,neutral,36.0
+2009-03-16,"Thompson, Davis & Co",12 month,3.0,hold,80.0
+2009-03-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-03-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-03-27,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2009-03-30,"Thompson, Davis & Co",12 month,3.0,hold,80.0
+2009-04-01,Macquarie,12 month,3.0,neutral,53.0
+2009-04-03,"Thompson, Davis & Co",12 month,3.0,hold,80.0
+2009-04-07,HSBC,Not Provided,5.0,overweight,62.0
+2009-04-13,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-04-13,Stifel,Not Provided,3.0,hold,-0.0
+2009-04-13,Baird,12 month,3.0,neutral,55.0
+2009-04-14,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2009-04-20,J.P. Morgan,9 month,3.0,neutral,57.0
+2009-04-20,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-04-21,Avondale Partners LLC,12 month,3.0,market perform,60.0
+2009-04-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-04-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2009-04-23,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2009-04-23,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2009-04-24,Credit Suisse,Not Provided,1.0,underperform,41.0
+2009-04-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2009-04-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2009-04-24,Stifel,Not Provided,3.0,hold,-0.0
+2009-04-24,Barclays,Not Provided,5.0,overwt/neutral,60.0
+2009-04-24,Avondale Partners LLC,12 month,3.0,market perform,60.0
+2009-04-27,J.P. Morgan,6 month,3.0,neutral,55.0
+2009-04-27,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-04-27,Macquarie,12 month,3.0,neutral,53.0
+2009-04-28,UBS,Not Provided,3.0,neutral,50.0
+2009-04-30,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-05-05,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-05-08,UBS,Not Provided,3.0,neutral,55.0
+2009-05-12,Credit Suisse,Not Provided,1.0,underperform,44.0
+2009-05-12,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-05-18,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-05-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-05-21,HSBC,Not Provided,5.0,overweight,62.0
+2009-05-26,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-05-28,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2009-05-29,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2009-06-08,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-06-09,Jesup & Lamont,Not Provided,3.0,hold,-0.0
+2009-06-10,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2009-06-15,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-06-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-06-18,Baird,12 month,3.0,neutral,55.0
+2009-06-23,Jesup & Lamont,Not Provided,5.0,buy,57.0
+2009-06-23,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-06-24,Credit Suisse,Not Provided,1.0,underperform,42.0
+2009-06-29,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-07-01,Jesup & Lamont,18 month,5.0,buy,57.0
+2009-07-03,Nomura,Not Provided,3.0,neutral,50.0
+2009-07-13,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-07-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-07-14,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2009-07-17,J.P. Morgan,6 month,3.0,neutral,55.0
+2009-07-20,UBS,Not Provided,3.0,neutral,55.0
+2009-07-20,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-07-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-07-23,Avondale Partners LLC,12 month,3.0,market perform,60.0
+2009-07-23,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2009-07-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2009-07-24,J.P. Morgan,6 month,3.0,neutral,57.0
+2009-07-24,Jesup & Lamont,18 month,5.0,buy,57.0
+2009-07-24,Stifel,Not Provided,3.0,hold,-0.0
+2009-07-24,Barclays,Not Provided,5.0,overwt/neutral,60.0
+2009-07-24,UBS,Not Provided,3.0,neutral,57.0
+2009-07-24,Credit Suisse,Not Provided,1.0,underperform,45.0
+2009-07-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2009-07-27,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-07-28,Avondale Partners LLC,12 month,3.0,market perform,60.0
+2009-07-31,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2009-08-03,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-08-03,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2009-08-06,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-08-07,Credit Suisse,Not Provided,1.0,underperform,48.0
+2009-08-10,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2009-08-13,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2009-08-14,Stifel,Not Provided,3.0,hold,-0.0
+2009-08-17,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2009-08-18,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2009-08-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-08-20,Jesup & Lamont,Not Provided,5.0,buy,57.0
+2009-08-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2009-08-20,J.P. Morgan,6 month,3.0,neutral,57.0
+2009-08-24,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-08-31,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-09-08,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-09-09,Jesup & Lamont,18 month,5.0,buy,57.0
+2009-09-10,J.P. Morgan,12 month,5.0,overweight,70.0
+2009-09-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-09-14,Credit Suisse,Not Provided,3.0,neutral,61.0
+2009-09-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-09-15,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-09-22,J.P. Morgan,12 month,5.0,overweight,70.0
+2009-09-23,J.P. Morgan,15 month,5.0,overweight,70.0
+2009-10-05,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-10-12,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-10-13,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2009-10-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-10-16,Nomura,Not Provided,3.0,neutral,50.0
+2009-10-19,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-10-19,J.P. Morgan,15 month,5.0,overweight,70.0
+2009-10-22,UBS,Not Provided,3.0,neutral,61.0
+2009-10-22,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2009-10-22,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2009-10-22,Raymond James,Not Provided,3.0,market perform,-0.0
+2009-10-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-10-23,Barclays,Not Provided,5.0,overwt/neutral,60.0
+2009-10-23,Avondale Partners LLC,12 month,3.0,market perform,60.0
+2009-10-23,J.P. Morgan,15 month,5.0,overweight,72.0
+2009-10-23,Jesup & Lamont,18 month,5.0,buy,63.0
+2009-10-23,Credit Suisse,Not Provided,3.0,neutral,59.0
+2009-10-23,RBC Capital Markets,12 month,3.0,sector perform,60.0
+2009-10-26,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-10-27,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2009-10-27,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-10-29,Barclays,Not Provided,5.0,overwt/neutral,65.0
+2009-11-02,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-11-09,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-11-12,Stifel,Not Provided,3.0,hold,-0.0
+2009-11-13,Piper Jaffray,12 month,3.0,neutral,63.0
+2009-11-16,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-11-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-11-19,Jesup & Lamont,18 month,5.0,buy,63.0
+2009-11-20,J.P. Morgan,15 month,5.0,overweight,72.0
+2009-11-21,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-11-23,"Thompson, Davis & Co",Not Provided,5.0,buy,80.0
+2009-11-23,Piper Jaffray,12 month,3.0,neutral,63.0
+2009-11-30,UBS,Not Provided,3.0,neutral,63.0
+2009-11-30,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-12-03,Nomura,Not Provided,3.0,neutral,60.0
+2009-12-07,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-12-11,Barclays,Not Provided,5.0,overwt/neutral,65.0
+2009-12-14,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-12-15,Jesup & Lamont,Not Provided,5.0,buy,63.0
+2009-12-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2009-12-21,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2009-12-23,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2009-12-23,Piper Jaffray,12 month,3.0,neutral,63.0
+2009-12-28,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-01-04,Baird,12 month,5.0,outperform,70.0
+2010-01-05,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-01-08,Jesup & Lamont,18 month,5.0,buy,71.0
+2010-01-08,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2010-01-08,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2010-01-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-01-08,UBS,Not Provided,3.0,neutral,65.0
+2010-01-08,Stifel,Not Provided,3.0,hold,62.0
+2010-01-11,Credit Suisse,Not Provided,3.0,neutral,65.0
+2010-01-11,J.P. Morgan,12 month,5.0,overweight,74.0
+2010-01-11,Piper Jaffray,12 month,3.0,neutral,63.0
+2010-01-11,Baird,12 month,5.0,outperform,70.0
+2010-01-11,Raymond James,Not Provided,3.0,market perform,-0.0
+2010-01-13,Stifel,Not Provided,3.0,hold,-0.0
+2010-01-13,RBC Capital Markets,12 month,5.0,outperform,72.0
+2010-01-15,HSBC,Not Provided,5.0,overweight,62.0
+2010-01-18,HSBC,Not Provided,5.0,overweight,75.0
+2010-01-19,Barclays,Not Provided,5.0,overwt/neutral,67.0
+2010-01-25,Raymond James,Not Provided,3.0,market perform,-0.0
+2010-01-25,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-01-27,Nomura,Not Provided,3.0,neutral,65.0
+2010-02-01,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-02-01,Avondale Partners LLC,12 month,3.0,market perform,60.0
+2010-02-02,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2010-02-02,Baird,12 month,5.0,outperform,70.0
+2010-02-02,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2010-02-02,Stifel,Not Provided,3.0,hold,-0.0
+2010-02-02,Barclays,Not Provided,5.0,overwt/neutral,67.0
+2010-02-02,RBC Capital Markets,12 month,5.0,outperform,76.0
+2010-02-03,Credit Suisse,Not Provided,3.0,neutral,65.0
+2010-02-03,Avondale Partners LLC,18 month,3.0,market perform,60.0
+2010-02-03,Piper Jaffray,12 month,3.0,neutral,64.0
+2010-02-03,J.P. Morgan,12 month,5.0,overweight,74.0
+2010-02-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-02-05,Jesup & Lamont,18 month,5.0,buy,71.0
+2010-02-05,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2010-02-08,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-02-09,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-02-09,Nomura,Not Provided,3.0,neutral,65.0
+2010-02-11,Jesup & Lamont,18 month,5.0,buy,71.0
+2010-02-12,Piper Jaffray,12 month,3.0,neutral,64.0
+2010-02-12,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2010-02-16,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-02-22,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-03-01,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-03-02,Goldman Sachs,12 month,5.0,buy/attractive,76.0
+2010-03-02,UBS,Not Provided,3.0,neutral,64.0
+2010-03-04,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2010-03-08,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-03-08,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-03-11,J.P. Morgan,12 month,5.0,overweight,74.0
+2010-03-15,Credit Suisse,Not Provided,3.0,neutral,68.0
+2010-03-15,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-03-17,UBS,Not Provided,3.0,neutral,67.0
+2010-03-19,HSBC,Not Provided,5.0,overweight,75.0
+2010-03-19,Morgan Stanley,Not Provided,1.0,Underwt/Attractive,-0.0
+2010-03-19,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2010-03-22,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-03-29,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-03-29,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-03-30,UBS,Not Provided,3.0,neutral,69.0
+2010-04-05,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-04-07,"Ameriprise Advisor Services, Inc",Not Provided,5.0,buy,-0.0
+2010-04-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-04-08,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2010-04-12,J.P. Morgan,9 month,5.0,overweight,74.0
+2010-04-12,Goldman Sachs,12 month,5.0,buy/attractive,77.0
+2010-04-12,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-04-15,Goldman Sachs,12 month,5.0,buy/attractive,82.0
+2010-04-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-04-15,Jesup & Lamont,18 month,5.0,buy,82.5
+2010-04-15,Morgan Stanley,Not Provided,1.0,Underwt/Attractive,-0.0
+2010-04-15,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2010-04-15,J.P. Morgan,9 month,5.0,overweight,80.0
+2010-04-15,Baird,12 month,5.0,outperform,77.0
+2010-04-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2010-04-15,Barclays,Not Provided,5.0,overwt/neutral,78.0
+2010-04-15,Raymond James,12 month,5.0,outperform,74.0
+2010-04-15,Piper Jaffray,12 month,5.0,overweight,79.0
+2010-04-19,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-04-20,Credit Suisse,Not Provided,3.0,neutral,79.0
+2010-04-23,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-04-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-04-27,Jesup & Lamont,18 month,5.0,buy,82.5
+2010-04-27,RBC Capital Markets,12 month,5.0,outperform,85.0
+2010-04-27,Baird,12 month,5.0,outperform,79.0
+2010-04-27,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2010-04-27,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2010-04-28,Credit Suisse,Not Provided,3.0,neutral,79.0
+2010-04-28,Raymond James,12 month,5.0,outperform,74.0
+2010-04-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2010-04-28,J.P. Morgan,6 month,5.0,overweight,82.0
+2010-04-28,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-04-28,Barclays,Not Provided,5.0,overwt/neutral,80.0
+2010-04-28,Piper Jaffray,12 month,5.0,overweight,79.0
+2010-04-28,UBS,Not Provided,3.0,neutral,72.0
+2010-04-28,HSBC,Not Provided,5.0,overweight,80.0
+2010-04-29,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2010-04-29,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-04-30,Piper Jaffray,12 month,5.0,overweight,79.0
+2010-05-03,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-05-04,Nomura,Not Provided,3.0,neutral,70.0
+2010-05-10,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-05-10,Piper Jaffray,12 month,5.0,overweight,79.0
+2010-05-14,Piper Jaffray,12 month,5.0,overweight,79.0
+2010-05-17,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-05-20,Piper Jaffray,12 month,5.0,overweight,79.0
+2010-05-20,Stifel,12 month,5.0,buy,76.0
+2010-05-24,Baird,12 month,5.0,outperform,79.0
+2010-05-24,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-05-25,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-05-25,Jesup & Lamont,18 month,5.0,buy,82.5
+2010-06-01,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-06-01,Stifel,12 month,5.0,buy,76.0
+2010-06-02,Edward Jones,Not Provided,3.0,hold,-0.0
+2010-06-02,RBC Capital Markets,Not Provided,5.0,outperform,85.0
+2010-06-07,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-06-08,Credit Suisse,Not Provided,3.0,neutral,74.0
+2010-06-09,Edward Jones,Not Provided,3.0,hold,-0.0
+2010-06-11,RBC Capital Markets,Not Provided,5.0,outperform,85.0
+2010-06-14,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-06-17,Jesup & Lamont,18 month,5.0,buy,82.5
+2010-06-17,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-06-18,RBC Capital Markets,Not Provided,5.0,outperform,85.0
+2010-06-21,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-06-30,Macquarie,12 month,5.0,outperform,70.0
+2010-07-01,RBC Capital Markets,Not Provided,5.0,outperform,85.0
+2010-07-01,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-07-01,UBS,Not Provided,5.0,buy,74.0
+2010-07-09,Goldman Sachs,12 month,5.0,buy/attractive,77.0
+2010-07-12,BB&T Capital Markets,12 month,5.0,buy,75.0
+2010-07-12,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-07-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-07-14,Edward Jones,Not Provided,3.0,hold,-0.0
+2010-07-16,RBC Capital Markets,Not Provided,5.0,outperform,85.0
+2010-07-19,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-07-22,Nomura,Not Provided,3.0,neutral,70.0
+2010-07-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2010-07-22,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2010-07-22,Stifel,12 month,5.0,buy,76.0
+2010-07-22,Baird,12 month,5.0,outperform,81.0
+2010-07-22,Raymond James,12 month,5.0,outperform,74.0
+2010-07-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-07-22,Goldman Sachs,12 month,5.0,buy/attractive,78.0
+2010-07-23,Piper Jaffray,12 month,5.0,overweight,83.0
+2010-07-23,BB&T Capital Markets,12 month,5.0,buy,75.0
+2010-07-23,RBC Capital Markets,Not Provided,5.0,outperform,85.0
+2010-07-23,Macquarie,12 month,5.0,outperform,72.0
+2010-07-23,UBS,Not Provided,5.0,buy,77.0
+2010-07-23,Credit Suisse,Not Provided,3.0,neutral,74.0
+2010-07-23,J.P. Morgan,6 month,5.0,overweight,80.0
+2010-07-23,Barclays,Not Provided,5.0,overwt/neutral,82.0
+2010-07-23,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2010-07-23,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-07-26,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-07-26,HSBC,Not Provided,5.0,overweight,85.0
+2010-07-27,Nomura,Not Provided,3.0,neutral,70.0
+2010-07-27,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-08-02,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-08-03,Piper Jaffray,12 month,5.0,overweight,83.0
+2010-08-09,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-08-11,RBC Capital Markets,Not Provided,5.0,outperform,85.0
+2010-08-13,Stifel,12 month,5.0,buy,76.0
+2010-08-13,Piper Jaffray,12 month,5.0,overweight,83.0
+2010-08-16,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-08-23,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-08-24,RBC Capital Markets,Not Provided,5.0,outperform,85.0
+2010-08-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2010-08-26,Cowen,Not Provided,3.0,hold,-0.0
+2010-08-27,Piper Jaffray,12 month,5.0,overweight,83.0
+2010-08-30,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-09-03,Piper Jaffray,12 month,5.0,overweight,83.0
+2010-09-07,HSBC,Not Provided,5.0,overweight,85.0
+2010-09-10,RBC Capital Markets,12 month,5.0,outperform,85.0
+2010-09-10,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-09-10,Piper Jaffray,12 month,5.0,overweight,83.0
+2010-09-13,Cowen,Not Provided,3.0,hold,-0.0
+2010-09-13,Baird,12 month,5.0,outperform,81.0
+2010-09-13,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-09-17,Piper Jaffray,12 month,5.0,overweight,83.0
+2010-09-17,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-09-20,Stifel,12 month,5.0,buy,76.0
+2010-09-20,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-09-20,RBC Capital Markets,12 month,5.0,outperform,85.0
+2010-09-22,Sterne Agee CRT,12 month,5.0,buy,100.0
+2010-09-24,Credit Suisse,Not Provided,3.0,neutral,77.0
+2010-09-24,Piper Jaffray,12 month,5.0,overweight,83.0
+2010-09-27,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-09-27,J.P. Morgan,3 month,5.0,overweight,80.0
+2010-09-27,RBC Capital Markets,12 month,5.0,outperform,85.0
+2010-09-30,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-10-01,Edward Jones,Not Provided,3.0,hold,-0.0
+2010-10-01,Piper Jaffray,12 month,5.0,overweight,83.0
+2010-10-04,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-10-05,UBS,12 month,5.0,buy,78.0
+2010-10-05,Goldman Sachs,12 month,5.0,buy/attractive,81.0
+2010-10-08,Piper Jaffray,12 month,5.0,overweight,83.0
+2010-10-08,Sterne Agee CRT,12 month,5.0,buy,100.0
+2010-10-11,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-10-11,Nomura,Not Provided,3.0,neutral,70.0
+2010-10-11,Cowen,Not Provided,3.0,hold,-0.0
+2010-10-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-10-12,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2010-10-13,RBC Capital Markets,Not Provided,5.0,outperform,85.0
+2010-10-15,Piper Jaffray,12 month,5.0,overweight,83.0
+2010-10-18,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-10-20,Nomura,Not Provided,3.0,neutral,70.0
+2010-10-21,Morgan Keegan,Not Provided,5.0,outperform,-0.0
+2010-10-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-10-21,Stifel,12 month,5.0,buy,78.0
+2010-10-21,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-10-21,Goldman Sachs,12 month,5.0,buy/attractive,83.0
+2010-10-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2010-10-22,Raymond James,12 month,5.0,outperform,77.0
+2010-10-22,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2010-10-22,J.P. Morgan,15 month,5.0,overweight,86.0
+2010-10-22,Baird,12 month,5.0,outperform,82.0
+2010-10-22,Piper Jaffray,12 month,5.0,overweight,85.0
+2010-10-22,Barclays,Not Provided,5.0,overwt/neutral,86.0
+2010-10-22,HSBC,Not Provided,5.0,overweight,85.0
+2010-10-22,Cowen,Not Provided,3.0,hold,-0.0
+2010-10-22,Credit Suisse,Not Provided,3.0,neutral,76.0
+2010-10-22,BB&T Capital Markets,12 month,5.0,buy,75.0
+2010-10-22,Macquarie,12 month,5.0,outperform,72.0
+2010-10-22,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2010-10-22,Sterne Agee CRT,12 month,5.0,buy,100.0
+2010-10-25,RBC Capital Markets,Not Provided,5.0,outperform,85.0
+2010-10-25,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-10-29,Piper Jaffray,12 month,5.0,overweight,85.0
+2010-10-29,RBC Capital Markets,12 month,5.0,outperform,85.0
+2010-11-01,J.P. Morgan,15 month,5.0,overweight,86.0
+2010-11-01,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-11-01,Baird,12 month,5.0,outperform,82.0
+2010-11-05,Nomura,Not Provided,3.0,neutral,75.0
+2010-11-05,Piper Jaffray,12 month,5.0,overweight,85.0
+2010-11-08,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-11-10,J.P. Morgan,15 month,5.0,overweight,86.0
+2010-11-12,Piper Jaffray,12 month,5.0,overweight,85.0
+2010-11-15,RBC Capital Markets,12 month,5.0,outperform,85.0
+2010-11-17,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-11-19,Stifel,12 month,5.0,buy,78.0
+2010-11-19,Piper Jaffray,12 month,5.0,overweight,85.0
+2010-11-22,RBC Capital Markets,12 month,5.0,outperform,85.0
+2010-11-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-11-24,RBC Capital Markets,12 month,5.0,outperform,85.0
+2010-11-26,Piper Jaffray,12 month,5.0,overweight,85.0
+2010-11-30,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-11-30,Edward Jones,Not Provided,3.0,hold,-0.0
+2010-11-30,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-12-03,Piper Jaffray,12 month,5.0,overweight,85.0
+2010-12-06,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-12-09,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-12-10,Piper Jaffray,12 month,5.0,overweight,85.0
+2010-12-13,RBC Capital Markets,12 month,5.0,outperform,85.0
+2010-12-13,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-12-14,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2010-12-17,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2010-12-17,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2010-12-21,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2010-12-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2010-12-22,RBC Capital Markets,12 month,5.0,outperform,85.0
+2010-12-23,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-01-03,Baird,12 month,5.0,outperform,87.0
+2011-01-03,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-01-06,Barclays,Not Provided,5.0,overwt/neutral,87.0
+2011-01-07,J.P. Morgan,12 month,5.0,overweight,86.0
+2011-01-10,Goldman Sachs,12 month,5.0,buy/attractive,90.0
+2011-01-10,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-01-10,Piper Jaffray,12 month,5.0,overweight,85.0
+2011-01-10,Sterne Agee CRT,12 month,5.0,buy,100.0
+2011-01-10,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-01-10,RBC Capital Markets,12 month,5.0,outperform,85.0
+2011-01-10,Jefferies,12 month,5.0,buy,89.0
+2011-01-11,HSBC,Not Provided,5.0,overweight,85.0
+2011-01-13,UBS,12 month,5.0,buy,82.0
+2011-01-14,Piper Jaffray,12 month,5.0,overweight,85.0
+2011-01-18,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-01-18,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-01-18,RBC Capital Markets,12 month,5.0,outperform,85.0
+2011-01-18,Sterne Agee CRT,12 month,5.0,buy,100.0
+2011-01-21,Stifel,12 month,5.0,buy,78.0
+2011-01-21,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-01-24,Jefferies,12 month,5.0,buy,89.0
+2011-01-24,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-01-24,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2011-01-25,Nomura,Not Provided,3.0,neutral,75.0
+2011-01-25,Piper Jaffray,12 month,5.0,overweight,88.0
+2011-01-31,Nomura,Not Provided,3.0,neutral,75.0
+2011-01-31,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-02-01,Raymond James,12 month,5.0,outperform,84.0
+2011-02-01,Barclays,Not Provided,5.0,overwt/positive,87.0
+2011-02-01,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-02-01,Baird,12 month,5.0,outperform,87.0
+2011-02-01,Morgan Keegan,12 month,5.0,outperform,101.0
+2011-02-01,Goldman Sachs,12 month,5.0,buy/attractive,93.0
+2011-02-02,J.P. Morgan,12 month,5.0,overweight,86.0
+2011-02-02,Sterne Agee CRT,12 month,5.0,buy,100.0
+2011-02-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-02-02,Credit Suisse,Not Provided,3.0,neutral,85.0
+2011-02-02,Stifel,12 month,5.0,buy,83.0
+2011-02-02,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2011-02-02,BB&T Capital Markets,12 month,5.0,buy,85.0
+2011-02-02,Macquarie,12 month,5.0,outperform,77.5
+2011-02-02,Jefferies,12 month,5.0,buy,90.0
+2011-02-02,Cowen,Not Provided,3.0,hold,-0.0
+2011-02-02,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-02-02,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-02-02,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-02-04,Edward Jones,Not Provided,3.0,hold,-0.0
+2011-02-04,UBS,12 month,5.0,buy,84.0
+2011-02-07,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-02-07,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2011-02-07,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-02-08,Nomura,Not Provided,3.0,neutral,80.0
+2011-02-08,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-02-10,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-02-10,Jefferies,12 month,5.0,buy,90.0
+2011-02-10,Piper Jaffray,Not Provided,5.0,overweight,91.0
+2011-02-14,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-02-14,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-02-15,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-02-15,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-02-17,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2011-02-22,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-02-23,Raymond James,12 month,5.0,outperform,84.0
+2011-02-23,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-02-25,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-02-25,Jefferies,12 month,5.0,buy,90.0
+2011-02-25,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-02-28,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-02-28,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-02-28,Stifel,12 month,5.0,buy,83.0
+2011-03-04,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-03-04,Jefferies,12 month,5.0,buy,90.0
+2011-03-04,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-07,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-03-08,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-03-09,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-03-10,Baird,12 month,5.0,outperform,87.0
+2011-03-11,UBS,12 month,5.0,buy,86.0
+2011-03-11,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-11,Jefferies,12 month,5.0,buy,90.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-14,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-03-14,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-03-16,Edward Jones,Not Provided,3.0,hold,-0.0
+2011-03-17,Jefferies,12 month,5.0,buy,90.0
+2011-03-17,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-03-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-03-18,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-03-18,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-03-21,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-03-21,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-03-24,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-03-25,Jefferies,12 month,5.0,buy,90.0
+2011-03-25,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-03-28,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-03-31,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-04-01,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-04-01,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-04-04,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-04-04,Barclays,Not Provided,5.0,overwt/positive,96.0
+2011-04-05,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-04-07,Macquarie,12 month,5.0,outperform,77.5
+2011-04-08,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-04-08,Cowen,Not Provided,3.0,hold,-0.0
+2011-04-08,Stifel,12 month,5.0,buy,83.0
+2011-04-08,Jefferies,12 month,5.0,buy,90.0
+2011-04-11,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-04-11,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-04-11,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-04-14,Cowen,Not Provided,3.0,hold,-0.0
+2011-04-15,Credit Suisse,Not Provided,3.0,neutral,88.0
+2011-04-15,Jefferies,12 month,5.0,buy,90.0
+2011-04-15,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-04-20,J.P. Morgan,12 month,5.0,overweight,86.0
+2011-04-25,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2011-04-25,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-04-25,UBS,12 month,5.0,buy,84.0
+2011-04-25,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-04-25,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-04-25,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-04-26,Barclays,Not Provided,5.0,overwt/positive,97.0
+2011-04-26,Nomura,12 month,3.0,neutral,80.0
+2011-04-26,Stifel,12 month,5.0,buy,87.0
+2011-04-26,Morgan Keegan,12 month,5.0,outperform,104.0
+2011-04-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-04-26,Raymond James,18 month,5.0,outperform,84.0
+2011-04-26,Cowen,Not Provided,3.0,hold,-0.0
+2011-04-27,BB&T Capital Markets,12 month,5.0,buy,85.0
+2011-04-27,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2011-04-27,Macquarie,12 month,5.0,outperform,80.0
+2011-04-27,Goldman Sachs,12 month,5.0,buy/attractive,95.0
+2011-04-27,Credit Suisse,Not Provided,3.0,neutral,90.0
+2011-04-27,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-04-27,J.P. Morgan,9 month,5.0,overweight,90.0
+2011-04-27,Baird,12 month,5.0,outperform,87.0
+2011-04-28,Sterne Agee CRT,12 month,5.0,buy,100.0
+2011-04-29,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-04-29,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-04-29,Jefferies,12 month,5.0,buy,96.0
+2011-05-02,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-05-02,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-05-03,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-05-04,Barclays,Not Provided,5.0,overwt/positive,97.0
+2011-05-05,Nomura,12 month,3.0,neutral,80.0
+2011-05-06,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-05-09,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-05-09,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-05-10,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-05-10,Bernstein,12 month,5.0,outperform,88.0
+2011-05-13,Jefferies,12 month,5.0,buy,96.0
+2011-05-13,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-05-18,Jefferies,12 month,5.0,buy,96.0
+2011-05-20,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-05-23,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-05-23,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-05-27,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-05-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2011-05-31,Bernstein,12 month,5.0,outperform,88.0
+2011-05-31,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-05-31,Cowen,Not Provided,3.0,hold,-0.0
+2011-05-31,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-06-01,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-06-02,Bernstein,12 month,5.0,outperform,88.0
+2011-06-03,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-06-06,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-06-06,Stifel,12 month,5.0,buy,87.0
+2011-06-08,RBC Capital Markets,12 month,5.0,outperform,95.0
+2011-06-09,HSBC,Not Provided,5.0,overweight,90.0
+2011-06-09,Stifel,12 month,5.0,buy,87.0
+2011-06-09,Bernstein,12 month,5.0,outperform,88.0
+2011-06-10,Jefferies,12 month,5.0,buy,96.0
+2011-06-10,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-06-13,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-06-14,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-06-16,Baird,12 month,5.0,outperform,87.0
+2011-06-17,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-06-17,Jefferies,12 month,5.0,buy,96.0
+2011-06-20,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-06-20,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-06-21,Barclays,Not Provided,5.0,overwt/positive,97.0
+2011-06-22,Bernstein,12 month,5.0,outperform,88.0
+2011-06-22,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-06-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2011-06-24,Jefferies,12 month,5.0,buy,96.0
+2011-06-24,Cowen,Not Provided,3.0,hold,-0.0
+2011-06-24,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-06-27,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-06-29,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2011-06-30,UBS,12 month,5.0,buy,85.0
+2011-06-30,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-07-01,Baird,12 month,5.0,outperform,87.0
+2011-07-01,Jefferies,12 month,5.0,buy,96.0
+2011-07-01,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-07-05,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-07-08,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-07-08,Jefferies,12 month,5.0,buy,96.0
+2011-07-08,Stifel,12 month,5.0,buy,87.0
+2011-07-11,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-07-11,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-07-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-07-18,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-07-18,J.P. Morgan,9 month,5.0,overweight,90.0
+2011-07-19,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-07-19,Barclays,Not Provided,5.0,overwt/positive,97.0
+2011-07-19,Jefferies,12 month,5.0,buy,96.0
+2011-07-20,Piper Jaffray,12 month,5.0,overweight,91.0
+2011-07-20,Cowen,Not Provided,3.0,hold,-0.0
+2011-07-25,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-07-26,Morgan Keegan,12 month,5.0,outperform,105.0
+2011-07-26,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-07-26,Stifel,12 month,5.0,buy,87.0
+2011-07-26,Edward Jones,Not Provided,3.0,hold,-0.0
+2011-07-26,RBC Capital Markets,12 month,5.0,outperform,84.0
+2011-07-26,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2011-07-26,Baird,12 month,5.0,outperform,84.0
+2011-07-26,Cowen,Not Provided,3.0,hold,-0.0
+2011-07-26,Barclays,Not Provided,5.0,overwt/positive,97.0
+2011-07-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-07-27,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-07-27,Raymond James,12 month,5.0,outperform,79.0
+2011-07-27,BB&T Capital Markets,12 month,5.0,buy,85.0
+2011-07-27,J.P. Morgan,3 month,5.0,overweight,88.0
+2011-07-27,Nomura,Not Provided,3.0,neutral,75.0
+2011-07-27,Bernstein,12 month,5.0,outperform,88.0
+2011-07-27,Piper Jaffray,12 month,5.0,overweight,93.0
+2011-07-27,Jefferies,12 month,5.0,buy,96.0
+2011-07-27,Credit Suisse,Not Provided,3.0,neutral,88.0
+2011-07-27,Goldman Sachs,12 month,5.0,buy/attractive,90.0
+2011-07-28,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2011-07-29,Piper Jaffray,12 month,5.0,overweight,93.0
+2011-08-01,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-08-01,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-08-03,Stifel,12 month,5.0,buy,87.0
+2011-08-05,Piper Jaffray,12 month,5.0,overweight,93.0
+2011-08-08,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-08-08,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-08-09,Goldman Sachs,12 month,5.0,Buy/Neutral,81.0
+2011-08-10,Edward Jones,Not Provided,3.0,hold,-0.0
+2011-08-12,Piper Jaffray,12 month,5.0,overweight,93.0
+2011-08-15,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-08-17,Jefferies,12 month,5.0,buy,83.0
+2011-08-18,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-08-19,Piper Jaffray,12 month,5.0,overweight,93.0
+2011-08-23,Cowen,Not Provided,3.0,hold,-0.0
+2011-08-26,Piper Jaffray,12 month,5.0,overweight,93.0
+2011-08-26,Jefferies,12 month,5.0,buy,83.0
+2011-08-29,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-08-30,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-09-02,Raymond James,12 month,5.0,outperform,75.0
+2011-09-02,Credit Suisse,Not Provided,5.0,outperform,85.0
+2011-09-06,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-09-07,Barclays,Not Provided,5.0,overwt/positive,93.0
+2011-09-08,RBC Capital Markets,12 month,5.0,outperform,84.0
+2011-09-09,Piper Jaffray,12 month,5.0,overweight,93.0
+2011-09-09,Jefferies,12 month,5.0,buy,83.0
+2011-09-12,HSBC,Not Provided,5.0,overweight,80.0
+2011-09-13,Bernstein,12 month,5.0,outperform,80.0
+2011-09-13,J.P. Morgan,15 month,5.0,overweight,82.0
+2011-09-15,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-09-15,Sterne Agee CRT,12 month,5.0,buy,105.0
+2011-09-15,Edward Jones,Not Provided,3.0,hold,-0.0
+2011-09-16,J.P. Morgan,15 month,5.0,overweight,82.0
+2011-09-16,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-09-16,Barclays,Not Provided,5.0,overwt/positive,93.0
+2011-09-16,Morgan Keegan,12 month,5.0,outperform,105.0
+2011-09-16,Raymond James,12 month,5.0,outperform,75.0
+2011-09-16,Piper Jaffray,12 month,5.0,overweight,88.0
+2011-09-16,Jefferies,12 month,5.0,buy,82.0
+2011-09-16,Cowen,Not Provided,3.0,hold,-0.0
+2011-09-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-09-19,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-09-19,BB&T Capital Markets,12 month,5.0,buy,85.0
+2011-09-19,Credit Suisse,Not Provided,5.0,outperform,85.0
+2011-09-19,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-09-20,Baird,12 month,5.0,outperform,81.0
+2011-09-22,Bernstein,12 month,5.0,outperform,80.0
+2011-09-23,Piper Jaffray,12 month,5.0,overweight,88.0
+2011-09-26,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-09-27,Stifel,12 month,5.0,buy,87.0
+2011-09-27,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-09-30,Cowen,Not Provided,3.0,hold,-0.0
+2011-10-03,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-10-03,Baird,12 month,5.0,outperform,81.0
+2011-10-04,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-10-05,Piper Jaffray,12 month,5.0,overweight,88.0
+2011-10-07,Piper Jaffray,12 month,5.0,overweight,88.0
+2011-10-07,Cowen,Not Provided,3.0,hold,-0.0
+2011-10-10,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-10-11,RBC Capital Markets,12 month,5.0,outperform,84.0
+2011-10-11,Jefferies,12 month,5.0,buy,82.0
+2011-10-13,Edward Jones,Not Provided,3.0,hold,-0.0
+2011-10-13,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-10-14,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-10-14,Barclays,Not Provided,5.0,overwt/positive,90.0
+2011-10-14,Piper Jaffray,12 month,5.0,overweight,88.0
+2011-10-14,Stifel,12 month,5.0,buy,79.0
+2011-10-14,Credit Suisse,Not Provided,5.0,outperform,85.0
+2011-10-17,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-10-17,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-10-18,Bernstein,12 month,5.0,outperform,80.0
+2011-10-18,Jefferies,12 month,5.0,buy,78.0
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-20,Baird,12 month,5.0,outperform,81.0
+2011-10-25,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2011-10-25,Bernstein,12 month,5.0,outperform,80.0
+2011-10-25,RBC Capital Markets,12 month,5.0,outperform,84.0
+2011-10-25,Lazard Capital Markets,12 month,5.0,buy,90.0
+2011-10-25,Baird,12 month,5.0,outperform,83.0
+2011-10-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-10-25,Barclays,Not Provided,5.0,overwt/positive,90.0
+2011-10-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2011-10-25,UBS,12 month,5.0,buy,86.0
+2011-10-25,Morgan Keegan,12 month,5.0,outperform,105.0
+2011-10-26,J.P. Morgan,15 month,5.0,overweight,82.0
+2011-10-26,BB&T Capital Markets,12 month,5.0,buy,85.0
+2011-10-26,Credit Suisse,Not Provided,5.0,outperform,85.0
+2011-10-26,Sterne Agee CRT,12 month,5.0,buy,105.0
+2011-10-26,Nomura,12 month,3.0,neutral,75.0
+2011-10-26,Cowen,Not Provided,3.0,hold,-0.0
+2011-10-26,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-10-26,Piper Jaffray,12 month,5.0,overweight,89.0
+2011-10-26,Jefferies,12 month,5.0,buy,78.0
+2011-10-26,Raymond James,12 month,5.0,outperform,76.0
+2011-10-28,Piper Jaffray,12 month,5.0,overweight,89.0
+2011-10-31,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-11-04,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2011-11-04,Piper Jaffray,12 month,5.0,overweight,89.0
+2011-11-07,Lazard Capital Markets,12 month,5.0,buy,90.0
+2011-11-07,Baird,12 month,5.0,outperform,83.0
+2011-11-09,Cowen,Not Provided,3.0,hold,-0.0
+2011-11-10,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-11,Piper Jaffray,12 month,5.0,overweight,89.0
+2011-11-14,Baird,12 month,5.0,outperform,83.0
+2011-11-14,Bernstein,12 month,5.0,outperform,80.0
+2011-11-14,Lazard Capital Markets,12 month,5.0,buy,90.0
+2011-11-15,Stifel,12 month,5.0,buy,80.0
+2011-11-16,Cowen,Not Provided,3.0,hold,-0.0
+2011-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-18,Cowen,Not Provided,3.0,hold,-0.0
+2011-11-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-21,J.P. Morgan,12 month,5.0,overweight,82.0
+2011-11-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2011-11-22,Lazard Capital Markets,12 month,5.0,buy,90.0
+2011-11-22,RBC Capital Markets,12 month,5.0,outperform,84.0
+2011-11-25,Piper Jaffray,12 month,5.0,overweight,89.0
+2011-11-25,Jefferies,12 month,5.0,buy,78.0
+2011-11-28,Lazard Capital Markets,12 month,5.0,buy,90.0
+2011-11-28,Nomura,Not Provided,3.0,neutral,70.0
+2011-12-02,Bernstein,12 month,5.0,outperform,80.0
+2011-12-02,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-12-05,Raymond James,12 month,5.0,outperform,76.0
+2011-12-05,Lazard Capital Markets,12 month,5.0,buy,90.0
+2011-12-08,Bernstein,12 month,5.0,outperform,80.0
+2011-12-08,Stifel,12 month,5.0,buy,80.0
+2011-12-12,Stifel,12 month,5.0,buy,80.0
+2011-12-12,Lazard Capital Markets,12 month,5.0,buy,90.0
+2011-12-12,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-12-13,Bernstein,12 month,5.0,outperform,80.0
+2011-12-15,Jefferies,12 month,5.0,buy,78.0
+2011-12-19,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2011-12-20,Lazard Capital Markets,12 month,5.0,buy,90.0
+2011-12-21,Baird,12 month,5.0,outperform,83.0
+2011-12-22,Cowen,Not Provided,3.0,hold,-0.0
+2011-12-22,RBC Capital Markets,12 month,5.0,outperform,84.0
+2011-12-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2011-12-23,Bernstein,12 month,5.0,outperform,80.0
+2012-01-03,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2012-01-03,Jefferies,12 month,5.0,buy,85.0
+2012-01-04,HSBC,Not Provided,3.0,neutral,75.0
+2012-01-05,Baird,12 month,5.0,outperform,83.0
+2012-01-09,Lazard Capital Markets,12 month,5.0,buy,90.0
+2012-01-09,Stifel,12 month,5.0,buy,80.0
+2012-01-10,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2012-01-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-01-10,RBC Capital Markets,12 month,5.0,outperform,84.0
+2012-01-11,Lazard Capital Markets,12 month,5.0,buy,90.0
+2012-01-12,J.P. Morgan,9 month,3.0,neutral,82.0
+2012-01-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-01-17,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2012-01-17,Jefferies,12 month,3.0,hold,81.0
+2012-01-17,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-01-18,Credit Suisse,Not Provided,5.0,outperform,90.0
+2012-01-19,Raymond James,12 month,5.0,outperform,76.0
+2012-01-23,Lazard Capital Markets,12 month,5.0,buy,90.0
+2012-01-23,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2012-01-25,Stifel,12 month,5.0,buy,80.0
+2012-01-27,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2012-01-30,Nomura,12 month,3.0,neutral,80.0
+2012-01-31,RBC Capital Markets,12 month,5.0,outperform,84.0
+2012-01-31,Bernstein,12 month,5.0,outperform,80.0
+2012-01-31,Raymond James,12 month,5.0,outperform,85.0
+2012-01-31,Barclays,Not Provided,5.0,overwt/positive,94.0
+2012-01-31,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-01-31,Morgan Keegan,12 month,5.0,outperform,116.0
+2012-01-31,Lazard Capital Markets,12 month,5.0,buy,90.0
+2012-01-31,Baird,12 month,5.0,outperform,88.0
+2012-01-31,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-01-31,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-01-31,Avondale Partners LLC,12 month,3.0,market perform,70.0
+2012-02-01,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-02-01,J.P. Morgan,9 month,3.0,neutral,88.0
+2012-02-01,Sterne Agee CRT,12 month,5.0,buy,110.0
+2012-02-01,Credit Suisse,Not Provided,5.0,outperform,92.0
+2012-02-01,Jefferies,12 month,3.0,hold,82.0
+2012-02-01,Cowen,Not Provided,3.0,hold,-0.0
+2012-02-01,Stifel,12 month,5.0,buy,83.0
+2012-02-01,BB&T Capital Markets,12 month,5.0,buy,85.0
+2012-02-02,Baird,12 month,5.0,outperform,88.0
+2012-02-03,Bernstein,12 month,5.0,outperform,89.0
+2012-02-06,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2012-02-09,BB&T Capital Markets,12 month,5.0,buy,85.0
+2012-02-10,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-02-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-02-13,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2012-02-14,RBC Capital Markets,12 month,5.0,outperform,84.0
+2012-02-14,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2012-02-15,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2012-02-15,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-02-17,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-02-17,RBC Capital Markets,12 month,5.0,outperform,84.0
+2012-02-20,UBS,Not Provided,-2147483648.0,restricted,-0.0
+2012-02-21,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2012-02-21,Stifel,12 month,5.0,buy,83.0
+2012-02-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-02-21,Cowen,Not Provided,3.0,hold,-0.0
+2012-02-21,Credit Suisse,Not Provided,5.0,outperform,92.0
+2012-02-21,Morgan Keegan,12 month,5.0,outperform,116.0
+2012-02-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-02-21,Raymond James,12 month,5.0,outperform,85.0
+2012-02-21,Baird,12 month,5.0,outperform,88.0
+2012-02-22,Bernstein,12 month,5.0,outperform,89.0
+2012-02-24,Jefferies,12 month,3.0,hold,82.0
+2012-02-29,"Thompson, Davis & Co",12 month,5.0,buy,80.0
+2012-02-29,Baird,12 month,5.0,outperform,88.0
+2012-03-02,Stifel,12 month,5.0,buy,83.0
+2012-03-02,Bernstein,12 month,5.0,outperform,89.0
+2012-03-06,Barclays,Not Provided,5.0,overwt/positive,94.0
+2012-03-06,Cowen,Not Provided,3.0,hold,-0.0
+2012-03-06,Baird,12 month,5.0,outperform,88.0
+2012-03-09,Jefferies,12 month,3.0,hold,82.0
+2012-03-12,Atlantic Equities LLP,12 month,5.0,overweight,98.0
+2012-03-14,Stifel,12 month,5.0,buy,83.0
+2012-03-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-03-14,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-03-19,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2012-03-19,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-03-19,Morgan Keegan,12 month,5.0,outperform,124.0
+2012-03-19,J.P. Morgan,9 month,5.0,overweight,92.0
+2012-03-19,BB&T Capital Markets,12 month,5.0,buy,90.0
+2012-03-19,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-03-19,Sterne Agee CRT,12 month,5.0,buy,110.0
+2012-03-19,Raymond James,12 month,5.0,outperform,85.0
+2012-03-19,RBC Capital Markets,12 month,5.0,outperform,88.0
+2012-03-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-03-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-03-20,Credit Suisse,Not Provided,5.0,outperform,92.0
+2012-03-20,Stifel,Not Provided,3.0,hold,-0.0
+2012-03-20,Bernstein,12 month,5.0,outperform,89.0
+2012-03-20,Cowen,Not Provided,3.0,hold,-0.0
+2012-03-20,Baird,12 month,5.0,outperform,94.0
+2012-03-21,UBS,12 month,5.0,buy,86.0
+2012-03-23,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-03-26,Credit Suisse,Not Provided,5.0,outperform,92.0
+2012-03-27,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-03-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-03-29,UBS,12 month,5.0,buy,86.0
+2012-03-29,Baird,12 month,5.0,outperform,94.0
+2012-04-02,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2012-04-02,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-04-02,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-04-02,Jefferies,12 month,3.0,hold,82.0
+2012-04-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-04-17,Sterne Agee CRT,12 month,5.0,buy,110.0
+2012-04-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-04-19,Baird,12 month,5.0,outperform,94.0
+2012-04-23,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-04-24,Nomura,12 month,3.0,neutral,80.0
+2012-04-26,Atlantic Equities LLP,12 month,5.0,overweight,98.0
+2012-04-26,BB&T Capital Markets,12 month,5.0,buy,90.0
+2012-04-26,RBC Capital Markets,12 month,5.0,outperform,88.0
+2012-04-26,Stifel,Not Provided,3.0,hold,-0.0
+2012-04-26,Bernstein,12 month,5.0,outperform,89.0
+2012-04-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-04-26,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2012-04-26,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-04-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-04-27,UBS,12 month,5.0,buy,89.0
+2012-04-27,J.P. Morgan,6 month,5.0,overweight,92.0
+2012-04-27,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2012-04-27,Credit Suisse,Not Provided,5.0,outperform,95.0
+2012-04-27,Jefferies,12 month,3.0,hold,83.0
+2012-04-27,Raymond James,12 month,5.0,strong buy,95.0
+2012-04-27,Cowen,Not Provided,3.0,hold,-0.0
+2012-04-27,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-04-27,Baird,12 month,5.0,outperform,94.0
+2012-04-27,Barclays,Not Provided,5.0,overwt/positive,92.0
+2012-04-30,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-04-30,Cowen,Not Provided,3.0,hold,-0.0
+2012-04-30,Bernstein,12 month,5.0,outperform,89.0
+2012-05-01,Nomura,12 month,3.0,neutral,80.0
+2012-05-03,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-05-04,Barclays,Not Provided,5.0,overwt/positive,92.0
+2012-05-04,Raymond James,12 month,5.0,strong buy,95.0
+2012-05-04,Baird,12 month,5.0,outperform,94.0
+2012-05-07,"Thompson, Davis & Co",Not Provided,5.0,buy,105.0
+2012-05-08,Bernstein,12 month,5.0,outperform,89.0
+2012-05-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-05-11,Baird,12 month,5.0,outperform,94.0
+2012-05-14,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-05-15,RBC Capital Markets,12 month,5.0,outperform,88.0
+2012-05-16,Sterne Agee CRT,12 month,5.0,buy,110.0
+2012-05-17,Bernstein,12 month,5.0,outperform,89.0
+2012-05-18,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2012-05-21,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-05-21,Stifel,Not Provided,3.0,hold,-0.0
+2012-05-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-05-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-05-22,Atlantic Equities LLP,12 month,5.0,overweight,97.0
+2012-05-23,Baird,12 month,5.0,outperform,94.0
+2012-05-30,Cowen,Not Provided,3.0,hold,-0.0
+2012-05-31,Bernstein,12 month,5.0,outperform,89.0
+2012-05-31,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-06-01,Baird,12 month,5.0,outperform,94.0
+2012-06-01,Jefferies,12 month,3.0,hold,83.0
+2012-06-04,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-06-08,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2012-06-08,Baird,12 month,5.0,outperform,94.0
+2012-06-11,Raymond James,12 month,5.0,strong buy,95.0
+2012-06-11,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-06-14,Stifel,Not Provided,3.0,hold,-0.0
+2012-06-15,Jefferies,12 month,3.0,hold,83.0
+2012-06-20,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-06-21,Bernstein,12 month,5.0,outperform,89.0
+2012-06-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-06-25,Cowen,Not Provided,3.0,hold,-0.0
+2012-06-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-06-27,Baird,12 month,5.0,outperform,94.0
+2012-07-02,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-07-02,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-07-02,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-07-02,Barclays,Not Provided,5.0,overwt/positive,92.0
+2012-07-03,Bernstein,12 month,5.0,outperform,89.0
+2012-07-09,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-07-09,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-07-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-07-10,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2012-07-12,Goldman Sachs,12 month,3.0,neutral/neutral,77.0
+2012-07-12,Raymond James,12 month,5.0,strong buy,95.0
+2012-07-12,Baird,12 month,5.0,outperform,94.0
+2012-07-16,Sterne Agee CRT,12 month,5.0,buy,110.0
+2012-07-17,Bernstein,12 month,5.0,outperform,89.0
+2012-07-18,UBS,12 month,5.0,buy,90.0
+2012-07-19,J.P. Morgan,6 month,5.0,overweight,92.0
+2012-07-23,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-07-23,Nomura,12 month,3.0,neutral,80.0
+2012-07-24,Jefferies,12 month,3.0,hold,83.0
+2012-07-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-07-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-07-24,Stifel,Not Provided,3.0,hold,-0.0
+2012-07-24,Atlantic Equities LLP,12 month,5.0,overweight,97.0
+2012-07-24,Bernstein,12 month,5.0,outperform,89.0
+2012-07-24,Avondale Partners LLC,12 month,2.0,market underperform,65.0
+2012-07-24,Barclays,Not Provided,5.0,overweight,86.0
+2012-07-24,S&P Capital IQ,Not Provided,5.0,buy,90.0
+2012-07-24,RBC Capital Markets,12 month,5.0,outperform,84.0
+2012-07-24,Goldman Sachs,12 month,3.0,neutral/neutral,72.0
+2012-07-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-07-25,Jefferies,12 month,3.0,hold,80.0
+2012-07-25,Credit Suisse,Not Provided,5.0,outperform,92.0
+2012-07-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-07-25,Sterne Agee CRT,12 month,5.0,buy,105.0
+2012-07-25,Raymond James,12 month,5.0,strong buy,90.0
+2012-07-25,Bernstein,12 month,5.0,outperform,89.0
+2012-07-25,J.P. Morgan,3 month,5.0,overweight,85.0
+2012-07-25,BB&T Capital Markets,Not Provided,5.0,buy,90.0
+2012-07-25,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-07-25,Argus Research Corp,Not Provided,5.0,buy,-0.0
+2012-07-25,UBS,12 month,5.0,buy,85.0
+2012-07-25,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2012-07-26,Nomura,12 month,3.0,neutral,80.0
+2012-07-27,Atlantic Equities LLP,12 month,5.0,overweight,93.0
+2012-07-30,Cowen,Not Provided,3.0,hold,-0.0
+2012-07-31,Baird,12 month,5.0,outperform,84.0
+2012-08-06,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-08-09,Stifel,Not Provided,3.0,hold,-0.0
+2012-08-11,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2012-08-13,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-08-14,Sterne Agee CRT,12 month,5.0,buy,105.0
+2012-08-16,Avondale Partners LLC,12 month,2.0,market underperform,65.0
+2012-08-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-08-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-08-27,Cowen,Not Provided,3.0,hold,-0.0
+2012-08-27,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-08-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-08-27,Raymond James,12 month,5.0,strong buy,90.0
+2012-08-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-08-28,Baird,12 month,5.0,outperform,84.0
+2012-08-28,Sterne Agee CRT,12 month,5.0,buy,105.0
+2012-08-28,Jefferies,12 month,3.0,hold,80.0
+2012-08-28,Bernstein,12 month,5.0,outperform,89.0
+2012-09-04,RBC Capital Markets,12 month,5.0,outperform,84.0
+2012-09-04,Cowen,Not Provided,3.0,hold,-0.0
+2012-09-04,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-09-05,Bernstein,12 month,5.0,outperform,86.0
+2012-09-06,Bernstein,12 month,5.0,outperform,86.0
+2012-09-06,RBC Capital Markets,12 month,5.0,outperform,84.0
+2012-09-06,Avondale Partners LLC,12 month,2.0,market underperform,65.0
+2012-09-10,Cowen,Not Provided,3.0,hold,-0.0
+2012-09-13,Barclays,Not Provided,3.0,equalweight,80.0
+2012-09-14,Avondale Partners LLC,12 month,2.0,market underperform,65.0
+2012-09-17,Cowen,Not Provided,3.0,hold,-0.0
+2012-09-17,Jefferies,12 month,3.0,hold,80.0
+2012-09-17,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-09-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-09-24,Cowen,Not Provided,3.0,hold,-0.0
+2012-09-24,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-09-26,Baird,12 month,5.0,outperform,84.0
+2012-09-28,J.P. Morgan,Not Provided,5.0,overweight,85.0
+2012-09-28,Bernstein,12 month,5.0,outperform,85.0
+2012-10-01,Baird,12 month,5.0,outperform,84.0
+2012-10-03,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-10-04,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2012-10-05,Jefferies,12 month,3.0,hold,80.0
+2012-10-08,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-10-08,Cowen,Not Provided,3.0,hold,-0.0
+2012-10-09,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2012-10-11,Sterne Agee CRT,12 month,5.0,buy,105.0
+2012-10-12,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-10-15,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-10-15,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2012-10-15,Cowen,Not Provided,3.0,hold,-0.0
+2012-10-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-10-16,Baird,12 month,3.0,neutral,80.0
+2012-10-19,Avondale Partners LLC,12 month,2.0,market underperform,65.0
+2012-10-19,Nomura,12 month,3.0,neutral,80.0
+2012-10-22,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-10-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-10-23,Goldman Sachs,12 month,3.0,neutral/neutral,76.0
+2012-10-23,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2012-10-23,Raymond James,12 month,5.0,strong buy,84.0
+2012-10-23,S&P Capital IQ,12 month,5.0,buy,94.0
+2012-10-23,Atlantic Equities LLP,12 month,5.0,overweight,93.0
+2012-10-23,Cowen,Not Provided,3.0,hold,-0.0
+2012-10-23,Stifel,Not Provided,3.0,hold,-0.0
+2012-10-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-10-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-10-24,Barclays,Not Provided,3.0,equalweight,79.0
+2012-10-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2012-10-24,Jefferies,12 month,3.0,hold,82.0
+2012-10-24,Bernstein,12 month,5.0,outperform,84.0
+2012-10-24,Sterne Agee CRT,12 month,5.0,buy,105.0
+2012-10-24,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-10-24,Credit Suisse,Not Provided,5.0,outperform,92.0
+2012-10-24,J.P. Morgan,Not Provided,5.0,overweight,86.0
+2012-10-24,Baird,12 month,3.0,neutral,84.0
+2012-10-24,UBS,12 month,5.0,buy,87.0
+2012-10-25,Nomura,6 month,3.0,neutral,80.0
+2012-10-29,Avondale Partners LLC,12 month,2.0,market underperform,65.0
+2012-10-30,Baird,12 month,3.0,neutral,84.0
+2012-10-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-11-01,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2012-11-02,Argus Research Corp,12 month,5.0,buy,89.0
+2012-11-05,Cowen,Not Provided,3.0,hold,-0.0
+2012-11-05,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-11-05,Bernstein,12 month,5.0,outperform,84.0
+2012-11-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-11-08,Stifel,Not Provided,3.0,hold,-0.0
+2012-11-08,Atlantic Equities LLP,12 month,5.0,overweight,91.0
+2012-11-12,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-11-12,Cowen,Not Provided,3.0,hold,-0.0
+2012-11-16,Baird,12 month,3.0,neutral,84.0
+2012-11-19,Atlantic Equities LLP,12 month,5.0,overweight,91.0
+2012-11-19,J.P. Morgan,12 month,5.0,overweight,86.0
+2012-11-19,Stifel,Not Provided,3.0,hold,-0.0
+2012-11-20,Avondale Partners LLC,12 month,2.0,market underperform,65.0
+2012-11-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2012-11-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-11-26,"Thompson, Davis & Co",Not Provided,5.0,buy,105.0
+2012-11-26,Baird,12 month,3.0,neutral,84.0
+2012-11-28,Stifel,Not Provided,3.0,hold,-0.0
+2012-11-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-11-29,Sterne Agee CRT,12 month,5.0,buy,105.0
+2012-11-30,Baird,12 month,3.0,neutral,84.0
+2012-12-03,Cowen,Not Provided,3.0,hold,-0.0
+2012-12-04,Atlantic Equities LLP,12 month,5.0,overweight,91.0
+2012-12-04,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-12-05,Baird,12 month,3.0,neutral,84.0
+2012-12-06,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-12-10,"Thompson, Davis & Co",Not Provided,5.0,buy,105.0
+2012-12-10,Cowen,Not Provided,3.0,hold,-0.0
+2012-12-14,Jefferies,12 month,3.0,hold,82.0
+2012-12-14,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2012-12-17,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-12-20,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2012-12-20,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2012-12-20,Stifel,Not Provided,3.0,hold,-0.0
+2012-12-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2012-12-28,Avondale Partners LLC,12 month,2.0,market underperform,65.0
+2013-01-02,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-01-02,Raymond James,12 month,5.0,strong buy,84.0
+2013-01-03,Jefferies,12 month,3.0,hold,82.0
+2013-01-04,Bernstein,12 month,5.0,outperform,84.0
+2013-01-07,BB&T Capital Markets,12 month,5.0,buy,90.0
+2013-01-07,Barclays,Not Provided,3.0,equalweight,86.0
+2013-01-07,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-01-07,Cowen,Not Provided,3.0,hold,-0.0
+2013-01-08,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-01-09,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-01-10,Goldman Sachs,12 month,3.0,neutral/attractive,83.0
+2013-01-14,Atlantic Equities LLP,12 month,5.0,overweight,94.0
+2013-01-14,Raymond James,12 month,5.0,strong buy,84.0
+2013-01-14,Jefferies,12 month,3.0,hold,82.0
+2013-01-14,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-01-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-01-14,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-01-14,Baird,12 month,3.0,neutral,89.0
+2013-01-14,Credit Suisse,Not Provided,5.0,outperform,92.0
+2013-01-14,Barclays,Not Provided,3.0,equalweight,86.0
+2013-01-14,Cowen,Not Provided,3.0,hold,-0.0
+2013-01-14,S&P Capital IQ,12 month,5.0,buy,94.0
+2013-01-15,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2013-01-15,BB&T Capital Markets,12 month,5.0,buy,90.0
+2013-01-15,Avondale Partners LLC,Not Provided,3.0,market perform,80.0
+2013-01-15,Sterne Agee CRT,12 month,5.0,buy,105.0
+2013-01-15,J.P. Morgan,12 month,5.0,overweight,84.0
+2013-01-16,Argus Research Corp,12 month,5.0,buy,89.0
+2013-01-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-01-18,Credit Suisse,Not Provided,5.0,outperform,94.0
+2013-01-21,Nomura,Not Provided,3.0,neutral,90.0
+2013-01-22,Raymond James,12 month,5.0,strong buy,84.0
+2013-01-22,Cowen,Not Provided,3.0,hold,-0.0
+2013-01-22,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-01-23,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2013-01-28,Baird,12 month,3.0,neutral,89.0
+2013-01-29,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-01-30,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2013-01-31,Atlantic Equities LLP,12 month,5.0,overweight,94.0
+2013-01-31,Cowen,Not Provided,3.0,hold,-0.0
+2013-01-31,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-01-31,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-01-31,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2013-01-31,Jefferies,12 month,3.0,hold,82.0
+2013-01-31,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-01-31,Raymond James,12 month,5.0,strong buy,91.0
+2013-01-31,Barclays,Not Provided,3.0,equalweight,87.0
+2013-01-31,S&P Capital IQ,12 month,5.0,buy,94.0
+2013-02-01,J.P. Morgan,9 month,5.0,overweight,84.0
+2013-02-01,BB&T Capital Markets,12 month,5.0,buy,90.0
+2013-02-01,Credit Suisse,Not Provided,5.0,outperform,91.0
+2013-02-01,UBS,12 month,5.0,buy,88.0
+2013-02-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-02-03,Sterne Agee CRT,12 month,5.0,buy,105.0
+2013-02-04,Cowen,Not Provided,3.0,hold,-0.0
+2013-02-04,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-02-04,Jefferies,12 month,3.0,hold,82.0
+2013-02-05,Atlantic Equities LLP,12 month,5.0,overweight,94.0
+2013-02-06,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-02-06,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2013-02-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-02-06,Argus Research Corp,Not Provided,5.0,buy,98.0
+2013-02-06,Stifel,Not Provided,3.0,hold,-0.0
+2013-02-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-02-08,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2013-02-11,Cowen,Not Provided,3.0,hold,-0.0
+2013-02-11,"Thompson, Davis & Co",Not Provided,5.0,buy,105.0
+2013-02-12,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2013-02-12,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2013-02-14,Bernstein,12 month,5.0,outperform,92.0
+2013-02-14,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-02-15,Baird,12 month,3.0,neutral,93.0
+2013-02-19,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-02-19,Cowen,Not Provided,3.0,hold,-0.0
+2013-02-19,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-02-25,Cowen,Not Provided,3.0,hold,-0.0
+2013-02-25,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-02-26,Avondale Partners LLC,12 month,3.0,market perform,80.0
+2013-02-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-02-26,J.P. Morgan,9 month,5.0,overweight,84.0
+2013-02-27,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2013-03-01,Jefferies,12 month,3.0,hold,82.0
+2013-03-01,Macquarie,12 month,5.0,outperform,93.0
+2013-03-05,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2013-03-05,Raymond James,12 month,5.0,strong buy,91.0
+2013-03-05,BB&T Capital Markets,12 month,5.0,buy,90.0
+2013-03-05,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-03-07,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2013-03-11,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-03-12,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-03-18,Cowen,Not Provided,3.0,hold,-0.0
+2013-03-20,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-03-22,Bernstein,12 month,5.0,outperform,92.0
+2013-03-27,Baird,12 month,3.0,neutral,93.0
+2013-03-27,BB&T Capital Markets,12 month,5.0,buy,90.0
+2013-03-28,Stephens Inc,12 month,3.0,equalweight,90.0
+2013-04-01,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-04-01,Cowen,Not Provided,3.0,hold,-0.0
+2013-04-01,Oppenheimer & Co,18 month,5.0,outperform,95.0
+2013-04-01,Barclays,Not Provided,3.0,equalweight,87.0
+2013-04-03,Avondale Partners LLC,12 month,3.0,market perform,80.0
+2013-04-03,Bernstein,12 month,5.0,outperform,92.0
+2013-04-04,BB&T Capital Markets,12 month,5.0,buy,90.0
+2013-04-05,UBS,12 month,5.0,buy,88.0
+2013-04-05,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-04-08,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-04-10,Sterne Agee CRT,12 month,5.0,buy,100.0
+2013-04-10,Jefferies,12 month,3.0,hold,82.0
+2013-04-11,J.P. Morgan,6 month,5.0,overweight,84.0
+2013-04-11,Nomura,12 month,3.0,neutral,90.0
+2013-04-12,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-04-12,Credit Suisse,Not Provided,5.0,outperform,94.0
+2013-04-15,UBS,12 month,5.0,buy,92.0
+2013-04-15,Cowen,Not Provided,3.0,hold,-0.0
+2013-04-15,Goldman Sachs,12 month,3.0,neutral/attractive,86.0
+2013-04-16,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-04-16,Baird,12 month,3.0,neutral,93.0
+2013-04-18,RBC Capital Markets,12 month,5.0,outperform,100.0
+2013-04-18,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-04-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-04-22,Raymond James,12 month,5.0,strong buy,91.0
+2013-04-22,Cowen,Not Provided,3.0,hold,-0.0
+2013-04-22,Stifel,Not Provided,3.0,hold,-0.0
+2013-04-22,Avondale Partners LLC,12 month,3.0,market perform,80.0
+2013-04-25,BB&T Capital Markets,12 month,5.0,buy,95.0
+2013-04-25,S&P Capital IQ,12 month,5.0,buy,100.0
+2013-04-25,RBC Capital Markets,12 month,5.0,outperform,100.0
+2013-04-25,Raymond James,12 month,5.0,strong buy,98.0
+2013-04-25,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-04-25,Barclays,Not Provided,3.0,equalweight,87.0
+2013-04-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-04-25,UBS,12 month,5.0,buy,95.0
+2013-04-26,Stifel,Not Provided,3.0,hold,-0.0
+2013-04-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-04-26,Sterne Agee CRT,12 month,5.0,buy,100.0
+2013-04-26,J.P. Morgan,6 month,5.0,overweight,90.0
+2013-04-26,Bernstein,12 month,5.0,outperform,96.0
+2013-04-26,Credit Suisse,Not Provided,5.0,outperform,96.0
+2013-04-26,Baird,12 month,3.0,neutral,96.0
+2013-04-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-04-26,Macquarie,12 month,5.0,outperform,93.0
+2013-04-26,Stephens Inc,12 month,3.0,equalweight,90.0
+2013-04-26,Jefferies,12 month,3.0,hold,80.0
+2013-04-26,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-04-29,Atlantic Equities LLP,Not Provided,5.0,overweight,95.0
+2013-04-29,Oppenheimer & Co,12 month,5.0,outperform,97.0
+2013-04-29,Cowen,Not Provided,3.0,hold,-0.0
+2013-04-29,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-04-30,Baird,12 month,3.0,neutral,96.0
+2013-05-01,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-05-03,Accountability Research Corp,Not Provided,5.0,buy,100.0
+2013-05-06,J.P. Morgan,6 month,5.0,overweight,90.0
+2013-05-07,Telsey Advisory Group,12 month,-2147483648.0,no rating system,99.0
+2013-05-08,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-05-10,Baird,12 month,3.0,neutral,96.0
+2013-05-13,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-05-13,Cowen,Not Provided,3.0,hold,-0.0
+2013-05-13,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2013-05-14,RBC Capital Markets,12 month,5.0,outperform,100.0
+2013-05-14,Credit Suisse,Not Provided,5.0,outperform,96.0
+2013-05-16,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-05-17,Bernstein,12 month,5.0,outperform,96.0
+2013-05-17,Barclays,Not Provided,3.0,equalweight,87.0
+2013-05-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-05-20,Argus Research Corp,12 month,5.0,buy,98.0
+2013-05-20,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-05-20,Cowen,Not Provided,3.0,hold,-0.0
+2013-05-21,Avondale Partners LLC,18 month,3.0,market perform,85.0
+2013-05-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-05-22,Barclays,Not Provided,3.0,equalweight,92.0
+2013-05-23,Bernstein,12 month,5.0,outperform,96.0
+2013-05-23,Stifel,Not Provided,3.0,hold,-0.0
+2013-05-24,Baird,12 month,3.0,neutral,96.0
+2013-05-28,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-06-01,Macquarie,12 month,5.0,outperform,93.0
+2013-06-03,Cowen,12 month,3.0,market perform,88.0
+2013-06-03,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-06-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-06-03,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-06-03,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-06-07,Bernstein,12 month,5.0,outperform,96.0
+2013-06-07,Jefferies,12 month,3.0,hold,80.0
+2013-06-11,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-06-12,Atlantic Equities LLP,12 month,5.0,overweight,95.0
+2013-06-14,RBC Capital Markets,12 month,5.0,outperform,100.0
+2013-06-17,Cowen,12 month,3.0,market perform,88.0
+2013-06-18,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-06-20,Atlantic Equities LLP,12 month,5.0,overweight,95.0
+2013-06-20,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-06-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-06-21,J.P. Morgan,3 month,5.0,overweight,90.0
+2013-06-21,Avondale Partners LLC,18 month,3.0,market perform,85.0
+2013-06-21,Goldman Sachs,12 month,3.0,neutral/attractive,97.0
+2013-06-24,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-06-25,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-06-28,Oppenheimer & Co,12 month,5.0,outperform,97.0
+2013-06-28,Baird,12 month,3.0,neutral,96.0
+2013-07-01,Jefferies,12 month,3.0,hold,80.0
+2013-07-01,Cowen,12 month,3.0,market perform,88.0
+2013-07-02,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-07-03,Stifel,Not Provided,3.0,hold,-0.0
+2013-07-08,Baird,12 month,3.0,neutral,96.0
+2013-07-08,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-07-08,Cowen,12 month,3.0,market perform,88.0
+2013-07-09,Bernstein,12 month,5.0,outperform,96.0
+2013-07-11,Buckingham Research Group,12 month,5.0,buy,115.0
+2013-07-12,Stephens Inc,12 month,3.0,equalweight,90.0
+2013-07-12,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2013-07-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-07-12,S&P Capital IQ,12 month,5.0,buy,100.0
+2013-07-12,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-07-12,Barclays,Not Provided,3.0,equalweight,88.0
+2013-07-13,Macquarie,12 month,5.0,outperform,91.0
+2013-07-15,Credit Suisse,Not Provided,5.0,outperform,94.0
+2013-07-15,J.P. Morgan,3 month,3.0,neutral,84.0
+2013-07-15,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-07-15,Atlantic Equities LLP,12 month,5.0,overweight,93.0
+2013-07-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-15,Bernstein,12 month,5.0,outperform,96.0
+2013-07-15,Argus Research Corp,Not Provided,5.0,buy,98.0
+2013-07-15,Telsey Advisory Group,12 month,-2147483648.0,no rating system,99.0
+2013-07-15,Goldman Sachs,12 month,3.0,neutral/attractive,94.0
+2013-07-15,Jefferies,12 month,3.0,hold,80.0
+2013-07-15,Raymond James,12 month,5.0,outperform,94.0
+2013-07-15,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-07-15,Cowen,12 month,3.0,market perform,88.0
+2013-07-15,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2013-07-16,Baird,12 month,3.0,neutral,96.0
+2013-07-16,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-07-16,RBC Capital Markets,12 month,5.0,outperform,100.0
+2013-07-17,Stifel,12 month,3.0,hold,86.0
+2013-07-19,Nomura,12 month,3.0,neutral,90.0
+2013-07-22,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-07-23,Credit Suisse,Not Provided,5.0,outperform,95.0
+2013-07-23,RBC Capital Markets,12 month,5.0,outperform,100.0
+2013-07-23,Jefferies,12 month,3.0,hold,82.0
+2013-07-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-23,Stephens Inc,12 month,3.0,equalweight,90.0
+2013-07-23,Cowen,12 month,3.0,market perform,88.0
+2013-07-23,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2013-07-23,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2013-07-23,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-07-23,Barclays,Not Provided,3.0,equalweight,88.0
+2013-07-23,Raymond James,12 month,5.0,outperform,94.0
+2013-07-23,Stifel,Not Provided,3.0,hold,-0.0
+2013-07-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-07-23,Atlantic Equities LLP,12 month,5.0,overweight,93.0
+2013-07-24,Oppenheimer & Co,12 month,5.0,outperform,97.0
+2013-07-24,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,99.0
+2013-07-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-07-24,Baird,12 month,3.0,neutral,97.0
+2013-07-24,Macquarie,12 month,5.0,outperform,91.0
+2013-07-24,J.P. Morgan,Not Provided,3.0,neutral,84.0
+2013-07-24,Bernstein,12 month,5.0,outperform,96.0
+2013-07-25,Nomura,12 month,3.0,neutral,90.0
+2013-07-26,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-07-26,Jefferies,12 month,3.0,hold,82.0
+2013-07-29,Bernstein,12 month,5.0,outperform,96.0
+2013-07-29,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-07-29,Atlantic Equities LLP,12 month,5.0,overweight,93.0
+2013-07-29,RBC Capital Markets,12 month,5.0,outperform,100.0
+2013-07-30,Accountability Research Corp,Not Provided,5.0,buy,100.0
+2013-07-30,Baird,12 month,3.0,neutral,97.0
+2013-08-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-08-05,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-08-05,Cowen,12 month,3.0,market perform,88.0
+2013-08-12,Cowen,12 month,3.0,market perform,88.0
+2013-08-16,Buckingham Research Group,12 month,5.0,buy,115.0
+2013-08-19,Cowen,12 month,3.0,market perform,88.0
+2013-08-20,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-08-20,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-08-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-08-22,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-08-26,Cowen,12 month,3.0,market perform,88.0
+2013-08-26,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-08-27,Bernstein,12 month,5.0,outperform,96.0
+2013-08-29,Baird,12 month,3.0,neutral,97.0
+2013-09-03,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2013-09-03,Cowen,12 month,3.0,market perform,88.0
+2013-09-03,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-09-06,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-09-08,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-09-09,Cowen,12 month,3.0,market perform,88.0
+2013-09-13,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-09-13,Stifel,Not Provided,3.0,hold,-0.0
+2013-09-16,Cowen,12 month,3.0,market perform,88.0
+2013-09-16,Barclays,Not Provided,5.0,overweight,106.0
+2013-09-16,Baird,12 month,3.0,neutral,97.0
+2013-09-16,Bernstein,12 month,5.0,outperform,98.0
+2013-09-16,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-09-18,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-09-18,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2013-09-19,Goldman Sachs,12 month,3.0,neutral/neutral,94.0
+2013-09-20,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-09-23,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-09-23,Bernstein,12 month,5.0,outperform,98.0
+2013-09-23,Cowen,12 month,3.0,market perform,88.0
+2013-09-27,Credit Suisse,Not Provided,5.0,outperform,100.0
+2013-09-27,Bernstein,12 month,5.0,outperform,98.0
+2013-09-30,Cowen,12 month,3.0,market perform,88.0
+2013-09-30,Baird,12 month,3.0,neutral,97.0
+2013-09-30,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-10-01,RBC Capital Markets,12 month,5.0,outperform,100.0
+2013-10-02,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2013-10-02,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,102.0
+2013-10-07,Barclays,Not Provided,5.0,overweight,106.0
+2013-10-08,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-10-09,Baird,12 month,3.0,neutral,97.0
+2013-10-11,Raymond James,12 month,5.0,outperform,94.0
+2013-10-11,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-10-11,Bernstein,12 month,5.0,outperform,98.0
+2013-10-14,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-14,Cowen,12 month,3.0,market perform,88.0
+2013-10-16,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-10-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-10-21,Cowen,12 month,3.0,market perform,88.0
+2013-10-22,Bernstein,12 month,5.0,outperform,98.0
+2013-10-22,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,102.0
+2013-10-23,Macquarie,12 month,5.0,outperform,101.0
+2013-10-24,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2013-10-24,Baird,12 month,3.0,neutral,100.0
+2013-10-24,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-10-25,Barclays,Not Provided,5.0,overweight,106.0
+2013-10-25,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-10-25,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2013-10-25,Stephens Inc,12 month,3.0,equalweight,95.0
+2013-10-25,Raymond James,12 month,5.0,outperform,105.0
+2013-10-25,RBC Capital Markets,12 month,5.0,outperform,106.0
+2013-10-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-10-26,Macquarie,12 month,5.0,outperform,103.0
+2013-10-28,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-10-28,Avondale Partners LLC,12 month,3.0,market perform,85.0
+2013-10-28,Cowen,12 month,3.0,market perform,96.0
+2013-10-28,Baird,12 month,3.0,neutral,102.0
+2013-10-28,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-10-28,J.P. Morgan,12 month,3.0,neutral,100.0
+2013-10-28,Oppenheimer & Co,12 month,5.0,outperform,105.0
+2013-10-28,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,102.0
+2013-10-28,Credit Suisse,Not Provided,5.0,outperform,105.0
+2013-10-28,Buckingham Research Group,12 month,5.0,buy,118.0
+2013-10-28,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-28,Argus Research Corp,12 month,5.0,buy,110.0
+2013-10-29,Atlantic Equities LLP,12 month,5.0,overweight,114.0
+2013-10-31,Bernstein,12 month,5.0,outperform,108.0
+2013-10-31,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-11-01,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-11-04,Baird,12 month,3.0,neutral,102.0
+2013-11-04,Cowen,12 month,3.0,market perform,96.0
+2013-11-04,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-11-07,Argus Research Corp,Not Provided,5.0,buy,110.0
+2013-11-11,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-11-11,Cowen,12 month,3.0,market perform,96.0
+2013-11-13,Accountability Research Corp,Not Provided,5.0,buy,110.0
+2013-11-14,Bernstein,12 month,5.0,outperform,108.0
+2013-11-15,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-11-18,Cowen,12 month,3.0,market perform,96.0
+2013-11-20,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-11-22,J.P. Morgan,12 month,3.0,neutral,100.0
+2013-11-22,Oppenheimer & Co,12 month,5.0,outperform,105.0
+2013-11-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-11-25,Cowen,12 month,3.0,market perform,96.0
+2013-11-26,Baird,12 month,3.0,neutral,102.0
+2013-11-26,Bernstein,12 month,5.0,outperform,108.0
+2013-12-02,Buckingham Research Group,12 month,5.0,buy,118.0
+2013-12-02,Cowen,12 month,3.0,market perform,96.0
+2013-12-02,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-12-03,Bernstein,12 month,5.0,outperform,108.0
+2013-12-06,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-12-06,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-12-06,Barclays,Not Provided,5.0,overweight,106.0
+2013-12-09,Stifel,Not Provided,3.0,hold,-0.0
+2013-12-12,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2013-12-13,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-12-13,Argus Research Corp,Not Provided,5.0,buy,110.0
+2013-12-16,Cowen,12 month,3.0,market perform,96.0
+2013-12-18,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-12-19,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2013-12-19,Nomura,Not Provided,3.0,neutral,110.0
+2013-12-20,RBC Capital Markets,12 month,5.0,outperform,117.0
+2013-12-23,Cowen,12 month,3.0,market perform,96.0
+2013-12-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-12-26,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-12-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-12-27,Baird,12 month,3.0,neutral,111.0
+2013-12-30,Bernstein,12 month,5.0,outperform,108.0
+2013-12-30,Buckingham Research Group,12 month,5.0,buy,118.0
+2014-01-06,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2014-01-06,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-01-06,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-01-06,Cowen,12 month,3.0,market perform,96.0
+2014-01-08,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-01-09,Goldman Sachs,12 month,3.0,neutral/neutral,108.0
+2014-01-10,Raymond James,12 month,5.0,outperform,117.0
+2014-01-10,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-01-13,Baird,12 month,3.0,neutral,111.0
+2014-01-13,Credit Suisse,Not Provided,5.0,outperform,109.0
+2014-01-13,Cowen,12 month,3.0,market perform,96.0
+2014-01-14,Susquehanna Financial,12 month,3.0,neutral,107.0
+2014-01-14,"Thompson, Davis & Co",12 month,5.0,buy,105.0
+2014-01-17,J.P. Morgan,9 month,3.0,neutral,100.0
+2014-01-17,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-01-17,S&P Capital IQ,12 month,5.0,buy,130.0
+2014-01-17,Credit Suisse,Not Provided,5.0,outperform,107.0
+2014-01-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-01-17,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,118.0
+2014-01-17,Susquehanna Financial,12 month,3.0,neutral,107.0
+2014-01-17,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-17,Barclays,Not Provided,5.0,overweight,106.0
+2014-01-17,Raymond James,12 month,5.0,outperform,111.0
+2014-01-18,Macquarie,12 month,5.0,outperform,103.0
+2014-01-20,Goldman Sachs,12 month,3.0,neutral/neutral,106.0
+2014-01-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-01-21,Buckingham Research Group,12 month,5.0,buy,118.0
+2014-01-21,Oppenheimer & Co,12 month,5.0,outperform,109.0
+2014-01-21,Argus Research Corp,Not Provided,5.0,buy,110.0
+2014-01-21,Stephens Inc,12 month,3.0,equalweight,110.0
+2014-01-21,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-01-21,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-01-21,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-01-21,Cowen,12 month,3.0,market perform,96.0
+2014-01-22,Bernstein,12 month,5.0,outperform,112.0
+2014-01-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-01-27,Cowen,12 month,3.0,market perform,96.0
+2014-01-28,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2014-01-30,Avondale Partners LLC,12 month,3.0,market perform,102.0
+2014-01-30,Raymond James,12 month,5.0,outperform,111.0
+2014-01-30,Atlantic Equities LLP,12 month,5.0,overweight,114.0
+2014-01-30,Susquehanna Financial,12 month,3.0,neutral,107.0
+2014-01-30,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-01-30,Barclays,Not Provided,5.0,overweight,105.0
+2014-01-30,Goldman Sachs,12 month,3.0,neutral/neutral,105.0
+2014-01-30,S&P Capital IQ,12 month,5.0,buy,130.0
+2014-01-30,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-30,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-01-31,Oppenheimer & Co,12 month,5.0,outperform,109.0
+2014-01-31,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-01-31,Bernstein,12 month,5.0,outperform,112.0
+2014-01-31,Macquarie,12 month,5.0,outperform,102.0
+2014-01-31,Stephens Inc,12 month,3.0,equalweight,110.0
+2014-01-31,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2014-01-31,Baird,12 month,3.0,neutral,107.0
+2014-01-31,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-01-31,Credit Suisse,Not Provided,5.0,outperform,109.0
+2014-01-31,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,118.0
+2014-01-31,J.P. Morgan,9 month,3.0,neutral,104.0
+2014-01-31,Buckingham Research Group,12 month,5.0,buy,118.0
+2014-02-03,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-02-03,Cowen,12 month,3.0,market perform,99.0
+2014-02-06,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-02-07,Atlantic Equities LLP,12 month,5.0,overweight,108.0
+2014-02-10,Cowen,12 month,3.0,market perform,99.0
+2014-02-12,Buckingham Research Group,12 month,5.0,buy,118.0
+2014-02-14,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-02-18,Cowen,12 month,3.0,market perform,99.0
+2014-02-20,Avondale Partners LLC,12 month,3.0,market perform,102.0
+2014-02-20,Bernstein,12 month,5.0,outperform,112.0
+2014-02-23,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2014-02-24,Argus Research Corp,Not Provided,5.0,buy,110.0
+2014-02-24,Cowen,12 month,3.0,market perform,99.0
+2014-02-25,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-02-28,Bernstein,12 month,5.0,outperform,112.0
+2014-03-03,Cowen,12 month,3.0,market perform,99.0
+2014-03-04,Raymond James,12 month,5.0,outperform,111.0
+2014-03-07,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-03-10,Baird,12 month,3.0,neutral,107.0
+2014-03-10,Cowen,12 month,3.0,market perform,99.0
+2014-03-17,Cowen,12 month,3.0,market perform,99.0
+2014-03-17,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-03-18,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-03-23,Goldman Sachs,12 month,3.0,neutral/neutral,112.0
+2014-03-24,Bernstein,12 month,5.0,outperform,112.0
+2014-03-26,Avondale Partners LLC,12 month,3.0,market perform,102.0
+2014-03-27,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-03-28,Bernstein,12 month,5.0,outperform,112.0
+2014-03-31,Cowen,12 month,3.0,market perform,99.0
+2014-04-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-04,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-04-07,Cowen,Not Provided,3.0,market perform,99.0
+2014-04-07,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,118.0
+2014-04-08,Macquarie,12 month,5.0,outperform,102.0
+2014-04-09,Susquehanna Financial,12 month,3.0,neutral,107.0
+2014-04-09,Stifel,Not Provided,3.0,hold,-0.0
+2014-04-09,Baird,12 month,3.0,neutral,109.0
+2014-04-10,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-10,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-04-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-04-10,Credit Suisse,Not Provided,5.0,outperform,109.0
+2014-04-11,Raymond James,12 month,5.0,outperform,111.0
+2014-04-14,Baird,12 month,3.0,neutral,109.0
+2014-04-14,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2014-04-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-14,Cowen,12 month,3.0,market perform,99.0
+2014-04-14,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-04-16,Avondale Partners LLC,12 month,3.0,market perform,102.0
+2014-04-17,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-04-17,Nomura,12 month,3.0,neutral,105.0
+2014-04-17,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,118.0
+2014-04-24,Cowen,12 month,3.0,market perform,99.0
+2014-04-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-04-24,Barclays,Not Provided,5.0,overweight,105.0
+2014-04-24,Atlantic Equities LLP,12 month,5.0,overweight,108.0
+2014-04-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-04-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-04-24,Raymond James,12 month,5.0,outperform,111.0
+2014-04-24,Credit Suisse,Not Provided,5.0,outperform,111.0
+2014-04-24,Susquehanna Financial,12 month,3.0,neutral,107.0
+2014-04-24,Stifel,Not Provided,3.0,hold,-0.0
+2014-04-25,Baird,12 month,3.0,neutral,109.0
+2014-04-25,Bernstein,12 month,5.0,outperform,118.0
+2014-04-25,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-04-25,Avondale Partners LLC,12 month,3.0,market perform,102.0
+2014-04-25,Macquarie,12 month,5.0,outperform,103.0
+2014-04-25,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2014-04-25,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-04-25,Buckingham Research Group,12 month,5.0,buy,118.0
+2014-04-25,Nomura,12 month,3.0,neutral,105.0
+2014-04-25,Telsey Advisory Group,Not Provided,-2147483648.0,no rating system,118.0
+2014-04-25,Goldman Sachs,12 month,3.0,neutral/neutral,113.0
+2014-04-25,Stephens Inc,12 month,3.0,equalweight,110.0
+2014-04-27,Stifel,Not Provided,3.0,hold,99.0
+2014-04-28,Nomura,12 month,3.0,neutral,105.0
+2014-04-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-28,Cowen,12 month,3.0,market perform,99.0
+2014-04-28,Avondale Partners LLC,12 month,3.0,market perform,102.0
+2014-04-28,Atlantic Equities LLP,12 month,5.0,overweight,108.0
+2014-04-28,Oppenheimer & Co,12 month,5.0,outperform,109.0
+2014-04-30,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-05-01,Bernstein,12 month,5.0,outperform,118.0
+2014-05-02,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-05-05,Cowen,12 month,3.0,market perform,99.0
+2014-05-08,Bernstein,12 month,5.0,outperform,118.0
+2014-05-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-09,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-05-12,Bernstein,12 month,5.0,outperform,118.0
+2014-05-12,Barclays,Not Provided,5.0,overweight,105.0
+2014-05-13,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-05-16,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-05-18,Stifel,Not Provided,3.0,hold,99.0
+2014-05-19,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2014-05-19,Bernstein,12 month,5.0,outperform,119.0
+2014-05-19,Cowen,12 month,3.0,market perform,99.0
+2014-05-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-20,Avondale Partners LLC,Not Provided,3.0,market perform,102.0
+2014-05-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-05-27,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2014-05-27,Macquarie,12 month,5.0,outperform,110.0
+2014-05-29,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-05-30,Bernstein,Not Provided,5.0,outperform,118.0
+2014-05-30,Baird,Not Provided,3.0,neutral,-0.0
+2014-06-01,Stifel,Not Provided,3.0,hold,99.0
+2014-06-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-02,Cowen,Not Provided,3.0,market perform,99.0
+2014-06-06,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-06-06,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-06-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-06,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-06-06,Baird,12 month,3.0,neutral,109.0
+2014-06-09,Cowen,Not Provided,3.0,market perform,99.0
+2014-06-13,Buckingham Research Group,12 month,5.0,buy,118.0
+2014-06-13,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-06-15,Stifel,12 month,3.0,hold,99.0
+2014-06-16,Cowen,Not Provided,3.0,market perform,99.0
+2014-06-16,Baird,Not Provided,3.0,neutral,109.0
+2014-06-16,Accountability Research Corp,Not Provided,5.0,buy,110.0
+2014-06-16,Credit Suisse,Not Provided,5.0,outperform,114.0
+2014-06-17,Bernstein,12 month,5.0,outperform,119.0
+2014-06-17,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-06-17,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-06-20,Avondale Partners LLC,Not Provided,3.0,market perform,102.0
+2014-06-22,Stifel,Not Provided,3.0,hold,99.0
+2014-06-23,Cowen,Not Provided,3.0,market perform,99.0
+2014-06-23,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-06-30,Barclays,Not Provided,5.0,overweight,112.0
+2014-06-30,Stifel,Not Provided,3.0,hold,99.0
+2014-06-30,Bernstein,Not Provided,5.0,outperform,119.0
+2014-06-30,Cowen,Not Provided,3.0,market perform,99.0
+2014-07-01,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-07-01,Argus Research Corp,Not Provided,5.0,buy,115.0
+2014-07-03,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-07-06,Stifel,Not Provided,3.0,hold,99.0
+2014-07-07,Cowen,Not Provided,3.0,market perform,99.0
+2014-07-08,Baird,12 month,3.0,neutral,110.0
+2014-07-10,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-07-11,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-07-14,Buckingham Research Group,12 month,5.0,buy,118.0
+2014-07-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-07-14,Cowen,Not Provided,3.0,market perform,99.0
+2014-07-15,Raymond James,12 month,5.0,outperform,111.0
+2014-07-16,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2014-07-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-18,Raymond James,12 month,5.0,outperform,111.0
+2014-07-21,Barclays,Not Provided,5.0,overweight,120.0
+2014-07-21,Cowen,Not Provided,3.0,market perform,99.0
+2014-07-28,Bernstein,12 month,5.0,outperform,119.0
+2014-07-29,Buckingham Research Group,12 month,5.0,buy,118.0
+2014-07-29,Atlantic Equities LLP,12 month,5.0,overweight,108.0
+2014-07-29,Cowen,12 month,3.0,market perform,99.0
+2014-07-29,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-07-29,Stifel,Not Provided,3.0,hold,-0.0
+2014-07-29,Nomura,12 month,3.0,neutral,105.0
+2014-07-29,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-07-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-29,Susquehanna Financial,12 month,3.0,neutral,104.0
+2014-07-29,Raymond James,12 month,5.0,outperform,111.0
+2014-07-29,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-07-29,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-07-29,Avondale Partners LLC,12 month,3.0,market perform,102.0
+2014-07-29,Credit Suisse,Not Provided,5.0,outperform,112.0
+2014-07-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-07-29,Barclays,Not Provided,5.0,overweight,116.0
+2014-07-30,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2014-07-30,Goldman Sachs,12 month,3.0,neutral/neutral,111.0
+2014-07-30,Nomura,Not Provided,3.0,neutral,105.0
+2014-07-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-30,Baird,12 month,3.0,neutral,105.0
+2014-07-30,Buckingham Research Group,12 month,5.0,buy,115.0
+2014-07-30,Macquarie,12 month,5.0,outperform,109.0
+2014-07-30,Stephens Inc,12 month,3.0,equalweight,110.0
+2014-07-30,Oppenheimer & Co,12 month,5.0,outperform,111.0
+2014-07-31,Atlantic Equities LLP,12 month,3.0,neutral,104.0
+2014-07-31,Bernstein,Not Provided,5.0,outperform,118.0
+2014-08-01,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-08-01,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-08-04,Cowen,Not Provided,3.0,market perform,99.0
+2014-08-05,Accountability Research Corp,Not Provided,5.0,buy,110.0
+2014-08-07,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-08-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-08-11,Cowen,Not Provided,3.0,market perform,99.0
+2014-08-11,Atlantic Equities LLP,12 month,3.0,neutral,104.0
+2014-08-11,Bernstein,Not Provided,5.0,outperform,118.0
+2014-08-12,Stifel,12 month,3.0,hold,99.0
+2014-08-13,Baird,12 month,3.0,neutral,105.0
+2014-08-15,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-08-15,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-08-18,Cowen,Not Provided,3.0,market perform,99.0
+2014-08-19,Avondale Partners LLC,Not Provided,3.0,market perform,102.0
+2014-08-19,Susquehanna Financial,12 month,3.0,neutral,104.0
+2014-08-22,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-08-22,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-08-25,Cowen,Not Provided,3.0,market perform,99.0
+2014-08-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-08-29,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-09-01,Stifel,Not Provided,3.0,hold,99.0
+2014-09-02,Bernstein,12 month,5.0,outperform,118.0
+2014-09-02,Cowen,Not Provided,3.0,market perform,99.0
+2014-09-05,Baird,Not Provided,3.0,neutral,105.0
+2014-09-05,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-09-05,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-09-05,Bernstein,Not Provided,5.0,outperform,118.0
+2014-09-07,Stifel,Not Provided,3.0,hold,99.0
+2014-09-08,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2014-09-08,Cowen,Not Provided,3.0,market perform,99.0
+2014-09-14,Stifel,Not Provided,3.0,hold,99.0
+2014-09-15,Cowen,Not Provided,3.0,market perform,99.0
+2014-09-15,Buckingham Research Group,12 month,5.0,buy,115.0
+2014-09-16,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-09-17,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-09-19,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-09-19,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-09-22,Stifel,Not Provided,3.0,hold,-0.0
+2014-09-22,Cowen,Not Provided,3.0,market perform,99.0
+2014-09-22,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2014-09-22,Avondale Partners LLC,Not Provided,3.0,market perform,102.0
+2014-09-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-09-26,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-09-26,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-09-28,Stifel,Not Provided,3.0,hold,-0.0
+2014-09-29,Argus Research Corp,Not Provided,5.0,buy,115.0
+2014-09-29,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2014-09-29,Cowen,Not Provided,3.0,market perform,99.0
+2014-09-30,Bernstein,Not Provided,5.0,outperform,118.0
+2014-10-02,Baird,12 month,3.0,neutral,105.0
+2014-10-03,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-10-06,Cowen,Not Provided,3.0,market perform,99.0
+2014-10-06,Buckingham Research Group,12 month,5.0,buy,115.0
+2014-10-06,Morgan Stanley,12 month,3.0,Equalwt/Attractive,104.0
+2014-10-09,Credit Suisse,Not Provided,5.0,outperform,111.0
+2014-10-09,Bernstein,12 month,5.0,outperform,118.0
+2014-10-10,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-10-10,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-10-12,Stifel,12 month,3.0,hold,99.0
+2014-10-13,Raymond James,12 month,5.0,outperform,111.0
+2014-10-13,Cowen,Not Provided,3.0,market perform,99.0
+2014-10-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-10-14,Buckingham Research Group,12 month,5.0,buy,115.0
+2014-10-17,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-10-19,Stifel,Not Provided,3.0,hold,99.0
+2014-10-20,Oppenheimer & Co,18 month,5.0,outperform,111.0
+2014-10-20,Cowen,Not Provided,3.0,market perform,99.0
+2014-10-21,Bernstein,Not Provided,5.0,outperform,118.0
+2014-10-24,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-10-24,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-10-24,Susquehanna Financial,12 month,3.0,neutral,104.0
+2014-10-24,Barclays,Not Provided,5.0,overweight,116.0
+2014-10-24,Credit Suisse,Not Provided,5.0,outperform,112.0
+2014-10-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-10-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-10-24,Atlantic Equities LLP,12 month,3.0,neutral,104.0
+2014-10-24,Oppenheimer & Co,12 month,5.0,outperform,113.0
+2014-10-24,Stifel,Not Provided,3.0,hold,-0.0
+2014-10-25,Macquarie,12 month,5.0,outperform,109.0
+2014-10-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-27,Stephens Inc,12 month,3.0,equalweight,110.0
+2014-10-27,Cowen,Not Provided,3.0,market perform,99.0
+2014-10-27,Baird,12 month,3.0,neutral,105.0
+2014-10-27,Buckingham Research Group,12 month,5.0,buy,117.0
+2014-10-27,Goldman Sachs,12 month,3.0,neutral/neutral,114.0
+2014-10-27,Nomura,12 month,3.0,neutral,105.0
+2014-10-28,Avondale Partners LLC,12 month,3.0,market perform,102.0
+2014-10-28,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-10-29,Bernstein,12 month,5.0,outperform,122.0
+2014-10-30,Argus Research Corp,12 month,5.0,buy,115.0
+2014-10-30,Bernstein,Not Provided,5.0,outperform,122.0
+2014-10-31,Atlantic Equities LLP,12 month,3.0,neutral,113.0
+2014-10-31,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-11-02,Stifel,Not Provided,3.0,hold,99.0
+2014-11-03,Cowen,Not Provided,3.0,market perform,99.0
+2014-11-03,Morgan Stanley,12 month,3.0,Equalwt/Attractive,107.0
+2014-11-03,Buckingham Research Group,Not Provided,5.0,buy,117.0
+2014-11-05,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-11-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-09,Stifel,Not Provided,3.0,hold,99.0
+2014-11-10,Cowen,Not Provided,3.0,market perform,99.0
+2014-11-10,RBC Capital Markets,12 month,5.0,outperform,117.0
+2014-11-11,Buckingham Research Group,12 month,5.0,buy,117.0
+2014-11-11,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-11-11,Accountability Research Corp,Not Provided,3.0,hold,115.0
+2014-11-12,Barclays,Not Provided,5.0,overweight,116.0
+2014-11-12,Bernstein,12 month,5.0,outperform,122.0
+2014-11-14,Oppenheimer & Co,12 month,5.0,outperform,116.0
+2014-11-14,Morgan Stanley,12 month,3.0,Equalwt/Attractive,107.0
+2014-11-14,Bernstein,12 month,5.0,outperform,122.0
+2014-11-14,Credit Suisse,Not Provided,5.0,outperform,112.0
+2014-11-14,RBC Capital Markets,12 month,5.0,outperform,125.0
+2014-11-14,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-11-14,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-11-15,Macquarie,12 month,5.0,outperform,118.0
+2014-11-16,Stifel,Not Provided,3.0,hold,99.0
+2014-11-17,Baird,12 month,3.0,neutral,105.0
+2014-11-17,Cowen,Not Provided,3.0,market perform,106.0
+2014-11-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-11-17,Buckingham Research Group,Not Provided,5.0,buy,117.0
+2014-11-17,Susquehanna Financial,12 month,3.0,neutral,110.0
+2014-11-17,Stephens Inc,12 month,3.0,equalweight,110.0
+2014-11-17,Raymond James,12 month,5.0,outperform,118.0
+2014-11-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-20,Argus Research Corp,12 month,5.0,buy,115.0
+2014-11-20,Bernstein,12 month,5.0,outperform,122.0
+2014-11-21,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2014-11-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-11-24,Stifel,12 month,3.0,hold,99.0
+2014-11-24,Baird,12 month,3.0,neutral,105.0
+2014-11-24,Cowen,Not Provided,3.0,market perform,106.0
+2014-11-25,Avondale Partners LLC,Not Provided,3.0,market perform,102.0
+2014-11-26,RBC Capital Markets,12 month,5.0,outperform,125.0
+2014-11-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-01,Cowen,Not Provided,3.0,market perform,106.0
+2014-12-02,Bernstein,Not Provided,5.0,outperform,122.0
+2014-12-03,Avondale Partners LLC,Not Provided,3.0,market perform,102.0
+2014-12-05,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-12-05,RBC Capital Markets,12 month,5.0,outperform,125.0
+2014-12-08,Stifel,Not Provided,3.0,hold,99.0
+2014-12-08,Cowen,Not Provided,3.0,market perform,106.0
+2014-12-08,Buckingham Research Group,12 month,5.0,buy,117.0
+2014-12-10,Bernstein,Not Provided,5.0,outperform,122.0
+2014-12-11,UBS,12 month,3.0,neutral,112.0
+2014-12-11,Argus Research Corp,Not Provided,5.0,buy,115.0
+2014-12-11,S&P Capital IQ,12 month,5.0,buy,140.0
+2014-12-12,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2014-12-15,Stifel,Not Provided,3.0,hold,99.0
+2014-12-15,Cowen,Not Provided,3.0,market perform,106.0
+2014-12-15,RBC Capital Markets,12 month,5.0,outperform,125.0
+2014-12-15,Buckingham Research Group,12 month,5.0,buy,117.0
+2014-12-19,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-12-19,RBC Capital Markets,12 month,5.0,outperform,125.0
+2014-12-21,Stifel,Not Provided,3.0,hold,99.0
+2014-12-22,Cowen,Not Provided,3.0,market perform,106.0
+2014-12-22,"Thompson, Davis & Co",12 month,5.0,buy,126.0
+2014-12-23,Baird,Not Provided,3.0,neutral,111.0
+2014-12-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-01-02,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-01-05,Cowen,Not Provided,3.0,market perform,106.0
+2015-01-05,Stifel,Not Provided,3.0,hold,99.0
+2015-01-05,Goldman Sachs,12 month,3.0,neutral/neutral,112.0
+2015-01-05,Morgan Stanley,12 month,3.0,Equalwt/Attractive,106.0
+2015-01-06,Bernstein,Not Provided,5.0,outperform,122.0
+2015-01-06,RBC Capital Markets,12 month,5.0,outperform,125.0
+2015-01-09,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-01-12,Cowen,Not Provided,3.0,market perform,106.0
+2015-01-12,Buckingham Research Group,Not Provided,5.0,buy,117.0
+2015-01-12,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-01-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-01-13,Raymond James,Not Provided,5.0,outperform,118.0
+2015-01-16,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-01-19,Stifel,Not Provided,3.0,hold,99.0
+2015-01-20,Cowen,Not Provided,3.0,market perform,106.0
+2015-01-20,Buckingham Research Group,Not Provided,5.0,buy,117.0
+2015-01-20,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-01-20,Bernstein,Not Provided,5.0,outperform,122.0
+2015-01-20,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-01-23,Credit Suisse,Not Provided,3.0,neutral,102.0
+2015-01-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-01-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-01-23,Susquehanna Financial,12 month,3.0,neutral,104.0
+2015-01-23,RBC Capital Markets,12 month,5.0,outperform,125.0
+2015-01-23,Oppenheimer & Co,12 month,5.0,outperform,116.0
+2015-01-23,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-01-23,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-01-23,Avondale Partners LLC,12 month,3.0,market perform,102.0
+2015-01-25,Goldman Sachs,12 month,3.0,neutral/neutral,102.0
+2015-01-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-01-26,Morgan Stanley,12 month,3.0,Equalwt/Attractive,102.0
+2015-01-26,Stifel,Not Provided,3.0,hold,-0.0
+2015-01-26,Barclays,Not Provided,3.0,equalweight,105.0
+2015-01-26,Stephens Inc,12 month,3.0,equalweight,110.0
+2015-01-26,Baird,12 month,3.0,neutral,101.0
+2015-01-26,UBS,12 month,3.0,neutral,105.0
+2015-01-26,Argus Research Corp,Not Provided,5.0,buy,115.0
+2015-01-26,Buckingham Research Group,12 month,5.0,buy,115.0
+2015-01-26,Macquarie,12 month,3.0,neutral,106.0
+2015-01-26,Cowen,Not Provided,3.0,market perform,102.0
+2015-01-26,Bernstein,12 month,5.0,outperform,115.0
+2015-01-27,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-01-28,Baird,12 month,3.0,neutral,101.0
+2015-01-28,Avondale Partners LLC,Not Provided,3.0,market perform,95.0
+2015-01-30,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-02-02,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-02-02,Morgan Stanley,12 month,3.0,Equalwt/Attractive,102.0
+2015-02-02,Bernstein,Not Provided,5.0,outperform,115.0
+2015-02-03,Oppenheimer & Co,12 month,5.0,outperform,116.0
+2015-02-03,RBC Capital Markets,12 month,5.0,outperform,111.0
+2015-02-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-03,Barclays,Not Provided,3.0,equalweight,105.0
+2015-02-03,Atlantic Equities LLP,12 month,3.0,neutral,113.0
+2015-02-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-02-03,Susquehanna Financial,12 month,3.0,neutral,104.0
+2015-02-03,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-02-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-02-03,Credit Suisse,Not Provided,3.0,neutral,100.0
+2015-02-03,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-02-03,Stifel,Not Provided,3.0,hold,-0.0
+2015-02-03,Cowen,12 month,3.0,market perform,102.0
+2015-02-04,Morgan Stanley,12 month,3.0,Equalwt/Attractive,102.0
+2015-02-04,Baird,12 month,3.0,neutral,105.0
+2015-02-04,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-02-04,Avondale Partners LLC,12 month,3.0,market perform,95.0
+2015-02-04,Oppenheimer & Co,12 month,5.0,outperform,108.0
+2015-02-04,Goldman Sachs,12 month,3.0,neutral/neutral,103.0
+2015-02-04,Macquarie,12 month,3.0,neutral,106.0
+2015-02-04,Stephens Inc,12 month,3.0,equalweight,110.0
+2015-02-04,S&P Capital IQ,12 month,5.0,buy,120.0
+2015-02-04,Atlantic Equities LLP,12 month,3.0,neutral,103.0
+2015-02-06,Argus Research Corp,Not Provided,5.0,buy,115.0
+2015-02-09,Cowen,Not Provided,3.0,market perform,102.0
+2015-02-09,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-02-09,RBC Capital Markets,12 month,5.0,outperform,111.0
+2015-02-10,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-02-10,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-02-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-02-11,Bernstein,12 month,5.0,outperform,115.0
+2015-02-12,Oppenheimer & Co,12 month,5.0,outperform,108.0
+2015-02-13,Barclays,Not Provided,3.0,equalweight,105.0
+2015-02-16,Stifel,Not Provided,3.0,hold,-0.0
+2015-02-17,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-02-17,Cowen,Not Provided,3.0,market perform,102.0
+2015-02-18,Accountability Research Corp,Not Provided,5.0,buy,115.0
+2015-02-19,Baird,12 month,3.0,neutral,105.0
+2015-02-19,Argus Research Corp,Not Provided,5.0,buy,115.0
+2015-02-20,RBC Capital Markets,12 month,5.0,outperform,111.0
+2015-02-23,Avondale Partners LLC,Not Provided,3.0,market perform,95.0
+2015-02-23,Cowen,Not Provided,3.0,market perform,102.0
+2015-02-27,RBC Capital Markets,12 month,5.0,outperform,111.0
+2015-03-01,Stifel,Not Provided,3.0,hold,-0.0
+2015-03-02,Cowen,Not Provided,3.0,market perform,102.0
+2015-03-02,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-03-03,Baird,12 month,3.0,neutral,105.0
+2015-03-03,Morgan Stanley,12 month,3.0,Equalwt/Attractive,102.0
+2015-03-03,Bernstein,12 month,5.0,outperform,115.0
+2015-03-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-03-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-03-05,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-03-06,RBC Capital Markets,12 month,5.0,outperform,111.0
+2015-03-09,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-03-09,Cowen,Not Provided,3.0,market perform,102.0
+2015-03-13,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-03-13,RBC Capital Markets,12 month,5.0,outperform,111.0
+2015-03-15,Stifel,12 month,3.0,hold,93.0
+2015-03-16,Cowen,Not Provided,3.0,market perform,102.0
+2015-03-16,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-03-17,Avondale Partners LLC,Not Provided,3.0,market perform,95.0
+2015-03-17,Susquehanna Financial,12 month,3.0,neutral,104.0
+2015-03-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-19,Bernstein,Not Provided,5.0,outperform,115.0
+2015-03-19,RBC Capital Markets,12 month,5.0,outperform,111.0
+2015-03-20,Oppenheimer & Co,12 month,5.0,outperform,108.0
+2015-03-23,Cowen,Not Provided,3.0,market perform,102.0
+2015-03-23,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-03-24,Morgan Stanley,12 month,3.0,Equalwt/Attractive,102.0
+2015-03-25,Stifel,12 month,3.0,hold,93.0
+2015-03-25,Baird,Not Provided,3.0,neutral,105.0
+2015-03-26,Baird,Not Provided,3.0,neutral,105.0
+2015-03-30,Cowen,Not Provided,3.0,market perform,102.0
+2015-03-30,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-04-06,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-04-06,Cowen,Not Provided,3.0,market perform,102.0
+2015-04-07,Stifel,Not Provided,3.0,hold,98.0
+2015-04-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-04-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-04-08,RBC Capital Markets,12 month,5.0,outperform,111.0
+2015-04-09,Credit Suisse,Not Provided,3.0,neutral,98.0
+2015-04-09,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-04-12,Goldman Sachs,12 month,3.0,neutral/neutral,101.0
+2015-04-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-04-13,RBC Capital Markets,12 month,5.0,outperform,111.0
+2015-04-13,Cowen,Not Provided,3.0,market perform,102.0
+2015-04-14,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-04-16,Stifel,Not Provided,3.0,hold,98.0
+2015-04-17,Stifel,Not Provided,3.0,hold,98.0
+2015-04-20,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-04-20,Cowen,Not Provided,3.0,market perform,102.0
+2015-04-20,RBC Capital Markets,12 month,5.0,outperform,111.0
+2015-04-22,Bernstein,12 month,5.0,outperform,115.0
+2015-04-28,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-04-28,Atlantic Equities LLP,12 month,3.0,neutral,103.0
+2015-04-28,Credit Suisse,Not Provided,3.0,neutral,104.0
+2015-04-28,Barclays,Not Provided,3.0,equalweight,105.0
+2015-04-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-04-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-28,Cowen,12 month,3.0,market perform,102.0
+2015-04-28,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-04-28,Morgan Stanley,12 month,3.0,Equalwt/Attractive,102.0
+2015-04-28,Susquehanna Financial,12 month,3.0,neutral,104.0
+2015-04-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-04-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-04-28,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2015-04-28,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-28,Oppenheimer & Co,18 month,5.0,outperform,108.0
+2015-04-29,Bernstein,Not Provided,5.0,outperform,115.0
+2015-04-29,Baird,12 month,3.0,neutral,110.0
+2015-04-29,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-04-29,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-04-29,Macquarie,12 month,3.0,neutral,106.0
+2015-04-29,Stephens Inc,12 month,3.0,equalweight,110.0
+2015-05-04,Cowen,Not Provided,3.0,market perform,102.0
+2015-05-04,Oppenheimer & Co,12 month,5.0,outperform,108.0
+2015-05-05,Argus Research Corp,Not Provided,5.0,buy,115.0
+2015-05-05,Bernstein,Not Provided,5.0,outperform,115.0
+2015-05-08,Atlantic Equities LLP,12 month,3.0,neutral,103.0
+2015-05-11,Cowen,Not Provided,3.0,market perform,102.0
+2015-05-11,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-05-11,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-05-14,Buckingham Research Group,12 month,5.0,buy,115.0
+2015-05-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-05-15,Goldman Sachs,12 month,5.0,buy/attractive,119.0
+2015-05-18,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-05-18,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-05-19,Accountability Research Corp,Not Provided,5.0,buy,115.0
+2015-05-20,Baird,Not Provided,3.0,neutral,110.0
+2015-05-26,Morgan Stanley,12 month,3.0,Equalwt/Attractive,102.0
+2015-05-26,Cowen,Not Provided,3.0,market perform,102.0
+2015-05-27,Bernstein,12 month,5.0,outperform,115.0
+2015-05-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-05-28,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-05-28,Nomura,12 month,3.0,neutral,110.0
+2015-05-28,Stifel,12 month,3.0,hold,97.0
+2015-05-28,Susquehanna Financial,12 month,3.0,neutral,104.0
+2015-05-28,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2015-05-29,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-05-31,Morgan Stanley,12 month,3.0,Equalwt/Attractive,102.0
+2015-06-01,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-06-01,Cowen,Not Provided,3.0,market perform,102.0
+2015-06-02,Bernstein,Not Provided,5.0,outperform,115.0
+2015-06-04,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-06-04,Credit Suisse,Not Provided,3.0,neutral,104.0
+2015-06-05,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-06-05,Avondale Partners LLC,Not Provided,3.0,market perform,110.0
+2015-06-08,Stifel,Not Provided,3.0,hold,97.0
+2015-06-08,Cowen,Not Provided,3.0,market perform,102.0
+2015-06-08,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-06-09,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-06-11,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-06-15,Stifel,Not Provided,3.0,hold,97.0
+2015-06-15,Cowen,Not Provided,3.0,market perform,102.0
+2015-06-16,Baird,12 month,3.0,neutral,110.0
+2015-06-17,Susquehanna Financial,12 month,3.0,neutral,104.0
+2015-06-19,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-06-22,Argus Research Corp,Not Provided,5.0,buy,115.0
+2015-06-22,Cowen,Not Provided,3.0,market perform,102.0
+2015-06-23,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-06-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-26,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-06-26,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-06-29,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-06-29,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-06-29,Stifel,Not Provided,3.0,hold,97.0
+2015-07-02,Bernstein,Not Provided,5.0,outperform,115.0
+2015-07-02,Buckingham Research Group,12 month,5.0,buy,115.0
+2015-07-06,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-07-06,Cowen,Not Provided,3.0,market perform,102.0
+2015-07-06,Baird,12 month,3.0,neutral,110.0
+2015-07-06,Morgan Stanley,12 month,3.0,Equalwt/Attractive,104.0
+2015-07-07,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-07-08,Baird,Not Provided,3.0,neutral,110.0
+2015-07-12,Stifel,Not Provided,3.0,hold,97.0
+2015-07-13,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-07-13,Buckingham Research Group,12 month,5.0,buy,115.0
+2015-07-13,Cowen,Not Provided,3.0,market perform,102.0
+2015-07-17,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-07-20,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-07-20,Cowen,Not Provided,3.0,market perform,102.0
+2015-07-20,Avondale Partners LLC,Not Provided,3.0,market perform,110.0
+2015-07-20,Stifel,Not Provided,3.0,hold,97.0
+2015-07-23,Bernstein,12 month,5.0,outperform,115.0
+2015-07-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-07-24,Baird,Not Provided,3.0,neutral,110.0
+2015-07-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-07-27,Cowen,Not Provided,3.0,market perform,102.0
+2015-07-27,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-07-27,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-07-27,Stifel,Not Provided,3.0,hold,97.0
+2015-07-27,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-07-28,Nomura,12 month,3.0,neutral,110.0
+2015-07-28,Susquehanna Financial,12 month,3.0,neutral,104.0
+2015-07-28,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2015-07-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-07-29,Buckingham Research Group,12 month,5.0,buy,115.0
+2015-07-29,Macquarie,12 month,3.0,neutral,106.0
+2015-07-31,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-07-31,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-07-31,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-31,Baird,Not Provided,3.0,neutral,111.0
+2015-07-31,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-07-31,Bernstein,12 month,5.0,outperform,119.0
+2015-07-31,Oppenheimer & Co,18 month,5.0,outperform,108.0
+2015-08-03,Morgan Stanley,12 month,3.0,Equalwt/Attractive,108.0
+2015-08-03,Cowen,Not Provided,3.0,market perform,102.0
+2015-08-03,Barclays,Not Provided,3.0,equalweight,105.0
+2015-08-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-03,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-08-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-08-03,Stephens Inc,12 month,3.0,equalweight,110.0
+2015-08-03,Credit Suisse,Not Provided,3.0,neutral,105.0
+2015-08-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-04,Bernstein,Not Provided,5.0,outperform,119.0
+2015-08-07,Credit Suisse,Not Provided,3.0,neutral,105.0
+2015-08-07,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-08-10,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-08-10,Cowen,Not Provided,3.0,market perform,102.0
+2015-08-13,Buckingham Research Group,12 month,5.0,buy,115.0
+2015-08-13,Baird,Not Provided,3.0,neutral,111.0
+2015-08-14,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-08-14,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-08-16,Stifel,Not Provided,3.0,hold,-0.0
+2015-08-17,Cowen,Not Provided,3.0,market perform,102.0
+2015-08-17,Accountability Research Corp,Not Provided,5.0,buy,115.0
+2015-08-21,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-08-21,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-08-24,Baird,Not Provided,3.0,neutral,111.0
+2015-08-24,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-08-24,Cowen,Not Provided,3.0,market perform,102.0
+2015-08-26,Bernstein,Not Provided,5.0,outperform,119.0
+2015-08-26,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-08-28,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-08-28,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-08-30,Stifel,Not Provided,3.0,hold,-0.0
+2015-08-31,Cowen,Not Provided,3.0,market perform,102.0
+2015-09-02,Stifel,Not Provided,3.0,hold,-0.0
+2015-09-03,Bernstein,Not Provided,5.0,outperform,119.0
+2015-09-04,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-09-04,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-09-08,Cowen,Not Provided,3.0,market perform,102.0
+2015-09-09,Avondale Partners LLC,Not Provided,3.0,market perform,110.0
+2015-09-11,Baird,Not Provided,3.0,neutral,111.0
+2015-09-14,Cowen,Not Provided,3.0,market perform,102.0
+2015-09-14,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-09-14,Stifel,Not Provided,3.0,hold,-0.0
+2015-09-15,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-09-15,Bernstein,12 month,5.0,outperform,123.0
+2015-09-15,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-09-16,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-09-18,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-09-21,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-09-21,Cowen,Not Provided,3.0,market perform,102.0
+2015-09-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-09-24,Baird,Not Provided,3.0,neutral,111.0
+2015-09-24,Bernstein,Not Provided,5.0,outperform,123.0
+2015-09-25,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-09-28,Cowen,Not Provided,3.0,market perform,102.0
+2015-09-28,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-09-28,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2015-10-04,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-10-05,Morgan Stanley,12 month,3.0,Equalwt/Attractive,105.0
+2015-10-05,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-10-05,Cowen,Not Provided,3.0,market perform,102.0
+2015-10-06,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-10-08,Credit Suisse,Not Provided,3.0,neutral,109.0
+2015-10-09,Bernstein,Not Provided,5.0,outperform,123.0
+2015-10-09,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-10-12,Cowen,Not Provided,3.0,market perform,102.0
+2015-10-12,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-10-13,Baird,Not Provided,3.0,neutral,111.0
+2015-10-15,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2015-10-16,Oppenheimer & Co,18 month,5.0,outperform,108.0
+2015-10-18,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-19,Bernstein,Not Provided,5.0,outperform,123.0
+2015-10-19,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-10-19,Cowen,Not Provided,3.0,market perform,102.0
+2015-10-20,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2015-10-21,Argus Research Corp,Not Provided,5.0,buy,115.0
+2015-10-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-10-27,Credit Suisse,Not Provided,3.0,neutral,105.0
+2015-10-27,Stephens Inc,12 month,3.0,equalweight,110.0
+2015-10-27,UBS,12 month,3.0,neutral,109.0
+2015-10-27,Nomura,12 month,3.0,neutral,110.0
+2015-10-27,Morgan Stanley,12 month,3.0,Equalwt/Attractive,105.0
+2015-10-27,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-10-27,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-27,Barclays,Not Provided,3.0,equalweight,105.0
+2015-10-27,Bernstein,12 month,5.0,outperform,123.0
+2015-10-27,Cowen,12 month,3.0,market perform,102.0
+2015-10-27,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-10-27,Susquehanna Financial,12 month,3.0,neutral,104.0
+2015-10-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-27,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2015-10-27,Oppenheimer & Co,18 month,5.0,outperform,108.0
+2015-10-27,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-10-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-10-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-10-28,Buckingham Research Group,12 month,5.0,buy,115.0
+2015-10-28,Goldman Sachs,12 month,5.0,buy/attractive,126.0
+2015-10-28,Oppenheimer & Co,12 month,5.0,outperform,112.0
+2015-10-28,Macquarie,12 month,3.0,neutral,107.0
+2015-10-28,Avondale Partners LLC,12 month,3.0,market perform,100.0
+2015-10-30,Baird,Not Provided,3.0,neutral,111.0
+2015-11-02,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-11-02,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-11-02,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-11-02,Cowen,Not Provided,3.0,market perform,102.0
+2015-11-03,Bernstein,Not Provided,5.0,outperform,121.0
+2015-11-06,Baird,Not Provided,3.0,neutral,111.0
+2015-11-09,Cowen,Not Provided,3.0,market perform,102.0
+2015-11-09,Argus Research Corp,Not Provided,5.0,buy,115.0
+2015-11-10,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-11-16,Cowen,12 month,3.0,market perform,102.0
+2015-11-16,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-11-17,Bernstein,Not Provided,5.0,outperform,121.0
+2015-11-17,Stifel,Not Provided,3.0,hold,-0.0
+2015-11-20,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-11-23,Avondale Partners LLC,Not Provided,3.0,market perform,100.0
+2015-11-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-11-23,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-11-23,Cowen,Not Provided,3.0,market perform,102.0
+2015-11-24,Accountability Research Corp,Not Provided,5.0,buy,115.0
+2015-11-24,Baird,Not Provided,3.0,neutral,111.0
+2015-11-30,Stifel,Not Provided,3.0,hold,-0.0
+2015-11-30,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-11-30,Cowen,Not Provided,3.0,market perform,102.0
+2015-12-02,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-12-02,Bernstein,12 month,5.0,outperform,121.0
+2015-12-02,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-12-03,Bernstein,12 month,5.0,outperform,121.0
+2015-12-07,Cowen,Not Provided,3.0,market perform,102.0
+2015-12-07,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-12-10,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-12-11,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-12-14,Cowen,Not Provided,3.0,market perform,102.0
+2015-12-14,Morgan Stanley,12 month,3.0,Equalwt/Attractive,103.0
+2015-12-14,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-12-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-16,Stifel,Not Provided,3.0,hold,-0.0
+2015-12-21,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2015-12-21,Cowen,Not Provided,3.0,market perform,102.0
+2015-12-21,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2015-12-22,Avondale Partners LLC,Not Provided,3.0,market perform,100.0
+2015-12-23,Buckingham Research Group,12 month,5.0,buy,115.0
+2015-12-23,RBC Capital Markets,12 month,5.0,outperform,115.0
+2015-12-23,Baird,Not Provided,3.0,neutral,105.0
+2015-12-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-12-24,Bernstein,Not Provided,5.0,outperform,121.0
+2015-12-28,Buckingham Research Group,12 month,5.0,buy,115.0
+2016-01-04,Morgan Stanley,12 month,3.0,Equalwt/Attractive,106.0
+2016-01-06,Cowen,12 month,3.0,market perform,102.0
+2016-01-07,UBS,12 month,3.0,neutral,100.0
+2016-01-07,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-01-08,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-01-08,Baird,Not Provided,3.0,neutral,105.0
+2016-01-11,Cowen,Not Provided,3.0,market perform,102.0
+2016-01-11,Buckingham Research Group,Not Provided,5.0,buy,115.0
+2016-01-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-01-15,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-01-15,Bernstein,Not Provided,5.0,outperform,121.0
+2016-01-15,Baird,Not Provided,3.0,neutral,105.0
+2016-01-19,Credit Suisse,Not Provided,3.0,neutral,100.0
+2016-01-20,Buckingham Research Group,Not Provided,5.0,buy,110.0
+2016-01-20,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-01-22,Avondale Partners LLC,12 month,3.0,market perform,100.0
+2016-01-22,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-01-22,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-01-24,Stifel,Not Provided,3.0,hold,-0.0
+2016-01-25,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2016-01-25,Cowen,Not Provided,3.0,market perform,102.0
+2016-01-28,Baird,12 month,3.0,neutral,105.0
+2016-01-29,Bernstein,12 month,5.0,outperform,116.0
+2016-01-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-01,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-02-01,Stifel,Not Provided,3.0,hold,-0.0
+2016-02-01,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-02-01,Cowen,Not Provided,3.0,market perform,102.0
+2016-02-02,Barclays,Not Provided,3.0,equalweight,105.0
+2016-02-02,Stephens Inc,12 month,3.0,equalweight,110.0
+2016-02-02,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2016-02-02,Credit Suisse,Not Provided,3.0,neutral,100.0
+2016-02-02,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-02-02,Nomura,12 month,3.0,neutral,110.0
+2016-02-02,Stifel,Not Provided,3.0,hold,-0.0
+2016-02-02,Avondale Partners LLC,12 month,3.0,market perform,100.0
+2016-02-02,Morgan Stanley,12 month,3.0,Equalwt/Attractive,100.0
+2016-02-02,UBS,12 month,3.0,neutral,102.0
+2016-02-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-02-02,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-02-03,Susquehanna Financial,12 month,3.0,neutral,104.0
+2016-02-03,Macquarie,12 month,3.0,neutral,105.0
+2016-02-03,Buckingham Research Group,12 month,5.0,buy,110.0
+2016-02-03,Baird,12 month,3.0,neutral,105.0
+2016-02-03,Oppenheimer & Co,12 month,5.0,outperform,109.0
+2016-02-03,Bernstein,12 month,5.0,outperform,116.0
+2016-02-04,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-02-05,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-02-06,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-02-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-08,Cowen,Not Provided,3.0,market perform,102.0
+2016-02-09,Bernstein,Not Provided,5.0,outperform,116.0
+2016-02-09,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2016-02-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-02-12,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-02-16,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-02-16,Buckingham Research Group,Not Provided,5.0,buy,110.0
+2016-02-16,Cowen,Not Provided,3.0,market perform,102.0
+2016-02-18,Baird,Not Provided,3.0,neutral,105.0
+2016-02-22,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2016-02-22,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-02-22,Cowen,Not Provided,3.0,market perform,102.0
+2016-02-22,Buckingham Research Group,Not Provided,5.0,buy,110.0
+2016-02-23,Morgan Stanley,12 month,1.0,Underwt/In-Line,88.0
+2016-02-29,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-02-29,Buckingham Research Group,Not Provided,5.0,buy,110.0
+2016-02-29,Bernstein,12 month,5.0,outperform,116.0
+2016-02-29,Avondale Partners LLC,Not Provided,3.0,market perform,100.0
+2016-02-29,Cowen,Not Provided,3.0,market perform,102.0
+2016-03-01,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-03-01,Accountability Research Corp,Not Provided,5.0,buy,110.0
+2016-03-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-03-03,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2016-03-04,Bernstein,Not Provided,5.0,outperform,116.0
+2016-03-07,Baird,Not Provided,3.0,neutral,105.0
+2016-03-07,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-03-09,Baird,12 month,3.0,neutral,105.0
+2016-03-10,Buckingham Research Group,Not Provided,5.0,buy,110.0
+2016-03-11,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-03-14,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-03-14,Cowen,Not Provided,3.0,market perform,102.0
+2016-03-21,Bernstein,12 month,5.0,outperform,116.0
+2016-03-22,Avondale Partners LLC,12 month,3.0,market perform,100.0
+2016-03-22,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-03-23,Baird,Not Provided,3.0,neutral,105.0
+2016-03-24,Bernstein,12 month,5.0,outperform,116.0
+2016-03-24,UBS,12 month,3.0,neutral,109.0
+2016-03-28,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-03-28,Buckingham Research Group,12 month,5.0,buy,110.0
+2016-04-04,Morgan Stanley,12 month,1.0,Underwt/In-Line,90.0
+2016-04-04,Bernstein,Not Provided,5.0,outperform,116.0
+2016-04-04,Cowen,Not Provided,3.0,market perform,102.0
+2016-04-04,Baird,Not Provided,3.0,neutral,107.0
+2016-04-04,Stephens Inc,12 month,3.0,equalweight,110.0
+2016-04-06,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-04-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-04-07,Credit Suisse,Not Provided,3.0,neutral,110.0
+2016-04-08,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-04-11,Cowen,Not Provided,3.0,market perform,102.0
+2016-04-14,Macquarie,12 month,3.0,neutral,105.0
+2016-04-18,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-04-18,Cowen,Not Provided,3.0,market perform,102.0
+2016-04-19,Argus Research Corp,Not Provided,5.0,buy,115.0
+2016-04-19,Avondale Partners LLC,18 month,3.0,market perform,100.0
+2016-04-19,Buckingham Research Group,Not Provided,5.0,buy,110.0
+2016-04-25,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-04-25,Baird,Not Provided,3.0,neutral,107.0
+2016-04-27,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-27,Cowen,Not Provided,3.0,market perform,102.0
+2016-04-28,Avondale Partners LLC,12 month,3.0,market perform,100.0
+2016-04-28,Nomura,12 month,3.0,neutral,110.0
+2016-04-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-28,Baird,12 month,3.0,neutral,107.0
+2016-04-28,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2016-04-28,Barclays,Not Provided,3.0,equalweight,105.0
+2016-04-28,Buckingham Research Group,12 month,5.0,buy,114.0
+2016-04-28,Stephens Inc,12 month,3.0,equalweight,110.0
+2016-04-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-28,Susquehanna Financial,12 month,3.0,neutral,104.0
+2016-04-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-04-29,Macquarie,12 month,3.0,neutral,110.0
+2016-04-29,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-29,Morgan Stanley,12 month,1.0,Underwt/In-Line,90.0
+2016-04-29,Credit Suisse,Not Provided,3.0,neutral,111.0
+2016-05-02,Oppenheimer & Co,12 month,5.0,outperform,112.0
+2016-05-02,Cowen,Not Provided,3.0,market perform,110.0
+2016-05-02,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-05-03,Argus Research Corp,Not Provided,5.0,buy,115.0
+2016-05-04,Bernstein,Not Provided,5.0,outperform,117.0
+2016-05-04,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-05-05,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-05-06,Bernstein,12 month,5.0,outperform,117.0
+2016-05-06,Barclays,Not Provided,3.0,equalweight,105.0
+2016-05-09,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-05-09,Buckingham Research Group,12 month,5.0,buy,114.0
+2016-05-09,Cowen,Not Provided,3.0,market perform,110.0
+2016-05-09,Stifel,Not Provided,3.0,hold,-0.0
+2016-05-10,Baird,Not Provided,3.0,neutral,107.0
+2016-05-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-05-13,Bernstein,Not Provided,5.0,outperform,117.0
+2016-05-16,Buckingham Research Group,Not Provided,5.0,buy,114.0
+2016-05-16,Susquehanna Financial,12 month,3.0,neutral,104.0
+2016-05-16,Cowen,Not Provided,3.0,market perform,110.0
+2016-05-18,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-05-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-23,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-05-23,Cowen,Not Provided,3.0,market perform,110.0
+2016-05-23,Avondale Partners LLC,Not Provided,3.0,market perform,100.0
+2016-05-24,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2016-05-24,Baird,Not Provided,3.0,neutral,107.0
+2016-05-26,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-05-27,Buckingham Research Group,Not Provided,5.0,buy,114.0
+2016-05-31,Bernstein,Not Provided,5.0,outperform,117.0
+2016-06-02,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-06-03,Buckingham Research Group,Not Provided,5.0,buy,114.0
+2016-06-06,Cowen,Not Provided,3.0,market perform,110.0
+2016-06-06,Macquarie,12 month,3.0,neutral,107.0
+2016-06-06,Bernstein,12 month,5.0,outperform,117.0
+2016-06-09,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-06-13,Cowen,Not Provided,3.0,market perform,110.0
+2016-06-15,Accountability Research Corp,Not Provided,5.0,buy,115.0
+2016-06-16,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-06-20,Cowen,Not Provided,3.0,market perform,110.0
+2016-06-20,Buckingham Research Group,Not Provided,5.0,buy,114.0
+2016-06-20,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-06-20,Avondale Partners LLC,Not Provided,3.0,market perform,100.0
+2016-06-22,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2016-06-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-06-23,Stifel,Not Provided,3.0,hold,-0.0
+2016-06-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-06-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-06-27,Stephens Inc,12 month,3.0,equalweight,110.0
+2016-06-27,Cowen,Not Provided,3.0,market perform,110.0
+2016-06-28,Buckingham Research Group,Not Provided,5.0,buy,114.0
+2016-06-29,Bernstein,Not Provided,5.0,outperform,117.0
+2016-06-29,Baird,12 month,3.0,neutral,107.0
+2016-06-30,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-07-01,Bernstein,Not Provided,5.0,outperform,117.0
+2016-07-02,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-07-05,Morgan Stanley,12 month,1.0,Underwt/In-Line,92.0
+2016-07-05,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-05,Cowen,Not Provided,3.0,market perform,110.0
+2016-07-06,Stephens Inc,12 month,3.0,equalweight,110.0
+2016-07-07,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-07-08,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-07-10,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-11,Buckingham Research Group,Not Provided,5.0,buy,114.0
+2016-07-11,Baird,Not Provided,3.0,neutral,107.0
+2016-07-11,Cowen,Not Provided,3.0,market perform,110.0
+2016-07-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-07-18,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-07-18,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2016-07-18,Buckingham Research Group,Not Provided,5.0,buy,114.0
+2016-07-18,Avondale Partners LLC,Not Provided,3.0,market perform,100.0
+2016-07-18,Cowen,Not Provided,3.0,market perform,110.0
+2016-07-21,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-07-29,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-29,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-07-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-29,Oppenheimer & Co,12 month,5.0,outperform,112.0
+2016-07-29,Barclays,Not Provided,3.0,equalweight,110.0
+2016-07-29,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-07-29,Bernstein,12 month,5.0,outperform,117.0
+2016-07-29,Avondale Partners LLC,12 month,3.0,market perform,115.0
+2016-07-29,Buckingham Research Group,12 month,5.0,buy,114.0
+2016-07-29,Stephens Inc,12 month,3.0,equalweight,110.0
+2016-07-29,Cowen,12 month,3.0,market perform,110.0
+2016-07-29,Baird,12 month,3.0,neutral,112.0
+2016-07-29,Credit Suisse,Not Provided,3.0,neutral,111.0
+2016-07-29,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-07-30,Macquarie,12 month,3.0,neutral,109.0
+2016-07-31,Oppenheimer & Co,12 month,5.0,outperform,116.0
+2016-07-31,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-01,Baird,Not Provided,3.0,neutral,112.0
+2016-08-01,Buckingham Research Group,12 month,5.0,buy,114.0
+2016-08-01,Susquehanna Financial,12 month,3.0,neutral,110.0
+2016-08-01,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-01,Cowen,Not Provided,3.0,market perform,110.0
+2016-08-01,Bernstein,12 month,5.0,outperform,116.0
+2016-08-01,Morgan Stanley,12 month,1.0,Underwt/In-Line,91.0
+2016-08-02,Argus Research Corp,Not Provided,5.0,buy,125.0
+2016-08-02,UBS,12 month,3.0,neutral,110.0
+2016-08-04,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-08-05,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-08-06,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-08-08,Cowen,Not Provided,3.0,market perform,110.0
+2016-08-08,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-08-08,Bernstein,Not Provided,5.0,outperform,116.0
+2016-08-08,Buckingham Research Group,Not Provided,5.0,buy,114.0
+2016-08-11,Accountability Research Corp,Not Provided,5.0,buy,120.0
+2016-08-11,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-08-12,Avondale Partners LLC,Not Provided,3.0,market perform,115.0
+2016-08-15,Cowen,Not Provided,3.0,market perform,110.0
+2016-08-15,Stephens Inc,12 month,3.0,equalweight,110.0
+2016-08-15,Bernstein,Not Provided,5.0,outperform,116.0
+2016-08-16,Baird,Not Provided,3.0,neutral,112.0
+2016-08-17,Buckingham Research Group,Not Provided,5.0,buy,114.0
+2016-08-18,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-08-19,Avondale Partners LLC,Not Provided,3.0,market perform,115.0
+2016-08-22,Buckingham Research Group,Not Provided,5.0,buy,114.0
+2016-08-22,Cowen,Not Provided,3.0,market perform,110.0
+2016-08-25,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-08-25,Baird,12 month,3.0,neutral,112.0
+2016-08-26,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-08-29,Stephens Inc,12 month,3.0,equalweight,110.0
+2016-09-01,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-09-01,Oppenheimer & Co,12 month,5.0,outperform,116.0
+2016-09-02,Baird,12 month,3.0,neutral,112.0
+2016-09-02,Cowen,Not Provided,3.0,market perform,110.0
+2016-09-02,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-09-02,Bernstein,Not Provided,5.0,outperform,116.0
+2016-09-07,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-09-12,Cowen,Not Provided,3.0,market perform,110.0
+2016-09-12,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-09-12,Barclays,Not Provided,3.0,equalweight,115.0
+2016-09-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-09-12,Stifel,Not Provided,3.0,hold,-0.0
+2016-09-16,Credit Suisse,Not Provided,3.0,neutral,111.0
+2016-09-16,Avondale Partners LLC,Not Provided,3.0,market perform,115.0
+2016-09-19,Cowen,Not Provided,3.0,market perform,110.0
+2016-09-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-19,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2016-09-19,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-09-21,Bernstein,12 month,5.0,outperform,116.0
+2016-09-21,Avondale Partners LLC,Not Provided,3.0,market perform,115.0
+2016-09-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-09-23,Baird,12 month,3.0,neutral,112.0
+2016-09-23,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-09-26,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-09-26,Cowen,Not Provided,3.0,market perform,110.0
+2016-09-27,Baird,12 month,3.0,neutral,112.0
+2016-09-30,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-09-30,Stephens Inc,12 month,3.0,equalweight,110.0
+2016-10-03,RBC Capital Markets,12 month,5.0,outperform,115.0
+2016-10-05,Bernstein,Not Provided,5.0,outperform,116.0
+2016-10-05,Baird,Not Provided,3.0,neutral,112.0
+2016-10-10,Stifel,Not Provided,3.0,hold,99.0
+2016-10-10,Cowen,Not Provided,3.0,market perform,110.0
+2016-10-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-16,Avondale Partners LLC,Not Provided,3.0,market perform,115.0
+2016-10-17,Cowen,Not Provided,3.0,market perform,110.0
+2016-10-19,Stifel,Not Provided,3.0,hold,99.0
+2016-10-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-21,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-10-24,Cowen,Not Provided,3.0,market perform,110.0
+2016-10-24,Avondale Partners LLC,Not Provided,3.0,market perform,115.0
+2016-10-27,Stifel,12 month,3.0,hold,100.0
+2016-10-27,Credit Suisse,Not Provided,3.0,neutral,113.0
+2016-10-27,Stephens Inc,12 month,3.0,equalweight,118.0
+2016-10-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-27,Barclays,Not Provided,3.0,equalweight,115.0
+2016-10-27,Cowen,12 month,3.0,market perform,110.0
+2016-10-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-28,Susquehanna Financial,12 month,3.0,neutral,110.0
+2016-10-28,Morgan Stanley,12 month,1.0,Underwt/In-Line,87.0
+2016-10-28,Bernstein,12 month,5.0,outperform,116.0
+2016-10-28,Avondale Partners LLC,12 month,3.0,market perform,115.0
+2016-10-28,Macquarie,12 month,3.0,neutral,109.0
+2016-10-31,Oppenheimer & Co,12 month,5.0,outperform,116.0
+2016-10-31,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-10-31,Baird,12 month,3.0,neutral,112.0
+2016-11-03,Bernstein,Not Provided,5.0,outperform,116.0
+2016-11-04,Accountability Research Corp,Not Provided,5.0,buy,120.0
+2016-11-07,Cowen,Not Provided,3.0,market perform,110.0
+2016-11-07,Baird,Not Provided,3.0,neutral,112.0
+2016-11-07,Avondale Partners LLC,Not Provided,3.0,market perform,115.0
+2016-11-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-11,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-11-14,Bernstein,Not Provided,5.0,outperform,116.0
+2016-11-14,Baird,Not Provided,3.0,neutral,112.0
+2016-11-14,Cowen,Not Provided,3.0,market perform,110.0
+2016-11-15,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2016-11-15,Daiwa Securities,Not Provided,3.0,neutral,113.0
+2016-11-17,BMO Capital Markets,Not Provided,5.0,outperform,125.0
+2016-11-18,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-11-21,Cowen,Not Provided,3.0,market perform,110.0
+2016-11-22,Bernstein,12 month,5.0,outperform,116.0
+2016-11-22,Baird,Not Provided,3.0,neutral,112.0
+2016-11-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-11-29,UBS,12 month,3.0,neutral,118.0
+2016-12-01,Baird,12 month,3.0,neutral,112.0
+2016-12-02,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-12-02,Bernstein,Not Provided,5.0,outperform,116.0
+2016-12-05,Cowen,Not Provided,3.0,market perform,110.0
+2016-12-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-06,Avondale Partners LLC,Not Provided,3.0,market perform,115.0
+2016-12-06,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2016-12-08,BMO Capital Markets,Not Provided,5.0,outperform,130.0
+2016-12-12,Cowen,Not Provided,3.0,market perform,110.0
+2016-12-13,J.P. Morgan,12 month,3.0,neutral,118.0
+2016-12-13,Morgan Stanley,12 month,1.0,Underwt/In-Line,87.0
+2016-12-16,Bernstein,12 month,5.0,outperform,135.0
+2016-12-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-12-19,Baird,Not Provided,3.0,neutral,112.0
+2016-12-19,Loop Capital Markets,12 month,3.0,hold,124.0
+2016-12-19,Cowen,Not Provided,3.0,market perform,110.0
+2016-12-21,Baird,Not Provided,3.0,neutral,112.0
+2016-12-21,Morgan Stanley,12 month,1.0,Underwt/In-Line,87.0
+2016-12-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-12-23,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2016-12-23,Bernstein,Not Provided,5.0,outperform,135.0
+2016-12-23,Aegis Capital Corp.,12 month,3.0,hold,120.0
+2016-12-27,Cowen,Not Provided,3.0,market perform,110.0
+2016-12-30,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-01-03,William Blair & Co,Not Provided,-2147483648.0,suspended coverage,-0.0
+2017-01-03,Avondale Partners LLC,12 month,3.0,market perform,115.0
+2017-01-04,Stephens Inc,Not Provided,3.0,equalweight,118.0
+2017-01-04,Baird,Not Provided,3.0,neutral,120.0
+2017-01-09,Barclays,Not Provided,3.0,equalweight,122.0
+2017-01-09,Cowen,Not Provided,3.0,market perform,110.0
+2017-01-10,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2017-01-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-10,Aegis Capital Corp.,12 month,3.0,hold,120.0
+2017-01-10,Bernstein,Not Provided,5.0,outperform,135.0
+2017-01-13,Baird,Not Provided,3.0,neutral,120.0
+2017-01-13,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-01-17,Cowen,Not Provided,3.0,market perform,110.0
+2017-01-17,Stifel,Not Provided,3.0,hold,100.0
+2017-01-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-01-22,Stifel,Not Provided,3.0,hold,100.0
+2017-01-23,Cowen,Not Provided,3.0,market perform,115.0
+2017-01-24,Bernstein,Not Provided,5.0,outperform,135.0
+2017-01-24,Avondale Partners LLC,12 month,3.0,market perform,115.0
+2017-01-24,Baird,Not Provided,3.0,neutral,120.0
+2017-01-27,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-01-31,Oppenheimer & Co,12 month,5.0,outperform,116.0
+2017-01-31,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-31,Daiwa Securities,12 month,3.0,neutral,115.0
+2017-01-31,Susquehanna Financial,12 month,3.0,neutral,117.0
+2017-01-31,Stifel,12 month,3.0,hold,100.0
+2017-01-31,Credit Suisse,Not Provided,3.0,neutral,110.0
+2017-01-31,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2017-02-01,Avondale Partners LLC,12 month,3.0,market perform,115.0
+2017-02-01,Stephens Inc,12 month,3.0,equalweight,115.0
+2017-02-01,Morgan Stanley,12 month,1.0,Underwt/In-Line,85.0
+2017-02-01,Cowen,12 month,3.0,market perform,115.0
+2017-02-01,Baird,12 month,3.0,neutral,118.0
+2017-02-01,UBS,12 month,3.0,neutral,116.0
+2017-02-01,Barclays,Not Provided,3.0,equalweight,115.0
+2017-02-01,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2017-02-01,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-01,Argus Research Corp,Not Provided,5.0,buy,125.0
+2017-02-01,J.P. Morgan,12 month,3.0,neutral,116.0
+2017-02-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-03,Bernstein,Not Provided,5.0,outperform,132.0
+2017-02-03,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-02-06,Baird,Not Provided,3.0,neutral,118.0
+2017-02-06,Cowen,Not Provided,3.0,market perform,115.0
+2017-02-06,Loop Capital Markets,12 month,3.0,hold,116.0
+2017-02-07,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2017-02-08,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-08,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-08,Aegis Capital Corp.,12 month,5.0,buy,120.0
+2017-02-09,Accountability Research Corp,Not Provided,5.0,buy,120.0
+2017-02-10,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-10,Oppenheimer & Co,12 month,5.0,outperform,116.0
+2017-02-12,Stifel,Not Provided,3.0,hold,100.0
+2017-02-17,Barclays,Not Provided,3.0,equalweight,115.0
+2017-02-17,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-02-17,Stephens Inc,12 month,3.0,equalweight,115.0
+2017-02-17,J.P. Morgan,12 month,3.0,neutral,116.0
+2017-02-17,Bernstein,12 month,5.0,outperform,132.0
+2017-02-17,Cowen,12 month,3.0,market perform,115.0
+2017-02-17,Baird,Not Provided,3.0,neutral,118.0
+2017-02-21,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2017-02-21,Stephens Inc,12 month,3.0,equalweight,115.0
+2017-02-22,Bernstein,12 month,5.0,outperform,127.0
+2017-02-22,Susquehanna Financial,12 month,3.0,neutral,117.0
+2017-02-22,Baird,12 month,3.0,neutral,118.0
+2017-02-22,Oppenheimer & Co,12 month,5.0,outperform,116.0
+2017-02-22,Morgan Stanley,12 month,1.0,Underwt/In-Line,77.0
+2017-02-22,Credit Suisse,Not Provided,3.0,neutral,109.0
+2017-02-22,Aegis Capital Corp.,12 month,5.0,buy,120.0
+2017-02-22,Loop Capital Markets,12 month,3.0,hold,116.0
+2017-02-22,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-23,Avondale Partners LLC,Not Provided,3.0,market perform,115.0
+2017-02-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-02-27,Cowen,Not Provided,3.0,market perform,115.0
+2017-02-28,Baird,Not Provided,3.0,neutral,118.0
+2017-02-28,Susquehanna Financial,Not Provided,3.0,neutral,-0.0
+2017-03-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-01,Bernstein,Not Provided,5.0,outperform,127.0
+2017-03-02,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2017-03-03,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-03-06,Credit Suisse,Not Provided,3.0,neutral,111.0
+2017-03-06,Cowen,Not Provided,3.0,market perform,115.0
+2017-03-07,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-07,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2017-03-08,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-03-09,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-03-13,Cowen,Not Provided,3.0,market perform,115.0
+2017-03-13,Morgan Stanley,12 month,1.0,Underwt/In-Line,77.0
+2017-03-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-03-17,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-03-20,Cowen,Not Provided,3.0,market perform,115.0
+2017-03-21,Avondale Partners LLC,Not Provided,3.0,market perform,115.0
+2017-03-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-03-22,Morgan Stanley,12 month,1.0,Underwt/In-Line,77.0
+2017-03-24,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-03-27,Cowen,Not Provided,3.0,market perform,115.0
+2017-03-27,Baird,Not Provided,3.0,neutral,118.0
+2017-03-31,Credit Suisse,Not Provided,3.0,neutral,108.0
+2017-03-31,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2017-03-31,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-04-03,Cowen,Not Provided,3.0,market perform,115.0
+2017-04-05,Baird,Not Provided,3.0,neutral,118.0
+2017-04-10,Cowen,Not Provided,3.0,market perform,115.0
+2017-04-10,J.P. Morgan,9 month,3.0,neutral,116.0
+2017-04-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-18,Cowen,Not Provided,3.0,market perform,115.0
+2017-04-21,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-04-24,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2017-04-24,Stifel,Not Provided,3.0,hold,100.0
+2017-04-25,Cowen,Not Provided,3.0,market perform,115.0
+2017-04-25,Baird,Not Provided,3.0,neutral,118.0
+2017-04-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-04-27,Barclays,Not Provided,3.0,equalweight,115.0
+2017-04-27,Credit Suisse,Not Provided,3.0,neutral,108.0
+2017-04-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-27,Aegis Capital Corp.,12 month,5.0,buy,124.0
+2017-04-27,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2017-04-27,Baird,12 month,3.0,neutral,118.0
+2017-04-28,Susquehanna Financial,12 month,3.0,neutral,117.0
+2017-04-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-28,Bernstein,12 month,5.0,outperform,127.0
+2017-04-28,UBS,12 month,3.0,neutral,117.0
+2017-04-28,Argus Research Corp,Not Provided,5.0,buy,125.0
+2017-04-28,Morgan Stanley,12 month,1.0,Underwt/In-Line,77.0
+2017-04-28,J.P. Morgan,9 month,3.0,neutral,114.0
+2017-04-28,Stephens Inc,Not Provided,3.0,equalweight,115.0
+2017-05-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-01,Stifel,Not Provided,3.0,hold,100.0
+2017-05-01,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-05-01,Cowen,Not Provided,3.0,market perform,115.0
+2017-05-01,Oppenheimer & Co,12 month,5.0,outperform,116.0
+2017-05-02,"Thompson, Davis & Co",Not Provided,5.0,buy,126.0
+2017-05-05,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-05-05,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-05-07,Baird,Not Provided,3.0,neutral,118.0
+2017-05-08,Accountability Research Corp,Not Provided,5.0,buy,120.0
+2017-05-08,J.P. Morgan,Not Provided,3.0,neutral,114.0
+2017-05-08,Cowen,Not Provided,3.0,market perform,115.0
+2017-05-10,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2017-05-12,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-05-15,Baird,Not Provided,3.0,neutral,118.0
+2017-05-15,Cowen,Not Provided,3.0,market perform,115.0
+2017-05-17,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-05-19,Oppenheimer & Co,12 month,5.0,outperform,116.0
+2017-05-19,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-05-22,Wolfe Research,Not Provided,3.0,peerperform,-0.0
+2017-05-22,Cowen,Not Provided,3.0,market perform,115.0
+2017-05-22,Stephens Inc,Not Provided,3.0,equalweight,115.0

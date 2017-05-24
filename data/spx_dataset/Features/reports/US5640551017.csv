@@ -1,0 +1,95 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2005-04-04,Stephens Inc,Not Provided,3.0,equalweight,-0.0
+2005-04-06,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2005-08-16,Soleil Securities,Not Provided,5.0,buy,47.0
+2005-08-18,UBS,Not Provided,5.0,buy 2,47.0
+2005-10-18,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2005-10-21,CIBC World Markets,Not Provided,3.0,sector perform,42.0
+2005-10-21,Lehman Brothers,Not Provided,3.0,equalwt/neutral,38.0
+2005-10-24,Jefferies,12 month,3.0,hold,40.0
+2005-10-24,FBR Capital Markets,Not Provided,5.0,outperform,45.0
+2005-10-25,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2005-10-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2005-12-01,Stifel,Not Provided,5.0,buy,42.0
+2006-01-18,Lehman Brothers,Not Provided,1.0,underwt/neutral,38.0
+2006-01-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-01-30,Stifel,Not Provided,5.0,buy,42.0
+2006-01-30,Jefferies,12 month,3.0,hold,40.0
+2006-01-30,FBR Capital Markets,Not Provided,5.0,outperform,45.0
+2006-01-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-02-14,UBS,Not Provided,5.0,buy 2,47.0
+2006-02-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-03-06,Stifel,Not Provided,5.0,buy,45.0
+2006-03-27,FBR Capital Markets,Not Provided,5.0,outperform,50.0
+2006-04-03,UBS,Not Provided,5.0,buy 2,54.0
+2006-04-19,CIBC World Markets,18 month,5.0,sector outperform,50.0
+2006-04-24,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-04-26,Stifel,Not Provided,5.0,buy,45.0
+2006-04-27,Lehman Brothers,Not Provided,1.0,underwt/neutral,40.0
+2006-04-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-04-27,FBR Capital Markets,Not Provided,5.0,outperform,53.0
+2006-04-27,Jefferies,Not Provided,5.0,buy,50.0
+2006-05-11,Stifel,Not Provided,5.0,buy,48.0
+2006-05-12,Lehman Brothers,Not Provided,1.0,underwt/neutral,44.0
+2006-06-05,UBS,Not Provided,5.0,buy 2,56.0
+2006-06-09,FBR Capital Markets,Not Provided,5.0,outperform,53.0
+2006-06-19,CIBC World Markets,18 month,5.0,sector outperform,53.0
+2006-07-14,FBR Capital Markets,Not Provided,5.0,outperform,53.0
+2006-07-31,FBR Capital Markets,Not Provided,5.0,outperform,56.0
+2006-07-31,Stifel,Not Provided,5.0,buy,54.0
+2006-07-31,UBS,Not Provided,5.0,buy 2,61.0
+2006-08-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-08-01,Jefferies,Not Provided,3.0,hold,50.0
+2006-08-07,CIBC World Markets,18 month,5.0,sector outperform,56.0
+2006-08-11,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2006-09-07,UBS,Not Provided,5.0,buy 2,63.0
+2006-10-05,UBS,Not Provided,5.0,buy 2,63.0
+2006-10-06,Bear Stearns & Co,Not Provided,1.0,underperform,53.0
+2006-10-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-10-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2006-10-26,Stifel,Not Provided,5.0,buy,54.0
+2006-10-26,Soleil Securities,Not Provided,5.0,buy,54.0
+2006-10-26,FBR Capital Markets,Not Provided,5.0,outperform,56.0
+2006-10-27,Jefferies,Not Provided,3.0,hold,50.0
+2006-11-09,UBS,Not Provided,5.0,buy 2,57.0
+2006-12-05,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2006-12-20,CIBC World Markets,18 month,5.0,sector outperform,56.0
+2007-01-03,FBR Capital Markets,Not Provided,5.0,outperform,56.0
+2007-01-16,Lehman Brothers,Not Provided,3.0,equalwt/neutral,58.0
+2007-01-16,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2007-01-24,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2007-01-26,Soleil Securities,Not Provided,5.0,buy,62.0
+2007-01-29,Jefferies,Not Provided,3.0,hold,55.5
+2007-01-29,UBS,Not Provided,5.0,buy 2,62.0
+2007-01-29,Stifel,Not Provided,5.0,buy,60.0
+2007-01-29,FBR Capital Markets,Not Provided,5.0,outperform,60.0
+2007-01-29,CIBC World Markets,18 month,5.0,sector outperform,58.0
+2007-02-06,CIBC World Markets,18 month,5.0,sector outperform,58.0
+2007-02-23,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-04-11,FBR Capital Markets,Not Provided,5.0,outperform,70.0
+2007-04-11,Lehman Brothers,Not Provided,3.0,equalwt/neutral,63.0
+2007-04-12,Bear Stearns & Co,Not Provided,3.0,peerperform,-0.0
+2007-04-12,Stifel,Not Provided,5.0,buy,70.0
+2007-04-12,Jefferies,Not Provided,3.0,hold,55.5
+2007-04-25,Soleil Securities,Not Provided,5.0,buy,69.0
+2007-04-25,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-04-25,FBR Capital Markets,Not Provided,5.0,outperform,75.0
+2007-04-26,Stifel,Not Provided,3.0,hold,-0.0
+2007-04-26,Jefferies,Not Provided,3.0,hold,58.0
+2007-04-26,Wells Fargo Securities,Not Provided,5.0,outperform,67.5
+2007-05-03,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2007-05-07,FBR Capital Markets,Not Provided,5.0,outperform,75.0
+2007-05-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-06-04,Soleil Securities,Not Provided,5.0,buy,69.0
+2007-06-29,Buckingham Research Group,Not Provided,3.0,neutral,-0.0
+2007-07-02,Lehman Brothers,Not Provided,3.0,equalwt/neutral,67.0
+2007-07-03,J.P. Morgan,Not Provided,-2147483648.0,restricted,-0.0
+2007-07-03,Wells Fargo Securities,Not Provided,3.0,market perform,65.5
+2007-07-03,Soleil Securities,Not Provided,3.0,hold,-0.0
+2007-07-03,FBR Capital Markets,Not Provided,5.0,outperform,71.0
+2007-07-09,CIBC World Markets,Not Provided,-2147483648.0,not rated,-0.0
+2007-07-27,Jefferies,Not Provided,3.0,hold,67.0
+2007-07-27,FBR Capital Markets,Not Provided,5.0,outperform,71.0
+2007-08-17,FBR Capital Markets,Not Provided,5.0,outperform,67.0
+2007-09-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2007-10-15,FBR Capital Markets,Not Provided,3.0,market perform,67.0

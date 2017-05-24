@@ -1,0 +1,107 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-06-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-08-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-08-16,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-08-16,Piper Jaffray,12 month,3.0,neutral,29.0
+2016-08-16,Consumer Edge Research,12 month,3.0,equalweight,27.0
+2016-08-31,J.P. Morgan,6 month,3.0,neutral,31.0
+2016-09-08,Berenberg,Not Provided,1.0,sell,23.0
+2016-09-16,RBC Capital Markets,12 month,3.0,sector perform,30.0
+2016-09-19,Barclays,Not Provided,3.0,equalweight,28.0
+2016-09-28,Stifel,Not Provided,5.0,buy,32.0
+2016-09-30,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2016-09-30,B Riley & Co,Not Provided,3.0,neutral,23.25
+2016-10-06,RBC Capital Markets,12 month,3.0,sector perform,30.0
+2016-10-07,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-10-13,B Riley & Co,Not Provided,3.0,neutral,23.25
+2016-10-16,Barclays,Not Provided,3.0,equalweight,28.0
+2016-10-17,Consumer Edge Research,12 month,3.0,equalweight,27.0
+2016-10-17,Piper Jaffray,12 month,3.0,neutral,29.0
+2016-10-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-10-17,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-10-17,Stifel,12 month,5.0,buy,32.0
+2016-10-18,Barclays,Not Provided,3.0,equalweight,28.0
+2016-10-19,B Riley & Co,Not Provided,3.0,neutral,23.5
+2016-10-21,RBC Capital Markets,12 month,3.0,sector perform,30.0
+2016-10-23,Stifel,12 month,5.0,buy,29.0
+2016-11-01,Morgan Stanley,12 month,3.0,Equalwt/In-Line,24.0
+2016-11-07,B Riley & Co,12 month,3.0,neutral,23.25
+2016-11-09,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-11-09,Consumer Edge Research,12 month,3.0,equalweight,27.0
+2016-11-09,Piper Jaffray,12 month,3.0,neutral,23.0
+2016-11-09,Stifel,12 month,5.0,buy,25.0
+2016-11-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-11-10,B Riley & Co,Not Provided,3.0,neutral,17.0
+2016-11-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,22.0
+2016-11-10,Barclays,Not Provided,3.0,equalweight,23.0
+2016-11-11,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2016-11-17,Berenberg,Not Provided,3.0,hold,18.0
+2016-11-22,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-12-03,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2016-12-09,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2016-12-15,BMO Capital Markets,Not Provided,5.0,outperform,24.0
+2016-12-16,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2017-01-04,Consumer Edge Research,12 month,3.0,equalweight,22.0
+2017-01-10,Barclays,Not Provided,3.0,equalweight,20.0
+2017-01-10,Piper Jaffray,12 month,3.0,neutral,23.0
+2017-01-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-01-10,Consumer Edge Research,12 month,3.0,equalweight,22.0
+2017-01-11,BMO Capital Markets,Not Provided,5.0,outperform,24.0
+2017-01-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-01-19,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2017-01-19,Renaissance Macro Research LLC,12 month,3.0,equalweight,20.0
+2017-01-19,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-01-26,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2017-02-02,B Riley & Co,Not Provided,3.0,neutral,17.0
+2017-02-09,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-02-09,Consumer Edge Research,12 month,3.0,equalweight,22.0
+2017-02-09,Piper Jaffray,12 month,3.0,neutral,19.0
+2017-02-09,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-02-09,BMO Capital Markets,Not Provided,5.0,outperform,24.0
+2017-02-10,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2017-02-10,Stifel,12 month,5.0,buy,25.0
+2017-02-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,22.0
+2017-02-10,Barclays,Not Provided,3.0,equalweight,18.0
+2017-02-10,B Riley & Co,12 month,3.0,neutral,18.5
+2017-02-16,Berenberg,Not Provided,3.0,hold,17.5
+2017-03-03,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2017-03-07,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-03-07,Consumer Edge Research,12 month,3.0,equalweight,21.0
+2017-03-07,Piper Jaffray,12 month,3.0,neutral,19.0
+2017-03-09,Barclays,Not Provided,3.0,equalweight,18.0
+2017-03-17,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2017-03-20,B Riley & Co,Not Provided,3.0,neutral,18.5
+2017-03-21,J.P. Morgan,9 month,1.0,underweight,16.0
+2017-03-31,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2017-04-03,BMO Capital Markets,Not Provided,5.0,outperform,24.0
+2017-04-03,Barclays,Not Provided,3.0,equalweight,18.0
+2017-04-03,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-03,Consumer Edge Research,12 month,3.0,equalweight,21.0
+2017-04-05,Consumer Edge Research,12 month,3.0,equalweight,21.0
+2017-04-07,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2017-04-07,B Riley & Co,Not Provided,3.0,neutral,18.5
+2017-04-18,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2017-04-19,J.P. Morgan,9 month,1.0,underweight,16.0
+2017-04-19,Consumer Edge Research,12 month,3.0,equalweight,21.0
+2017-04-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-21,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2017-04-23,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-04-23,Stifel,12 month,5.0,buy,25.0
+2017-04-28,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2017-05-10,Wells Fargo Securities,12 month,3.0,market perform,20.0
+2017-05-10,J.P. Morgan,9 month,1.0,underweight,16.0
+2017-05-10,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-05-10,Stifel,12 month,5.0,buy,25.0
+2017-05-10,BMO Capital Markets,Not Provided,5.0,outperform,24.0
+2017-05-10,Consumer Edge Research,12 month,3.0,equalweight,21.0
+2017-05-10,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2017-05-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,22.0
+2017-05-10,Barclays,Not Provided,3.0,equalweight,18.0
+2017-05-11,Consumer Edge Research,12 month,3.0,equalweight,21.0
+2017-05-12,BMO Capital Markets,Not Provided,5.0,outperform,24.0
+2017-05-12,RBC Capital Markets,12 month,3.0,sector perform,22.0
+2017-05-12,Barclays,Not Provided,3.0,equalweight,19.0
+2017-05-12,Berenberg,Not Provided,3.0,hold,17.5
+2017-05-18,Consumer Edge Research,12 month,3.0,equalweight,21.0
+2017-05-23,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0

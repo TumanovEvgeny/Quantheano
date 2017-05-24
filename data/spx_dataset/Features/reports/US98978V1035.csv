@@ -1,0 +1,907 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2013-02-01,Evercore ISI,Not Provided,5.0,buy,30.0
+2013-02-07,WhiteSand Research LLC,Not Provided,3.0,Fairly Valued,34.15
+2013-03-13,Goldman Sachs,12 month,3.0,neutral/attractive,33.0
+2013-04-30,Barclays,Not Provided,3.0,equalweight,35.0
+2013-04-30,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-04-30,J.P. Morgan,6 month,5.0,overweight,39.0
+2013-05-01,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-05-01,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-05-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-05-22,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-05-28,Jefferies,12 month,5.0,buy,40.0
+2013-06-03,BMO Capital Markets,Not Provided,3.0,market perform,34.0
+2013-06-13,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-06-18,CL King & Associates,12 month,5.0,strong buy,41.0
+2013-06-20,Spin-Off Research,Not Provided,3.0,neutral,33.0
+2013-06-25,Hilliard Lyons,12 month,5.0,buy,36.0
+2013-06-27,BMO Capital Markets,Not Provided,5.0,outperform,36.0
+2013-06-27,Argus Research Corp,12 month,5.0,buy,38.0
+2013-06-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-07-02,Spin-Off Research,Not Provided,3.0,neutral,33.0
+2013-07-08,J.P. Morgan,3 month,5.0,overweight,39.0
+2013-07-08,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-07-12,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-07-12,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-07-12,Jefferies,12 month,5.0,buy,39.0
+2013-07-15,CL King & Associates,12 month,5.0,strong buy,41.0
+2013-07-15,J.P. Morgan,3 month,5.0,overweight,39.0
+2013-07-17,Argus Research Corp,12 month,5.0,buy,38.0
+2013-07-22,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-07-24,BMO Capital Markets,Not Provided,5.0,outperform,36.0
+2013-07-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-07-31,CL King & Associates,12 month,5.0,strong buy,41.0
+2013-08-06,Barclays,Not Provided,3.0,equalweight,35.0
+2013-08-06,S&P Capital IQ,12 month,5.0,buy,36.0
+2013-08-06,Hilliard Lyons,12 month,5.0,buy,36.0
+2013-08-06,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-08-06,Jefferies,12 month,5.0,buy,38.0
+2013-08-06,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-08-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-08-06,J.P. Morgan,15 month,5.0,overweight,39.0
+2013-08-06,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-08-06,CL King & Associates,12 month,5.0,strong buy,41.0
+2013-08-06,BMO Capital Markets,Not Provided,5.0,outperform,36.0
+2013-08-07,Spin-Off Research,Not Provided,3.0,neutral,33.0
+2013-08-07,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-08-09,BMO Capital Markets,Not Provided,5.0,outperform,36.0
+2013-08-19,CL King & Associates,12 month,5.0,strong buy,41.0
+2013-09-06,BMO Capital Markets,Not Provided,5.0,outperform,36.0
+2013-09-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-09-06,WhiteSand Research LLC,Not Provided,4.0,undervalued,43.84
+2013-09-09,J.P. Morgan,12 month,5.0,overweight,39.0
+2013-09-09,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-09-10,Argus Research Corp,Not Provided,5.0,buy,38.0
+2013-09-10,Jefferies,12 month,5.0,buy,37.0
+2013-09-12,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-09-13,WhiteSand Research LLC,24 month,4.0,undervalued,43.84
+2013-09-16,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-09-18,CL King & Associates,12 month,5.0,strong buy,41.0
+2013-10-02,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-10-03,BMO Capital Markets,Not Provided,5.0,outperform,36.0
+2013-10-04,Morgan Stanley,12 month,5.0,Overwt/In-Line,36.0
+2013-10-09,BMO Capital Markets,Not Provided,5.0,outperform,38.0
+2013-10-10,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-10-10,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-10-11,Jefferies,12 month,5.0,buy,37.0
+2013-10-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-10-11,BMO Capital Markets,Not Provided,5.0,outperform,38.0
+2013-10-14,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-10-14,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-10-18,Barclays,Not Provided,3.0,equalweight,35.0
+2013-10-22,Evercore ISI,Not Provided,5.0,buy,30.0
+2013-10-22,CL King & Associates,12 month,5.0,strong buy,41.0
+2013-10-22,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-10-23,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-10-28,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-10-31,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-11-05,Hilliard Lyons,12 month,5.0,buy,36.0
+2013-11-05,Goldman Sachs,12 month,3.0,neutral/attractive,34.0
+2013-11-05,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-11-05,CL King & Associates,12 month,5.0,strong buy,41.0
+2013-11-05,Jefferies,12 month,5.0,buy,37.0
+2013-11-05,Barclays,Not Provided,3.0,equalweight,35.0
+2013-11-05,J.P. Morgan,12 month,5.0,overweight,39.0
+2013-11-06,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-11-06,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-11-06,Morgan Stanley,12 month,5.0,Overwt/In-Line,36.0
+2013-11-06,BMO Capital Markets,Not Provided,5.0,outperform,38.0
+2013-11-08,Spin-Off Research,Not Provided,3.0,neutral,33.0
+2013-11-08,Jefferies,12 month,5.0,buy,40.0
+2013-11-11,BMO Capital Markets,Not Provided,5.0,outperform,38.0
+2013-11-12,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-11-18,CL King & Associates,12 month,5.0,strong buy,41.0
+2013-11-18,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-11-22,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-11-25,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-11-26,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-11-27,Argus Research Corp,Not Provided,5.0,buy,38.0
+2013-12-03,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-12-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-12-11,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-12-12,Jefferies,12 month,5.0,buy,41.0
+2013-12-12,Guggenheim Securities,12 month,5.0,buy,40.0
+2013-12-12,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-12-13,BMO Capital Markets,Not Provided,5.0,outperform,38.0
+2013-12-16,Piper Jaffray,12 month,5.0,overweight,39.0
+2013-12-19,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-12-23,Piper Jaffray,12 month,5.0,overweight,39.0
+2014-01-03,J.P. Morgan,9 month,5.0,overweight,39.0
+2014-01-08,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-01-09,Jefferies,12 month,5.0,buy,40.0
+2014-01-10,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-01-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-01-17,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-01-21,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-01-22,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-01-22,Piper Jaffray,12 month,5.0,overweight,39.0
+2014-01-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-01-23,Barclays,Not Provided,3.0,equalweight,35.0
+2014-01-27,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-01-27,Piper Jaffray,12 month,5.0,overweight,39.0
+2014-01-28,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-02-03,Piper Jaffray,12 month,5.0,overweight,39.0
+2014-02-03,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-02-05,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-02-11,Hilliard Lyons,12 month,5.0,buy,36.0
+2014-02-11,J.P. Morgan,9 month,5.0,overweight,39.0
+2014-02-11,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-02-11,BMO Capital Markets,Not Provided,5.0,outperform,34.0
+2014-02-11,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-02-11,Goldman Sachs,12 month,3.0,neutral/attractive,29.0
+2014-02-12,Barclays,Not Provided,3.0,equalweight,35.0
+2014-02-12,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-02-12,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-02-12,Jefferies,12 month,5.0,buy,38.0
+2014-02-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-02-12,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-02-13,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-02-14,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-02-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-02-19,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-02-19,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-02-23,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-02-24,Jefferies,12 month,5.0,buy,37.0
+2014-02-25,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-02-27,BMO Capital Markets,Not Provided,5.0,outperform,34.0
+2014-03-04,Evercore ISI,Not Provided,5.0,buy,34.0
+2014-03-04,Goldman Sachs,12 month,3.0,neutral/attractive,31.0
+2014-03-06,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-03-10,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-03-11,Argus Research Corp,Not Provided,5.0,buy,38.0
+2014-03-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-03-12,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-03-14,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-03-17,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-03-19,Jefferies,12 month,5.0,buy,35.0
+2014-03-20,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-03-23,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-03-27,Jefferies,12 month,5.0,buy,35.0
+2014-03-27,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-03-31,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-04-02,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-04-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-09,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-04-09,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-04-10,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-04-14,Jefferies,12 month,5.0,buy,34.0
+2014-04-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-15,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-04-15,J.P. Morgan,6 month,5.0,overweight,39.0
+2014-04-16,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-04-17,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-04-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-04-22,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-04-22,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-04-23,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-04-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-04-25,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-04-28,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-04-29,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-04-29,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-04-30,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-05-02,BMO Capital Markets,Not Provided,5.0,outperform,35.0
+2014-05-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-05-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-05-06,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-05-06,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-05-07,Morgan Stanley,12 month,1.0,Underwt/In-Line,32.0
+2014-05-07,Hilliard Lyons,12 month,5.0,buy,36.0
+2014-05-07,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-05-07,J.P. Morgan,3 month,5.0,overweight,39.0
+2014-05-07,Barclays,Not Provided,3.0,equalweight,35.0
+2014-05-07,Jefferies,Not Provided,5.0,buy,36.0
+2014-05-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-07,BMO Capital Markets,Not Provided,5.0,outperform,35.0
+2014-05-09,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-05-16,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-05-20,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-05-21,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-05-23,Argus Research Corp,Not Provided,5.0,buy,38.0
+2014-05-23,BMO Capital Markets,Not Provided,5.0,outperform,35.0
+2014-05-27,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-05-30,Jefferies,12 month,5.0,buy,36.0
+2014-06-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-06-09,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-06-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-06-11,Jefferies,Not Provided,5.0,buy,37.0
+2014-06-11,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-06-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-06-16,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-06-17,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-06-19,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2014-06-22,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-06-23,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-06-23,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-06-25,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-06-30,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-06-30,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-07-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-07-11,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-07-14,Jefferies,Not Provided,5.0,buy,38.0
+2014-07-15,Piper Jaffray,12 month,5.0,overweight,36.0
+2014-07-18,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-07-22,Goldman Sachs,12 month,3.0,neutral/attractive,33.0
+2014-07-22,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-07-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-07-29,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-08-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-08-05,Hilliard Lyons,12 month,5.0,buy,36.0
+2014-08-05,J.P. Morgan,3 month,5.0,overweight,39.0
+2014-08-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-08-05,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-08-05,Morgan Stanley,12 month,1.0,Underwt/In-Line,32.0
+2014-08-05,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-08-05,Piper Jaffray,12 month,5.0,overweight,37.0
+2014-08-05,Barclays,Not Provided,3.0,equalweight,35.0
+2014-08-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-08-05,BMO Capital Markets,Not Provided,5.0,outperform,37.0
+2014-08-05,Jefferies,12 month,5.0,buy,38.0
+2014-08-06,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-08-06,BMO Capital Markets,Not Provided,5.0,outperform,36.0
+2014-08-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-08-11,Jefferies,Not Provided,5.0,buy,37.0
+2014-08-12,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-08-13,Barclays,Not Provided,3.0,equalweight,35.0
+2014-08-14,Piper Jaffray,12 month,5.0,overweight,37.0
+2014-08-15,Morgan Stanley,12 month,1.0,Underwt/In-Line,32.0
+2014-08-18,J.P. Morgan,Not Provided,5.0,overweight,39.0
+2014-08-19,Evercore ISI,Not Provided,5.0,buy,37.0
+2014-08-19,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-08-22,Piper Jaffray,12 month,5.0,overweight,37.0
+2014-08-22,Jefferies,12 month,5.0,buy,37.0
+2014-08-26,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-09-03,BMO Capital Markets,Not Provided,5.0,outperform,39.0
+2014-09-03,Barclays,Not Provided,3.0,equalweight,35.0
+2014-09-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-09-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-09-03,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-09-03,Piper Jaffray,12 month,5.0,overweight,37.0
+2014-09-03,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-09-08,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-09-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-10,Hilliard Lyons,36 month,5.0,long-term buy,42.0
+2014-09-10,Argus Research Corp,Not Provided,5.0,buy,41.0
+2014-09-10,Piper Jaffray,12 month,5.0,overweight,42.0
+2014-09-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-15,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-09-15,Jefferies,Not Provided,5.0,buy,42.0
+2014-09-18,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-09-22,CL King & Associates,12 month,5.0,strong buy,41.0
+2014-09-23,Piper Jaffray,12 month,5.0,overweight,42.0
+2014-09-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-09-29,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-10-10,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-10-12,Goldman Sachs,12 month,3.0,neutral/attractive,37.0
+2014-10-13,Evercore ISI,Not Provided,5.0,buy,37.0
+2014-10-13,Jefferies,Not Provided,5.0,buy,44.0
+2014-10-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-14,J.P. Morgan,Not Provided,5.0,overweight,41.0
+2014-10-14,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-10-16,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-10-21,Piper Jaffray,12 month,5.0,overweight,42.0
+2014-10-27,Piper Jaffray,12 month,5.0,overweight,42.0
+2014-10-28,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-10-28,Guggenheim Securities,12 month,5.0,buy,40.0
+2014-11-04,Hilliard Lyons,36 month,5.0,long-term buy,44.0
+2014-11-04,J.P. Morgan,18 month,5.0,overweight,41.0
+2014-11-04,Barclays,Not Provided,3.0,equalweight,38.0
+2014-11-04,BMO Capital Markets,Not Provided,5.0,outperform,44.0
+2014-11-04,Piper Jaffray,12 month,5.0,overweight,43.0
+2014-11-04,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-11-04,Guggenheim Securities,12 month,5.0,buy,45.0
+2014-11-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-11-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-11-04,Morgan Stanley,12 month,1.0,Underwt/In-Line,32.0
+2014-11-05,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-11-05,Goldman Sachs,12 month,3.0,neutral/attractive,38.0
+2014-11-05,Jefferies,12 month,5.0,buy,44.0
+2014-11-10,Jefferies,Not Provided,5.0,buy,46.0
+2014-11-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-11-11,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-11-11,Piper Jaffray,12 month,5.0,overweight,43.0
+2014-11-12,Evercore ISI,Not Provided,5.0,buy,37.0
+2014-11-12,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2014-11-12,Guggenheim Securities,12 month,5.0,buy,45.0
+2014-11-12,BMO Capital Markets,Not Provided,5.0,outperform,49.0
+2014-11-12,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-11-13,Jefferies,12 month,5.0,buy,46.0
+2014-11-18,Argus Research Corp,Not Provided,5.0,buy,50.0
+2014-11-19,J.P. Morgan,18 month,5.0,overweight,48.0
+2014-11-19,Goldman Sachs,12 month,3.0,neutral/attractive,40.0
+2014-11-19,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2014-11-19,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2014-11-19,Guggenheim Securities,12 month,5.0,buy,55.0
+2014-11-19,Barclays,Not Provided,3.0,equalweight,38.0
+2014-11-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2014-11-19,Piper Jaffray,12 month,5.0,overweight,50.0
+2014-11-20,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-11-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-24,Guggenheim Securities,12 month,5.0,buy,55.0
+2014-11-24,Piper Jaffray,12 month,5.0,overweight,50.0
+2014-11-26,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-11-26,Jefferies,12 month,5.0,buy,53.0
+2014-12-02,Piper Jaffray,12 month,5.0,overweight,50.0
+2014-12-03,Evercore ISI,Not Provided,5.0,buy,46.0
+2014-12-03,Guggenheim Securities,12 month,5.0,buy,55.0
+2014-12-04,Jefferies,12 month,5.0,buy,53.0
+2014-12-04,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2014-12-10,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-12-10,Guggenheim Securities,Not Provided,5.0,buy,55.0
+2014-12-11,Cowen,12 month,3.0,market perform,47.0
+2014-12-18,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-12-18,Guggenheim Securities,12 month,5.0,buy,55.0
+2014-12-22,Piper Jaffray,12 month,5.0,overweight,50.0
+2014-12-26,Argus Research Corp,Not Provided,5.0,buy,50.0
+2014-12-26,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-01-05,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-01-07,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2015-01-12,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-01-13,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-01-15,Cowen,Not Provided,3.0,market perform,47.0
+2015-01-20,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-01-21,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-01-22,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-01-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-01-25,Piper Jaffray,12 month,5.0,overweight,50.0
+2015-01-28,Piper Jaffray,12 month,5.0,overweight,50.0
+2015-01-30,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-02-04,Piper Jaffray,12 month,5.0,overweight,50.0
+2015-02-09,BMO Capital Markets,Not Provided,5.0,outperform,50.0
+2015-02-09,Evercore ISI,12 month,5.0,buy,46.0
+2015-02-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2015-02-10,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-02-10,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-02-10,Barclays,Not Provided,3.0,equalweight,38.0
+2015-02-11,Cowen,12 month,3.0,market perform,47.0
+2015-02-11,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-02-11,Piper Jaffray,12 month,5.0,overweight,50.0
+2015-02-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-02-11,Goldman Sachs,12 month,3.0,neutral/attractive,43.0
+2015-02-11,Jefferies,12 month,5.0,buy,53.0
+2015-02-11,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2015-02-11,BMO Capital Markets,Not Provided,5.0,outperform,51.0
+2015-02-11,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-02-12,Barclays,Not Provided,3.0,equalweight,41.0
+2015-02-13,J.P. Morgan,9 month,3.0,neutral,48.0
+2015-02-17,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-02-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-18,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-02-19,Argus Research Corp,Not Provided,5.0,buy,54.0
+2015-02-20,Jefferies,Not Provided,5.0,buy,53.0
+2015-02-22,Piper Jaffray,12 month,5.0,overweight,54.0
+2015-02-26,Cowen,12 month,3.0,market perform,47.0
+2015-03-03,Evercore ISI,Not Provided,5.0,buy,51.0
+2015-03-04,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-03-04,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-03-04,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-03-09,Cowen,12 month,3.0,market perform,47.0
+2015-03-09,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-03-09,Evercore ISI,Not Provided,5.0,buy,51.0
+2015-03-10,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-03-10,Jefferies,Not Provided,5.0,buy,53.0
+2015-03-12,Guggenheim Securities,Not Provided,5.0,buy,55.0
+2015-03-16,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-03-16,Piper Jaffray,12 month,5.0,overweight,54.0
+2015-03-19,Jefferies,Not Provided,5.0,buy,53.0
+2015-03-23,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-03-27,Jefferies,12 month,5.0,buy,53.0
+2015-03-31,Guggenheim Securities,Not Provided,5.0,buy,55.0
+2015-04-09,Guggenheim Securities,Not Provided,5.0,buy,55.0
+2015-04-09,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-04-13,Jefferies,Not Provided,5.0,buy,55.0
+2015-04-13,Cowen,Not Provided,3.0,market perform,47.0
+2015-04-14,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-04-17,J.P. Morgan,Not Provided,3.0,neutral,48.0
+2015-04-20,Cowen,Not Provided,3.0,market perform,47.0
+2015-04-23,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-04-23,Jefferies,Not Provided,5.0,buy,55.0
+2015-04-27,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-04-29,Evercore ISI,12 month,5.0,buy,51.0
+2015-04-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-30,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-04-30,Jefferies,Not Provided,5.0,buy,55.0
+2015-05-05,Cowen,12 month,3.0,market perform,47.0
+2015-05-05,Jefferies,12 month,5.0,buy,55.0
+2015-05-05,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-05-05,Evercore ISI,12 month,5.0,buy,51.0
+2015-05-05,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-05-05,Goldman Sachs,12 month,3.0,neutral/attractive,47.0
+2015-05-05,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-05-05,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-05-05,J.P. Morgan,9 month,3.0,neutral,50.0
+2015-05-06,BMO Capital Markets,Not Provided,5.0,outperform,51.0
+2015-05-06,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2015-05-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-06,Barclays,Not Provided,3.0,equalweight,45.0
+2015-05-06,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-05-11,BMO Capital Markets,Not Provided,5.0,outperform,51.0
+2015-05-11,Cowen,Not Provided,3.0,market perform,47.0
+2015-05-12,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-05-12,Jefferies,12 month,5.0,buy,55.0
+2015-05-13,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-05-14,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-05-14,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-05-18,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-05-20,Guggenheim Securities,12 month,5.0,buy,55.0
+2015-05-21,Jefferies,Not Provided,5.0,buy,60.0
+2015-05-21,BMO Capital Markets,Not Provided,5.0,outperform,51.0
+2015-05-27,Cowen,Not Provided,3.0,market perform,50.0
+2015-05-28,Evercore ISI,12 month,5.0,buy,53.0
+2015-05-29,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-06-01,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-06-02,BMO Capital Markets,Not Provided,5.0,outperform,51.0
+2015-06-03,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-06-03,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-06-04,Argus Research Corp,Not Provided,5.0,buy,57.0
+2015-06-05,Cowen,Not Provided,3.0,market perform,50.0
+2015-06-12,Argus Research Corp,Not Provided,5.0,buy,57.0
+2015-06-12,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-06-12,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-06-15,Cowen,Not Provided,3.0,market perform,50.0
+2015-06-16,Jefferies,Not Provided,5.0,buy,60.0
+2015-06-19,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-06-22,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-06-22,Cowen,Not Provided,3.0,market perform,50.0
+2015-06-25,J.P. Morgan,6 month,3.0,neutral,50.0
+2015-06-25,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-06-26,BMO Capital Markets,Not Provided,3.0,market perform,57.0
+2015-06-26,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-06-26,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-06-26,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-06-28,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-07-02,Jefferies,12 month,5.0,buy,60.0
+2015-07-10,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-07-13,Jefferies,Not Provided,5.0,buy,60.0
+2015-07-13,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-07-14,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-07-15,J.P. Morgan,6 month,3.0,neutral,50.0
+2015-07-20,Jefferies,12 month,5.0,buy,60.0
+2015-07-20,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-07-20,Cowen,Not Provided,3.0,market perform,50.0
+2015-07-21,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-07-23,BMO Capital Markets,Not Provided,3.0,market perform,55.0
+2015-07-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-07-24,Cowen,Not Provided,3.0,market perform,50.0
+2015-07-27,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-07-27,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-07-30,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-08-03,Cowen,Not Provided,3.0,market perform,50.0
+2015-08-04,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-08-04,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-08-05,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-08-05,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-08-05,J.P. Morgan,6 month,3.0,neutral,50.0
+2015-08-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2015-08-05,Barclays,Not Provided,3.0,equalweight,45.0
+2015-08-05,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-08-05,BMO Capital Markets,Not Provided,3.0,market perform,53.0
+2015-08-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-08-07,Jefferies,Not Provided,5.0,buy,57.0
+2015-08-10,Cowen,Not Provided,3.0,market perform,50.0
+2015-08-12,Piper Jaffray,Not Provided,5.0,overweight,55.0
+2015-08-12,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-08-14,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-08-17,Evercore ISI,Not Provided,5.0,buy,54.0
+2015-08-18,Jefferies,12 month,5.0,buy,57.0
+2015-08-21,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-08-26,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-08-26,J.P. Morgan,6 month,3.0,neutral,50.0
+2015-08-28,Cowen,Not Provided,3.0,market perform,50.0
+2015-09-04,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-09-04,Cowen,Not Provided,3.0,market perform,50.0
+2015-09-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-09-10,Jefferies,Not Provided,5.0,buy,57.0
+2015-09-11,BMO Capital Markets,Not Provided,5.0,outperform,53.0
+2015-09-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-09-11,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-09-14,Cowen,Not Provided,3.0,market perform,50.0
+2015-09-16,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-09-21,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-09-21,Morgan Stanley,12 month,3.0,Equalwt/In-Line,48.0
+2015-09-23,Cowen,Not Provided,3.0,market perform,50.0
+2015-09-28,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-09-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-09-30,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-09-30,J.P. Morgan,18 month,3.0,neutral,50.0
+2015-09-30,Cowen,Not Provided,3.0,market perform,50.0
+2015-09-30,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-10-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,46.0
+2015-10-09,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-10-09,Cowen,Not Provided,3.0,market perform,50.0
+2015-10-12,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-10-12,Jefferies,Not Provided,5.0,buy,53.0
+2015-10-14,Cowen,Not Provided,3.0,market perform,50.0
+2015-10-15,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-10-16,Argus Research Corp,Not Provided,5.0,buy,57.0
+2015-10-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-10-21,Cowen,Not Provided,3.0,market perform,50.0
+2015-10-25,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-10-27,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-11-03,J.P. Morgan,18 month,3.0,neutral,50.0
+2015-11-03,Goldman Sachs,12 month,3.0,neutral/attractive,48.0
+2015-11-03,Evercore ISI,12 month,5.0,buy,54.0
+2015-11-03,BMO Capital Markets,Not Provided,5.0,outperform,53.0
+2015-11-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-11-03,Jefferies,12 month,5.0,buy,53.0
+2015-11-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,46.0
+2015-11-03,Cowen,12 month,3.0,market perform,50.0
+2015-11-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-03,Piper Jaffray,12 month,5.0,overweight,55.0
+2015-11-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-11-03,Barclays,Not Provided,3.0,equalweight,45.0
+2015-11-03,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-11-04,Piper Jaffray,12 month,5.0,overweight,58.0
+2015-11-04,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-11-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,46.0
+2015-11-04,Barclays,Not Provided,3.0,equalweight,45.0
+2015-11-04,BMO Capital Markets,Not Provided,5.0,outperform,54.0
+2015-11-06,Cowen,Not Provided,3.0,market perform,50.0
+2015-11-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-10,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-11-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-11-16,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-11-16,Cowen,Not Provided,3.0,market perform,50.0
+2015-11-18,Jefferies,12 month,5.0,buy,55.0
+2015-11-19,Cowen,12 month,3.0,market perform,50.0
+2015-11-22,Piper Jaffray,12 month,5.0,overweight,58.0
+2015-11-24,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-12-01,Shore Capital Stockbrokers,Not Provided,-2147483648.0,corporate,-0.0
+2015-12-01,Piper Jaffray,12 month,5.0,overweight,58.0
+2015-12-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-12-04,Cowen,Not Provided,3.0,market perform,50.0
+2015-12-07,Jefferies,12 month,5.0,buy,56.0
+2015-12-08,Piper Jaffray,12 month,5.0,overweight,58.0
+2015-12-09,Guggenheim Securities,12 month,5.0,buy,60.0
+2015-12-11,Evercore ISI,12 month,5.0,buy,54.0
+2015-12-14,Cowen,Not Provided,3.0,market perform,50.0
+2015-12-15,Piper Jaffray,12 month,5.0,overweight,58.0
+2015-12-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-12-22,Piper Jaffray,12 month,5.0,overweight,58.0
+2015-12-28,Argus Research Corp,Not Provided,5.0,buy,57.0
+2016-01-06,Shore Capital Stockbrokers,Not Provided,-2147483648.0,corporate,-0.0
+2016-01-08,BMO Capital Markets,Not Provided,5.0,outperform,54.0
+2016-01-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-01-08,Cowen,Not Provided,3.0,market perform,50.0
+2016-01-12,Piper Jaffray,12 month,5.0,overweight,58.0
+2016-01-12,Morgan Stanley,12 month,3.0,Equalwt/In-Line,46.0
+2016-01-12,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-01-12,Barclays,Not Provided,3.0,equalweight,45.0
+2016-01-12,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-01-13,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-01-14,Jefferies,Not Provided,5.0,buy,54.0
+2016-01-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-01-15,BMO Capital Markets,Not Provided,5.0,outperform,54.0
+2016-01-19,Evercore ISI,Not Provided,5.0,buy,54.0
+2016-01-20,Goldman Sachs,12 month,3.0,neutral/attractive,47.0
+2016-01-21,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-01-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-01-24,Piper Jaffray,12 month,5.0,overweight,58.0
+2016-01-25,Cowen,Not Provided,3.0,market perform,50.0
+2016-01-26,Cowen,Not Provided,3.0,market perform,50.0
+2016-01-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-01-31,Piper Jaffray,12 month,5.0,overweight,58.0
+2016-02-01,J.P. Morgan,12 month,3.0,neutral,50.0
+2016-02-03,Piper Jaffray,12 month,5.0,overweight,58.0
+2016-02-03,Credit Suisse,Not Provided,5.0,outperform,58.0
+2016-02-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-02-08,Evercore ISI,Not Provided,5.0,buy,52.0
+2016-02-08,BMO Capital Markets,Not Provided,5.0,outperform,54.0
+2016-02-08,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-02-08,Cowen,Not Provided,3.0,market perform,50.0
+2016-02-11,Evercore ISI,12 month,5.0,buy,52.0
+2016-02-16,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-02-16,Goldman Sachs,12 month,3.0,neutral/attractive,43.0
+2016-02-16,Cowen,12 month,3.0,market perform,50.0
+2016-02-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-02-16,Barclays,Not Provided,3.0,equalweight,45.0
+2016-02-16,Morgan Stanley,12 month,3.0,Equalwt/In-Line,46.0
+2016-02-16,BMO Capital Markets,Not Provided,5.0,outperform,54.0
+2016-02-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-02-16,Piper Jaffray,12 month,5.0,overweight,53.0
+2016-02-16,Credit Suisse,Not Provided,5.0,outperform,58.0
+2016-02-16,Jefferies,12 month,5.0,buy,54.0
+2016-02-16,J.P. Morgan,9 month,3.0,neutral,50.0
+2016-02-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,46.0
+2016-02-17,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-02-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-02-21,Piper Jaffray,12 month,5.0,overweight,53.0
+2016-02-22,Jefferies,12 month,5.0,buy,50.0
+2016-02-22,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-02-22,Credit Suisse,Not Provided,5.0,outperform,58.0
+2016-02-22,BMO Capital Markets,Not Provided,5.0,outperform,54.0
+2016-02-25,Credit Suisse,Not Provided,5.0,outperform,58.0
+2016-02-25,Piper Jaffray,12 month,5.0,overweight,53.0
+2016-02-26,BMO Capital Markets,Not Provided,5.0,outperform,54.0
+2016-02-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-03-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-03-03,Piper Jaffray,12 month,5.0,overweight,53.0
+2016-03-03,Cowen,12 month,3.0,market perform,50.0
+2016-03-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-03-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-11,Barclays,Not Provided,3.0,equalweight,45.0
+2016-03-14,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-03-15,Jefferies,Not Provided,5.0,buy,53.0
+2016-03-17,Evercore ISI,Not Provided,5.0,buy,50.0
+2016-03-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-03-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-24,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-03-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-03-30,Credit Suisse,Not Provided,5.0,outperform,58.0
+2016-03-31,Argus Research Corp,Not Provided,5.0,buy,49.0
+2016-04-01,Jefferies,12 month,5.0,buy,53.0
+2016-04-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-11,Cowen,Not Provided,3.0,market perform,50.0
+2016-04-12,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-04-15,Cowen,Not Provided,3.0,market perform,50.0
+2016-04-15,J.P. Morgan,Not Provided,3.0,neutral,50.0
+2016-04-15,Jefferies,Not Provided,5.0,buy,57.0
+2016-04-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-19,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-04-20,BMO Capital Markets,Not Provided,5.0,outperform,54.0
+2016-04-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-22,Goldman Sachs,12 month,3.0,neutral/attractive,46.0
+2016-04-25,Cowen,Not Provided,3.0,market perform,50.0
+2016-04-27,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-05-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-04,BMO Capital Markets,Not Provided,5.0,outperform,55.0
+2016-05-04,Evercore ISI,12 month,5.0,buy,50.0
+2016-05-04,J.P. Morgan,9 month,3.0,neutral,50.0
+2016-05-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-04,Barclays,Not Provided,3.0,equalweight,45.0
+2016-05-04,Jefferies,12 month,5.0,buy,57.0
+2016-05-04,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-05-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,46.0
+2016-05-04,Credit Suisse,Not Provided,5.0,outperform,59.0
+2016-05-04,Cowen,12 month,3.0,market perform,50.0
+2016-05-05,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-05-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,49.0
+2016-05-05,Goldman Sachs,12 month,1.0,sell/attractive,48.0
+2016-05-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-05,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-05-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-09,Cowen,Not Provided,3.0,market perform,50.0
+2016-05-10,Credit Suisse,Not Provided,5.0,outperform,59.0
+2016-05-11,Jefferies,Not Provided,5.0,buy,57.0
+2016-05-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-19,Credit Suisse,Not Provided,5.0,outperform,59.0
+2016-05-19,BMO Capital Markets,Not Provided,5.0,outperform,55.0
+2016-05-19,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-05-20,Cowen,12 month,3.0,market perform,50.0
+2016-05-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-02,Stifel,12 month,5.0,buy,58.0
+2016-06-02,Cowen,Not Provided,3.0,market perform,50.0
+2016-06-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-06-09,Argus Research Corp,Not Provided,5.0,buy,54.0
+2016-06-14,Jefferies,Not Provided,5.0,buy,58.0
+2016-06-15,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-06-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-06-23,Cowen,Not Provided,3.0,market perform,50.0
+2016-06-24,Jefferies,12 month,5.0,buy,58.0
+2016-06-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-05,Guggenheim Securities,Not Provided,5.0,buy,-0.0
+2016-07-12,J.P. Morgan,6 month,3.0,neutral,50.0
+2016-07-13,Evercore ISI,12 month,5.0,buy,57.0
+2016-07-14,Guggenheim Securities,Not Provided,5.0,buy,-0.0
+2016-07-14,Jefferies,Not Provided,5.0,buy,58.0
+2016-07-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-18,Guggenheim Securities,Not Provided,5.0,buy,-0.0
+2016-07-20,Morgan Stanley,12 month,3.0,Equalwt/In-Line,49.0
+2016-07-22,Cowen,Not Provided,3.0,market perform,50.0
+2016-07-29,Guggenheim Securities,Not Provided,5.0,buy,-0.0
+2016-07-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-08-02,Evercore ISI,12 month,5.0,buy,57.0
+2016-08-03,Credit Suisse,Not Provided,5.0,outperform,60.0
+2016-08-03,J.P. Morgan,6 month,3.0,neutral,50.0
+2016-08-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,49.0
+2016-08-03,Stifel,12 month,5.0,buy,58.0
+2016-08-03,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-08-03,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-08-03,Cowen,12 month,3.0,market perform,50.0
+2016-08-03,BMO Capital Markets,Not Provided,5.0,outperform,58.0
+2016-08-04,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-08-04,Barclays,Not Provided,3.0,equalweight,49.0
+2016-08-04,Jefferies,12 month,5.0,buy,60.0
+2016-08-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-08-08,Credit Suisse,Not Provided,5.0,outperform,60.0
+2016-08-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-08-12,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-08-15,Evercore ISI,12 month,5.0,buy,59.0
+2016-08-15,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-08-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-08-22,Stifel,12 month,5.0,buy,58.0
+2016-08-22,BMO Capital Markets,Not Provided,5.0,outperform,58.0
+2016-08-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-08-22,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-08-22,Credit Suisse,Not Provided,5.0,outperform,60.0
+2016-08-23,Jefferies,12 month,5.0,buy,60.0
+2016-08-26,Cowen,Not Provided,3.0,market perform,50.0
+2016-09-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-09-07,Credit Suisse,Not Provided,5.0,outperform,60.0
+2016-09-09,Argus Research Corp,Not Provided,5.0,buy,58.0
+2016-09-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-09-12,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-09-12,Cowen,Not Provided,3.0,market perform,50.0
+2016-09-13,Jefferies,Not Provided,5.0,buy,60.0
+2016-09-15,Morgan Stanley,12 month,3.0,Equalwt/In-Line,49.0
+2016-09-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-09-20,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-09-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-09-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-27,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-09-28,Cowen,Not Provided,3.0,market perform,50.0
+2016-09-28,Stifel,Not Provided,5.0,buy,58.0
+2016-09-30,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-04,J.P. Morgan,18 month,3.0,neutral,53.0
+2016-10-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-10,Stifel,12 month,5.0,buy,58.0
+2016-10-13,Jefferies,Not Provided,5.0,buy,63.0
+2016-10-13,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-10-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-18,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-10-18,Cowen,Not Provided,3.0,market perform,50.0
+2016-10-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-10-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-21,J.P. Morgan,18 month,3.0,neutral,53.0
+2016-10-24,BMO Capital Markets,Not Provided,5.0,outperform,58.0
+2016-10-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-28,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-10-31,Stifel,12 month,5.0,buy,58.0
+2016-10-31,Evercore ISI,12 month,5.0,buy,59.0
+2016-11-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-11-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-02,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-11-02,Jefferies,12 month,5.0,buy,63.0
+2016-11-02,Credit Suisse,Not Provided,5.0,outperform,61.0
+2016-11-02,Evercore ISI,12 month,5.0,buy,59.0
+2016-11-02,Stifel,12 month,5.0,buy,58.0
+2016-11-02,Cowen,12 month,3.0,market perform,50.0
+2016-11-02,Morgan Stanley,12 month,3.0,Equalwt/In-Line,49.0
+2016-11-03,Barclays,Not Provided,3.0,equalweight,49.0
+2016-11-03,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-11-03,BMO Capital Markets,Not Provided,5.0,outperform,59.0
+2016-11-03,J.P. Morgan,18 month,3.0,neutral,53.0
+2016-11-03,Goldman Sachs,12 month,1.0,sell/attractive,52.0
+2016-11-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-11,Jefferies,Not Provided,5.0,buy,63.0
+2016-11-14,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-11-16,Evercore ISI,12 month,5.0,buy,62.0
+2016-11-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-12-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-12-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-12-06,Credit Suisse,Not Provided,5.0,outperform,61.0
+2016-12-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-12-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-12-09,Guggenheim Securities,12 month,5.0,buy,60.0
+2016-12-13,Cowen,Not Provided,3.0,market perform,50.0
+2016-12-14,Piper Jaffray,12 month,5.0,overweight,61.0
+2016-12-15,Cowen,12 month,5.0,outperform,60.0
+2016-12-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-12-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-12-19,Jefferies,Not Provided,5.0,buy,62.0
+2016-12-21,Argus Research Corp,Not Provided,5.0,buy,60.0
+2016-12-22,BMO Capital Markets,Not Provided,5.0,outperform,59.0
+2016-12-22,Credit Suisse,Not Provided,5.0,outperform,61.0
+2016-12-23,Guggenheim Securities,12 month,5.0,buy,60.0
+2017-01-03,Guggenheim Securities,Not Provided,5.0,buy,60.0
+2017-01-03,Credit Suisse,Not Provided,5.0,outperform,61.0
+2017-01-04,Stifel,12 month,5.0,buy,58.0
+2017-01-04,J.P. Morgan,12 month,3.0,neutral,53.0
+2017-01-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-11,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-01-12,Credit Suisse,Not Provided,5.0,outperform,61.0
+2017-01-12,Guggenheim Securities,Not Provided,5.0,buy,60.0
+2017-01-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-13,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-01-16,Stifel,12 month,5.0,buy,58.0
+2017-01-17,Guggenheim Securities,12 month,5.0,buy,60.0
+2017-01-20,Jefferies,Not Provided,5.0,buy,64.0
+2017-01-24,J.P. Morgan,12 month,3.0,neutral,53.0
+2017-01-24,Cowen,Not Provided,5.0,outperform,60.0
+2017-01-26,Guggenheim Securities,12 month,5.0,buy,60.0
+2017-01-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-30,Cowen,Not Provided,5.0,outperform,60.0
+2017-02-02,Guggenheim Securities,12 month,5.0,buy,60.0
+2017-02-02,Jefferies,12 month,5.0,buy,64.0
+2017-02-03,Piper Jaffray,12 month,5.0,overweight,61.0
+2017-02-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-06,Cowen,Not Provided,5.0,outperform,60.0
+2017-02-08,Stifel,12 month,5.0,buy,65.0
+2017-02-08,BMO Capital Markets,Not Provided,5.0,outperform,60.0
+2017-02-09,Guggenheim Securities,12 month,5.0,buy,60.0
+2017-02-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-16,Evercore ISI,12 month,5.0,buy,62.0
+2017-02-16,Morgan Stanley,12 month,3.0,Equalwt/In-Line,49.0
+2017-02-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-02-16,Cowen,12 month,5.0,outperform,60.0
+2017-02-16,Credit Suisse,Not Provided,5.0,outperform,61.0
+2017-02-16,Guggenheim Securities,12 month,5.0,buy,65.0
+2017-02-16,Stifel,12 month,5.0,buy,65.0
+2017-02-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-17,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-02-17,Barclays,Not Provided,3.0,equalweight,49.0
+2017-02-17,BMO Capital Markets,Not Provided,5.0,outperform,60.0
+2017-02-17,Jefferies,Not Provided,5.0,buy,65.0
+2017-02-17,Piper Jaffray,12 month,5.0,overweight,61.0
+2017-02-17,J.P. Morgan,12 month,3.0,neutral,53.0
+2017-02-21,Piper Jaffray,12 month,5.0,overweight,61.0
+2017-02-22,Jefferies,12 month,5.0,buy,65.0
+2017-02-23,Argus Research Corp,Not Provided,5.0,buy,60.0
+2017-02-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,56.0
+2017-02-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-01,Cowen,12 month,5.0,outperform,60.0
+2017-03-02,Evercore ISI,Not Provided,5.0,outperform,62.0
+2017-03-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-03-09,Jefferies,Not Provided,5.0,buy,65.0
+2017-03-09,Stifel,12 month,5.0,buy,65.0
+2017-03-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-13,Guggenheim Securities,12 month,5.0,buy,65.0
+2017-03-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-13,Cowen,Not Provided,5.0,outperform,60.0
+2017-03-14,Cowen,Not Provided,5.0,outperform,60.0
+2017-03-15,Craig-Hallum Capital Group LLC,12 month,5.0,buy,65.0
+2017-03-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-20,Argus Research Corp,Not Provided,5.0,buy,60.0
+2017-03-24,Craig-Hallum Capital Group LLC,12 month,5.0,buy,65.0
+2017-03-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-24,Barclays,Not Provided,3.0,equalweight,49.0
+2017-03-27,Guggenheim Securities,12 month,5.0,buy,65.0
+2017-03-27,Cowen,Not Provided,5.0,outperform,60.0
+2017-03-30,Guggenheim Securities,12 month,5.0,buy,65.0
+2017-03-30,BMO Capital Markets,Not Provided,5.0,outperform,60.0
+2017-03-31,Jefferies,Not Provided,5.0,buy,65.0
+2017-03-31,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-03-31,Cowen,Not Provided,5.0,outperform,60.0
+2017-04-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-04-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-04-11,J.P. Morgan,9 month,3.0,neutral,53.0
+2017-04-13,Jefferies,Not Provided,5.0,buy,65.0
+2017-04-13,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2017-04-13,Credit Suisse,Not Provided,5.0,outperform,61.0
+2017-04-13,Cowen,12 month,5.0,outperform,60.0
+2017-04-13,Piper Jaffray,12 month,5.0,overweight,61.0
+2017-04-13,Craig-Hallum Capital Group LLC,12 month,5.0,buy,65.0
+2017-04-16,BMO Capital Markets,Not Provided,5.0,outperform,60.0
+2017-04-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-04-21,Jefferies,12 month,5.0,buy,65.0
+2017-04-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-04-24,Piper Jaffray,Not Provided,5.0,overweight,61.0
+2017-04-24,Cowen,Not Provided,5.0,outperform,60.0
+2017-04-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-24,Craig-Hallum Capital Group LLC,12 month,5.0,buy,65.0
+2017-04-25,Stifel,12 month,5.0,buy,65.0
+2017-04-26,Credit Suisse,Not Provided,5.0,outperform,61.0
+2017-04-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-02,Craig-Hallum Capital Group LLC,12 month,5.0,buy,65.0
+2017-05-04,Morgan Stanley,12 month,3.0,Equalwt/In-Line,61.0
+2017-05-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2017-05-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-05,Stifel,12 month,5.0,buy,65.0
+2017-05-05,BMO Capital Markets,Not Provided,5.0,outperform,64.0
+2017-05-05,J.P. Morgan,9 month,3.0,neutral,57.0
+2017-05-05,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-05-05,Craig-Hallum Capital Group LLC,12 month,5.0,buy,66.0
+2017-05-05,Barclays,Not Provided,3.0,equalweight,50.0
+2017-05-05,Piper Jaffray,12 month,5.0,overweight,65.0
+2017-05-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-08,Cowen,Not Provided,5.0,outperform,60.0
+2017-05-08,Credit Suisse,Not Provided,5.0,outperform,61.0
+2017-05-09,Jefferies,12 month,5.0,buy,70.0
+2017-05-12,Jefferies,Not Provided,5.0,buy,70.0
+2017-05-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-18,Piper Jaffray,12 month,5.0,overweight,65.0
+2017-05-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-23,Credit Suisse,Not Provided,5.0,outperform,67.0

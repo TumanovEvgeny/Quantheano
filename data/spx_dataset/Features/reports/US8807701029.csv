@@ -1,0 +1,850 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2004-07-28,J.P. Morgan,Not Provided,1.0,underweight,-0.0
+2005-04-20,S&P Capital IQ,12 month,3.0,hold,14.0
+2005-06-09,GC Research Ltd,6 month,5.0,overweight,18.0
+2005-09-27,Barclays,Not Provided,5.0,overwt/positive,20.0
+2005-09-28,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2005-09-29,A.G. Edwards & Sons Inc,Not Provided,5.0,buy,20.0
+2005-09-30,Caris & Company,Not Provided,5.0,buy,-0.0
+2005-10-10,Merriman Capital,Not Provided,5.0,buy,-0.0
+2005-10-19,FBR Capital Markets,Not Provided,1.0,underperform,12.5
+2005-10-19,Gleacher & Company,Not Provided,5.0,buy,18.0
+2005-10-19,Susquehanna Financial,Not Provided,2.0,negative,-0.0
+2005-10-20,Morgan Stanley,12 month,5.0,Overwt/In-Line,20.0
+2005-11-09,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2005-11-15,CIBC World Markets,Not Provided,3.0,sector perform,16.0
+2005-11-17,Credit Suisse,12 month,3.0,neutral,16.0
+2005-12-01,Stifel,Not Provided,3.0,hold,-0.0
+2005-12-06,Goldman Sachs,Not Provided,1.0,underperf/cautious,-0.0
+2005-12-15,Cowen,Not Provided,-2147483648.0,no rating system,-0.0
+2005-12-21,Moors & Cabot,Not Provided,5.0,buy,20.0
+2005-12-23,Soleil Securities,Not Provided,3.0,hold,16.0
+2006-01-11,Stifel,Not Provided,3.0,hold,-0.0
+2006-01-18,Stifel,Not Provided,3.0,hold,-0.0
+2006-01-18,Caris & Company,Not Provided,5.0,buy,-0.0
+2006-01-18,Susquehanna Financial,Not Provided,2.0,negative,-0.0
+2006-01-19,Morgan Stanley,12 month,5.0,Overwt/Attractive,20.0
+2006-01-19,FBR Capital Markets,Not Provided,1.0,underperform,14.0
+2006-01-19,Barclays,Not Provided,5.0,overwt/positive,20.0
+2006-01-19,Gleacher & Company,Not Provided,5.0,buy,20.0
+2006-01-19,Moors & Cabot,Not Provided,5.0,buy,20.0
+2006-01-19,Merriman Capital,Not Provided,5.0,buy,-0.0
+2006-01-19,Cowen,Not Provided,-2147483648.0,no rating system,-0.0
+2006-01-19,Credit Suisse,12 month,3.0,neutral,17.5
+2006-01-19,GC Research Ltd,6 month,5.0,overweight,20.0
+2006-01-27,Rochdale Securities,Not Provided,5.0,buy,21.0
+2006-02-13,FBR Capital Markets,Not Provided,1.0,underperform,14.0
+2006-02-17,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2006-02-22,Moors & Cabot,Not Provided,3.0,hold,18.0
+2006-02-22,Cowen,Not Provided,5.0,outperform,-0.0
+2006-02-27,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2006-03-06,FBR Capital Markets,Not Provided,1.0,underperform,14.0
+2006-03-17,Cowen,Not Provided,5.0,outperform,-0.0
+2006-04-17,Credit Suisse,12 month,3.0,neutral,17.5
+2006-04-17,Stifel,Not Provided,3.0,hold,-0.0
+2006-04-17,Cowen,Not Provided,5.0,outperform,-0.0
+2006-04-19,Caris & Company,Not Provided,5.0,buy,-0.0
+2006-04-19,Stifel,Not Provided,3.0,hold,-0.0
+2006-04-19,Susquehanna Financial,Not Provided,2.0,negative,-0.0
+2006-04-19,Barclays,Not Provided,5.0,overwt/positive,21.0
+2006-04-19,Merriman Capital,Not Provided,5.0,buy,-0.0
+2006-04-19,Cowen,Not Provided,5.0,outperform,-0.0
+2006-04-20,Moors & Cabot,Not Provided,3.0,hold,19.0
+2006-04-20,FBR Capital Markets,Not Provided,1.0,underperform,14.0
+2006-04-20,Rochdale Securities,Not Provided,5.0,buy,21.0
+2006-04-20,Morgan Stanley,12 month,5.0,Overwt/Attractive,20.0
+2006-05-11,Gleacher & Company,Not Provided,3.0,hold,-0.0
+2006-05-22,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2006-05-25,Cowen,Not Provided,5.0,outperform,-0.0
+2006-05-30,CIBC World Markets,18 month,5.0,sector outperform,19.0
+2006-05-31,Moors & Cabot,Not Provided,3.0,hold,19.0
+2006-06-13,Rochdale Securities,Not Provided,5.0,buy,21.0
+2006-06-14,Goldman Sachs,Not Provided,1.0,underperf/neutral,-0.0
+2006-06-26,Goldman Sachs,Not Provided,1.0,underperf/neutral,10.0
+2006-06-26,FBR Capital Markets,Not Provided,1.0,underperform,14.0
+2006-07-18,Susquehanna Financial,Not Provided,2.0,negative,-0.0
+2006-07-18,Stifel,Not Provided,3.0,hold,-0.0
+2006-07-18,Merriman Capital,Not Provided,5.0,buy,-0.0
+2006-07-19,Credit Suisse,12 month,3.0,neutral,11.5
+2006-07-19,FBR Capital Markets,Not Provided,1.0,underperform,14.0
+2006-07-20,Cowen,Not Provided,5.0,outperform,-0.0
+2006-07-20,Goldman Sachs,Not Provided,1.0,underperf/neutral,9.0
+2006-07-20,Stifel,Not Provided,3.0,hold,-0.0
+2006-07-20,Susquehanna Financial,Not Provided,2.0,negative,-0.0
+2006-07-20,Merriman Capital,Not Provided,5.0,buy,-0.0
+2006-07-21,Caris & Company,Not Provided,5.0,buy,-0.0
+2006-07-21,FBR Capital Markets,Not Provided,1.0,underperform,11.5
+2006-07-21,Credit Suisse,12 month,3.0,neutral,11.5
+2006-07-21,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2006-07-24,CIBC World Markets,18 month,5.0,sector outperform,14.0
+2006-08-18,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2006-08-24,Barclays,Not Provided,5.0,overwt/positive,18.0
+2006-08-24,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2006-09-11,Stifel,Not Provided,3.0,hold,-0.0
+2006-09-13,Merriman Capital,Not Provided,5.0,buy,-0.0
+2006-09-14,Cowen,Not Provided,5.0,outperform,-0.0
+2006-09-29,FBR Capital Markets,Not Provided,1.0,underperform,11.5
+2006-10-19,Credit Suisse,12 month,3.0,neutral,11.5
+2006-10-19,FBR Capital Markets,Not Provided,1.0,underperform,11.0
+2006-10-19,Stifel,Not Provided,3.0,hold,-0.0
+2006-10-19,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2006-10-19,Merriman Capital,Not Provided,5.0,buy,-0.0
+2006-10-19,Cowen,Not Provided,5.0,outperform,-0.0
+2006-10-19,Goldman Sachs,Not Provided,1.0,Sell/Neutral,8.0
+2006-10-20,Credit Suisse,12 month,3.0,neutral,12.0
+2006-10-23,Bear Stearns & Co,Not Provided,3.0,peerperform,-0.0
+2006-10-23,CIBC World Markets,18 month,5.0,sector outperform,16.0
+2006-10-24,HSBC,18 month,3.0,neutral,13.5
+2006-11-17,Merriman Capital,Not Provided,5.0,buy,-0.0
+2006-11-21,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2006-11-30,Merriman Capital,Not Provided,5.0,buy,-0.0
+2006-12-01,HSBC,18 month,1.0,underweight,13.5
+2007-01-03,Goldman Sachs,Not Provided,1.0,Sell/Cautious,8.0
+2007-01-10,FBR Capital Markets,Not Provided,3.0,market perform,13.5
+2007-01-16,Stifel,Not Provided,3.0,hold,-0.0
+2007-01-24,Cowen,Not Provided,5.0,outperform,-0.0
+2007-01-25,Credit Suisse,12 month,3.0,neutral,13.0
+2007-01-25,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2007-01-25,Merriman Capital,Not Provided,5.0,buy,-0.0
+2007-01-25,FBR Capital Markets,Not Provided,3.0,market perform,13.5
+2007-01-25,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-01-25,Stifel,Not Provided,3.0,hold,-0.0
+2007-01-26,GC Research Ltd,Not Provided,3.0,neutral,-0.0
+2007-01-26,Cowen,Not Provided,3.0,neutral,-0.0
+2007-01-29,CIBC World Markets,18 month,5.0,sector outperform,17.0
+2007-01-29,HSBC,18 month,3.0,neutral,16.0
+2007-02-05,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2007-02-26,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2007-03-12,Credit Suisse,12 month,3.0,neutral,17.0
+2007-03-12,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2007-03-26,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2007-03-26,Merriman Capital,Not Provided,5.0,buy,-0.0
+2007-04-11,FBR Capital Markets,Not Provided,3.0,market perform,13.5
+2007-04-15,Credit Suisse,12 month,3.0,neutral,17.0
+2007-04-17,Barclays,Not Provided,3.0,equalwt/neutral,18.0
+2007-04-18,CIBC World Markets,Not Provided,3.0,sector perform,17.0
+2007-04-19,Bear Stearns & Co,Not Provided,3.0,peerperform,-0.0
+2007-04-19,Stifel,Not Provided,3.0,hold,-0.0
+2007-04-19,FBR Capital Markets,Not Provided,3.0,market perform,14.5
+2007-04-20,HSBC,Not Provided,3.0,neutral,16.0
+2007-04-20,Credit Suisse,12 month,3.0,neutral,17.75
+2007-04-20,Merriman Capital,Not Provided,5.0,buy,-0.0
+2007-05-03,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2007-05-21,FBR Capital Markets,Not Provided,3.0,market perform,17.0
+2007-05-29,EVA Dimensions,Not Provided,1.0,strong sell,-0.0
+2007-06-04,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2007-06-29,Gleacher & Company,Not Provided,5.0,buy,21.0
+2007-07-13,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-07-19,Cowen,Not Provided,3.0,neutral,-0.0
+2007-07-19,Goldman Sachs,12 month,1.0,Sell/Cautious,11.0
+2007-07-19,GC Research Ltd,Not Provided,5.0,overweight,21.0
+2007-07-19,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-07-20,Gleacher & Company,Not Provided,5.0,buy,21.0
+2007-07-20,Credit Suisse,12 month,3.0,neutral,17.75
+2007-07-20,Merriman Capital,Not Provided,5.0,buy,-0.0
+2007-07-24,FBR Capital Markets,Not Provided,3.0,market perform,17.0
+2007-08-30,A.G. Edwards & Sons Inc,Not Provided,3.0,hold,-0.0
+2007-08-30,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2007-09-11,Barclays,Not Provided,3.0,equalwt/neutral,18.0
+2007-09-25,HSBC,Not Provided,3.0,neutral,16.0
+2007-10-15,Stifel,Not Provided,3.0,hold,-0.0
+2007-10-17,Merriman Capital,Not Provided,5.0,buy,-0.0
+2007-10-18,FBR Capital Markets,Not Provided,3.0,market perform,14.0
+2007-10-18,Gleacher & Company,Not Provided,5.0,buy,15.0
+2007-10-18,Credit Suisse,12 month,3.0,neutral,17.75
+2007-10-19,HSBC,Not Provided,3.0,neutral,14.5
+2007-10-19,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2007-10-19,Merriman Capital,Not Provided,5.0,buy,-0.0
+2007-10-29,CIBC World Markets,Not Provided,3.0,sector perform,14.0
+2007-10-30,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2007-11-23,HSBC,12 month,5.0,overweight,13.0
+2007-12-12,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2007-12-12,Merriman Capital,Not Provided,5.0,buy,-0.0
+2007-12-12,Stifel,Not Provided,3.0,hold,-0.0
+2007-12-13,GC Research Ltd,Not Provided,5.0,overweight,19.0
+2007-12-13,HSBC,12 month,5.0,overweight,13.0
+2007-12-14,Credit Suisse,12 month,3.0,neutral,12.0
+2008-01-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2008-01-08,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2008-01-14,Oppenheimer & Co,Not Provided,3.0,market perform,14.0
+2008-01-22,Stifel,Not Provided,3.0,hold,-0.0
+2008-01-23,Merriman Capital,Not Provided,5.0,buy,-0.0
+2008-01-23,Credit Suisse,12 month,3.0,neutral,12.0
+2008-01-23,Oppenheimer & Co,Not Provided,3.0,market perform,14.0
+2008-01-24,Oppenheimer & Co,Not Provided,3.0,market perform,14.0
+2008-01-24,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2008-01-24,Stifel,Not Provided,3.0,hold,-0.0
+2008-01-25,FBR Capital Markets,Not Provided,3.0,market perform,11.0
+2008-01-25,Credit Suisse,12 month,3.0,neutral,14.0
+2008-01-25,HSBC,12 month,5.0,overweight,13.0
+2008-01-25,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2008-01-25,Merriman Capital,Not Provided,5.0,buy,-0.0
+2008-02-01,Goldman Sachs,6 month,3.0,neutral/cautious,11.0
+2008-02-26,Oppenheimer & Co,Not Provided,5.0,outperform,16.0
+2008-03-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2008-03-25,Barclays,Not Provided,3.0,equalwt/neutral,13.0
+2008-03-27,FBR Capital Markets,Not Provided,5.0,outperform,16.0
+2008-03-31,Cowen,Not Provided,3.0,neutral,-0.0
+2008-04-10,Oppenheimer & Co,Not Provided,5.0,outperform,16.0
+2008-04-18,Stifel,Not Provided,3.0,hold,-0.0
+2008-04-23,Stifel,Not Provided,3.0,hold,-0.0
+2008-04-23,Credit Suisse,12 month,3.0,neutral,15.0
+2008-04-23,Cowen,Not Provided,3.0,neutral,-0.0
+2008-04-23,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2008-04-23,Oppenheimer & Co,Not Provided,5.0,outperform,16.0
+2008-04-24,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-04-24,HSBC,12 month,3.0,neutral,15.0
+2008-04-30,Oppenheimer & Co,Not Provided,5.0,outperform,16.0
+2008-05-07,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2008-05-19,Piper Jaffray,Not Provided,3.0,neutral,14.0
+2008-06-05,Oppenheimer & Co,Not Provided,5.0,outperform,16.0
+2008-06-13,Cowen,Not Provided,3.0,neutral,-0.0
+2008-06-17,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2008-06-24,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2008-06-30,Piper Jaffray,Not Provided,5.0,overweight,16.0
+2008-07-21,Goldman Sachs,6 month,3.0,neutral/neutral,11.0
+2008-07-21,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2008-07-22,Stifel,Not Provided,3.0,hold,-0.0
+2008-07-24,HSBC,12 month,5.0,overweight,13.0
+2008-07-24,Stifel,Not Provided,3.0,hold,-0.0
+2008-07-24,Piper Jaffray,Not Provided,5.0,overweight,14.0
+2008-07-24,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2008-07-24,Oppenheimer & Co,18 month,5.0,outperform,13.0
+2008-07-25,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-07-25,Barclays,Not Provided,5.0,overwt/neutral,13.0
+2008-07-25,Credit Suisse,12 month,3.0,neutral,11.5
+2008-07-28,FBR Capital Markets,Not Provided,5.0,outperform,13.0
+2008-08-21,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-09-02,Stifel,Not Provided,3.0,hold,-0.0
+2008-09-02,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2008-09-02,Oppenheimer & Co,18 month,5.0,outperform,13.0
+2008-09-03,Credit Suisse,12 month,3.0,neutral,11.5
+2008-09-03,Piper Jaffray,Not Provided,5.0,overweight,14.0
+2008-09-03,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2008-09-24,Barclays,Not Provided,5.0,overwt/neutral,13.0
+2008-09-29,Barclays,Not Provided,3.0,equalwt/neutral,10.0
+2008-10-03,Stifel,Not Provided,3.0,hold,-0.0
+2008-10-13,Stifel,Not Provided,3.0,hold,-0.0
+2008-10-20,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2008-10-22,Piper Jaffray,12 month,5.0,overweight,14.0
+2008-10-23,Oppenheimer & Co,Not Provided,5.0,outperform,13.0
+2008-10-23,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2008-10-23,Piper Jaffray,12 month,5.0,overweight,8.5
+2008-10-23,Stifel,Not Provided,3.0,hold,-0.0
+2008-10-24,Credit Suisse,Not Provided,3.0,neutral,7.0
+2008-10-24,Cowen,Not Provided,3.0,neutral,-0.0
+2008-10-24,Barclays,Not Provided,3.0,equalwt/neutral,7.0
+2008-10-27,HSBC,Not Provided,5.0,overweight,7.0
+2008-11-12,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2008-11-18,Oppenheimer & Co,Not Provided,5.0,outperform,-0.0
+2008-11-24,Goldman Sachs,6 month,3.0,neutral/attractive,3.0
+2008-12-03,Gleacher & Company,Not Provided,3.0,neutral,-0.0
+2008-12-17,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-12-18,UBS,Not Provided,5.0,buy,6.0
+2008-12-22,J.P. Morgan,Not Provided,1.0,underweight,-0.0
+2009-01-05,Barclays,Not Provided,5.0,overwt/neutral,6.0
+2009-01-05,Stifel,Not Provided,3.0,hold,-0.0
+2009-01-07,Soleil Securities,12 month,5.0,buy,7.5
+2009-01-08,FBR Capital Markets,Not Provided,3.0,market perform,6.5
+2009-01-13,Cowen,Not Provided,3.0,neutral,-0.0
+2009-01-16,HSBC,Not Provided,5.0,overweight,7.0
+2009-01-20,Stifel,Not Provided,3.0,hold,-0.0
+2009-01-20,Oppenheimer & Co,18 month,3.0,market perform,5.0
+2009-01-22,Cowen,Not Provided,3.0,neutral,-0.0
+2009-01-29,Oppenheimer & Co,18 month,3.0,market perform,5.0
+2009-01-29,Cowen,Not Provided,3.0,neutral,-0.0
+2009-01-29,Piper Jaffray,12 month,5.0,overweight,8.0
+2009-01-29,Goldman Sachs,6 month,5.0,buy/attractive,6.0
+2009-01-29,Stifel,Not Provided,3.0,hold,-0.0
+2009-01-30,Credit Suisse,Not Provided,3.0,neutral,4.75
+2009-01-30,FBR Capital Markets,Not Provided,3.0,market perform,5.5
+2009-02-05,HSBC,Not Provided,5.0,overweight,6.0
+2009-02-24,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-03-17,Soleil Securities,12 month,5.0,buy,7.5
+2009-03-24,Cowen,Not Provided,3.0,neutral,-0.0
+2009-03-24,Soleil Securities,12 month,5.0,buy,7.5
+2009-03-24,Piper Jaffray,12 month,5.0,overweight,6.5
+2009-03-24,Oppenheimer & Co,18 month,3.0,market perform,5.0
+2009-03-24,Credit Suisse,Not Provided,3.0,neutral,4.75
+2009-03-24,Stifel,Not Provided,3.0,hold,-0.0
+2009-03-25,UBS,Not Provided,5.0,buy,5.5
+2009-03-31,Cowen,Not Provided,3.0,neutral,-0.0
+2009-04-03,Soleil Securities,12 month,5.0,buy,7.5
+2009-04-15,Soleil Securities,12 month,5.0,buy,7.5
+2009-04-16,FBR Capital Markets,Not Provided,3.0,market perform,5.0
+2009-04-17,Stifel,Not Provided,3.0,hold,-0.0
+2009-04-20,Soleil Securities,12 month,5.0,buy,7.5
+2009-04-21,Cowen,Not Provided,3.0,neutral,-0.0
+2009-04-29,Soleil Securities,12 month,5.0,buy,7.5
+2009-04-30,Oppenheimer & Co,18 month,3.0,market perform,7.0
+2009-04-30,Piper Jaffray,12 month,5.0,overweight,6.5
+2009-04-30,Cowen,Not Provided,3.0,neutral,-0.0
+2009-04-30,Barclays,Not Provided,5.0,overwt/neutral,7.0
+2009-04-30,UBS,Not Provided,5.0,buy,8.0
+2009-04-30,Credit Suisse,Not Provided,3.0,neutral,6.0
+2009-04-30,Goldman Sachs,6 month,5.0,buy/attractive,7.0
+2009-04-30,Stifel,Not Provided,3.0,hold,-0.0
+2009-05-01,Stifel,Not Provided,3.0,hold,-0.0
+2009-05-01,Credit Suisse,Not Provided,3.0,neutral,6.0
+2009-05-01,UBS,Not Provided,5.0,buy,8.0
+2009-05-05,Soleil Securities,12 month,5.0,buy,7.5
+2009-05-06,Goldman Sachs,6 month,5.0,buy/attractive,9.0
+2009-05-07,FBR Capital Markets,Not Provided,3.0,market perform,6.0
+2009-05-14,Oppenheimer & Co,Not Provided,3.0,market perform,7.0
+2009-05-19,Stifel,12 month,5.0,buy,10.0
+2009-05-22,Stifel,12 month,5.0,buy,10.0
+2009-05-28,Cowen,Not Provided,3.0,neutral,-0.0
+2009-06-09,Soleil Securities,12 month,5.0,buy,7.5
+2009-06-09,Stifel,12 month,5.0,buy,10.0
+2009-06-15,Soleil Securities,Not Provided,5.0,buy,8.5
+2009-06-16,Sidoti & Company LLC,12 month,3.0,neutral,8.0
+2009-06-25,Cowen,Not Provided,3.0,neutral,-0.0
+2009-06-26,Stifel,12 month,5.0,buy,10.0
+2009-07-01,Piper Jaffray,12 month,3.0,neutral,6.5
+2009-07-02,Stifel,12 month,5.0,buy,10.0
+2009-07-07,Soleil Securities,Not Provided,5.0,buy,8.5
+2009-07-13,Stifel,12 month,5.0,buy,10.0
+2009-07-15,Cowen,Not Provided,3.0,neutral,-0.0
+2009-07-20,Stifel,12 month,5.0,buy,10.0
+2009-07-24,Sidoti & Company LLC,12 month,3.0,neutral,8.0
+2009-07-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-07-27,Stifel,12 month,5.0,buy,10.0
+2009-07-29,Morgan Stanley,Not Provided,1.0,Underwt/Attractive,7.0
+2009-07-30,Oppenheimer & Co,18 month,3.0,market perform,8.0
+2009-07-30,Stifel,12 month,5.0,buy,12.0
+2009-07-30,Piper Jaffray,12 month,3.0,neutral,9.0
+2009-07-30,Cowen,Not Provided,3.0,neutral,-0.0
+2009-07-30,Goldman Sachs,6 month,5.0,buy/attractive,10.0
+2009-07-30,Sidoti & Company LLC,12 month,5.0,buy,10.0
+2009-07-31,UBS,Not Provided,5.0,buy,10.0
+2009-07-31,Barclays,Not Provided,5.0,overwt/neutral,9.0
+2009-08-02,Credit Suisse,Not Provided,3.0,neutral,8.0
+2009-08-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-12,Oppenheimer & Co,18 month,3.0,market perform,8.0
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-28,Stifel,12 month,5.0,buy,12.0
+2009-09-10,Stifel,12 month,5.0,buy,12.0
+2009-09-10,Sidoti & Company LLC,Not Provided,5.0,buy,10.0
+2009-09-15,Oppenheimer & Co,18 month,5.0,outperform,13.0
+2009-09-16,Sidoti & Company LLC,12 month,5.0,buy,12.0
+2009-09-25,Stifel,12 month,5.0,buy,12.0
+2009-10-01,Goldman Sachs,6 month,5.0,buy/attractive,13.0
+2009-10-01,UBS,Not Provided,5.0,buy,12.0
+2009-10-01,Barclays,Not Provided,5.0,overwt/neutral,12.0
+2009-10-01,Stifel,12 month,5.0,buy,12.0
+2009-10-01,Oppenheimer & Co,18 month,5.0,outperform,13.0
+2009-10-01,Sidoti & Company LLC,12 month,5.0,buy,12.0
+2009-10-02,Cowen,Not Provided,3.0,neutral,-0.0
+2009-10-02,Piper Jaffray,12 month,3.0,neutral,11.0
+2009-10-02,Soleil Securities,12 month,5.0,buy,11.0
+2009-10-07,Stifel,12 month,5.0,buy,12.0
+2009-10-09,Credit Suisse,Not Provided,3.0,neutral,10.0
+2009-10-15,Oppenheimer & Co,18 month,5.0,outperform,13.0
+2009-10-19,Cowen,Not Provided,3.0,neutral,-0.0
+2009-10-20,Stifel,12 month,5.0,buy,12.0
+2009-10-26,Stifel,12 month,5.0,buy,12.0
+2009-10-27,Sidoti & Company LLC,12 month,5.0,buy,12.0
+2009-10-29,Oppenheimer & Co,18 month,5.0,outperform,13.0
+2009-10-29,Piper Jaffray,12 month,3.0,neutral,11.5
+2009-10-29,Stifel,12 month,5.0,buy,12.0
+2009-10-29,Barclays,Not Provided,5.0,overwt/neutral,12.0
+2009-10-29,Sidoti & Company LLC,12 month,5.0,buy,12.0
+2009-10-30,Cowen,Not Provided,3.0,neutral,-0.0
+2009-11-03,Morgan Stanley,Not Provided,1.0,Underwt/Cautious,7.0
+2009-11-03,Soleil Securities,12 month,5.0,buy,11.0
+2009-11-19,Soleil Securities,12 month,5.0,buy,11.0
+2009-11-30,Soleil Securities,12 month,5.0,buy,11.0
+2009-12-14,Piper Jaffray,12 month,5.0,overweight,13.5
+2009-12-14,Barclays,Not Provided,5.0,overwt/neutral,13.0
+2009-12-15,Sidoti & Company LLC,12 month,5.0,buy,14.0
+2009-12-22,Stifel,12 month,5.0,buy,12.0
+2010-01-08,Stifel,12 month,5.0,buy,12.0
+2010-01-11,FBR Capital Markets,12 month,5.0,outperform,16.0
+2010-01-13,Cowen,Not Provided,3.0,neutral,-0.0
+2010-01-19,Stifel,12 month,5.0,buy,12.0
+2010-01-22,Sidoti & Company LLC,Not Provided,5.0,buy,14.0
+2010-01-28,Barclays,Not Provided,5.0,overwt/neutral,13.0
+2010-01-28,Credit Suisse,Not Provided,3.0,neutral,12.0
+2010-01-28,Oppenheimer & Co,18 month,5.0,outperform,13.0
+2010-01-28,Piper Jaffray,12 month,5.0,overweight,16.0
+2010-01-28,Cowen,Not Provided,3.0,neutral,-0.0
+2010-01-28,Sidoti & Company LLC,12 month,5.0,buy,17.0
+2010-01-29,Craig-Hallum Capital Group LLC,12 month,5.0,buy,15.5
+2010-01-29,FBR Capital Markets,12 month,5.0,outperform,16.0
+2010-01-29,Stifel,12 month,5.0,buy,12.0
+2010-02-19,Oppenheimer & Co,18 month,5.0,outperform,13.0
+2010-02-25,Stifel,12 month,5.0,buy,12.0
+2010-03-09,Sidoti & Company LLC,12 month,5.0,buy,17.0
+2010-03-10,Oppenheimer & Co,18 month,5.0,outperform,13.0
+2010-03-12,Cowen,Not Provided,3.0,neutral,-0.0
+2010-03-19,Oppenheimer & Co,18 month,5.0,outperform,13.0
+2010-03-22,Barclays,Not Provided,5.0,overwt/neutral,13.0
+2010-04-13,FBR Capital Markets,12 month,5.0,outperform,16.0
+2010-04-14,UBS,Not Provided,5.0,buy,13.0
+2010-04-16,Cowen,Not Provided,3.0,neutral,-0.0
+2010-04-19,Sidoti & Company LLC,12 month,5.0,buy,17.0
+2010-04-22,Cowen,Not Provided,3.0,neutral,-0.0
+2010-04-22,Goldman Sachs,6 month,5.0,buy/attractive,17.0
+2010-04-22,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2010-04-22,Morgan Stanley,Not Provided,1.0,Underwt/Cautious,7.0
+2010-04-22,Stifel,12 month,5.0,buy,16.0
+2010-04-22,Piper Jaffray,12 month,5.0,overweight,16.0
+2010-04-23,FBR Capital Markets,12 month,5.0,outperform,18.0
+2010-04-23,Credit Suisse,Not Provided,3.0,neutral,16.5
+2010-04-23,UBS,Not Provided,5.0,buy,16.0
+2010-04-23,Craig-Hallum Capital Group LLC,12 month,5.0,buy,17.0
+2010-04-23,Oppenheimer & Co,18 month,5.0,outperform,17.0
+2010-04-23,Barclays,Not Provided,5.0,overwt/neutral,17.0
+2010-05-03,Piper Jaffray,12 month,5.0,overweight,26.0
+2010-05-06,Morgan Stanley,Not Provided,1.0,Underwt/Cautious,7.0
+2010-05-07,Stifel,12 month,5.0,buy,16.0
+2010-05-24,Barclays,Not Provided,5.0,overwt/neutral,17.0
+2010-06-03,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2010-06-04,Cowen,Not Provided,3.0,neutral,-0.0
+2010-06-07,Stifel,12 month,5.0,buy,16.0
+2010-06-10,Craig-Hallum Capital Group LLC,12 month,5.0,buy,17.0
+2010-07-07,UBS,Not Provided,5.0,buy,14.5
+2010-07-08,Oppenheimer & Co,18 month,5.0,outperform,17.0
+2010-07-08,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2010-07-09,Stifel,12 month,5.0,buy,16.0
+2010-07-09,D.A. Davidson & Co,18 month,5.0,buy,17.0
+2010-07-13,Cowen,Not Provided,3.0,neutral,-0.0
+2010-07-14,Piper Jaffray,12 month,5.0,overweight,26.0
+2010-07-14,Oppenheimer & Co,18 month,5.0,outperform,17.0
+2010-07-14,Stifel,12 month,5.0,buy,16.0
+2010-07-20,Oppenheimer & Co,18 month,5.0,outperform,17.0
+2010-07-23,Stifel,12 month,5.0,buy,16.0
+2010-07-29,Oppenheimer & Co,18 month,5.0,outperform,17.0
+2010-07-29,Barclays,Not Provided,5.0,overwt/neutral,15.0
+2010-07-29,Credit Suisse,Not Provided,3.0,neutral,12.5
+2010-07-29,Morgan Stanley,Not Provided,1.0,Underwt/Cautious,7.0
+2010-07-29,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2010-07-29,Piper Jaffray,12 month,5.0,overweight,26.0
+2010-07-29,Cowen,Not Provided,3.0,neutral,-0.0
+2010-07-30,Craig-Hallum Capital Group LLC,12 month,5.0,buy,17.0
+2010-07-30,Stifel,12 month,5.0,buy,16.0
+2010-07-30,UBS,Not Provided,5.0,buy,13.5
+2010-07-30,D.A. Davidson & Co,Not Provided,5.0,buy,18.0
+2010-08-11,Oppenheimer & Co,18 month,5.0,outperform,17.0
+2010-08-13,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2010-08-16,Craig-Hallum Capital Group LLC,12 month,5.0,buy,17.0
+2010-08-19,Barclays,Not Provided,5.0,overwt/neutral,15.0
+2010-08-27,Stifel,12 month,5.0,buy,16.0
+2010-09-07,Barclays,Not Provided,5.0,overwt/neutral,15.0
+2010-09-08,UBS,Not Provided,3.0,neutral,11.0
+2010-09-09,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2010-09-10,Stifel,12 month,5.0,buy,16.0
+2010-09-13,Oppenheimer & Co,18 month,3.0,market perform,10.0
+2010-09-17,Oppenheimer & Co,18 month,3.0,market perform,10.0
+2010-09-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-09-20,Piper Jaffray,12 month,5.0,overweight,26.0
+2010-09-24,Cowen,Not Provided,3.0,neutral,-0.0
+2010-09-29,Susquehanna Financial,Not Provided,3.0,neutral,10.0
+2010-10-08,Susquehanna Financial,Not Provided,3.0,neutral,10.0
+2010-10-15,Stifel,12 month,5.0,buy,16.0
+2010-10-19,Cowen,Not Provided,3.0,neutral,-0.0
+2010-10-21,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2010-10-25,D.A. Davidson & Co,18 month,5.0,buy,18.0
+2010-10-28,Oppenheimer & Co,12 month,3.0,market perform,11.0
+2010-10-28,Sidoti & Company LLC,12 month,5.0,buy,16.0
+2010-10-28,Cowen,Not Provided,3.0,neutral,-0.0
+2010-10-28,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2010-10-28,Piper Jaffray,12 month,5.0,overweight,19.5
+2010-10-28,Goldman Sachs,6 month,5.0,buy/attractive,16.0
+2010-10-28,Craig-Hallum Capital Group LLC,Not Provided,3.0,neutral,-0.0
+2010-10-28,Stifel,12 month,5.0,buy,14.0
+2010-10-28,Barclays,Not Provided,5.0,overwt/neutral,15.0
+2010-10-28,Morgan Stanley,12 month,1.0,Underwt/Cautious,7.0
+2010-10-29,Susquehanna Financial,12 month,3.0,neutral,10.0
+2010-10-29,UBS,Not Provided,3.0,neutral,11.0
+2010-10-29,D.A. Davidson & Co,Not Provided,5.0,buy,18.0
+2010-10-29,Credit Suisse,Not Provided,3.0,neutral,12.5
+2010-11-08,UBS,12 month,3.0,neutral,12.0
+2010-11-11,Barclays,Not Provided,5.0,overwt/neutral,18.0
+2010-11-22,Morgan Stanley,12 month,1.0,Underwt/Cautious,7.0
+2010-11-22,D.A. Davidson & Co,Not Provided,5.0,buy,18.0
+2010-11-23,D.A. Davidson & Co,Not Provided,5.0,buy,18.0
+2010-11-23,Susquehanna Financial,12 month,3.0,neutral,11.0
+2010-11-23,Barclays,Not Provided,5.0,overwt/neutral,18.0
+2010-11-29,Stifel,12 month,5.0,buy,14.0
+2010-12-06,Credit Suisse,Not Provided,5.0,outperform,20.0
+2010-12-07,Sidoti & Company LLC,12 month,5.0,buy,16.0
+2010-12-10,Stifel,12 month,5.0,buy,16.0
+2010-12-17,Barclays,Not Provided,5.0,overwt/neutral,18.0
+2010-12-20,Stifel,12 month,5.0,buy,16.0
+2010-12-27,Stifel,12 month,5.0,buy,16.0
+2011-01-02,Goldman Sachs,12 month,5.0,Buy/Neutral,16.0
+2011-01-06,Stifel,12 month,5.0,buy,16.0
+2011-01-07,Susquehanna Financial,12 month,3.0,neutral,11.0
+2011-01-11,Morgan Stanley,12 month,1.0,Underwt/In-Line,10.0
+2011-01-13,Oppenheimer & Co,12 month,3.0,market perform,11.0
+2011-01-18,Stifel,12 month,5.0,buy,16.0
+2011-01-18,Sidoti & Company LLC,12 month,5.0,buy,18.0
+2011-01-18,Piper Jaffray,12 month,5.0,overweight,19.5
+2011-01-20,Susquehanna Financial,12 month,3.0,neutral,11.0
+2011-01-27,Credit Suisse,Not Provided,5.0,outperform,20.0
+2011-01-27,UBS,12 month,3.0,neutral,18.0
+2011-01-27,Stifel,12 month,5.0,buy,20.0
+2011-01-27,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2011-01-27,Barclays,Not Provided,5.0,overwt/neutral,20.0
+2011-01-27,Cowen,Not Provided,3.0,neutral,-0.0
+2011-01-27,Susquehanna Financial,12 month,4.0,Positive,20.0
+2011-01-27,Piper Jaffray,12 month,5.0,overweight,24.0
+2011-01-27,Morgan Stanley,12 month,1.0,Underwt/In-Line,10.0
+2011-01-27,Goldman Sachs,12 month,5.0,Buy/Neutral,17.0
+2011-01-27,D.A. Davidson & Co,18 month,5.0,buy,22.0
+2011-01-28,UBS,12 month,3.0,neutral,18.0
+2011-01-28,Craig-Hallum Capital Group LLC,12 month,4.0,accumulate,19.0
+2011-01-31,Credit Suisse,Not Provided,5.0,outperform,22.0
+2011-02-07,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-02-10,Stifel,12 month,5.0,buy,20.0
+2011-02-14,Stifel,12 month,5.0,buy,20.0
+2011-02-17,Barclays,Not Provided,5.0,overwt/neutral,20.0
+2011-02-22,Sidoti & Company LLC,12 month,5.0,buy,23.0
+2011-02-22,D.A. Davidson & Co,Not Provided,5.0,buy,22.0
+2011-02-23,Susquehanna Financial,12 month,4.0,Positive,20.0
+2011-03-02,Piper Jaffray,12 month,5.0,overweight,24.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-10,Susquehanna Financial,12 month,4.0,Positive,20.0
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-04-06,Stifel,12 month,5.0,buy,20.0
+2011-04-11,Susquehanna Financial,12 month,4.0,Positive,22.0
+2011-04-11,Stifel,12 month,5.0,buy,20.0
+2011-04-19,Susquehanna Financial,12 month,4.0,Positive,22.0
+2011-04-20,Sidoti & Company LLC,12 month,5.0,buy,23.0
+2011-04-25,Stifel,12 month,5.0,buy,20.0
+2011-04-28,Cowen,Not Provided,3.0,neutral,-0.0
+2011-04-28,Susquehanna Financial,12 month,4.0,Positive,22.0
+2011-04-28,Piper Jaffray,12 month,3.0,neutral,16.0
+2011-04-28,Sidoti & Company LLC,12 month,5.0,buy,23.0
+2011-04-28,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-04-28,Stifel,12 month,5.0,buy,20.0
+2011-04-28,Barclays,Not Provided,5.0,overwt/neutral,20.0
+2011-04-29,D.A. Davidson & Co,Not Provided,5.0,buy,22.0
+2011-04-29,Credit Suisse,Not Provided,5.0,outperform,22.0
+2011-04-29,Craig-Hallum Capital Group LLC,12 month,3.0,hold,19.0
+2011-04-29,UBS,12 month,3.0,neutral,16.0
+2011-05-18,Goldman Sachs,12 month,5.0,Buy/Cautious,16.0
+2011-05-31,Barclays,Not Provided,5.0,overwt/neutral,20.0
+2011-06-08,Sidoti & Company LLC,12 month,5.0,buy,23.0
+2011-06-08,Susquehanna Financial,12 month,4.0,Positive,22.0
+2011-06-20,Piper Jaffray,12 month,3.0,neutral,16.0
+2011-06-24,Susquehanna Financial,12 month,4.0,Positive,22.0
+2011-06-26,Goldman Sachs,12 month,5.0,Buy/Cautious,15.0
+2011-07-01,Credit Suisse,Not Provided,5.0,outperform,19.0
+2011-07-12,Susquehanna Financial,12 month,4.0,Positive,22.0
+2011-07-13,Stifel,12 month,5.0,buy,20.0
+2011-07-13,Cowen,Not Provided,3.0,neutral,-0.0
+2011-07-15,Barclays,Not Provided,5.0,overwt/neutral,20.0
+2011-07-15,Stifel,12 month,5.0,buy,20.0
+2011-07-18,Piper Jaffray,12 month,3.0,neutral,16.0
+2011-07-22,Cowen,Not Provided,3.0,neutral,-0.0
+2011-07-25,Susquehanna Financial,12 month,4.0,Positive,20.0
+2011-07-26,Stifel,12 month,5.0,buy,20.0
+2011-07-27,D.A. Davidson & Co,18 month,5.0,buy,22.0
+2011-07-27,Barclays,Not Provided,5.0,overwt/neutral,20.0
+2011-07-28,Susquehanna Financial,12 month,4.0,Positive,18.0
+2011-07-28,Credit Suisse,Not Provided,5.0,outperform,20.0
+2011-07-28,Barclays,Not Provided,5.0,overwt/neutral,20.0
+2011-07-28,Morgan Stanley,12 month,1.0,Underwt/In-Line,10.0
+2011-07-28,Cowen,Not Provided,3.0,neutral,-0.0
+2011-07-28,Piper Jaffray,12 month,3.0,neutral,15.0
+2011-07-28,Stifel,12 month,5.0,buy,20.0
+2011-07-28,D.A. Davidson & Co,Not Provided,5.0,buy,22.0
+2011-07-29,Craig-Hallum Capital Group LLC,12 month,3.0,hold,15.0
+2011-08-08,Susquehanna Financial,12 month,4.0,Positive,18.0
+2011-08-14,Goldman Sachs,12 month,5.0,Buy/Cautious,13.0
+2011-08-31,Barclays,Not Provided,5.0,overwt/neutral,18.0
+2011-09-14,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2011-09-15,Barclays,Not Provided,5.0,overwt/neutral,18.0
+2011-09-15,Piper Jaffray,12 month,3.0,neutral,15.0
+2011-09-15,Susquehanna Financial,12 month,4.0,Positive,18.0
+2011-09-15,D.A. Davidson & Co,18 month,5.0,buy,22.0
+2011-09-15,Credit Suisse,Not Provided,5.0,outperform,20.0
+2011-09-15,Cowen,Not Provided,3.0,neutral,-0.0
+2011-09-15,Stifel,12 month,5.0,buy,20.0
+2011-09-15,UBS,12 month,3.0,neutral,13.5
+2011-09-15,Morgan Stanley,12 month,1.0,Underwt/In-Line,10.0
+2011-09-15,Craig-Hallum Capital Group LLC,12 month,3.0,hold,15.0
+2011-09-19,Credit Suisse,Not Provided,5.0,outperform,18.0
+2011-09-23,D.A. Davidson & Co,Not Provided,5.0,buy,20.0
+2011-09-26,Barclays,Not Provided,5.0,overwt/neutral,17.0
+2011-09-26,Susquehanna Financial,12 month,4.0,Positive,18.0
+2011-09-29,Piper Jaffray,12 month,5.0,overweight,18.0
+2011-10-05,Piper Jaffray,12 month,5.0,overweight,18.0
+2011-10-06,Cowen,Not Provided,3.0,neutral,-0.0
+2011-10-07,Credit Suisse,Not Provided,5.0,outperform,18.0
+2011-10-09,Susquehanna Financial,12 month,4.0,Positive,16.0
+2011-10-09,Goldman Sachs,12 month,3.0,neutral/cautious,13.0
+2011-10-10,UBS,12 month,3.0,neutral,13.0
+2011-10-19,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-10-20,Stifel,12 month,5.0,buy,18.0
+2011-10-27,D.A. Davidson & Co,12 month,5.0,buy,20.0
+2011-10-27,Piper Jaffray,12 month,5.0,overweight,18.0
+2011-10-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-27,Barclays,Not Provided,5.0,overwt/neutral,17.0
+2011-10-27,Stifel,12 month,5.0,buy,18.0
+2011-10-27,UBS,12 month,3.0,neutral,16.0
+2011-10-27,Cowen,Not Provided,3.0,neutral,-0.0
+2011-10-27,Susquehanna Financial,12 month,4.0,Positive,16.0
+2011-10-27,Morgan Stanley,12 month,1.0,Underwt/In-Line,10.0
+2011-10-27,Goldman Sachs,12 month,3.0,neutral/cautious,14.5
+2011-10-27,Credit Suisse,Not Provided,5.0,outperform,18.0
+2011-10-28,Piper Jaffray,12 month,5.0,overweight,18.0
+2011-10-28,UBS,12 month,3.0,neutral,16.0
+2011-10-28,Barclays,Not Provided,5.0,overwt/neutral,17.0
+2011-10-28,Craig-Hallum Capital Group LLC,12 month,3.0,hold,15.0
+2011-10-28,D.A. Davidson & Co,Not Provided,5.0,buy,20.0
+2011-11-08,Piper Jaffray,12 month,5.0,overweight,18.0
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-14,Barclays,Not Provided,5.0,overwt/neutral,20.0
+2011-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-30,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2011-12-15,Stifel,12 month,5.0,buy,18.0
+2011-12-23,Stifel,12 month,5.0,buy,18.0
+2011-12-23,UBS,12 month,3.0,neutral,15.0
+2012-01-03,Barclays,Not Provided,5.0,overwt/neutral,20.0
+2012-01-09,Stifel,12 month,5.0,buy,18.0
+2012-01-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-01-12,Susquehanna Financial,12 month,4.0,Positive,16.0
+2012-01-17,Stifel,12 month,5.0,buy,18.0
+2012-01-23,D.A. Davidson & Co,12 month,5.0,buy,20.0
+2012-01-24,Piper Jaffray,12 month,5.0,overweight,18.0
+2012-01-24,Cowen,Not Provided,3.0,neutral,-0.0
+2012-01-24,Stifel,12 month,5.0,buy,18.0
+2012-01-24,Susquehanna Financial,12 month,4.0,Positive,20.0
+2012-01-25,Barclays,Not Provided,5.0,overwt/neutral,20.0
+2012-01-26,Cowen,Not Provided,3.0,neutral,-0.0
+2012-01-26,Stifel,12 month,5.0,buy,20.0
+2012-01-26,Susquehanna Financial,12 month,4.0,Positive,21.0
+2012-01-26,Barclays,Not Provided,5.0,overwt/neutral,22.0
+2012-01-26,Goldman Sachs,12 month,3.0,neutral/cautious,16.0
+2012-01-26,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-01-27,Craig-Hallum Capital Group LLC,12 month,5.0,buy,20.5
+2012-01-27,Credit Suisse,Not Provided,5.0,outperform,20.0
+2012-01-27,UBS,12 month,3.0,neutral,18.0
+2012-01-27,Piper Jaffray,12 month,5.0,overweight,22.0
+2012-01-27,D.A. Davidson & Co,12 month,5.0,buy,22.0
+2012-02-07,D.A. Davidson & Co,12 month,5.0,buy,22.0
+2012-02-08,Stifel,12 month,5.0,buy,20.0
+2012-02-12,Susquehanna Financial,12 month,4.0,Positive,21.0
+2012-02-13,Stifel,12 month,5.0,buy,20.0
+2012-02-20,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-02-23,Piper Jaffray,12 month,5.0,overweight,22.0
+2012-03-08,Susquehanna Financial,12 month,4.0,Positive,21.0
+2012-03-09,Susquehanna Financial,12 month,4.0,Positive,23.0
+2012-03-09,Piper Jaffray,12 month,5.0,overweight,22.0
+2012-03-12,Stifel,12 month,5.0,buy,20.0
+2012-04-02,Credit Suisse,Not Provided,5.0,outperform,20.0
+2012-04-10,D.A. Davidson & Co,Not Provided,5.0,buy,22.0
+2012-04-12,Susquehanna Financial,12 month,4.0,Positive,23.0
+2012-04-13,Stifel,12 month,5.0,buy,21.0
+2012-04-18,Cowen,Not Provided,3.0,neutral,-0.0
+2012-04-26,Barclays,Not Provided,5.0,overwt/neutral,22.0
+2012-04-26,Stifel,12 month,5.0,buy,22.0
+2012-04-26,Cowen,Not Provided,3.0,neutral,-0.0
+2012-04-26,Credit Suisse,Not Provided,5.0,outperform,22.5
+2012-04-26,Goldman Sachs,12 month,3.0,neutral/cautious,18.0
+2012-04-26,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2012-04-27,Piper Jaffray,12 month,5.0,overweight,24.0
+2012-04-27,Susquehanna Financial,12 month,4.0,Positive,25.0
+2012-04-27,D.A. Davidson & Co,12 month,5.0,buy,26.0
+2012-04-27,UBS,12 month,3.0,neutral,19.0
+2012-04-30,Barclays,Not Provided,5.0,overwt/neutral,22.0
+2012-05-11,Susquehanna Financial,12 month,4.0,Positive,25.0
+2012-05-14,Stifel,12 month,5.0,buy,22.0
+2012-05-18,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-05-18,Susquehanna Financial,12 month,4.0,Positive,25.0
+2012-05-21,Stifel,12 month,5.0,buy,22.0
+2012-05-22,Goldman Sachs,12 month,5.0,Buy/Neutral,18.0
+2012-05-29,Piper Jaffray,12 month,5.0,overweight,24.0
+2012-06-01,Cowen,Not Provided,3.0,neutral,-0.0
+2012-06-10,Susquehanna Financial,12 month,4.0,Positive,25.0
+2012-06-11,UBS,12 month,3.0,neutral,15.0
+2012-06-11,D.A. Davidson & Co,12 month,5.0,buy,26.0
+2012-06-14,Stifel,12 month,5.0,buy,22.0
+2012-06-29,Piper Jaffray,12 month,5.0,overweight,24.0
+2012-07-02,Stifel,12 month,5.0,buy,22.0
+2012-07-05,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2012-07-06,D.A. Davidson & Co,18 month,5.0,buy,26.0
+2012-07-09,Susquehanna Financial,12 month,4.0,Positive,25.0
+2012-07-09,Barclays,Not Provided,5.0,overwt/neutral,22.0
+2012-07-11,Barclays,Not Provided,5.0,overwt/neutral,22.0
+2012-07-12,D.A. Davidson & Co,18 month,5.0,buy,26.0
+2012-07-13,Stifel,12 month,5.0,buy,22.0
+2012-07-16,Piper Jaffray,12 month,5.0,overweight,24.0
+2012-07-23,Susquehanna Financial,12 month,4.0,Positive,23.0
+2012-07-23,Stifel,12 month,5.0,buy,22.0
+2012-07-23,D.A. Davidson & Co,12 month,5.0,buy,26.0
+2012-07-26,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2012-07-26,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2012-07-26,Piper Jaffray,12 month,5.0,overweight,26.0
+2012-07-26,Barclays,Not Provided,5.0,overweight,22.0
+2012-07-26,Stifel,12 month,5.0,buy,22.0
+2012-07-26,Goldman Sachs,12 month,5.0,Buy/Neutral,20.0
+2012-07-26,D.A. Davidson & Co,12 month,5.0,buy,26.0
+2012-07-26,Cowen,Not Provided,3.0,neutral,-0.0
+2012-07-26,Credit Suisse,Not Provided,5.0,outperform,21.0
+2012-07-27,UBS,12 month,3.0,neutral,16.0
+2012-07-27,Craig-Hallum Capital Group LLC,12 month,5.0,buy,20.5
+2012-07-30,Susquehanna Financial,12 month,4.0,Positive,23.0
+2012-08-13,Stifel,12 month,5.0,buy,22.0
+2012-08-16,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2012-08-16,Susquehanna Financial,12 month,4.0,Positive,23.0
+2012-08-20,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2012-08-24,D.A. Davidson & Co,12 month,5.0,buy,26.0
+2012-08-28,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2012-08-29,Piper Jaffray,12 month,5.0,overweight,26.0
+2012-09-13,Piper Jaffray,12 month,5.0,overweight,26.0
+2012-09-16,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2012-09-21,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2012-09-24,Goldman Sachs,12 month,5.0,Buy/Neutral,18.0
+2012-10-02,Barclays,Not Provided,5.0,overweight,22.0
+2012-10-04,Susquehanna Financial,12 month,4.0,Positive,21.0
+2012-10-05,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2012-10-09,Piper Jaffray,12 month,5.0,overweight,26.0
+2012-10-11,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2012-10-12,Stifel,12 month,5.0,buy,22.0
+2012-10-16,Cowen,Not Provided,3.0,neutral,-0.0
+2012-10-19,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2012-10-22,Piper Jaffray,12 month,5.0,overweight,26.0
+2012-10-23,D.A. Davidson & Co,12 month,5.0,buy,26.0
+2012-10-24,Barclays,Not Provided,5.0,overweight,22.0
+2012-10-24,Susquehanna Financial,12 month,4.0,Positive,21.0
+2012-10-24,Credit Suisse,Not Provided,5.0,outperform,21.0
+2012-10-25,Credit Suisse,Not Provided,5.0,outperform,18.0
+2012-10-25,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2012-10-25,Stifel,12 month,5.0,buy,22.0
+2012-10-25,Susquehanna Financial,12 month,4.0,Positive,18.0
+2012-10-25,Piper Jaffray,12 month,5.0,overweight,21.0
+2012-10-25,Barclays,Not Provided,5.0,overweight,22.0
+2012-10-25,Sidoti & Company LLC,12 month,5.0,buy,18.0
+2012-10-26,UBS,12 month,3.0,neutral,16.0
+2012-10-26,Craig-Hallum Capital Group LLC,12 month,5.0,buy,17.0
+2012-10-26,D.A. Davidson & Co,12 month,5.0,buy,22.0
+2012-11-19,Sidoti & Company LLC,12 month,5.0,buy,18.0
+2012-12-04,D.A. Davidson & Co,12 month,5.0,buy,22.0
+2012-12-05,Susquehanna Financial,12 month,4.0,Positive,19.0
+2012-12-10,Needham & Co,12 month,5.0,buy,20.0
+2012-12-10,Sidoti & Company LLC,12 month,5.0,buy,18.0
+2012-12-13,Pacific Crest Securities,12 month,5.0,outperform,21.0
+2012-12-14,Barclays,Not Provided,5.0,overweight,22.0
+2012-12-19,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2013-01-03,Barclays,Not Provided,5.0,overweight,22.0
+2013-01-07,Stifel,12 month,5.0,buy,22.0
+2013-01-15,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2013-01-16,Stifel,12 month,5.0,buy,22.0
+2013-01-22,Susquehanna Financial,12 month,4.0,Positive,19.0
+2013-01-24,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2013-01-24,Barclays,Not Provided,5.0,overweight,22.0
+2013-01-24,D.A. Davidson & Co,18 month,5.0,buy,22.0
+2013-01-24,Stifel,12 month,5.0,buy,22.0
+2013-01-24,Pacific Crest Securities,12 month,5.0,outperform,21.0
+2013-01-24,Credit Suisse,Not Provided,5.0,outperform,22.0
+2013-01-24,Needham & Co,12 month,5.0,buy,19.0
+2013-01-24,Piper Jaffray,12 month,5.0,overweight,20.0
+2013-01-25,UBS,12 month,3.0,neutral,17.0
+2013-01-25,Craig-Hallum Capital Group LLC,12 month,3.0,hold,17.0
+2013-01-25,D.A. Davidson & Co,18 month,5.0,buy,22.0
+2013-01-25,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2013-02-04,Cowen,Not Provided,5.0,outperform,-0.0
+2013-02-07,Stifel,12 month,5.0,buy,22.0
+2013-02-11,Stifel,12 month,5.0,buy,22.0
+2013-02-13,Susquehanna Financial,12 month,4.0,Positive,21.0
+2013-02-25,Cowen,Not Provided,5.0,outperform,-0.0
+2013-03-08,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2013-03-15,Piper Jaffray,12 month,5.0,overweight,20.0
+2013-03-22,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2013-04-05,Cowen,Not Provided,5.0,outperform,-0.0
+2013-04-15,Stifel,12 month,5.0,buy,22.0
+2013-04-17,Pacific Crest Securities,12 month,5.0,outperform,21.0
+2013-04-19,Credit Suisse,Not Provided,5.0,outperform,22.0
+2013-04-19,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2013-04-22,Stifel,12 month,5.0,buy,22.0
+2013-04-25,D.A. Davidson & Co,18 month,5.0,buy,22.0
+2013-04-25,Cowen,Not Provided,5.0,outperform,-0.0
+2013-04-25,Piper Jaffray,12 month,5.0,overweight,20.0
+2013-04-25,Credit Suisse,Not Provided,5.0,outperform,23.0
+2013-04-25,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2013-04-25,Stifel,12 month,5.0,buy,22.0
+2013-04-25,Goldman Sachs,12 month,5.0,Buy/Neutral,20.0
+2013-04-25,Pacific Crest Securities,12 month,5.0,outperform,21.0
+2013-04-25,Needham & Co,12 month,5.0,buy,19.0
+2013-04-26,UBS,12 month,5.0,buy,25.0
+2013-04-26,Craig-Hallum Capital Group LLC,12 month,3.0,hold,18.0
+2013-04-29,Susquehanna Financial,12 month,4.0,Positive,21.0
+2013-05-08,Cowen,Not Provided,5.0,outperform,-0.0
+2013-05-10,D.A. Davidson & Co,18 month,5.0,buy,22.0
+2013-05-15,Piper Jaffray,12 month,5.0,overweight,20.0
+2013-05-15,Cowen,Not Provided,5.0,outperform,-0.0
+2013-05-15,Credit Suisse,Not Provided,5.0,outperform,23.0
+2013-05-29,Piper Jaffray,12 month,5.0,overweight,20.0
+2013-06-03,Credit Suisse,Not Provided,5.0,outperform,25.0
+2013-06-10,Needham & Co,12 month,5.0,buy,19.0
+2013-06-10,Sidoti & Company LLC,12 month,5.0,buy,22.0
+2013-06-11,Susquehanna Financial,12 month,4.0,Positive,21.0
+2013-06-19,Needham & Co,12 month,5.0,buy,19.0
+2013-06-24,Sidoti & Company LLC,12 month,5.0,buy,22.0
+2013-07-01,Needham & Co,12 month,5.0,buy,19.0
+2013-07-02,Stifel,12 month,5.0,buy,22.0
+2013-07-08,Cowen,12 month,5.0,outperform,25.0
+2013-07-08,Susquehanna Financial,12 month,4.0,Positive,21.0
+2013-07-10,Needham & Co,12 month,5.0,buy,19.0
+2013-07-11,Sidoti & Company LLC,12 month,5.0,buy,22.0
+2013-07-11,Pacific Crest Securities,12 month,5.0,outperform,21.0
+2013-07-15,Needham & Co,12 month,5.0,buy,23.0
+2013-07-15,Stifel,12 month,5.0,buy,22.0
+2013-07-16,Cowen,12 month,5.0,outperform,25.0
+2013-07-22,Sidoti & Company LLC,12 month,5.0,buy,22.0
+2013-07-22,Stifel,12 month,5.0,buy,22.0
+2013-07-23,Cowen,12 month,5.0,outperform,25.0
+2013-07-24,D.A. Davidson & Co,18 month,5.0,buy,22.0
+2013-07-25,Piper Jaffray,12 month,5.0,overweight,20.0
+2013-07-25,Stifel,12 month,5.0,buy,22.0
+2013-07-25,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2013-07-25,Susquehanna Financial,12 month,4.0,Positive,21.0
+2013-07-25,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2013-07-25,Needham & Co,12 month,5.0,buy,23.0
+2013-07-26,Craig-Hallum Capital Group LLC,12 month,3.0,hold,18.0
+2013-07-26,Credit Suisse,Not Provided,5.0,outperform,22.0
+2013-07-26,UBS,12 month,5.0,buy,20.0
+2013-07-26,D.A. Davidson & Co,12 month,5.0,buy,22.0
+2013-07-26,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-07-29,Cowen,12 month,5.0,outperform,24.0
+2013-08-05,Cowen,12 month,5.0,outperform,24.0
+2013-08-13,Piper Jaffray,12 month,5.0,overweight,20.0
+2013-08-15,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-08-19,Cowen,12 month,5.0,outperform,24.0
+2013-08-26,Cowen,12 month,5.0,outperform,24.0
+2013-09-06,D.A. Davidson & Co,12 month,5.0,buy,22.0
+2013-09-10,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2013-09-16,Cowen,12 month,5.0,outperform,24.0
+2013-09-19,Stifel,12 month,5.0,buy,22.0
+2013-09-23,Cowen,12 month,5.0,outperform,24.0
+2013-09-25,Stifel,12 month,5.0,buy,22.0
+2013-09-30,Cowen,12 month,5.0,outperform,24.0
+2013-10-07,Cowen,12 month,5.0,outperform,22.0
+2013-10-11,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-10-11,Stifel,12 month,5.0,buy,22.0
+2013-10-22,D.A. Davidson & Co,18 month,5.0,buy,22.0
+2013-10-24,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-10-24,Piper Jaffray,12 month,5.0,overweight,19.0
+2013-10-24,Cowen,12 month,5.0,outperform,22.0
+2013-10-24,Stifel,12 month,5.0,buy,22.0
+2013-10-24,Susquehanna Financial,12 month,4.0,Positive,20.0
+2013-10-24,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2013-10-25,Craig-Hallum Capital Group LLC,12 month,3.0,hold,18.0
+2013-10-25,D.A. Davidson & Co,12 month,5.0,buy,22.0
+2013-10-25,Credit Suisse,Not Provided,5.0,outperform,20.0
+2013-10-25,Needham & Co,12 month,5.0,buy,21.0
+2013-10-28,Cowen,12 month,5.0,outperform,22.0
+2013-11-04,Cowen,12 month,5.0,outperform,22.0
+2013-11-11,Susquehanna Financial,12 month,4.0,Positive,20.0
+2013-11-13,Cowen,12 month,5.0,outperform,22.0
+2013-11-13,Stifel,12 month,5.0,buy,22.0
+2013-12-05,Sidoti & Company LLC,12 month,5.0,buy,20.0
+2013-12-17,Susquehanna Financial,12 month,4.0,Positive,20.0
+2013-12-19,Cowen,12 month,5.0,outperform,22.0

@@ -1,0 +1,1360 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2014-03-12,J.P. Morgan,6 month,5.0,overweight,114.0
+2014-04-03,ISI Group,12 month,5.0,buy,127.0
+2014-04-22,Wunderlich Securities,18 month,5.0,buy,162.0
+2014-04-28,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-05-07,Morgan Stanley,12 month,5.0,Overwt/Attractive,170.0
+2014-05-08,Barclays,Not Provided,5.0,overweight,143.0
+2014-05-08,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,153.0
+2014-05-13,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-05-16,US Capital Advisors,12 month,5.0,buy,175.0
+2014-05-17,Macquarie,12 month,3.0,neutral,135.0
+2014-05-20,KLR Group,Not Provided,3.0,hold,133.0
+2014-05-20,KeyBanc Capital Markets,12 month,5.0,buy,159.0
+2014-05-22,Cowen,Not Provided,5.0,outperform,160.0
+2014-05-28,Piper Jaffray,Not Provided,5.0,overweight,163.0
+2014-05-30,Tudor Pickering & Co,Not Provided,5.0,buy,164.0
+2014-06-03,FBR Capital Markets,12 month,3.0,market perform,120.0
+2014-06-09,Stifel,12 month,5.0,buy,150.0
+2014-06-09,BMO Capital Markets,Not Provided,5.0,outperform,170.0
+2014-06-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-23,Raymond James,Not Provided,5.0,outperform,155.0
+2014-06-23,Topeka Capital Markets Inc,12 month,3.0,hold,130.0
+2014-06-23,Seaport Global Securities,Not Provided,5.0,buy,175.0
+2014-06-24,GMP,Not Provided,5.0,buy,176.0
+2014-06-26,J.P. Morgan,12 month,5.0,overweight,156.0
+2014-06-30,Canaccord Genuity,12 month,5.0,buy,169.0
+2014-06-30,Raymond James,12 month,5.0,outperform,155.0
+2014-06-30,Topeka Capital Markets Inc,12 month,3.0,hold,130.0
+2014-07-01,KeyBanc Capital Markets,12 month,5.0,buy,159.0
+2014-07-01,Macquarie,12 month,3.0,neutral,135.0
+2014-07-01,Seaport Global Securities,12 month,5.0,buy,175.0
+2014-07-02,Canaccord Genuity,Not Provided,5.0,buy,170.0
+2014-07-03,FBR Capital Markets,Not Provided,3.0,market perform,135.0
+2014-07-07,Wunderlich Securities,18 month,5.0,buy,162.0
+2014-07-07,Topeka Capital Markets Inc,12 month,3.0,hold,146.0
+2014-07-08,BMO Capital Markets,Not Provided,5.0,outperform,190.0
+2014-07-08,Scotia Howard Weil Inc,12 month,5.0,sector outperform,174.0
+2014-07-09,Piper Jaffray,Not Provided,5.0,overweight,182.0
+2014-07-09,KeyBanc Capital Markets,Not Provided,5.0,buy,159.0
+2014-07-09,Morgan Stanley,12 month,5.0,Overwt/Attractive,190.0
+2014-07-10,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,182.0
+2014-07-14,Topeka Capital Markets Inc,12 month,3.0,hold,146.0
+2014-07-14,Raymond James,12 month,5.0,outperform,155.0
+2014-07-18,Macquarie,12 month,3.0,neutral,141.0
+2014-07-21,KLR Group,Not Provided,3.0,hold,152.0
+2014-07-21,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-07-21,ISI Group,12 month,5.0,buy,151.0
+2014-07-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-22,Wunderlich Securities,Not Provided,5.0,buy,162.0
+2014-07-22,Canaccord Genuity,Not Provided,5.0,buy,183.0
+2014-07-22,Seaport Global Securities,Not Provided,5.0,buy,189.0
+2014-07-22,FBR Capital Markets,Not Provided,3.0,market perform,135.0
+2014-07-22,Scotia Howard Weil Inc,12 month,5.0,sector outperform,182.0
+2014-07-22,Raymond James,Not Provided,5.0,outperform,155.0
+2014-07-23,US Capital Advisors,Not Provided,5.0,buy,175.0
+2014-07-23,Canaccord Genuity,Not Provided,5.0,buy,183.0
+2014-07-23,Barclays,Not Provided,5.0,overweight,170.0
+2014-07-28,Topeka Capital Markets Inc,12 month,3.0,hold,146.0
+2014-08-01,GMP,Not Provided,5.0,buy,176.0
+2014-08-01,Raymond James,Not Provided,5.0,outperform,155.0
+2014-08-04,Topeka Capital Markets Inc,12 month,3.0,hold,146.0
+2014-08-05,Stifel,12 month,5.0,buy,150.0
+2014-08-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-08-05,Barclays,Not Provided,5.0,overweight,170.0
+2014-08-05,Canaccord Genuity,12 month,5.0,buy,183.0
+2014-08-05,Seaport Global Securities,12 month,5.0,buy,189.0
+2014-08-06,Canaccord Genuity,12 month,5.0,buy,183.0
+2014-08-06,Raymond James,12 month,5.0,outperform,155.0
+2014-08-06,Morgan Stanley,12 month,5.0,Overwt/Attractive,190.0
+2014-08-06,BMO Capital Markets,Not Provided,5.0,outperform,190.0
+2014-08-06,GMP,Not Provided,5.0,buy,176.0
+2014-08-07,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-08-07,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,211.0
+2014-08-07,Wunderlich Securities,12 month,5.0,buy,162.0
+2014-08-08,Barclays,Not Provided,5.0,overweight,172.0
+2014-08-08,KLR Group,Not Provided,4.0,accumulate,156.0
+2014-08-11,Topeka Capital Markets Inc,12 month,3.0,hold,150.0
+2014-08-12,Seaport Global Securities,12 month,5.0,buy,189.0
+2014-08-12,ISI Group,Not Provided,3.0,neutral,-0.0
+2014-08-13,Piper Jaffray,Not Provided,5.0,overweight,192.0
+2014-08-14,Wunderlich Securities,Not Provided,5.0,buy,162.0
+2014-08-15,GMP,Not Provided,5.0,buy,178.0
+2014-08-15,US Capital Advisors,Not Provided,5.0,buy,186.0
+2014-08-15,Macquarie,12 month,3.0,neutral,141.0
+2014-08-15,FBR Capital Markets,Not Provided,3.0,market perform,135.0
+2014-08-17,Canaccord Genuity,12 month,5.0,buy,183.0
+2014-08-18,BMO Capital Markets,Not Provided,5.0,outperform,190.0
+2014-08-18,KLR Group,Not Provided,4.0,accumulate,156.0
+2014-08-18,Seaport Global Securities,12 month,5.0,buy,189.0
+2014-08-18,Topeka Capital Markets Inc,12 month,3.0,hold,150.0
+2014-08-20,KeyBanc Capital Markets,Not Provided,5.0,buy,159.0
+2014-08-20,Raymond James,12 month,5.0,outperform,155.0
+2014-08-22,GMP,Not Provided,5.0,buy,178.0
+2014-08-22,Piper Jaffray,Not Provided,5.0,overweight,180.0
+2014-08-26,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-08-26,US Capital Advisors,12 month,5.0,buy,189.0
+2014-08-26,Seaport Global Securities,12 month,5.0,buy,189.0
+2014-08-26,Topeka Capital Markets Inc,12 month,3.0,hold,153.0
+2014-08-26,ISI Group,Not Provided,3.0,neutral,-0.0
+2014-08-26,Wunderlich Securities,12 month,5.0,buy,162.0
+2014-08-26,Scotia Howard Weil Inc,12 month,5.0,sector outperform,211.0
+2014-08-27,Canaccord Genuity,Not Provided,5.0,buy,189.0
+2014-08-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-08-28,Raymond James,12 month,5.0,outperform,155.0
+2014-08-30,Macquarie,12 month,3.0,neutral,141.0
+2014-09-02,GMP,Not Provided,5.0,buy,178.0
+2014-09-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-08,GMP,Not Provided,5.0,buy,178.0
+2014-09-08,Raymond James,Not Provided,5.0,outperform,153.0
+2014-09-15,Seaport Global Securities,Not Provided,5.0,buy,189.0
+2014-09-17,Wunderlich Securities,12 month,5.0,buy,162.0
+2014-09-29,Topeka Capital Markets Inc,12 month,3.0,hold,153.0
+2014-09-30,Stifel,12 month,5.0,buy,160.0
+2014-10-03,Scotia Howard Weil Inc,12 month,5.0,sector outperform,197.0
+2014-10-06,Topeka Capital Markets Inc,12 month,3.0,hold,153.0
+2014-10-06,Seaport Global Securities,12 month,5.0,buy,189.0
+2014-10-06,Morgan Stanley,12 month,5.0,Overwt/Attractive,180.0
+2014-10-06,Piper Jaffray,Not Provided,5.0,overweight,175.0
+2014-10-08,Canaccord Genuity,Not Provided,5.0,buy,188.0
+2014-10-08,Macquarie,12 month,5.0,outperform,153.0
+2014-10-09,KeyBanc Capital Markets,Not Provided,5.0,buy,150.0
+2014-10-09,Barclays,Not Provided,5.0,overweight,151.0
+2014-10-09,Seaport Global Securities,12 month,5.0,buy,189.0
+2014-10-10,Piper Jaffray,Not Provided,5.0,overweight,156.0
+2014-10-10,FBR Capital Markets,Not Provided,3.0,market perform,135.0
+2014-10-13,BMO Capital Markets,Not Provided,5.0,outperform,190.0
+2014-10-13,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-10-13,Topeka Capital Markets Inc,12 month,3.0,hold,150.0
+2014-10-13,Stifel,12 month,5.0,buy,150.0
+2014-10-14,KLR Group,Not Provided,4.0,accumulate,147.0
+2014-10-15,Tudor Pickering & Co,Not Provided,5.0,buy,166.0
+2014-10-15,Macquarie,12 month,5.0,outperform,153.0
+2014-10-16,Brean Capital LLC,12 month,3.0,hold,139.0
+2014-10-17,US Capital Advisors,Not Provided,5.0,buy,189.0
+2014-10-20,GMP,Not Provided,5.0,buy,178.0
+2014-10-20,KLR Group,Not Provided,4.0,accumulate,147.0
+2014-10-20,Raymond James,Not Provided,5.0,outperform,125.0
+2014-10-20,Topeka Capital Markets Inc,12 month,3.0,hold,150.0
+2014-10-21,Seaport Global Securities,Not Provided,5.0,buy,160.0
+2014-10-21,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,197.0
+2014-10-22,Wunderlich Securities,Not Provided,5.0,buy,141.0
+2014-10-26,Stifel,12 month,5.0,buy,150.0
+2014-10-27,Topeka Capital Markets Inc,12 month,3.0,hold,150.0
+2014-10-27,GMP,Not Provided,5.0,buy,178.0
+2014-10-28,BMO Capital Markets,Not Provided,5.0,outperform,190.0
+2014-10-28,Morgan Stanley,12 month,5.0,Overwt/Attractive,180.0
+2014-10-28,Canaccord Genuity,12 month,5.0,buy,188.0
+2014-11-03,KLR Group,Not Provided,4.0,accumulate,147.0
+2014-11-04,Seaport Global Securities,12 month,5.0,buy,160.0
+2014-11-04,Stifel,12 month,5.0,buy,150.0
+2014-11-04,Barclays,Not Provided,5.0,overweight,151.0
+2014-11-04,KeyBanc Capital Markets,Not Provided,5.0,buy,150.0
+2014-11-05,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-11-05,Topeka Capital Markets Inc,12 month,3.0,hold,140.0
+2014-11-05,Raymond James,12 month,5.0,outperform,125.0
+2014-11-05,GMP,Not Provided,5.0,buy,178.0
+2014-11-05,Wunderlich Securities,18 month,5.0,buy,141.0
+2014-11-05,BMO Capital Markets,Not Provided,5.0,outperform,190.0
+2014-11-05,Canaccord Genuity,12 month,5.0,buy,188.0
+2014-11-05,Morgan Stanley,12 month,5.0,Overwt/Attractive,180.0
+2014-11-05,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,197.0
+2014-11-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-06,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-11-06,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-11-06,GMP,Not Provided,5.0,buy,161.0
+2014-11-06,Wunderlich Securities,12 month,5.0,buy,141.0
+2014-11-07,Piper Jaffray,Not Provided,5.0,overweight,160.0
+2014-11-07,Barclays,Not Provided,5.0,overweight,141.0
+2014-11-10,Raymond James,12 month,5.0,outperform,125.0
+2014-11-10,KLR Group,Not Provided,4.0,accumulate,133.0
+2014-11-10,Topeka Capital Markets Inc,12 month,3.0,hold,140.0
+2014-11-11,Macquarie,12 month,5.0,outperform,153.0
+2014-11-14,KeyBanc Capital Markets,Not Provided,5.0,buy,150.0
+2014-11-14,Tudor Pickering & Co,Not Provided,5.0,buy,163.0
+2014-11-17,GMP,Not Provided,5.0,buy,161.0
+2014-11-17,Piper Jaffray,Not Provided,5.0,overweight,141.0
+2014-11-17,Topeka Capital Markets Inc,12 month,3.0,hold,140.0
+2014-11-18,BMO Capital Markets,Not Provided,5.0,outperform,170.0
+2014-11-20,KLR Group,Not Provided,4.0,accumulate,133.0
+2014-11-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-24,Canaccord Genuity,Not Provided,5.0,buy,138.0
+2014-11-24,Wunderlich Securities,12 month,5.0,buy,141.0
+2014-11-25,Morgan Stanley,12 month,5.0,Overwt/Attractive,153.0
+2014-11-28,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2014-12-01,KeyBanc Capital Markets,Not Provided,5.0,buy,140.0
+2014-12-01,Topeka Capital Markets Inc,12 month,3.0,hold,140.0
+2014-12-02,Seaport Global Securities,12 month,5.0,buy,125.0
+2014-12-02,Tudor Pickering & Co,Not Provided,5.0,buy,157.0
+2014-12-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-03,Canaccord Genuity,Not Provided,5.0,buy,138.0
+2014-12-05,US Capital Advisors,Not Provided,5.0,buy,169.0
+2014-12-05,Piper Jaffray,Not Provided,5.0,overweight,121.0
+2014-12-08,Topeka Capital Markets Inc,12 month,3.0,hold,140.0
+2014-12-08,BMO Capital Markets,Not Provided,5.0,outperform,170.0
+2014-12-09,Macquarie,12 month,5.0,outperform,124.0
+2014-12-09,J.P. Morgan,12 month,5.0,overweight,125.0
+2014-12-11,FBR Capital Markets,Not Provided,3.0,market perform,105.0
+2014-12-15,BMO Capital Markets,Not Provided,5.0,outperform,130.0
+2014-12-15,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2014-12-15,J.P. Morgan,Not Provided,5.0,overweight,116.0
+2014-12-16,Scotia Howard Weil Inc,Not Provided,5.0,focus list,151.0
+2014-12-16,Societe Generale,12 month,5.0,buy,119.0
+2014-12-16,Wunderlich Securities,Not Provided,5.0,buy,122.0
+2014-12-16,Morgan Stanley,12 month,5.0,Overwt/Attractive,134.0
+2014-12-17,FBR Capital Markets,Not Provided,3.0,market perform,105.0
+2014-12-18,Barclays,Not Provided,5.0,overweight,130.0
+2014-12-22,Topeka Capital Markets Inc,12 month,3.0,hold,140.0
+2014-12-22,BMO Capital Markets,Not Provided,5.0,outperform,130.0
+2014-12-30,Seaport Global Securities,Not Provided,5.0,buy,125.0
+2014-12-31,Brean Capital LLC,Not Provided,3.0,hold,-0.0
+2015-01-05,Topeka Capital Markets Inc,12 month,3.0,hold,140.0
+2015-01-06,Raymond James,Not Provided,5.0,outperform,113.0
+2015-01-06,Stifel,12 month,5.0,buy,120.0
+2015-01-08,Tudor Pickering & Co,Not Provided,5.0,buy,155.0
+2015-01-08,Wunderlich Securities,12 month,5.0,buy,122.0
+2015-01-09,Canaccord Genuity,12 month,5.0,buy,138.0
+2015-01-09,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-01-09,Piper Jaffray,Not Provided,5.0,overweight,106.0
+2015-01-14,Barclays,Not Provided,5.0,overweight,115.0
+2015-01-15,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-01-15,Morgan Stanley,12 month,5.0,Overwt/Attractive,132.0
+2015-01-16,Canaccord Genuity,Not Provided,5.0,buy,124.0
+2015-01-16,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-01-20,GMP,Not Provided,5.0,buy,138.0
+2015-01-21,Macquarie,12 month,5.0,outperform,120.0
+2015-01-23,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-01-23,Topeka Capital Markets Inc,12 month,3.0,hold,94.0
+2015-01-26,Canaccord Genuity,12 month,5.0,buy,124.0
+2015-01-26,GMP,Not Provided,5.0,buy,138.0
+2015-01-27,KLR Group,Not Provided,4.0,accumulate,121.0
+2015-01-27,BMO Capital Markets,Not Provided,5.0,outperform,130.0
+2015-01-27,Scotia Howard Weil Inc,Not Provided,5.0,focus list,151.0
+2015-01-29,BMO Capital Markets,Not Provided,5.0,outperform,130.0
+2015-01-29,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2015-01-30,FBR Capital Markets,Not Provided,3.0,market perform,100.0
+2015-02-02,Scotia Howard Weil Inc,Not Provided,5.0,focus list,127.0
+2015-02-02,Stifel,12 month,5.0,buy,130.0
+2015-02-02,Topeka Capital Markets Inc,12 month,3.0,hold,94.0
+2015-02-03,Seaport Global Securities,Not Provided,5.0,buy,125.0
+2015-02-05,Jefferies,Not Provided,1.0,underperform,89.0
+2015-02-05,Topeka Capital Markets Inc,12 month,3.0,hold,94.0
+2015-02-06,Societe Generale,12 month,5.0,buy,132.0
+2015-02-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-02-09,US Capital Advisors,Not Provided,5.0,buy,147.0
+2015-02-10,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-02-10,Barclays,Not Provided,5.0,overweight,115.0
+2015-02-13,Piper Jaffray,Not Provided,5.0,overweight,107.0
+2015-02-17,Seaport Global Securities,12 month,5.0,buy,125.0
+2015-02-18,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2015-02-18,Barclays,Not Provided,5.0,overweight,115.0
+2015-02-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-18,Raymond James,Not Provided,5.0,outperform,113.0
+2015-02-18,Morgan Stanley,12 month,5.0,Overwt/Attractive,132.0
+2015-02-18,Topeka Capital Markets Inc,12 month,3.0,hold,105.0
+2015-02-18,Stifel,12 month,5.0,buy,130.0
+2015-02-18,Scotia Howard Weil Inc,Not Provided,5.0,focus list,127.0
+2015-02-18,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-02-18,Jefferies,12 month,1.0,underperform,89.0
+2015-02-18,Wolfe Research,12 month,5.0,outperform,130.0
+2015-02-18,Societe Generale,12 month,5.0,buy,132.0
+2015-02-18,BMO Capital Markets,Not Provided,5.0,outperform,130.0
+2015-02-18,GMP,Not Provided,5.0,buy,138.0
+2015-02-19,Macquarie,12 month,5.0,outperform,120.0
+2015-02-19,Raymond James,12 month,5.0,outperform,125.0
+2015-02-19,Wunderlich Securities,12 month,5.0,buy,132.0
+2015-02-20,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-02-20,Scotia Howard Weil Inc,Not Provided,5.0,focus list,141.0
+2015-02-20,GMP,Not Provided,5.0,buy,145.0
+2015-02-20,Piper Jaffray,Not Provided,5.0,overweight,117.0
+2015-02-23,Jefferies,Not Provided,1.0,underperform,100.0
+2015-02-23,Topeka Capital Markets Inc,12 month,3.0,hold,105.0
+2015-02-26,US Capital Advisors,Not Provided,5.0,buy,147.0
+2015-03-01,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-03-02,KLR Group,Not Provided,4.0,accumulate,121.0
+2015-03-02,Topeka Capital Markets Inc,12 month,3.0,hold,105.0
+2015-03-03,Seaport Global Securities,12 month,5.0,buy,140.0
+2015-03-03,GMP,Not Provided,5.0,buy,145.0
+2015-03-06,Piper Jaffray,Not Provided,5.0,overweight,117.0
+2015-03-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-03-09,Wunderlich Securities,Not Provided,5.0,buy,132.0
+2015-03-09,Topeka Capital Markets Inc,12 month,3.0,hold,105.0
+2015-03-09,Seaport Global Securities,Not Provided,5.0,buy,140.0
+2015-03-09,GMP,Not Provided,5.0,buy,145.0
+2015-03-09,KLR Group,Not Provided,4.0,accumulate,121.0
+2015-03-09,Scotia Howard Weil Inc,Not Provided,5.0,focus list,141.0
+2015-03-13,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-03-13,US Capital Advisors,Not Provided,5.0,buy,139.0
+2015-03-16,GMP,Not Provided,5.0,buy,145.0
+2015-03-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-16,Topeka Capital Markets Inc,12 month,3.0,hold,105.0
+2015-03-16,Barclays,Not Provided,5.0,overweight,115.0
+2015-03-17,Seaport Global Securities,Not Provided,5.0,buy,140.0
+2015-03-19,Tudor Pickering & Co,Not Provided,5.0,buy,140.0
+2015-03-20,Piper Jaffray,Not Provided,5.0,overweight,120.0
+2015-03-20,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-03-23,Topeka Capital Markets Inc,12 month,3.0,hold,105.0
+2015-03-26,Morgan Stanley,12 month,5.0,Overwt/Attractive,132.0
+2015-03-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-03-29,Barclays,Not Provided,5.0,overweight,115.0
+2015-03-30,Topeka Capital Markets Inc,12 month,3.0,hold,105.0
+2015-03-30,Wolfe Research,12 month,5.0,outperform,130.0
+2015-03-30,GMP,Not Provided,5.0,buy,145.0
+2015-04-06,GMP,Not Provided,5.0,buy,145.0
+2015-04-06,Topeka Capital Markets Inc,12 month,3.0,hold,105.0
+2015-04-06,Societe Generale,12 month,5.0,buy,135.0
+2015-04-07,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-04-08,Morgan Stanley,12 month,5.0,Overwt/Attractive,160.0
+2015-04-08,BMO Capital Markets,Not Provided,5.0,outperform,130.0
+2015-04-10,Wolfe Research,Not Provided,5.0,outperform,130.0
+2015-04-10,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-04-13,Topeka Capital Markets Inc,12 month,3.0,hold,105.0
+2015-04-14,KLR Group,Not Provided,4.0,accumulate,121.0
+2015-04-14,Goldman Sachs,12 month,3.0,neutral/neutral,125.0
+2015-04-14,Stifel,12 month,5.0,buy,150.0
+2015-04-14,GMP,Not Provided,5.0,buy,149.0
+2015-04-15,Wunderlich Securities,Not Provided,5.0,buy,142.0
+2015-04-15,Piper Jaffray,Not Provided,5.0,overweight,120.0
+2015-04-15,Macquarie,12 month,3.0,neutral,115.0
+2015-04-16,Raymond James,12 month,5.0,outperform,125.0
+2015-04-20,Topeka Capital Markets Inc,12 month,3.0,hold,105.0
+2015-04-20,GMP,Not Provided,5.0,buy,149.0
+2015-04-20,KLR Group,Not Provided,3.0,hold,127.0
+2015-04-20,Raymond James,Not Provided,5.0,outperform,143.0
+2015-04-20,BMO Capital Markets,Not Provided,5.0,outperform,135.0
+2015-04-21,Nomura,12 month,3.0,neutral,130.0
+2015-04-21,FBR Capital Markets,Not Provided,3.0,market perform,122.0
+2015-04-22,Stifel,12 month,5.0,buy,150.0
+2015-04-23,US Capital Advisors,12 month,5.0,buy,139.0
+2015-04-23,Piper Jaffray,Not Provided,5.0,overweight,121.0
+2015-04-24,Jefferies,Not Provided,1.0,underperform,109.0
+2015-04-26,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-04-27,Barclays,Not Provided,5.0,overweight,115.0
+2015-04-27,Cowen,12 month,5.0,outperform,154.0
+2015-04-27,GMP,Not Provided,5.0,buy,149.0
+2015-04-27,Topeka Capital Markets Inc,12 month,3.0,hold,105.0
+2015-04-27,US Capital Advisors,Not Provided,5.0,buy,139.0
+2015-04-28,Seaport Global Securities,12 month,5.0,buy,150.0
+2015-04-30,Wunderlich Securities,Not Provided,5.0,buy,142.0
+2015-04-30,BMO Capital Markets,Not Provided,5.0,outperform,135.0
+2015-05-04,Stifel,12 month,5.0,buy,150.0
+2015-05-04,GMP,Not Provided,5.0,buy,149.0
+2015-05-04,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-05-04,BMO Capital Markets,Not Provided,5.0,outperform,135.0
+2015-05-04,Cowen,12 month,5.0,outperform,154.0
+2015-05-04,Barclays,Not Provided,5.0,overweight,115.0
+2015-05-04,Jefferies,12 month,1.0,underperform,109.0
+2015-05-05,J.P. Morgan,9 month,5.0,overweight,137.0
+2015-05-05,Scotia Howard Weil Inc,Not Provided,5.0,focus list,141.0
+2015-05-05,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-05-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-05-05,Topeka Capital Markets Inc,12 month,3.0,hold,125.0
+2015-05-05,Morgan Stanley,12 month,5.0,Overwt/Attractive,160.0
+2015-05-05,FBR Capital Markets,12 month,3.0,market perform,122.0
+2015-05-05,Seaport Global Securities,12 month,5.0,buy,150.0
+2015-05-05,Wolfe Research,12 month,5.0,outperform,130.0
+2015-05-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-05-06,Wunderlich Securities,12 month,5.0,buy,142.0
+2015-05-08,KLR Group,Not Provided,3.0,hold,128.0
+2015-05-11,Goldman Sachs,12 month,3.0,neutral/neutral,126.0
+2015-05-11,BMO Capital Markets,Not Provided,5.0,outperform,135.0
+2015-05-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-12,Piper Jaffray,Not Provided,5.0,overweight,125.0
+2015-05-12,Macquarie,12 month,3.0,neutral,115.0
+2015-05-15,FBR Capital Markets,Not Provided,3.0,market perform,122.0
+2015-05-18,Goldman Sachs,12 month,3.0,neutral/neutral,124.0
+2015-05-18,Scotia Howard Weil Inc,Not Provided,5.0,focus list,145.0
+2015-05-18,Topeka Capital Markets Inc,12 month,3.0,hold,125.0
+2015-05-19,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-05-19,US Capital Advisors,Not Provided,5.0,buy,147.0
+2015-05-20,Stifel,12 month,5.0,buy,150.0
+2015-05-20,Morgan Stanley,12 month,5.0,Overwt/Attractive,160.0
+2015-05-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-05-20,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-05-20,Seaport Global Securities,12 month,5.0,buy,155.0
+2015-05-21,Nomura,12 month,3.0,neutral,130.0
+2015-05-21,GMP,Not Provided,5.0,buy,147.0
+2015-05-21,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-05-22,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-05-22,KLR Group,Not Provided,3.0,hold,124.0
+2015-05-22,Seaport Global Securities,12 month,5.0,buy,155.0
+2015-05-26,BMO Capital Markets,Not Provided,-2147483648.0,restricted,-0.0
+2015-05-26,Morgan Stanley,12 month,5.0,Overwt/Attractive,162.0
+2015-05-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-05-27,Macquarie,12 month,3.0,neutral,113.0
+2015-05-28,Goldman Sachs,12 month,3.0,neutral/neutral,122.0
+2015-06-01,GMP,Not Provided,5.0,buy,147.0
+2015-06-01,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-06-02,BMO Capital Markets,Not Provided,5.0,outperform,135.0
+2015-06-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-06-03,Barclays,Not Provided,5.0,overweight,118.0
+2015-06-04,Tudor Pickering & Co,Not Provided,5.0,buy,148.0
+2015-06-04,Evercore ISI,Not Provided,3.0,hold,136.0
+2015-06-05,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-06-08,GMP,Not Provided,5.0,buy,147.0
+2015-06-08,BMO Capital Markets,Not Provided,5.0,outperform,150.0
+2015-06-08,Topeka Capital Markets Inc,12 month,3.0,hold,125.0
+2015-06-09,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-06-15,GMP,Not Provided,5.0,buy,147.0
+2015-06-15,Evercore ISI,Not Provided,3.0,hold,136.0
+2015-06-15,Seaport Global Securities,Not Provided,5.0,buy,155.0
+2015-06-17,Cowen,12 month,5.0,outperform,154.0
+2015-06-22,Evercore ISI,Not Provided,3.0,hold,136.0
+2015-06-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-06-25,US Capital Advisors,Not Provided,5.0,buy,147.0
+2015-06-25,BMO Capital Markets,Not Provided,5.0,outperform,150.0
+2015-07-01,Stephens Inc,12 month,5.0,overweight,141.0
+2015-07-02,BMO Capital Markets,Not Provided,5.0,outperform,150.0
+2015-07-06,GMP,Not Provided,5.0,buy,147.0
+2015-07-06,Jefferies,12 month,1.0,underperform,94.0
+2015-07-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-08,Cowen,Not Provided,5.0,outperform,154.0
+2015-07-08,BMO Capital Markets,Not Provided,5.0,outperform,150.0
+2015-07-08,Morgan Stanley,12 month,5.0,Overwt/Attractive,160.0
+2015-07-09,FBR Capital Markets,Not Provided,3.0,market perform,113.0
+2015-07-10,Macquarie,12 month,3.0,neutral,113.0
+2015-07-13,Barclays,Not Provided,5.0,overweight,115.0
+2015-07-13,Topeka Capital Markets Inc,12 month,3.0,hold,125.0
+2015-07-13,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-07-13,Evercore ISI,Not Provided,3.0,hold,136.0
+2015-07-13,Piper Jaffray,Not Provided,5.0,overweight,128.0
+2015-07-14,Wolfe Research,12 month,5.0,outperform,130.0
+2015-07-14,Stifel,12 month,5.0,buy,150.0
+2015-07-14,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-07-16,Seaport Global Securities,12 month,5.0,buy,155.0
+2015-07-17,Piper Jaffray,Not Provided,5.0,overweight,125.0
+2015-07-17,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-07-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-07-20,Barclays,Not Provided,5.0,overweight,115.0
+2015-07-20,GMP,Not Provided,5.0,buy,140.0
+2015-07-20,KLR Group,Not Provided,3.0,hold,122.0
+2015-07-20,Topeka Capital Markets Inc,12 month,3.0,hold,120.0
+2015-07-20,Evercore ISI,Not Provided,3.0,hold,134.0
+2015-07-21,Stephens Inc,Not Provided,5.0,overweight,141.0
+2015-07-21,Jefferies,Not Provided,1.0,underperform,94.0
+2015-07-21,US Capital Advisors,Not Provided,5.0,buy,142.0
+2015-07-23,Wolfe Research,12 month,5.0,outperform,130.0
+2015-07-23,Tudor Pickering & Co,Not Provided,5.0,buy,159.0
+2015-07-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-07-26,Goldman Sachs,12 month,3.0,neutral/neutral,117.0
+2015-07-27,Seaport Global Securities,Not Provided,5.0,buy,145.0
+2015-07-27,Evercore ISI,Not Provided,3.0,hold,134.0
+2015-07-27,Scotia Howard Weil Inc,Not Provided,5.0,focus list,145.0
+2015-07-27,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-07-28,Wunderlich Securities,Not Provided,5.0,buy,131.0
+2015-08-03,Topeka Capital Markets Inc,12 month,3.0,hold,120.0
+2015-08-04,Seaport Global Securities,12 month,5.0,buy,145.0
+2015-08-04,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-08-04,Jefferies,12 month,1.0,underperform,94.0
+2015-08-05,Cowen,12 month,5.0,outperform,154.0
+2015-08-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-08-05,Stifel,12 month,5.0,buy,150.0
+2015-08-05,Morgan Stanley,12 month,5.0,Overwt/Attractive,160.0
+2015-08-05,Wolfe Research,12 month,5.0,outperform,123.0
+2015-08-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-05,Scotia Howard Weil Inc,Not Provided,5.0,focus list,145.0
+2015-08-06,Wunderlich Securities,12 month,5.0,buy,131.0
+2015-08-06,Goldman Sachs,12 month,3.0,neutral/neutral,119.0
+2015-08-06,Barclays,Not Provided,5.0,overweight,118.0
+2015-08-06,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-08-06,Tudor Pickering & Co,Not Provided,5.0,buy,151.0
+2015-08-07,Stephens Inc,12 month,5.0,overweight,130.0
+2015-08-07,KLR Group,Not Provided,3.0,hold,123.0
+2015-08-10,BMO Capital Markets,Not Provided,5.0,outperform,150.0
+2015-08-10,GMP,Not Provided,5.0,buy,140.0
+2015-08-10,Evercore ISI,Not Provided,3.0,hold,131.0
+2015-08-10,Topeka Capital Markets Inc,12 month,3.0,hold,120.0
+2015-08-10,FBR Capital Markets,12 month,3.0,market perform,108.0
+2015-08-11,Macquarie,12 month,3.0,neutral,113.0
+2015-08-12,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-08-12,Morgan Stanley,12 month,5.0,Overwt/Attractive,158.0
+2015-08-13,Seaport Global Securities,Not Provided,5.0,buy,145.0
+2015-08-14,Stephens Inc,Not Provided,5.0,overweight,130.0
+2015-08-14,Jefferies,Not Provided,1.0,underperform,99.0
+2015-08-14,Scotia Howard Weil Inc,Not Provided,5.0,focus list,145.0
+2015-08-14,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-08-17,KLR Group,Not Provided,3.0,hold,123.0
+2015-08-17,Tudor Pickering & Co,Not Provided,5.0,buy,153.0
+2015-08-17,Topeka Capital Markets Inc,12 month,3.0,hold,120.0
+2015-08-17,GMP,Not Provided,5.0,buy,140.0
+2015-08-17,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-08-17,Wolfe Research,Not Provided,5.0,outperform,123.0
+2015-08-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-21,Evercore ISI,Not Provided,3.0,hold,131.0
+2015-08-23,Wolfe Research,12 month,5.0,outperform,123.0
+2015-08-24,GMP,Not Provided,5.0,buy,140.0
+2015-08-24,Topeka Capital Markets Inc,12 month,3.0,hold,120.0
+2015-08-25,GMP,Not Provided,5.0,buy,140.0
+2015-08-26,Seaport Global Securities,12 month,5.0,buy,145.0
+2015-08-26,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-08-27,Stifel,Not Provided,5.0,buy,130.0
+2015-08-28,KLR Group,Not Provided,3.0,hold,123.0
+2015-08-31,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-09-01,BMO Capital Markets,Not Provided,5.0,outperform,150.0
+2015-09-02,"Morningstar, Inc",Not Provided,-2147483648.0,Under Review,-0.0
+2015-09-03,US Capital Advisors,Not Provided,5.0,buy,139.0
+2015-09-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-09-08,Barclays,Not Provided,5.0,overweight,116.0
+2015-09-08,Nomura,Not Provided,3.0,neutral,121.0
+2015-09-08,KLR Group,Not Provided,3.0,hold,123.0
+2015-09-08,GMP,Not Provided,5.0,buy,140.0
+2015-09-09,Macquarie,12 month,3.0,neutral,100.0
+2015-09-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-09-10,Evercore ISI,Not Provided,3.0,hold,120.0
+2015-09-11,Jefferies,12 month,1.0,underperform,96.0
+2015-09-11,Piper Jaffray,Not Provided,5.0,overweight,134.0
+2015-09-11,Goldman Sachs,12 month,3.0,neutral/neutral,101.0
+2015-09-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-11,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-09-14,GMP,Not Provided,5.0,buy,140.0
+2015-09-14,Topeka Capital Markets Inc,12 month,3.0,hold,120.0
+2015-09-15,Cowen,Not Provided,5.0,outperform,130.0
+2015-09-15,Stifel,Not Provided,5.0,buy,130.0
+2015-09-17,Iberia Capital Partners LLC,12 month,5.0,outperform,122.0
+2015-09-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-21,Topeka Capital Markets Inc,12 month,3.0,hold,120.0
+2015-09-21,Wolfe Research,Not Provided,5.0,outperform,123.0
+2015-09-21,GMP,Not Provided,5.0,buy,136.0
+2015-09-21,Coker & Palmer,12 month,5.0,buy,116.0
+2015-09-22,Cowen,Not Provided,5.0,outperform,130.0
+2015-09-22,Tudor Pickering & Co,Not Provided,5.0,buy,152.0
+2015-09-23,Wunderlich Securities,18 month,5.0,buy,131.0
+2015-09-25,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-09-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-26,Coker & Palmer,12 month,5.0,buy,116.0
+2015-09-27,Evercore ISI,Not Provided,3.0,hold,120.0
+2015-09-28,GMP,Not Provided,5.0,buy,136.0
+2015-09-28,Topeka Capital Markets Inc,12 month,3.0,hold,120.0
+2015-09-29,Scotia Howard Weil Inc,Not Provided,5.0,focus list,135.0
+2015-10-01,Seaport Global Securities,Not Provided,5.0,buy,145.0
+2015-10-02,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-10-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-10-05,KLR Group,Not Provided,3.0,hold,123.0
+2015-10-05,GMP,Not Provided,5.0,buy,136.0
+2015-10-06,Topeka Capital Markets Inc,12 month,3.0,hold,115.0
+2015-10-06,Tudor Pickering & Co,Not Provided,5.0,buy,144.0
+2015-10-06,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-10-06,Morgan Stanley,12 month,5.0,Overwt/Attractive,143.0
+2015-10-07,Piper Jaffray,Not Provided,5.0,overweight,134.0
+2015-10-07,BMO Capital Markets,Not Provided,5.0,outperform,150.0
+2015-10-08,Wolfe Research,Not Provided,5.0,outperform,123.0
+2015-10-08,Stephens Inc,Not Provided,5.0,overweight,115.0
+2015-10-12,Topeka Capital Markets Inc,12 month,3.0,hold,115.0
+2015-10-12,Evercore ISI,Not Provided,3.0,hold,120.0
+2015-10-12,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-10-12,Coker & Palmer,12 month,5.0,buy,110.0
+2015-10-13,Cowen,Not Provided,5.0,outperform,130.0
+2015-10-13,GMP,Not Provided,5.0,buy,136.0
+2015-10-14,Barclays,Not Provided,5.0,overweight,119.0
+2015-10-15,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-10-15,KLR Group,Not Provided,3.0,hold,119.0
+2015-10-15,Coker & Palmer,12 month,5.0,buy,110.0
+2015-10-16,Macquarie,12 month,3.0,neutral,100.0
+2015-10-16,US Capital Advisors,Not Provided,5.0,buy,165.0
+2015-10-16,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-10-19,Seaport Global Securities,Not Provided,5.0,buy,145.0
+2015-10-19,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-10-19,Canaccord Genuity,12 month,3.0,hold,110.0
+2015-10-19,Evercore ISI,Not Provided,3.0,hold,120.0
+2015-10-19,GMP,Not Provided,5.0,buy,136.0
+2015-10-20,Iberia Capital Partners LLC,12 month,5.0,outperform,122.0
+2015-10-21,Iberia Capital Partners LLC,12 month,5.0,outperform,122.0
+2015-10-21,Cowen,Not Provided,5.0,outperform,130.0
+2015-10-21,Jefferies,Not Provided,1.0,underperform,98.0
+2015-10-22,Wunderlich Securities,Not Provided,5.0,buy,129.0
+2015-10-26,GMP,Not Provided,5.0,buy,139.0
+2015-10-26,Topeka Capital Markets Inc,12 month,3.0,hold,115.0
+2015-10-27,Scotia Howard Weil Inc,Not Provided,5.0,focus list,135.0
+2015-10-29,Susquehanna Financial,12 month,3.0,neutral,128.0
+2015-11-02,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-11-02,GMP,Not Provided,5.0,buy,139.0
+2015-11-02,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-11-02,Tudor Pickering & Co,Not Provided,5.0,buy,143.0
+2015-11-03,Evercore ISI,Not Provided,3.0,hold,120.0
+2015-11-03,Cowen,Not Provided,5.0,outperform,130.0
+2015-11-03,Canaccord Genuity,12 month,3.0,hold,110.0
+2015-11-03,Iberia Capital Partners LLC,Not Provided,5.0,outperform,122.0
+2015-11-03,Jefferies,12 month,1.0,underperform,98.0
+2015-11-03,Barclays,Not Provided,5.0,overweight,119.0
+2015-11-04,Stephens Inc,12 month,5.0,overweight,115.0
+2015-11-04,Seaport Global Securities,12 month,5.0,buy,145.0
+2015-11-04,Morgan Stanley,12 month,5.0,Overwt/Attractive,143.0
+2015-11-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-11-04,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-11-04,Cowen,12 month,5.0,outperform,130.0
+2015-11-04,Wolfe Research,12 month,5.0,outperform,133.0
+2015-11-04,Stifel,12 month,5.0,buy,140.0
+2015-11-04,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-11-04,Scotia Howard Weil Inc,Not Provided,5.0,focus list,135.0
+2015-11-05,BMO Capital Markets,Not Provided,5.0,outperform,150.0
+2015-11-05,Wunderlich Securities,12 month,3.0,hold,122.0
+2015-11-05,Iberia Capital Partners LLC,Not Provided,5.0,outperform,142.0
+2015-11-05,Tudor Pickering & Co,Not Provided,5.0,buy,190.0
+2015-11-06,Coker & Palmer,12 month,5.0,buy,110.0
+2015-11-06,KLR Group,Not Provided,3.0,hold,120.0
+2015-11-06,Barclays,Not Provided,5.0,overweight,119.0
+2015-11-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-11-09,Canaccord Genuity,Not Provided,3.0,hold,116.0
+2015-11-09,Macquarie,12 month,3.0,neutral,105.0
+2015-11-09,GMP,Not Provided,5.0,buy,139.0
+2015-11-09,Evercore ISI,Not Provided,3.0,hold,120.0
+2015-11-09,Topeka Capital Markets Inc,12 month,3.0,hold,128.0
+2015-11-09,Piper Jaffray,Not Provided,5.0,overweight,139.0
+2015-11-10,Susquehanna Financial,12 month,3.0,neutral,128.0
+2015-11-11,Wunderlich Securities,12 month,3.0,hold,122.0
+2015-11-11,Goldman Sachs,12 month,3.0,neutral/neutral,102.0
+2015-11-11,Stifel,12 month,5.0,buy,140.0
+2015-11-12,Stephens Inc,12 month,3.0,equalweight,120.0
+2015-11-13,Piper Jaffray,Not Provided,5.0,overweight,138.0
+2015-11-13,BMO Capital Markets,Not Provided,5.0,outperform,150.0
+2015-11-13,Scotia Howard Weil Inc,Not Provided,5.0,focus list,137.0
+2015-11-16,Canaccord Genuity,Not Provided,3.0,hold,116.0
+2015-11-16,Evercore ISI,Not Provided,3.0,hold,120.0
+2015-11-16,GMP,Not Provided,5.0,buy,139.0
+2015-11-16,Topeka Capital Markets Inc,12 month,3.0,hold,128.0
+2015-11-16,Iberia Capital Partners LLC,Not Provided,5.0,outperform,142.0
+2015-11-17,Tudor Pickering & Co,Not Provided,5.0,buy,163.0
+2015-11-17,Coker & Palmer,12 month,5.0,buy,96.0
+2015-11-18,Stephens Inc,Not Provided,3.0,equalweight,120.0
+2015-11-19,Goldman Sachs,12 month,3.0,neutral/neutral,98.0
+2015-11-20,US Capital Advisors,Not Provided,5.0,buy,165.0
+2015-11-20,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-11-23,Evercore ISI,Not Provided,3.0,hold,120.0
+2015-11-23,GMP,Not Provided,5.0,buy,139.0
+2015-11-23,Coker & Palmer,12 month,5.0,buy,104.0
+2015-11-24,KeyBanc Capital Markets,Not Provided,5.0,overweight,135.0
+2015-11-25,Tudor Pickering & Co,Not Provided,5.0,buy,162.0
+2015-11-28,Evercore ISI,Not Provided,3.0,hold,120.0
+2015-11-30,GMP,Not Provided,5.0,buy,139.0
+2015-12-01,Jefferies,Not Provided,1.0,underperform,99.0
+2015-12-01,Stifel,12 month,5.0,buy,140.0
+2015-12-02,Cowen,Not Provided,5.0,outperform,130.0
+2015-12-02,Piper Jaffray,Not Provided,5.0,overweight,137.0
+2015-12-02,Susquehanna Financial,12 month,3.0,neutral,128.0
+2015-12-02,Barclays,Not Provided,5.0,overweight,119.0
+2015-12-03,KeyBanc Capital Markets,12 month,5.0,overweight,135.0
+2015-12-03,Susquehanna Financial,12 month,3.0,neutral,128.0
+2015-12-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-12-07,GMP,Not Provided,5.0,buy,139.0
+2015-12-07,Topeka Capital Markets Inc,12 month,3.0,hold,128.0
+2015-12-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-08,Barclays,Not Provided,5.0,overweight,119.0
+2015-12-09,J.P. Morgan,Not Provided,3.0,neutral,113.0
+2015-12-13,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-12-14,GMP,Not Provided,5.0,buy,139.0
+2015-12-14,Scotia Howard Weil Inc,Not Provided,5.0,focus list,128.0
+2015-12-14,UBS,12 month,3.0,neutral,108.0
+2015-12-14,Tudor Pickering & Co,Not Provided,5.0,buy,165.0
+2015-12-15,Coker & Palmer,12 month,5.0,buy,97.0
+2015-12-15,Iberia Capital Partners LLC,Not Provided,5.0,outperform,142.0
+2015-12-15,Wolfe Research,12 month,5.0,outperform,120.0
+2015-12-16,SunTrust Robinson Humphrey,12 month,5.0,buy,130.0
+2015-12-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-17,Stifel,12 month,5.0,buy,130.0
+2015-12-20,Evercore ISI,Not Provided,3.0,hold,120.0
+2015-12-21,GMP,Not Provided,5.0,buy,139.0
+2015-12-21,Topeka Capital Markets Inc,12 month,3.0,hold,128.0
+2015-12-22,"Capital One Securities, Inc.",Not Provided,5.0,overweight,122.0
+2015-12-22,KeyBanc Capital Markets,Not Provided,5.0,overweight,115.0
+2015-12-22,BMO Capital Markets,Not Provided,5.0,outperform,125.0
+2015-12-23,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-12-24,Coker & Palmer,12 month,5.0,buy,94.0
+2015-12-28,SunTrust Robinson Humphrey,Not Provided,5.0,buy,130.0
+2015-12-29,GMP,Not Provided,5.0,buy,139.0
+2015-12-31,Cowen,Not Provided,5.0,outperform,130.0
+2015-12-31,Goldman Sachs,12 month,3.0,neutral/neutral,94.0
+2016-01-04,Wunderlich Securities,12 month,3.0,hold,122.0
+2016-01-04,Evercore ISI,Not Provided,5.0,buy,120.0
+2016-01-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-01-04,Seaport Global Securities,Not Provided,5.0,buy,145.0
+2016-01-04,GMP,Not Provided,5.0,buy,139.0
+2016-01-07,Iberia Capital Partners LLC,12 month,5.0,outperform,142.0
+2016-01-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-07,US Capital Advisors,Not Provided,5.0,buy,155.0
+2016-01-08,Macquarie,12 month,3.0,neutral,90.0
+2016-01-08,Piper Jaffray,Not Provided,5.0,overweight,120.0
+2016-01-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-01-10,Evercore ISI,Not Provided,5.0,buy,120.0
+2016-01-11,GMP,Not Provided,5.0,buy,139.0
+2016-01-11,Susquehanna Financial,12 month,3.0,neutral,93.0
+2016-01-11,Topeka Capital Markets Inc,12 month,3.0,hold,128.0
+2016-01-11,Barclays,Not Provided,5.0,overweight,119.0
+2016-01-11,Iberia Capital Partners LLC,Not Provided,5.0,outperform,140.0
+2016-01-12,BMO Capital Markets,Not Provided,5.0,outperform,125.0
+2016-01-12,UBS,12 month,3.0,neutral,90.0
+2016-01-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,104.0
+2016-01-12,Jefferies,Not Provided,1.0,underperform,72.0
+2016-01-13,Seaport Global Securities,12 month,5.0,buy,133.0
+2016-01-14,Coker & Palmer,12 month,5.0,buy,94.0
+2016-01-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-15,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-01-15,Tudor Pickering & Co,Not Provided,5.0,buy,154.0
+2016-01-19,Tudor Pickering & Co,Not Provided,5.0,buy,149.0
+2016-01-19,KLR Group,Not Provided,3.0,hold,100.0
+2016-01-20,Canaccord Genuity,Not Provided,3.0,hold,82.0
+2016-01-20,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-01-20,"Capital One Securities, Inc.",Not Provided,5.0,overweight,114.0
+2016-01-20,Coker & Palmer,12 month,5.0,buy,86.0
+2016-01-21,Stephens Inc,Not Provided,3.0,equalweight,85.0
+2016-01-21,Nomura,Not Provided,3.0,neutral,89.0
+2016-01-21,Evercore ISI,Not Provided,5.0,buy,104.0
+2016-01-25,Topeka Capital Markets Inc,12 month,3.0,hold,110.0
+2016-01-25,GMP,Not Provided,5.0,buy,139.0
+2016-01-26,Goldman Sachs,12 month,3.0,neutral/neutral,92.0
+2016-01-26,Susquehanna Financial,12 month,3.0,neutral,93.0
+2016-01-27,Wolfe Research,12 month,5.0,outperform,111.0
+2016-01-27,Piper Jaffray,Not Provided,5.0,overweight,111.0
+2016-01-28,Barclays,Not Provided,5.0,overweight,113.0
+2016-01-28,Wunderlich Securities,Not Provided,5.0,buy,122.0
+2016-02-01,SunTrust Robinson Humphrey,Not Provided,5.0,buy,115.0
+2016-02-01,Jefferies,Not Provided,1.0,underperform,71.0
+2016-02-01,Cowen,Not Provided,5.0,outperform,130.0
+2016-02-02,J.P. Morgan,12 month,3.0,neutral,93.0
+2016-02-03,Iberia Capital Partners LLC,Not Provided,5.0,outperform,140.0
+2016-02-03,GMP,Not Provided,5.0,buy,103.0
+2016-02-03,Stifel,Not Provided,5.0,buy,110.0
+2016-02-03,"Capital One Securities, Inc.",Not Provided,5.0,overweight,114.0
+2016-02-04,US Capital Advisors,Not Provided,5.0,buy,161.0
+2016-02-04,KeyBanc Capital Markets,Not Provided,5.0,overweight,115.0
+2016-02-05,Coker & Palmer,12 month,5.0,buy,107.0
+2016-02-07,Evercore ISI,Not Provided,5.0,buy,104.0
+2016-02-08,Topeka Capital Markets Inc,12 month,3.0,hold,110.0
+2016-02-08,Seaport Global Securities,Not Provided,5.0,buy,133.0
+2016-02-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-02-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-12,Piper Jaffray,Not Provided,5.0,overweight,111.0
+2016-02-16,Cowen,12 month,5.0,outperform,130.0
+2016-02-16,GMP,Not Provided,5.0,buy,103.0
+2016-02-16,Seaport Global Securities,12 month,5.0,buy,133.0
+2016-02-16,Canaccord Genuity,12 month,3.0,hold,82.0
+2016-02-16,Stifel,12 month,5.0,buy,110.0
+2016-02-16,Jefferies,12 month,1.0,underperform,71.0
+2016-02-16,Iberia Capital Partners LLC,Not Provided,5.0,outperform,140.0
+2016-02-16,BMO Capital Markets,Not Provided,5.0,outperform,125.0
+2016-02-16,Evercore ISI,12 month,5.0,buy,104.0
+2016-02-16,Topeka Capital Markets Inc,12 month,3.0,hold,95.0
+2016-02-16,Barclays,Not Provided,5.0,overweight,113.0
+2016-02-16,Coker & Palmer,12 month,5.0,buy,107.0
+2016-02-16,KeyBanc Capital Markets,12 month,5.0,overweight,115.0
+2016-02-16,SunTrust Robinson Humphrey,Not Provided,5.0,buy,115.0
+2016-02-16,Wunderlich Securities,Not Provided,5.0,buy,122.0
+2016-02-17,Nomura,12 month,3.0,neutral,89.0
+2016-02-17,Tudor Pickering & Co,Not Provided,5.0,buy,152.0
+2016-02-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-17,Wolfe Research,12 month,5.0,outperform,111.0
+2016-02-17,UBS,12 month,3.0,neutral,86.0
+2016-02-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-02-17,Stephens Inc,12 month,3.0,equalweight,85.0
+2016-02-17,Morgan Stanley,12 month,5.0,Overwt/In-Line,100.0
+2016-02-17,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,109.0
+2016-02-17,"Capital One Securities, Inc.",12 month,5.0,overweight,114.0
+2016-02-18,SunTrust Robinson Humphrey,12 month,5.0,buy,105.0
+2016-02-18,KLR Group,Not Provided,3.0,hold,94.0
+2016-02-18,Goldman Sachs,12 month,3.0,neutral/neutral,93.0
+2016-02-18,Wunderlich Securities,12 month,5.0,buy,105.0
+2016-02-19,Barclays,Not Provided,5.0,overweight,95.0
+2016-02-19,Macquarie,12 month,3.0,neutral,88.0
+2016-02-21,Evercore ISI,Not Provided,5.0,buy,104.0
+2016-02-22,Piper Jaffray,Not Provided,5.0,overweight,117.0
+2016-02-22,BMO Capital Markets,Not Provided,5.0,outperform,110.0
+2016-02-22,KeyBanc Capital Markets,Not Provided,5.0,overweight,115.0
+2016-02-22,Cowen,Not Provided,5.0,outperform,130.0
+2016-02-22,GMP,Not Provided,5.0,buy,103.0
+2016-02-22,Canaccord Genuity,Not Provided,3.0,hold,75.0
+2016-02-22,Susquehanna Financial,12 month,3.0,neutral,93.0
+2016-02-22,Topeka Capital Markets Inc,12 month,3.0,hold,85.0
+2016-02-22,Iberia Capital Partners LLC,12 month,5.0,outperform,111.0
+2016-02-23,Coker & Palmer,12 month,5.0,buy,84.0
+2016-02-24,Coker & Palmer,12 month,-2147483648.0,not rated,84.0
+2016-02-24,"Capital One Securities, Inc.",Not Provided,5.0,overweight,114.0
+2016-02-25,Macquarie,12 month,3.0,neutral,88.0
+2016-02-25,Stephens Inc,12 month,3.0,equalweight,85.0
+2016-02-29,Topeka Capital Markets Inc,12 month,3.0,hold,85.0
+2016-03-01,BMO Capital Markets,Not Provided,5.0,outperform,110.0
+2016-03-01,Cowen,Not Provided,5.0,outperform,130.0
+2016-03-02,Jefferies,Not Provided,1.0,underperform,77.0
+2016-03-03,Coker & Palmer,12 month,-2147483648.0,not rated,82.0
+2016-03-07,BMO Capital Markets,Not Provided,5.0,outperform,110.0
+2016-03-07,KLR Group,Not Provided,3.0,hold,94.0
+2016-03-07,GMP,Not Provided,5.0,buy,103.0
+2016-03-07,KeyBanc Capital Markets,Not Provided,5.0,overweight,115.0
+2016-03-08,Cowen,Not Provided,5.0,outperform,130.0
+2016-03-09,US Capital Advisors,Not Provided,5.0,buy,147.0
+2016-03-10,SunTrust Robinson Humphrey,Not Provided,5.0,buy,105.0
+2016-03-11,Goldman Sachs,12 month,3.0,neutral/attractive,93.0
+2016-03-11,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,117.0
+2016-03-14,Evercore ISI,Not Provided,5.0,buy,110.0
+2016-03-14,Piper Jaffray,12 month,5.0,overweight,120.0
+2016-03-14,Coker & Palmer,12 month,-2147483648.0,not rated,82.0
+2016-03-14,KeyBanc Capital Markets,Not Provided,5.0,overweight,115.0
+2016-03-15,Tudor Pickering & Co,Not Provided,5.0,buy,154.0
+2016-03-16,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-03-16,Canaccord Genuity,Not Provided,3.0,hold,75.0
+2016-03-18,Iberia Capital Partners LLC,Not Provided,5.0,outperform,111.0
+2016-03-20,Evercore ISI,Not Provided,5.0,buy,110.0
+2016-03-21,Macquarie,12 month,3.0,neutral,88.0
+2016-03-21,GMP,Not Provided,5.0,buy,103.0
+2016-03-23,Cowen,Not Provided,5.0,outperform,130.0
+2016-03-24,BMO Capital Markets,Not Provided,5.0,outperform,110.0
+2016-03-27,Stifel,12 month,5.0,buy,110.0
+2016-03-28,Topeka Capital Markets Inc,12 month,3.0,hold,85.0
+2016-03-28,Stephens Inc,Not Provided,3.0,equalweight,85.0
+2016-03-28,GMP,Not Provided,5.0,buy,103.0
+2016-03-28,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,117.0
+2016-03-28,KeyBanc Capital Markets,Not Provided,5.0,overweight,115.0
+2016-03-29,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-03-29,Wolfe Research,12 month,5.0,outperform,111.0
+2016-03-29,Canaccord Genuity,Not Provided,3.0,hold,75.0
+2016-03-29,Goldman Sachs,12 month,3.0,neutral/attractive,90.0
+2016-03-30,Seaport Global Securities,Not Provided,5.0,buy,115.0
+2016-04-03,Evercore ISI,Not Provided,5.0,buy,110.0
+2016-04-04,KLR Group,Not Provided,3.0,hold,94.0
+2016-04-06,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-04-07,Tudor Pickering & Co,Not Provided,5.0,buy,153.0
+2016-04-10,Evercore ISI,Not Provided,5.0,buy,110.0
+2016-04-11,Canaccord Genuity,Not Provided,3.0,hold,82.0
+2016-04-11,Coker & Palmer,12 month,-2147483648.0,not rated,112.0
+2016-04-11,Topeka Capital Markets Inc,12 month,3.0,hold,85.0
+2016-04-11,Stifel,12 month,5.0,buy,120.0
+2016-04-12,Wunderlich Securities,12 month,5.0,buy,105.0
+2016-04-12,Iberia Capital Partners LLC,12 month,5.0,outperform,111.0
+2016-04-12,BMO Capital Markets,Not Provided,5.0,outperform,110.0
+2016-04-13,Piper Jaffray,Not Provided,5.0,overweight,125.0
+2016-04-13,Cowen,Not Provided,5.0,outperform,130.0
+2016-04-14,Wolfe Research,Not Provided,5.0,outperform,119.0
+2016-04-15,J.P. Morgan,12 month,3.0,neutral,104.0
+2016-04-15,Barclays,Not Provided,5.0,overweight,109.0
+2016-04-18,KLR Group,Not Provided,3.0,hold,99.0
+2016-04-18,Macquarie,12 month,3.0,neutral,88.0
+2016-04-18,Coker & Palmer,12 month,-2147483648.0,not rated,112.0
+2016-04-18,Evercore ISI,Not Provided,5.0,buy,110.0
+2016-04-19,Susquehanna Financial,12 month,3.0,neutral,108.0
+2016-04-20,"Capital One Securities, Inc.",12 month,5.0,overweight,114.0
+2016-04-20,Jefferies,Not Provided,1.0,underperform,83.0
+2016-04-20,Stephens Inc,Not Provided,3.0,equalweight,87.0
+2016-04-20,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-04-20,Wunderlich Securities,Not Provided,5.0,buy,105.0
+2016-04-20,US Capital Advisors,Not Provided,5.0,buy,159.0
+2016-04-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-21,Cowen,Not Provided,5.0,outperform,127.0
+2016-04-22,BMO Capital Markets,Not Provided,5.0,outperform,110.0
+2016-04-22,GMP,Not Provided,5.0,buy,122.0
+2016-04-26,KeyBanc Capital Markets,Not Provided,5.0,overweight,115.0
+2016-04-26,Evercore ISI,12 month,5.0,buy,110.0
+2016-04-27,"Capital One Securities, Inc.",Not Provided,5.0,overweight,118.0
+2016-04-27,Wunderlich Securities,18 month,5.0,buy,105.0
+2016-04-29,SunTrust Robinson Humphrey,Not Provided,5.0,buy,105.0
+2016-04-30,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-05-02,Topeka Capital Markets Inc,12 month,3.0,hold,85.0
+2016-05-03,Cowen,Not Provided,5.0,outperform,127.0
+2016-05-03,Coker & Palmer,12 month,-2147483648.0,not rated,107.0
+2016-05-04,Evercore ISI,Not Provided,5.0,buy,110.0
+2016-05-04,Piper Jaffray,12 month,5.0,overweight,125.0
+2016-05-04,Stephens Inc,12 month,3.0,equalweight,87.0
+2016-05-04,Canaccord Genuity,Not Provided,3.0,hold,82.0
+2016-05-04,Iberia Capital Partners LLC,12 month,5.0,outperform,132.0
+2016-05-04,BMO Capital Markets,Not Provided,5.0,outperform,110.0
+2016-05-05,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-05-05,Topeka Capital Markets Inc,12 month,3.0,hold,110.0
+2016-05-05,Stifel,12 month,5.0,buy,120.0
+2016-05-05,Coker & Palmer,12 month,-2147483648.0,not rated,107.0
+2016-05-05,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,117.0
+2016-05-05,Wolfe Research,12 month,5.0,outperform,119.0
+2016-05-05,"Capital One Securities, Inc.",12 month,5.0,overweight,118.0
+2016-05-05,GMP,Not Provided,5.0,buy,122.0
+2016-05-05,Iberia Capital Partners LLC,12 month,5.0,outperform,132.0
+2016-05-05,Stephens Inc,12 month,3.0,equalweight,105.0
+2016-05-05,Morgan Stanley,12 month,5.0,Overwt/In-Line,100.0
+2016-05-05,KeyBanc Capital Markets,12 month,5.0,overweight,115.0
+2016-05-05,UBS,12 month,3.0,neutral,110.0
+2016-05-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-05-06,Wunderlich Securities,12 month,5.0,buy,122.0
+2016-05-06,Nomura,12 month,3.0,neutral,89.0
+2016-05-08,Evercore ISI,Not Provided,5.0,buy,120.0
+2016-05-09,Barclays,Not Provided,5.0,overweight,116.0
+2016-05-09,Piper Jaffray,Not Provided,5.0,overweight,125.0
+2016-05-09,Canaccord Genuity,Not Provided,3.0,hold,89.0
+2016-05-09,KLR Group,Not Provided,3.0,hold,105.0
+2016-05-09,Tudor Pickering & Co,Not Provided,5.0,buy,213.0
+2016-05-09,Macquarie,12 month,3.0,neutral,107.0
+2016-05-10,Seaport Global Securities,12 month,5.0,buy,130.0
+2016-05-11,Susquehanna Financial,12 month,3.0,neutral,114.0
+2016-05-11,J.P. Morgan,9 month,3.0,neutral,113.0
+2016-05-12,BMO Capital Markets,Not Provided,5.0,outperform,120.0
+2016-05-12,US Capital Advisors,Not Provided,5.0,buy,160.0
+2016-05-13,Cowen,Not Provided,5.0,outperform,127.0
+2016-05-13,J.P. Morgan,9 month,3.0,neutral,113.0
+2016-05-16,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,122.0
+2016-05-16,Wolfe Research,Not Provided,5.0,outperform,119.0
+2016-05-16,Piper Jaffray,12 month,5.0,overweight,133.0
+2016-05-17,Iberia Capital Partners LLC,12 month,5.0,outperform,135.0
+2016-05-17,SunTrust Robinson Humphrey,12 month,5.0,buy,135.0
+2016-05-18,"Capital One Securities, Inc.",Not Provided,5.0,overweight,126.0
+2016-05-19,Piper Jaffray,Not Provided,5.0,overweight,137.0
+2016-05-20,Goldman Sachs,12 month,3.0,neutral/attractive,107.0
+2016-05-22,Evercore ISI,Not Provided,5.0,buy,120.0
+2016-05-23,KeyBanc Capital Markets,Not Provided,5.0,overweight,130.0
+2016-05-23,Topeka Capital Markets Inc,12 month,3.0,hold,110.0
+2016-05-23,Barclays,Not Provided,5.0,overweight,116.0
+2016-05-24,Nomura,12 month,3.0,neutral,129.0
+2016-05-25,Jefferies,Not Provided,1.0,underperform,93.0
+2016-05-25,Stephens Inc,Not Provided,3.0,equalweight,105.0
+2016-05-25,Canaccord Genuity,Not Provided,3.0,hold,89.0
+2016-05-26,Wolfe Research,12 month,5.0,outperform,119.0
+2016-05-26,Cowen,Not Provided,5.0,outperform,127.0
+2016-05-27,GMP,Not Provided,5.0,buy,136.0
+2016-05-30,Evercore ISI,Not Provided,5.0,buy,120.0
+2016-05-31,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-05-31,Macquarie,12 month,3.0,neutral,109.0
+2016-05-31,Topeka Capital Markets Inc,12 month,3.0,hold,110.0
+2016-06-01,Canaccord Genuity,12 month,3.0,hold,89.0
+2016-06-05,Goldman Sachs,12 month,3.0,neutral/attractive,114.0
+2016-06-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-06-06,Susquehanna Financial,12 month,3.0,neutral,114.0
+2016-06-06,Wolfe Research,Not Provided,5.0,outperform,119.0
+2016-06-06,US Capital Advisors,Not Provided,5.0,buy,160.0
+2016-06-07,Seaport Global Securities,Not Provided,5.0,buy,141.0
+2016-06-13,Morgan Stanley,12 month,5.0,Overwt/Attractive,177.0
+2016-06-14,Stifel,12 month,5.0,buy,120.0
+2016-06-16,Wolfe Research,Not Provided,5.0,outperform,119.0
+2016-06-20,KeyBanc Capital Markets,Not Provided,5.0,overweight,130.0
+2016-06-20,Seaport Global Securities,Not Provided,5.0,buy,141.0
+2016-06-21,Wunderlich Securities,18 month,5.0,buy,122.0
+2016-06-27,GMP,Not Provided,5.0,buy,136.0
+2016-06-29,Evercore ISI,Not Provided,5.0,buy,130.0
+2016-06-30,Wolfe Research,Not Provided,5.0,outperform,119.0
+2016-06-30,Wunderlich Securities,18 month,5.0,buy,139.0
+2016-07-04,Evercore ISI,Not Provided,5.0,buy,130.0
+2016-07-07,UBS,12 month,3.0,neutral,118.0
+2016-07-07,Canaccord Genuity,Not Provided,3.0,hold,94.0
+2016-07-07,Wunderlich Securities,Not Provided,5.0,buy,176.0
+2016-07-08,Wolfe Research,Not Provided,5.0,outperform,119.0
+2016-07-11,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,130.0
+2016-07-11,GMP,Not Provided,5.0,buy,136.0
+2016-07-12,Iberia Capital Partners LLC,12 month,5.0,outperform,135.0
+2016-07-12,Stephens Inc,Not Provided,3.0,equalweight,112.0
+2016-07-13,Tudor Pickering & Co,Not Provided,5.0,buy,207.0
+2016-07-13,"Capital One Securities, Inc.",Not Provided,5.0,overweight,128.0
+2016-07-13,Morgan Stanley,12 month,5.0,Overwt/Attractive,182.0
+2016-07-13,Stifel,12 month,5.0,buy,142.0
+2016-07-14,Wolfe Research,Not Provided,5.0,outperform,119.0
+2016-07-14,KeyBanc Capital Markets,Not Provided,5.0,overweight,140.0
+2016-07-14,Barclays,Not Provided,5.0,overweight,117.0
+2016-07-15,Piper Jaffray,12 month,5.0,overweight,146.0
+2016-07-15,J.P. Morgan,6 month,3.0,neutral,120.0
+2016-07-15,Macquarie,12 month,3.0,neutral,109.0
+2016-07-18,Piper Jaffray,12 month,5.0,overweight,146.0
+2016-07-18,Jefferies,Not Provided,1.0,underperform,99.0
+2016-07-19,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,130.0
+2016-07-19,Evercore ISI,Not Provided,5.0,buy,130.0
+2016-07-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-07-21,"Capital One Securities, Inc.",12 month,5.0,overweight,128.0
+2016-07-21,Susquehanna Financial,12 month,3.0,neutral,133.0
+2016-07-21,Iberia Capital Partners LLC,12 month,5.0,outperform,135.0
+2016-07-21,US Capital Advisors,Not Provided,5.0,buy,160.0
+2016-07-22,GMP,Not Provided,5.0,buy,141.0
+2016-07-22,Tudor Pickering & Co,Not Provided,5.0,buy,176.0
+2016-07-25,BMO Capital Markets,Not Provided,5.0,outperform,125.0
+2016-07-25,Seaport Global Securities,Not Provided,5.0,buy,141.0
+2016-07-25,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,130.0
+2016-07-25,Barclays,Not Provided,5.0,overweight,117.0
+2016-07-26,Cowen,Not Provided,5.0,outperform,127.0
+2016-07-26,Canaccord Genuity,Not Provided,3.0,hold,94.0
+2016-08-02,GMP,Not Provided,5.0,buy,141.0
+2016-08-02,Coker & Palmer,12 month,-2147483648.0,not rated,144.0
+2016-08-03,Canaccord Genuity,12 month,3.0,hold,94.0
+2016-08-03,Stifel,12 month,5.0,buy,142.0
+2016-08-03,Evercore ISI,12 month,5.0,buy,130.0
+2016-08-03,Cowen,12 month,5.0,outperform,127.0
+2016-08-03,Piper Jaffray,12 month,5.0,overweight,146.0
+2016-08-03,Barclays,Not Provided,5.0,overweight,117.0
+2016-08-03,BMO Capital Markets,Not Provided,5.0,outperform,125.0
+2016-08-04,Nomura,12 month,3.0,neutral,129.0
+2016-08-04,Wolfe Research,12 month,5.0,outperform,134.0
+2016-08-04,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,130.0
+2016-08-04,Morgan Stanley,12 month,5.0,Overwt/Attractive,182.0
+2016-08-04,Seaport Global Securities,12 month,5.0,buy,141.0
+2016-08-04,"Capital One Securities, Inc.",12 month,5.0,overweight,128.0
+2016-08-04,Stephens Inc,12 month,3.0,equalweight,112.0
+2016-08-04,Jefferies,12 month,1.0,underperform,99.0
+2016-08-04,KeyBanc Capital Markets,12 month,5.0,overweight,140.0
+2016-08-04,Iberia Capital Partners LLC,12 month,5.0,outperform,135.0
+2016-08-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-04,UBS,12 month,3.0,neutral,125.0
+2016-08-05,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-08-05,Wunderlich Securities,12 month,5.0,buy,176.0
+2016-08-08,KLR Group,Not Provided,3.0,hold,139.0
+2016-08-08,Barclays,Not Provided,5.0,overweight,138.0
+2016-08-08,SunTrust Robinson Humphrey,Not Provided,5.0,buy,150.0
+2016-08-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-08,Goldman Sachs,12 month,3.0,neutral/attractive,130.0
+2016-08-09,BMO Capital Markets,Not Provided,5.0,outperform,140.0
+2016-08-09,Macquarie,12 month,3.0,neutral,120.0
+2016-08-10,Canaccord Genuity,Not Provided,3.0,hold,112.0
+2016-08-11,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,143.0
+2016-08-11,Iberia Capital Partners LLC,12 month,5.0,outperform,153.0
+2016-08-11,US Capital Advisors,Not Provided,5.0,buy,170.0
+2016-08-11,Stephens Inc,12 month,3.0,equalweight,123.0
+2016-08-11,Susquehanna Financial,12 month,3.0,neutral,140.0
+2016-08-11,Piper Jaffray,12 month,5.0,overweight,146.0
+2016-08-11,Wolfe Research,12 month,5.0,outperform,134.0
+2016-08-15,Jefferies,Not Provided,1.0,underperform,110.0
+2016-08-16,Tudor Pickering & Co,Not Provided,5.0,buy,172.0
+2016-08-17,Seaport Global Securities,12 month,5.0,buy,141.0
+2016-08-17,Wunderlich Securities,12 month,5.0,buy,176.0
+2016-08-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-17,SunTrust Robinson Humphrey,Not Provided,5.0,buy,150.0
+2016-08-18,Wolfe Research,12 month,5.0,outperform,134.0
+2016-08-19,Cowen,Not Provided,5.0,outperform,127.0
+2016-08-19,GMP,Not Provided,5.0,buy,141.0
+2016-08-19,Evercore ISI,Not Provided,5.0,buy,130.0
+2016-08-21,KeyBanc Capital Markets,Not Provided,5.0,overweight,140.0
+2016-08-23,J.P. Morgan,6 month,3.0,neutral,133.0
+2016-08-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-24,"Capital One Securities, Inc.",Not Provided,5.0,overweight,142.0
+2016-08-25,GMP,Not Provided,5.0,buy,148.0
+2016-08-25,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-08-29,Williams Capital,12 month,3.0,hold,143.0
+2016-08-29,Stephens Inc,Not Provided,3.0,equalweight,123.0
+2016-08-30,Stifel,Not Provided,5.0,buy,142.0
+2016-08-30,Seaport Global Securities,12 month,5.0,buy,168.0
+2016-08-31,BMO Capital Markets,Not Provided,5.0,outperform,140.0
+2016-08-31,J.P. Morgan,6 month,3.0,neutral,133.0
+2016-08-31,Evercore ISI,12 month,5.0,buy,130.0
+2016-08-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-02,Iberia Capital Partners LLC,Not Provided,-2147483648.0,suspended coverage,-0.0
+2016-09-02,GMP,Not Provided,5.0,buy,148.0
+2016-09-05,Evercore ISI,Not Provided,5.0,buy,130.0
+2016-09-06,US Capital Advisors,Not Provided,5.0,buy,170.0
+2016-09-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-09-06,Seaport Global Securities,Not Provided,5.0,buy,168.0
+2016-09-07,Williams Capital,12 month,3.0,hold,143.0
+2016-09-08,Cowen,Not Provided,5.0,outperform,127.0
+2016-09-12,FBR Capital Markets,12 month,5.0,outperform,160.0
+2016-09-13,Macquarie,12 month,3.0,neutral,120.0
+2016-09-13,Barclays,Not Provided,5.0,overweight,138.0
+2016-09-14,Coker & Palmer,12 month,-2147483648.0,not rated,153.0
+2016-09-14,Williams Capital,Not Provided,3.0,hold,143.0
+2016-09-19,Evercore ISI,Not Provided,5.0,buy,130.0
+2016-09-19,Scotia Howard Weil Inc,12 month,5.0,sector outperform,145.0
+2016-09-19,GMP,Not Provided,5.0,buy,148.0
+2016-09-20,Stifel,12 month,5.0,buy,142.0
+2016-09-21,Goldman Sachs,12 month,3.0,neutral/attractive,137.0
+2016-09-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-23,Tudor Pickering & Co,Not Provided,5.0,buy,182.0
+2016-09-25,Evercore ISI,Not Provided,5.0,buy,130.0
+2016-09-26,Canaccord Genuity,Not Provided,3.0,hold,112.0
+2016-09-26,Wunderlich Securities,Not Provided,5.0,buy,176.0
+2016-09-26,KeyBanc Capital Markets,Not Provided,5.0,overweight,140.0
+2016-09-26,Williams Capital,Not Provided,3.0,hold,143.0
+2016-09-27,US Capital Advisors,Not Provided,5.0,buy,170.0
+2016-09-29,Stifel,12 month,5.0,buy,142.0
+2016-09-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-03,Nomura,Not Provided,3.0,neutral,129.0
+2016-10-04,KLR Group,Not Provided,3.0,hold,139.0
+2016-10-05,"Capital One Securities, Inc.",Not Provided,5.0,overweight,142.0
+2016-10-05,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-10-06,Cowen,Not Provided,5.0,outperform,127.0
+2016-10-06,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,145.0
+2016-10-06,Piper Jaffray,Not Provided,5.0,overweight,157.0
+2016-10-06,BMO Capital Markets,Not Provided,5.0,outperform,140.0
+2016-10-07,FBR Capital Markets,Not Provided,5.0,outperform,165.0
+2016-10-08,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-10-10,Evercore ISI,Not Provided,5.0,buy,160.0
+2016-10-12,Macquarie,12 month,3.0,neutral,135.0
+2016-10-13,Wolfe Research,12 month,5.0,outperform,134.0
+2016-10-13,Morgan Stanley,12 month,5.0,Overwt/Attractive,190.0
+2016-10-13,J.P. Morgan,18 month,3.0,neutral,135.0
+2016-10-17,Evercore ISI,Not Provided,5.0,buy,160.0
+2016-10-17,Barclays,Not Provided,5.0,overweight,143.0
+2016-10-17,Coker & Palmer,12 month,-2147483648.0,not rated,126.0
+2016-10-17,SunTrust Robinson Humphrey,Not Provided,5.0,buy,150.0
+2016-10-17,Stephens Inc,Not Provided,3.0,equalweight,150.0
+2016-10-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-17,Williams Capital,Not Provided,3.0,hold,143.0
+2016-10-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-18,Jefferies,Not Provided,1.0,underperform,116.0
+2016-10-18,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2016-10-19,US Capital Advisors,Not Provided,5.0,buy,169.0
+2016-10-19,Cowen,Not Provided,5.0,outperform,165.0
+2016-10-20,Tudor Pickering & Co,Not Provided,5.0,buy,206.0
+2016-10-20,KLR Group,Not Provided,3.0,hold,143.0
+2016-10-23,Canaccord Genuity,Not Provided,3.0,hold,125.0
+2016-10-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-25,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,145.0
+2016-10-26,US Capital Advisors,Not Provided,5.0,buy,169.0
+2016-10-26,SunTrust Robinson Humphrey,Not Provided,5.0,buy,150.0
+2016-10-26,Wunderlich Securities,Not Provided,5.0,buy,196.0
+2016-10-26,Susquehanna Financial,12 month,3.0,neutral,146.0
+2016-10-27,GMP,Not Provided,-2147483648.0,Under Review,-0.0
+2016-10-31,Stifel,12 month,5.0,buy,155.0
+2016-10-31,Seaport Global Securities,Not Provided,5.0,buy,168.0
+2016-11-02,Stephens Inc,12 month,3.0,equalweight,150.0
+2016-11-02,Jefferies,12 month,1.0,underperform,116.0
+2016-11-02,Piper Jaffray,12 month,5.0,overweight,157.0
+2016-11-02,BMO Capital Markets,Not Provided,5.0,outperform,140.0
+2016-11-02,Cowen,12 month,5.0,outperform,165.0
+2016-11-03,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,145.0
+2016-11-03,Stifel,12 month,5.0,buy,155.0
+2016-11-03,Morgan Stanley,12 month,5.0,Overwt/Attractive,190.0
+2016-11-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-11-03,Susquehanna Financial,12 month,4.0,Positive,148.0
+2016-11-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-11-03,Wolfe Research,12 month,5.0,outperform,134.0
+2016-11-03,SunTrust Robinson Humphrey,12 month,5.0,buy,160.0
+2016-11-03,FBR Capital Markets,Not Provided,5.0,outperform,165.0
+2016-11-03,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2016-11-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-03,"Capital One Securities, Inc.",12 month,5.0,overweight,142.0
+2016-11-03,Williams Capital,12 month,3.0,hold,143.0
+2016-11-03,Nomura,12 month,3.0,neutral,129.0
+2016-11-04,Coker & Palmer,12 month,-2147483648.0,not rated,117.0
+2016-11-04,Barclays,Not Provided,5.0,overweight,137.0
+2016-11-04,Wunderlich Securities,18 month,5.0,buy,196.0
+2016-11-07,KLR Group,Not Provided,4.0,accumulate,152.0
+2016-11-07,Tudor Pickering & Co,Not Provided,5.0,buy,226.0
+2016-11-07,Evercore ISI,Not Provided,5.0,buy,160.0
+2016-11-07,Goldman Sachs,12 month,3.0,neutral/attractive,140.0
+2016-11-07,Seaport Global Securities,12 month,5.0,buy,168.0
+2016-11-08,Macquarie,12 month,3.0,neutral,130.0
+2016-11-09,Stifel,Not Provided,5.0,buy,155.0
+2016-11-10,J.P. Morgan,18 month,3.0,neutral,135.0
+2016-11-10,BMO Capital Markets,Not Provided,5.0,outperform,140.0
+2016-11-10,Piper Jaffray,12 month,5.0,overweight,153.0
+2016-11-10,Canaccord Genuity,12 month,3.0,hold,129.0
+2016-11-14,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2016-11-14,Wolfe Research,Not Provided,5.0,outperform,134.0
+2016-11-14,Seaport Global Securities,Not Provided,5.0,buy,168.0
+2016-11-15,KLR Group,Not Provided,4.0,accumulate,152.0
+2016-11-15,Nomura Instinet,12 month,3.0,neutral,129.0
+2016-11-15,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,145.0
+2016-11-17,FBR Capital Markets,Not Provided,5.0,outperform,165.0
+2016-11-17,Jefferies,Not Provided,1.0,underperform,116.0
+2016-11-21,Wolfe Research,12 month,5.0,outperform,134.0
+2016-11-22,US Capital Advisors,Not Provided,5.0,overweight,167.0
+2016-11-22,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2016-11-23,Coker & Palmer,12 month,-2147483648.0,not rated,114.0
+2016-11-23,"Capital One Securities, Inc.",Not Provided,5.0,overweight,142.0
+2016-11-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-30,BMO Capital Markets,Not Provided,5.0,outperform,140.0
+2016-12-02,"Capital One Securities, Inc.",Not Provided,5.0,overweight,142.0
+2016-12-02,Tudor Pickering & Co,Not Provided,5.0,buy,206.0
+2016-12-02,Stifel,12 month,5.0,buy,166.0
+2016-12-05,Susquehanna Financial,12 month,4.0,Positive,166.0
+2016-12-05,Evercore ISI,Not Provided,5.0,buy,160.0
+2016-12-06,Coker & Palmer,12 month,-2147483648.0,not rated,117.0
+2016-12-08,J.P. Morgan,Not Provided,5.0,overweight,150.0
+2016-12-09,Seaport Global Securities,Not Provided,5.0,buy,168.0
+2016-12-13,Coker & Palmer,12 month,-2147483648.0,not rated,140.0
+2016-12-13,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-12-14,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,161.0
+2016-12-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2016-12-16,"Capital One Securities, Inc.",Not Provided,5.0,overweight,152.0
+2016-12-16,Goldman Sachs,12 month,5.0,buy/attractive,170.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-12-21,BMO Capital Markets,Not Provided,5.0,outperform,150.0
+2016-12-23,Williams Capital,12 month,3.0,hold,145.0
+2017-01-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-01-05,US Capital Advisors,Not Provided,5.0,overweight,170.0
+2017-01-05,Nomura Instinet,Not Provided,3.0,neutral,138.0
+2017-01-06,Evercore ISI,Not Provided,5.0,buy,160.0
+2017-01-06,Williams Capital,Not Provided,3.0,hold,152.0
+2017-01-06,Cowen,Not Provided,5.0,outperform,165.0
+2017-01-09,FBR Capital Markets,Not Provided,5.0,outperform,160.0
+2017-01-10,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2017-01-10,Susquehanna Financial,12 month,4.0,Positive,166.0
+2017-01-11,"Capital One Securities, Inc.",Not Provided,5.0,overweight,156.0
+2017-01-11,BMO Capital Markets,Not Provided,5.0,outperform,160.0
+2017-01-12,Canaccord Genuity,Not Provided,3.0,hold,140.0
+2017-01-12,Wolfe Research,Not Provided,5.0,outperform,134.0
+2017-01-12,Seaport Global Securities,Not Provided,5.0,buy,168.0
+2017-01-12,Piper Jaffray,Not Provided,5.0,overweight,157.0
+2017-01-12,Iberia Capital Partners LLC,12 month,5.0,outperform,160.0
+2017-01-17,SunTrust Robinson Humphrey,12 month,3.0,hold,160.0
+2017-01-17,Seaport Global Securities,Not Provided,5.0,buy,168.0
+2017-01-17,Jefferies,Not Provided,3.0,hold,131.0
+2017-01-18,FBR Capital Markets,Not Provided,5.0,outperform,174.0
+2017-01-20,Wolfe Research,Not Provided,5.0,outperform,134.0
+2017-01-20,KLR Group,Not Provided,3.0,hold,153.0
+2017-01-23,Macquarie,12 month,3.0,neutral,138.0
+2017-01-23,Morgan Stanley,12 month,5.0,Overwt/Attractive,202.0
+2017-01-23,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2017-01-24,Williams Capital,Not Provided,3.0,hold,159.0
+2017-01-25,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,161.0
+2017-01-25,Iberia Capital Partners LLC,Not Provided,5.0,outperform,160.0
+2017-01-26,Evercore ISI,12 month,5.0,buy,160.0
+2017-01-26,Barclays,Not Provided,5.0,overweight,137.0
+2017-01-27,Seaport Global Securities,Not Provided,5.0,buy,168.0
+2017-01-29,Susquehanna Financial,12 month,4.0,Positive,166.0
+2017-01-30,Tudor Pickering & Co,Not Provided,5.0,buy,203.0
+2017-01-31,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-01,Canaccord Genuity,Not Provided,3.0,hold,140.0
+2017-02-01,US Capital Advisors,Not Provided,5.0,overweight,174.0
+2017-02-02,Wolfe Research,12 month,5.0,outperform,134.0
+2017-02-02,Stephens Inc,Not Provided,3.0,equalweight,138.0
+2017-02-02,Stifel,12 month,5.0,buy,170.0
+2017-02-03,Macquarie,12 month,3.0,neutral,128.0
+2017-02-03,Evercore ISI,Not Provided,5.0,buy,160.0
+2017-02-06,Seaport Global Securities,Not Provided,5.0,buy,168.0
+2017-02-06,Williams Capital,Not Provided,3.0,hold,159.0
+2017-02-07,Wolfe Research,Not Provided,5.0,outperform,157.0
+2017-02-07,Wunderlich Securities,Not Provided,5.0,buy,173.0
+2017-02-10,Susquehanna Financial,12 month,4.0,Positive,166.0
+2017-02-10,Coker & Palmer,12 month,-2147483648.0,not rated,150.0
+2017-02-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-15,Stifel,12 month,5.0,buy,170.0
+2017-02-15,Jefferies,12 month,3.0,hold,131.0
+2017-02-15,J.P. Morgan,12 month,5.0,overweight,150.0
+2017-02-15,BMO Capital Markets,Not Provided,5.0,outperform,160.0
+2017-02-15,Canaccord Genuity,12 month,3.0,hold,140.0
+2017-02-15,Barclays,Not Provided,5.0,overweight,137.0
+2017-02-15,Wolfe Research,12 month,5.0,outperform,157.0
+2017-02-16,Coker & Palmer,12 month,-2147483648.0,not rated,150.0
+2017-02-16,Nomura Instinet,12 month,3.0,neutral,138.0
+2017-02-16,Seaport Global Securities,Not Provided,5.0,buy,164.0
+2017-02-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-02-16,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-16,"Capital One Securities, Inc.",12 month,5.0,overweight,156.0
+2017-02-16,FBR Capital Markets,Not Provided,5.0,outperform,166.0
+2017-02-16,Morgan Stanley,12 month,5.0,Overwt/Attractive,202.0
+2017-02-16,Piper Jaffray,12 month,5.0,overweight,157.0
+2017-02-16,UBS,12 month,3.0,neutral,137.0
+2017-02-16,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2017-02-16,Stephens Inc,12 month,3.0,equalweight,138.0
+2017-02-16,Scotia Howard Weil Inc,12 month,5.0,sector outperform,161.0
+2017-02-16,Williams Capital,12 month,3.0,hold,159.0
+2017-02-17,Iberia Capital Partners LLC,12 month,5.0,outperform,160.0
+2017-02-17,KLR Group,Not Provided,5.0,buy,174.0
+2017-02-17,Cowen,12 month,5.0,outperform,165.0
+2017-02-17,Wunderlich Securities,12 month,5.0,buy,173.0
+2017-02-17,Evercore ISI,Not Provided,5.0,buy,160.0
+2017-02-17,Macquarie,12 month,3.0,neutral,132.0
+2017-02-17,SunTrust Robinson Humphrey,12 month,3.0,hold,150.0
+2017-02-21,Barclays,Not Provided,5.0,overweight,139.0
+2017-02-21,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2017-02-21,BMO Capital Markets,Not Provided,5.0,outperform,170.0
+2017-02-21,Piper Jaffray,12 month,5.0,overweight,162.0
+2017-02-21,Canaccord Genuity,12 month,3.0,hold,146.0
+2017-02-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-27,Stephens Inc,12 month,3.0,equalweight,141.0
+2017-02-28,Piper Jaffray,12 month,5.0,overweight,157.0
+2017-02-28,Coker & Palmer,12 month,-2147483648.0,not rated,142.0
+2017-03-02,Evercore ISI,Not Provided,5.0,outperform,160.0
+2017-03-03,Jefferies,Not Provided,3.0,hold,134.0
+2017-03-03,Cowen,Not Provided,5.0,outperform,165.0
+2017-03-06,Susquehanna Financial,12 month,4.0,Positive,160.0
+2017-03-06,Macquarie,12 month,3.0,neutral,132.0
+2017-03-06,Wolfe Research,12 month,5.0,outperform,157.0
+2017-03-07,BMO Capital Markets,Not Provided,5.0,outperform,170.0
+2017-03-07,Susquehanna Financial,12 month,4.0,Positive,160.0
+2017-03-07,J.P. Morgan,9 month,5.0,overweight,150.0
+2017-03-10,Evercore ISI,Not Provided,5.0,outperform,160.0
+2017-03-13,KLR Group,Not Provided,5.0,buy,174.0
+2017-03-13,Cowen,Not Provided,5.0,outperform,165.0
+2017-03-13,Wolfe Research,12 month,5.0,outperform,157.0
+2017-03-16,US Capital Advisors,Not Provided,5.0,overweight,182.0
+2017-03-16,KLR Group,Not Provided,5.0,buy,174.0
+2017-03-17,Williams Capital,Not Provided,3.0,hold,159.0
+2017-03-19,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2017-03-20,Coker & Palmer,12 month,-2147483648.0,not rated,134.0
+2017-03-20,Seaport Global Securities,Not Provided,5.0,buy,164.0
+2017-03-22,BMO Capital Markets,Not Provided,5.0,outperform,170.0
+2017-03-22,Tudor Pickering & Co,Not Provided,5.0,buy,214.0
+2017-03-24,Williams Capital,Not Provided,3.0,hold,159.0
+2017-03-24,UBS,12 month,3.0,neutral,131.0
+2017-03-24,FBR Capital Markets,Not Provided,5.0,outperform,166.0
+2017-03-24,Stephens Inc,Not Provided,3.0,equalweight,141.0
+2017-03-27,Wolfe Research,12 month,5.0,outperform,157.0
+2017-03-27,Evercore ISI,Not Provided,5.0,outperform,160.0
+2017-03-27,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,164.0
+2017-03-28,BMO Capital Markets,Not Provided,5.0,outperform,165.0
+2017-03-28,Morgan Stanley,12 month,5.0,Overwt/Attractive,175.0
+2017-03-29,"Capital One Securities, Inc.",Not Provided,5.0,overweight,155.0
+2017-03-30,SunTrust Robinson Humphrey,12 month,3.0,hold,150.0
+2017-03-30,Iberia Capital Partners LLC,12 month,5.0,outperform,160.0
+2017-03-30,Cowen,Not Provided,5.0,outperform,165.0
+2017-03-31,Seaport Global Securities,12 month,3.0,neutral,141.0
+2017-04-03,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,164.0
+2017-04-03,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2017-04-03,Macquarie,12 month,3.0,neutral,129.0
+2017-04-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-09,Evercore ISI,Not Provided,5.0,outperform,160.0
+2017-04-10,Coker & Palmer,12 month,-2147483648.0,not rated,135.0
+2017-04-10,Goldman Sachs,12 month,5.0,buy/attractive,163.0
+2017-04-10,Macquarie,12 month,3.0,neutral,129.0
+2017-04-11,Stifel,Not Provided,5.0,buy,183.0
+2017-04-11,Iberia Capital Partners LLC,12 month,5.0,outperform,160.0
+2017-04-12,"Capital One Securities, Inc.",Not Provided,5.0,overweight,155.0
+2017-04-12,BMO Capital Markets,Not Provided,5.0,outperform,165.0
+2017-04-13,Morgan Stanley,12 month,5.0,Overwt/Attractive,165.0
+2017-04-17,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-18,Jefferies,Not Provided,3.0,hold,123.0
+2017-04-18,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-04-18,Macquarie,12 month,3.0,neutral,129.0
+2017-04-18,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2017-04-18,KLR Group,Not Provided,5.0,buy,149.0
+2017-04-19,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2017-04-19,Barclays,Not Provided,5.0,overweight,129.0
+2017-04-21,FBR Capital Markets,Not Provided,5.0,outperform,166.0
+2017-04-21,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-21,Stephens Inc,Not Provided,3.0,equalweight,141.0
+2017-04-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-21,Seaport Global Securities,12 month,3.0,neutral,141.0
+2017-04-23,Evercore ISI,Not Provided,5.0,outperform,157.0
+2017-04-24,SunTrust Robinson Humphrey,12 month,3.0,hold,140.0
+2017-04-24,Williams Capital,Not Provided,3.0,hold,148.0
+2017-04-24,Tudor Pickering & Co,Not Provided,5.0,buy,215.0
+2017-04-24,Susquehanna Financial,12 month,4.0,Positive,160.0
+2017-04-24,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,164.0
+2017-04-24,Wunderlich Securities,Not Provided,5.0,buy,173.0
+2017-04-25,J.P. Morgan,9 month,5.0,overweight,150.0
+2017-04-25,Cowen,Not Provided,5.0,outperform,150.0
+2017-04-25,Goldman Sachs,12 month,5.0,buy/attractive,162.0
+2017-04-26,Susquehanna Financial,12 month,4.0,Positive,160.0
+2017-04-26,US Capital Advisors,Not Provided,5.0,overweight,182.0
+2017-04-26,"Capital One Securities, Inc.",Not Provided,5.0,overweight,155.0
+2017-05-02,Evercore ISI,Not Provided,5.0,outperform,157.0
+2017-05-10,Cowen,12 month,5.0,outperform,150.0
+2017-05-10,Stifel,12 month,5.0,buy,183.0
+2017-05-10,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-10,Macquarie,12 month,3.0,neutral,129.0
+2017-05-10,Jefferies,12 month,3.0,hold,123.0
+2017-05-10,Williams Capital,Not Provided,3.0,hold,148.0
+2017-05-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-10,SunTrust Robinson Humphrey,12 month,3.0,hold,140.0
+2017-05-10,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,164.0
+2017-05-10,Evercore ISI,12 month,5.0,outperform,157.0
+2017-05-10,Stephens Inc,Not Provided,3.0,equalweight,141.0
+2017-05-10,FBR Capital Markets,Not Provided,5.0,outperform,166.0
+2017-05-10,Barclays,Not Provided,5.0,overweight,129.0
+2017-05-10,Nomura Instinet,12 month,3.0,neutral,138.0
+2017-05-10,"Capital One Securities, Inc.",12 month,5.0,overweight,155.0
+2017-05-11,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-05-11,Wunderlich Securities,12 month,5.0,buy,173.0
+2017-05-11,Macquarie,12 month,3.0,neutral,129.0
+2017-05-11,SunTrust Robinson Humphrey,12 month,3.0,hold,140.0
+2017-05-11,Nomura Instinet,12 month,3.0,neutral,138.0
+2017-05-11,Iberia Capital Partners LLC,12 month,5.0,outperform,160.0
+2017-05-11,Goldman Sachs,12 month,5.0,buy/attractive,163.0
+2017-05-11,UBS,12 month,3.0,neutral,134.0
+2017-05-11,FBR Capital Markets,Not Provided,5.0,outperform,166.0
+2017-05-12,Susquehanna Financial,12 month,4.0,Positive,145.0
+2017-05-15,Stephens Inc,Not Provided,3.0,equalweight,140.0
+2017-05-15,BMO Capital Markets,Not Provided,5.0,outperform,150.0
+2017-05-15,Seaport Global Securities,Not Provided,3.0,neutral,141.0
+2017-05-15,Williams Capital,Not Provided,5.0,buy,160.0
+2017-05-15,KLR Group,Not Provided,5.0,buy,151.0
+2017-05-15,Evercore ISI,Not Provided,5.0,outperform,157.0
+2017-05-15,Barclays,Not Provided,5.0,overweight,135.0
+2017-05-16,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-05-16,Tudor Pickering & Co,Not Provided,5.0,buy,207.0
+2017-05-16,Scotia Howard Weil Inc,Not Provided,5.0,sector outperform,164.0
+2017-05-17,"Capital One Securities, Inc.",Not Provided,5.0,overweight,155.0
+2017-05-17,Jefferies,Not Provided,3.0,hold,119.0
+2017-05-19,FBR Capital Markets,12 month,5.0,outperform,141.0
+2017-05-21,Wolfe Research,Not Provided,5.0,outperform,119.0
+2017-05-22,KeyBanc Capital Markets,Not Provided,5.0,overweight,155.0
+2017-05-22,Evercore ISI,Not Provided,5.0,outperform,157.0
+2017-05-23,Barclays,Not Provided,5.0,overweight,135.0
+2017-05-23,J.P. Morgan,9 month,5.0,overweight,150.0

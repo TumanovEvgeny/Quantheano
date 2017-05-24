@@ -1,0 +1,447 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2015-01-30,Credit Suisse,Not Provided,5.0,outperform,32.5
+2015-02-24,Stifel,Not Provided,3.0,hold,-0.0
+2015-02-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-25,Nomura,12 month,3.0,neutral,27.5
+2015-02-25,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2015-02-25,Janney Montgomery Scott LLC,12 month,5.0,buy,37.5
+2015-03-04,Buckingham Research Group,12 month,5.0,buy,35.0
+2015-03-04,Morgan Stanley,12 month,5.0,Overwt/In-Line,34.5
+2015-03-06,D.A. Davidson & Co,Not Provided,3.0,neutral,33.0
+2015-03-09,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-03-09,Evercore ISI,12 month,5.0,buy,38.0
+2015-03-16,Sterne Agee CRT,12 month,5.0,buy,38.0
+2015-03-16,Barclays,Not Provided,5.0,overweight,38.0
+2015-03-23,Wunderlich Securities,12 month,5.0,buy,32.0
+2015-03-24,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-03-25,UBS,12 month,5.0,buy,42.0
+2015-03-25,Goldman Sachs,12 month,3.0,neutral/neutral,28.0
+2015-03-29,Barclays,Not Provided,5.0,overweight,38.0
+2015-04-01,Nomura,Not Provided,3.0,neutral,27.5
+2015-04-08,D.A. Davidson & Co,Not Provided,3.0,neutral,37.0
+2015-04-08,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-10,Credit Suisse,Not Provided,5.0,outperform,38.0
+2015-04-14,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-04-14,Wunderlich Securities,12 month,5.0,buy,32.0
+2015-04-16,D.A. Davidson & Co,Not Provided,3.0,neutral,37.0
+2015-04-16,Janney Montgomery Scott LLC,12 month,5.0,buy,38.0
+2015-04-17,Barclays,Not Provided,5.0,overweight,38.0
+2015-04-19,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-21,Wunderlich Securities,Not Provided,5.0,buy,-0.0
+2015-04-23,Evercore ISI,12 month,5.0,buy,38.0
+2015-04-23,Nomura,12 month,3.0,neutral,30.0
+2015-04-24,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-04-24,Janney Montgomery Scott LLC,12 month,5.0,buy,38.0
+2015-04-24,Barclays,Not Provided,5.0,overweight,38.0
+2015-04-24,Credit Suisse,Not Provided,5.0,outperform,38.0
+2015-04-24,D.A. Davidson & Co,12 month,3.0,neutral,37.0
+2015-04-24,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-24,Goldman Sachs,12 month,3.0,neutral/neutral,32.0
+2015-04-24,Morgan Stanley,12 month,5.0,Overwt/In-Line,34.5
+2015-04-24,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2015-04-24,Wunderlich Securities,12 month,5.0,buy,40.0
+2015-04-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-27,Buckingham Research Group,Not Provided,5.0,buy,42.0
+2015-04-28,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-05-04,Cowen,12 month,5.0,outperform,38.0
+2015-05-05,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-05-07,Nomura,Not Provided,3.0,neutral,30.0
+2015-05-08,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-05-12,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-05-15,D.A. Davidson & Co,Not Provided,5.0,buy,37.0
+2015-05-19,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-05-21,Sterne Agee CRT,12 month,5.0,buy,38.0
+2015-05-26,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-05-28,Cowen,12 month,5.0,outperform,38.0
+2015-06-12,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-06-15,Cowen,12 month,5.0,outperform,38.0
+2015-06-16,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-06-19,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-06-28,Barclays,Not Provided,5.0,overweight,38.0
+2015-06-30,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-07-08,FBR Capital Markets,12 month,5.0,outperform,37.0
+2015-07-13,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-07-14,Nomura,12 month,3.0,neutral,30.0
+2015-07-14,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-07-16,Cowen,12 month,5.0,outperform,38.0
+2015-07-21,Barclays,Not Provided,5.0,overweight,38.0
+2015-07-24,D.A. Davidson & Co,Not Provided,5.0,buy,37.0
+2015-07-27,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-07-27,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-30,Evercore ISI,12 month,5.0,buy,38.0
+2015-07-31,Barclays,Not Provided,5.0,overweight,38.0
+2015-07-31,Nomura,12 month,3.0,neutral,30.0
+2015-07-31,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-31,D.A. Davidson & Co,Not Provided,5.0,buy,37.0
+2015-07-31,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2015-07-31,Cowen,12 month,5.0,outperform,38.0
+2015-07-31,Morgan Stanley,12 month,5.0,Overwt/In-Line,34.5
+2015-07-31,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-07-31,FBR Capital Markets,12 month,5.0,outperform,37.0
+2015-07-31,Credit Suisse,Not Provided,5.0,outperform,38.0
+2015-08-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-08-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-12,Credit Suisse,Not Provided,5.0,outperform,38.0
+2015-08-17,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-08-20,Morgan Stanley,12 month,5.0,Overwt/In-Line,36.0
+2015-08-24,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-08-25,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-08-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-27,Cowen,Not Provided,5.0,outperform,38.0
+2015-09-08,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-09-17,Goldman Sachs,12 month,5.0,Buy/Neutral,40.0
+2015-09-17,FBR Capital Markets,12 month,5.0,outperform,37.0
+2015-09-18,Cowen,Not Provided,5.0,outperform,38.0
+2015-09-18,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-09-27,Barclays,Not Provided,5.0,overweight,38.0
+2015-09-28,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-10-05,D.A. Davidson & Co,Not Provided,5.0,buy,37.0
+2015-10-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-07,FBR Capital Markets,12 month,5.0,outperform,37.0
+2015-10-15,Brean Capital LLC,12 month,5.0,buy,36.0
+2015-10-16,Evercore ISI,12 month,5.0,buy,38.0
+2015-10-19,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-10-20,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2015-10-20,Buckingham Research Group,Not Provided,5.0,buy,42.0
+2015-10-21,FBR Capital Markets,12 month,5.0,outperform,37.0
+2015-10-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-26,D.A. Davidson & Co,18 month,3.0,neutral,30.0
+2015-10-26,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-27,Cowen,12 month,5.0,outperform,38.0
+2015-10-27,Evercore ISI,12 month,5.0,buy,38.0
+2015-10-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-28,Evercore ISI,12 month,5.0,buy,38.0
+2015-10-28,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2015-10-29,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-29,Barclays,Not Provided,5.0,overweight,35.0
+2015-10-29,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-10-29,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2015-10-29,FBR Capital Markets,12 month,5.0,outperform,37.0
+2015-10-29,Goldman Sachs,12 month,5.0,Buy/Neutral,42.0
+2015-10-29,Credit Suisse,Not Provided,5.0,outperform,40.0
+2015-10-29,D.A. Davidson & Co,Not Provided,3.0,neutral,35.0
+2015-10-29,Brean Capital LLC,Not Provided,5.0,buy,38.0
+2015-10-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-29,Cowen,12 month,5.0,outperform,38.0
+2015-10-29,Morgan Stanley,12 month,5.0,Overwt/In-Line,36.5
+2015-10-29,Nomura,12 month,3.0,neutral,30.0
+2015-10-29,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-11-04,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-11-05,FBR Capital Markets,12 month,5.0,outperform,37.0
+2015-11-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-20,Nomura,12 month,3.0,neutral,30.0
+2015-11-24,FBR Capital Markets,12 month,5.0,outperform,37.0
+2015-11-30,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-12-01,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-12-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-12-08,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-12-09,Cowen,Not Provided,5.0,outperform,38.0
+2015-12-15,Brean Capital LLC,12 month,5.0,buy,38.0
+2015-12-15,FBR Capital Markets,Not Provided,5.0,outperform,37.0
+2015-12-16,Cowen,12 month,5.0,outperform,38.0
+2015-12-16,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-17,FBR Capital Markets,Not Provided,5.0,outperform,39.0
+2015-12-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-12-22,Cowen,Not Provided,5.0,outperform,38.0
+2015-12-28,Cowen,Not Provided,5.0,outperform,38.0
+2016-01-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-01-04,Oppenheimer & Co,18 month,5.0,outperform,35.0
+2016-01-04,Nomura,12 month,3.0,neutral,30.0
+2016-01-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-07,Cowen,Not Provided,5.0,outperform,38.0
+2016-01-07,Buckingham Research Group,12 month,5.0,buy,42.0
+2016-01-08,FBR Capital Markets,Not Provided,5.0,outperform,39.0
+2016-01-11,Nomura,12 month,5.0,buy,35.0
+2016-01-11,Morgan Stanley,12 month,5.0,Overwt/In-Line,36.0
+2016-01-13,Brean Capital LLC,Not Provided,5.0,buy,38.0
+2016-01-15,Cowen,12 month,5.0,outperform,38.0
+2016-01-15,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-19,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2016-01-19,FBR Capital Markets,Not Provided,5.0,outperform,39.0
+2016-01-21,Goldman Sachs,12 month,5.0,Buy/Neutral,41.0
+2016-01-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-27,Buckingham Research Group,Not Provided,5.0,buy,42.0
+2016-01-28,Cowen,Not Provided,5.0,outperform,38.0
+2016-02-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-01,Nomura,12 month,5.0,buy,35.0
+2016-02-01,Stifel,Not Provided,3.0,hold,-0.0
+2016-02-04,Evercore ISI,12 month,5.0,buy,34.0
+2016-02-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-04,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2016-02-05,Goldman Sachs,12 month,5.0,Buy/Neutral,37.0
+2016-02-05,Buckingham Research Group,12 month,5.0,buy,39.0
+2016-02-05,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-02-05,Credit Suisse,Not Provided,5.0,outperform,36.0
+2016-02-05,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2016-02-05,Brean Capital LLC,12 month,5.0,buy,33.0
+2016-02-05,Barclays,Not Provided,5.0,overweight,35.0
+2016-02-05,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.0
+2016-02-05,D.A. Davidson & Co,Not Provided,3.0,neutral,31.0
+2016-02-05,Stifel,Not Provided,3.0,hold,-0.0
+2016-02-05,UBS,12 month,5.0,buy,35.0
+2016-02-05,Cowen,12 month,5.0,outperform,34.0
+2016-02-05,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-08,Nomura,12 month,5.0,buy,33.0
+2016-02-10,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2016-02-10,Cowen,Not Provided,5.0,outperform,34.0
+2016-02-12,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-16,Brean Capital LLC,12 month,5.0,buy,33.0
+2016-02-16,Goldman Sachs,12 month,5.0,Buy/Neutral,38.0
+2016-02-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-16,FBR Capital Markets,Not Provided,5.0,outperform,39.0
+2016-02-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-18,Buckingham Research Group,12 month,5.0,buy,39.0
+2016-02-22,Cowen,Not Provided,5.0,outperform,34.0
+2016-02-23,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-02-24,Cowen,Not Provided,5.0,outperform,34.0
+2016-02-26,Credit Suisse,Not Provided,5.0,outperform,36.0
+2016-03-08,FBR Capital Markets,Not Provided,5.0,outperform,39.0
+2016-03-10,Cowen,Not Provided,5.0,outperform,34.0
+2016-03-18,Cowen,Not Provided,5.0,outperform,34.0
+2016-03-28,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2016-04-06,Cowen,12 month,5.0,outperform,32.0
+2016-04-07,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2016-04-07,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-04-07,Credit Suisse,Not Provided,5.0,outperform,36.0
+2016-04-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-07,Buckingham Research Group,12 month,5.0,buy,39.0
+2016-04-07,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.0
+2016-04-07,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2016-04-07,D.A. Davidson & Co,Not Provided,3.0,neutral,32.0
+2016-04-07,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-08,Nomura,12 month,5.0,buy,31.0
+2016-04-08,Brean Capital LLC,12 month,5.0,buy,33.0
+2016-04-08,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-04-12,Cowen,Not Provided,5.0,outperform,32.0
+2016-04-14,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-19,FBR Capital Markets,Not Provided,5.0,outperform,39.0
+2016-04-20,Brean Capital LLC,12 month,5.0,buy,33.0
+2016-04-20,Cowen,Not Provided,5.0,outperform,32.0
+2016-04-21,Evercore ISI,12 month,5.0,buy,34.0
+2016-04-21,Cowen,12 month,5.0,outperform,32.0
+2016-04-21,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-21,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2016-04-22,Nomura,12 month,5.0,buy,31.0
+2016-04-22,Brean Capital LLC,12 month,5.0,buy,35.0
+2016-04-22,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.0
+2016-04-22,D.A. Davidson & Co,12 month,3.0,neutral,34.0
+2016-04-22,Credit Suisse,Not Provided,5.0,outperform,39.0
+2016-04-22,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-22,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2016-04-22,Goldman Sachs,12 month,5.0,Buy/Neutral,40.0
+2016-04-22,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-04-22,Buckingham Research Group,12 month,5.0,buy,39.0
+2016-04-26,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-04-28,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-04-28,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.0
+2016-04-28,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-28,Goldman Sachs,12 month,5.0,Buy/Neutral,41.0
+2016-04-28,Nomura,12 month,5.0,buy,31.0
+2016-04-28,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-04-28,Buckingham Research Group,12 month,5.0,buy,39.0
+2016-04-28,Credit Suisse,Not Provided,5.0,outperform,39.0
+2016-04-28,Evercore ISI,12 month,5.0,buy,38.0
+2016-04-28,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2016-04-28,Brean Capital LLC,12 month,5.0,buy,35.0
+2016-04-29,UBS,12 month,5.0,buy,37.0
+2016-04-29,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2016-04-29,D.A. Davidson & Co,12 month,3.0,neutral,34.0
+2016-05-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-04,Cowen,Not Provided,5.0,outperform,33.0
+2016-05-11,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-05-11,Cowen,Not Provided,5.0,outperform,33.0
+2016-05-12,D.A. Davidson & Co,Not Provided,3.0,neutral,29.0
+2016-05-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-16,Cowen,Not Provided,5.0,outperform,33.0
+2016-05-19,Morgan Stanley,12 month,5.0,Overwt/In-Line,34.0
+2016-05-20,Cowen,Not Provided,5.0,outperform,33.0
+2016-05-31,Stifel,Not Provided,3.0,hold,-0.0
+2016-06-01,Morgan Stanley,12 month,5.0,Overwt/In-Line,34.0
+2016-06-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-06-01,Brean Capital LLC,12 month,5.0,buy,37.0
+2016-06-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-06-02,D.A. Davidson & Co,Not Provided,3.0,neutral,29.0
+2016-06-02,Buckingham Research Group,12 month,5.0,buy,39.0
+2016-06-09,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-06-13,Stifel,Not Provided,3.0,hold,-0.0
+2016-06-13,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-06-14,Brean Capital LLC,12 month,5.0,buy,37.0
+2016-06-14,Buckingham Research Group,12 month,5.0,buy,39.0
+2016-06-16,Cowen,Not Provided,5.0,outperform,33.0
+2016-06-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-01,Buckingham Research Group,12 month,5.0,buy,39.0
+2016-07-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-05,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-06,Cowen,Not Provided,5.0,outperform,33.0
+2016-07-07,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-07-11,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-07-13,Nomura,12 month,5.0,buy,31.0
+2016-07-13,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2016-07-13,Brean Capital LLC,12 month,5.0,buy,37.0
+2016-07-13,Cowen,Not Provided,5.0,outperform,33.0
+2016-07-18,Cowen,Not Provided,5.0,outperform,33.0
+2016-07-18,D.A. Davidson & Co,18 month,3.0,neutral,29.0
+2016-07-18,Buckingham Research Group,Not Provided,5.0,buy,39.0
+2016-07-20,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-21,Brean Capital LLC,12 month,5.0,buy,37.0
+2016-07-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-27,Cowen,Not Provided,5.0,outperform,33.0
+2016-08-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-08-02,Evercore ISI,12 month,5.0,buy,34.0
+2016-08-02,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2016-08-03,Buckingham Research Group,12 month,5.0,buy,39.0
+2016-08-03,Morgan Stanley,12 month,5.0,Overwt/In-Line,34.0
+2016-08-03,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2016-08-03,Credit Suisse,Not Provided,5.0,outperform,37.0
+2016-08-03,Nomura,12 month,5.0,buy,30.0
+2016-08-03,D.A. Davidson & Co,12 month,3.0,neutral,29.0
+2016-08-03,Brean Capital LLC,Not Provided,5.0,buy,35.0
+2016-08-03,Cowen,12 month,5.0,outperform,33.0
+2016-08-03,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-08-03,Stifel,Not Provided,3.0,hold,-0.0
+2016-08-04,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-08-11,Cowen,Not Provided,5.0,outperform,33.0
+2016-08-17,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-08-18,Cowen,Not Provided,5.0,outperform,33.0
+2016-08-19,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-08-25,Cowen,Not Provided,5.0,outperform,33.0
+2016-09-08,D.A. Davidson & Co,Not Provided,3.0,neutral,29.0
+2016-09-09,Cowen,Not Provided,5.0,outperform,33.0
+2016-09-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-19,Cowen,Not Provided,5.0,outperform,33.0
+2016-09-22,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-09-22,Brean Capital LLC,Not Provided,5.0,buy,35.0
+2016-09-27,Cowen,Not Provided,5.0,outperform,33.0
+2016-09-28,Stifel,Not Provided,3.0,hold,-0.0
+2016-10-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-11,Brean Capital LLC,Not Provided,5.0,buy,35.0
+2016-10-12,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-10-12,D.A. Davidson & Co,18 month,3.0,neutral,29.0
+2016-10-12,Cowen,Not Provided,3.0,market perform,27.0
+2016-10-16,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2016-10-17,Buckingham Research Group,Not Provided,5.0,buy,39.0
+2016-10-18,Cowen,Not Provided,3.0,market perform,27.0
+2016-10-19,Credit Suisse,Not Provided,5.0,outperform,37.0
+2016-10-19,Brean Capital LLC,Not Provided,5.0,buy,35.0
+2016-10-24,Stifel,12 month,3.0,hold,26.0
+2016-10-27,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2016-10-27,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-27,Morgan Stanley,12 month,5.0,Overwt/In-Line,34.0
+2016-10-27,Credit Suisse,Not Provided,5.0,outperform,37.0
+2016-10-27,Evercore ISI,12 month,5.0,buy,34.0
+2016-10-28,Stifel,12 month,3.0,hold,26.0
+2016-10-28,Brean Capital LLC,Not Provided,5.0,buy,35.0
+2016-10-28,D.A. Davidson & Co,12 month,3.0,neutral,29.0
+2016-10-28,UBS,12 month,5.0,buy,34.0
+2016-10-28,FBR Capital Markets,12 month,5.0,outperform,39.0
+2016-10-28,CL King & Associates,Not Provided,3.0,neutral,-0.0
+2016-10-28,Nomura,12 month,5.0,buy,30.0
+2016-10-28,Buckingham Research Group,12 month,5.0,buy,35.0
+2016-10-31,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-10-31,Cowen,Not Provided,3.0,market perform,27.0
+2016-11-01,Cowen,Not Provided,3.0,market perform,27.0
+2016-11-09,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-11-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-11-15,Nomura Instinet,12 month,5.0,buy,30.0
+2016-11-18,Buckingham Research Group,Not Provided,5.0,buy,35.0
+2016-11-21,Cowen,Not Provided,3.0,market perform,27.0
+2016-11-28,Morgan Stanley,12 month,5.0,Overwt/In-Line,34.0
+2016-11-28,Oppenheimer & Co,12 month,5.0,outperform,35.0
+2016-11-28,Buckingham Research Group,Not Provided,5.0,buy,35.0
+2016-11-28,Cowen,Not Provided,3.0,market perform,27.0
+2016-12-07,Brean Capital LLC,12 month,5.0,buy,35.0
+2016-12-07,Buckingham Research Group,Not Provided,5.0,buy,35.0
+2016-12-12,D.A. Davidson & Co,12 month,5.0,buy,29.0
+2016-12-12,CL King & Associates,12 month,5.0,buy,28.0
+2016-12-13,Cowen,Not Provided,3.0,market perform,27.0
+2016-12-15,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-01-03,Cowen,Not Provided,3.0,market perform,27.0
+2017-01-04,Buckingham Research Group,Not Provided,5.0,buy,35.0
+2017-01-04,Brean Capital LLC,Not Provided,5.0,buy,32.0
+2017-01-06,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.0
+2017-01-09,Nomura Instinet,Not Provided,5.0,buy,30.0
+2017-01-12,Brean Capital LLC,Not Provided,5.0,buy,32.0
+2017-01-12,Buckingham Research Group,Not Provided,5.0,buy,35.0
+2017-01-12,Cowen,Not Provided,3.0,market perform,27.0
+2017-01-17,Cowen,Not Provided,3.0,market perform,27.0
+2017-01-24,D.A. Davidson & Co,12 month,5.0,buy,29.0
+2017-01-25,Buckingham Research Group,Not Provided,5.0,buy,36.0
+2017-01-25,Stifel,12 month,3.0,hold,26.0
+2017-01-25,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.0
+2017-01-26,Credit Suisse,Not Provided,5.0,outperform,37.0
+2017-01-26,Cowen,Not Provided,3.0,market perform,27.0
+2017-02-02,Evercore ISI,Not Provided,5.0,buy,25.0
+2017-02-02,Oppenheimer & Co,12 month,5.0,outperform,32.0
+2017-02-02,Credit Suisse,Not Provided,5.0,outperform,28.0
+2017-02-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-03,UBS,12 month,5.0,buy,25.0
+2017-02-03,Stifel,12 month,3.0,hold,23.0
+2017-02-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-02-03,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2017-02-03,Morgan Stanley,12 month,5.0,Overwt/In-Line,33.0
+2017-02-03,Cowen,12 month,3.0,market perform,22.0
+2017-02-03,CL King & Associates,12 month,5.0,buy,26.0
+2017-02-03,Buckingham Research Group,12 month,5.0,buy,30.0
+2017-02-03,D.A. Davidson & Co,12 month,5.0,buy,27.0
+2017-02-03,Nomura Instinet,12 month,5.0,buy,27.0
+2017-02-03,FBR Capital Markets,12 month,5.0,outperform,33.0
+2017-02-06,Credit Suisse,Not Provided,5.0,outperform,28.0
+2017-02-07,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-02-09,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-02-10,Cowen,Not Provided,3.0,market perform,22.0
+2017-02-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-14,FBR Capital Markets,12 month,5.0,outperform,33.0
+2017-02-15,Cowen,12 month,3.0,market perform,22.0
+2017-02-16,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-02-23,Cowen,Not Provided,3.0,market perform,22.0
+2017-02-27,Morgan Stanley,12 month,3.0,Equalwt/In-Line,22.0
+2017-03-01,Oppenheimer & Co,12 month,5.0,outperform,32.0
+2017-03-02,Evercore ISI,Not Provided,5.0,outperform,25.0
+2017-03-03,Cowen,Not Provided,3.0,market perform,22.0
+2017-03-04,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-03-10,Cowen,Not Provided,3.0,market perform,22.0
+2017-03-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2017-03-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-03-20,Cowen,Not Provided,3.0,market perform,22.0
+2017-03-28,Goldman Sachs,12 month,3.0,neutral/neutral,20.0
+2017-03-28,Cowen,Not Provided,3.0,market perform,22.0
+2017-03-30,CL King & Associates,12 month,5.0,buy,26.0
+2017-04-03,Evercore ISI,Not Provided,5.0,long,-0.0
+2017-04-04,Evercore ISI,Not Provided,5.0,long,-0.0
+2017-04-07,D.A. Davidson & Co,12 month,5.0,buy,27.0
+2017-04-12,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-04-12,Oppenheimer & Co,12 month,5.0,outperform,32.0
+2017-04-12,Stifel,12 month,3.0,hold,23.0
+2017-04-12,Credit Suisse,Not Provided,5.0,outperform,28.0
+2017-04-13,FBR Capital Markets,12 month,5.0,outperform,33.0
+2017-04-13,D.A. Davidson & Co,12 month,5.0,buy,27.0
+2017-04-13,CL King & Associates,12 month,5.0,buy,26.0
+2017-04-13,Buckingham Research Group,12 month,5.0,buy,30.0
+2017-04-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-04-17,Evercore ISI,Not Provided,5.0,long,-0.0
+2017-04-17,Cowen,Not Provided,3.0,market perform,22.0
+2017-04-18,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-04-24,FBR Capital Markets,12 month,5.0,outperform,33.0
+2017-04-24,Nomura Instinet,12 month,5.0,buy,27.0
+2017-04-26,Cowen,Not Provided,3.0,market perform,22.0
+2017-04-28,Buckingham Research Group,Not Provided,-2147483648.0,suspended coverage,-0.0
+2017-05-02,Evercore ISI,Not Provided,5.0,long,-0.0
+2017-05-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-05-02,Oppenheimer & Co,12 month,5.0,outperform,32.0
+2017-05-02,Credit Suisse,Not Provided,5.0,outperform,28.0
+2017-05-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-05-03,Stifel,12 month,3.0,hold,23.0
+2017-05-03,CL King & Associates,12 month,5.0,buy,26.0
+2017-05-03,D.A. Davidson & Co,12 month,5.0,buy,27.0
+2017-05-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,22.0
+2017-05-03,Evercore ISI,Not Provided,5.0,long,-0.0
+2017-05-03,Cowen,12 month,3.0,market perform,22.0
+2017-05-08,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-05-10,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-05-10,FBR Capital Markets,Not Provided,5.0,outperform,33.0
+2017-05-15,Cowen,Not Provided,3.0,market perform,22.0
+2017-05-16,Credit Suisse,Not Provided,5.0,outperform,28.0
+2017-05-17,FBR Capital Markets,12 month,5.0,outperform,33.0
+2017-05-18,Credit Suisse,Not Provided,5.0,outperform,28.0

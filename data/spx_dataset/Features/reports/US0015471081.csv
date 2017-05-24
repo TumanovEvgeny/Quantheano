@@ -1,0 +1,363 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2008-02-25,Longbow Research,Not Provided,3.0,neutral,-0.0
+2008-04-22,Soleil Securities,Not Provided,3.0,hold,65.0
+2008-04-22,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,-0.0
+2008-04-23,J.P. Morgan,Not Provided,3.0,neutral,-0.0
+2008-04-24,Barclays,Not Provided,3.0,equalwt/positive,50.0
+2008-05-30,Goldman Sachs,12 month,3.0,neutral/attractive,59.0
+2008-06-05,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2008-06-16,Credit Suisse,12 month,3.0,neutral,80.0
+2008-07-11,Barclays,Not Provided,3.0,equalwt/positive,55.0
+2008-07-22,Credit Suisse,12 month,3.0,neutral,80.0
+2008-07-22,Soleil Securities,Not Provided,3.0,hold,65.0
+2008-07-22,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,-0.0
+2008-07-23,Credit Suisse,12 month,3.0,neutral,70.0
+2008-07-23,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-07-23,Goldman Sachs,12 month,3.0,neutral/attractive,61.0
+2008-07-28,Longbow Research,Not Provided,5.0,buy,60.0
+2008-08-04,Longbow Research,Not Provided,3.0,neutral,-0.0
+2008-09-04,Goldman Sachs,12 month,3.0,neutral/neutral,53.0
+2008-09-12,Longbow Research,Not Provided,5.0,buy,50.0
+2008-09-24,Barclays,Not Provided,3.0,equalwt/positive,55.0
+2008-09-25,Credit Suisse,12 month,3.0,neutral,70.0
+2008-10-01,Soleil Securities,Not Provided,5.0,buy,54.0
+2008-10-05,UBS,12 month,3.0,neutral,22.0
+2008-10-08,Credit Suisse,12 month,3.0,neutral,25.0
+2008-10-09,Goldman Sachs,12 month,1.0,Sell/Neutral,15.0
+2008-10-10,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2008-10-17,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2008-10-21,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,-0.0
+2008-10-21,Credit Suisse,12 month,3.0,neutral,20.0
+2008-10-22,Soleil Securities,Not Provided,5.0,buy,54.0
+2008-10-22,Longbow Research,Not Provided,5.0,buy,35.0
+2008-10-22,Barclays,Not Provided,3.0,equalwt/positive,36.0
+2008-10-22,Goldman Sachs,6 month,3.0,neutral/neutral,16.0
+2008-10-22,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2008-10-22,J.P. Morgan,Not Provided,5.0,overweight,32.0
+2008-11-03,UBS,12 month,3.0,neutral,14.0
+2008-11-04,Credit Suisse,Not Provided,3.0,neutral,20.0
+2008-11-04,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2008-11-04,Soleil Securities,Not Provided,5.0,buy,54.0
+2008-11-04,Barclays,Not Provided,3.0,equalwt/positive,33.0
+2008-11-05,Goldman Sachs,6 month,3.0,neutral/neutral,15.0
+2008-11-06,J.P. Morgan,Not Provided,5.0,overweight,26.5
+2008-11-12,UBS,12 month,3.0,neutral,11.0
+2008-11-14,Longbow Research,Not Provided,3.0,neutral,-0.0
+2008-11-14,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,-0.0
+2008-11-17,Goldman Sachs,6 month,3.0,neutral/neutral,14.0
+2008-12-01,Soleil Securities,Not Provided,5.0,buy,-0.0
+2008-12-08,Goldman Sachs,6 month,3.0,neutral/neutral,9.0
+2008-12-08,J.P. Morgan,15 month,5.0,overweight,26.5
+2008-12-11,UBS,Not Provided,3.0,neutral,10.0
+2008-12-18,Barclays,Not Provided,3.0,equalwt/positive,15.0
+2008-12-22,J.P. Morgan,15 month,5.0,overweight,22.0
+2009-01-01,J.P. Morgan,12 month,5.0,overweight,22.0
+2009-01-06,Credit Suisse,Not Provided,3.0,neutral,20.0
+2009-01-07,Goldman Sachs,6 month,5.0,Buy/Neutral,15.0
+2009-01-08,KeyBanc Capital Markets,12 month,5.0,buy,20.0
+2009-01-08,EVA Dimensions,Not Provided,5.0,strong buy,-0.0
+2009-01-15,Soleil Securities,Not Provided,5.0,buy,28.0
+2009-01-16,KeyBanc Capital Markets,Not Provided,5.0,buy,20.0
+2009-01-27,Credit Suisse,Not Provided,3.0,neutral,12.0
+2009-01-28,Barclays,Not Provided,3.0,equalwt/positive,12.0
+2009-01-28,KeyBanc Capital Markets,Not Provided,5.0,buy,15.0
+2009-01-28,J.P. Morgan,12 month,5.0,overweight,20.0
+2009-01-28,UBS,Not Provided,3.0,neutral,10.0
+2009-01-28,Goldman Sachs,6 month,5.0,Buy/Neutral,11.0
+2009-02-05,Goldman Sachs,6 month,5.0,Buy/Neutral,10.0
+2009-03-10,Goldman Sachs,6 month,3.0,neutral/neutral,6.5
+2009-03-10,UBS,Not Provided,3.0,neutral,6.5
+2009-03-12,J.P. Morgan,9 month,5.0,overweight,17.0
+2009-03-13,Credit Suisse,Not Provided,3.0,neutral,12.0
+2009-03-16,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,-0.0
+2009-03-26,KeyBanc Capital Markets,Not Provided,5.0,buy,15.0
+2009-03-31,Longbow Research,Not Provided,3.0,neutral,-0.0
+2009-04-12,Goldman Sachs,6 month,5.0,Buy/Neutral,12.0
+2009-04-21,Credit Suisse,Not Provided,3.0,neutral,12.0
+2009-04-21,J.P. Morgan,6 month,5.0,overweight,22.0
+2009-04-21,KeyBanc Capital Markets,12 month,5.0,buy,17.0
+2009-04-22,UBS,Not Provided,1.0,sell,8.0
+2009-04-23,Goldman Sachs,6 month,5.0,Buy/Neutral,14.75
+2009-05-05,KeyBanc Capital Markets,12 month,5.0,buy,17.0
+2009-05-05,Credit Suisse,Not Provided,3.0,neutral,12.0
+2009-05-07,Goldman Sachs,6 month,5.0,Buy/Neutral,20.0
+2009-05-08,UBS,Not Provided,1.0,sell,8.0
+2009-05-19,KeyBanc Capital Markets,12 month,5.0,buy,17.0
+2009-06-09,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2009-06-10,KeyBanc Capital Markets,12 month,5.0,buy,23.0
+2009-06-11,Goldman Sachs,6 month,3.0,neutral/neutral,20.0
+2009-06-12,Credit Suisse,Not Provided,3.0,neutral,12.0
+2009-06-12,Merriman Capital,Not Provided,5.0,buy,-0.0
+2009-06-15,UBS,Not Provided,1.0,sell,12.0
+2009-06-17,KeyBanc Capital Markets,12 month,5.0,buy,25.0
+2009-06-23,Merriman Capital,Not Provided,5.0,buy,-0.0
+2009-07-07,Merriman Capital,Not Provided,5.0,buy,-0.0
+2009-07-13,Goldman Sachs,6 month,3.0,neutral/neutral,21.0
+2009-07-15,J.P. Morgan,6 month,5.0,overweight,22.0
+2009-07-17,KeyBanc Capital Markets,12 month,5.0,buy,25.0
+2009-07-17,Merriman Capital,Not Provided,5.0,buy,-0.0
+2009-07-20,UBS,Not Provided,1.0,sell,12.0
+2009-07-21,Credit Suisse,Not Provided,3.0,neutral,18.0
+2009-07-21,J.P. Morgan,15 month,5.0,overweight,29.0
+2009-07-22,KeyBanc Capital Markets,12 month,5.0,buy,25.0
+2009-07-22,UBS,Not Provided,1.0,sell,15.0
+2009-07-22,Merriman Capital,Not Provided,5.0,buy,-0.0
+2009-07-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-07-28,Goldman Sachs,6 month,3.0,neutral/attractive,22.0
+2009-08-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-08-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-19,KeyBanc Capital Markets,12 month,5.0,buy,25.0
+2009-09-01,Merriman Capital,Not Provided,5.0,buy,-0.0
+2009-09-21,KeyBanc Capital Markets,12 month,5.0,buy,29.0
+2009-09-23,UBS,Not Provided,1.0,sell,18.0
+2009-09-28,Goldman Sachs,6 month,3.0,neutral/neutral,22.0
+2009-10-06,Merriman Capital,Not Provided,5.0,buy,-0.0
+2009-10-07,KeyBanc Capital Markets,Not Provided,5.0,buy,29.0
+2009-10-09,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-10-19,KeyBanc Capital Markets,12 month,5.0,buy,29.0
+2009-10-27,J.P. Morgan,15 month,5.0,overweight,29.0
+2009-10-27,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2009-10-27,Credit Suisse,Not Provided,3.0,neutral,18.0
+2009-10-28,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2009-10-28,Merriman Capital,12 month,5.0,buy,28.5
+2009-10-30,UBS,Not Provided,3.0,neutral,18.0
+2009-10-30,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-11-17,Merriman Capital,Not Provided,5.0,buy,-0.0
+2009-11-23,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2009-11-23,Longbow Research,Not Provided,5.0,buy,24.0
+2009-11-30,Goldman Sachs,6 month,3.0,neutral/attractive,23.0
+2009-12-04,Southridge Research Group,Not Provided,5.0,outperform,28.0
+2009-12-16,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2009-12-21,Merriman Capital,12 month,5.0,buy,28.5
+2009-12-30,UBS,Not Provided,3.0,neutral,22.0
+2010-01-05,Merriman Capital,Not Provided,5.0,buy,-0.0
+2010-01-06,Goldman Sachs,6 month,3.0,neutral/attractive,26.0
+2010-01-07,J.P. Morgan,12 month,5.0,overweight,34.0
+2010-01-08,Longbow Research,Not Provided,5.0,buy,28.0
+2010-01-13,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-01-22,Goldman Sachs,6 month,3.0,neutral/neutral,26.0
+2010-01-25,Merriman Capital,Not Provided,5.0,buy,-0.0
+2010-01-25,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-01-25,Credit Suisse,Not Provided,3.0,neutral,24.0
+2010-01-26,J.P. Morgan,9 month,5.0,overweight,32.0
+2010-01-26,Southridge Research Group,12 month,5.0,outperform,28.0
+2010-01-26,UBS,Not Provided,3.0,neutral,22.0
+2010-01-26,Goldman Sachs,6 month,5.0,Buy/Neutral,26.0
+2010-02-16,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-02-24,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2010-02-24,UBS,Not Provided,3.0,neutral,22.0
+2010-03-07,Goldman Sachs,6 month,3.0,neutral/neutral,26.0
+2010-04-07,Cowen,Not Provided,3.0,hold,-0.0
+2010-04-19,Longbow Research,Not Provided,3.0,neutral,-0.0
+2010-04-20,J.P. Morgan,9 month,5.0,overweight,27.0
+2010-04-20,Credit Suisse,Not Provided,3.0,neutral,22.0
+2010-04-21,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-04-21,UBS,Not Provided,3.0,neutral,22.0
+2010-04-21,Cowen,Not Provided,3.0,hold,-0.0
+2010-04-21,Goldman Sachs,6 month,3.0,neutral/neutral,22.0
+2010-04-28,UBS,Not Provided,3.0,neutral,18.0
+2010-04-29,J.P. Morgan,6 month,3.0,neutral,21.0
+2010-04-29,UBS,Not Provided,3.0,neutral,18.0
+2010-06-07,Cowen,Not Provided,3.0,hold,-0.0
+2010-06-10,Prosdocimi,Not Provided,5.0,buy,-0.0
+2010-06-14,Cowen,Not Provided,3.0,hold,-0.0
+2010-06-16,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-06-18,Goldman Sachs,6 month,3.0,neutral/neutral,19.0
+2010-06-21,Cowen,Not Provided,3.0,hold,-0.0
+2010-06-28,Cowen,Not Provided,3.0,hold,-0.0
+2010-06-29,UBS,Not Provided,3.0,neutral,14.0
+2010-07-06,Cowen,Not Provided,3.0,hold,-0.0
+2010-07-12,Cowen,Not Provided,3.0,hold,-0.0
+2010-07-14,Goldman Sachs,6 month,5.0,Buy/Neutral,17.0
+2010-07-18,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-07-19,Cowen,Not Provided,3.0,hold,-0.0
+2010-07-22,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2010-07-27,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-07-27,Credit Suisse,Not Provided,3.0,neutral,17.0
+2010-07-27,J.P. Morgan,18 month,3.0,neutral,18.5
+2010-07-28,UBS,Not Provided,3.0,neutral,14.0
+2010-07-28,Cowen,Not Provided,3.0,hold,-0.0
+2010-08-02,Cowen,Not Provided,3.0,hold,-0.0
+2010-08-09,Cowen,Not Provided,3.0,hold,-0.0
+2010-08-13,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2010-08-14,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-08-16,Cowen,Not Provided,3.0,hold,-0.0
+2010-08-23,Cowen,Not Provided,3.0,hold,-0.0
+2010-08-30,Cowen,Not Provided,3.0,hold,-0.0
+2010-09-13,Cowen,Not Provided,3.0,hold,-0.0
+2010-09-15,Credit Suisse,Not Provided,3.0,neutral,15.0
+2010-09-15,J.P. Morgan,18 month,3.0,neutral,16.5
+2010-09-15,Goldman Sachs,6 month,5.0,Buy/Neutral,16.0
+2010-09-17,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-09-20,Cowen,Not Provided,3.0,hold,-0.0
+2010-09-27,Cowen,Not Provided,3.0,hold,-0.0
+2010-10-04,J.P. Morgan,15 month,3.0,neutral,16.0
+2010-10-04,Cowen,Not Provided,3.0,hold,-0.0
+2010-10-11,Cowen,Not Provided,3.0,hold,-0.0
+2010-10-15,Goldman Sachs,6 month,5.0,Buy/Neutral,15.0
+2010-10-15,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-10-18,Cowen,Not Provided,3.0,hold,-0.0
+2010-10-25,Cowen,Not Provided,3.0,hold,-0.0
+2010-10-26,Credit Suisse,Not Provided,3.0,neutral,13.0
+2010-10-26,J.P. Morgan,15 month,3.0,neutral,14.5
+2010-10-27,UBS,12 month,3.0,neutral,13.0
+2010-10-27,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-11-01,Cowen,Not Provided,3.0,hold,-0.0
+2010-11-08,Cowen,Not Provided,3.0,hold,-0.0
+2010-11-09,Goldman Sachs,6 month,3.0,neutral/neutral,12.0
+2010-11-15,Cowen,Not Provided,3.0,hold,-0.0
+2010-11-22,Cowen,Not Provided,3.0,hold,-0.0
+2010-11-29,Cowen,Not Provided,3.0,hold,-0.0
+2010-12-06,Cowen,Not Provided,3.0,hold,-0.0
+2010-12-13,Cowen,Not Provided,3.0,hold,-0.0
+2010-12-16,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2010-12-20,J.P. Morgan,12 month,3.0,neutral,18.0
+2010-12-20,Cowen,Not Provided,3.0,hold,-0.0
+2010-12-27,Cowen,Not Provided,3.0,hold,-0.0
+2011-01-06,Goldman Sachs,6 month,1.0,Sell/Neutral,12.0
+2011-01-07,Credit Suisse,Not Provided,3.0,neutral,18.0
+2011-01-10,Cowen,Not Provided,3.0,hold,-0.0
+2011-01-12,UBS,12 month,1.0,sell,13.0
+2011-01-18,Cowen,Not Provided,3.0,hold,-0.0
+2011-01-20,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2011-01-26,Credit Suisse,Not Provided,3.0,neutral,19.0
+2011-01-26,J.P. Morgan,12 month,5.0,overweight,22.0
+2011-01-26,Cowen,Not Provided,3.0,hold,-0.0
+2011-01-26,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2011-01-26,UBS,12 month,1.0,sell,13.0
+2011-01-31,Cowen,Not Provided,3.0,hold,-0.0
+2011-02-08,Cowen,Not Provided,3.0,hold,-0.0
+2011-02-14,Cowen,Not Provided,3.0,hold,-0.0
+2011-02-16,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-02-19,EVA Dimensions,Not Provided,-2147483648.0,not rated,-0.0
+2011-02-23,Cowen,Not Provided,3.0,hold,-0.0
+2011-02-23,KeyBanc Capital Markets,12 month,5.0,buy,20.0
+2011-02-28,Cowen,Not Provided,3.0,hold,-0.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-07,Goldman Sachs,6 month,1.0,Sell/Neutral,13.0
+2011-03-07,Cowen,Not Provided,3.0,hold,-0.0
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-14,Cowen,Not Provided,3.0,hold,-0.0
+2011-03-21,Cowen,Not Provided,3.0,hold,-0.0
+2011-03-25,KeyBanc Capital Markets,12 month,5.0,buy,20.0
+2011-04-01,Cowen,Not Provided,3.0,hold,-0.0
+2011-04-01,KeyBanc Capital Markets,12 month,5.0,buy,20.0
+2011-04-04,Cowen,Not Provided,3.0,hold,-0.0
+2011-04-11,Cowen,Not Provided,3.0,hold,-0.0
+2011-04-19,Cowen,Not Provided,3.0,hold,-0.0
+2011-04-26,J.P. Morgan,9 month,5.0,overweight,24.0
+2011-04-26,Credit Suisse,Not Provided,3.0,neutral,20.0
+2011-04-26,Goldman Sachs,6 month,1.0,Sell/Neutral,14.5
+2011-04-27,KeyBanc Capital Markets,12 month,5.0,buy,22.0
+2011-05-02,Cowen,12 month,5.0,buy,22.0
+2011-05-09,Cowen,Not Provided,5.0,buy,22.0
+2011-05-12,Goldman Sachs,6 month,1.0,Sell/Neutral,13.5
+2011-05-16,Cowen,12 month,5.0,buy,22.0
+2011-05-22,Morgan Stanley,12 month,5.0,Overwt/In-Line,24.0
+2011-05-23,KeyBanc Capital Markets,12 month,5.0,buy,22.0
+2011-05-23,Cowen,12 month,5.0,buy,22.0
+2011-05-31,Cowen,12 month,5.0,buy,22.0
+2011-06-01,Burke & Quick Partners LLC,Not Provided,5.0,buy,-0.0
+2011-06-05,KeyBanc Capital Markets,12 month,5.0,buy,22.0
+2011-06-06,Cowen,12 month,5.0,buy,22.0
+2011-06-13,Cowen,12 month,5.0,buy,22.0
+2011-06-20,Cowen,12 month,5.0,buy,22.0
+2011-06-22,BOE Securities,12 month,5.0,buy,20.14
+2011-06-27,Cowen,12 month,5.0,buy,22.0
+2011-06-27,KeyBanc Capital Markets,12 month,5.0,buy,22.0
+2011-06-27,Burke & Quick Partners LLC,Not Provided,5.0,buy,-0.0
+2011-07-05,Cowen,12 month,5.0,buy,22.0
+2011-07-08,Jefferies,12 month,3.0,hold,18.0
+2011-07-11,Cowen,12 month,5.0,buy,22.0
+2011-07-12,CRT Capital Group,12 month,3.0,Fairly Valued,18.0
+2011-07-12,Susquehanna Financial,12 month,4.0,Positive,20.0
+2011-07-14,Credit Suisse,Not Provided,3.0,neutral,18.0
+2011-07-19,Cowen,12 month,5.0,buy,22.0
+2011-07-20,CRT Capital Group,12 month,3.0,Fairly Valued,18.0
+2011-07-26,Goldman Sachs,6 month,1.0,Sell/Neutral,12.0
+2011-07-26,Susquehanna Financial,12 month,4.0,Positive,20.0
+2011-07-26,J.P. Morgan,15 month,5.0,overweight,18.0
+2011-07-26,Credit Suisse,Not Provided,3.0,neutral,15.0
+2011-07-26,Burke & Quick Partners LLC,Not Provided,3.0,hold,-0.0
+2011-07-27,KeyBanc Capital Markets,12 month,5.0,buy,18.0
+2011-07-27,Jefferies,12 month,3.0,hold,14.5
+2011-07-27,Cowen,12 month,5.0,buy,19.0
+2011-07-27,Morgan Stanley,12 month,5.0,Overwt/In-Line,24.0
+2011-07-27,CRT Capital Group,Not Provided,5.0,buy,16.0
+2011-08-01,Cowen,12 month,5.0,buy,19.0
+2011-08-01,Susquehanna Financial,12 month,3.0,neutral,13.0
+2011-08-08,Cowen,12 month,5.0,buy,19.0
+2011-08-10,Susquehanna Financial,12 month,3.0,neutral,9.0
+2011-08-11,UBS,12 month,5.0,buy,12.0
+2011-08-15,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2011-08-15,Susquehanna Financial,12 month,3.0,neutral,9.0
+2011-08-22,Cowen,12 month,5.0,buy,19.0
+2011-08-24,CRT Capital Group,Not Provided,5.0,buy,16.0
+2011-08-24,Morgan Stanley,12 month,5.0,Overwt/In-Line,18.0
+2011-08-29,Susquehanna Financial,12 month,3.0,neutral,9.0
+2011-08-31,Goldman Sachs,6 month,1.0,Sell/Neutral,8.0
+2011-08-31,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2011-09-06,Cowen,12 month,5.0,buy,19.0
+2011-09-06,Susquehanna Financial,12 month,3.0,neutral,9.0
+2011-09-07,CRT Capital Group,12 month,5.0,buy,11.0
+2011-09-12,Cowen,12 month,5.0,buy,19.0
+2011-09-13,Susquehanna Financial,12 month,3.0,neutral,8.0
+2011-09-19,Cowen,12 month,5.0,buy,19.0
+2011-09-19,Susquehanna Financial,12 month,3.0,neutral,8.0
+2011-09-20,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2011-09-26,Susquehanna Financial,12 month,3.0,neutral,8.0
+2011-09-27,Cowen,12 month,5.0,buy,19.0
+2011-09-30,Longbow Research,Not Provided,3.0,neutral,-0.0
+2011-10-03,Jefferies,12 month,3.0,hold,14.5
+2011-10-05,Susquehanna Financial,12 month,3.0,neutral,8.0
+2011-10-05,Cowen,Not Provided,5.0,buy,19.0
+2011-10-05,Morgan Stanley,12 month,5.0,Overwt/In-Line,18.0
+2011-10-05,Credit Suisse,Not Provided,3.0,neutral,7.0
+2011-10-06,CRT Capital Group,Not Provided,5.0,buy,11.0
+2011-10-07,Jefferies,12 month,3.0,hold,14.5
+2011-10-11,Cowen,12 month,5.0,buy,12.0
+2011-10-12,Susquehanna Financial,12 month,3.0,neutral,8.0
+2011-10-13,UBS,12 month,5.0,buy,10.0
+2011-10-17,Cowen,12 month,5.0,buy,12.0
+2011-10-17,Goldman Sachs,6 month,3.0,neutral/neutral,8.0
+2011-10-18,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-25,J.P. Morgan,12 month,5.0,overweight,11.5
+2011-10-25,Credit Suisse,Not Provided,3.0,neutral,7.0
+2011-10-26,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2011-10-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-10-26,CRT Capital Group,Not Provided,3.0,Fairly Valued,10.0
+2011-10-26,Cowen,12 month,5.0,buy,12.0
+2011-10-26,Jefferies,12 month,3.0,hold,8.5
+2011-10-26,Susquehanna Financial,12 month,3.0,neutral,7.0
+2011-10-26,UBS,12 month,5.0,buy,9.0
+2011-10-28,UBS,12 month,5.0,buy,9.5
+2011-10-31,Cowen,12 month,5.0,buy,12.0
+2011-11-02,Barclays,Not Provided,5.0,overwt/positive,14.0
+2011-11-07,Susquehanna Financial,12 month,3.0,neutral,7.0
+2011-11-08,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2011-11-09,Morgan Stanley,12 month,5.0,Overwt/In-Line,18.0
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-17,Susquehanna Financial,12 month,3.0,neutral,9.0
+2011-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-18,Cowen,12 month,5.0,buy,12.0
+2011-11-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-22,Jefferies,12 month,3.0,hold,8.5
+2011-11-23,CRT Capital Group,Not Provided,3.0,Fairly Valued,10.0
+2011-11-28,Cowen,12 month,5.0,buy,12.0
+2011-11-29,Susquehanna Financial,12 month,3.0,neutral,9.0
+2011-11-30,Macquarie,12 month,1.0,underperform,9.0
+2011-12-05,Jefferies,12 month,3.0,hold,8.5
+2011-12-05,Susquehanna Financial,12 month,3.0,neutral,9.0
+2011-12-12,Susquehanna Financial,12 month,3.0,neutral,9.0
+2011-12-15,Credit Suisse,Not Provided,3.0,neutral,7.0
+2011-12-15,J.P. Morgan,9 month,5.0,overweight,9.5
+2011-12-16,UBS,12 month,5.0,buy,9.0
+2011-12-16,CRT Capital Group,Not Provided,3.0,Fairly Valued,10.0
+2011-12-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,18.0
+2011-12-16,Cowen,12 month,5.0,buy,12.0
+2011-12-16,Barclays,Not Provided,5.0,overwt/positive,14.0
+2011-12-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2011-12-16,Jefferies,12 month,3.0,hold,8.5

@@ -1,0 +1,909 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-10-23,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2009-11-12,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2009-11-13,D.A. Davidson & Co,18 month,3.0,neutral,44.0
+2009-11-16,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2009-11-16,RBC Capital Markets,Not Provided,5.0,outperform,50.0
+2009-11-16,Goldman Sachs,Not Provided,5.0,Buy/Neutral,-0.0
+2009-12-04,J.P. Morgan,12 month,3.0,neutral,43.5
+2009-12-08,"Miller Tabak + Co., LLC",Not Provided,5.0,buy,60.0
+2009-12-14,Credit Suisse,Not Provided,5.0,outperform,50.0
+2009-12-27,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2009-12-28,Goldman Sachs,12 month,5.0,Buy/Neutral,52.0
+2010-01-22,D.A. Davidson & Co,18 month,3.0,neutral,48.0
+2010-01-25,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2010-01-28,J.P. Morgan,12 month,3.0,neutral,43.5
+2010-01-28,D.A. Davidson & Co,Not Provided,3.0,neutral,48.0
+2010-01-29,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2010-01-29,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2010-01-29,Credit Suisse,Not Provided,5.0,outperform,54.0
+2010-01-29,RBC Capital Markets,12 month,5.0,outperform,53.0
+2010-01-29,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2010-03-01,D.A. Davidson & Co,18 month,3.0,neutral,48.0
+2010-03-03,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2010-03-11,Goldman Sachs,12 month,5.0,Buy/Neutral,57.0
+2010-03-12,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2010-03-23,RBC Capital Markets,12 month,5.0,outperform,53.0
+2010-03-25,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2010-03-31,J.P. Morgan,9 month,3.0,neutral,43.5
+2010-03-31,Credit Suisse,Not Provided,5.0,outperform,54.0
+2010-04-05,D.A. Davidson & Co,18 month,3.0,neutral,54.0
+2010-04-28,RBC Capital Markets,12 month,5.0,outperform,53.0
+2010-04-28,D.A. Davidson & Co,18 month,3.0,neutral,54.0
+2010-04-29,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2010-04-29,Goldman Sachs,12 month,5.0,Buy/Neutral,58.0
+2010-04-30,RBC Capital Markets,Not Provided,5.0,outperform,60.0
+2010-04-30,D.A. Davidson & Co,Not Provided,3.0,neutral,54.0
+2010-04-30,J.P. Morgan,9 month,3.0,neutral,50.0
+2010-04-30,Credit Suisse,Not Provided,3.0,neutral,54.0
+2010-04-30,IPOfinancial.com,Not Provided,5.0,buy,-0.0
+2010-04-30,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2010-05-03,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2010-05-11,J.P. Morgan,9 month,3.0,neutral,50.0
+2010-05-24,J.P. Morgan,6 month,5.0,overweight,52.0
+2010-06-04,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2010-06-07,RBC Capital Markets,Not Provided,5.0,outperform,60.0
+2010-06-21,Goldman Sachs,12 month,5.0,Buy/Neutral,59.0
+2010-06-22,D.A. Davidson & Co,18 month,3.0,neutral,60.0
+2010-07-12,D.A. Davidson & Co,18 month,3.0,neutral,60.0
+2010-07-29,Goldman Sachs,12 month,5.0,Buy/Neutral,61.0
+2010-07-29,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2010-07-30,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2010-07-30,D.A. Davidson & Co,18 month,3.0,neutral,55.0
+2010-07-30,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2010-07-30,"Miller Tabak + Co., LLC",Not Provided,5.0,buy,60.0
+2010-07-30,J.P. Morgan,3 month,5.0,overweight,56.0
+2010-07-30,RBC Capital Markets,12 month,5.0,outperform,60.0
+2010-07-30,Credit Suisse,Not Provided,3.0,neutral,54.0
+2010-08-02,IPOfinancial.com,Not Provided,5.0,buy,-0.0
+2010-08-02,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2010-08-05,D.A. Davidson & Co,Not Provided,3.0,neutral,55.0
+2010-08-30,D.A. Davidson & Co,Not Provided,3.0,neutral,55.0
+2010-09-01,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2010-10-08,Goldman Sachs,12 month,5.0,Buy/Neutral,62.0
+2010-10-20,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2010-10-20,D.A. Davidson & Co,18 month,3.0,neutral,55.0
+2010-10-28,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2010-10-28,J.P. Morgan,12 month,5.0,overweight,65.0
+2010-10-28,RBC Capital Markets,12 month,5.0,outperform,64.0
+2010-10-28,Goldman Sachs,12 month,5.0,Buy/Neutral,66.0
+2010-10-29,D.A. Davidson & Co,Not Provided,3.0,neutral,60.0
+2010-10-29,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-10-29,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2010-10-29,Credit Suisse,Not Provided,3.0,neutral,63.0
+2010-10-29,"Miller Tabak + Co., LLC",12 month,5.0,buy,68.0
+2010-11-02,IPOfinancial.com,Not Provided,5.0,buy,-0.0
+2010-11-18,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2010-12-08,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2011-01-12,Goldman Sachs,12 month,5.0,Buy/Neutral,68.0
+2011-01-27,Credit Suisse,Not Provided,3.0,neutral,63.0
+2011-01-27,D.A. Davidson & Co,12 month,3.0,neutral,60.0
+2011-01-27,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2011-01-27,RBC Capital Markets,12 month,5.0,outperform,73.0
+2011-01-28,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2011-01-28,"Miller Tabak + Co., LLC",12 month,5.0,buy,68.0
+2011-01-28,J.P. Morgan,12 month,5.0,overweight,65.0
+2011-01-28,IPOfinancial.com,Not Provided,5.0,buy,-0.0
+2011-02-02,RBC Capital Markets,12 month,5.0,outperform,73.0
+2011-02-25,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2011-02-25,RBC Capital Markets,12 month,5.0,outperform,73.0
+2011-03-02,D.A. Davidson & Co,Not Provided,3.0,neutral,60.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-25,J.P. Morgan,12 month,5.0,overweight,65.0
+2011-04-06,Goldman Sachs,12 month,5.0,Buy/Neutral,69.0
+2011-04-14,RBC Capital Markets,12 month,5.0,outperform,73.0
+2011-04-19,Credit Suisse,Not Provided,5.0,outperform,70.0
+2011-04-20,BMO Capital Markets,Not Provided,3.0,market perform,62.0
+2011-04-21,RBC Capital Markets,12 month,5.0,outperform,73.0
+2011-04-21,J.P. Morgan,9 month,5.0,overweight,65.0
+2011-04-25,D.A. Davidson & Co,18 month,3.0,neutral,60.0
+2011-04-28,IPOfinancial.com,Not Provided,5.0,buy,-0.0
+2011-04-28,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2011-04-28,J.P. Morgan,9 month,5.0,overweight,74.0
+2011-04-28,Goldman Sachs,12 month,5.0,Buy/Neutral,70.0
+2011-04-28,Credit Suisse,Not Provided,5.0,outperform,74.0
+2011-04-28,RBC Capital Markets,12 month,5.0,outperform,75.0
+2011-04-28,"Miller Tabak + Co., LLC",12 month,5.0,buy,73.0
+2011-04-29,BMO Capital Markets,Not Provided,3.0,market perform,62.0
+2011-04-29,D.A. Davidson & Co,Not Provided,3.0,neutral,65.0
+2011-04-29,Morgan Stanley,Not Provided,3.0,Equalwt/Cautious,-0.0
+2011-05-08,Goldman Sachs,12 month,3.0,neutral/neutral,70.0
+2011-06-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-06-17,RBC Capital Markets,12 month,5.0,outperform,75.0
+2011-06-27,Credit Suisse,Not Provided,5.0,outperform,74.0
+2011-07-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-07-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-07-22,D.A. Davidson & Co,12 month,3.0,neutral,65.0
+2011-07-28,Goldman Sachs,12 month,3.0,neutral/neutral,76.0
+2011-07-28,RBC Capital Markets,12 month,5.0,outperform,81.0
+2011-07-28,D.A. Davidson & Co,Not Provided,3.0,neutral,75.0
+2011-07-28,J.P. Morgan,3 month,5.0,overweight,75.0
+2011-07-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-07-29,"Miller Tabak + Co., LLC",12 month,5.0,buy,79.0
+2011-07-29,Credit Suisse,Not Provided,5.0,outperform,80.0
+2011-07-29,BMO Capital Markets,Not Provided,3.0,market perform,67.0
+2011-08-03,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2011-08-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-08-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-09-06,Credit Suisse,Not Provided,5.0,outperform,80.0
+2011-09-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-09-23,D.A. Davidson & Co,Not Provided,3.0,neutral,75.0
+2011-09-27,J.P. Morgan,12 month,5.0,overweight,75.0
+2011-09-29,RBC Capital Markets,12 month,5.0,outperform,81.0
+2011-10-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-10-10,Credit Suisse,Not Provided,5.0,outperform,82.0
+2011-10-13,Goldman Sachs,12 month,3.0,neutral/attractive,80.0
+2011-10-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-10-14,RBC Capital Markets,12 month,5.0,outperform,81.0
+2011-10-14,Credit Suisse,Not Provided,5.0,outperform,82.0
+2011-10-14,D.A. Davidson & Co,18 month,3.0,neutral,80.0
+2011-10-17,J.P. Morgan,12 month,5.0,overweight,86.0
+2011-10-17,BMO Capital Markets,Not Provided,3.0,market perform,69.0
+2011-10-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-27,RBC Capital Markets,12 month,5.0,outperform,81.0
+2011-10-27,Credit Suisse,Not Provided,5.0,outperform,82.0
+2011-10-27,D.A. Davidson & Co,12 month,3.0,neutral,80.0
+2011-10-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-10-28,BMO Capital Markets,Not Provided,3.0,market perform,69.0
+2011-10-28,J.P. Morgan,12 month,5.0,overweight,86.0
+2011-10-28,D.A. Davidson & Co,18 month,3.0,neutral,80.0
+2011-10-28,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-03,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2011-11-06,Telsey Advisory Group,12 month,-2147483648.0,no rating system,78.0
+2011-11-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-11-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-10,Credit Suisse,Not Provided,5.0,outperform,82.0
+2011-11-15,D.A. Davidson & Co,Not Provided,3.0,neutral,80.0
+2011-11-17,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-18,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-12-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-12-09,RBC Capital Markets,12 month,5.0,outperform,81.0
+2011-12-22,Goldman Sachs,12 month,3.0,neutral/attractive,74.0
+2011-12-22,BMO Capital Markets,Not Provided,3.0,market perform,69.0
+2011-12-22,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2011-12-22,Credit Suisse,Not Provided,5.0,outperform,82.0
+2011-12-22,RBC Capital Markets,12 month,5.0,outperform,81.0
+2011-12-23,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2011-12-23,Telsey Advisory Group,12 month,-2147483648.0,no rating system,78.0
+2011-12-28,Telsey Advisory Group,12 month,-2147483648.0,no rating system,78.0
+2012-01-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-01-03,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2012-01-03,Credit Suisse,Not Provided,5.0,outperform,82.0
+2012-01-03,RBC Capital Markets,12 month,5.0,outperform,78.0
+2012-01-03,J.P. Morgan,9 month,5.0,overweight,86.0
+2012-01-05,BMO Capital Markets,Not Provided,3.0,market perform,69.0
+2012-01-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-01-13,RBC Capital Markets,12 month,5.0,outperform,85.0
+2012-01-23,D.A. Davidson & Co,12 month,3.0,neutral,80.0
+2012-01-24,Credit Suisse,Not Provided,5.0,outperform,82.0
+2012-01-26,D.A. Davidson & Co,Not Provided,3.0,neutral,80.0
+2012-01-26,"Miller Tabak + Co., LLC",12 month,5.0,buy,79.0
+2012-01-26,Credit Suisse,Not Provided,5.0,outperform,82.0
+2012-01-26,BMO Capital Markets,Not Provided,3.0,market perform,69.0
+2012-01-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-01-26,J.P. Morgan,9 month,5.0,overweight,87.0
+2012-01-26,Goldman Sachs,12 month,3.0,neutral/attractive,80.0
+2012-01-26,RBC Capital Markets,12 month,5.0,outperform,85.0
+2012-01-30,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2012-02-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-02-10,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-02-13,Morgan Stanley,12 month,5.0,Overwt/Attractive,86.0
+2012-02-15,RBC Capital Markets,12 month,5.0,outperform,85.0
+2012-02-23,Telsey Advisory Group,12 month,-2147483648.0,no rating system,78.0
+2012-02-27,Morgan Stanley,12 month,5.0,Overwt/Attractive,86.0
+2012-02-27,RBC Capital Markets,12 month,5.0,outperform,85.0
+2012-03-06,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-03-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-03-09,Goldman Sachs,12 month,3.0,neutral/neutral,81.0
+2012-03-21,Telsey Advisory Group,12 month,-2147483648.0,no rating system,81.0
+2012-03-23,RBC Capital Markets,12 month,5.0,outperform,85.0
+2012-04-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-04-16,Goldman Sachs,12 month,3.0,neutral/neutral,84.0
+2012-04-18,Morgan Stanley,12 month,5.0,Overwt/Attractive,86.0
+2012-04-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-04-19,Telsey Advisory Group,12 month,-2147483648.0,no rating system,81.0
+2012-04-20,J.P. Morgan,9 month,5.0,overweight,97.0
+2012-04-24,Telsey Advisory Group,12 month,-2147483648.0,no rating system,81.0
+2012-04-26,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2012-04-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-04-26,J.P. Morgan,6 month,5.0,overweight,98.0
+2012-04-26,Goldman Sachs,12 month,3.0,neutral/neutral,89.0
+2012-04-26,"Miller Tabak + Co., LLC",12 month,3.0,neutral,88.0
+2012-04-26,RBC Capital Markets,12 month,5.0,outperform,95.0
+2012-04-26,D.A. Davidson & Co,12 month,3.0,neutral,88.0
+2012-04-27,BMO Capital Markets,Not Provided,3.0,market perform,80.0
+2012-04-27,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2012-04-27,Morgan Stanley,12 month,5.0,Overwt/Attractive,90.0
+2012-04-27,Credit Suisse,Not Provided,5.0,outperform,98.0
+2012-05-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-05-15,D.A. Davidson & Co,18 month,3.0,neutral,88.0
+2012-05-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-06-05,"Miller Tabak + Co., LLC",12 month,5.0,buy,90.0
+2012-06-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-06-14,Credit Suisse,Not Provided,5.0,outperform,98.0
+2012-06-27,RBC Capital Markets,12 month,5.0,outperform,95.0
+2012-06-28,Goldman Sachs,12 month,3.0,neutral/neutral,88.0
+2012-07-04,Atlantic Equities LLP,12 month,5.0,overweight,95.0
+2012-07-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-07-10,Credit Suisse,Not Provided,5.0,outperform,98.0
+2012-07-11,Morgan Stanley,12 month,5.0,Overwt/Attractive,90.0
+2012-07-16,J.P. Morgan,6 month,5.0,overweight,87.0
+2012-07-16,D.A. Davidson & Co,18 month,3.0,neutral,88.0
+2012-07-16,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2012-07-17,Atlantic Equities LLP,12 month,5.0,overweight,95.0
+2012-07-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-07-18,Credit Suisse,Not Provided,5.0,outperform,86.0
+2012-07-20,D.A. Davidson & Co,12 month,3.0,neutral,88.0
+2012-07-26,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2012-07-26,J.P. Morgan,3 month,5.0,overweight,77.0
+2012-07-26,D.A. Davidson & Co,12 month,3.0,neutral,72.0
+2012-07-26,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2012-07-26,Goldman Sachs,12 month,3.0,neutral/neutral,80.0
+2012-07-26,Atlantic Equities LLP,12 month,5.0,overweight,95.0
+2012-07-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-07-26,Credit Suisse,Not Provided,5.0,outperform,84.0
+2012-07-27,Morgan Stanley,12 month,5.0,Overwt/Attractive,82.0
+2012-07-27,"Miller Tabak + Co., LLC",12 month,5.0,buy,85.0
+2012-07-27,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-07-30,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2012-08-03,Atlantic Equities LLP,12 month,5.0,overweight,90.0
+2012-08-07,Credit Suisse,Not Provided,5.0,outperform,84.0
+2012-08-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-08-12,Goldman Sachs,12 month,3.0,neutral/attractive,80.0
+2012-08-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2012-09-04,J.P. Morgan,Not Provided,5.0,overweight,77.0
+2012-09-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-09-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-09-25,Atlantic Equities LLP,12 month,5.0,overweight,90.0
+2012-09-28,Credit Suisse,Not Provided,5.0,outperform,84.0
+2012-10-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-10-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-10-10,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2012-10-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-10-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-10-17,Atlantic Equities LLP,12 month,5.0,overweight,90.0
+2012-10-19,D.A. Davidson & Co,12 month,3.0,neutral,72.0
+2012-10-22,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2012-10-22,J.P. Morgan,Not Provided,5.0,overweight,79.0
+2012-10-23,Credit Suisse,Not Provided,5.0,outperform,84.0
+2012-10-23,Atlantic Equities LLP,12 month,5.0,overweight,90.0
+2012-10-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-10-25,Credit Suisse,Not Provided,5.0,outperform,76.0
+2012-10-25,RBC Capital Markets,12 month,3.0,sector perform,69.0
+2012-10-25,Goldman Sachs,12 month,3.0,neutral/attractive,71.0
+2012-10-25,D.A. Davidson & Co,12 month,3.0,neutral,66.0
+2012-10-25,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2012-10-26,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-10-26,"Miller Tabak + Co., LLC",12 month,5.0,buy,76.0
+2012-10-26,J.P. Morgan,12 month,5.0,overweight,71.0
+2012-10-26,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2012-10-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-10-26,Morgan Stanley,12 month,5.0,Overwt/Attractive,75.0
+2012-10-31,Atlantic Equities LLP,12 month,5.0,overweight,80.0
+2012-11-12,Credit Suisse,Not Provided,5.0,outperform,76.0
+2012-11-12,RBC Capital Markets,12 month,3.0,sector perform,69.0
+2012-11-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-11-14,Morgan Stanley,12 month,5.0,Overwt/Attractive,75.0
+2012-11-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-11-16,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2012-11-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-12-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-12-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2012-12-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-01-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-01-09,S&P Capital IQ,12 month,1.0,sell,65.0
+2013-01-09,RBC Capital Markets,12 month,3.0,sector perform,75.0
+2013-01-11,Goldman Sachs,12 month,3.0,neutral/neutral,75.0
+2013-01-15,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2013-01-16,Credit Suisse,Not Provided,3.0,neutral,76.0
+2013-01-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-01-17,J.P. Morgan,12 month,3.0,neutral,68.0
+2013-01-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-01-24,D.A. Davidson & Co,18 month,3.0,neutral,66.0
+2013-01-24,Morgan Stanley,12 month,5.0,Overwt/In-Line,75.0
+2013-01-25,D.A. Davidson & Co,18 month,3.0,neutral,66.0
+2013-01-31,J.P. Morgan,9 month,3.0,neutral,76.0
+2013-01-31,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2013-01-31,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2013-01-31,Credit Suisse,Not Provided,3.0,neutral,76.0
+2013-01-31,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2013-01-31,Morgan Stanley,12 month,5.0,Overwt/In-Line,75.0
+2013-02-01,D.A. Davidson & Co,18 month,3.0,neutral,76.0
+2013-02-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-02-01,"Miller Tabak + Co., LLC",12 month,3.0,neutral,76.0
+2013-02-01,Morgan Stanley,12 month,5.0,Overwt/In-Line,82.0
+2013-02-04,Goldman Sachs,12 month,5.0,Buy/Neutral,95.0
+2013-02-04,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-02-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-02-12,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-02-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-02-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-02-25,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-02-25,Morgan Stanley,12 month,5.0,Overwt/In-Line,82.0
+2013-02-25,Credit Suisse,Not Provided,3.0,neutral,76.0
+2013-02-25,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2013-02-25,Goldman Sachs,12 month,5.0,Buy/Neutral,93.0
+2013-02-26,J.P. Morgan,9 month,3.0,neutral,75.0
+2013-03-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-03-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-03-08,Credit Suisse,Not Provided,3.0,neutral,76.0
+2013-03-11,RBC Capital Markets,12 month,3.0,sector perform,80.0
+2013-03-11,Credit Suisse,Not Provided,3.0,neutral,76.0
+2013-03-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-03-21,Morgan Stanley,12 month,5.0,Overwt/In-Line,82.0
+2013-03-28,D.A. Davidson & Co,18 month,3.0,neutral,76.0
+2013-04-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-04-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-04-22,J.P. Morgan,6 month,3.0,neutral,79.0
+2013-04-22,D.A. Davidson & Co,12 month,3.0,neutral,76.0
+2013-04-25,Credit Suisse,Not Provided,3.0,neutral,76.0
+2013-04-25,D.A. Davidson & Co,12 month,3.0,neutral,80.0
+2013-04-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-04-25,Goldman Sachs,12 month,5.0,Buy/Neutral,98.0
+2013-04-25,BMO Capital Markets,Not Provided,3.0,market perform,76.0
+2013-04-26,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2013-04-26,J.P. Morgan,3 month,3.0,neutral,79.0
+2013-04-26,"Miller Tabak + Co., LLC",12 month,3.0,neutral,76.5
+2013-04-26,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2013-04-26,Morgan Stanley,12 month,5.0,Overwt/In-Line,84.0
+2013-04-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-04-30,Credit Suisse,Not Provided,3.0,neutral,76.0
+2013-05-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-05-03,BMO Capital Markets,Not Provided,3.0,market perform,76.0
+2013-05-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-06-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-06-24,Goldman Sachs,12 month,5.0,Buy/Neutral,96.0
+2013-06-25,Morgan Stanley,12 month,5.0,Overwt/In-Line,87.0
+2013-07-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2013-07-03,Goldman Sachs,12 month,3.0,neutral/neutral,83.0
+2013-07-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,76.0
+2013-07-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-07-10,Credit Suisse,Not Provided,3.0,neutral,76.0
+2013-07-11,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-12,D.A. Davidson & Co,12 month,3.0,neutral,75.0
+2013-07-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-07-19,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-23,D.A. Davidson & Co,18 month,3.0,neutral,75.0
+2013-07-24,J.P. Morgan,3 month,3.0,neutral,79.0
+2013-07-25,Goldman Sachs,12 month,3.0,neutral/neutral,85.0
+2013-07-25,"Miller Tabak + Co., LLC",12 month,3.0,neutral,76.0
+2013-07-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-07-25,Credit Suisse,Not Provided,3.0,neutral,76.0
+2013-07-26,D.A. Davidson & Co,12 month,3.0,neutral,80.0
+2013-07-26,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2013-07-26,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2013-07-26,J.P. Morgan,3 month,3.0,neutral,76.0
+2013-07-26,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-07-26,Morgan Stanley,12 month,3.0,Equalwt/In-Line,76.0
+2013-07-31,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-08-03,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2013-08-05,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-08-06,Morgan Stanley,12 month,3.0,Equalwt/In-Line,76.0
+2013-08-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-08-07,Credit Suisse,Not Provided,5.0,outperform,90.0
+2013-08-07,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-08-14,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-08-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-08-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-08-30,Credit Suisse,Not Provided,5.0,outperform,90.0
+2013-09-02,First Global Stockbroking,Not Provided,3.0,market perform,-0.0
+2013-09-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-09-04,J.P. Morgan,3 month,3.0,neutral,78.0
+2013-09-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-09-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-09-17,J.P. Morgan,12 month,5.0,overweight,88.0
+2013-10-01,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-10-03,Credit Suisse,Not Provided,5.0,outperform,90.0
+2013-10-16,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-10-16,Morgan Stanley,12 month,3.0,Equalwt/In-Line,76.0
+2013-10-17,D.A. Davidson & Co,18 month,3.0,neutral,80.0
+2013-10-18,D.A. Davidson & Co,18 month,3.0,neutral,80.0
+2013-10-23,J.P. Morgan,12 month,5.0,overweight,88.0
+2013-10-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,76.0
+2013-10-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-10-24,Goldman Sachs,12 month,3.0,neutral/neutral,93.0
+2013-10-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-10-24,BMO Capital Markets,Not Provided,3.0,market perform,74.0
+2013-10-25,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2013-10-25,D.A. Davidson & Co,12 month,3.0,neutral,80.0
+2013-10-25,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2013-10-25,"Miller Tabak + Co., LLC",12 month,3.0,neutral,84.0
+2013-10-25,Credit Suisse,Not Provided,5.0,outperform,90.0
+2013-10-25,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-10-25,J.P. Morgan,12 month,5.0,overweight,87.0
+2013-10-25,Morgan Stanley,12 month,3.0,Equalwt/In-Line,82.0
+2013-10-28,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-10-30,First Global Stockbroking,Not Provided,3.0,market perform,-0.0
+2013-11-06,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-11-07,Credit Suisse,Not Provided,5.0,outperform,90.0
+2013-11-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2013-11-08,J.P. Morgan,12 month,5.0,overweight,89.0
+2013-11-08,Morgan Stanley,12 month,3.0,Equalwt/In-Line,82.0
+2013-11-15,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2013-11-15,Morgan Stanley,12 month,3.0,Equalwt/In-Line,82.0
+2013-11-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-11-19,Oppenheimer & Co,18 month,5.0,outperform,100.0
+2013-11-24,Goldman Sachs,12 month,3.0,neutral/cautious,93.0
+2013-12-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-01-03,J.P. Morgan,12 month,5.0,overweight,89.0
+2014-01-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-01-09,Credit Suisse,Not Provided,5.0,outperform,92.0
+2014-01-10,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-01-14,Morgan Stanley,12 month,3.0,Equalwt/In-Line,85.0
+2014-01-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-01-16,D.A. Davidson & Co,12 month,3.0,neutral,80.0
+2014-01-24,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-01-27,Credit Suisse,Not Provided,5.0,outperform,92.0
+2014-01-27,J.P. Morgan,9 month,5.0,overweight,89.0
+2014-01-28,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2014-01-30,Societe Generale,12 month,5.0,buy,94.0
+2014-01-31,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-01-31,J.P. Morgan,9 month,5.0,overweight,89.0
+2014-01-31,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2014-01-31,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2014-02-03,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2014-02-03,Oppenheimer & Co,12 month,5.0,outperform,95.0
+2014-02-03,Credit Suisse,Not Provided,5.0,outperform,92.0
+2014-02-03,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2014-02-03,Goldman Sachs,12 month,3.0,neutral/cautious,90.0
+2014-02-03,Morgan Stanley,12 month,3.0,Equalwt/In-Line,85.0
+2014-02-06,J.P. Morgan,9 month,5.0,overweight,89.0
+2014-02-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-02-18,Societe Generale,12 month,5.0,buy,94.0
+2014-02-19,Goldman Sachs,12 month,3.0,neutral/cautious,86.0
+2014-02-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,85.0
+2014-02-20,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-02-20,J.P. Morgan,9 month,5.0,overweight,89.0
+2014-02-24,First Global Stockbroking,Not Provided,3.0,market perform,-0.0
+2014-02-25,BMO Capital Markets,Not Provided,3.0,market perform,78.0
+2014-03-10,J.P. Morgan,9 month,5.0,overweight,92.0
+2014-03-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-03-20,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-03-27,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-01,J.P. Morgan,9 month,5.0,overweight,92.0
+2014-04-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-04-03,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-10,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-04-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-04-24,Credit Suisse,Not Provided,5.0,outperform,97.0
+2014-04-25,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2014-04-25,Goldman Sachs,12 month,3.0,neutral/cautious,91.0
+2014-04-25,Morgan Stanley,12 month,3.0,Equalwt/In-Line,87.0
+2014-04-25,J.P. Morgan,6 month,5.0,overweight,93.0
+2014-04-25,BMO Capital Markets,Not Provided,3.0,market perform,82.0
+2014-04-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-04-28,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-04-28,Societe Generale,12 month,5.0,buy,100.0
+2014-04-30,BMO Capital Markets,Not Provided,3.0,market perform,82.0
+2014-05-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-22,J.P. Morgan,3 month,5.0,overweight,93.0
+2014-05-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-05-28,BMO Capital Markets,Not Provided,3.0,market perform,82.0
+2014-06-17,BMO Capital Markets,Not Provided,3.0,market perform,82.0
+2014-07-01,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-11,Societe Generale,12 month,5.0,buy,105.0
+2014-07-14,Goldman Sachs,12 month,5.0,Buy/Cautious,107.0
+2014-07-15,J.P. Morgan,3 month,5.0,overweight,97.0
+2014-07-21,J.P. Morgan,12 month,5.0,overweight,97.0
+2014-07-22,Goldman Sachs,12 month,5.0,Buy/Cautious,112.0
+2014-07-22,Morgan Stanley,12 month,3.0,Equalwt/In-Line,93.0
+2014-07-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-07-22,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2014-07-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-23,BMO Capital Markets,Not Provided,3.0,market perform,92.0
+2014-07-23,Credit Suisse,Not Provided,5.0,outperform,105.0
+2014-07-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-07-23,J.P. Morgan,3 month,5.0,overweight,99.0
+2014-07-23,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2014-07-24,Societe Generale,12 month,5.0,buy,110.0
+2014-08-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-08-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-09-01,BMO Capital Markets,Not Provided,3.0,market perform,92.0
+2014-09-02,Credit Suisse,Not Provided,5.0,outperform,105.0
+2014-09-03,J.P. Morgan,3 month,5.0,overweight,99.0
+2014-09-08,J.P. Morgan,12 month,5.0,overweight,107.0
+2014-09-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-09-11,BMO Capital Markets,Not Provided,3.0,market perform,100.0
+2014-09-11,Goldman Sachs,12 month,5.0,Buy/Cautious,116.0
+2014-09-16,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-09-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-09-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-10-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-08,BMO Capital Markets,Not Provided,3.0,market perform,100.0
+2014-10-17,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,93.0
+2014-10-20,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-10-20,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2014-10-22,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-23,Goldman Sachs,12 month,5.0,Buy/Cautious,117.0
+2014-10-23,Credit Suisse,Not Provided,5.0,outperform,110.0
+2014-10-23,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2014-10-24,J.P. Morgan,12 month,5.0,overweight,109.0
+2014-10-24,BMO Capital Markets,Not Provided,3.0,market perform,100.0
+2014-10-24,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2014-10-27,Societe Generale,12 month,5.0,buy,120.0
+2014-10-27,Morgan Stanley,12 month,3.0,Equalwt/In-Line,98.0
+2014-10-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-10-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-31,BMO Capital Markets,Not Provided,3.0,market perform,100.0
+2014-10-31,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-31,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-11-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2014-11-12,J.P. Morgan,12 month,5.0,overweight,109.0
+2014-11-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-11-17,Societe Generale,12 month,5.0,buy,120.0
+2014-11-17,Credit Suisse,Not Provided,5.0,outperform,110.0
+2014-11-18,Morgan Stanley,12 month,3.0,Equalwt/In-Line,98.0
+2014-12-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-12-22,First Global Stockbroking,Not Provided,3.0,market perform,-0.0
+2014-12-31,BMO Capital Markets,Not Provided,3.0,market perform,100.0
+2015-01-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-09,Societe Generale,12 month,5.0,buy,120.0
+2015-01-09,Nomura,Not Provided,5.0,buy,123.0
+2015-01-14,Nomura,12 month,5.0,buy,123.0
+2015-01-16,Goldman Sachs,12 month,5.0,Buy/Neutral,120.0
+2015-01-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-01-27,Morgan Stanley,12 month,3.0,Equalwt/In-Line,104.0
+2015-01-29,Goldman Sachs,12 month,5.0,Buy/Neutral,121.0
+2015-01-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-01-29,Credit Suisse,Not Provided,5.0,outperform,110.0
+2015-01-30,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-01-30,BMO Capital Markets,Not Provided,3.0,market perform,105.0
+2015-01-30,Morgan Stanley,12 month,3.0,Equalwt/In-Line,105.0
+2015-01-30,J.P. Morgan,12 month,5.0,overweight,111.0
+2015-01-30,Nomura,12 month,5.0,buy,123.0
+2015-02-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-02-03,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-02-05,Nomura,12 month,5.0,buy,122.0
+2015-02-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,105.0
+2015-02-13,Societe Generale,12 month,5.0,buy,120.0
+2015-02-17,Morgan Stanley,12 month,3.0,Equalwt/In-Line,105.0
+2015-02-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-02-23,Credit Suisse,Not Provided,5.0,outperform,112.0
+2015-02-24,Societe Generale,12 month,5.0,buy,120.0
+2015-02-25,BMO Capital Markets,Not Provided,3.0,market perform,105.0
+2015-02-27,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-03-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-03-06,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-10,BMO Capital Markets,Not Provided,3.0,market perform,105.0
+2015-03-11,Credit Suisse,Not Provided,5.0,outperform,112.0
+2015-03-17,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-03-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-03-25,BMO Capital Markets,Not Provided,3.0,market perform,105.0
+2015-04-01,J.P. Morgan,9 month,5.0,overweight,111.0
+2015-04-14,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-23,Credit Suisse,Not Provided,5.0,outperform,112.0
+2015-04-23,Morgan Stanley,12 month,3.0,Equalwt/In-Line,105.0
+2015-04-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-04-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-23,Hilliard Lyons,Not Provided,3.0,neutral,-0.0
+2015-04-23,J.P. Morgan,12 month,5.0,overweight,111.0
+2015-04-23,Goldman Sachs,12 month,5.0,Buy/Neutral,128.0
+2015-04-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-24,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-04-24,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-04-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-04-24,J.P. Morgan,9 month,5.0,overweight,111.0
+2015-04-24,BMO Capital Markets,Not Provided,3.0,market perform,105.0
+2015-04-27,Societe Generale,12 month,5.0,buy,120.0
+2015-04-29,Nomura,12 month,5.0,buy,121.0
+2015-05-05,First Global Stockbroking,Not Provided,3.0,market perform,-0.0
+2015-05-06,J.P. Morgan,12 month,5.0,overweight,111.0
+2015-05-08,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-05-19,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-05-21,Credit Suisse,Not Provided,5.0,outperform,112.0
+2015-05-26,BMO Capital Markets,Not Provided,3.0,market perform,105.0
+2015-06-02,Societe Generale,12 month,5.0,buy,120.0
+2015-06-03,BMO Capital Markets,Not Provided,3.0,market perform,105.0
+2015-06-10,J.P. Morgan,6 month,5.0,overweight,99.0
+2015-06-10,Credit Suisse,Not Provided,5.0,outperform,110.0
+2015-06-12,Nomura,Not Provided,3.0,neutral,113.0
+2015-06-15,J.P. Morgan,6 month,5.0,overweight,99.0
+2015-06-15,Societe Generale,12 month,5.0,buy,120.0
+2015-06-22,Credit Suisse,Not Provided,5.0,outperform,102.0
+2015-06-22,Societe Generale,12 month,5.0,buy,120.0
+2015-06-23,Goldman Sachs,12 month,5.0,Buy/Neutral,122.0
+2015-07-01,J.P. Morgan,12 month,5.0,overweight,99.0
+2015-07-02,Nomura,12 month,3.0,neutral,113.0
+2015-07-03,Societe Generale,12 month,5.0,buy,106.0
+2015-07-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-07-14,BMO Capital Markets,Not Provided,3.0,market perform,100.0
+2015-07-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-15,J.P. Morgan,6 month,5.0,overweight,89.0
+2015-07-15,Goldman Sachs,12 month,5.0,Buy/Neutral,107.0
+2015-07-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-16,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-07-16,Credit Suisse,Not Provided,5.0,outperform,95.0
+2015-07-16,Societe Generale,12 month,5.0,buy,99.0
+2015-07-17,Nomura,12 month,3.0,neutral,113.0
+2015-07-20,Morgan Stanley,12 month,3.0,Equalwt/In-Line,92.0
+2015-07-23,Nomura,12 month,3.0,neutral,113.0
+2015-07-23,Morgan Stanley,12 month,3.0,Equalwt/In-Line,92.0
+2015-07-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-07-23,Credit Suisse,Not Provided,5.0,outperform,102.0
+2015-07-23,Goldman Sachs,12 month,5.0,Buy/Neutral,110.0
+2015-07-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-24,J.P. Morgan,6 month,5.0,overweight,97.0
+2015-07-24,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-07-24,BMO Capital Markets,Not Provided,3.0,market perform,99.0
+2015-07-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-07-31,Nomura,12 month,3.0,neutral,102.0
+2015-07-31,J.P. Morgan,6 month,5.0,overweight,97.0
+2015-08-04,First Global Stockbroking,Not Provided,3.0,market perform,-0.0
+2015-08-04,J.P. Morgan,12 month,5.0,overweight,97.0
+2015-08-10,Societe Generale,12 month,5.0,buy,99.0
+2015-08-17,Credit Suisse,Not Provided,5.0,outperform,102.0
+2015-08-20,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-08-26,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-08-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-09-06,Nomura,12 month,3.0,neutral,102.0
+2015-09-09,Goldman Sachs,12 month,5.0,Buy/Neutral,107.0
+2015-09-14,Societe Generale,12 month,5.0,buy,99.0
+2015-09-16,J.P. Morgan,18 month,5.0,overweight,86.0
+2015-09-25,Credit Suisse,Not Provided,5.0,outperform,88.0
+2015-09-30,Nomura,12 month,3.0,neutral,102.0
+2015-10-05,Goldman Sachs,12 month,5.0,Buy/Neutral,94.0
+2015-10-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-10-12,Societe Generale,12 month,5.0,buy,99.0
+2015-10-12,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2015-10-13,Credit Suisse,Not Provided,5.0,outperform,86.0
+2015-10-13,Nomura,12 month,5.0,buy,93.0
+2015-10-15,BMO Capital Markets,Not Provided,5.0,outperform,89.0
+2015-10-19,Societe Generale,12 month,5.0,buy,99.0
+2015-10-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-22,Goldman Sachs,12 month,5.0,Buy/Neutral,88.0
+2015-10-22,Nomura,12 month,5.0,buy,93.0
+2015-10-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-10-23,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2015-10-23,Credit Suisse,Not Provided,3.0,neutral,86.0
+2015-10-23,J.P. Morgan,12 month,5.0,overweight,85.0
+2015-10-23,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-23,BMO Capital Markets,Not Provided,5.0,outperform,89.0
+2015-10-26,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-10-26,Susquehanna Financial,12 month,3.0,neutral,75.0
+2015-10-26,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2015-10-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-10-29,Credit Suisse,Not Provided,3.0,neutral,86.0
+2015-11-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-11-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-03,Nomura,12 month,5.0,buy,93.0
+2015-11-04,BMO Capital Markets,Not Provided,5.0,outperform,89.0
+2015-11-04,First Global Stockbroking,Not Provided,3.0,market perform,-0.0
+2015-11-05,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2015-11-13,Nomura,Not Provided,5.0,buy,98.0
+2015-11-19,BMO Capital Markets,Not Provided,5.0,outperform,89.0
+2015-11-20,J.P. Morgan,12 month,5.0,overweight,85.0
+2015-11-30,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-12-04,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2015-12-08,Credit Suisse,Not Provided,3.0,neutral,86.0
+2015-12-14,Goldman Sachs,12 month,3.0,neutral/neutral,86.0
+2015-12-21,Societe Generale,12 month,5.0,buy,99.0
+2015-12-22,BMO Capital Markets,Not Provided,5.0,outperform,89.0
+2015-12-28,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-30,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-01-05,Credit Suisse,Not Provided,3.0,neutral,86.0
+2016-01-11,J.P. Morgan,12 month,3.0,neutral,77.0
+2016-01-12,Nomura,Not Provided,3.0,neutral,85.0
+2016-01-18,Societe Generale,12 month,5.0,buy,99.0
+2016-01-22,Nomura,12 month,3.0,neutral,85.0
+2016-01-25,Credit Suisse,Not Provided,3.0,neutral,76.0
+2016-01-25,Morgan Stanley,12 month,3.0,Equalwt/In-Line,75.0
+2016-01-25,Susquehanna Financial,12 month,3.0,neutral,75.0
+2016-01-28,J.P. Morgan,12 month,3.0,neutral,76.0
+2016-01-28,BMO Capital Markets,Not Provided,5.0,outperform,89.0
+2016-01-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-01-29,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-01-29,Morgan Stanley,12 month,3.0,Equalwt/In-Line,75.0
+2016-01-29,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-29,Societe Generale,12 month,5.0,buy,85.0
+2016-01-29,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-01-29,Credit Suisse,Not Provided,3.0,neutral,76.0
+2016-01-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-01,Nomura,Not Provided,3.0,neutral,88.0
+2016-02-08,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-02-08,Societe Generale,12 month,5.0,buy,85.0
+2016-02-09,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-02-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,75.0
+2016-02-12,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-02-15,First Global Stockbroking,Not Provided,3.0,market perform,-0.0
+2016-02-23,Nomura,12 month,3.0,neutral,88.0
+2016-02-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-03-04,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-07,Societe Generale,12 month,5.0,buy,85.0
+2016-03-15,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-03-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-16,Credit Suisse,Not Provided,5.0,outperform,100.0
+2016-03-17,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2016-03-17,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-03-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-03-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-03-28,BMO Capital Markets,Not Provided,5.0,outperform,89.0
+2016-03-29,Societe Generale,12 month,5.0,buy,85.0
+2016-03-30,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-04-01,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-04-08,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-04-13,Morgan Stanley,12 month,3.0,Equalwt/In-Line,80.0
+2016-04-14,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-04-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-19,Goldman Sachs,12 month,3.0,neutral/neutral,88.0
+2016-04-25,Societe Generale,12 month,5.0,buy,85.0
+2016-04-25,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-04-26,Susquehanna Financial,12 month,3.0,neutral,77.0
+2016-04-27,J.P. Morgan,12 month,3.0,neutral,76.0
+2016-04-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-28,Susquehanna Financial,12 month,3.0,neutral,82.0
+2016-04-28,Morgan Stanley,12 month,3.0,Equalwt/In-Line,84.0
+2016-04-28,Credit Suisse,Not Provided,5.0,outperform,100.0
+2016-04-29,Goldman Sachs,12 month,3.0,neutral/neutral,91.0
+2016-04-29,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-04-29,BMO Capital Markets,Not Provided,5.0,outperform,95.0
+2016-04-29,Societe Generale,12 month,5.0,buy,100.0
+2016-05-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-02,J.P. Morgan,9 month,3.0,neutral,85.0
+2016-05-03,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-05-09,Susquehanna Financial,12 month,3.0,neutral,82.0
+2016-05-09,BMO Capital Markets,Not Provided,5.0,outperform,95.0
+2016-05-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-18,BMO Capital Markets,Not Provided,5.0,outperform,95.0
+2016-05-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-05-25,First Global Stockbroking,Not Provided,3.0,market perform,-0.0
+2016-06-01,Societe Generale,12 month,5.0,buy,100.0
+2016-06-15,Credit Suisse,Not Provided,5.0,outperform,96.0
+2016-06-15,BMO Capital Markets,Not Provided,5.0,outperform,95.0
+2016-06-16,Susquehanna Financial,12 month,3.0,neutral,82.0
+2016-06-16,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-30,Credit Suisse,Not Provided,5.0,outperform,96.0
+2016-07-07,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-07,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-11,Societe Generale,12 month,5.0,buy,100.0
+2016-07-12,Goldman Sachs,12 month,3.0,neutral/neutral,96.0
+2016-07-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-13,BMO Capital Markets,Not Provided,5.0,outperform,95.0
+2016-07-15,Susquehanna Financial,12 month,3.0,neutral,82.0
+2016-07-18,Societe Generale,12 month,5.0,buy,100.0
+2016-07-28,Susquehanna Financial,12 month,3.0,neutral,95.0
+2016-07-28,Morgan Stanley,12 month,3.0,Equalwt/In-Line,92.0
+2016-07-28,Credit Suisse,Not Provided,5.0,outperform,100.0
+2016-07-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-29,Societe Generale,12 month,3.0,hold,95.0
+2016-07-29,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-07-29,J.P. Morgan,18 month,5.0,overweight,105.0
+2016-07-29,BMO Capital Markets,Not Provided,5.0,outperform,97.0
+2016-07-29,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-08-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-08-16,Morgan Stanley,12 month,3.0,Equalwt/In-Line,87.0
+2016-08-17,J.P. Morgan,18 month,5.0,overweight,105.0
+2016-08-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-08-18,Susquehanna Financial,12 month,3.0,neutral,95.0
+2016-08-24,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-08-24,UBS,12 month,3.0,neutral,90.0
+2016-08-24,Susquehanna Financial,12 month,3.0,neutral,95.0
+2016-08-29,Societe Generale,12 month,3.0,hold,95.0
+2016-08-29,Susquehanna Financial,12 month,3.0,neutral,95.0
+2016-09-07,Susquehanna Financial,12 month,3.0,neutral,90.0
+2016-09-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-09-07,Societe Generale,12 month,3.0,hold,95.0
+2016-09-12,Credit Suisse,Not Provided,5.0,outperform,95.0
+2016-09-13,J.P. Morgan,18 month,5.0,overweight,90.0
+2016-09-20,BMO Capital Markets,Not Provided,5.0,outperform,97.0
+2016-09-20,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-09-22,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-26,Goldman Sachs,12 month,3.0,neutral/neutral,85.0
+2016-10-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-05,BMO Capital Markets,Not Provided,5.0,outperform,96.0
+2016-10-06,Societe Generale,12 month,3.0,hold,95.0
+2016-10-07,Susquehanna Financial,12 month,3.0,neutral,90.0
+2016-10-11,Credit Suisse,Not Provided,5.0,outperform,95.0
+2016-10-17,UBS,12 month,3.0,neutral,87.0
+2016-10-20,BMO Capital Markets,Not Provided,5.0,outperform,96.0
+2016-10-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-27,Credit Suisse,Not Provided,5.0,outperform,95.0
+2016-10-27,Morgan Stanley,12 month,3.0,Equalwt/In-Line,80.0
+2016-10-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-27,Goldman Sachs,12 month,3.0,neutral/neutral,83.0
+2016-10-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-28,Societe Generale,12 month,3.0,hold,75.0
+2016-10-28,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2016-10-28,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2016-10-28,UBS,12 month,3.0,neutral,79.0
+2016-10-28,BMO Capital Markets,Not Provided,5.0,outperform,92.0
+2016-10-28,Susquehanna Financial,12 month,3.0,neutral,86.0
+2016-10-28,J.P. Morgan,18 month,3.0,neutral,75.0
+2016-11-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-02,J.P. Morgan,18 month,3.0,neutral,73.0
+2016-11-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-14,Goldman Sachs,12 month,3.0,neutral/neutral,78.0
+2016-11-15,Morgan Stanley,12 month,3.0,Equalwt/In-Line,80.0
+2016-11-15,Credit Suisse,Not Provided,5.0,outperform,84.0
+2016-11-27,Susquehanna Financial,12 month,3.0,neutral,86.0
+2016-11-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-29,BMO Capital Markets,Not Provided,5.0,outperform,92.0
+2016-12-01,Credit Suisse,Not Provided,5.0,outperform,84.0
+2016-12-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-12-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-12-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,75.0
+2016-12-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-09,Goldman Sachs,12 month,3.0,neutral/neutral,74.0
+2017-01-11,UBS,12 month,3.0,neutral,75.0
+2017-01-11,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-01-17,Berenberg,Not Provided,1.0,sell,66.0
+2017-01-18,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-19,Goldman Sachs,12 month,3.0,neutral/neutral,69.0
+2017-01-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-19,Morgan Stanley,12 month,3.0,Equalwt/In-Line,75.0
+2017-01-19,Susquehanna Financial,12 month,3.0,neutral,86.0
+2017-01-26,Morgan Stanley,12 month,3.0,Equalwt/In-Line,72.0
+2017-01-26,Societe Generale,12 month,3.0,hold,75.0
+2017-01-26,BMO Capital Markets,Not Provided,5.0,outperform,84.0
+2017-01-26,Credit Suisse,Not Provided,5.0,outperform,82.0
+2017-01-26,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-01-26,Goldman Sachs,12 month,3.0,neutral/neutral,67.0
+2017-01-26,Susquehanna Financial,12 month,3.0,neutral,78.0
+2017-01-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-27,UBS,12 month,3.0,neutral,72.0
+2017-01-27,Berenberg,Not Provided,1.0,sell,65.0
+2017-01-27,J.P. Morgan,12 month,3.0,neutral,73.0
+2017-02-02,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2017-02-02,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2017-02-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-02,Credit Suisse,Not Provided,5.0,outperform,82.0
+2017-02-02,BMO Capital Markets,Not Provided,5.0,outperform,84.0
+2017-02-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-02-02,Susquehanna Financial,12 month,3.0,neutral,78.0
+2017-02-02,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-03,Berenberg,Not Provided,3.0,hold,90.0
+2017-02-03,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2017-02-03,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-02-03,Societe Generale,12 month,3.0,hold,95.0
+2017-02-06,Societe Generale,12 month,3.0,hold,95.0
+2017-02-07,UBS,12 month,3.0,neutral,85.0
+2017-02-10,J.P. Morgan,12 month,3.0,neutral,90.0
+2017-02-10,Wells Fargo Securities,Not Provided,5.0,outperform,-0.0
+2017-02-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-10,BMO Capital Markets,Not Provided,3.0,market perform,90.0
+2017-02-13,UBS,12 month,3.0,neutral,90.0
+2017-02-13,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2017-02-13,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2017-02-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-21,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2017-03-03,Credit Suisse,Not Provided,3.0,neutral,90.0
+2017-03-21,BMO Capital Markets,Not Provided,3.0,market perform,90.0
+2017-03-22,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2017-03-31,Susquehanna Financial,12 month,3.0,neutral,90.0
+2017-03-31,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-18,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2017-04-19,BMO Capital Markets,Not Provided,3.0,market perform,90.0
+2017-04-24,Societe Generale,12 month,3.0,hold,95.0
+2017-04-27,Wells Fargo Securities,Not Provided,3.0,market perform,-0.0
+2017-04-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-28,BMO Capital Markets,Not Provided,3.0,market perform,90.0
+2017-04-28,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2017-05-01,Susquehanna Financial,Not Provided,3.0,neutral,90.0
+2017-05-02,Societe Generale,12 month,3.0,hold,95.0
+2017-05-08,Societe Generale,12 month,3.0,hold,95.0
+2017-05-15,Societe Generale,12 month,3.0,hold,95.0
+2017-05-16,William Blair & Co,Not Provided,3.0,market perform,-0.0

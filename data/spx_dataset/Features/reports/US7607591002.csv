@@ -1,0 +1,868 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2008-10-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2008-10-20,Goldman Sachs,6 month,5.0,buy/attractive,30.0
+2008-10-31,National Securities,24 month,3.0,hold,25.0
+2008-11-03,Raymond James,Not Provided,5.0,strong buy,35.0
+2008-12-02,First Analysis Corp,Not Provided,5.0,overweight,-0.0
+2008-12-05,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2008-12-08,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-12-21,J.P. Morgan,15 month,5.0,overweight,30.0
+2009-01-01,J.P. Morgan,12 month,5.0,overweight,30.0
+2009-01-06,First Analysis Corp,Not Provided,5.0,overweight,-0.0
+2009-01-15,J.P. Morgan,12 month,5.0,overweight,32.0
+2009-01-20,Raymond James,Not Provided,5.0,strong buy,35.0
+2009-01-22,Wunderlich Securities,Not Provided,5.0,buy,30.0
+2009-01-27,Goldman Sachs,6 month,5.0,buy/attractive,30.0
+2009-02-02,J.P. Morgan,12 month,5.0,overweight,31.0
+2009-02-02,Wunderlich Securities,18 month,5.0,buy,30.0
+2009-02-02,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2009-02-04,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2009-02-05,Goldman Sachs,6 month,5.0,buy/attractive,28.0
+2009-02-10,Wunderlich Securities,18 month,5.0,buy,30.0
+2009-02-24,Wunderlich Securities,18 month,5.0,buy,30.0
+2009-03-02,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2009-03-02,J.P. Morgan,9 month,5.0,overweight,27.0
+2009-03-02,Raymond James,Not Provided,5.0,strong buy,35.0
+2009-03-02,Wunderlich Securities,18 month,5.0,buy,30.0
+2009-03-03,Goldman Sachs,6 month,5.0,Buy/Neutral,23.0
+2009-03-11,National Securities,24 month,5.0,buy,20.0
+2009-03-19,Wunderlich Securities,18 month,5.0,buy,30.0
+2009-03-27,Raymond James,Not Provided,5.0,strong buy,31.0
+2009-04-21,First Analysis Corp,Not Provided,5.0,overweight,28.0
+2009-04-23,Wunderlich Securities,Not Provided,5.0,buy,-0.0
+2009-04-28,Credit Suisse,Not Provided,5.0,outperform,26.0
+2009-04-30,Wunderlich Securities,18 month,5.0,buy,30.0
+2009-05-01,Goldman Sachs,6 month,5.0,Buy/Neutral,24.0
+2009-05-01,National Securities,Not Provided,3.0,hold,-0.0
+2009-05-04,Wunderlich Securities,Not Provided,5.0,buy,30.0
+2009-05-04,Credit Suisse,Not Provided,5.0,outperform,26.0
+2009-05-05,J.P. Morgan,9 month,5.0,overweight,29.0
+2009-05-27,Credit Suisse,Not Provided,5.0,outperform,26.0
+2009-06-11,First Analysis Corp,Not Provided,5.0,overweight,28.0
+2009-06-11,Wunderlich Securities,Not Provided,5.0,buy,30.0
+2009-06-12,J.P. Morgan,9 month,5.0,overweight,29.0
+2009-06-18,J.P. Morgan,9 month,5.0,overweight,29.0
+2009-06-25,J.P. Morgan,6 month,5.0,overweight,29.0
+2009-07-07,Wunderlich Securities,18 month,5.0,buy,30.0
+2009-07-09,J.P. Morgan,18 month,5.0,overweight,29.0
+2009-07-16,Wunderlich Securities,Not Provided,5.0,buy,30.0
+2009-07-20,First Analysis Corp,12 month,5.0,overweight,32.0
+2009-07-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-07-29,Credit Suisse,Not Provided,5.0,outperform,26.0
+2009-07-30,Wunderlich Securities,Not Provided,5.0,buy,32.0
+2009-07-31,J.P. Morgan,18 month,5.0,overweight,31.0
+2009-07-31,Raymond James,12 month,5.0,strong buy,32.0
+2009-08-02,First Analysis Corp,12 month,5.0,overweight,32.0
+2009-08-03,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2009-08-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-04,Wunderlich Securities,18 month,5.0,buy,32.0
+2009-08-04,Credit Suisse,Not Provided,5.0,outperform,30.0
+2009-08-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-08-13,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2009-08-25,Wunderlich Securities,18 month,5.0,buy,32.0
+2009-09-01,Wunderlich Securities,18 month,5.0,buy,32.0
+2009-09-10,J.P. Morgan,12 month,5.0,overweight,31.0
+2009-09-14,Wunderlich Securities,18 month,5.0,buy,32.0
+2009-09-16,Wunderlich Securities,18 month,5.0,buy,32.0
+2009-09-23,J.P. Morgan,15 month,5.0,overweight,31.0
+2009-10-12,First Analysis Corp,12 month,5.0,overweight,34.0
+2009-10-19,Wunderlich Securities,18 month,5.0,buy,32.0
+2009-10-23,Goldman Sachs,12 month,3.0,neutral/neutral,32.0
+2009-11-03,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2009-11-03,First Analysis Corp,12 month,5.0,overweight,34.0
+2009-11-03,Credit Suisse,Not Provided,5.0,outperform,34.0
+2009-11-03,Wunderlich Securities,18 month,5.0,buy,32.0
+2009-11-03,Raymond James,Not Provided,5.0,strong buy,32.0
+2009-11-03,J.P. Morgan,15 month,5.0,overweight,31.0
+2009-11-04,Wunderlich Securities,18 month,5.0,buy,32.0
+2009-11-17,Wunderlich Securities,12 month,5.0,buy,32.0
+2009-11-20,Wunderlich Securities,18 month,5.0,buy,32.0
+2009-11-23,Raymond James,Not Provided,5.0,strong buy,32.0
+2009-12-01,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2009-12-07,Raymond James,Not Provided,5.0,strong buy,33.0
+2009-12-09,Wunderlich Securities,Not Provided,5.0,buy,32.0
+2009-12-14,Credit Suisse,Not Provided,5.0,outperform,34.0
+2009-12-15,Wunderlich Securities,18 month,5.0,buy,32.0
+2009-12-21,Wunderlich Securities,18 month,5.0,buy,32.0
+2010-01-04,Wunderlich Securities,18 month,5.0,buy,35.0
+2010-01-05,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2010-01-06,J.P. Morgan,12 month,5.0,overweight,33.0
+2010-01-11,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,35.0
+2010-01-15,First Analysis Corp,12 month,5.0,overweight,34.0
+2010-02-04,Wunderlich Securities,18 month,5.0,buy,35.0
+2010-02-11,J.P. Morgan,9 month,5.0,overweight,33.0
+2010-02-12,Raymond James,12 month,5.0,strong buy,33.0
+2010-02-12,Credit Suisse,Not Provided,5.0,outperform,34.0
+2010-02-12,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,35.0
+2010-02-12,Wunderlich Securities,18 month,5.0,buy,35.0
+2010-02-17,First Analysis Corp,12 month,5.0,overweight,34.0
+2010-03-02,Wunderlich Securities,18 month,5.0,buy,35.0
+2010-03-03,Wunderlich Securities,18 month,5.0,buy,35.0
+2010-03-12,First Analysis Corp,12 month,5.0,overweight,34.0
+2010-03-16,Wunderlich Securities,18 month,5.0,buy,35.0
+2010-03-29,Wunderlich Securities,18 month,5.0,buy,35.0
+2010-04-01,Raymond James,12 month,5.0,strong buy,33.0
+2010-04-09,First Analysis Corp,12 month,5.0,overweight,36.0
+2010-04-13,Wedbush,12 month,5.0,outperform,36.0
+2010-04-14,Wunderlich Securities,18 month,5.0,buy,35.0
+2010-04-15,Wunderlich Securities,18 month,5.0,buy,35.0
+2010-04-16,Wedbush,12 month,5.0,outperform,36.0
+2010-04-20,J.P. Morgan,9 month,5.0,overweight,33.0
+2010-04-21,Goldman Sachs,12 month,3.0,neutral/neutral,32.0
+2010-04-29,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,35.0
+2010-04-30,J.P. Morgan,6 month,5.0,overweight,35.5
+2010-04-30,Credit Suisse,Not Provided,5.0,outperform,34.0
+2010-04-30,Raymond James,12 month,5.0,strong buy,37.0
+2010-04-30,Wedbush,12 month,5.0,outperform,37.0
+2010-05-04,First Analysis Corp,12 month,5.0,overweight,38.0
+2010-05-05,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-05-12,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-05-25,Credit Suisse,Not Provided,5.0,outperform,34.0
+2010-05-26,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-06-04,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-06-30,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-07-01,Raymond James,12 month,5.0,strong buy,37.0
+2010-07-07,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,37.0
+2010-07-07,Wedbush,12 month,5.0,outperform,37.0
+2010-07-14,Wedbush,12 month,5.0,outperform,37.0
+2010-07-15,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-07-15,Credit Suisse,Not Provided,5.0,outperform,38.0
+2010-07-15,First Analysis Corp,12 month,5.0,overweight,38.0
+2010-07-29,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,37.0
+2010-07-30,J.P. Morgan,3 month,5.0,overweight,35.5
+2010-07-30,Raymond James,12 month,5.0,strong buy,37.0
+2010-07-30,Wedbush,12 month,5.0,outperform,38.0
+2010-07-30,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-08-02,First Analysis Corp,12 month,5.0,overweight,39.0
+2010-08-09,Wunderlich Securities,12 month,5.0,buy,37.0
+2010-08-16,Credit Suisse,Not Provided,5.0,outperform,38.0
+2010-08-18,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-08-19,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,38.0
+2010-08-20,Goldman Sachs,12 month,5.0,Buy/Neutral,34.0
+2010-08-30,Wunderlich Securities,12 month,5.0,buy,37.0
+2010-09-01,Wedbush,12 month,5.0,outperform,38.0
+2010-09-08,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-09-15,Morgan Stanley,Not Provided,5.0,Overwt/In-Line,38.0
+2010-09-15,Wedbush,12 month,5.0,outperform,38.0
+2010-09-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-10-04,Wedbush,12 month,5.0,outperform,38.0
+2010-10-12,First Analysis Corp,12 month,5.0,overweight,39.0
+2010-10-12,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-10-13,J.P. Morgan,15 month,5.0,overweight,37.0
+2010-10-18,Wedbush,12 month,5.0,outperform,38.0
+2010-10-18,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2010-11-05,Raymond James,12 month,5.0,outperform,34.0
+2010-11-05,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-11-05,Credit Suisse,Not Provided,5.0,outperform,38.0
+2010-11-05,Wedbush,12 month,5.0,outperform,36.0
+2010-11-05,J.P. Morgan,12 month,5.0,overweight,36.0
+2010-11-05,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2010-11-07,First Analysis Corp,12 month,5.0,overweight,37.0
+2010-11-11,Raymond James,12 month,5.0,outperform,34.0
+2010-11-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-11-15,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-11-16,Credit Suisse,Not Provided,5.0,outperform,38.0
+2010-12-05,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2010-12-07,Wedbush,12 month,5.0,outperform,36.0
+2010-12-08,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2010-12-14,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-12-15,Wunderlich Securities,18 month,5.0,buy,37.0
+2010-12-20,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-01-06,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-01-07,First Analysis Corp,12 month,5.0,overweight,37.0
+2011-01-17,Wedbush,12 month,5.0,outperform,36.0
+2011-01-24,Wedbush,12 month,5.0,outperform,36.0
+2011-01-27,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-02-01,Credit Suisse,Not Provided,5.0,outperform,38.0
+2011-02-10,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-02-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-02-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-02-11,Raymond James,18 month,5.0,outperform,34.0
+2011-02-11,Credit Suisse,Not Provided,5.0,outperform,38.0
+2011-02-11,Wedbush,12 month,5.0,outperform,35.0
+2011-02-11,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-02-11,J.P. Morgan,12 month,5.0,overweight,35.0
+2011-02-15,First Analysis Corp,12 month,5.0,overweight,37.0
+2011-02-17,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-16,J.P. Morgan,12 month,5.0,overweight,35.0
+2011-03-21,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-03-27,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2011-04-05,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-04-13,First Analysis Corp,12 month,5.0,overweight,37.0
+2011-04-15,Wedbush,12 month,5.0,outperform,35.0
+2011-04-20,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-04-28,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2011-04-28,Wedbush,12 month,5.0,outperform,35.0
+2011-04-29,Raymond James,18 month,5.0,outperform,36.0
+2011-04-29,J.P. Morgan,9 month,5.0,overweight,35.5
+2011-04-29,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-04-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-05-02,First Analysis Corp,12 month,5.0,overweight,37.0
+2011-05-02,Credit Suisse,Not Provided,5.0,outperform,38.0
+2011-05-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-05-06,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-05-12,First Analysis Corp,12 month,5.0,overweight,37.0
+2011-05-13,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-05-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2011-05-26,Wedbush,12 month,5.0,outperform,35.0
+2011-06-08,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-06-16,Credit Suisse,Not Provided,5.0,outperform,38.0
+2011-07-01,First Analysis Corp,12 month,5.0,overweight,37.0
+2011-07-10,Wedbush,12 month,5.0,outperform,35.0
+2011-07-12,First Analysis Corp,12 month,5.0,overweight,37.0
+2011-07-12,Wunderlich Securities,12 month,5.0,buy,37.0
+2011-07-14,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-07-27,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-07-28,Wedbush,12 month,5.0,outperform,35.0
+2011-07-29,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-07-29,J.P. Morgan,3 month,5.0,overweight,35.5
+2011-07-29,First Analysis Corp,12 month,5.0,overweight,37.0
+2011-07-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-07-29,Raymond James,12 month,5.0,outperform,36.0
+2011-07-29,Credit Suisse,Not Provided,5.0,outperform,38.0
+2011-08-15,First Analysis Corp,12 month,5.0,overweight,37.0
+2011-08-18,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-08-25,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-09-09,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-09-12,J.P. Morgan,15 month,5.0,overweight,37.5
+2011-09-21,Wedbush,12 month,5.0,outperform,35.0
+2011-09-21,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-10-05,Goldman Sachs,12 month,5.0,Buy/Neutral,33.0
+2011-10-10,Wedbush,12 month,5.0,outperform,33.0
+2011-10-11,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-10-17,Raymond James,12 month,5.0,outperform,34.0
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-26,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-10-27,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2011-10-27,First Analysis Corp,12 month,5.0,overweight,37.0
+2011-10-28,Wedbush,12 month,5.0,outperform,33.0
+2011-10-28,Credit Suisse,Not Provided,5.0,outperform,38.0
+2011-10-28,J.P. Morgan,15 month,5.0,overweight,36.5
+2011-10-28,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-10-28,Raymond James,12 month,5.0,outperform,34.0
+2011-10-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-10-30,First Analysis Corp,12 month,5.0,overweight,35.0
+2011-10-31,Goldman Sachs,12 month,5.0,Buy/Neutral,32.0
+2011-11-02,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2011-11-07,Credit Suisse,Not Provided,5.0,outperform,38.0
+2011-11-07,First Analysis Corp,12 month,5.0,overweight,35.0
+2011-11-07,Wedbush,12 month,5.0,outperform,33.0
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-16,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-28,Wedbush,12 month,5.0,outperform,33.0
+2011-11-29,J.P. Morgan,12 month,5.0,overweight,35.5
+2011-12-02,Credit Suisse,Not Provided,5.0,outperform,38.0
+2011-12-05,First Analysis Corp,12 month,5.0,overweight,35.0
+2011-12-07,Wunderlich Securities,18 month,5.0,buy,37.0
+2011-12-13,Credit Suisse,Not Provided,5.0,outperform,38.0
+2011-12-14,Wunderlich Securities,12 month,5.0,buy,37.0
+2011-12-19,Raymond James,12 month,5.0,outperform,32.0
+2012-01-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-01-09,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-01-10,J.P. Morgan,9 month,3.0,neutral,31.0
+2012-01-16,Wedbush,12 month,5.0,outperform,31.0
+2012-01-16,First Analysis Corp,12 month,5.0,overweight,35.0
+2012-01-19,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-01-30,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-02-02,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-02-03,First Analysis Corp,12 month,5.0,overweight,35.0
+2012-02-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-02-09,J.P. Morgan,6 month,3.0,neutral,31.0
+2012-02-09,First Analysis Corp,12 month,5.0,overweight,35.0
+2012-02-10,Credit Suisse,Not Provided,5.0,outperform,38.0
+2012-02-10,Wedbush,12 month,5.0,outperform,31.0
+2012-02-10,Raymond James,12 month,5.0,outperform,33.0
+2012-02-10,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-02-10,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2012-02-15,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-02-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2012-03-04,First Analysis Corp,12 month,5.0,overweight,35.0
+2012-03-09,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2012-03-12,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-03-26,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-04-04,Wedbush,12 month,5.0,outperform,32.0
+2012-04-09,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-04-17,Raymond James,12 month,5.0,outperform,33.0
+2012-04-18,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-04-26,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2012-04-27,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-04-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-04-27,J.P. Morgan,6 month,3.0,neutral,30.0
+2012-04-27,Goldman Sachs,12 month,5.0,Buy/Neutral,32.0
+2012-04-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-04-27,Wedbush,12 month,5.0,outperform,31.0
+2012-04-27,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-04-30,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-04-30,First Analysis Corp,12 month,5.0,overweight,33.0
+2012-05-02,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-05-04,Credit Suisse,Not Provided,5.0,outperform,34.0
+2012-05-06,First Analysis Corp,12 month,5.0,overweight,33.0
+2012-05-06,Wedbush,12 month,5.0,outperform,31.0
+2012-05-09,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-05-16,Wedbush,12 month,3.0,neutral,29.0
+2012-05-17,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-05-22,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2012-05-28,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-06-06,Wunderlich Securities,12 month,5.0,buy,37.0
+2012-06-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-07-11,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2012-07-13,Wedbush,12 month,3.0,neutral,29.0
+2012-07-18,Credit Suisse,Not Provided,5.0,outperform,34.0
+2012-07-19,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-07-26,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2012-07-26,Wedbush,12 month,3.0,neutral,29.0
+2012-07-27,Credit Suisse,Not Provided,5.0,outperform,34.0
+2012-07-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-07-27,J.P. Morgan,3 month,3.0,neutral,30.5
+2012-07-27,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-07-27,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2012-07-31,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-08-08,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-08-15,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-08-16,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-08-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-08-20,Credit Suisse,Not Provided,5.0,outperform,34.0
+2012-08-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-09-10,Wedbush,12 month,3.0,neutral,29.0
+2012-09-13,Wedbush,12 month,3.0,neutral,29.0
+2012-09-19,J.P. Morgan,15 month,3.0,neutral,30.5
+2012-09-25,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-09-28,Goldman Sachs,12 month,5.0,Buy/Neutral,32.0
+2012-10-03,Credit Suisse,Not Provided,5.0,outperform,34.0
+2012-10-11,First Analysis Corp,12 month,3.0,equalweight,33.0
+2012-10-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-10-16,J.P. Morgan,12 month,3.0,neutral,30.5
+2012-10-16,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-10-18,Wedbush,12 month,3.0,neutral,29.0
+2012-11-01,J.P. Morgan,12 month,3.0,neutral,30.0
+2012-11-01,Credit Suisse,Not Provided,5.0,outperform,34.0
+2012-11-01,Wedbush,12 month,3.0,neutral,27.0
+2012-11-01,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2012-11-02,First Analysis Corp,12 month,3.0,equalweight,33.0
+2012-11-02,Goldman Sachs,12 month,5.0,Buy/Neutral,30.0
+2012-11-02,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-11-02,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-11-04,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2012-11-05,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-11-12,Morgan Stanley,12 month,5.0,Overwt/In-Line,38.0
+2012-11-12,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-11-16,First Analysis Corp,12 month,3.0,equalweight,33.0
+2012-12-04,Goldman Sachs,12 month,5.0,buy/attractive,37.0
+2012-12-06,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-12-07,Wedbush,12 month,3.0,neutral,27.0
+2012-12-12,Wunderlich Securities,18 month,5.0,buy,37.0
+2012-12-17,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2012-12-18,Credit Suisse,Not Provided,5.0,outperform,34.0
+2013-01-04,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-01-11,Credit Suisse,Not Provided,5.0,outperform,34.0
+2013-01-13,First Analysis Corp,12 month,3.0,equalweight,33.0
+2013-01-16,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-01-18,Wedbush,12 month,3.0,neutral,29.0
+2013-01-23,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-01-28,Credit Suisse,Not Provided,5.0,outperform,38.0
+2013-02-04,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2013-02-04,J.P. Morgan,12 month,3.0,neutral,31.5
+2013-02-05,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-02-06,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-02-07,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-02-07,Credit Suisse,Not Provided,5.0,outperform,38.0
+2013-02-07,Wedbush,12 month,3.0,neutral,29.0
+2013-02-08,First Analysis Corp,12 month,3.0,equalweight,33.0
+2013-02-08,BB&T Capital Markets,Not Provided,3.0,hold,-0.0
+2013-02-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-02-08,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-02-08,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-02-28,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-03-07,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-03-11,Wunderlich Securities,12 month,5.0,buy,37.0
+2013-03-13,BB&T Capital Markets,12 month,5.0,buy,38.0
+2013-03-27,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-04-08,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-04-11,Stifel,Not Provided,3.0,hold,-0.0
+2013-04-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-04-22,First Analysis Corp,12 month,3.0,equalweight,33.0
+2013-04-22,Wedbush,12 month,3.0,neutral,29.0
+2013-04-22,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-04-25,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-04-25,Wedbush,12 month,3.0,neutral,29.0
+2013-04-26,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-04-26,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-04-26,First Analysis Corp,12 month,3.0,equalweight,33.0
+2013-04-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-04-26,BB&T Capital Markets,12 month,5.0,buy,38.0
+2013-04-26,Stifel,Not Provided,3.0,hold,-0.0
+2013-04-29,Credit Suisse,Not Provided,3.0,neutral,38.0
+2013-05-09,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-05-14,Wedbush,12 month,3.0,neutral,33.0
+2013-05-15,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2013-05-16,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-05-23,First Analysis Corp,12 month,3.0,equalweight,33.0
+2013-05-23,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-05-23,KeyBanc Capital Markets,12 month,5.0,buy,41.0
+2013-05-24,Stifel,Not Provided,3.0,hold,-0.0
+2013-05-29,Wedbush,12 month,5.0,outperform,40.0
+2013-06-03,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-06-10,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-06-13,Goldman Sachs,12 month,5.0,Buy/Neutral,37.0
+2013-06-14,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-06-17,First Analysis Corp,12 month,3.0,equalweight,33.0
+2013-07-12,Wunderlich Securities,18 month,5.0,buy,37.0
+2013-07-15,Wedbush,12 month,5.0,outperform,40.0
+2013-07-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-07-21,First Analysis Corp,12 month,3.0,equalweight,33.0
+2013-07-24,Wunderlich Securities,12 month,5.0,buy,37.0
+2013-07-25,KeyBanc Capital Markets,12 month,5.0,buy,41.0
+2013-07-25,Credit Suisse,Not Provided,3.0,neutral,38.0
+2013-07-26,Wedbush,12 month,5.0,outperform,38.0
+2013-07-26,BB&T Capital Markets,12 month,5.0,buy,40.0
+2013-07-26,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-07-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-07-26,First Analysis Corp,12 month,3.0,equalweight,33.0
+2013-07-26,Stifel,Not Provided,3.0,hold,-0.0
+2013-07-26,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-07-31,Wunderlich Securities,18 month,5.0,buy,40.0
+2013-09-03,Wunderlich Securities,12 month,5.0,buy,40.0
+2013-09-20,Credit Suisse,Not Provided,3.0,neutral,38.0
+2013-09-29,First Analysis Corp,12 month,3.0,equalweight,33.0
+2013-10-14,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-10-16,First Analysis Corp,12 month,3.0,equalweight,33.0
+2013-10-21,Wunderlich Securities,18 month,5.0,buy,40.0
+2013-10-21,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-22,Wedbush,12 month,5.0,outperform,38.0
+2013-10-30,Wunderlich Securities,18 month,5.0,buy,40.0
+2013-10-31,Credit Suisse,Not Provided,3.0,neutral,38.0
+2013-10-31,KeyBanc Capital Markets,12 month,5.0,buy,41.0
+2013-11-01,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-11-01,Stifel,Not Provided,3.0,hold,-0.0
+2013-11-01,Wunderlich Securities,18 month,5.0,buy,40.0
+2013-11-01,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2013-11-01,BB&T Capital Markets,12 month,5.0,buy,40.0
+2013-11-01,First Analysis Corp,12 month,3.0,equalweight,33.0
+2013-11-03,Wedbush,12 month,3.0,neutral,35.0
+2013-11-03,Goldman Sachs,12 month,5.0,Buy/Neutral,36.0
+2013-11-08,Wedbush,12 month,3.0,neutral,35.0
+2013-11-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2013-11-14,KeyBanc Capital Markets,12 month,5.0,buy,39.0
+2013-11-21,Goldman Sachs,12 month,3.0,neutral/neutral,36.0
+2013-11-25,Wedbush,12 month,3.0,neutral,35.0
+2013-12-09,BB&T Capital Markets,12 month,5.0,buy,40.0
+2013-12-12,Wunderlich Securities,12 month,5.0,buy,40.0
+2014-01-02,Wunderlich Securities,18 month,5.0,buy,40.0
+2014-01-07,Macquarie,12 month,3.0,neutral,34.0
+2014-01-14,First Analysis Corp,12 month,3.0,equalweight,33.0
+2014-01-15,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-21,Credit Suisse,Not Provided,3.0,neutral,38.0
+2014-01-24,Wedbush,12 month,3.0,neutral,35.0
+2014-01-28,Wunderlich Securities,18 month,5.0,buy,40.0
+2014-02-03,Wunderlich Securities,12 month,5.0,buy,40.0
+2014-02-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-02-05,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-02-06,KeyBanc Capital Markets,12 month,5.0,buy,39.0
+2014-02-06,Credit Suisse,Not Provided,3.0,neutral,38.0
+2014-02-06,Wedbush,12 month,3.0,neutral,35.0
+2014-02-07,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-02-07,First Analysis Corp,12 month,3.0,equalweight,33.0
+2014-02-07,Stifel,Not Provided,3.0,hold,-0.0
+2014-02-07,BB&T Capital Markets,12 month,5.0,buy,40.0
+2014-02-07,Macquarie,12 month,3.0,neutral,34.0
+2014-02-07,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-02-07,Wunderlich Securities,12 month,5.0,buy,40.0
+2014-02-27,Stifel,Not Provided,3.0,hold,-0.0
+2014-03-06,First Analysis Corp,12 month,3.0,equalweight,33.0
+2014-03-07,Macquarie,12 month,3.0,neutral,34.0
+2014-03-09,Wedbush,12 month,3.0,neutral,35.0
+2014-03-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-03-14,Stifel,Not Provided,3.0,hold,-0.0
+2014-03-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-03-31,Wunderlich Securities,18 month,5.0,buy,40.0
+2014-04-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-04-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-04-15,Wunderlich Securities,18 month,5.0,buy,40.0
+2014-04-21,Wedbush,12 month,3.0,neutral,35.0
+2014-04-24,KeyBanc Capital Markets,12 month,5.0,buy,39.0
+2014-04-25,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-04-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-25,Macquarie,12 month,3.0,neutral,34.0
+2014-04-25,Wunderlich Securities,12 month,5.0,buy,40.0
+2014-04-25,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-04-25,First Analysis Corp,12 month,3.0,equalweight,33.0
+2014-04-25,Goldman Sachs,12 month,3.0,neutral/neutral,37.0
+2014-04-25,BB&T Capital Markets,12 month,5.0,buy,40.0
+2014-04-28,Wedbush,12 month,3.0,neutral,35.0
+2014-04-29,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2014-04-30,Wunderlich Securities,18 month,5.0,buy,40.0
+2014-05-01,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-05-02,Credit Suisse,Not Provided,3.0,neutral,38.0
+2014-05-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-07,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-05-15,Wunderlich Securities,12 month,5.0,buy,40.0
+2014-06-02,Credit Suisse,Not Provided,3.0,neutral,38.0
+2014-06-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-05,Wunderlich Securities,12 month,5.0,buy,40.0
+2014-06-05,Imperial Capital LLC,12 month,5.0,outperform,41.0
+2014-06-10,Raymond James,12 month,5.0,strong buy,42.0
+2014-06-12,BB&T Capital Markets,12 month,5.0,buy,40.0
+2014-06-19,Wunderlich Securities,12 month,5.0,buy,40.0
+2014-06-19,Credit Suisse,Not Provided,3.0,neutral,38.0
+2014-07-02,Wunderlich Securities,18 month,5.0,buy,40.0
+2014-07-14,Wunderlich Securities,12 month,5.0,buy,40.0
+2014-07-18,Imperial Capital LLC,Not Provided,5.0,outperform,41.0
+2014-07-20,First Analysis Corp,12 month,3.0,equalweight,33.0
+2014-07-20,KeyBanc Capital Markets,12 month,5.0,buy,39.0
+2014-07-21,Wedbush,Not Provided,3.0,neutral,38.0
+2014-07-21,Raymond James,12 month,5.0,strong buy,42.0
+2014-07-21,Wunderlich Securities,12 month,5.0,buy,40.0
+2014-07-24,KeyBanc Capital Markets,12 month,5.0,buy,39.0
+2014-07-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-24,First Analysis Corp,12 month,3.0,equalweight,33.0
+2014-07-25,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-07-25,Credit Suisse,Not Provided,3.0,neutral,38.0
+2014-07-25,Wedbush,12 month,3.0,neutral,38.0
+2014-07-25,BB&T Capital Markets,12 month,5.0,buy,42.0
+2014-07-25,Imperial Capital LLC,12 month,5.0,outperform,43.5
+2014-07-25,Macquarie,12 month,3.0,neutral,37.0
+2014-07-25,Goldman Sachs,12 month,3.0,neutral/neutral,38.0
+2014-07-25,Raymond James,12 month,5.0,strong buy,42.0
+2014-07-25,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2014-07-31,Stifel,12 month,5.0,buy,42.0
+2014-08-25,Credit Suisse,Not Provided,3.0,neutral,38.0
+2014-08-25,Stifel,12 month,5.0,buy,42.0
+2014-08-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-02,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-09-08,Stifel,12 month,5.0,buy,45.0
+2014-09-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-23,Imperial Capital LLC,Not Provided,5.0,outperform,43.5
+2014-10-01,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-10-02,Raymond James,12 month,5.0,strong buy,42.0
+2014-10-06,Macquarie,12 month,3.0,neutral,37.0
+2014-10-06,Stifel,12 month,5.0,buy,45.0
+2014-10-14,Wedbush,12 month,3.0,neutral,38.0
+2014-10-20,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-10-20,Goldman Sachs,12 month,3.0,neutral/neutral,37.0
+2014-10-21,Stifel,12 month,5.0,buy,45.0
+2014-10-21,Imperial Capital LLC,Not Provided,5.0,outperform,43.5
+2014-10-21,Raymond James,12 month,5.0,strong buy,42.0
+2014-10-24,Macquarie,12 month,3.0,neutral,37.0
+2014-10-27,Stifel,12 month,5.0,buy,45.0
+2014-10-31,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-10-31,Imperial Capital LLC,12 month,5.0,outperform,43.5
+2014-10-31,Wedbush,12 month,3.0,neutral,38.0
+2014-10-31,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-10-31,Raymond James,12 month,5.0,strong buy,45.0
+2014-10-31,Macquarie,12 month,3.0,neutral,37.0
+2014-10-31,BB&T Capital Markets,12 month,5.0,buy,44.0
+2014-10-31,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-11-03,First Analysis Corp,12 month,3.0,equalweight,33.0
+2014-11-03,Stifel,12 month,5.0,buy,45.0
+2014-11-07,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-11-13,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2014-11-19,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-11-20,Imperial Capital LLC,12 month,5.0,outperform,43.5
+2014-11-25,Stifel,Not Provided,5.0,buy,45.0
+2014-12-03,Stifel,Not Provided,5.0,buy,45.0
+2014-12-05,Macquarie,12 month,3.0,neutral,42.0
+2014-12-17,Stifel,Not Provided,5.0,buy,45.0
+2014-12-19,Stifel,12 month,5.0,buy,45.0
+2014-12-19,Wedbush,12 month,3.0,neutral,38.0
+2014-12-19,BB&T Capital Markets,12 month,5.0,buy,44.0
+2014-12-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-12-22,Raymond James,12 month,5.0,strong buy,45.0
+2014-12-22,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2014-12-22,Imperial Capital LLC,12 month,5.0,outperform,43.5
+2015-01-04,Stifel,12 month,5.0,buy,45.0
+2015-01-12,Stifel,12 month,5.0,buy,45.0
+2015-01-13,Wedbush,12 month,3.0,neutral,42.0
+2015-01-23,Raymond James,Not Provided,5.0,strong buy,46.0
+2015-02-03,Stifel,12 month,5.0,buy,45.0
+2015-02-03,Imperial Capital LLC,12 month,5.0,outperform,43.5
+2015-02-05,Goldman Sachs,12 month,3.0,neutral/neutral,40.0
+2015-02-06,Raymond James,Not Provided,5.0,strong buy,46.0
+2015-02-08,First Analysis Corp,12 month,3.0,equalweight,33.0
+2015-02-10,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-02-10,Stifel,12 month,5.0,buy,45.0
+2015-02-11,Veritas Investment Research Co,Not Provided,5.0,buy,46.5
+2015-02-12,Stifel,12 month,5.0,buy,45.0
+2015-02-12,KeyBanc Capital Markets,Not Provided,3.0,hold,-0.0
+2015-02-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-13,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-02-13,Imperial Capital LLC,12 month,5.0,outperform,45.0
+2015-02-13,First Analysis Corp,12 month,3.0,equalweight,33.0
+2015-02-13,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-02-13,Raymond James,12 month,5.0,strong buy,46.0
+2015-02-13,BB&T Capital Markets,12 month,5.0,buy,46.0
+2015-02-13,Wedbush,12 month,3.0,neutral,42.0
+2015-02-13,Macquarie,12 month,3.0,neutral,42.0
+2015-02-18,Goldman Sachs,12 month,3.0,neutral/neutral,41.0
+2015-03-01,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-03-02,Veritas Investment Research Co,Not Provided,5.0,buy,46.5
+2015-03-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-03,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-03-04,Raymond James,12 month,5.0,strong buy,46.0
+2015-03-06,Stifel,12 month,5.0,buy,48.0
+2015-03-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-18,Stifel,12 month,5.0,buy,48.0
+2015-03-22,Stifel,Not Provided,5.0,buy,48.0
+2015-03-26,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-03-26,Stifel,Not Provided,5.0,buy,48.0
+2015-03-31,Raymond James,Not Provided,5.0,strong buy,46.0
+2015-04-06,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-04-06,Wedbush,Not Provided,3.0,neutral,43.0
+2015-04-09,Stifel,Not Provided,5.0,buy,48.0
+2015-04-14,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-04-16,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2015-04-22,Imperial Capital LLC,Not Provided,5.0,outperform,45.0
+2015-04-22,Raymond James,Not Provided,5.0,strong buy,46.0
+2015-04-23,Wedbush,12 month,3.0,neutral,43.0
+2015-04-23,Stifel,12 month,5.0,buy,48.0
+2015-04-24,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-04-24,First Analysis Corp,12 month,3.0,equalweight,33.0
+2015-04-24,Macquarie,12 month,3.0,neutral,42.0
+2015-04-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-24,Raymond James,12 month,5.0,strong buy,46.0
+2015-04-24,BB&T Capital Markets,12 month,5.0,buy,46.0
+2015-04-24,Imperial Capital LLC,12 month,5.0,outperform,46.0
+2015-04-24,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-05-03,Stifel,12 month,5.0,buy,48.0
+2015-05-04,Goldman Sachs,12 month,3.0,neutral/neutral,42.0
+2015-05-04,Veritas Investment Research Co,Not Provided,5.0,buy,48.25
+2015-06-05,Stifel,12 month,5.0,buy,48.0
+2015-06-10,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-06-12,Wedbush,12 month,3.0,neutral,43.0
+2015-06-17,Stifel,12 month,5.0,buy,48.0
+2015-06-24,Stifel,12 month,5.0,buy,48.0
+2015-07-08,Stifel,12 month,5.0,buy,48.0
+2015-07-16,Imperial Capital LLC,Not Provided,5.0,outperform,46.0
+2015-07-17,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-07-20,Stifel,12 month,5.0,buy,48.0
+2015-07-23,Wedbush,12 month,3.0,neutral,45.0
+2015-07-23,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2015-07-23,Stifel,12 month,5.0,buy,48.0
+2015-07-24,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-07-24,Macquarie,12 month,3.0,neutral,45.0
+2015-07-24,BB&T Capital Markets,12 month,5.0,buy,47.0
+2015-07-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-24,Raymond James,12 month,5.0,strong buy,46.0
+2015-07-27,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-07-27,Imperial Capital LLC,12 month,5.0,outperform,47.0
+2015-07-29,Goldman Sachs,12 month,3.0,neutral/neutral,43.0
+2015-08-10,Raymond James,12 month,5.0,strong buy,46.0
+2015-08-20,Macquarie,12 month,3.0,neutral,50.0
+2015-08-30,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-09-15,Imperial Capital LLC,12 month,5.0,outperform,47.0
+2015-09-17,Wedbush,12 month,3.0,neutral,45.0
+2015-09-22,Imperial Capital LLC,12 month,5.0,outperform,47.0
+2015-10-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-06,Raymond James,Not Provided,5.0,strong buy,46.0
+2015-10-08,Wedbush,Not Provided,3.0,neutral,45.0
+2015-10-13,Stifel,12 month,5.0,buy,48.0
+2015-10-15,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-10-16,Macquarie,12 month,3.0,neutral,50.0
+2015-10-19,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-10-20,Stifel,12 month,5.0,buy,48.0
+2015-10-22,Barclays,Not Provided,3.0,equalweight,44.0
+2015-10-22,Raymond James,Not Provided,5.0,strong buy,49.0
+2015-10-29,Wedbush,12 month,3.0,neutral,48.0
+2015-10-29,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2015-10-29,Barclays,Not Provided,3.0,equalweight,44.0
+2015-10-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-30,Macquarie,12 month,3.0,neutral,50.0
+2015-10-30,Goldman Sachs,12 month,3.0,neutral/neutral,45.0
+2015-10-30,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2015-10-30,Raymond James,12 month,5.0,strong buy,50.0
+2015-10-30,BB&T Capital Markets,12 month,5.0,buy,49.0
+2015-10-30,Stifel,12 month,5.0,buy,48.0
+2015-10-30,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2015-11-02,Imperial Capital LLC,12 month,5.0,outperform,50.0
+2015-11-05,Credit Suisse,Not Provided,3.0,neutral,46.0
+2015-12-01,Raymond James,12 month,5.0,strong buy,50.0
+2015-12-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-13,Stifel,12 month,5.0,buy,48.0
+2015-12-14,Wedbush,Not Provided,3.0,neutral,48.0
+2015-12-17,J.P. Morgan,Not Provided,5.0,overweight,49.0
+2015-12-23,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-18,Stifel,12 month,5.0,buy,48.0
+2016-01-19,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2016-01-21,Macquarie,12 month,3.0,neutral,52.0
+2016-01-22,Imperial Capital LLC,12 month,5.0,outperform,50.0
+2016-01-26,Raymond James,Not Provided,5.0,strong buy,50.0
+2016-02-04,Stifel,12 month,5.0,buy,48.0
+2016-02-07,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-02-07,First Analysis Corp,Not Provided,3.0,equalweight,-0.0
+2016-02-11,Wedbush,12 month,3.0,neutral,48.0
+2016-02-11,Stifel,12 month,5.0,buy,51.0
+2016-02-11,First Analysis Corp,12 month,3.0,equalweight,47.0
+2016-02-11,Credit Suisse,Not Provided,3.0,neutral,46.0
+2016-02-12,Imperial Capital LLC,12 month,5.0,outperform,52.0
+2016-02-12,Macquarie,12 month,3.0,neutral,52.0
+2016-02-12,BB&T Capital Markets,12 month,5.0,buy,50.0
+2016-02-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-02-12,J.P. Morgan,Not Provided,5.0,overweight,49.0
+2016-02-12,Raymond James,12 month,5.0,strong buy,50.0
+2016-02-12,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-02-12,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-02-16,Barclays,Not Provided,3.0,equalweight,45.0
+2016-02-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-07,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-03-08,Raymond James,12 month,5.0,strong buy,50.0
+2016-03-21,Sterne Agee CRT,12 month,3.0,neutral,50.0
+2016-03-22,Stifel,12 month,5.0,buy,51.0
+2016-04-04,Imperial Capital LLC,12 month,5.0,outperform,52.0
+2016-04-07,First Analysis Corp,12 month,3.0,equalweight,49.0
+2016-04-15,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-04-18,Wedbush,12 month,3.0,neutral,48.0
+2016-04-20,Stifel,12 month,5.0,buy,51.0
+2016-04-25,First Analysis Corp,12 month,3.0,equalweight,49.0
+2016-04-25,Raymond James,Not Provided,5.0,strong buy,52.0
+2016-04-26,Imperial Capital LLC,Not Provided,5.0,outperform,52.0
+2016-04-26,Stifel,12 month,5.0,buy,51.0
+2016-04-28,Stifel,12 month,5.0,buy,53.0
+2016-04-28,First Analysis Corp,12 month,3.0,equalweight,50.0
+2016-04-28,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-04-28,J.P. Morgan,12 month,5.0,overweight,52.0
+2016-04-29,Credit Suisse,Not Provided,3.0,neutral,50.0
+2016-04-29,Wedbush,12 month,3.0,neutral,48.0
+2016-04-29,Raymond James,12 month,5.0,strong buy,54.0
+2016-04-29,Macquarie,12 month,3.0,neutral,52.0
+2016-04-29,BB&T Capital Markets,12 month,5.0,buy,53.0
+2016-04-29,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-05-02,Imperial Capital LLC,12 month,5.0,outperform,52.0
+2016-05-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-05-02,Sterne Agee CRT,Not Provided,3.0,neutral,50.0
+2016-05-03,Barclays,Not Provided,5.0,overweight,52.0
+2016-05-04,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-05-05,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2016-05-08,Stifel,12 month,5.0,buy,53.0
+2016-05-10,Sterne Agee CRT,12 month,3.0,neutral,50.0
+2016-05-12,Stifel,12 month,5.0,buy,53.0
+2016-05-18,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-05-19,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-05-27,Macquarie,12 month,3.0,neutral,52.0
+2016-05-31,Wedbush,Not Provided,3.0,neutral,48.0
+2016-06-02,Raymond James,Not Provided,5.0,strong buy,54.0
+2016-06-03,BB&T Capital Markets,12 month,5.0,buy,53.0
+2016-06-03,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-06-06,Stifel,12 month,5.0,buy,53.0
+2016-06-09,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-06-09,Wedbush,12 month,3.0,neutral,48.0
+2016-06-10,Macquarie,12 month,3.0,neutral,56.0
+2016-06-10,Imperial Capital LLC,Not Provided,5.0,outperform,52.0
+2016-06-12,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-06-13,Stifel,12 month,5.0,buy,53.0
+2016-06-26,Stifel,12 month,5.0,buy,55.0
+2016-07-11,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-07-13,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-07-19,Wedbush,Not Provided,3.0,neutral,54.0
+2016-07-19,Stifel,12 month,5.0,buy,55.0
+2016-07-21,First Analysis Corp,12 month,3.0,equalweight,50.0
+2016-07-22,Imperial Capital LLC,Not Provided,5.0,outperform,52.0
+2016-07-28,Barclays,Not Provided,5.0,overweight,52.0
+2016-07-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-07-28,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-07-29,Raymond James,12 month,5.0,strong buy,60.0
+2016-07-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-29,Credit Suisse,Not Provided,3.0,neutral,54.0
+2016-07-29,First Analysis Corp,12 month,3.0,equalweight,56.0
+2016-07-29,Wedbush,12 month,3.0,neutral,54.0
+2016-07-29,Stifel,12 month,5.0,buy,55.0
+2016-07-29,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-08-02,Imperial Capital LLC,12 month,5.0,outperform,58.0
+2016-08-05,Stifel,Not Provided,5.0,buy,55.0
+2016-08-09,Barclays,Not Provided,5.0,overweight,56.0
+2016-08-10,Stifel,12 month,5.0,buy,55.0
+2016-08-12,Raymond James,12 month,5.0,strong buy,60.0
+2016-08-16,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-08-17,Stifel,12 month,5.0,buy,55.0
+2016-08-17,Wedbush,12 month,3.0,neutral,54.0
+2016-08-26,Macquarie,12 month,3.0,neutral,53.0
+2016-09-02,Stifel,Not Provided,5.0,buy,55.0
+2016-09-06,Raymond James,12 month,5.0,strong buy,60.0
+2016-09-14,Raymond James,12 month,5.0,strong buy,60.0
+2016-09-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-03,Stifel,Not Provided,5.0,buy,55.0
+2016-10-03,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-10-10,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-10-13,Wedbush,Not Provided,3.0,neutral,53.0
+2016-10-17,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-10-17,First Analysis Corp,12 month,3.0,equalweight,56.0
+2016-10-18,Stifel,12 month,5.0,buy,55.0
+2016-10-27,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2016-10-27,Stifel,12 month,5.0,buy,55.0
+2016-10-27,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-10-27,First Analysis Corp,12 month,3.0,equalweight,56.0
+2016-10-27,Barclays,Not Provided,5.0,overweight,56.0
+2016-10-28,Raymond James,12 month,5.0,strong buy,58.0
+2016-10-28,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2016-10-28,Wedbush,12 month,3.0,neutral,53.0
+2016-10-28,Credit Suisse,Not Provided,3.0,neutral,55.0
+2016-10-28,Macquarie,12 month,3.0,neutral,53.0
+2016-10-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-10-31,Goldman Sachs,12 month,3.0,neutral/neutral,52.0
+2016-11-02,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-11-07,Barclays,Not Provided,5.0,overweight,55.0
+2016-11-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-11-14,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-11-16,Stifel,Not Provided,5.0,buy,55.0
+2016-12-01,Macquarie,12 month,3.0,neutral,55.0
+2016-12-05,Credit Suisse,Not Provided,3.0,neutral,55.0
+2016-12-07,Stifel,12 month,5.0,buy,60.0
+2016-12-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-12-20,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-01-12,Goldman Sachs,12 month,3.0,neutral/neutral,56.0
+2017-01-22,First Analysis Corp,12 month,3.0,equalweight,62.0
+2017-02-05,Stifel,12 month,5.0,buy,60.0
+2017-02-06,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-02-08,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-02-16,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-02-16,Barclays,Not Provided,5.0,overweight,55.0
+2017-02-16,Credit Suisse,Not Provided,3.0,neutral,60.0
+2017-02-16,First Analysis Corp,12 month,3.0,equalweight,62.0
+2017-02-17,Stifel,12 month,5.0,buy,64.0
+2017-02-17,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-02-17,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-02-17,Raymond James,12 month,5.0,strong buy,67.0
+2017-02-17,Macquarie,12 month,3.0,neutral,55.0
+2017-02-17,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-02-18,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-02-19,Goldman Sachs,12 month,3.0,neutral/neutral,58.0
+2017-02-21,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-02-21,Wedbush,12 month,3.0,neutral,62.0
+2017-02-23,Raymond James,12 month,5.0,strong buy,67.0
+2017-02-23,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-02-25,Macquarie,12 month,3.0,neutral,55.0
+2017-03-03,Barclays,Not Provided,3.0,equalweight,57.0
+2017-03-03,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2017-03-07,Raymond James,12 month,5.0,strong buy,67.0
+2017-03-23,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-03-30,Wedbush,12 month,3.0,neutral,66.0
+2017-04-10,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-04-18,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2017-04-23,Stifel,12 month,5.0,buy,64.0
+2017-04-24,First Analysis Corp,12 month,3.0,equalweight,62.0
+2017-04-24,Wedbush,Not Provided,3.0,neutral,66.0
+2017-04-24,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-04-25,Raymond James,12 month,5.0,strong buy,67.0
+2017-04-27,Barclays,Not Provided,3.0,equalweight,59.0
+2017-04-27,Credit Suisse,Not Provided,3.0,neutral,63.0
+2017-04-27,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-04-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-04-28,Wedbush,Not Provided,3.0,neutral,66.0
+2017-04-28,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-04-29,Macquarie,12 month,3.0,neutral,55.0
+2017-04-30,Stifel,12 month,5.0,buy,64.0
+2017-05-01,Goldman Sachs,12 month,3.0,neutral/neutral,61.0
+2017-05-01,Raymond James,12 month,5.0,strong buy,72.0
+2017-05-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-05-04,Macquarie,12 month,3.0,neutral,55.0
+2017-05-05,Gabelli & Co,Not Provided,5.0,buy,-0.0
+2017-05-09,Stifel,12 month,5.0,buy,73.0
+2017-05-10,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-05-11,KeyBanc Capital Markets,Not Provided,3.0,sector weight,-0.0
+2017-05-21,Stifel,12 month,5.0,buy,73.0

@@ -1,0 +1,2632 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2010-06-30,Hudson Square Research,Not Provided,1.0,sell,11.14
+2010-07-22,Atlantic Equities LLP,12 month,3.0,neutral,9.43
+2010-10-20,Dougherty & Company LLC,12 month,3.0,neutral,20.29
+2010-10-21,J.P. Morgan,15 month,5.0,overweight,26.57
+2010-10-21,Oppenheimer & Co,12 month,5.0,outperform,28.57
+2010-10-21,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2010-10-21,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2010-10-21,ThinkEquity LLC,12 month,3.0,hold,22.86
+2010-10-21,UBS,Not Provided,1.0,sell,15.71
+2010-10-28,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2010-11-04,Northland Securities Inc,Not Provided,1.0,underperform,-0.0
+2010-11-22,Morgan Keegan,12 month,1.0,underperform,17.86
+2010-11-22,Susquehanna Financial,12 month,2.0,negative,17.14
+2010-11-23,Needham & Co,Not Provided,3.0,hold,-0.0
+2010-11-29,Stifel,Not Provided,3.0,hold,-0.0
+2010-12-01,Caris & Company,12 month,3.0,average,26.57
+2010-12-07,Jefferies,12 month,3.0,hold,27.86
+2010-12-08,Morgan Stanley,Not Provided,5.0,Overwt/Attractive,-0.0
+2010-12-08,Credit Suisse,Not Provided,3.0,neutral,22.14
+2010-12-09,Barclays,Not Provided,3.0,equalwt/positive,20.0
+2010-12-09,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2010-12-09,Wedbush,12 month,1.0,underperform,11.14
+2010-12-10,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2010-12-13,Maxim Group LLC,12 month,1.0,sell,16.43
+2010-12-15,BMO Capital Markets,Not Provided,3.0,market perform,25.71
+2010-12-19,Goldman Sachs,6 month,3.0,neutral/attractive,28.57
+2010-12-20,Merriman Capital,Not Provided,5.0,buy,-0.0
+2010-12-20,Piper Jaffray,12 month,5.0,overweight,31.0
+2010-12-20,Cowen,Not Provided,3.0,neutral,-0.0
+2010-12-20,Janney Montgomery Scott LLC,12 month,3.0,neutral,20.71
+2010-12-27,Merriman Capital,Not Provided,5.0,buy,-0.0
+2010-12-30,UBS,12 month,1.0,sell,15.71
+2011-01-03,Merriman Capital,Not Provided,5.0,buy,-0.0
+2011-01-03,BMO Capital Markets,Not Provided,3.0,market perform,25.71
+2011-01-03,J.P. Morgan,12 month,5.0,overweight,26.57
+2011-01-03,Wedbush,12 month,1.0,underperform,11.14
+2011-01-03,ThinkEquity LLC,12 month,3.0,hold,22.86
+2011-01-03,Susquehanna Financial,12 month,2.0,negative,17.14
+2011-01-03,Cowen,Not Provided,3.0,neutral,-0.0
+2011-01-04,Needham & Co,Not Provided,3.0,hold,-0.0
+2011-01-05,Canaccord Genuity,12 month,5.0,buy,32.14
+2011-01-05,Piper Jaffray,12 month,5.0,overweight,31.0
+2011-01-05,Maxim Group LLC,12 month,1.0,sell,16.43
+2011-01-06,Gabelli & Co,Not Provided,1.0,sell,-0.0
+2011-01-09,Maxim Group LLC,12 month,1.0,sell,16.43
+2011-01-10,Cowen,Not Provided,3.0,neutral,-0.0
+2011-01-11,Piper Jaffray,12 month,5.0,overweight,31.0
+2011-01-11,Merriman Capital,Not Provided,5.0,buy,-0.0
+2011-01-18,Morgan Stanley,12 month,5.0,Overwt/Attractive,32.14
+2011-01-19,BMO Capital Markets,Not Provided,3.0,market perform,25.71
+2011-01-19,Cowen,Not Provided,3.0,neutral,-0.0
+2011-01-20,Jefferies,12 month,3.0,hold,27.86
+2011-01-20,Wedbush,12 month,1.0,underperform,11.14
+2011-01-20,Stifel,Not Provided,3.0,hold,-0.0
+2011-01-20,Maxim Group LLC,12 month,1.0,sell,16.43
+2011-01-24,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-01-25,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2011-01-26,Susquehanna Financial,12 month,2.0,negative,17.14
+2011-01-27,Janney Montgomery Scott LLC,12 month,3.0,neutral,25.0
+2011-01-27,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-01-27,Dougherty & Company LLC,12 month,3.0,neutral,28.86
+2011-01-27,Morgan Stanley,12 month,5.0,Overwt/Attractive,35.0
+2011-01-27,Stifel,Not Provided,3.0,hold,-0.0
+2011-01-27,Merriman Capital,Not Provided,5.0,buy,-0.0
+2011-01-27,Credit Suisse,Not Provided,3.0,neutral,25.71
+2011-01-27,ThinkEquity LLC,12 month,5.0,buy,31.43
+2011-01-27,Northland Securities Inc,Not Provided,1.0,underperform,-0.0
+2011-01-27,Needham & Co,Not Provided,3.0,hold,-0.0
+2011-01-27,Cowen,Not Provided,3.0,neutral,-0.0
+2011-01-27,Maxim Group LLC,12 month,1.0,sell,16.43
+2011-01-27,Wedbush,12 month,1.0,underperform,11.43
+2011-01-27,Barclays,Not Provided,3.0,equalwt/positive,30.71
+2011-01-27,BMO Capital Markets,Not Provided,3.0,market perform,30.0
+2011-01-27,Morgan Keegan,12 month,3.0,market perform,31.43
+2011-01-27,Canaccord Genuity,12 month,5.0,buy,35.71
+2011-01-27,Pacific Crest Securities,12 month,5.0,outperform,38.57
+2011-01-27,Piper Jaffray,12 month,5.0,overweight,34.29
+2011-01-27,Goldman Sachs,6 month,3.0,neutral/attractive,30.0
+2011-01-27,Caris & Company,Not Provided,4.0,above average,32.0
+2011-01-27,Oppenheimer & Co,12 month,5.0,outperform,32.86
+2011-01-27,Jefferies,12 month,3.0,hold,30.0
+2011-01-27,UBS,12 month,1.0,sell,20.0
+2011-01-27,J.P. Morgan,12 month,5.0,overweight,32.0
+2011-01-28,Merriman Capital,Not Provided,5.0,buy,-0.0
+2011-01-30,Maxim Group LLC,12 month,1.0,sell,16.43
+2011-01-31,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-01-31,Janney Montgomery Scott LLC,12 month,3.0,neutral,25.0
+2011-01-31,Piper Jaffray,12 month,5.0,overweight,34.29
+2011-01-31,Cowen,Not Provided,3.0,neutral,-0.0
+2011-02-02,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-02-03,Jefferies,12 month,3.0,hold,30.0
+2011-02-07,Atlantic Equities LLP,12 month,5.0,overweight,38.57
+2011-02-07,Susquehanna Financial,12 month,2.0,negative,22.86
+2011-02-07,Cowen,Not Provided,3.0,neutral,-0.0
+2011-02-09,Piper Jaffray,12 month,5.0,overweight,34.29
+2011-02-14,Caris & Company,Not Provided,4.0,above average,45.14
+2011-02-14,Oppenheimer & Co,12 month,5.0,outperform,32.86
+2011-02-14,Cowen,Not Provided,3.0,neutral,-0.0
+2011-02-14,UBS,12 month,1.0,sell,21.43
+2011-02-15,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-02-18,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-02-22,Jefferies,12 month,3.0,hold,30.0
+2011-02-22,Oppenheimer & Co,18 month,5.0,outperform,32.86
+2011-02-22,Morgan Keegan,12 month,3.0,market perform,31.43
+2011-02-22,Piper Jaffray,12 month,5.0,overweight,34.29
+2011-02-22,Cowen,Not Provided,3.0,neutral,-0.0
+2011-02-23,Needham & Co,Not Provided,1.0,underperform,-0.0
+2011-02-25,Canaccord Genuity,12 month,5.0,buy,35.71
+2011-02-27,Maxim Group LLC,12 month,1.0,sell,16.43
+2011-02-28,UBS,12 month,1.0,sell,23.57
+2011-02-28,Wedbush,12 month,1.0,underperform,11.43
+2011-02-28,Cowen,Not Provided,3.0,neutral,-0.0
+2011-03-04,Piper Jaffray,12 month,5.0,overweight,34.29
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-07,Cowen,Not Provided,3.0,neutral,-0.0
+2011-03-08,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-03-08,Janney Montgomery Scott LLC,12 month,3.0,neutral,25.0
+2011-03-08,Jefferies,12 month,3.0,hold,30.0
+2011-03-09,Stifel,Not Provided,3.0,hold,-0.0
+2011-03-10,Canaccord Genuity,12 month,5.0,buy,35.71
+2011-03-10,Piper Jaffray,12 month,5.0,overweight,34.29
+2011-03-11,Pacific Crest Securities,12 month,5.0,outperform,38.57
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-14,Stifel,Not Provided,3.0,hold,-0.0
+2011-03-14,Goldman Sachs,6 month,5.0,buy/attractive,42.86
+2011-03-14,BMO Capital Markets,Not Provided,3.0,market perform,30.0
+2011-03-14,Cowen,Not Provided,3.0,neutral,-0.0
+2011-03-16,Janney Montgomery Scott LLC,12 month,3.0,neutral,25.0
+2011-03-17,Caris & Company,Not Provided,4.0,above average,45.14
+2011-03-20,Maxim Group LLC,12 month,1.0,sell,16.43
+2011-03-21,Cowen,Not Provided,3.0,neutral,-0.0
+2011-03-21,ThinkEquity LLC,12 month,5.0,buy,31.43
+2011-03-22,Credit Suisse,Not Provided,5.0,outperform,40.0
+2011-03-24,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-03-24,Lazard Capital Markets,Not Provided,3.0,hold,-0.0
+2011-03-25,Piper Jaffray,12 month,5.0,overweight,34.29
+2011-03-27,Maxim Group LLC,12 month,1.0,sell,16.43
+2011-03-29,Cowen,Not Provided,3.0,neutral,-0.0
+2011-04-03,Maxim Group LLC,12 month,1.0,sell,16.43
+2011-04-04,Oppenheimer & Co,18 month,5.0,outperform,32.86
+2011-04-04,Cowen,Not Provided,3.0,neutral,-0.0
+2011-04-06,Canaccord Genuity,12 month,5.0,buy,35.71
+2011-04-07,Stifel,Not Provided,3.0,hold,-0.0
+2011-04-08,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2011-04-08,Piper Jaffray,12 month,5.0,overweight,40.0
+2011-04-10,Maxim Group LLC,12 month,1.0,sell,16.43
+2011-04-11,Cowen,Not Provided,3.0,neutral,-0.0
+2011-04-14,Pacific Crest Securities,12 month,5.0,outperform,38.57
+2011-04-17,Maxim Group LLC,12 month,1.0,sell,16.43
+2011-04-18,Wedbush,12 month,1.0,underperform,11.43
+2011-04-20,BMO Capital Markets,Not Provided,3.0,market perform,30.0
+2011-04-20,Goldman Sachs,6 month,5.0,buy/attractive,42.86
+2011-04-20,Piper Jaffray,12 month,5.0,overweight,40.0
+2011-04-21,Jefferies,12 month,3.0,hold,30.0
+2011-04-21,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-04-25,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-04-25,Dougherty & Company LLC,12 month,3.0,neutral,35.0
+2011-04-25,Canaccord Genuity,12 month,5.0,buy,42.86
+2011-04-25,Morgan Keegan,12 month,3.0,market perform,38.14
+2011-04-25,Stifel,Not Provided,3.0,hold,-0.0
+2011-04-25,Cowen,Not Provided,3.0,neutral,-0.0
+2011-04-25,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-04-26,Northland Securities Inc,Not Provided,1.0,underperform,-0.0
+2011-04-26,ThinkEquity LLC,12 month,5.0,buy,40.0
+2011-04-26,Gabelli & Co,Not Provided,1.0,sell,-0.0
+2011-04-26,Stifel,Not Provided,3.0,hold,-0.0
+2011-04-26,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-04-26,BMO Capital Markets,Not Provided,3.0,market perform,30.0
+2011-04-26,Credit Suisse,Not Provided,5.0,outperform,40.0
+2011-04-26,Atlantic Equities LLP,12 month,5.0,overweight,38.57
+2011-04-26,Pacific Crest Securities,12 month,5.0,outperform,38.57
+2011-04-26,Jefferies,12 month,3.0,hold,34.29
+2011-04-26,UBS,12 month,1.0,sell,25.71
+2011-04-26,Canaccord Genuity,12 month,5.0,buy,42.86
+2011-04-26,Merriman Capital,Not Provided,5.0,buy,-0.0
+2011-04-26,Caris & Company,Not Provided,4.0,above average,45.14
+2011-04-26,Piper Jaffray,12 month,5.0,overweight,40.0
+2011-04-26,Oppenheimer & Co,12 month,5.0,outperform,40.0
+2011-04-27,Needham & Co,Not Provided,1.0,underperform,-0.0
+2011-04-27,Janney Montgomery Scott LLC,12 month,1.0,sell,24.29
+2011-05-01,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-05-01,Maxim Group LLC,Not Provided,3.0,hold,-0.0
+2011-05-02,Wedbush,12 month,1.0,underperform,11.43
+2011-05-02,Cowen,Not Provided,3.0,neutral,-0.0
+2011-05-08,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-05-10,UBS,12 month,1.0,sell,26.43
+2011-05-11,Canaccord Genuity,12 month,5.0,buy,42.86
+2011-05-11,Piper Jaffray,12 month,5.0,overweight,40.0
+2011-05-13,Caris & Company,Not Provided,4.0,above average,45.14
+2011-05-15,Maxim Group LLC,Not Provided,3.0,hold,-0.0
+2011-05-16,Cowen,Not Provided,3.0,neutral,-0.0
+2011-05-17,Oppenheimer & Co,18 month,5.0,outperform,40.0
+2011-05-18,Merriman Capital,Not Provided,5.0,buy,-0.0
+2011-05-21,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-05-23,Cowen,Not Provided,3.0,neutral,-0.0
+2011-05-24,Canaccord Genuity,12 month,5.0,buy,42.86
+2011-05-26,UBS,12 month,1.0,sell,27.86
+2011-05-31,Barclays,Not Provided,5.0,overwt/positive,45.0
+2011-05-31,Wedbush,12 month,1.0,underperform,11.43
+2011-05-31,Cowen,Not Provided,3.0,neutral,-0.0
+2011-06-01,Merriman Capital,Not Provided,5.0,buy,-0.0
+2011-06-01,Wedbush,12 month,1.0,underperform,11.43
+2011-06-03,Jefferies,12 month,3.0,hold,34.29
+2011-06-06,Cowen,Not Provided,3.0,neutral,-0.0
+2011-06-07,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-06-07,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-06-08,Caris & Company,Not Provided,4.0,above average,45.14
+2011-06-09,Piper Jaffray,12 month,5.0,overweight,40.0
+2011-06-09,Canaccord Genuity,12 month,5.0,buy,42.86
+2011-06-10,Pacific Crest Securities,12 month,5.0,outperform,38.57
+2011-06-13,Dougherty & Company LLC,12 month,3.0,neutral,35.0
+2011-06-13,Cowen,Not Provided,3.0,neutral,-0.0
+2011-06-17,Canaccord Genuity,12 month,5.0,buy,42.86
+2011-06-20,Cowen,Not Provided,3.0,neutral,-0.0
+2011-06-20,Dougherty & Company LLC,12 month,3.0,neutral,35.0
+2011-06-27,Pacific Crest Securities,12 month,5.0,outperform,38.57
+2011-06-27,Cowen,Not Provided,3.0,neutral,-0.0
+2011-06-28,Jefferies,12 month,3.0,hold,34.29
+2011-07-01,Wedbush,12 month,1.0,underperform,11.43
+2011-07-04,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-07-05,Stifel,Not Provided,3.0,hold,-0.0
+2011-07-05,Piper Jaffray,12 month,5.0,overweight,43.57
+2011-07-05,Dawson James Securities,18 month,1.0,sell,25.86
+2011-07-05,Cowen,Not Provided,3.0,neutral,-0.0
+2011-07-05,BMO Capital Markets,Not Provided,3.0,market perform,30.0
+2011-07-05,Dougherty & Company LLC,12 month,3.0,neutral,35.0
+2011-07-05,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-07-05,Barclays,Not Provided,5.0,overwt/positive,45.0
+2011-07-06,Atlantic Equities LLP,12 month,5.0,overweight,45.71
+2011-07-06,Merriman Capital,Not Provided,3.0,neutral,-0.0
+2011-07-08,Canaccord Genuity,12 month,5.0,buy,42.86
+2011-07-10,Goldman Sachs,6 month,5.0,buy/attractive,47.14
+2011-07-11,Dougherty & Company LLC,12 month,3.0,neutral,35.0
+2011-07-12,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-07-12,BMO Capital Markets,Not Provided,3.0,market perform,40.0
+2011-07-12,Cowen,Not Provided,3.0,neutral,-0.0
+2011-07-12,Merriman Capital,Not Provided,3.0,neutral,-0.0
+2011-07-12,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2011-07-13,Morgan Keegan,12 month,3.0,market perform,42.14
+2011-07-13,J.P. Morgan,18 month,5.0,overweight,48.57
+2011-07-13,Piper Jaffray,12 month,5.0,overweight,47.14
+2011-07-13,UBS,12 month,1.0,sell,30.0
+2011-07-13,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-07-13,Barclays,Not Provided,5.0,overwt/positive,45.0
+2011-07-13,Jefferies,12 month,3.0,hold,34.29
+2011-07-13,Wedbush,12 month,1.0,underperform,11.43
+2011-07-18,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2011-07-18,Oppenheimer & Co,12 month,5.0,outperform,51.43
+2011-07-18,Cowen,Not Provided,3.0,neutral,-0.0
+2011-07-19,Wedbush,12 month,1.0,underperform,14.29
+2011-07-19,Merriman Capital,Not Provided,3.0,neutral,-0.0
+2011-07-20,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-07-25,Dougherty & Company LLC,12 month,3.0,neutral,35.43
+2011-07-25,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2011-07-25,Goldman Sachs,6 month,5.0,Buy/Neutral,47.14
+2011-07-25,BMO Capital Markets,Not Provided,3.0,market perform,40.0
+2011-07-26,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-07-26,Morgan Keegan,12 month,3.0,market perform,42.14
+2011-07-26,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-07-26,Credit Suisse,Not Provided,5.0,outperform,44.29
+2011-07-26,J.P. Morgan,15 month,5.0,overweight,48.57
+2011-07-26,Wedbush,12 month,1.0,underperform,15.71
+2011-07-26,Janney Montgomery Scott LLC,12 month,1.0,sell,24.29
+2011-07-26,Caris & Company,Not Provided,4.0,above average,46.0
+2011-07-26,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-07-26,Needham & Co,Not Provided,1.0,underperform,-0.0
+2011-07-26,Stifel,Not Provided,3.0,hold,-0.0
+2011-07-26,Merriman Capital,Not Provided,3.0,neutral,-0.0
+2011-07-26,Oppenheimer & Co,12 month,5.0,outperform,44.29
+2011-07-26,Canaccord Genuity,12 month,5.0,buy,42.86
+2011-07-26,Gabelli & Co,Not Provided,1.0,sell,-0.0
+2011-07-26,Jefferies,12 month,3.0,hold,37.86
+2011-07-26,Atlantic Equities LLP,12 month,5.0,overweight,45.71
+2011-07-26,Northland Securities Inc,Not Provided,1.0,underperform,-0.0
+2011-07-26,ThinkEquity LLC,12 month,5.0,buy,44.29
+2011-07-26,Piper Jaffray,12 month,5.0,overweight,47.14
+2011-07-26,Barclays,Not Provided,5.0,overwt/positive,40.71
+2011-07-26,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2011-07-26,Cowen,Not Provided,3.0,neutral,-0.0
+2011-07-27,Dawson James Securities,18 month,1.0,sell,25.86
+2011-07-28,Northland Securities Inc,Not Provided,1.0,underperform,-0.0
+2011-07-29,Caris & Company,12 month,4.0,above average,46.0
+2011-07-29,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-08-01,Wedbush,12 month,1.0,underperform,15.71
+2011-08-01,Cowen,Not Provided,3.0,neutral,-0.0
+2011-08-08,Cowen,Not Provided,3.0,neutral,-0.0
+2011-08-10,Piper Jaffray,12 month,5.0,overweight,47.14
+2011-08-15,Cowen,Not Provided,3.0,neutral,-0.0
+2011-08-17,Piper Jaffray,12 month,5.0,overweight,47.14
+2011-08-18,Caris & Company,Not Provided,4.0,above average,46.0
+2011-08-22,Cowen,Not Provided,3.0,neutral,-0.0
+2011-08-23,Merriman Capital,Not Provided,3.0,neutral,-0.0
+2011-08-25,Piper Jaffray,12 month,5.0,overweight,47.14
+2011-08-29,Cowen,Not Provided,3.0,neutral,-0.0
+2011-08-31,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-08-31,Wedbush,12 month,1.0,underperform,15.71
+2011-09-01,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-09-02,Morgan Keegan,12 month,3.0,market perform,34.29
+2011-09-02,UBS,12 month,1.0,sell,28.57
+2011-09-02,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-09-02,Piper Jaffray,12 month,5.0,overweight,47.14
+2011-09-02,Barclays,Not Provided,5.0,overwt/positive,40.71
+2011-09-02,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-09-02,Merriman Capital,Not Provided,3.0,neutral,-0.0
+2011-09-02,Caris & Company,12 month,4.0,above average,46.0
+2011-09-02,BMO Capital Markets,Not Provided,3.0,market perform,40.0
+2011-09-02,Wedbush,12 month,1.0,underperform,15.71
+2011-09-02,Jefferies,12 month,3.0,hold,37.86
+2011-09-06,Stifel,Not Provided,3.0,hold,-0.0
+2011-09-06,Janney Montgomery Scott LLC,12 month,1.0,sell,24.29
+2011-09-06,Cowen,Not Provided,3.0,neutral,-0.0
+2011-09-08,Credit Suisse,Not Provided,5.0,outperform,44.29
+2011-09-12,Susquehanna Financial,12 month,3.0,neutral,27.57
+2011-09-13,Cowen,Not Provided,3.0,neutral,-0.0
+2011-09-15,Needham & Co,Not Provided,1.0,underperform,-0.0
+2011-09-15,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-09-15,Dougherty & Company LLC,12 month,3.0,neutral,30.29
+2011-09-15,Janney Montgomery Scott LLC,12 month,1.0,sell,24.29
+2011-09-15,Credit Suisse,Not Provided,5.0,outperform,34.29
+2011-09-15,J.P. Morgan,15 month,5.0,overweight,35.0
+2011-09-15,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-09-15,Morgan Keegan,12 month,3.0,market perform,25.71
+2011-09-15,Jefferies,12 month,3.0,hold,27.14
+2011-09-15,BMO Capital Markets,Not Provided,3.0,market perform,34.29
+2011-09-15,Stifel,Not Provided,3.0,hold,-0.0
+2011-09-15,Oppenheimer & Co,12 month,5.0,outperform,38.57
+2011-09-15,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-09-15,UBS,12 month,1.0,sell,26.43
+2011-09-15,Piper Jaffray,12 month,5.0,overweight,43.57
+2011-09-15,Wedbush,12 month,1.0,underperform,15.71
+2011-09-15,Barclays,Not Provided,5.0,overwt/positive,37.14
+2011-09-16,Northland Securities Inc,Not Provided,1.0,underperform,-0.0
+2011-09-16,Atlantic Equities LLP,12 month,5.0,overweight,37.14
+2011-09-16,Dawson James Securities,18 month,1.0,sell,16.5
+2011-09-18,Goldman Sachs,6 month,5.0,Buy/Neutral,38.57
+2011-09-19,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2011-09-19,Morgan Keegan,12 month,3.0,market perform,25.71
+2011-09-19,BMO Capital Markets,Not Provided,3.0,market perform,34.29
+2011-09-19,Piper Jaffray,12 month,5.0,overweight,42.86
+2011-09-19,Cowen,Not Provided,3.0,neutral,-0.0
+2011-09-19,Merriman Capital,Not Provided,3.0,neutral,-0.0
+2011-09-20,Barclays,Not Provided,5.0,overwt/positive,37.14
+2011-09-20,Janney Montgomery Scott LLC,12 month,1.0,sell,14.57
+2011-09-20,Caris & Company,12 month,2.0,below average,14.71
+2011-09-20,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-09-21,Jefferies,12 month,3.0,hold,27.14
+2011-09-21,Oppenheimer & Co,12 month,5.0,outperform,38.57
+2011-09-22,Stifel,Not Provided,3.0,hold,-0.0
+2011-09-22,UBS,12 month,3.0,neutral,18.57
+2011-09-22,Wedbush,12 month,5.0,outperform,22.14
+2011-09-23,J.P. Morgan,15 month,5.0,overweight,29.29
+2011-09-25,Oppenheimer & Co,12 month,5.0,outperform,38.57
+2011-09-26,Merriman Capital,Not Provided,5.0,buy,-0.0
+2011-09-26,Cowen,Not Provided,3.0,neutral,-0.0
+2011-09-26,Janney Montgomery Scott LLC,12 month,1.0,sell,14.57
+2011-09-26,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-09-26,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-09-27,Stifel,Not Provided,3.0,hold,-0.0
+2011-09-28,Piper Jaffray,12 month,5.0,overweight,42.86
+2011-09-28,Credit Suisse,Not Provided,5.0,outperform,34.29
+2011-09-30,Susquehanna Financial,12 month,3.0,neutral,17.71
+2011-10-01,Credit Suisse,Not Provided,5.0,outperform,34.29
+2011-10-02,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-10-03,Cowen,Not Provided,3.0,neutral,-0.0
+2011-10-04,Piper Jaffray,12 month,5.0,overweight,42.86
+2011-10-05,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2011-10-07,Caris & Company,Not Provided,2.0,below average,13.71
+2011-10-10,Janney Montgomery Scott LLC,12 month,3.0,neutral,14.57
+2011-10-10,Morgan Keegan,12 month,3.0,market perform,20.71
+2011-10-10,J.P. Morgan,12 month,5.0,overweight,29.29
+2011-10-10,Barclays,Not Provided,5.0,overwt/positive,37.14
+2011-10-10,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-10-10,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2011-10-10,Wedbush,12 month,3.0,neutral,15.71
+2011-10-10,Piper Jaffray,12 month,5.0,overweight,37.57
+2011-10-11,Goldman Sachs,6 month,5.0,Buy/Neutral,28.57
+2011-10-11,Stifel,Not Provided,3.0,hold,-0.0
+2011-10-11,Hudson Square Research,Not Provided,3.0,hold,-0.0
+2011-10-11,Oppenheimer & Co,12 month,5.0,outperform,26.43
+2011-10-12,BMO Capital Markets,Not Provided,3.0,market perform,22.86
+2011-10-13,Dougherty & Company LLC,12 month,3.0,neutral,25.0
+2011-10-13,Cowen,Not Provided,3.0,neutral,-0.0
+2011-10-13,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-10-17,Cowen,Not Provided,3.0,neutral,-0.0
+2011-10-18,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-10-18,Northland Securities Inc,Not Provided,1.0,underperform,-0.0
+2011-10-19,Credit Suisse,Not Provided,5.0,outperform,34.29
+2011-10-19,B Riley & Co,12 month,5.0,buy,23.14
+2011-10-19,Caris & Company,Not Provided,2.0,below average,13.71
+2011-10-19,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-10-19,Wedbush,12 month,3.0,neutral,15.71
+2011-10-20,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2011-10-20,Piper Jaffray,12 month,5.0,overweight,37.57
+2011-10-24,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2011-10-24,Dougherty & Company LLC,12 month,3.0,neutral,12.86
+2011-10-24,Jefferies,12 month,3.0,hold,12.86
+2011-10-25,Atlantic Equities LLP,12 month,1.0,underweight,10.0
+2011-10-25,Susquehanna Financial,12 month,2.0,negative,8.57
+2011-10-25,Northland Securities Inc,Not Provided,1.0,underperform,-0.0
+2011-10-25,Wedbush,12 month,3.0,neutral,11.79
+2011-10-25,Gabelli & Co,Not Provided,1.0,sell,-0.0
+2011-10-25,Caris & Company,Not Provided,2.0,below average,11.0
+2011-10-25,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2011-10-25,Stifel,Not Provided,3.0,hold,-0.0
+2011-10-25,B Riley & Co,12 month,5.0,buy,17.14
+2011-10-25,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-10-25,Needham & Co,Not Provided,1.0,underperform,-0.0
+2011-10-25,J.P. Morgan,12 month,3.0,neutral,9.57
+2011-10-25,Credit Suisse,Not Provided,5.0,outperform,14.29
+2011-10-25,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-10-25,Barclays,Not Provided,5.0,overwt/positive,17.86
+2011-10-25,Morgan Keegan,12 month,3.0,market perform,12.86
+2011-10-25,UBS,12 month,3.0,neutral,12.86
+2011-10-25,Janney Montgomery Scott LLC,12 month,1.0,sell,7.29
+2011-10-25,Goldman Sachs,6 month,3.0,neutral/neutral,10.71
+2011-10-25,Piper Jaffray,12 month,5.0,overweight,14.29
+2011-10-25,Cowen,Not Provided,3.0,neutral,-0.0
+2011-10-25,BMO Capital Markets,Not Provided,3.0,market perform,12.43
+2011-10-26,Hudson Square Research,12 month,5.0,buy,15.71
+2011-10-27,Oppenheimer & Co,18 month,5.0,outperform,14.29
+2011-10-28,Dawson James Securities,18 month,1.0,sell,7.14
+2011-10-31,Jefferies,12 month,3.0,hold,12.86
+2011-10-31,Cowen,Not Provided,3.0,neutral,-0.0
+2011-11-04,Bernstein,12 month,3.0,market perform,11.29
+2011-11-06,Dougherty & Company LLC,12 month,3.0,neutral,12.86
+2011-11-07,Cowen,Not Provided,3.0,neutral,-0.0
+2011-11-07,Piper Jaffray,12 month,5.0,overweight,14.29
+2011-11-10,BMO Capital Markets,Not Provided,3.0,market perform,12.43
+2011-11-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-14,Janney Montgomery Scott LLC,12 month,1.0,sell,7.29
+2011-11-14,Bernstein,12 month,3.0,market perform,11.29
+2011-11-14,Cowen,Not Provided,3.0,neutral,-0.0
+2011-11-16,Raymond James,Not Provided,3.0,market perform,-0.0
+2011-11-17,Barclays,Not Provided,5.0,overwt/positive,16.43
+2011-11-17,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-18,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2011-11-21,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-11-21,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2011-11-21,BMO Capital Markets,Not Provided,3.0,market perform,12.43
+2011-11-22,Barclays,Not Provided,5.0,overwt/positive,15.0
+2011-11-22,Morgan Keegan,12 month,3.0,market perform,11.43
+2011-11-22,Caris & Company,Not Provided,2.0,below average,8.43
+2011-11-22,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2011-11-22,Stifel,Not Provided,3.0,hold,-0.0
+2011-11-22,Canaccord Genuity,12 month,1.0,sell,8.57
+2011-11-22,Credit Suisse,Not Provided,5.0,outperform,14.29
+2011-11-22,Wedbush,12 month,3.0,neutral,6.43
+2011-11-22,Raymond James,Not Provided,3.0,market perform,-0.0
+2011-11-22,Piper Jaffray,12 month,5.0,overweight,14.29
+2011-11-22,UBS,12 month,3.0,neutral,10.71
+2011-11-22,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2011-11-22,Janney Montgomery Scott LLC,12 month,1.0,sell,7.0
+2011-11-22,Cowen,Not Provided,3.0,neutral,-0.0
+2011-11-23,B Riley & Co,12 month,5.0,buy,14.29
+2011-11-23,Oppenheimer & Co,12 month,5.0,outperform,12.86
+2011-11-28,Jefferies,12 month,3.0,hold,10.71
+2011-11-28,Susquehanna Financial,12 month,3.0,neutral,8.57
+2011-11-28,Cowen,Not Provided,3.0,neutral,-0.0
+2011-11-29,Canaccord Genuity,12 month,1.0,sell,8.14
+2011-11-30,UBS,12 month,3.0,neutral,10.0
+2011-11-30,Wedbush,12 month,1.0,underperform,6.43
+2011-12-02,Bernstein,12 month,3.0,market perform,11.29
+2011-12-05,Cowen,Not Provided,3.0,neutral,-0.0
+2011-12-07,Jefferies,12 month,3.0,hold,10.71
+2011-12-07,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2011-12-08,Oppenheimer & Co,12 month,5.0,outperform,12.86
+2011-12-09,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2011-12-12,Piper Jaffray,12 month,5.0,overweight,14.29
+2011-12-12,Cowen,Not Provided,3.0,neutral,-0.0
+2011-12-14,Canaccord Genuity,12 month,1.0,sell,8.14
+2011-12-14,Goldman Sachs,6 month,3.0,neutral/attractive,11.71
+2011-12-16,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2011-12-16,Bernstein,12 month,3.0,market perform,11.29
+2011-12-19,Cowen,Not Provided,3.0,neutral,-0.0
+2011-12-29,Bernstein,12 month,3.0,market perform,11.29
+2011-12-30,BMO Capital Markets,Not Provided,3.0,market perform,12.43
+2012-01-02,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2012-01-03,Cowen,Not Provided,3.0,neutral,-0.0
+2012-01-05,Wedbush,12 month,1.0,underperform,6.43
+2012-01-05,Needham & Co,Not Provided,1.0,underperform,-0.0
+2012-01-06,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2012-01-06,Canaccord Genuity,12 month,1.0,sell,8.14
+2012-01-09,Cowen,Not Provided,3.0,neutral,-0.0
+2012-01-10,Stifel,Not Provided,3.0,hold,-0.0
+2012-01-10,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-01-10,Piper Jaffray,12 month,5.0,overweight,14.29
+2012-01-13,J.P. Morgan,9 month,3.0,neutral,9.57
+2012-01-17,BMO Capital Markets,Not Provided,3.0,market perform,12.43
+2012-01-17,Janney Montgomery Scott LLC,12 month,1.0,sell,7.57
+2012-01-18,Bernstein,12 month,3.0,market perform,10.14
+2012-01-18,Cowen,Not Provided,3.0,neutral,-0.0
+2012-01-18,Barclays,Not Provided,5.0,overwt/positive,15.0
+2012-01-18,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-01-20,Caris & Company,Not Provided,2.0,below average,8.43
+2012-01-22,Wedbush,12 month,1.0,underperform,6.43
+2012-01-23,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2012-01-23,Cowen,Not Provided,3.0,neutral,-0.0
+2012-01-23,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-01-23,Northland Securities Inc,12 month,1.0,underperform,7.14
+2012-01-23,Piper Jaffray,12 month,5.0,overweight,14.29
+2012-01-23,Janney Montgomery Scott LLC,12 month,1.0,sell,7.57
+2012-01-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-01-24,Credit Suisse,Not Provided,5.0,outperform,14.29
+2012-01-24,Stifel,Not Provided,3.0,hold,-0.0
+2012-01-25,Dougherty & Company LLC,12 month,3.0,neutral,14.71
+2012-01-25,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2012-01-25,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2012-01-25,Needham & Co,Not Provided,1.0,underperform,-0.0
+2012-01-25,Canaccord Genuity,12 month,1.0,sell,9.43
+2012-01-25,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-01-25,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2012-01-26,Northland Securities Inc,12 month,1.0,underperform,7.14
+2012-01-26,Barclays,Not Provided,5.0,overwt/positive,16.43
+2012-01-26,Jefferies,12 month,3.0,hold,16.43
+2012-01-26,Stifel,Not Provided,3.0,hold,-0.0
+2012-01-26,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-01-26,BMO Capital Markets,Not Provided,3.0,market perform,12.43
+2012-01-26,Credit Suisse,Not Provided,5.0,outperform,17.86
+2012-01-26,Canaccord Genuity,12 month,1.0,sell,9.43
+2012-01-26,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2012-01-26,Atlantic Equities LLP,12 month,3.0,neutral,16.43
+2012-01-26,Caris & Company,12 month,2.0,below average,9.57
+2012-01-26,Janney Montgomery Scott LLC,12 month,1.0,sell,8.71
+2012-01-26,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-01-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-01-26,UBS,12 month,3.0,neutral,15.0
+2012-01-26,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2012-01-26,J.P. Morgan,9 month,3.0,neutral,13.57
+2012-01-26,Goldman Sachs,12 month,3.0,neutral/attractive,16.43
+2012-01-26,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-01-26,Wedbush,12 month,1.0,underperform,6.43
+2012-01-26,Susquehanna Financial,12 month,3.0,neutral,13.57
+2012-01-27,Oppenheimer & Co,12 month,5.0,outperform,18.57
+2012-01-27,Bernstein,12 month,3.0,market perform,10.14
+2012-01-28,Dawson James Securities,18 month,1.0,sell,7.14
+2012-01-30,B Riley & Co,Not Provided,3.0,neutral,17.86
+2012-01-30,Cowen,Not Provided,3.0,neutral,-0.0
+2012-02-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2012-02-06,Janney Montgomery Scott LLC,12 month,1.0,sell,8.71
+2012-02-07,Cowen,Not Provided,3.0,neutral,-0.0
+2012-02-08,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-02-10,Bernstein,12 month,3.0,market perform,10.14
+2012-02-13,BMO Capital Markets,Not Provided,3.0,market perform,12.43
+2012-02-13,Cowen,Not Provided,3.0,neutral,-0.0
+2012-02-14,Credit Suisse,Not Provided,5.0,outperform,20.0
+2012-02-21,Credit Suisse,Not Provided,5.0,outperform,20.0
+2012-02-21,Jefferies,12 month,3.0,hold,16.43
+2012-02-21,Cowen,Not Provided,3.0,neutral,-0.0
+2012-02-21,Needham & Co,Not Provided,1.0,underperform,-0.0
+2012-02-22,Barclays,Not Provided,5.0,overwt/positive,16.43
+2012-02-22,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-02-27,Raymond James,Not Provided,1.0,underperform,-0.0
+2012-02-27,Cowen,Not Provided,3.0,neutral,-0.0
+2012-02-28,Caris & Company,Not Provided,2.0,below average,9.57
+2012-02-28,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-02-29,Bernstein,12 month,3.0,market perform,10.14
+2012-02-29,B Riley & Co,12 month,3.0,neutral,14.29
+2012-03-01,Needham & Co,Not Provided,1.0,underperform,-0.0
+2012-03-02,Bernstein,12 month,3.0,market perform,10.14
+2012-03-02,Daiwa Securities,Not Provided,3.0,neutral,-0.0
+2012-03-05,Cowen,Not Provided,3.0,neutral,-0.0
+2012-03-06,Stifel,Not Provided,3.0,hold,-0.0
+2012-03-07,Barclays,Not Provided,5.0,overwt/positive,16.43
+2012-03-07,Janney Montgomery Scott LLC,12 month,1.0,sell,8.71
+2012-03-08,Susquehanna Financial,12 month,3.0,neutral,13.57
+2012-03-08,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-03-12,Cowen,Not Provided,3.0,neutral,-0.0
+2012-03-16,Bernstein,12 month,3.0,market perform,10.14
+2012-03-19,Cowen,Not Provided,3.0,neutral,-0.0
+2012-03-21,UBS,12 month,3.0,neutral,15.0
+2012-03-26,Janney Montgomery Scott LLC,12 month,1.0,sell,8.71
+2012-03-26,Cowen,Not Provided,3.0,neutral,-0.0
+2012-03-30,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-04-02,Cowen,Not Provided,3.0,neutral,-0.0
+2012-04-03,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-04-03,Barclays,Not Provided,3.0,equalwt/positive,16.43
+2012-04-05,Canaccord Genuity,12 month,1.0,sell,9.43
+2012-04-05,Bernstein,12 month,3.0,market perform,10.14
+2012-04-10,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2012-04-10,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-04-11,Raymond James,Not Provided,1.0,underperform,-0.0
+2012-04-12,SunTrust Robinson Humphrey,12 month,5.0,buy,17.71
+2012-04-12,Cowen,Not Provided,3.0,neutral,-0.0
+2012-04-13,Bernstein,12 month,3.0,market perform,10.14
+2012-04-18,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2012-04-19,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-04-19,Wedbush,12 month,1.0,underperform,6.43
+2012-04-19,Janney Montgomery Scott LLC,12 month,1.0,sell,7.86
+2012-04-19,Caris & Company,Not Provided,2.0,below average,10.29
+2012-04-19,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-04-20,BMO Capital Markets,Not Provided,3.0,market perform,12.43
+2012-04-20,J.P. Morgan,9 month,3.0,neutral,13.57
+2012-04-20,Bernstein,12 month,3.0,market perform,10.14
+2012-04-20,Northland Securities Inc,12 month,1.0,underperform,7.14
+2012-04-23,Pacific Crest Securities,12 month,5.0,outperform,18.57
+2012-04-23,Dougherty & Company LLC,12 month,3.0,neutral,13.43
+2012-04-24,B Riley & Co,12 month,3.0,neutral,11.43
+2012-04-24,Atlantic Equities LLP,12 month,3.0,neutral,14.29
+2012-04-24,BMO Capital Markets,Not Provided,3.0,market perform,12.43
+2012-04-24,Credit Suisse,Not Provided,5.0,outperform,16.43
+2012-04-24,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2012-04-24,SunTrust Robinson Humphrey,12 month,5.0,buy,17.71
+2012-04-24,J.P. Morgan,6 month,3.0,neutral,12.43
+2012-04-24,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2012-04-24,Wedbush,12 month,1.0,underperform,6.43
+2012-04-24,Northland Securities Inc,12 month,1.0,underperform,6.43
+2012-04-24,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2012-04-24,Barclays,Not Provided,3.0,equalwt/positive,13.57
+2012-04-24,Stifel,Not Provided,3.0,hold,-0.0
+2012-04-24,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2012-04-24,Needham & Co,Not Provided,1.0,underperform,-0.0
+2012-04-24,Oppenheimer & Co,12 month,5.0,outperform,18.57
+2012-04-24,Canaccord Genuity,12 month,1.0,sell,9.71
+2012-04-24,Raymond James,Not Provided,1.0,underperform,-0.0
+2012-04-24,Goldman Sachs,12 month,3.0,neutral/attractive,14.29
+2012-04-24,Caris & Company,12 month,2.0,below average,10.29
+2012-04-24,Janney Montgomery Scott LLC,12 month,1.0,sell,10.0
+2012-04-24,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-04-24,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-04-24,Susquehanna Financial,12 month,3.0,neutral,13.57
+2012-04-26,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-04-26,Bernstein,12 month,3.0,market perform,10.14
+2012-04-27,Cowen,Not Provided,3.0,neutral,-0.0
+2012-04-27,Dawson James Securities,12 month,1.0,sell,7.14
+2012-05-04,Bernstein,12 month,3.0,market perform,10.14
+2012-05-10,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-05-11,Daiwa Securities,Not Provided,3.0,neutral,-0.0
+2012-05-11,Bernstein,12 month,3.0,market perform,10.14
+2012-05-14,Cowen,Not Provided,3.0,neutral,-0.0
+2012-05-17,Needham & Co,Not Provided,1.0,underperform,-0.0
+2012-05-17,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-05-18,Caris & Company,Not Provided,2.0,below average,8.0
+2012-05-23,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-05-24,Bernstein,12 month,3.0,market perform,10.14
+2012-06-01,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-06-04,Cowen,Not Provided,3.0,neutral,-0.0
+2012-06-07,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-06-08,Canaccord Genuity,12 month,1.0,sell,9.71
+2012-06-08,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-06-11,Cowen,Not Provided,3.0,neutral,-0.0
+2012-06-12,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-06-13,Bernstein,12 month,3.0,market perform,10.14
+2012-06-14,SunTrust Robinson Humphrey,Not Provided,5.0,buy,17.71
+2012-06-25,Raymond James,Not Provided,1.0,underperform,-0.0
+2012-06-25,Janney Montgomery Scott LLC,12 month,3.0,neutral,9.57
+2012-07-02,Bernstein,12 month,3.0,market perform,10.14
+2012-07-06,SunTrust Robinson Humphrey,Not Provided,5.0,buy,17.71
+2012-07-09,Pacific Crest Securities,12 month,5.0,outperform,18.57
+2012-07-09,Piper Jaffray,12 month,5.0,overweight,18.57
+2012-07-09,B Riley & Co,Not Provided,3.0,neutral,11.43
+2012-07-12,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-07-17,Cowen,Not Provided,3.0,neutral,-0.0
+2012-07-17,Janney Montgomery Scott LLC,12 month,3.0,neutral,9.57
+2012-07-19,BMO Capital Markets,Not Provided,3.0,market perform,12.43
+2012-07-19,J.P. Morgan,6 month,3.0,neutral,12.43
+2012-07-19,Wedbush,12 month,1.0,underperform,6.43
+2012-07-19,Oppenheimer & Co,12 month,5.0,outperform,18.57
+2012-07-20,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2012-07-23,Raymond James,Not Provided,1.0,underperform,-0.0
+2012-07-23,Caris & Company,12 month,2.0,below average,8.43
+2012-07-24,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2012-07-24,Pacific Crest Securities,12 month,5.0,outperform,18.57
+2012-07-24,Dougherty & Company LLC,12 month,3.0,neutral,10.29
+2012-07-25,Cowen,Not Provided,3.0,neutral,-0.0
+2012-07-25,BMO Capital Markets,Not Provided,3.0,market perform,12.43
+2012-07-25,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-07-25,Northland Securities Inc,12 month,1.0,underperform,6.0
+2012-07-25,Barclays,Not Provided,3.0,equalweight,11.43
+2012-07-25,Susquehanna Financial,12 month,3.0,neutral,10.0
+2012-07-25,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2012-07-25,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2012-07-25,Dougherty & Company LLC,12 month,3.0,neutral,10.29
+2012-07-25,Goldman Sachs,12 month,3.0,neutral/attractive,11.43
+2012-07-25,J.P. Morgan,12 month,3.0,neutral,9.0
+2012-07-25,Needham & Co,Not Provided,1.0,underperform,-0.0
+2012-07-25,Janney Montgomery Scott LLC,12 month,3.0,neutral,7.57
+2012-07-25,Stifel,Not Provided,3.0,hold,-0.0
+2012-07-25,B Riley & Co,12 month,1.0,sell,7.14
+2012-07-25,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,-0.0
+2012-07-25,Wedbush,12 month,1.0,underperform,6.43
+2012-07-25,Raymond James,Not Provided,1.0,underperform,-0.0
+2012-07-25,Caris & Company,12 month,2.0,below average,8.43
+2012-07-25,Atlantic Equities LLP,12 month,3.0,neutral,10.29
+2012-07-25,Piper Jaffray,12 month,3.0,neutral,10.57
+2012-07-25,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-07-27,Credit Suisse,Not Provided,5.0,outperform,14.29
+2012-07-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2012-07-30,Oppenheimer & Co,18 month,5.0,outperform,14.29
+2012-07-30,Dawson James Securities,12 month,1.0,sell,7.14
+2012-08-01,Credit Suisse,Not Provided,5.0,outperform,14.29
+2012-08-01,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2012-08-07,Piper Jaffray,12 month,3.0,neutral,10.57
+2012-08-09,Piper Jaffray,12 month,3.0,neutral,10.57
+2012-08-10,Bernstein,12 month,3.0,market perform,10.14
+2012-08-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-08-15,B Riley & Co,12 month,1.0,sell,7.14
+2012-08-15,Atlantic Equities LLP,12 month,3.0,neutral,10.29
+2012-08-15,Wedbush,12 month,1.0,underperform,6.43
+2012-08-15,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,-0.0
+2012-08-15,Stifel,Not Provided,3.0,hold,-0.0
+2012-08-16,Bernstein,12 month,3.0,market perform,10.14
+2012-08-17,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2012-08-21,Caris & Company,12 month,3.0,average,8.43
+2012-08-23,Pacific Crest Securities,12 month,5.0,outperform,18.57
+2012-08-23,Raymond James,Not Provided,1.0,underperform,-0.0
+2012-08-24,Bernstein,12 month,3.0,market perform,10.14
+2012-08-30,Daiwa Securities,Not Provided,3.0,neutral,9.29
+2012-09-04,Jefferies,12 month,3.0,hold,9.29
+2012-09-04,Stifel,Not Provided,3.0,hold,-0.0
+2012-09-04,Barclays,Not Provided,3.0,equalweight,10.0
+2012-09-04,Janney Montgomery Scott LLC,12 month,3.0,neutral,7.57
+2012-09-05,Piper Jaffray,12 month,3.0,neutral,10.57
+2012-09-10,Piper Jaffray,12 month,3.0,neutral,10.57
+2012-09-14,Bernstein,12 month,3.0,market perform,10.14
+2012-09-14,Janney Montgomery Scott LLC,12 month,3.0,neutral,7.57
+2012-09-17,Macquarie,12 month,1.0,underperform,7.14
+2012-09-17,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-09-20,Cantor Fitzgerald,12 month,5.0,buy,10.0
+2012-09-21,Bernstein,12 month,3.0,market perform,10.14
+2012-09-24,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-09-26,Pacific Crest Securities,12 month,5.0,outperform,18.57
+2012-09-28,Bernstein,12 month,3.0,market perform,10.14
+2012-10-04,Pacific Crest Securities,12 month,5.0,outperform,18.57
+2012-10-05,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-10-05,Cantor Fitzgerald,12 month,5.0,buy,10.0
+2012-10-08,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,-0.0
+2012-10-08,Raymond James,Not Provided,1.0,underperform,-0.0
+2012-10-08,Morgan Stanley,12 month,5.0,Overwt/Attractive,12.14
+2012-10-09,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-10-09,Piper Jaffray,12 month,3.0,neutral,10.57
+2012-10-10,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2012-10-10,Stifel,Not Provided,3.0,hold,-0.0
+2012-10-12,Cantor Fitzgerald,12 month,5.0,buy,10.0
+2012-10-12,Bernstein,12 month,3.0,market perform,10.14
+2012-10-15,Barclays,Not Provided,3.0,equalweight,10.0
+2012-10-16,Morgan Stanley,12 month,5.0,Overwt/Attractive,12.14
+2012-10-16,Wedbush,12 month,1.0,underperform,6.43
+2012-10-17,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-10-19,Bernstein,12 month,3.0,market perform,10.14
+2012-10-23,Dougherty & Company LLC,12 month,3.0,neutral,10.29
+2012-10-23,Pacific Crest Securities,12 month,5.0,outperform,12.14
+2012-10-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2012-10-23,SunTrust Robinson Humphrey,12 month,3.0,neutral,8.29
+2012-10-24,Credit Suisse,Not Provided,5.0,outperform,11.43
+2012-10-24,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-10-24,Atlantic Equities LLP,12 month,3.0,neutral,8.86
+2012-10-24,Morgan Stanley,12 month,5.0,Overwt/Attractive,11.43
+2012-10-24,Northland Securities Inc,Not Provided,1.0,underperform,5.0
+2012-10-24,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2012-10-24,J.P. Morgan,12 month,3.0,neutral,8.57
+2012-10-24,Jefferies,12 month,3.0,hold,8.57
+2012-10-24,Raymond James,Not Provided,1.0,underperform,-0.0
+2012-10-24,B Riley & Co,12 month,1.0,sell,6.43
+2012-10-24,Susquehanna Financial,12 month,3.0,neutral,7.14
+2012-10-24,Goldman Sachs,12 month,3.0,neutral/attractive,10.0
+2012-10-24,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2012-10-24,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-10-24,Wedbush,12 month,1.0,underperform,6.43
+2012-10-24,Piper Jaffray,12 month,3.0,neutral,9.29
+2012-10-24,Cantor Fitzgerald,12 month,5.0,buy,9.71
+2012-10-24,Stifel,Not Provided,3.0,hold,-0.0
+2012-10-24,Oppenheimer & Co,12 month,5.0,outperform,11.43
+2012-10-24,S&P Capital IQ,Not Provided,5.0,buy,10.71
+2012-10-24,Barclays,Not Provided,3.0,equalweight,9.29
+2012-10-24,BMO Capital Markets,Not Provided,3.0,market perform,9.29
+2012-10-24,Janney Montgomery Scott LLC,12 month,3.0,neutral,6.86
+2012-10-24,Needham & Co,Not Provided,1.0,underperform,-0.0
+2012-10-24,Macquarie,12 month,1.0,underperform,7.14
+2012-10-24,Caris & Company,12 month,3.0,average,8.43
+2012-10-25,Macquarie,12 month,1.0,underperform,7.14
+2012-10-29,Cantor Fitzgerald,12 month,5.0,buy,9.71
+2012-10-31,Oppenheimer & Co,12 month,3.0,market perform,11.43
+2012-10-31,SunTrust Robinson Humphrey,12 month,3.0,neutral,8.29
+2012-11-01,Needham & Co,Not Provided,1.0,underperform,-0.0
+2012-11-01,Wedbush,12 month,1.0,underperform,6.43
+2012-11-01,Stifel,Not Provided,3.0,hold,-0.0
+2012-11-01,Dawson James Securities,12 month,1.0,sell,7.14
+2012-11-01,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-11-01,Barclays,Not Provided,3.0,equalweight,9.29
+2012-11-01,Janney Montgomery Scott LLC,12 month,3.0,neutral,6.86
+2012-11-02,Bernstein,12 month,3.0,market perform,10.14
+2012-11-06,Piper Jaffray,12 month,3.0,neutral,9.29
+2012-11-07,Cantor Fitzgerald,12 month,5.0,buy,12.14
+2012-11-08,SunTrust Robinson Humphrey,12 month,3.0,neutral,8.29
+2012-11-12,BMO Capital Markets,Not Provided,3.0,market perform,9.29
+2012-11-16,Albert Fried & Company,Not Provided,1.0,underweight,-0.0
+2012-11-16,Bernstein,12 month,3.0,market perform,10.14
+2012-11-16,Cantor Fitzgerald,12 month,5.0,buy,12.14
+2012-11-19,SunTrust Robinson Humphrey,12 month,3.0,neutral,8.29
+2012-11-26,Albert Fried & Company,Not Provided,1.0,underweight,-0.0
+2012-11-26,Cantor Fitzgerald,12 month,5.0,buy,12.14
+2012-11-27,Cowen,Not Provided,3.0,neutral,-0.0
+2012-11-30,Cantor Fitzgerald,12 month,5.0,buy,12.14
+2012-11-30,S&P Capital IQ,12 month,3.0,hold,10.71
+2012-12-03,Albert Fried & Company,Not Provided,1.0,underweight,-0.0
+2012-12-04,Janney Montgomery Scott LLC,12 month,3.0,neutral,6.86
+2012-12-04,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2012-12-04,BMO Capital Markets,Not Provided,3.0,market perform,9.29
+2012-12-04,Morgan Stanley,12 month,5.0,Overwt/Attractive,11.43
+2012-12-04,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2012-12-05,Wedbush,12 month,1.0,underperform,6.43
+2012-12-05,S&P Capital IQ,12 month,3.0,hold,10.71
+2012-12-05,Stifel,Not Provided,3.0,hold,-0.0
+2012-12-05,Atlantic Equities LLP,12 month,3.0,neutral,8.86
+2012-12-05,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2012-12-05,Cowen,Not Provided,3.0,neutral,-0.0
+2012-12-05,B Riley & Co,Not Provided,1.0,sell,6.43
+2012-12-06,Piper Jaffray,12 month,3.0,neutral,9.29
+2012-12-06,Caris & Company,Not Provided,2.0,below average,8.57
+2012-12-07,SunTrust Robinson Humphrey,12 month,3.0,neutral,8.29
+2012-12-07,Albert Fried & Company,Not Provided,1.0,underweight,-0.0
+2012-12-07,Cantor Fitzgerald,12 month,5.0,buy,12.14
+2012-12-07,Bernstein,12 month,3.0,market perform,10.14
+2012-12-12,Morgan Stanley,12 month,5.0,Overwt/Attractive,15.0
+2012-12-13,Stifel,Not Provided,3.0,hold,-0.0
+2012-12-14,Bernstein,12 month,3.0,market perform,10.14
+2012-12-17,Cantor Fitzgerald,12 month,5.0,buy,15.71
+2012-12-19,SunTrust Robinson Humphrey,12 month,3.0,neutral,8.29
+2012-12-20,Raymond James,Not Provided,1.0,underperform,-0.0
+2012-12-20,Stifel,Not Provided,3.0,hold,-0.0
+2012-12-21,Morgan Stanley,12 month,5.0,Overwt/Attractive,15.0
+2012-12-21,Bernstein,12 month,3.0,market perform,10.14
+2012-12-28,Bernstein,12 month,3.0,market perform,10.14
+2013-01-02,BMO Capital Markets,Not Provided,3.0,market perform,12.57
+2013-01-02,Lazard Capital Markets,Not Provided,3.0,neutral,-0.0
+2013-01-04,Bernstein,12 month,3.0,market perform,10.14
+2013-01-07,Morgan Stanley,12 month,5.0,Overwt/Attractive,15.0
+2013-01-08,Raymond James,Not Provided,1.0,underperform,-0.0
+2013-01-08,Cantor Fitzgerald,12 month,5.0,buy,15.71
+2013-01-08,Piper Jaffray,12 month,3.0,neutral,9.29
+2013-01-09,Stifel,Not Provided,3.0,hold,-0.0
+2013-01-10,Dougherty & Company LLC,12 month,3.0,neutral,10.29
+2013-01-11,Bernstein,12 month,3.0,market perform,10.14
+2013-01-11,BMO Capital Markets,Not Provided,3.0,market perform,12.57
+2013-01-15,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-01-16,Barclays,Not Provided,3.0,equalweight,11.43
+2013-01-16,Cowen,Not Provided,3.0,neutral,-0.0
+2013-01-16,Pacific Crest Securities,12 month,5.0,outperform,12.14
+2013-01-16,B Riley & Co,Not Provided,1.0,sell,6.43
+2013-01-18,Bernstein,12 month,3.0,market perform,10.14
+2013-01-22,National Alliance Capital Markets,Not Provided,3.0,market perform,14.54
+2013-01-23,Pacific Crest Securities,12 month,5.0,outperform,22.86
+2013-01-23,SunTrust Robinson Humphrey,12 month,3.0,neutral,10.86
+2013-01-24,B Riley & Co,Not Provided,1.0,sell,12.86
+2013-01-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-01-24,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2013-01-24,Barclays,Not Provided,3.0,equalweight,17.14
+2013-01-24,Macquarie,12 month,3.0,neutral,17.14
+2013-01-24,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-01-24,Northland Securities Inc,12 month,1.0,underperform,11.43
+2013-01-24,Susquehanna Financial,12 month,3.0,neutral,15.29
+2013-01-24,S&P Capital IQ,12 month,3.0,hold,19.57
+2013-01-24,Oppenheimer & Co,18 month,3.0,market perform,17.14
+2013-01-24,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2013-01-24,Stifel,Not Provided,3.0,hold,-0.0
+2013-01-24,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2013-01-24,Jefferies,12 month,3.0,hold,18.57
+2013-01-24,Credit Suisse,Not Provided,3.0,neutral,18.86
+2013-01-24,Goldman Sachs,12 month,3.0,neutral/attractive,17.86
+2013-01-24,Janney Montgomery Scott LLC,12 month,5.0,buy,27.14
+2013-01-24,Lazard Capital Markets,12 month,5.0,buy,28.57
+2013-01-24,Albert Fried & Company,12 month,1.0,underweight,9.71
+2013-01-24,Cowen,Not Provided,3.0,neutral,-0.0
+2013-01-24,J.P. Morgan,9 month,5.0,overweight,25.71
+2013-01-24,Cantor Fitzgerald,12 month,5.0,buy,21.43
+2013-01-24,Wedbush,12 month,1.0,underperform,7.86
+2013-01-24,Morgan Stanley,12 month,5.0,Overwt/Attractive,22.86
+2013-01-24,BMO Capital Markets,Not Provided,3.0,market perform,19.29
+2013-01-24,Piper Jaffray,12 month,3.0,neutral,20.43
+2013-01-25,Cantor Fitzgerald,12 month,5.0,buy,21.43
+2013-01-25,Bernstein,12 month,3.0,market perform,10.14
+2013-01-28,Piper Jaffray,12 month,3.0,neutral,20.43
+2013-01-29,Wedbush,12 month,1.0,underperform,7.86
+2013-01-29,Pacific Crest Securities,12 month,5.0,outperform,22.86
+2013-02-01,Morgan Stanley,12 month,5.0,Overwt/Attractive,28.57
+2013-02-03,Lazard Capital Markets,12 month,5.0,buy,28.57
+2013-02-04,Cantor Fitzgerald,12 month,5.0,buy,21.43
+2013-02-04,BMO Capital Markets,Not Provided,3.0,market perform,23.57
+2013-02-08,Bernstein,12 month,3.0,market perform,17.86
+2013-02-11,Hudson Square Research,Not Provided,5.0,buy,34.29
+2013-02-11,Albert Fried & Company,12 month,1.0,underweight,9.71
+2013-02-12,Morgan Stanley,12 month,5.0,Overwt/Attractive,28.57
+2013-02-13,J.P. Morgan,9 month,5.0,overweight,29.29
+2013-02-15,Bernstein,12 month,3.0,market perform,17.86
+2013-02-19,Cowen,Not Provided,3.0,neutral,-0.0
+2013-02-25,Morgan Stanley,12 month,5.0,Overwt/Attractive,28.57
+2013-03-01,Bernstein,12 month,3.0,market perform,17.86
+2013-03-01,Cantor Fitzgerald,12 month,5.0,buy,21.43
+2013-03-04,RBC Capital Markets,12 month,5.0,outperform,30.0
+2013-03-05,Albert Fried & Company,12 month,1.0,underweight,9.71
+2013-03-07,Pacific Crest Securities,12 month,5.0,outperform,22.86
+2013-03-08,Bernstein,12 month,3.0,market perform,17.86
+2013-03-11,Daiwa Securities,Not Provided,1.0,underperform,24.0
+2013-03-12,Macquarie,12 month,3.0,neutral,25.71
+2013-03-13,S&P Capital IQ,Not Provided,3.0,hold,29.14
+2013-03-13,Albert Fried & Company,12 month,1.0,underweight,9.71
+2013-03-15,Bernstein,12 month,3.0,market perform,17.86
+2013-03-15,Cantor Fitzgerald,12 month,5.0,buy,21.43
+2013-03-21,Pacific Crest Securities,12 month,5.0,outperform,22.86
+2013-03-21,Albert Fried & Company,12 month,1.0,underweight,9.71
+2013-03-22,Cowen,Not Provided,3.0,neutral,-0.0
+2013-03-22,Bernstein,12 month,3.0,market perform,17.86
+2013-03-22,Cantor Fitzgerald,12 month,5.0,buy,21.43
+2013-03-26,Pacific Crest Securities,12 month,5.0,outperform,32.14
+2013-03-28,Bernstein,12 month,3.0,market perform,17.86
+2013-04-01,Cantor Fitzgerald,12 month,5.0,buy,21.43
+2013-04-02,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-04-03,Albert Fried & Company,12 month,1.0,underweight,9.71
+2013-04-04,Wedbush,12 month,1.0,underperform,7.86
+2013-04-05,Cantor Fitzgerald,12 month,5.0,buy,25.71
+2013-04-09,Piper Jaffray,12 month,3.0,neutral,24.29
+2013-04-11,Goldman Sachs,12 month,3.0,neutral/attractive,26.29
+2013-04-12,Barclays,Not Provided,3.0,equalweight,27.14
+2013-04-12,Janney Montgomery Scott LLC,12 month,5.0,buy,27.14
+2013-04-12,Cowen,Not Provided,3.0,neutral,-0.0
+2013-04-12,Bernstein,12 month,3.0,market perform,17.86
+2013-04-12,Cantor Fitzgerald,12 month,5.0,buy,25.71
+2013-04-12,Evercore ISI,12 month,1.0,underweight,16.43
+2013-04-15,BTIG LLC,Not Provided,5.0,buy,35.71
+2013-04-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-04-15,B Riley & Co,Not Provided,1.0,sell,12.86
+2013-04-16,Northland Securities Inc,12 month,1.0,underperform,11.43
+2013-04-16,Wedbush,12 month,1.0,underperform,7.86
+2013-04-17,Morgan Stanley,12 month,5.0,Overwt/Attractive,28.57
+2013-04-17,Pacific Crest Securities,12 month,5.0,outperform,32.14
+2013-04-18,Piper Jaffray,12 month,3.0,neutral,24.29
+2013-04-19,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-04-19,Bernstein,12 month,3.0,market perform,17.86
+2013-04-19,J.P. Morgan,9 month,5.0,overweight,29.29
+2013-04-19,National Alliance Capital Markets,12 month,4.0,accumulate,26.66
+2013-04-19,RBC Capital Markets,12 month,5.0,outperform,30.0
+2013-04-21,Evercore ISI,12 month,1.0,underweight,16.43
+2013-04-22,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2013-04-22,S&P Capital IQ,Not Provided,3.0,hold,29.14
+2013-04-22,Cantor Fitzgerald,12 month,5.0,buy,25.71
+2013-04-22,Goldman Sachs,12 month,3.0,neutral/attractive,30.0
+2013-04-22,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2013-04-22,B Riley & Co,Not Provided,3.0,neutral,23.57
+2013-04-22,MKM Partners,12 month,5.0,buy,35.71
+2013-04-22,Lazard Capital Markets,12 month,5.0,buy,35.71
+2013-04-23,Dougherty & Company LLC,12 month,3.0,neutral,10.29
+2013-04-23,Barclays,Not Provided,3.0,equalweight,31.43
+2013-04-23,Piper Jaffray,12 month,3.0,neutral,27.71
+2013-04-23,S&P Capital IQ,Not Provided,3.0,hold,32.14
+2013-04-23,Oppenheimer & Co,18 month,3.0,market perform,27.86
+2013-04-23,Cowen,Not Provided,3.0,neutral,-0.0
+2013-04-23,Wedbush,12 month,1.0,underperform,9.29
+2013-04-23,National Alliance Capital Markets,12 month,5.0,buy,38.19
+2013-04-23,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2013-04-23,Atlantic Equities LLP,12 month,3.0,neutral,31.43
+2013-04-23,MKM Partners,12 month,5.0,buy,35.71
+2013-04-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-04-23,Northland Securities Inc,12 month,1.0,underperform,21.43
+2013-04-23,Pacific Crest Securities,12 month,5.0,outperform,32.86
+2013-04-23,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2013-04-23,Jefferies,12 month,1.0,underperform,22.86
+2013-04-23,Bernstein,12 month,3.0,market perform,17.86
+2013-04-23,B Riley & Co,Not Provided,3.0,neutral,25.71
+2013-04-23,Morgan Stanley,12 month,5.0,Overwt/Attractive,33.57
+2013-04-23,Stifel,Not Provided,3.0,hold,-0.0
+2013-04-23,Albert Fried & Company,12 month,1.0,underweight,11.43
+2013-04-23,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-04-23,RBC Capital Markets,12 month,5.0,outperform,35.71
+2013-04-23,BMO Capital Markets,Not Provided,3.0,market perform,29.29
+2013-04-23,Susquehanna Financial,12 month,3.0,neutral,32.0
+2013-04-23,Janney Montgomery Scott LLC,12 month,5.0,buy,35.71
+2013-04-23,J.P. Morgan,3 month,5.0,overweight,36.29
+2013-04-25,Daiwa Securities,Not Provided,1.0,underperform,27.29
+2013-04-25,Credit Suisse,Not Provided,3.0,neutral,29.14
+2013-04-26,Lazard Capital Markets,12 month,5.0,buy,46.43
+2013-04-29,Evercore ISI,12 month,1.0,underweight,18.57
+2013-04-29,Cantor Fitzgerald,12 month,5.0,buy,32.86
+2013-05-01,Albert Fried & Company,12 month,1.0,underweight,11.43
+2013-05-03,Lazard Capital Markets,12 month,5.0,buy,46.43
+2013-05-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-05-03,Bernstein,12 month,3.0,market perform,17.86
+2013-05-06,Cantor Fitzgerald,12 month,5.0,buy,32.86
+2013-05-10,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-05-10,Cantor Fitzgerald,12 month,5.0,buy,32.86
+2013-05-14,RBC Capital Markets,12 month,5.0,outperform,35.71
+2013-05-15,Albert Fried & Company,12 month,1.0,underweight,11.43
+2013-05-17,Bernstein,12 month,3.0,market perform,17.86
+2013-05-17,Macquarie,12 month,3.0,neutral,32.86
+2013-05-17,Cantor Fitzgerald,12 month,5.0,buy,32.86
+2013-05-20,BMO Capital Markets,Not Provided,3.0,market perform,29.29
+2013-05-24,Cantor Fitzgerald,12 month,5.0,buy,32.86
+2013-05-24,Bernstein,12 month,3.0,market perform,17.86
+2013-05-29,Stifel,Not Provided,3.0,hold,-0.0
+2013-05-31,Cantor Fitzgerald,12 month,5.0,buy,32.86
+2013-06-03,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2013-06-03,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-06-05,Stifel,Not Provided,3.0,hold,-0.0
+2013-06-06,Macquarie,12 month,3.0,neutral,32.86
+2013-06-07,Cantor Fitzgerald,12 month,5.0,buy,32.86
+2013-06-07,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-06-07,BMO Capital Markets,Not Provided,3.0,market perform,29.29
+2013-06-07,Bernstein,12 month,3.0,market perform,17.86
+2013-06-10,Albert Fried & Company,12 month,1.0,underweight,11.43
+2013-06-13,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-06-14,Cantor Fitzgerald,12 month,5.0,buy,32.86
+2013-06-14,Evercore ISI,12 month,1.0,underweight,18.57
+2013-06-14,Bernstein,12 month,3.0,market perform,17.86
+2013-06-14,RBC Capital Markets,12 month,5.0,outperform,35.71
+2013-06-17,Morgan Stanley,12 month,5.0,Overwt/Attractive,33.57
+2013-06-17,Wedbush,12 month,1.0,underperform,9.29
+2013-06-17,Lazard Capital Markets,12 month,5.0,buy,46.43
+2013-06-17,S&P Capital IQ,Not Provided,3.0,hold,32.14
+2013-06-19,BMO Capital Markets,Not Provided,3.0,market perform,29.29
+2013-06-21,Cantor Fitzgerald,12 month,5.0,buy,32.86
+2013-06-24,Piper Jaffray,12 month,3.0,neutral,27.71
+2013-06-24,Albert Fried & Company,12 month,1.0,underweight,11.43
+2013-06-25,Bernstein,12 month,1.0,underperform,25.71
+2013-06-28,Bernstein,12 month,1.0,underperform,25.71
+2013-06-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-06-28,Cantor Fitzgerald,12 month,5.0,buy,32.86
+2013-07-02,Cowen,12 month,3.0,market perform,27.29
+2013-07-05,Cantor Fitzgerald,12 month,5.0,buy,32.86
+2013-07-08,Bernstein,12 month,1.0,underperform,25.71
+2013-07-09,RBC Capital Markets,12 month,5.0,outperform,35.71
+2013-07-10,Pacific Crest Securities,12 month,5.0,outperform,32.86
+2013-07-12,Morgan Stanley,12 month,5.0,Overwt/Attractive,35.71
+2013-07-12,Barclays,Not Provided,3.0,equalweight,35.71
+2013-07-12,Albert Fried & Company,12 month,1.0,underweight,11.43
+2013-07-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-07-15,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2013-07-15,Bernstein,12 month,1.0,underperform,25.71
+2013-07-16,Hudson Square Research,Not Provided,5.0,buy,46.43
+2013-07-16,Stifel,Not Provided,3.0,hold,-0.0
+2013-07-16,Cowen,12 month,3.0,market perform,27.29
+2013-07-18,S&P Capital IQ,Not Provided,3.0,hold,32.14
+2013-07-22,Evercore ISI,12 month,1.0,underweight,21.43
+2013-07-22,Oppenheimer & Co,18 month,3.0,market perform,37.0
+2013-07-22,Albert Fried & Company,12 month,1.0,underweight,11.43
+2013-07-22,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2013-07-22,BMO Capital Markets,Not Provided,3.0,market perform,33.71
+2013-07-22,Cantor Fitzgerald,12 month,3.0,hold,37.14
+2013-07-23,Cowen,12 month,3.0,market perform,27.29
+2013-07-23,Credit Suisse,Not Provided,3.0,neutral,33.71
+2013-07-23,Dougherty & Company LLC,12 month,3.0,neutral,10.29
+2013-07-23,Jefferies,12 month,1.0,underperform,22.86
+2013-07-23,J.P. Morgan,15 month,5.0,overweight,41.43
+2013-07-23,Wedbush,12 month,1.0,underperform,11.43
+2013-07-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-07-23,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-07-23,Macquarie,12 month,3.0,neutral,32.86
+2013-07-23,Stifel,Not Provided,3.0,hold,-0.0
+2013-07-23,Goldman Sachs,12 month,3.0,neutral/attractive,40.0
+2013-07-23,Atlantic Equities LLP,12 month,3.0,neutral,31.43
+2013-07-23,Piper Jaffray,12 month,3.0,neutral,35.0
+2013-07-23,Northland Securities Inc,12 month,3.0,market perform,32.14
+2013-07-23,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2013-07-23,Janney Montgomery Scott LLC,12 month,5.0,buy,35.71
+2013-07-23,RBC Capital Markets,12 month,5.0,outperform,40.0
+2013-07-23,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-07-23,Barclays,Not Provided,3.0,equalweight,35.71
+2013-07-23,Lazard Capital Markets,12 month,5.0,buy,46.43
+2013-07-23,Bernstein,12 month,1.0,underperform,25.71
+2013-07-23,Morgan Stanley,12 month,5.0,Overwt/Attractive,38.57
+2013-07-24,MKM Partners,12 month,5.0,buy,40.71
+2013-07-25,Daiwa Securities,Not Provided,1.0,underperform,30.0
+2013-07-26,Bernstein,12 month,1.0,underperform,25.71
+2013-07-29,Cantor Fitzgerald,12 month,3.0,hold,37.14
+2013-08-05,Lazard Capital Markets,12 month,5.0,buy,46.43
+2013-08-05,Cantor Fitzgerald,12 month,3.0,hold,37.14
+2013-08-08,Baird,12 month,3.0,neutral,37.57
+2013-08-12,Cantor Fitzgerald,12 month,3.0,hold,37.14
+2013-08-16,Bernstein,12 month,1.0,underperform,25.71
+2013-08-16,Cantor Fitzgerald,12 month,3.0,hold,37.14
+2013-08-20,Lazard Capital Markets,12 month,5.0,buy,46.43
+2013-08-20,Albert Fried & Company,12 month,1.0,underweight,11.43
+2013-08-21,Baird,12 month,3.0,neutral,37.57
+2013-08-21,Janney Montgomery Scott LLC,12 month,5.0,buy,35.71
+2013-08-23,Bernstein,12 month,1.0,underperform,25.71
+2013-08-28,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-09-05,RBC Capital Markets,12 month,5.0,outperform,47.14
+2013-09-05,Morgan Stanley,12 month,5.0,Overwt/Attractive,44.86
+2013-09-06,Cantor Fitzgerald,12 month,3.0,hold,37.14
+2013-09-06,Bernstein,12 month,1.0,underperform,25.71
+2013-09-10,S&P Capital IQ,Not Provided,3.0,hold,32.14
+2013-09-11,BTIG LLC,Not Provided,3.0,neutral,-0.0
+2013-09-11,Lazard Capital Markets,12 month,5.0,buy,50.0
+2013-09-12,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-09-13,Cantor Fitzgerald,12 month,3.0,hold,37.14
+2013-09-16,Bernstein,12 month,1.0,underperform,25.71
+2013-09-19,CRT Capital Group,Not Provided,3.0,Fairly Valued,-0.0
+2013-09-20,Albert Fried & Company,12 month,1.0,underweight,17.43
+2013-09-20,Bernstein,12 month,1.0,underperform,25.71
+2013-09-20,Cantor Fitzgerald,12 month,3.0,hold,37.14
+2013-09-25,CRT Capital Group,Not Provided,3.0,Fairly Valued,-0.0
+2013-09-27,Cantor Fitzgerald,12 month,3.0,hold,37.14
+2013-09-30,Albert Fried & Company,12 month,1.0,underweight,17.43
+2013-09-30,Janney Montgomery Scott LLC,12 month,5.0,buy,35.71
+2013-10-01,MKM Partners,12 month,5.0,buy,52.86
+2013-10-04,Cantor Fitzgerald,12 month,3.0,hold,37.14
+2013-10-04,Wedbush,12 month,1.0,underperform,11.43
+2013-10-08,Piper Jaffray,12 month,3.0,neutral,35.0
+2013-10-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-10-10,RBC Capital Markets,12 month,5.0,outperform,47.14
+2013-10-10,Bernstein,12 month,1.0,underperform,25.71
+2013-10-10,Needham & Co,12 month,5.0,buy,60.71
+2013-10-11,Cantor Fitzgerald,12 month,3.0,hold,37.14
+2013-10-14,MoffettNathanson,Not Provided,3.0,neutral,45.71
+2013-10-14,CRT Capital Group,Not Provided,3.0,Fairly Valued,-0.0
+2013-10-14,J.P. Morgan,12 month,5.0,overweight,48.57
+2013-10-14,Cowen,12 month,3.0,market perform,27.29
+2013-10-15,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-10-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-10-16,Hudson Square Research,Not Provided,3.0,hold,-0.0
+2013-10-16,Janney Montgomery Scott LLC,12 month,5.0,buy,35.71
+2013-10-16,Wedbush,12 month,1.0,underperform,20.0
+2013-10-16,Albert Fried & Company,12 month,1.0,underweight,17.43
+2013-10-17,Macquarie,12 month,3.0,neutral,42.86
+2013-10-17,Northland Securities Inc,12 month,3.0,market perform,42.86
+2013-10-21,Cantor Fitzgerald,12 month,3.0,hold,50.0
+2013-10-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-10-21,Evercore ISI,12 month,3.0,equalweight,50.0
+2013-10-21,BMO Capital Markets,Not Provided,3.0,market perform,52.86
+2013-10-22,Credit Suisse,Not Provided,3.0,neutral,49.14
+2013-10-22,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2013-10-22,Piper Jaffray,12 month,3.0,neutral,56.86
+2013-10-22,Wedbush,12 month,1.0,underperform,22.86
+2013-10-22,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2013-10-22,Atlantic Equities LLP,12 month,3.0,neutral,48.57
+2013-10-22,J.P. Morgan,12 month,5.0,overweight,65.71
+2013-10-22,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2013-10-22,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2013-10-22,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2013-10-22,Jefferies,12 month,1.0,underperform,30.71
+2013-10-22,Macquarie,12 month,3.0,neutral,53.57
+2013-10-22,Northland Securities Inc,12 month,3.0,market perform,51.43
+2013-10-22,Oppenheimer & Co,18 month,3.0,market perform,62.0
+2013-10-22,Bernstein,12 month,1.0,underperform,31.43
+2013-10-22,RBC Capital Markets,12 month,5.0,outperform,62.86
+2013-10-22,Needham & Co,12 month,5.0,buy,60.71
+2013-10-22,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-22,Baird,12 month,3.0,neutral,54.71
+2013-10-22,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2013-10-22,Janney Montgomery Scott LLC,12 month,5.0,buy,64.29
+2013-10-22,Goldman Sachs,12 month,3.0,neutral/attractive,51.43
+2013-10-22,S&P Capital IQ,Not Provided,1.0,sell,52.14
+2013-10-22,Gabelli & Co,Not Provided,3.0,hold,-0.0
+2013-10-22,Cowen,12 month,3.0,market perform,47.57
+2013-10-22,CRT Capital Group,Not Provided,3.0,Fairly Valued,-0.0
+2013-10-23,Daiwa Securities,Not Provided,1.0,underperform,42.86
+2013-10-23,MKM Partners,12 month,5.0,buy,52.86
+2013-10-23,Albert Fried & Company,12 month,1.0,underweight,17.43
+2013-10-24,FBR Capital Markets,12 month,3.0,market perform,50.0
+2013-10-25,Janney Montgomery Scott LLC,12 month,5.0,buy,64.29
+2013-10-28,Cantor Fitzgerald,12 month,3.0,hold,50.0
+2013-10-28,Bernstein,12 month,1.0,underperform,31.43
+2013-11-01,Baird,12 month,5.0,outperform,60.0
+2013-11-04,Cantor Fitzgerald,12 month,3.0,hold,50.0
+2013-11-05,Bernstein,12 month,1.0,underperform,31.43
+2013-11-07,CRT Capital Group,Not Provided,3.0,Fairly Valued,-0.0
+2013-11-08,Bernstein,12 month,1.0,underperform,31.43
+2013-11-11,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-11-11,Baird,12 month,5.0,outperform,60.0
+2013-11-11,Cantor Fitzgerald,12 month,3.0,hold,50.0
+2013-11-14,Stifel,Not Provided,3.0,hold,-0.0
+2013-11-15,Cantor Fitzgerald,12 month,3.0,hold,50.0
+2013-11-15,Bernstein,12 month,1.0,underperform,31.43
+2013-11-20,Janney Montgomery Scott LLC,12 month,5.0,buy,64.29
+2013-11-22,Cantor Fitzgerald,12 month,3.0,hold,50.0
+2013-11-25,Baird,12 month,5.0,outperform,60.0
+2013-11-25,Needham & Co,12 month,5.0,buy,60.71
+2013-12-02,Goldman Sachs,12 month,3.0,neutral/neutral,51.43
+2013-12-06,Bernstein,12 month,1.0,underperform,31.43
+2013-12-06,Cantor Fitzgerald,12 month,3.0,hold,50.0
+2013-12-11,Needham & Co,12 month,5.0,buy,60.71
+2013-12-11,Janney Montgomery Scott LLC,12 month,5.0,buy,64.29
+2013-12-12,RBC Capital Markets,12 month,5.0,outperform,62.86
+2013-12-13,Cantor Fitzgerald,12 month,3.0,hold,50.0
+2013-12-16,Baird,12 month,5.0,outperform,60.0
+2013-12-18,Wedbush,12 month,1.0,underperform,22.86
+2013-12-19,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2013-12-20,Bernstein,12 month,1.0,underperform,31.43
+2013-12-20,Cantor Fitzgerald,12 month,3.0,hold,50.0
+2013-12-23,Needham & Co,12 month,5.0,buy,60.71
+2013-12-30,Wedbush,12 month,1.0,underperform,22.86
+2013-12-31,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2014-01-02,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-02,Janney Montgomery Scott LLC,12 month,5.0,buy,64.29
+2014-01-06,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2014-01-07,Morgan Stanley,12 month,1.0,Underwt/In-Line,44.29
+2014-01-09,J.P. Morgan,12 month,5.0,overweight,65.71
+2014-01-10,Bernstein,12 month,1.0,underperform,31.43
+2014-01-10,Cantor Fitzgerald,12 month,3.0,hold,50.0
+2014-01-13,Needham & Co,Not Provided,5.0,buy,60.71
+2014-01-13,Baird,12 month,5.0,outperform,60.0
+2014-01-14,Nomura,12 month,3.0,neutral,51.43
+2014-01-14,FBN Securities,12 month,5.0,outperform,60.71
+2014-01-14,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2014-01-14,Wedbush,12 month,1.0,underperform,22.86
+2014-01-14,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,-0.0
+2014-01-15,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,-0.0
+2014-01-15,S&P Capital IQ,Not Provided,1.0,sell,52.14
+2014-01-15,MKM Partners,12 month,5.0,buy,62.86
+2014-01-16,J.P. Morgan,12 month,5.0,overweight,65.71
+2014-01-17,RBC Capital Markets,12 month,5.0,outperform,62.86
+2014-01-17,Hudson Square Research,Not Provided,3.0,hold,-0.0
+2014-01-17,Cantor Fitzgerald,12 month,3.0,hold,50.0
+2014-01-21,Cowen,12 month,3.0,market perform,47.57
+2014-01-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-01-21,Wedge Partners,Not Provided,-2147483648.0,no rating system,-0.0
+2014-01-21,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2014-01-21,CRT Capital Group,12 month,3.0,Fairly Valued,50.71
+2014-01-21,Bernstein,12 month,1.0,underperform,31.43
+2014-01-21,Needham & Co,12 month,5.0,buy,60.71
+2014-01-22,Oppenheimer & Co,12 month,3.0,market perform,59.86
+2014-01-22,Wedbush,12 month,1.0,underperform,25.0
+2014-01-22,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-22,Northland Securities Inc,12 month,3.0,market perform,46.43
+2014-01-22,Janney Montgomery Scott LLC,12 month,5.0,buy,64.29
+2014-01-22,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2014-01-23,MKM Partners,12 month,5.0,buy,62.86
+2014-01-23,MoffettNathanson,Not Provided,3.0,neutral,45.71
+2014-01-23,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2014-01-23,Daiwa Securities,Not Provided,3.0,neutral,50.0
+2014-01-23,Northland Securities Inc,12 month,3.0,market perform,53.57
+2014-01-23,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-01-23,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2014-01-23,Needham & Co,12 month,5.0,buy,60.71
+2014-01-23,Janney Montgomery Scott LLC,12 month,5.0,buy,64.29
+2014-01-23,CRT Capital Group,12 month,5.0,buy,68.0
+2014-01-23,Bernstein,12 month,1.0,underperform,31.43
+2014-01-23,Baird,12 month,5.0,outperform,67.14
+2014-01-23,Morgan Stanley,Not Provided,1.0,Underwt/In-Line,-0.0
+2014-01-23,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-01-23,Credit Suisse,Not Provided,3.0,neutral,49.86
+2014-01-23,RBC Capital Markets,12 month,5.0,outperform,71.43
+2014-01-23,Hudson Square Research,Not Provided,3.0,hold,-0.0
+2014-01-23,FBR Capital Markets,12 month,3.0,market perform,50.86
+2014-01-23,Cowen,12 month,3.0,market perform,50.71
+2014-01-23,Nomura,12 month,3.0,neutral,53.57
+2014-01-23,Pacific Crest Securities,Not Provided,3.0,sector perform,-0.0
+2014-01-23,J.P. Morgan,9 month,5.0,overweight,71.43
+2014-01-23,BMO Capital Markets,Not Provided,3.0,market perform,52.86
+2014-01-23,Piper Jaffray,12 month,3.0,neutral,58.86
+2014-01-23,Goldman Sachs,12 month,3.0,neutral/neutral,57.86
+2014-01-23,Jefferies,12 month,1.0,underperform,35.71
+2014-01-23,FBN Securities,12 month,5.0,outperform,67.86
+2014-01-24,S&P Capital IQ,12 month,3.0,hold,57.14
+2014-01-27,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-01-28,Macquarie,12 month,3.0,neutral,57.14
+2014-01-29,Evercore ISI,12 month,3.0,equalweight,50.0
+2014-01-31,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-02-03,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-02-06,Stifel,12 month,5.0,buy,67.86
+2014-02-07,Bernstein,12 month,1.0,underperform,31.43
+2014-02-10,J.P. Morgan,9 month,5.0,overweight,71.43
+2014-02-10,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-02-14,CRT Capital Group,Not Provided,5.0,buy,68.0
+2014-02-14,Nomura,12 month,3.0,neutral,53.57
+2014-02-14,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-02-14,Baird,12 month,5.0,outperform,67.14
+2014-02-18,Bernstein,12 month,1.0,underperform,31.43
+2014-02-24,J.P. Morgan,9 month,5.0,overweight,71.43
+2014-02-24,Janney Montgomery Scott LLC,12 month,5.0,buy,64.29
+2014-02-24,Cowen,12 month,3.0,market perform,50.71
+2014-02-24,Nomura,12 month,3.0,neutral,53.57
+2014-02-24,FBR Capital Markets,12 month,3.0,market perform,50.86
+2014-02-24,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-02-24,Wedbush,12 month,1.0,underperform,25.0
+2014-02-24,Needham & Co,12 month,5.0,buy,75.0
+2014-02-27,Bernstein,12 month,1.0,underperform,37.14
+2014-02-28,Bernstein,12 month,1.0,underperform,37.14
+2014-02-28,Baird,12 month,5.0,outperform,67.14
+2014-02-28,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-03-03,Hudson Square Research,Not Provided,3.0,hold,-0.0
+2014-03-04,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-03-07,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-03-07,Bernstein,12 month,1.0,underperform,37.14
+2014-03-09,RBC Capital Markets,12 month,5.0,outperform,71.43
+2014-03-11,CRT Capital Group,Not Provided,5.0,buy,72.14
+2014-03-14,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-03-14,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-03-21,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-03-21,Bernstein,12 month,1.0,underperform,37.14
+2014-03-26,Wedbush,12 month,1.0,underperform,25.0
+2014-03-27,Baird,12 month,5.0,outperform,67.14
+2014-03-27,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-03-28,Bernstein,12 month,1.0,underperform,37.14
+2014-03-28,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-04-02,Stifel,12 month,5.0,buy,67.86
+2014-04-03,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-04-04,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-04-07,Oppenheimer & Co,18 month,5.0,outperform,59.86
+2014-04-07,MKM Partners,12 month,5.0,buy,62.86
+2014-04-08,Piper Jaffray,12 month,3.0,neutral,58.86
+2014-04-09,Bernstein,12 month,1.0,underperform,37.14
+2014-04-09,RBC Capital Markets,12 month,5.0,outperform,71.43
+2014-04-10,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-04-10,Hudson Square Research,12 month,5.0,buy,58.43
+2014-04-11,Nomura,12 month,3.0,neutral,53.57
+2014-04-13,BMO Capital Markets,Not Provided,3.0,market perform,52.86
+2014-04-13,Wedbush,12 month,1.0,underperform,25.0
+2014-04-14,Stifel,12 month,5.0,buy,67.86
+2014-04-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-14,Cantor Fitzgerald,12 month,3.0,hold,57.86
+2014-04-14,MoffettNathanson,Not Provided,3.0,neutral,45.71
+2014-04-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-04-16,Baird,12 month,5.0,outperform,67.14
+2014-04-17,Bernstein,12 month,1.0,underperform,37.14
+2014-04-17,FBR Capital Markets,12 month,3.0,market perform,50.86
+2014-04-17,Pacific Crest Securities,12 month,5.0,outperform,71.43
+2014-04-17,Goldman Sachs,12 month,3.0,neutral/neutral,52.86
+2014-04-17,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-04-17,CRT Capital Group,12 month,5.0,buy,72.14
+2014-04-17,Cowen,12 month,3.0,market perform,50.71
+2014-04-17,J.P. Morgan,9 month,5.0,overweight,71.43
+2014-04-17,Needham & Co,12 month,5.0,buy,75.0
+2014-04-17,RBC Capital Markets,12 month,5.0,outperform,71.43
+2014-04-21,Jefferies,12 month,1.0,underperform,42.86
+2014-04-21,Stifel,12 month,5.0,buy,67.86
+2014-04-22,Macquarie,12 month,3.0,neutral,57.14
+2014-04-22,Wedbush,12 month,1.0,underperform,30.71
+2014-04-22,BMO Capital Markets,Not Provided,3.0,market perform,57.14
+2014-04-22,Needham & Co,12 month,5.0,buy,75.0
+2014-04-22,Credit Suisse,Not Provided,3.0,neutral,52.71
+2014-04-22,Goldman Sachs,12 month,3.0,neutral/neutral,54.29
+2014-04-22,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-04-22,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2014-04-22,FBN Securities,12 month,5.0,outperform,71.43
+2014-04-22,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2014-04-22,Janney Montgomery Scott LLC,12 month,5.0,buy,64.29
+2014-04-22,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-04-22,Atlantic Equities LLP,12 month,3.0,neutral,56.43
+2014-04-22,Evercore ISI,12 month,3.0,equalweight,57.14
+2014-04-22,J.P. Morgan,6 month,5.0,overweight,71.43
+2014-04-22,Piper Jaffray,12 month,3.0,neutral,62.0
+2014-04-22,RBC Capital Markets,12 month,5.0,outperform,71.43
+2014-04-22,MoffettNathanson,Not Provided,3.0,neutral,53.57
+2014-04-22,Hudson Square Research,12 month,5.0,buy,58.43
+2014-04-22,Raymond James,12 month,5.0,outperform,64.29
+2014-04-22,Northland Securities Inc,12 month,3.0,market perform,55.0
+2014-04-22,Nomura,12 month,3.0,neutral,58.57
+2014-04-22,Pacific Crest Securities,12 month,5.0,outperform,74.29
+2014-04-22,CRT Capital Group,12 month,5.0,buy,69.29
+2014-04-22,Cantor Fitzgerald,12 month,5.0,buy,60.71
+2014-04-22,Oppenheimer & Co,12 month,5.0,outperform,62.14
+2014-04-22,Baird,12 month,5.0,outperform,67.14
+2014-04-23,Bernstein,12 month,1.0,underperform,37.14
+2014-04-23,MKM Partners,12 month,5.0,buy,62.86
+2014-04-23,Cowen,12 month,3.0,market perform,50.71
+2014-04-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-24,FBR Capital Markets,12 month,3.0,market perform,56.14
+2014-04-25,Daiwa Securities,Not Provided,3.0,neutral,54.29
+2014-04-28,Cantor Fitzgerald,12 month,5.0,buy,60.71
+2014-04-28,MKM Partners,12 month,5.0,buy,62.86
+2014-04-29,Pacific Crest Securities,12 month,5.0,outperform,74.29
+2014-05-02,Bernstein,12 month,1.0,underperform,37.14
+2014-05-05,Cantor Fitzgerald,12 month,5.0,buy,60.71
+2014-05-09,Bernstein,12 month,1.0,underperform,37.14
+2014-05-12,MKM Partners,12 month,5.0,buy,62.14
+2014-05-14,Nomura,12 month,3.0,neutral,57.86
+2014-05-14,CRT Capital Group,12 month,5.0,buy,69.29
+2014-05-14,Pacific Crest Securities,12 month,5.0,outperform,74.29
+2014-05-15,Raymond James,12 month,5.0,outperform,64.29
+2014-05-16,Cantor Fitzgerald,12 month,5.0,buy,60.71
+2014-05-21,Hudson Square Research,12 month,5.0,buy,58.43
+2014-05-21,FBR Capital Markets,12 month,3.0,market perform,56.14
+2014-05-22,Nomura,12 month,3.0,neutral,57.86
+2014-05-22,RBC Capital Markets,12 month,5.0,outperform,71.43
+2014-05-23,Bernstein,Not Provided,1.0,underperform,37.14
+2014-05-23,Cantor Fitzgerald,Not Provided,5.0,buy,60.71
+2014-05-23,Topeka Capital Markets Inc,12 month,5.0,buy,60.14
+2014-05-27,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-05-27,Janney Montgomery Scott LLC,12 month,5.0,buy,64.29
+2014-05-29,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-05-30,Bernstein,Not Provided,1.0,underperform,37.14
+2014-05-30,Cantor Fitzgerald,Not Provided,5.0,buy,60.71
+2014-06-01,RBC Capital Markets,12 month,5.0,outperform,71.43
+2014-06-02,Oppenheimer & Co,12 month,5.0,outperform,71.43
+2014-06-02,Baird,12 month,5.0,outperform,67.14
+2014-06-02,MKM Partners,12 month,5.0,buy,62.14
+2014-06-05,J.P. Morgan,3 month,5.0,overweight,71.43
+2014-06-06,Bernstein,Not Provided,1.0,underperform,37.14
+2014-06-06,Topeka Capital Markets Inc,12 month,5.0,buy,73.86
+2014-06-06,Cantor Fitzgerald,Not Provided,5.0,buy,60.71
+2014-06-09,Evercore ISI,12 month,5.0,overweight,71.43
+2014-06-09,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-06-13,Cantor Fitzgerald,Not Provided,5.0,buy,60.71
+2014-06-13,Bernstein,Not Provided,1.0,underperform,37.14
+2014-06-13,Topeka Capital Markets Inc,12 month,5.0,buy,73.86
+2014-06-16,Pacific Crest Securities,12 month,5.0,outperform,74.29
+2014-06-16,Morgan Stanley,Not Provided,3.0,Equalwt/Attractive,-0.0
+2014-06-19,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-06-20,Cantor Fitzgerald,Not Provided,5.0,buy,60.71
+2014-06-20,Bernstein,Not Provided,1.0,underperform,37.14
+2014-06-20,Morgan Stanley,12 month,5.0,Overwt/Attractive,71.43
+2014-06-25,Barclays,Not Provided,1.0,underweight,60.0
+2014-06-26,Needham & Co,Not Provided,5.0,buy,75.0
+2014-06-27,Cantor Fitzgerald,Not Provided,5.0,buy,60.71
+2014-06-27,Bernstein,Not Provided,1.0,underperform,37.14
+2014-06-30,Goldman Sachs,12 month,5.0,Buy/Neutral,84.29
+2014-07-02,Cantor Fitzgerald,12 month,5.0,buy,60.71
+2014-07-03,Piper Jaffray,12 month,3.0,neutral,62.0
+2014-07-07,Needham & Co,12 month,5.0,buy,75.0
+2014-07-07,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-07-08,Baird,12 month,5.0,outperform,72.14
+2014-07-09,Stifel,12 month,5.0,buy,67.86
+2014-07-10,RBC Capital Markets,12 month,5.0,outperform,71.43
+2014-07-11,Cantor Fitzgerald,Not Provided,5.0,buy,60.71
+2014-07-11,Bernstein,Not Provided,1.0,underperform,37.14
+2014-07-11,Raymond James,12 month,5.0,outperform,71.43
+2014-07-11,J.P. Morgan,Not Provided,5.0,overweight,71.43
+2014-07-14,Topeka Capital Markets Inc,12 month,5.0,buy,73.86
+2014-07-14,BMO Capital Markets,Not Provided,3.0,market perform,57.14
+2014-07-14,Needham & Co,Not Provided,5.0,buy,75.0
+2014-07-15,Nomura,12 month,3.0,neutral,57.86
+2014-07-16,CM Research,Not Provided,1.0,sell,48.14
+2014-07-17,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-07-21,Oppenheimer & Co,12 month,5.0,outperform,76.43
+2014-07-21,Evercore ISI,12 month,5.0,overweight,75.0
+2014-07-21,Stifel,12 month,5.0,buy,71.43
+2014-07-21,Raymond James,12 month,5.0,outperform,71.43
+2014-07-21,Goldman Sachs,12 month,5.0,Buy/Neutral,78.57
+2014-07-21,Pacific Crest Securities,12 month,5.0,outperform,75.71
+2014-07-22,FBR Capital Markets,Not Provided,3.0,market perform,62.86
+2014-07-22,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2014-07-22,Macquarie,12 month,3.0,neutral,57.14
+2014-07-22,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2014-07-22,CRT Capital Group,12 month,5.0,buy,72.86
+2014-07-22,J.P. Morgan,12 month,5.0,overweight,78.57
+2014-07-22,Hudson Square Research,12 month,5.0,buy,75.0
+2014-07-22,Piper Jaffray,12 month,3.0,neutral,62.0
+2014-07-22,Janney Montgomery Scott LLC,12 month,5.0,buy,75.0
+2014-07-22,Jefferies,12 month,1.0,underperform,50.0
+2014-07-22,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-07-22,Cowen,12 month,3.0,market perform,59.29
+2014-07-22,Daiwa Securities,Not Provided,3.0,neutral,61.43
+2014-07-22,Atlantic Equities LLP,12 month,3.0,neutral,60.71
+2014-07-22,Northland Securities Inc,12 month,3.0,market perform,64.29
+2014-07-22,Morgan Stanley,12 month,5.0,Overwt/Attractive,74.29
+2014-07-22,MKM Partners,12 month,5.0,buy,80.71
+2014-07-22,Credit Suisse,Not Provided,3.0,neutral,61.43
+2014-07-22,BMO Capital Markets,Not Provided,3.0,market perform,57.14
+2014-07-22,Needham & Co,12 month,5.0,buy,75.0
+2014-07-22,Baird,12 month,5.0,outperform,72.14
+2014-07-22,Cantor Fitzgerald,12 month,5.0,buy,71.43
+2014-07-22,Topeka Capital Markets Inc,12 month,5.0,buy,73.86
+2014-07-22,FBN Securities,12 month,5.0,outperform,71.43
+2014-07-22,Wedbush,12 month,1.0,underperform,35.0
+2014-07-22,MoffettNathanson,Not Provided,3.0,neutral,57.14
+2014-07-22,Nomura,12 month,3.0,neutral,60.71
+2014-07-22,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-07-22,Barclays,Not Provided,1.0,underweight,60.0
+2014-07-22,S&P Capital IQ,12 month,3.0,hold,64.29
+2014-07-22,RBC Capital Markets,12 month,5.0,outperform,75.71
+2014-07-22,Bernstein,12 month,1.0,underperform,37.14
+2014-07-25,Bernstein,Not Provided,1.0,underperform,37.14
+2014-07-28,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2014-07-28,Needham & Co,12 month,5.0,buy,75.0
+2014-08-01,Bernstein,Not Provided,1.0,underperform,37.14
+2014-08-04,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2014-08-08,Bernstein,Not Provided,1.0,underperform,37.14
+2014-08-08,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2014-08-11,Topeka Capital Markets Inc,12 month,5.0,buy,75.29
+2014-08-15,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2014-08-15,Bernstein,Not Provided,1.0,underperform,37.14
+2014-08-15,RBC Capital Markets,12 month,5.0,outperform,75.71
+2014-08-18,Cowen,Not Provided,3.0,market perform,59.29
+2014-08-19,MKM Partners,12 month,5.0,buy,80.71
+2014-08-19,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-08-21,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-08-22,Bernstein,Not Provided,1.0,underperform,37.14
+2014-08-25,Pacific Crest Securities,12 month,5.0,outperform,75.71
+2014-09-05,Bernstein,Not Provided,1.0,underperform,37.14
+2014-09-05,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2014-09-08,Baird,12 month,5.0,outperform,72.14
+2014-09-08,RBC Capital Markets,12 month,5.0,outperform,85.71
+2014-09-10,SunTrust Robinson Humphrey,12 month,3.0,neutral,75.0
+2014-09-10,Canaccord Genuity,Not Provided,5.0,buy,78.57
+2014-09-10,Wedbush,12 month,1.0,underperform,35.0
+2014-09-11,MoffettNathanson,Not Provided,3.0,neutral,57.14
+2014-09-12,Bernstein,Not Provided,1.0,underperform,37.14
+2014-09-12,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2014-09-12,Barclays,Not Provided,3.0,equalweight,68.57
+2014-09-14,Morgan Stanley,12 month,5.0,Overwt/Attractive,74.29
+2014-09-15,Topeka Capital Markets Inc,12 month,5.0,buy,75.29
+2014-09-17,Janney Montgomery Scott LLC,12 month,5.0,buy,75.0
+2014-09-18,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-09-18,Nomura,12 month,3.0,neutral,60.71
+2014-09-19,Bernstein,Not Provided,1.0,underperform,37.14
+2014-09-22,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2014-09-26,Bernstein,Not Provided,1.0,underperform,37.14
+2014-09-29,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2014-10-01,Janney Montgomery Scott LLC,12 month,5.0,buy,75.0
+2014-10-01,Baird,12 month,5.0,outperform,72.14
+2014-10-02,Pacific Crest Securities,12 month,5.0,outperform,75.71
+2014-10-03,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2014-10-06,Needham & Co,12 month,5.0,buy,75.0
+2014-10-06,Stifel,12 month,5.0,buy,71.43
+2014-10-06,CM Research,Not Provided,1.0,sell,49.14
+2014-10-07,Baird,Not Provided,5.0,outperform,72.14
+2014-10-07,Piper Jaffray,12 month,3.0,neutral,62.0
+2014-10-08,Bernstein,Not Provided,1.0,underperform,37.14
+2014-10-09,Nomura,12 month,3.0,neutral,65.0
+2014-10-09,Needham & Co,12 month,5.0,buy,75.0
+2014-10-09,Evercore ISI,Not Provided,5.0,buy,75.0
+2014-10-09,MKM Partners,12 month,5.0,buy,80.71
+2014-10-10,CRT Capital Group,12 month,5.0,buy,72.86
+2014-10-10,Wedbush,12 month,1.0,underperform,35.0
+2014-10-10,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2014-10-10,Bernstein,Not Provided,1.0,underperform,37.14
+2014-10-10,Cowen,12 month,3.0,market perform,63.71
+2014-10-10,SunTrust Robinson Humphrey,12 month,3.0,neutral,75.0
+2014-10-12,BMO Capital Markets,Not Provided,3.0,market perform,57.14
+2014-10-13,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-10-13,Topeka Capital Markets Inc,12 month,5.0,buy,75.29
+2014-10-13,Canaccord Genuity,12 month,5.0,buy,78.57
+2014-10-14,Credit Suisse,Not Provided,3.0,neutral,61.43
+2014-10-14,BTIG LLC,12 month,5.0,buy,85.71
+2014-10-14,Raymond James,12 month,5.0,outperform,71.43
+2014-10-15,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2014-10-15,Baird,12 month,5.0,outperform,72.14
+2014-10-15,Stifel,12 month,5.0,buy,60.71
+2014-10-15,Pacific Crest Securities,12 month,5.0,outperform,70.0
+2014-10-15,J.P. Morgan,12 month,5.0,overweight,64.29
+2014-10-15,RBC Capital Markets,12 month,5.0,outperform,78.57
+2014-10-16,Morgan Stanley,12 month,5.0,Overwt/Attractive,67.14
+2014-10-16,Barclays,Not Provided,3.0,equalweight,54.29
+2014-10-16,Credit Suisse,Not Provided,3.0,neutral,56.29
+2014-10-16,Baird,12 month,5.0,outperform,72.14
+2014-10-16,MKM Partners,12 month,5.0,buy,75.71
+2014-10-16,Piper Jaffray,12 month,3.0,neutral,49.29
+2014-10-16,Northland Securities Inc,12 month,3.0,market perform,53.57
+2014-10-16,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2014-10-16,Jefferies,12 month,3.0,hold,42.86
+2014-10-16,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-16,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2014-10-16,Canaccord Genuity,Not Provided,5.0,buy,64.29
+2014-10-16,CRT Capital Group,12 month,3.0,Fairly Valued,53.57
+2014-10-16,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2014-10-16,FBN Securities,12 month,5.0,outperform,64.29
+2014-10-16,Nomura,12 month,3.0,neutral,55.71
+2014-10-16,Raymond James,12 month,5.0,outperform,64.29
+2014-10-16,Topeka Capital Markets Inc,12 month,5.0,buy,73.0
+2014-10-16,Needham & Co,12 month,5.0,buy,75.0
+2014-10-16,Cowen,12 month,3.0,market perform,51.43
+2014-10-16,Hudson Square Research,12 month,5.0,buy,75.0
+2014-10-16,MoffettNathanson,Not Provided,3.0,neutral,54.29
+2014-10-16,Macquarie,12 month,3.0,neutral,50.0
+2014-10-16,FBR Capital Markets,Not Provided,3.0,market perform,60.71
+2014-10-16,Janney Montgomery Scott LLC,12 month,5.0,buy,67.14
+2014-10-16,BMO Capital Markets,Not Provided,3.0,market perform,53.57
+2014-10-16,Wedbush,12 month,1.0,underperform,35.0
+2014-10-16,Oppenheimer & Co,12 month,5.0,outperform,61.57
+2014-10-16,Goldman Sachs,12 month,5.0,Buy/Neutral,64.29
+2014-10-16,Atlantic Equities LLP,Not Provided,3.0,neutral,49.29
+2014-10-16,SunTrust Robinson Humphrey,12 month,3.0,neutral,53.57
+2014-10-17,Daiwa Securities,Not Provided,3.0,neutral,53.57
+2014-10-20,Bernstein,12 month,1.0,underperform,37.14
+2014-10-20,Cantor Fitzgerald,Not Provided,5.0,buy,59.29
+2014-10-24,Bernstein,Not Provided,1.0,underperform,37.14
+2014-10-27,Cantor Fitzgerald,Not Provided,5.0,buy,59.29
+2014-10-28,Evercore ISI,12 month,3.0,hold,61.43
+2014-10-31,Bernstein,Not Provided,1.0,underperform,37.14
+2014-11-03,Cantor Fitzgerald,Not Provided,5.0,buy,59.29
+2014-11-07,RBC Capital Markets,12 month,5.0,outperform,78.57
+2014-11-10,Nomura,12 month,3.0,neutral,55.71
+2014-11-10,Cantor Fitzgerald,Not Provided,5.0,buy,59.29
+2014-11-11,Bernstein,Not Provided,1.0,underperform,37.14
+2014-11-14,Bernstein,Not Provided,1.0,underperform,37.14
+2014-11-17,RBC Capital Markets,12 month,5.0,outperform,78.57
+2014-11-17,Cantor Fitzgerald,12 month,5.0,buy,59.29
+2014-11-19,FBR Capital Markets,Not Provided,3.0,market perform,60.71
+2014-11-19,CRT Capital Group,12 month,3.0,Fairly Valued,53.57
+2014-11-19,Nomura,12 month,3.0,neutral,55.71
+2014-11-21,Bernstein,Not Provided,1.0,underperform,37.14
+2014-11-23,BMO Capital Markets,Not Provided,3.0,market perform,53.57
+2014-11-24,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2014-11-25,Stifel,Not Provided,3.0,hold,-0.0
+2014-11-25,Cantor Fitzgerald,12 month,5.0,buy,59.29
+2014-12-04,RBC Capital Markets,12 month,5.0,outperform,78.57
+2014-12-05,UBS,12 month,3.0,neutral,52.86
+2014-12-05,Cantor Fitzgerald,Not Provided,5.0,buy,59.29
+2014-12-09,SunTrust Robinson Humphrey,12 month,3.0,neutral,53.57
+2014-12-09,Oppenheimer & Co,12 month,5.0,outperform,61.57
+2014-12-10,MoffettNathanson,Not Provided,3.0,neutral,54.29
+2014-12-11,RBC Capital Markets,12 month,5.0,outperform,78.57
+2014-12-12,Topeka Capital Markets Inc,12 month,5.0,buy,73.0
+2014-12-15,Needham & Co,12 month,5.0,buy,75.0
+2014-12-16,Goldman Sachs,12 month,5.0,buy/attractive,64.29
+2014-12-17,SunTrust Robinson Humphrey,12 month,3.0,neutral,53.57
+2014-12-17,MKM Partners,12 month,5.0,buy,75.71
+2014-12-18,Cantor Fitzgerald,12 month,5.0,buy,59.29
+2014-12-19,Bernstein,Not Provided,1.0,underperform,37.14
+2014-12-19,Cantor Fitzgerald,Not Provided,5.0,buy,59.29
+2014-12-22,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,53.57
+2014-12-22,Topeka Capital Markets Inc,12 month,5.0,buy,70.57
+2014-12-23,Canaccord Genuity,12 month,5.0,buy,64.29
+2015-01-05,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,53.57
+2015-01-05,Canaccord Genuity,12 month,5.0,buy,64.29
+2015-01-07,MKM Partners,12 month,5.0,buy,75.71
+2015-01-07,Morgan Stanley,12 month,5.0,Overwt/Attractive,60.71
+2015-01-08,Oppenheimer & Co,12 month,5.0,outperform,61.57
+2015-01-09,Cantor Fitzgerald,Not Provided,5.0,buy,59.29
+2015-01-09,Baird,12 month,5.0,outperform,72.14
+2015-01-11,Pacific Crest Securities,12 month,5.0,outperform,70.0
+2015-01-12,MoffettNathanson,Not Provided,3.0,neutral,54.29
+2015-01-12,J.P. Morgan,Not Provided,5.0,overweight,64.29
+2015-01-13,J.P. Morgan,12 month,5.0,overweight,64.29
+2015-01-13,Needham & Co,12 month,5.0,buy,75.0
+2015-01-14,MoffettNathanson,Not Provided,3.0,neutral,54.29
+2015-01-14,Credit Suisse,Not Provided,3.0,neutral,61.71
+2015-01-14,Wedbush,12 month,1.0,underperform,35.0
+2015-01-14,Hudson Square Research,12 month,5.0,buy,75.0
+2015-01-15,Macquarie,12 month,3.0,neutral,42.86
+2015-01-15,Barclays,Not Provided,3.0,equalweight,54.29
+2015-01-15,Topeka Capital Markets Inc,12 month,5.0,buy,70.57
+2015-01-15,CRT Capital Group,Not Provided,3.0,Fairly Valued,53.57
+2015-01-16,Baird,12 month,5.0,outperform,72.14
+2015-01-16,Cantor Fitzgerald,Not Provided,5.0,buy,59.29
+2015-01-16,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-01-16,MKM Partners,12 month,5.0,buy,75.71
+2015-01-16,Cowen,12 month,5.0,outperform,54.57
+2015-01-20,Evercore ISI,12 month,3.0,hold,64.29
+2015-01-20,Morgan Stanley,12 month,5.0,Overwt/Cautious,60.71
+2015-01-20,Goldman Sachs,12 month,5.0,buy/attractive,65.71
+2015-01-20,RBC Capital Markets,12 month,5.0,outperform,78.57
+2015-01-20,Bernstein,Not Provided,1.0,underperform,37.14
+2015-01-20,Canaccord Genuity,12 month,5.0,buy,64.29
+2015-01-20,Pacific Crest Securities,12 month,5.0,outperform,71.43
+2015-01-20,Stifel,12 month,5.0,buy,71.43
+2015-01-20,Janney Montgomery Scott LLC,12 month,5.0,buy,67.14
+2015-01-20,FBR Capital Markets,Not Provided,3.0,market perform,60.71
+2015-01-21,Janney Montgomery Scott LLC,12 month,5.0,buy,67.14
+2015-01-21,Oppenheimer & Co,12 month,5.0,outperform,69.0
+2015-01-21,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-01-21,Barclays,Not Provided,3.0,equalweight,57.14
+2015-01-21,Wedbush,12 month,1.0,underperform,35.0
+2015-01-21,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2015-01-21,Nomura,12 month,5.0,buy,71.43
+2015-01-21,Baird,12 month,5.0,outperform,72.14
+2015-01-21,Morgan Stanley,12 month,5.0,Overwt/Cautious,64.29
+2015-01-21,FBN Securities,12 month,5.0,outperform,67.86
+2015-01-21,J.P. Morgan,12 month,5.0,overweight,73.0
+2015-01-21,BMO Capital Markets,Not Provided,3.0,market perform,57.14
+2015-01-21,Topeka Capital Markets Inc,12 month,5.0,buy,70.57
+2015-01-21,FBR Capital Markets,12 month,3.0,market perform,57.14
+2015-01-21,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-01-21,MKM Partners,12 month,5.0,buy,75.71
+2015-01-21,Hudson Square Research,12 month,5.0,buy,75.0
+2015-01-21,Stifel,12 month,5.0,buy,71.43
+2015-01-21,SunTrust Robinson Humphrey,12 month,3.0,neutral,58.57
+2015-01-21,Northland Securities Inc,12 month,3.0,market perform,55.71
+2015-01-21,Atlantic Equities LLP,12 month,3.0,neutral,52.86
+2015-01-21,CRT Capital Group,12 month,3.0,Fairly Valued,60.71
+2015-01-21,Jefferies,12 month,3.0,hold,57.14
+2015-01-21,Cowen,12 month,5.0,outperform,66.43
+2015-01-21,Needham & Co,12 month,5.0,buy,75.0
+2015-01-21,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2015-01-21,Credit Suisse,Not Provided,3.0,neutral,59.57
+2015-01-22,Pivotal Research Group LLC,12 month,5.0,buy,78.57
+2015-01-22,Macquarie,12 month,3.0,neutral,50.0
+2015-01-22,Societe Generale,12 month,5.0,buy,68.57
+2015-01-23,Bernstein,Not Provided,1.0,underperform,37.14
+2015-01-23,CM Research,Not Provided,1.0,sell,46.71
+2015-01-23,Cantor Fitzgerald,Not Provided,5.0,buy,64.29
+2015-01-23,Daiwa Securities,Not Provided,3.0,neutral,60.0
+2015-01-27,Pacific Crest Securities,Not Provided,5.0,outperform,71.43
+2015-01-27,Piper Jaffray,Not Provided,3.0,neutral,51.43
+2015-01-29,Stifel,12 month,5.0,buy,76.43
+2015-01-29,Pacific Crest Securities,Not Provided,5.0,outperform,71.43
+2015-02-02,Cantor Fitzgerald,Not Provided,5.0,buy,64.29
+2015-02-02,Sterne Agee CRT,12 month,3.0,Fairly Valued,60.71
+2015-02-03,FBR Capital Markets,12 month,3.0,market perform,57.14
+2015-02-04,FBR Capital Markets,Not Provided,3.0,market perform,57.14
+2015-02-05,Stifel,12 month,5.0,buy,76.43
+2015-02-09,MoffettNathanson,Not Provided,3.0,neutral,54.29
+2015-02-09,Cantor Fitzgerald,Not Provided,5.0,buy,64.29
+2015-02-10,J.P. Morgan,12 month,5.0,overweight,72.71
+2015-02-10,Pacific Crest Securities,12 month,5.0,outperform,71.43
+2015-02-13,Janney Montgomery Scott LLC,12 month,5.0,buy,71.43
+2015-02-13,Bernstein,Not Provided,1.0,underperform,37.14
+2015-02-17,Cantor Fitzgerald,Not Provided,5.0,buy,64.29
+2015-02-17,Nomura,Not Provided,5.0,buy,71.43
+2015-02-20,Cantor Fitzgerald,Not Provided,5.0,buy,64.29
+2015-02-20,Topeka Capital Markets Inc,12 month,5.0,buy,75.29
+2015-02-26,Baird,Not Provided,5.0,outperform,72.14
+2015-02-26,RBC Capital Markets,12 month,5.0,outperform,78.57
+2015-02-27,Cantor Fitzgerald,Not Provided,5.0,buy,64.29
+2015-03-02,Morgan Stanley,12 month,5.0,Overwt/Cautious,76.43
+2015-03-03,Pivotal Research Group LLC,12 month,5.0,buy,78.57
+2015-03-03,Bernstein,Not Provided,1.0,underperform,41.43
+2015-03-06,Bernstein,12 month,1.0,underperform,41.43
+2015-03-06,Cantor Fitzgerald,Not Provided,5.0,buy,64.29
+2015-03-08,RBC Capital Markets,12 month,5.0,outperform,78.57
+2015-03-09,Pacific Crest Securities,12 month,5.0,outperform,71.43
+2015-03-09,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-03-13,Cantor Fitzgerald,Not Provided,5.0,buy,64.29
+2015-03-16,Evercore ISI,12 month,1.0,sell,54.29
+2015-03-16,Stifel,12 month,5.0,buy,76.43
+2015-03-17,Oppenheimer & Co,12 month,5.0,outperform,69.0
+2015-03-18,Baird,Not Provided,5.0,outperform,72.14
+2015-03-20,BMO Capital Markets,Not Provided,3.0,market perform,57.14
+2015-03-24,Barclays,Not Provided,3.0,equalweight,64.29
+2015-03-24,Cantor Fitzgerald,12 month,5.0,buy,71.43
+2015-03-26,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-03-27,Bernstein,Not Provided,1.0,underperform,41.43
+2015-03-30,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2015-04-01,Baird,12 month,5.0,outperform,72.14
+2015-04-02,Cantor Fitzgerald,Not Provided,5.0,buy,71.43
+2015-04-07,Wedbush,12 month,1.0,underperform,35.0
+2015-04-08,Goldman Sachs,12 month,5.0,buy/attractive,72.86
+2015-04-08,Stifel,12 month,5.0,buy,76.43
+2015-04-08,BMO Capital Markets,Not Provided,3.0,market perform,64.29
+2015-04-09,Oppenheimer & Co,12 month,5.0,outperform,69.0
+2015-04-09,Needham & Co,12 month,5.0,buy,75.0
+2015-04-09,RBC Capital Markets,12 month,5.0,outperform,78.57
+2015-04-09,Pacific Crest Securities,12 month,5.0,outperform,71.43
+2015-04-09,BTIG LLC,12 month,5.0,buy,85.71
+2015-04-09,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-04-09,Nomura,Not Provided,5.0,buy,73.57
+2015-04-15,Stifel,12 month,5.0,buy,92.86
+2015-04-15,RBC Capital Markets,12 month,5.0,outperform,85.71
+2015-04-15,Goldman Sachs,12 month,5.0,buy/attractive,88.57
+2015-04-15,Pacific Crest Securities,Not Provided,5.0,overweight,95.0
+2015-04-16,Atlantic Equities LLP,12 month,3.0,neutral,71.43
+2015-04-16,Credit Suisse,Not Provided,3.0,neutral,72.14
+2015-04-16,FBR Capital Markets,12 month,5.0,outperform,128.57
+2015-04-16,Barclays,Not Provided,3.0,equalweight,71.43
+2015-04-16,BMO Capital Markets,Not Provided,3.0,market perform,71.43
+2015-04-16,Baird,12 month,5.0,outperform,87.14
+2015-04-16,Jefferies,12 month,3.0,hold,70.71
+2015-04-16,Needham & Co,12 month,5.0,buy,85.71
+2015-04-16,Oppenheimer & Co,12 month,5.0,outperform,87.14
+2015-04-16,Canaccord Genuity,12 month,5.0,buy,80.71
+2015-04-16,J.P. Morgan,9 month,5.0,overweight,89.29
+2015-04-16,Cowen,12 month,5.0,outperform,89.29
+2015-04-16,FBN Securities,12 month,5.0,outperform,92.86
+2015-04-16,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2015-04-16,Morgan Stanley,12 month,5.0,Overwt/Cautious,76.43
+2015-04-16,Macquarie,12 month,3.0,neutral,67.86
+2015-04-16,Wedbush,12 month,1.0,underperform,38.57
+2015-04-16,SunTrust Robinson Humphrey,12 month,3.0,neutral,78.57
+2015-04-16,Bernstein,12 month,1.0,underperform,41.43
+2015-04-16,Nomura,12 month,5.0,buy,85.71
+2015-04-16,Raymond James,12 month,5.0,outperform,83.57
+2015-04-16,Daiwa Securities,Not Provided,3.0,neutral,79.29
+2015-04-16,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2015-04-16,Janney Montgomery Scott LLC,12 month,5.0,buy,85.71
+2015-04-16,Pivotal Research Group LLC,12 month,5.0,buy,92.86
+2015-04-16,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-04-16,MKM Partners,12 month,5.0,buy,98.57
+2015-04-16,Piper Jaffray,12 month,3.0,neutral,69.57
+2015-04-16,Cantor Fitzgerald,12 month,5.0,buy,82.86
+2015-04-16,Topeka Capital Markets Inc,12 month,5.0,buy,86.29
+2015-04-16,Sterne Agee CRT,12 month,3.0,Fairly Valued,70.0
+2015-04-16,MoffettNathanson,Not Provided,3.0,neutral,57.14
+2015-04-16,UBS,12 month,5.0,buy,85.71
+2015-04-17,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-04-17,MKM Partners,12 month,5.0,buy,98.57
+2015-04-20,Piper Jaffray,12 month,3.0,neutral,69.57
+2015-04-20,Cantor Fitzgerald,Not Provided,5.0,buy,82.86
+2015-04-21,Morgan Stanley,12 month,5.0,Overwt/Cautious,88.57
+2015-04-24,Bernstein,Not Provided,1.0,underperform,41.43
+2015-04-26,Stifel,12 month,5.0,buy,103.57
+2015-04-27,Cantor Fitzgerald,Not Provided,5.0,buy,82.86
+2015-05-04,Cantor Fitzgerald,Not Provided,5.0,buy,82.86
+2015-05-11,Bernstein,Not Provided,1.0,underperform,41.43
+2015-05-11,Cantor Fitzgerald,Not Provided,5.0,buy,82.86
+2015-05-12,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,78.57
+2015-05-12,Pivotal Research Group LLC,12 month,5.0,buy,92.86
+2015-05-15,Bernstein,Not Provided,1.0,underperform,41.43
+2015-05-15,Stifel,12 month,5.0,buy,103.57
+2015-05-15,Nomura,12 month,5.0,buy,85.71
+2015-05-15,Cantor Fitzgerald,Not Provided,5.0,buy,82.86
+2015-05-18,Topeka Capital Markets Inc,12 month,5.0,buy,103.29
+2015-05-19,Pivotal Research Group LLC,12 month,5.0,buy,121.43
+2015-05-21,RBC Capital Markets,12 month,5.0,outperform,100.0
+2015-05-22,RBC Capital Markets,12 month,5.0,outperform,100.0
+2015-05-26,Cowen,12 month,5.0,outperform,108.57
+2015-05-29,Cantor Fitzgerald,Not Provided,5.0,buy,82.86
+2015-06-01,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-06-02,FBR Capital Markets,12 month,5.0,outperform,128.57
+2015-06-03,Janney Montgomery Scott LLC,12 month,5.0,buy,85.71
+2015-06-05,Cantor Fitzgerald,Not Provided,5.0,buy,82.86
+2015-06-05,UBS,12 month,-2147483648.0,Under Review,85.71
+2015-06-05,Bernstein,Not Provided,1.0,underperform,41.43
+2015-06-09,Cowen,12 month,5.0,outperform,108.57
+2015-06-10,UBS,12 month,5.0,buy,103.14
+2015-06-10,MoffettNathanson,Not Provided,3.0,neutral,57.14
+2015-06-11,Topeka Capital Markets Inc,12 month,5.0,buy,106.57
+2015-06-12,Cantor Fitzgerald,Not Provided,5.0,buy,82.86
+2015-06-16,Needham & Co,12 month,5.0,buy,111.43
+2015-06-18,Oppenheimer & Co,12 month,5.0,outperform,110.71
+2015-06-19,Cantor Fitzgerald,Not Provided,5.0,buy,82.86
+2015-06-22,BTIG LLC,12 month,5.0,buy,135.71
+2015-06-24,Topeka Capital Markets Inc,12 month,5.0,buy,106.57
+2015-06-24,FBR Capital Markets,12 month,5.0,outperform,128.57
+2015-06-24,Societe Generale,12 month,1.0,sell,83.57
+2015-06-24,Pacific Crest Securities,12 month,5.0,overweight,95.0
+2015-06-25,Stifel,12 month,5.0,buy,103.57
+2015-06-25,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-06-25,Mizuho Securities USA Inc,Not Provided,3.0,neutral,102.86
+2015-06-26,MKM Partners,12 month,5.0,buy,126.43
+2015-06-26,Cantor Fitzgerald,Not Provided,5.0,buy,82.86
+2015-06-28,Stifel,12 month,5.0,buy,103.57
+2015-06-29,Baird,12 month,5.0,outperform,107.14
+2015-07-06,Raymond James,12 month,5.0,outperform,104.29
+2015-07-07,Pacific Crest Securities,12 month,5.0,overweight,95.0
+2015-07-08,MKM Partners,12 month,5.0,buy,126.43
+2015-07-09,Nomura,12 month,5.0,buy,107.14
+2015-07-09,Stifel,12 month,5.0,buy,103.57
+2015-07-10,RBC Capital Markets,12 month,5.0,outperform,100.0
+2015-07-10,UBS,12 month,5.0,buy,107.71
+2015-07-10,Cantor Fitzgerald,Not Provided,5.0,buy,82.86
+2015-07-10,Morgan Stanley,12 month,5.0,Overwt/Cautious,107.14
+2015-07-10,Credit Suisse,Not Provided,3.0,neutral,100.0
+2015-07-13,Cowen,Not Provided,5.0,outperform,108.57
+2015-07-13,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-07-13,Goldman Sachs,12 month,5.0,buy/attractive,111.43
+2015-07-13,Mizuho Securities USA Inc,12 month,3.0,neutral,102.86
+2015-07-14,BTIG LLC,Not Provided,5.0,buy,135.71
+2015-07-15,Pacific Crest Securities,12 month,5.0,overweight,122.0
+2015-07-15,Canaccord Genuity,12 month,5.0,buy,120.0
+2015-07-15,RBC Capital Markets,12 month,5.0,outperform,125.0
+2015-07-15,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2015-07-16,Baird,12 month,5.0,outperform,120.0
+2015-07-16,FBR Capital Markets,12 month,5.0,outperform,142.0
+2015-07-16,Cantor Fitzgerald,12 month,5.0,buy,125.0
+2015-07-16,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-07-16,Macquarie,12 month,3.0,neutral,113.0
+2015-07-16,Pivotal Research Group LLC,12 month,5.0,buy,155.0
+2015-07-16,Evercore ISI,12 month,1.0,sell,69.0
+2015-07-16,Barclays,Not Provided,3.0,equalweight,115.0
+2015-07-16,Piper Jaffray,12 month,3.0,neutral,96.0
+2015-07-16,Atlantic Equities LLP,12 month,3.0,neutral,95.0
+2015-07-16,FBN Securities,12 month,5.0,outperform,130.0
+2015-07-16,Stifel,12 month,5.0,buy,128.0
+2015-07-16,Topeka Capital Markets Inc,12 month,5.0,buy,126.0
+2015-07-16,SunTrust Robinson Humphrey,12 month,3.0,neutral,95.0
+2015-07-16,Bernstein,12 month,1.0,underperform,62.0
+2015-07-16,Wedbush,12 month,1.0,underperform,40.0
+2015-07-16,Nomura,12 month,5.0,buy,120.0
+2015-07-16,Cowen,12 month,5.0,outperform,150.0
+2015-07-16,J.P. Morgan,18 month,5.0,overweight,127.0
+2015-07-16,Goldman Sachs,12 month,5.0,buy/attractive,140.0
+2015-07-16,Needham & Co,12 month,5.0,buy,111.0
+2015-07-16,MKM Partners,12 month,5.0,buy,130.0
+2015-07-16,Morgan Stanley,12 month,5.0,Overwt/Cautious,125.0
+2015-07-16,Raymond James,12 month,5.0,outperform,120.0
+2015-07-16,Jefferies,12 month,3.0,hold,86.0
+2015-07-16,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2015-07-16,Mizuho Securities USA Inc,12 month,3.0,neutral,115.0
+2015-07-16,Credit Suisse,Not Provided,3.0,neutral,110.0
+2015-07-16,Oppenheimer & Co,18 month,5.0,outperform,125.0
+2015-07-17,UBS,12 month,5.0,buy,116.0
+2015-07-17,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-07-20,Daiwa Securities,Not Provided,3.0,neutral,112.0
+2015-07-20,MoffettNathanson,Not Provided,3.0,neutral,98.0
+2015-07-20,Societe Generale,12 month,1.0,sell,84.0
+2015-07-21,Baird,Not Provided,5.0,outperform,120.0
+2015-07-22,MKM Partners,12 month,5.0,buy,130.0
+2015-07-24,FBR Capital Markets,12 month,5.0,outperform,142.0
+2015-07-27,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-08-03,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-08-03,Guggenheim Securities,12 month,5.0,buy,160.0
+2015-08-05,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-08-07,Pivotal Research Group LLC,12 month,5.0,buy,175.0
+2015-08-09,Stifel,12 month,5.0,buy,143.0
+2015-08-10,Topeka Capital Markets Inc,12 month,5.0,buy,161.0
+2015-08-10,Nomura,12 month,5.0,buy,120.0
+2015-08-10,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-08-12,Stifel,12 month,5.0,buy,143.0
+2015-08-13,CM Research,Not Provided,1.0,sell,98.2
+2015-08-14,Raymond James,12 month,5.0,outperform,140.0
+2015-08-14,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-08-18,UBS,12 month,5.0,buy,143.0
+2015-08-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-21,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-08-24,Oppenheimer & Co,Not Provided,5.0,outperform,125.0
+2015-08-24,Baird,Not Provided,5.0,outperform,120.0
+2015-08-25,RBC Capital Markets,12 month,5.0,outperform,140.0
+2015-08-25,Stifel,12 month,5.0,buy,143.0
+2015-08-26,CM Research,Not Provided,1.0,sell,83.17
+2015-08-28,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-08-28,Topeka Capital Markets Inc,12 month,5.0,buy,161.0
+2015-08-31,Raymond James,12 month,5.0,outperform,140.0
+2015-09-01,Canaccord Genuity,12 month,5.0,buy,120.0
+2015-09-02,Stifel,12 month,5.0,buy,143.0
+2015-09-04,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-09-08,Oppenheimer & Co,24 month,5.0,outperform,125.0
+2015-09-08,MoffettNathanson,Not Provided,3.0,neutral,98.0
+2015-09-08,Guggenheim Securities,12 month,5.0,buy,160.0
+2015-09-08,Goldman Sachs,12 month,5.0,buy/attractive,135.0
+2015-09-09,Stifel,12 month,5.0,buy,143.0
+2015-09-10,Canaccord Genuity,Not Provided,5.0,buy,120.0
+2015-09-11,Bernstein,Not Provided,1.0,underperform,62.0
+2015-09-11,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-09-11,Guggenheim Securities,12 month,5.0,buy,160.0
+2015-09-16,Macquarie,12 month,3.0,neutral,113.0
+2015-09-21,Cantor Fitzgerald,12 month,5.0,buy,125.0
+2015-09-22,Mizuho Securities USA Inc,Not Provided,3.0,neutral,115.0
+2015-09-23,Mizuho Securities USA Inc,Not Provided,3.0,neutral,115.0
+2015-09-23,Guggenheim Securities,Not Provided,5.0,buy,160.0
+2015-09-23,Needham & Co,12 month,5.0,buy,111.0
+2015-09-24,Evercore ISI,12 month,1.0,sell,69.0
+2015-09-25,Stifel,12 month,5.0,buy,143.0
+2015-09-29,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-10-01,Canaccord Genuity,Not Provided,5.0,buy,120.0
+2015-10-02,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-10-02,Bernstein,Not Provided,1.0,underperform,62.0
+2015-10-02,MKM Partners,12 month,5.0,buy,130.0
+2015-10-05,CM Research,Not Provided,1.0,sell,84.78
+2015-10-06,Baird,12 month,5.0,outperform,120.0
+2015-10-06,Pacific Crest Securities,12 month,5.0,overweight,122.0
+2015-10-07,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2015-10-08,Stifel,12 month,5.0,buy,143.0
+2015-10-08,Pacific Crest Securities,12 month,5.0,overweight,140.0
+2015-10-08,Wedbush,12 month,1.0,underperform,40.0
+2015-10-08,Raymond James,12 month,5.0,outperform,140.0
+2015-10-09,Cantor Fitzgerald,12 month,5.0,buy,125.0
+2015-10-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-09,Credit Suisse,Not Provided,3.0,neutral,130.0
+2015-10-11,Morgan Stanley,12 month,5.0,Overwt/Cautious,135.0
+2015-10-12,Mizuho Securities USA Inc,12 month,3.0,neutral,115.0
+2015-10-12,Canaccord Genuity,12 month,5.0,buy,120.0
+2015-10-12,Topeka Capital Markets Inc,12 month,5.0,buy,161.0
+2015-10-12,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-10-12,RBC Capital Markets,12 month,5.0,outperform,140.0
+2015-10-12,CM Research,Not Provided,1.0,sell,87.78
+2015-10-12,MoffettNathanson,Not Provided,3.0,neutral,98.0
+2015-10-13,Nomura,12 month,5.0,buy,125.0
+2015-10-13,Goldman Sachs,12 month,5.0,buy/attractive,140.0
+2015-10-13,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2015-10-13,Cowen,12 month,5.0,outperform,154.0
+2015-10-13,Bernstein,Not Provided,1.0,underperform,62.0
+2015-10-13,SunTrust Robinson Humphrey,12 month,3.0,neutral,110.0
+2015-10-13,MKM Partners,12 month,5.0,buy,130.0
+2015-10-14,RBC Capital Markets,12 month,5.0,outperform,140.0
+2015-10-14,Pacific Crest Securities,12 month,5.0,overweight,140.0
+2015-10-14,Raymond James,12 month,5.0,outperform,130.0
+2015-10-14,Evercore ISI,12 month,1.0,sell,69.0
+2015-10-14,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2015-10-14,Wedbush,12 month,1.0,underperform,40.0
+2015-10-14,Canaccord Genuity,12 month,5.0,buy,125.0
+2015-10-14,Piper Jaffray,12 month,3.0,neutral,109.0
+2015-10-15,Cowen,12 month,5.0,outperform,154.0
+2015-10-15,Credit Suisse,Not Provided,3.0,neutral,124.0
+2015-10-15,Atlantic Equities LLP,12 month,3.0,neutral,103.0
+2015-10-15,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-15,FBN Securities,12 month,5.0,outperform,125.0
+2015-10-15,Needham & Co,12 month,5.0,buy,125.0
+2015-10-15,FBR Capital Markets,12 month,5.0,outperform,138.0
+2015-10-15,J.P. Morgan,18 month,5.0,overweight,137.0
+2015-10-15,Guggenheim Securities,12 month,5.0,buy,160.0
+2015-10-15,Pivotal Research Group LLC,12 month,5.0,buy,175.0
+2015-10-15,Daiwa Securities,Not Provided,3.0,neutral,115.0
+2015-10-15,Bernstein,12 month,1.0,underperform,62.0
+2015-10-15,Barclays,Not Provided,3.0,equalweight,115.0
+2015-10-15,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-10-15,Jefferies,12 month,3.0,hold,105.0
+2015-10-15,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2015-10-15,Macquarie,12 month,3.0,neutral,113.0
+2015-10-15,Mizuho Securities USA Inc,12 month,3.0,neutral,115.0
+2015-10-15,Baird,12 month,5.0,outperform,128.0
+2015-10-15,BTIG LLC,12 month,5.0,buy,136.0
+2015-10-15,Morgan Stanley,12 month,5.0,Overwt/Cautious,135.0
+2015-10-15,Oppenheimer & Co,12 month,5.0,outperform,130.0
+2015-10-15,MoffettNathanson,Not Provided,3.0,neutral,98.0
+2015-10-15,Topeka Capital Markets Inc,12 month,5.0,buy,161.0
+2015-10-15,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2015-10-16,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2015-10-16,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,110.0
+2015-10-16,MKM Partners,12 month,5.0,buy,145.0
+2015-10-19,Nomura,12 month,5.0,buy,125.0
+2015-10-19,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-10-19,Stifel,12 month,5.0,buy,143.0
+2015-10-26,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-10-28,Bernstein,Not Provided,1.0,underperform,62.0
+2015-11-02,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-11-05,Baird,12 month,5.0,outperform,128.0
+2015-11-05,CM Research,Not Provided,1.0,sell,91.24
+2015-11-06,Bernstein,Not Provided,1.0,underperform,62.0
+2015-11-09,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-11-10,MoffettNathanson,12 month,3.0,neutral,98.0
+2015-11-11,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-11-11,Evercore ISI,Not Provided,1.0,sell,69.0
+2015-11-16,Topeka Capital Markets Inc,12 month,5.0,buy,142.0
+2015-11-16,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-11-16,Pacific Crest Securities,12 month,5.0,overweight,140.0
+2015-11-16,Bernstein,Not Provided,1.0,underperform,62.0
+2015-11-18,MoffettNathanson,12 month,3.0,neutral,98.0
+2015-11-19,RBC Capital Markets,12 month,5.0,outperform,140.0
+2015-11-20,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-11-24,Mizuho Securities USA Inc,Not Provided,3.0,neutral,115.0
+2015-11-25,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-11-30,MoffettNathanson,12 month,3.0,neutral,98.0
+2015-12-01,Freedom Finance,Not Provided,5.0,buy,140.0
+2015-12-04,Bernstein,12 month,1.0,underperform,62.0
+2015-12-04,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2015-12-09,MoffettNathanson,12 month,3.0,neutral,98.0
+2015-12-09,Mizuho Securities USA Inc,12 month,3.0,neutral,115.0
+2015-12-11,Topeka Capital Markets Inc,12 month,5.0,buy,142.0
+2015-12-14,Wedbush,Not Provided,1.0,underperform,40.0
+2015-12-14,Stifel,12 month,5.0,buy,143.0
+2015-12-16,Guggenheim Securities,12 month,5.0,buy,160.0
+2015-12-16,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2015-12-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-12-18,Cantor Fitzgerald,Not Provided,5.0,buy,125.0
+2015-12-18,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2015-12-21,Needham & Co,12 month,5.0,buy,125.0
+2015-12-22,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,110.0
+2015-12-22,Morgan Stanley,12 month,5.0,Overwt/Cautious,135.0
+2015-12-28,Stifel,12 month,5.0,buy,143.0
+2016-01-04,Baird,12 month,3.0,neutral,115.0
+2016-01-04,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2016-01-05,Oppenheimer & Co,12 month,5.0,outperform,130.0
+2016-01-05,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,110.0
+2016-01-06,Stifel,12 month,5.0,buy,143.0
+2016-01-06,Pacific Crest Securities,12 month,5.0,overweight,140.0
+2016-01-06,Jefferies,12 month,3.0,hold,105.0
+2016-01-06,Barclays,Not Provided,3.0,equalweight,115.0
+2016-01-06,Mizuho Securities USA Inc,12 month,3.0,neutral,115.0
+2016-01-06,Evercore ISI,Not Provided,1.0,sell,69.0
+2016-01-07,UBS,12 month,5.0,buy,147.0
+2016-01-07,Morgan Stanley,12 month,5.0,Overwt/Cautious,135.0
+2016-01-07,MoffettNathanson,12 month,3.0,neutral,98.0
+2016-01-07,Nomura,12 month,5.0,buy,125.0
+2016-01-07,Guggenheim Securities,12 month,5.0,buy,160.0
+2016-01-07,MKM Partners,12 month,5.0,buy,145.0
+2016-01-08,Pivotal Research Group LLC,12 month,5.0,buy,165.0
+2016-01-08,Bernstein,Not Provided,1.0,underperform,62.0
+2016-01-08,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-01-08,Needham & Co,12 month,5.0,buy,125.0
+2016-01-11,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2016-01-12,Credit Suisse,Not Provided,3.0,neutral,119.0
+2016-01-12,Cowen,12 month,5.0,outperform,150.0
+2016-01-13,Drexel Hamilton LLC,12 month,5.0,buy,150.0
+2016-01-13,Stifel,12 month,5.0,buy,143.0
+2016-01-13,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-01-13,Topeka Capital Markets Inc,12 month,5.0,buy,142.0
+2016-01-14,Macquarie,12 month,3.0,neutral,113.0
+2016-01-14,J.P. Morgan,12 month,5.0,overweight,137.0
+2016-01-14,Raymond James,12 month,5.0,outperform,130.0
+2016-01-14,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,115.0
+2016-01-14,Mizuho Securities USA Inc,12 month,3.0,neutral,115.0
+2016-01-15,RBC Capital Markets,12 month,5.0,outperform,140.0
+2016-01-15,Barclays,Not Provided,3.0,equalweight,115.0
+2016-01-15,FBR Capital Markets,12 month,5.0,outperform,138.0
+2016-01-15,Cantor Fitzgerald,12 month,5.0,buy,125.0
+2016-01-19,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2016-01-19,Pacific Crest Securities,12 month,5.0,overweight,140.0
+2016-01-19,Evercore ISI,Not Provided,1.0,sell,69.0
+2016-01-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-01-19,Stifel,12 month,5.0,buy,143.0
+2016-01-19,Raymond James,12 month,5.0,outperform,130.0
+2016-01-19,RBC Capital Markets,12 month,5.0,outperform,140.0
+2016-01-20,Credit Suisse,Not Provided,3.0,neutral,126.0
+2016-01-20,J.P. Morgan,12 month,5.0,overweight,141.0
+2016-01-20,SunTrust Robinson Humphrey,12 month,3.0,neutral,115.0
+2016-01-20,Jefferies,12 month,3.0,hold,120.0
+2016-01-20,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2016-01-20,Guggenheim Securities,12 month,5.0,buy,160.0
+2016-01-20,Morgan Stanley,12 month,5.0,Overwt/Cautious,135.0
+2016-01-20,Oppenheimer & Co,12 month,5.0,outperform,140.0
+2016-01-20,Drexel Hamilton LLC,12 month,5.0,buy,150.0
+2016-01-20,Macquarie,12 month,3.0,neutral,120.0
+2016-01-20,Cowen,12 month,5.0,outperform,155.0
+2016-01-20,Topeka Capital Markets Inc,12 month,5.0,buy,142.0
+2016-01-20,FBN Securities,12 month,5.0,outperform,130.0
+2016-01-20,Atlantic Equities LLP,12 month,3.0,neutral,115.0
+2016-01-20,FBR Capital Markets,12 month,5.0,outperform,125.0
+2016-01-20,CM Research,Not Provided,1.0,sell,80.0
+2016-01-20,Bernstein,12 month,1.0,underperform,62.0
+2016-01-20,Nomura,12 month,5.0,buy,130.0
+2016-01-20,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-01-20,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2016-01-20,Needham & Co,12 month,5.0,buy,125.0
+2016-01-20,Baird,12 month,3.0,neutral,115.0
+2016-01-20,Pivotal Research Group LLC,12 month,5.0,buy,155.0
+2016-01-20,Barclays,Not Provided,3.0,equalweight,115.0
+2016-01-20,Piper Jaffray,12 month,3.0,neutral,122.0
+2016-01-21,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-01-21,Mizuho Securities USA Inc,Not Provided,3.0,neutral,120.0
+2016-01-22,Daiwa Securities,Not Provided,3.0,neutral,105.0
+2016-01-22,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-01-25,Societe Generale,12 month,1.0,sell,95.0
+2016-01-27,MKM Partners,12 month,5.0,buy,145.0
+2016-02-01,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-02-01,Stifel,12 month,5.0,buy,143.0
+2016-02-02,Piper Jaffray,12 month,5.0,overweight,122.0
+2016-02-05,MoffettNathanson,Not Provided,3.0,neutral,85.0
+2016-02-05,J.P. Morgan,12 month,5.0,overweight,141.0
+2016-02-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-08,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-02-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-12,FBR Capital Markets,12 month,3.0,market perform,100.0
+2016-02-16,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-02-19,Bernstein,Not Provided,1.0,underperform,62.0
+2016-02-19,Mizuho Securities USA Inc,12 month,3.0,neutral,120.0
+2016-02-22,Barclays,Not Provided,3.0,equalweight,115.0
+2016-02-22,Goldman Sachs,12 month,5.0,buy/attractive,130.0
+2016-02-22,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-02-23,Pacific Crest Securities,12 month,5.0,overweight,140.0
+2016-02-25,Pivotal Research Group LLC,12 month,5.0,buy,155.0
+2016-02-26,Cowen,12 month,5.0,outperform,155.0
+2016-02-29,MKM Partners,12 month,5.0,buy,145.0
+2016-02-29,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-03-02,Drexel Hamilton LLC,12 month,5.0,buy,150.0
+2016-03-03,MoffettNathanson,Not Provided,3.0,neutral,85.0
+2016-03-03,RBC Capital Markets,12 month,5.0,outperform,140.0
+2016-03-04,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-03-04,Topeka Capital Markets Inc,12 month,5.0,buy,142.0
+2016-03-07,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-03-08,Bernstein,Not Provided,1.0,underperform,62.0
+2016-03-11,Bernstein,Not Provided,1.0,underperform,62.0
+2016-03-11,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2016-03-11,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-03-14,CM Research,Not Provided,1.0,sell,78.13
+2016-03-14,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2016-03-16,Baird,Not Provided,3.0,neutral,115.0
+2016-03-18,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-03-21,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2016-03-24,MoffettNathanson,12 month,3.0,neutral,85.0
+2016-03-28,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-03-29,Baird,12 month,3.0,neutral,115.0
+2016-04-01,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-04-01,Atlantic Equities LLP,12 month,5.0,overweight,130.0
+2016-04-03,Pacific Crest Securities,12 month,5.0,overweight,140.0
+2016-04-04,Oppenheimer & Co,12 month,5.0,outperform,140.0
+2016-04-04,Barclays,Not Provided,3.0,equalweight,115.0
+2016-04-05,Cowen,12 month,5.0,outperform,155.0
+2016-04-05,Raymond James,12 month,5.0,outperform,130.0
+2016-04-07,J.P. Morgan,9 month,5.0,overweight,139.0
+2016-04-07,Morgan Stanley,12 month,5.0,Overwt/Cautious,135.0
+2016-04-07,Baird,12 month,3.0,neutral,115.0
+2016-04-08,Bernstein,Not Provided,1.0,underperform,62.0
+2016-04-08,Pivotal Research Group LLC,12 month,5.0,buy,155.0
+2016-04-08,SunTrust Robinson Humphrey,12 month,3.0,neutral,115.0
+2016-04-11,MoffettNathanson,Not Provided,3.0,neutral,85.0
+2016-04-11,Needham & Co,12 month,5.0,buy,125.0
+2016-04-12,Piper Jaffray,12 month,5.0,overweight,122.0
+2016-04-12,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2016-04-12,Cantor Fitzgerald,12 month,5.0,buy,140.0
+2016-04-13,BTIG LLC,12 month,5.0,buy,150.0
+2016-04-13,Stifel,12 month,5.0,buy,143.0
+2016-04-13,MKM Partners,12 month,5.0,buy,145.0
+2016-04-13,Wedbush,12 month,1.0,underperform,45.0
+2016-04-13,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2016-04-13,RBC Capital Markets,12 month,5.0,outperform,140.0
+2016-04-13,Nomura,12 month,5.0,buy,130.0
+2016-04-14,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-04-18,MKM Partners,12 month,5.0,buy,145.0
+2016-04-18,Evercore ISI,12 month,1.0,sell,69.0
+2016-04-18,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2016-04-18,Stifel,12 month,5.0,buy,143.0
+2016-04-18,RBC Capital Markets,12 month,5.0,outperform,140.0
+2016-04-18,Raymond James,12 month,5.0,outperform,130.0
+2016-04-18,Pacific Crest Securities,12 month,5.0,overweight,130.0
+2016-04-18,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-19,Sterne Agee CRT,Not Provided,3.0,neutral,-0.0
+2016-04-19,Macquarie,12 month,3.0,neutral,110.0
+2016-04-19,FBR Capital Markets,Not Provided,3.0,market perform,104.0
+2016-04-19,Oppenheimer & Co,12 month,5.0,outperform,123.0
+2016-04-19,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2016-04-19,Pivotal Research Group LLC,12 month,5.0,buy,145.0
+2016-04-19,Jefferies,12 month,3.0,hold,120.0
+2016-04-19,Guggenheim Securities,12 month,5.0,buy,150.0
+2016-04-19,Atlantic Equities LLP,12 month,5.0,overweight,130.0
+2016-04-19,J.P. Morgan,9 month,5.0,overweight,126.0
+2016-04-19,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2016-04-19,Wedbush,12 month,1.0,underperform,45.0
+2016-04-19,Cantor Fitzgerald,12 month,5.0,buy,140.0
+2016-04-19,Mizuho Securities USA Inc,12 month,3.0,neutral,109.0
+2016-04-19,Bernstein,12 month,1.0,underperform,62.0
+2016-04-19,Drexel Hamilton LLC,12 month,5.0,buy,120.0
+2016-04-19,Needham & Co,12 month,5.0,buy,115.0
+2016-04-19,Baird,12 month,3.0,neutral,108.0
+2016-04-19,MoffettNathanson,Not Provided,3.0,neutral,85.0
+2016-04-19,Topeka Capital Markets Inc,12 month,5.0,buy,139.0
+2016-04-19,Credit Suisse,Not Provided,3.0,neutral,116.0
+2016-04-19,Nomura,12 month,5.0,buy,125.0
+2016-04-19,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,115.0
+2016-04-19,Morgan Stanley,12 month,5.0,Overwt/Cautious,125.0
+2016-04-19,Goldman Sachs,12 month,5.0,buy/attractive,120.0
+2016-04-19,FBN Securities,12 month,5.0,outperform,115.0
+2016-04-19,Cowen,12 month,5.0,outperform,135.0
+2016-04-19,Piper Jaffray,12 month,5.0,overweight,122.0
+2016-04-20,Barclays,Not Provided,3.0,equalweight,115.0
+2016-04-20,Daiwa Securities,Not Provided,3.0,neutral,100.0
+2016-04-21,Drexel Hamilton LLC,12 month,5.0,buy,120.0
+2016-04-21,Nomura,12 month,5.0,buy,125.0
+2016-04-25,UBS,12 month,5.0,buy,141.0
+2016-04-25,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,115.0
+2016-04-29,Bernstein,Not Provided,1.0,underperform,62.0
+2016-05-02,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-05-05,Pivotal Research Group LLC,12 month,5.0,buy,145.0
+2016-05-06,Morgan Stanley,12 month,5.0,Overwt/Cautious,125.0
+2016-05-08,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2016-05-09,Bernstein,Not Provided,1.0,underperform,62.0
+2016-05-09,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-05-10,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,115.0
+2016-05-12,Topeka Capital Markets Inc,12 month,5.0,buy,139.0
+2016-05-13,MoffettNathanson,Not Provided,3.0,neutral,85.0
+2016-05-16,Freedom Finance,Not Provided,5.0,buy,125.0
+2016-05-18,Baird,Not Provided,3.0,neutral,108.0
+2016-05-20,Cantor Fitzgerald,12 month,5.0,buy,140.0
+2016-05-20,Bernstein,Not Provided,1.0,underperform,62.0
+2016-05-22,RBC Capital Markets,12 month,5.0,outperform,140.0
+2016-05-23,Stifel,12 month,5.0,buy,143.0
+2016-05-23,Piper Jaffray,12 month,5.0,overweight,122.0
+2016-05-25,MKM Partners,12 month,5.0,buy,145.0
+2016-05-26,Drexel Hamilton LLC,12 month,5.0,buy,120.0
+2016-05-27,RBC Capital Markets,12 month,5.0,outperform,140.0
+2016-05-31,Cantor Fitzgerald,12 month,5.0,buy,140.0
+2016-06-05,Morgan Stanley,12 month,5.0,Overwt/Cautious,125.0
+2016-06-06,Mizuho Securities USA Inc,Not Provided,3.0,neutral,109.0
+2016-06-10,Bernstein,Not Provided,1.0,underperform,62.0
+2016-06-14,Pacific Crest Securities,12 month,5.0,overweight,130.0
+2016-06-20,Nomura,12 month,5.0,buy,115.0
+2016-06-22,Bernstein,12 month,1.0,underperform,62.0
+2016-06-23,MoffettNathanson,12 month,3.0,neutral,85.0
+2016-06-23,Cantor Fitzgerald,12 month,5.0,buy,140.0
+2016-06-24,Cantor Fitzgerald,Not Provided,5.0,buy,140.0
+2016-06-26,RBC Capital Markets,12 month,5.0,outperform,140.0
+2016-06-27,Stifel,12 month,5.0,buy,143.0
+2016-06-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-06-28,Baird,12 month,3.0,neutral,108.0
+2016-06-28,Pacific Crest Securities,12 month,5.0,overweight,130.0
+2016-06-30,MKM Partners,12 month,5.0,buy,145.0
+2016-07-05,Pacific Crest Securities,12 month,5.0,overweight,130.0
+2016-07-05,Mizuho Securities USA Inc,Not Provided,3.0,neutral,109.0
+2016-07-05,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,115.0
+2016-07-05,Guggenheim Securities,12 month,5.0,buy,150.0
+2016-07-05,Needham & Co,Not Provided,3.0,hold,-0.0
+2016-07-06,Jefferies,12 month,1.0,underperform,80.0
+2016-07-07,Canaccord Genuity,Not Provided,5.0,buy,120.0
+2016-07-08,Cantor Fitzgerald,12 month,5.0,buy,130.0
+2016-07-08,Pivotal Research Group LLC,12 month,5.0,buy,145.0
+2016-07-10,Wedbush,12 month,1.0,underperform,45.0
+2016-07-11,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2016-07-12,J.P. Morgan,6 month,5.0,overweight,125.0
+2016-07-12,Cowen,12 month,5.0,outperform,130.0
+2016-07-12,Piper Jaffray,12 month,5.0,overweight,122.0
+2016-07-13,MoffettNathanson,12 month,3.0,neutral,85.0
+2016-07-13,MKM Partners,12 month,5.0,buy,145.0
+2016-07-13,Mizuho Securities USA Inc,12 month,3.0,neutral,109.0
+2016-07-13,UBS,12 month,5.0,buy,130.0
+2016-07-14,SunTrust Robinson Humphrey,Not Provided,3.0,neutral,110.0
+2016-07-14,Raymond James,12 month,5.0,outperform,130.0
+2016-07-14,Stifel,12 month,5.0,buy,143.0
+2016-07-14,Canaccord Genuity,12 month,5.0,buy,120.0
+2016-07-14,RBC Capital Markets,12 month,5.0,outperform,140.0
+2016-07-14,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2016-07-15,Jefferies,12 month,1.0,underperform,80.0
+2016-07-15,Credit Suisse,Not Provided,3.0,neutral,119.0
+2016-07-15,Cantor Fitzgerald,12 month,5.0,buy,130.0
+2016-07-15,BTIG LLC,12 month,5.0,buy,150.0
+2016-07-15,FBR Capital Markets,12 month,3.0,market perform,104.0
+2016-07-15,Bernstein,Not Provided,1.0,underperform,62.0
+2016-07-18,Jefferies,12 month,1.0,underperform,76.0
+2016-07-18,Pacific Crest Securities,12 month,5.0,overweight,125.0
+2016-07-18,Canaccord Genuity,12 month,5.0,buy,115.0
+2016-07-18,MoffettNathanson,12 month,3.0,neutral,82.0
+2016-07-18,Stifel,12 month,5.0,buy,120.0
+2016-07-19,Credit Suisse,Not Provided,3.0,neutral,122.0
+2016-07-19,William Blair & Co,Not Provided,3.0,market perform,-0.0
+2016-07-19,Cantor Fitzgerald,12 month,5.0,buy,120.0
+2016-07-19,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2016-07-19,Nomura,12 month,5.0,buy,110.0
+2016-07-19,Atlantic Equities LLP,12 month,5.0,overweight,120.0
+2016-07-19,Guggenheim Securities,12 month,5.0,buy,130.0
+2016-07-19,Raymond James,12 month,5.0,outperform,120.0
+2016-07-19,Pivotal Research Group LLC,12 month,5.0,buy,125.0
+2016-07-19,FBN Securities,12 month,5.0,outperform,95.0
+2016-07-19,Churchill Research,12 month,-2147483648.0,no rating system,47.09
+2016-07-19,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-07-19,Mizuho Securities USA Inc,12 month,3.0,neutral,90.0
+2016-07-19,Needham & Co,Not Provided,3.0,hold,-0.0
+2016-07-19,SunTrust Robinson Humphrey,12 month,3.0,neutral,100.0
+2016-07-19,Baird,12 month,3.0,neutral,94.0
+2016-07-19,Goldman Sachs,12 month,5.0,buy/attractive,115.0
+2016-07-19,BMO Capital Markets,Not Provided,3.0,market perform,85.0
+2016-07-19,RBC Capital Markets,12 month,5.0,outperform,130.0
+2016-07-19,Drexel Hamilton LLC,12 month,5.0,buy,110.0
+2016-07-19,Bernstein,12 month,1.0,underperform,62.0
+2016-07-19,Wedbush,12 month,1.0,underperform,50.0
+2016-07-19,Macquarie,12 month,3.0,neutral,85.0
+2016-07-19,BTIG LLC,12 month,5.0,buy,130.0
+2016-07-19,Oppenheimer & Co,12 month,5.0,outperform,114.0
+2016-07-19,Piper Jaffray,12 month,5.0,overweight,122.0
+2016-07-19,FBR Capital Markets,12 month,3.0,market perform,90.0
+2016-07-19,Cowen,12 month,5.0,outperform,110.0
+2016-07-19,Morgan Stanley,12 month,5.0,Overwt/Cautious,110.0
+2016-07-19,J.P. Morgan,6 month,5.0,overweight,116.0
+2016-07-20,UBS,12 month,3.0,neutral,92.0
+2016-07-20,MKM Partners,12 month,5.0,buy,130.0
+2016-07-25,Evercore ISI,12 month,1.0,sell,69.0
+2016-07-25,Jefferies,Not Provided,1.0,underperform,76.0
+2016-07-25,Cantor Fitzgerald,Not Provided,5.0,buy,120.0
+2016-07-26,BMO Capital Markets,Not Provided,3.0,market perform,85.0
+2016-08-01,Pacific Crest Securities,12 month,5.0,overweight,125.0
+2016-08-08,Bernstein,Not Provided,1.0,underperform,62.0
+2016-08-11,RBC Capital Markets,12 month,5.0,outperform,130.0
+2016-08-12,Cantor Fitzgerald,Not Provided,5.0,buy,120.0
+2016-08-18,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-08-18,Cowen,12 month,5.0,outperform,110.0
+2016-08-18,Evercore ISI,12 month,1.0,sell,69.0
+2016-08-18,Cantor Fitzgerald,Not Provided,5.0,buy,120.0
+2016-08-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-08-26,RBC Capital Markets,12 month,5.0,outperform,130.0
+2016-08-26,Cantor Fitzgerald,Not Provided,5.0,buy,120.0
+2016-08-29,Axiom Capital,Not Provided,1.0,sell,80.0
+2016-09-02,Cantor Fitzgerald,Not Provided,5.0,buy,120.0
+2016-09-05,Pacific Crest Securities,12 month,5.0,overweight,125.0
+2016-09-06,Piper Jaffray,12 month,5.0,overweight,122.0
+2016-09-06,Canaccord Genuity,Not Provided,5.0,buy,115.0
+2016-09-06,SunTrust Robinson Humphrey,12 month,3.0,neutral,100.0
+2016-09-08,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-09-08,Axiom Capital,Not Provided,1.0,sell,80.0
+2016-09-09,Cantor Fitzgerald,Not Provided,5.0,buy,120.0
+2016-09-13,Macquarie,12 month,1.0,underperform,85.0
+2016-09-14,Morgan Stanley,12 month,5.0,Overwt/Cautious,110.0
+2016-09-14,Nomura,12 month,5.0,buy,110.0
+2016-09-14,FBR Capital Markets,12 month,3.0,market perform,90.0
+2016-09-15,Drexel Hamilton LLC,12 month,5.0,buy,110.0
+2016-09-16,Cantor Fitzgerald,Not Provided,5.0,buy,120.0
+2016-09-19,CM Research,Not Provided,1.0,sell,82.67
+2016-09-21,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-09-23,Baird,Not Provided,3.0,neutral,94.0
+2016-09-23,Jefferies,12 month,1.0,underperform,76.0
+2016-09-23,Cantor Fitzgerald,12 month,5.0,buy,120.0
+2016-09-26,Axiom Capital,12 month,1.0,sell,80.0
+2016-09-27,J.P. Morgan,18 month,5.0,overweight,125.0
+2016-09-28,Wedbush,12 month,1.0,underperform,50.0
+2016-09-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-09-29,MKM Partners,12 month,5.0,buy,130.0
+2016-09-30,Cantor Fitzgerald,Not Provided,5.0,buy,120.0
+2016-10-02,Canaccord Genuity,Not Provided,5.0,buy,115.0
+2016-10-03,Jefferies,Not Provided,1.0,underperform,76.0
+2016-10-03,Baird,12 month,3.0,neutral,94.0
+2016-10-04,Wedbush,12 month,1.0,underperform,50.0
+2016-10-04,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-10-05,FBR Capital Markets,12 month,3.0,market perform,90.0
+2016-10-05,SunTrust Robinson Humphrey,12 month,3.0,neutral,100.0
+2016-10-07,MKM Partners,12 month,5.0,buy,130.0
+2016-10-10,Atlantic Equities LLP,12 month,5.0,overweight,120.0
+2016-10-10,Raymond James,12 month,5.0,outperform,120.0
+2016-10-10,Jefferies,Not Provided,1.0,underperform,76.0
+2016-10-11,Needham & Co,Not Provided,3.0,hold,-0.0
+2016-10-11,Cowen,12 month,5.0,outperform,110.0
+2016-10-11,Nomura,12 month,5.0,buy,110.0
+2016-10-12,MKM Partners,12 month,5.0,buy,130.0
+2016-10-12,Morgan Stanley,12 month,5.0,Overwt/Cautious,110.0
+2016-10-13,Axiom Capital,Not Provided,1.0,sell,80.0
+2016-10-13,Wedbush,12 month,1.0,underperform,50.0
+2016-10-14,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-10-14,Guggenheim Securities,12 month,5.0,buy,130.0
+2016-10-14,MoffettNathanson,12 month,3.0,neutral,82.0
+2016-10-14,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2016-10-14,J.P. Morgan,18 month,5.0,overweight,122.0
+2016-10-17,Evercore ISI,12 month,1.0,sell,101.0
+2016-10-17,Raymond James,12 month,5.0,outperform,140.0
+2016-10-17,Canaccord Genuity,Not Provided,5.0,buy,140.0
+2016-10-17,Stifel,12 month,5.0,buy,140.0
+2016-10-17,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2016-10-17,Mizuho Securities USA Inc,12 month,3.0,neutral,112.0
+2016-10-17,RBC Capital Markets,12 month,5.0,outperform,150.0
+2016-10-17,Cantor Fitzgerald,12 month,5.0,buy,135.0
+2016-10-17,Jefferies,12 month,1.0,underperform,80.0
+2016-10-17,Oppenheimer & Co,12 month,5.0,outperform,134.0
+2016-10-17,Credit Suisse,Not Provided,3.0,neutral,132.0
+2016-10-17,Pacific Crest Securities,12 month,5.0,overweight,135.0
+2016-10-18,FBR Capital Markets,12 month,3.0,market perform,100.0
+2016-10-18,Goldman Sachs,12 month,5.0,buy/attractive,140.0
+2016-10-18,MoffettNathanson,12 month,3.0,neutral,85.0
+2016-10-18,Wedbush,12 month,1.0,underperform,60.0
+2016-10-18,UBS,12 month,3.0,neutral,119.0
+2016-10-18,Credit Suisse,Not Provided,3.0,neutral,130.0
+2016-10-18,Piper Jaffray,12 month,5.0,overweight,138.0
+2016-10-18,Pivotal Research Group LLC,12 month,5.0,buy,155.0
+2016-10-18,Canaccord Genuity,Not Provided,5.0,buy,140.0
+2016-10-18,Macquarie,12 month,1.0,underperform,85.0
+2016-10-18,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2016-10-18,Needham & Co,Not Provided,3.0,hold,-0.0
+2016-10-18,Drexel Hamilton LLC,12 month,5.0,buy,140.0
+2016-10-18,Morgan Stanley,12 month,5.0,Overwt/Cautious,130.0
+2016-10-18,Axiom Capital,Not Provided,1.0,sell,84.0
+2016-10-18,Nomura,12 month,5.0,buy,130.0
+2016-10-18,Mizuho Securities USA Inc,12 month,3.0,neutral,112.0
+2016-10-18,FBN Securities,12 month,5.0,outperform,130.0
+2016-10-18,Baird,12 month,3.0,neutral,120.0
+2016-10-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-18,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-10-18,Cowen,12 month,5.0,outperform,150.0
+2016-10-18,J.P. Morgan,18 month,5.0,overweight,140.0
+2016-10-19,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-10-20,Atlantic Equities LLP,12 month,5.0,overweight,150.0
+2016-10-21,Guggenheim Securities,12 month,5.0,buy,140.0
+2016-10-21,Bernstein,Not Provided,1.0,underperform,62.0
+2016-10-21,MKM Partners,12 month,5.0,buy,165.0
+2016-10-21,Pacific Crest Securities,Not Provided,5.0,overweight,125.0
+2016-10-21,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2016-10-24,Jefferies,Not Provided,1.0,underperform,80.0
+2016-10-24,Cantor Fitzgerald,Not Provided,5.0,buy,135.0
+2016-10-24,SunTrust Robinson Humphrey,Not Provided,3.0,hold,115.0
+2016-10-25,Cantor Fitzgerald,Not Provided,5.0,buy,135.0
+2016-10-27,FBR Capital Markets,12 month,3.0,market perform,100.0
+2016-10-31,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-11-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-07,Jefferies,Not Provided,1.0,underperform,80.0
+2016-11-07,Guggenheim Securities,12 month,5.0,buy,140.0
+2016-11-07,RBC Capital Markets,12 month,5.0,outperform,150.0
+2016-11-09,RBC Capital Markets,12 month,5.0,outperform,150.0
+2016-11-10,Morgan Stanley,12 month,5.0,Overwt/Cautious,130.0
+2016-11-11,CM Research,Not Provided,1.0,sell,97.75
+2016-11-14,Baird,Not Provided,3.0,neutral,120.0
+2016-11-14,Stifel,12 month,5.0,buy,140.0
+2016-11-14,Cantor Fitzgerald,Not Provided,5.0,buy,135.0
+2016-11-14,Jefferies,Not Provided,1.0,underperform,80.0
+2016-11-15,Nomura Instinet,12 month,5.0,buy,130.0
+2016-11-15,Stifel,12 month,5.0,buy,140.0
+2016-11-17,Piper Jaffray,12 month,5.0,overweight,138.0
+2016-11-18,Guggenheim Securities,12 month,5.0,buy,140.0
+2016-11-18,Jefferies,12 month,1.0,underperform,80.0
+2016-11-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-21,Brean Capital LLC,12 month,5.0,buy,145.0
+2016-11-21,Pacific Crest Securities,12 month,5.0,overweight,135.0
+2016-11-22,RBC Capital Markets,12 month,5.0,outperform,150.0
+2016-11-27,Pacific Crest Securities,Not Provided,5.0,overweight,135.0
+2016-11-28,Cantor Fitzgerald,Not Provided,5.0,buy,135.0
+2016-11-29,Drexel Hamilton LLC,12 month,5.0,buy,140.0
+2016-11-29,Brean Capital LLC,12 month,5.0,buy,145.0
+2016-11-30,Stifel,12 month,5.0,buy,140.0
+2016-12-01,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-12-05,Jefferies,Not Provided,1.0,underperform,80.0
+2016-12-05,Canaccord Genuity,Not Provided,5.0,buy,140.0
+2016-12-06,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2016-12-06,Evercore ISI,12 month,3.0,hold,111.0
+2016-12-07,Cowen,12 month,5.0,outperform,150.0
+2016-12-11,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2016-12-12,SunTrust Robinson Humphrey,Not Provided,3.0,hold,115.0
+2016-12-13,Raymond James,12 month,5.0,outperform,140.0
+2016-12-15,Piper Jaffray,12 month,5.0,overweight,138.0
+2016-12-15,RBC Capital Markets,12 month,5.0,outperform,150.0
+2016-12-15,Wedbush,12 month,1.0,underperform,60.0
+2016-12-15,Pacific Crest Securities,Not Provided,5.0,overweight,135.0
+2016-12-16,Baird,Not Provided,3.0,neutral,120.0
+2016-12-16,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2016-12-16,Jefferies,12 month,1.0,underperform,80.0
+2016-12-16,Cantor Fitzgerald,Not Provided,5.0,overweight,135.0
+2016-12-18,Canaccord Genuity,Not Provided,5.0,buy,140.0
+2016-12-19,BMO Capital Markets,Not Provided,3.0,market perform,115.0
+2016-12-20,MKM Partners,Not Provided,5.0,buy,165.0
+2016-12-20,Stifel,12 month,5.0,buy,150.0
+2016-12-21,Drexel Hamilton LLC,12 month,5.0,buy,140.0
+2016-12-21,Loop Capital Markets,12 month,5.0,buy,151.0
+2016-12-30,Brean Capital LLC,12 month,5.0,buy,145.0
+2017-01-02,Canaccord Genuity,Not Provided,5.0,buy,140.0
+2017-01-03,Baird,12 month,3.0,neutral,120.0
+2017-01-03,J.P. Morgan,12 month,5.0,overweight,140.0
+2017-01-04,Morgan Stanley,12 month,5.0,Overwt/Cautious,130.0
+2017-01-05,Raymond James,12 month,5.0,outperform,140.0
+2017-01-09,Mizuho Securities USA Inc,Not Provided,3.0,neutral,112.0
+2017-01-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-10,Wedbush,12 month,1.0,underperform,60.0
+2017-01-10,Raymond James,12 month,5.0,outperform,140.0
+2017-01-10,Jefferies,Not Provided,1.0,underperform,80.0
+2017-01-11,Cowen,12 month,5.0,outperform,155.0
+2017-01-11,J.P. Morgan,12 month,5.0,overweight,140.0
+2017-01-11,Credit Suisse,Not Provided,3.0,neutral,133.0
+2017-01-12,Pacific Crest Securities,Not Provided,5.0,overweight,135.0
+2017-01-12,Brean Capital LLC,Not Provided,5.0,buy,145.0
+2017-01-12,Cantor Fitzgerald,Not Provided,5.0,overweight,135.0
+2017-01-12,Morgan Stanley,12 month,5.0,Overwt/Cautious,150.0
+2017-01-12,Drexel Hamilton LLC,12 month,5.0,buy,150.0
+2017-01-12,RBC Capital Markets,12 month,5.0,outperform,150.0
+2017-01-13,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-01-13,MKM Partners,12 month,5.0,buy,165.0
+2017-01-18,Mizuho Securities USA Inc,12 month,5.0,buy,160.0
+2017-01-18,Pacific Crest Securities,Not Provided,5.0,overweight,170.0
+2017-01-18,Evercore ISI,12 month,3.0,hold,140.0
+2017-01-18,Baird,12 month,3.0,neutral,138.0
+2017-01-18,RBC Capital Markets,12 month,5.0,outperform,175.0
+2017-01-18,Jefferies,12 month,1.0,underperform,95.0
+2017-01-18,Canaccord Genuity,12 month,5.0,buy,160.0
+2017-01-19,Goldman Sachs,12 month,5.0,buy/attractive,170.0
+2017-01-19,Credit Suisse,Not Provided,3.0,neutral,143.0
+2017-01-19,Wedbush,12 month,1.0,underperform,68.0
+2017-01-19,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-01-19,J.P. Morgan,12 month,5.0,overweight,175.0
+2017-01-19,Nomura Instinet,12 month,5.0,buy,165.0
+2017-01-19,SunTrust Robinson Humphrey,12 month,3.0,hold,145.0
+2017-01-19,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2017-01-19,Cowen,12 month,5.0,outperform,165.0
+2017-01-19,Macquarie,12 month,3.0,neutral,130.0
+2017-01-19,MoffettNathanson,12 month,3.0,neutral,91.0
+2017-01-19,Needham & Co,Not Provided,3.0,hold,-0.0
+2017-01-19,Oppenheimer & Co,12 month,5.0,outperform,165.0
+2017-01-19,Atlantic Equities LLP,12 month,5.0,overweight,171.0
+2017-01-19,Pivotal Research Group LLC,12 month,5.0,buy,170.0
+2017-01-19,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-01-19,Cantor Fitzgerald,Not Provided,5.0,overweight,160.0
+2017-01-19,Raymond James,12 month,5.0,outperform,160.0
+2017-01-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-19,Stifel,12 month,5.0,buy,155.0
+2017-01-19,FBR Capital Markets,12 month,3.0,market perform,144.0
+2017-01-19,Brean Capital LLC,12 month,5.0,buy,150.0
+2017-01-19,Morgan Stanley,12 month,5.0,Overwt/Cautious,165.0
+2017-01-19,Drexel Hamilton LLC,12 month,5.0,buy,170.0
+2017-01-19,FBN Securities,12 month,5.0,outperform,155.0
+2017-01-19,Guggenheim Securities,12 month,5.0,buy,160.0
+2017-01-19,Piper Jaffray,12 month,5.0,overweight,166.0
+2017-01-19,Loop Capital Markets,12 month,5.0,buy,159.0
+2017-01-20,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2017-01-20,UBS,12 month,3.0,neutral,136.0
+2017-01-23,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-01-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-23,Jefferies,Not Provided,1.0,underperform,95.0
+2017-01-26,Loop Capital Markets,12 month,5.0,buy,159.0
+2017-01-27,Societe Generale,12 month,1.0,sell,106.0
+2017-01-27,MKM Partners,12 month,5.0,buy,175.0
+2017-01-30,Morgan Stanley,12 month,5.0,Overwt/Attractive,165.0
+2017-01-30,Societe Generale,12 month,1.0,sell,106.0
+2017-02-01,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2017-02-06,Canaccord Genuity,Not Provided,5.0,buy,160.0
+2017-02-06,Cantor Fitzgerald,Not Provided,5.0,overweight,160.0
+2017-02-06,Wedbush,Not Provided,1.0,underperform,68.0
+2017-02-06,Raymond James,12 month,5.0,outperform,160.0
+2017-02-06,Stifel,Not Provided,5.0,buy,155.0
+2017-02-10,RBC Capital Markets,12 month,5.0,outperform,175.0
+2017-02-12,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-02-13,Cantor Fitzgerald,Not Provided,5.0,overweight,160.0
+2017-02-13,Jefferies,Not Provided,1.0,underperform,95.0
+2017-02-13,CM Research,Not Provided,1.0,sell,115.31
+2017-02-23,MoffettNathanson,12 month,3.0,neutral,125.0
+2017-02-26,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-02-26,RBC Capital Markets,12 month,5.0,outperform,175.0
+2017-02-27,Jefferies,Not Provided,1.0,underperform,95.0
+2017-02-27,Cantor Fitzgerald,Not Provided,5.0,overweight,160.0
+2017-03-02,Evercore ISI,Not Provided,3.0,in-line,140.0
+2017-03-05,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-03-06,UBS,12 month,5.0,buy,175.0
+2017-03-08,Macquarie,12 month,3.0,neutral,130.0
+2017-03-10,Cantor Fitzgerald,Not Provided,5.0,overweight,160.0
+2017-03-13,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-03-14,Pacific Crest Securities,Not Provided,5.0,overweight,170.0
+2017-03-14,Raymond James,12 month,5.0,outperform,160.0
+2017-03-16,Bernstein,12 month,5.0,outperform,178.0
+2017-03-17,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-03-17,Cantor Fitzgerald,Not Provided,5.0,overweight,160.0
+2017-03-20,Jefferies,Not Provided,3.0,hold,135.0
+2017-03-20,Loop Capital Markets,12 month,5.0,buy,167.0
+2017-03-23,MKM Partners,12 month,5.0,buy,175.0
+2017-03-26,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-03-27,Jefferies,Not Provided,3.0,hold,135.0
+2017-03-29,Mizuho Securities USA Inc,Not Provided,5.0,buy,160.0
+2017-03-30,Bernstein,12 month,5.0,outperform,178.0
+2017-03-31,Cantor Fitzgerald,Not Provided,5.0,overweight,160.0
+2017-04-03,Baird,12 month,3.0,neutral,138.0
+2017-04-03,Canaccord Genuity,Not Provided,5.0,buy,160.0
+2017-04-04,Rosenblatt Securities,12 month,3.0,neutral,150.0
+2017-04-05,Pacific Crest Securities,12 month,5.0,overweight,170.0
+2017-04-07,Loop Capital Markets,12 month,5.0,buy,167.0
+2017-04-09,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-04-10,Cowen,12 month,5.0,outperform,170.0
+2017-04-10,M Science,Not Provided,-2147483648.0,no rating system,-0.0
+2017-04-10,Morgan Stanley,12 month,5.0,Overwt/Attractive,165.0
+2017-04-10,Oppenheimer & Co,12 month,5.0,outperform,165.0
+2017-04-10,Piper Jaffray,12 month,5.0,overweight,166.0
+2017-04-11,MKM Partners,12 month,5.0,buy,175.0
+2017-04-17,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-04-17,Pacific Crest Securities,12 month,5.0,overweight,170.0
+2017-04-17,Jefferies,12 month,3.0,hold,141.0
+2017-04-17,RBC Capital Markets,12 month,5.0,outperform,175.0
+2017-04-17,Raymond James,12 month,5.0,outperform,165.0
+2017-04-18,Wedbush,12 month,1.0,underperform,73.0
+2017-04-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-04-18,Cantor Fitzgerald,12 month,5.0,overweight,165.0
+2017-04-18,Guggenheim Securities,12 month,5.0,buy,175.0
+2017-04-18,FBN Securities,12 month,5.0,outperform,165.0
+2017-04-18,Drexel Hamilton LLC,12 month,5.0,buy,170.0
+2017-04-18,Piper Jaffray,12 month,5.0,overweight,166.0
+2017-04-18,Dougherty & Company LLC,Not Provided,3.0,neutral,-0.0
+2017-04-18,MoffettNathanson,12 month,3.0,neutral,127.0
+2017-04-18,Atlantic Equities LLP,12 month,5.0,overweight,171.0
+2017-04-18,Pivotal Research Group LLC,12 month,5.0,buy,175.0
+2017-04-18,J.P. Morgan,9 month,5.0,overweight,178.0
+2017-04-18,SunTrust Robinson Humphrey,Not Provided,3.0,hold,145.0
+2017-04-18,Credit Suisse,Not Provided,3.0,neutral,149.0
+2017-04-18,Morgan Stanley,12 month,5.0,Overwt/Attractive,175.0
+2017-04-18,Needham & Co,Not Provided,3.0,hold,-0.0
+2017-04-18,Cowen,12 month,5.0,outperform,170.0
+2017-04-18,Baird,12 month,3.0,neutral,140.0
+2017-04-18,Macquarie,12 month,3.0,neutral,130.0
+2017-04-18,Rosenblatt Securities,12 month,3.0,neutral,155.0
+2017-04-18,FBR Capital Markets,Not Provided,3.0,market perform,145.0
+2017-04-18,Stifel,12 month,5.0,buy,170.0
+2017-04-18,Loop Capital Markets,12 month,5.0,buy,172.0
+2017-04-18,Oppenheimer & Co,12 month,5.0,outperform,165.0
+2017-04-18,Nomura Instinet,12 month,5.0,buy,165.0
+2017-04-18,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-04-18,Canaccord Genuity,12 month,5.0,buy,165.0
+2017-04-18,Bernstein,12 month,5.0,outperform,178.0
+2017-04-19,Pacific Crest Securities,Not Provided,5.0,overweight,170.0
+2017-04-19,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-04-19,Jefferies,Not Provided,3.0,hold,141.0
+2017-04-19,Bernstein,Not Provided,5.0,outperform,178.0
+2017-04-20,Canaccord Genuity,12 month,5.0,buy,165.0
+2017-04-23,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-04-24,MKM Partners,12 month,5.0,buy,175.0
+2017-04-24,Macquarie,12 month,3.0,neutral,130.0
+2017-04-25,Raymond James,12 month,5.0,outperform,165.0
+2017-04-26,Loop Capital Markets,12 month,5.0,buy,172.0
+2017-04-26,Stifel,12 month,5.0,buy,170.0
+2017-04-27,FBR Capital Markets,Not Provided,3.0,market perform,145.0
+2017-04-27,BTIG LLC,12 month,5.0,buy,170.0
+2017-04-28,Oppenheimer & Co,12 month,5.0,outperform,165.0
+2017-04-28,Rosenblatt Securities,12 month,3.0,neutral,155.0
+2017-04-30,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-05-01,Macquarie,12 month,3.0,neutral,130.0
+2017-05-01,Jefferies,Not Provided,3.0,hold,141.0
+2017-05-03,"Morningstar, Inc",Not Provided,1.0,sell,-0.0
+2017-05-07,BMO Capital Markets,Not Provided,3.0,market perform,150.0
+2017-05-08,Jefferies,Not Provided,3.0,hold,141.0
+2017-05-09,Bernstein,Not Provided,5.0,outperform,178.0
+2017-05-15,Jefferies,Not Provided,3.0,hold,141.0
+2017-05-15,CM Research,Not Provided,5.0,buy,192.97
+2017-05-16,Bernstein,Not Provided,5.0,outperform,178.0
+2017-05-18,Bernstein,Not Provided,5.0,outperform,178.0
+2017-05-18,Nomura Instinet,12 month,5.0,buy,165.0
+2017-05-19,Bernstein,Not Provided,5.0,outperform,178.0
+2017-05-19,Loop Capital Markets,12 month,5.0,buy,172.0
+2017-05-22,Stifel,Not Provided,5.0,buy,170.0
+2017-05-22,Pacific Crest Securities,Not Provided,5.0,overweight,170.0
+2017-05-23,Loop Capital Markets,12 month,5.0,buy,180.0

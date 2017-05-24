@@ -1,0 +1,1243 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2012-10-31,CRT Capital Group,Not Provided,5.0,buy,-0.0
+2013-04-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2013-05-02,S&P Capital IQ,12 month,3.0,hold,33.0
+2013-05-02,UBS,12 month,5.0,buy,35.0
+2013-05-02,Wolfe Research,12 month,5.0,outperform,37.0
+2013-05-03,Craig-Hallum Capital Group LLC,12 month,5.0,buy,38.0
+2013-05-03,Barclays,Not Provided,5.0,overweight,38.0
+2013-05-03,Goldman Sachs,12 month,5.0,buy/attractive,38.0
+2013-05-09,RBC Capital Markets,12 month,5.0,outperform,41.0
+2013-05-15,Daiwa Securities,Not Provided,5.0,outperform,35.0
+2013-05-20,Argus Research Corp,12 month,5.0,buy,43.0
+2013-05-28,J.P. Morgan,6 month,5.0,overweight,39.0
+2013-06-03,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-06-03,Credit Suisse,Not Provided,5.0,outperform,44.0
+2013-06-04,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-06-04,Guggenheim Securities,12 month,3.0,neutral,25.0
+2013-06-06,Stifel,Not Provided,3.0,hold,-0.0
+2013-06-07,Jefferies,12 month,3.0,hold,36.0
+2013-06-11,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-06-11,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-06-13,RBC Capital Markets,12 month,5.0,outperform,41.0
+2013-06-13,J.P. Morgan,3 month,5.0,overweight,39.0
+2013-06-13,Barclays,Not Provided,5.0,overweight,38.0
+2013-06-13,Jefferies,12 month,3.0,hold,36.0
+2013-06-13,Credit Suisse,Not Provided,5.0,outperform,44.0
+2013-06-13,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-06-14,Stifel,Not Provided,3.0,hold,-0.0
+2013-06-17,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-06-19,Guggenheim Securities,12 month,3.0,neutral,25.0
+2013-06-20,UBS,12 month,5.0,buy,43.0
+2013-06-28,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-06-30,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-07-03,Guggenheim Securities,12 month,3.0,neutral,25.0
+2013-07-10,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-07-12,Barclays,Not Provided,5.0,overweight,42.0
+2013-07-12,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-07-15,J.P. Morgan,3 month,5.0,overweight,49.0
+2013-07-16,Goldman Sachs,12 month,5.0,Buy/Neutral,45.0
+2013-07-16,Guggenheim Securities,12 month,3.0,neutral,25.0
+2013-07-17,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-07-17,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-07-17,Jefferies,12 month,3.0,hold,36.0
+2013-07-18,Argus Research Corp,12 month,5.0,buy,43.0
+2013-07-23,Stifel,Not Provided,3.0,hold,-0.0
+2013-07-24,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-07-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-07-25,Guggenheim Securities,12 month,3.0,neutral,25.0
+2013-07-25,UBS,12 month,5.0,buy,45.0
+2013-07-26,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-07-26,Jefferies,12 month,3.0,hold,38.0
+2013-07-26,RBC Capital Markets,12 month,5.0,outperform,45.0
+2013-07-26,Craig-Hallum Capital Group LLC,12 month,5.0,buy,44.0
+2013-07-26,Barclays,Not Provided,5.0,overweight,48.0
+2013-07-26,J.P. Morgan,15 month,5.0,overweight,49.0
+2013-07-30,Daiwa Securities,Not Provided,5.0,outperform,39.5
+2013-07-30,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-07-31,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-07-31,Stifel,Not Provided,3.0,hold,-0.0
+2013-08-01,S&P Capital IQ,12 month,3.0,hold,33.0
+2013-08-02,Stifel,Not Provided,3.0,hold,-0.0
+2013-08-02,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-08-06,UBS,12 month,5.0,buy,47.0
+2013-08-07,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-08-09,Argus Research Corp,Not Provided,5.0,buy,43.0
+2013-08-11,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-08-15,J.P. Morgan,15 month,5.0,overweight,49.0
+2013-08-19,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-08-20,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-08-20,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-08-26,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-08-27,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-09-04,S&P Capital IQ,12 month,3.0,hold,33.0
+2013-09-05,Guggenheim Securities,12 month,3.0,neutral,25.0
+2013-09-05,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-09-05,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-09-05,Stifel,Not Provided,3.0,hold,-0.0
+2013-09-11,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-09-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-09-11,Stifel,Not Provided,3.0,hold,-0.0
+2013-09-12,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-09-17,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-09-18,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-09-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-09-23,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-09-25,J.P. Morgan,12 month,5.0,overweight,49.0
+2013-09-25,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-10-01,S&P Capital IQ,12 month,3.0,hold,33.0
+2013-10-01,Sterne Agee CRT,12 month,5.0,buy,46.0
+2013-10-02,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-02,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-10-02,Guggenheim Securities,12 month,3.0,neutral,25.0
+2013-10-04,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-07,UBS,12 month,5.0,buy,48.0
+2013-10-09,Tigress Financial Partners,Not Provided,5.0,strong buy,-0.0
+2013-10-10,Sterne Agee CRT,12 month,5.0,buy,50.0
+2013-10-10,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-10-11,Calamatta Cuschieri,12 month,5.0,overweight,52.0
+2013-10-15,Goldman Sachs,12 month,5.0,Buy/Neutral,46.0
+2013-10-16,Barclays,Not Provided,5.0,overweight,49.0
+2013-10-16,Guggenheim Securities,12 month,3.0,neutral,25.0
+2013-10-16,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-10-17,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-10-17,Sterne Agee CRT,12 month,5.0,buy,50.0
+2013-10-21,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-10-21,J.P. Morgan,12 month,5.0,overweight,51.0
+2013-10-22,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-22,Sterne Agee CRT,12 month,5.0,buy,50.0
+2013-10-24,Argus Research Corp,Not Provided,5.0,buy,43.0
+2013-10-30,S&P Capital IQ,12 month,3.0,hold,33.0
+2013-10-30,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-10-30,UBS,12 month,5.0,buy,52.0
+2013-10-31,J.P. Morgan,12 month,5.0,overweight,52.0
+2013-10-31,Jefferies,12 month,3.0,hold,39.0
+2013-10-31,Barclays,Not Provided,5.0,overweight,49.0
+2013-10-31,Craig-Hallum Capital Group LLC,12 month,5.0,buy,44.0
+2013-10-31,Goldman Sachs,12 month,5.0,Buy/Neutral,48.0
+2013-10-31,Morgan Stanley,12 month,5.0,Overwt/In-Line,45.0
+2013-10-31,Sterne Agee CRT,12 month,5.0,buy,50.0
+2013-10-31,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-10-31,Stifel,Not Provided,3.0,hold,-0.0
+2013-10-31,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-11-03,Sterne Agee CRT,12 month,5.0,buy,50.0
+2013-11-04,Guggenheim Securities,12 month,3.0,neutral,25.0
+2013-11-06,Argus Research Corp,Not Provided,5.0,buy,43.0
+2013-11-06,RBC Capital Markets,12 month,5.0,outperform,50.0
+2013-11-07,Stifel,Not Provided,3.0,hold,-0.0
+2013-11-07,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-11-12,Daiwa Securities,Not Provided,5.0,outperform,41.0
+2013-11-13,Sterne Agee CRT,12 month,5.0,buy,50.0
+2013-11-13,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-11-19,Guggenheim Securities,12 month,3.0,neutral,25.0
+2013-11-21,J.P. Morgan,12 month,5.0,overweight,52.0
+2013-11-21,Sterne Agee CRT,12 month,5.0,buy,50.0
+2013-11-21,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-11-21,Barclays,Not Provided,5.0,overweight,49.0
+2013-11-25,UBS,12 month,5.0,buy,50.0
+2013-11-28,Sterne Agee CRT,12 month,5.0,buy,50.0
+2013-11-29,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-12-05,S&P Capital IQ,12 month,3.0,hold,33.0
+2013-12-05,Sterne Agee CRT,12 month,5.0,buy,50.0
+2013-12-05,Stifel,Not Provided,3.0,hold,-0.0
+2013-12-05,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-12-06,Morgan Stanley,12 month,5.0,Overwt/In-Line,47.0
+2013-12-06,J.P. Morgan,12 month,5.0,overweight,52.0
+2013-12-06,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-12-09,RBC Capital Markets,12 month,5.0,outperform,55.0
+2013-12-10,Stifel,Not Provided,3.0,hold,-0.0
+2013-12-10,S&P Capital IQ,12 month,3.0,hold,33.0
+2013-12-11,Morgan Stanley,12 month,5.0,Overwt/In-Line,47.0
+2013-12-12,Sterne Agee CRT,12 month,5.0,buy,50.0
+2013-12-12,Edward Jones,Not Provided,3.0,hold,-0.0
+2013-12-13,J.P. Morgan,12 month,5.0,overweight,52.0
+2013-12-13,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-12-17,Guggenheim Securities,12 month,3.0,neutral,25.0
+2013-12-17,RBC Capital Markets,12 month,5.0,outperform,55.0
+2013-12-19,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-12-30,Buckingham Research Group,12 month,5.0,buy,50.0
+2013-12-30,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-01-02,S&P Capital IQ,Not Provided,3.0,hold,43.0
+2014-01-06,Guggenheim Securities,12 month,3.0,neutral,25.0
+2014-01-06,Morgan Stanley,12 month,5.0,Overwt/In-Line,49.0
+2014-01-06,RBC Capital Markets,12 month,5.0,outperform,55.0
+2014-01-07,Buckingham Research Group,12 month,5.0,buy,50.0
+2014-01-07,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-01-08,Goldman Sachs,12 month,5.0,Buy/Neutral,49.0
+2014-01-08,RBC Capital Markets,12 month,5.0,outperform,55.0
+2014-01-10,Guggenheim Securities,12 month,3.0,neutral,25.0
+2014-01-10,Barclays,Not Provided,5.0,overweight,49.0
+2014-01-10,Morgan Stanley,12 month,5.0,Overwt/In-Line,49.0
+2014-01-10,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-01-13,Evercore ISI,12 month,3.0,hold,45.0
+2014-01-13,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-13,Buckingham Research Group,12 month,5.0,buy,50.0
+2014-01-15,Guggenheim Securities,12 month,3.0,neutral,25.0
+2014-01-15,UBS,12 month,5.0,buy,49.0
+2014-01-15,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-01-15,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-01-15,Morgan Stanley,12 month,5.0,Overwt/In-Line,49.0
+2014-01-15,Craig-Hallum Capital Group LLC,12 month,5.0,buy,43.0
+2014-01-16,RBC Capital Markets,12 month,5.0,outperform,52.0
+2014-01-16,Barclays,Not Provided,5.0,overweight,49.0
+2014-01-16,Buckingham Research Group,12 month,5.0,buy,50.0
+2014-01-16,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-16,J.P. Morgan,12 month,5.0,overweight,52.0
+2014-01-24,Jefferies,12 month,3.0,hold,39.0
+2014-01-24,Evercore ISI,12 month,3.0,hold,45.0
+2014-01-24,Stifel,Not Provided,3.0,hold,-0.0
+2014-01-27,Goldman Sachs,12 month,5.0,Buy/Neutral,48.0
+2014-01-27,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-01-27,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-01-27,J.P. Morgan,9 month,5.0,overweight,52.0
+2014-01-28,Morgan Stanley,12 month,5.0,Overwt/In-Line,49.0
+2014-01-29,Argus Research Corp,Not Provided,5.0,buy,43.0
+2014-01-31,Morgan Stanley,12 month,5.0,Overwt/In-Line,49.0
+2014-02-04,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-02-04,Guggenheim Securities,12 month,3.0,neutral,25.0
+2014-02-04,Stifel,Not Provided,3.0,hold,-0.0
+2014-02-05,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-02-06,UBS,12 month,5.0,buy,52.0
+2014-02-06,Guggenheim Securities,12 month,3.0,neutral,25.0
+2014-02-06,Stifel,Not Provided,3.0,hold,-0.0
+2014-02-06,Craig-Hallum Capital Group LLC,12 month,5.0,buy,41.0
+2014-02-07,Barclays,Not Provided,5.0,overweight,47.0
+2014-02-07,Morgan Stanley,12 month,5.0,Overwt/In-Line,49.0
+2014-02-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-02-07,RBC Capital Markets,12 month,5.0,outperform,48.0
+2014-02-10,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-02-10,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-02-11,J.P. Morgan,9 month,5.0,overweight,52.0
+2014-02-14,Stifel,Not Provided,3.0,hold,-0.0
+2014-02-17,Morgan Stanley,12 month,5.0,Overwt/In-Line,49.0
+2014-02-18,Argus Research Corp,Not Provided,5.0,buy,43.0
+2014-02-18,Guggenheim Securities,12 month,3.0,neutral,35.0
+2014-02-20,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-02-20,Evercore ISI,12 month,3.0,neutral,45.0
+2014-02-25,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-02-26,Barclays,Not Provided,5.0,overweight,47.0
+2014-02-27,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-02-27,Stifel,Not Provided,3.0,hold,-0.0
+2014-02-28,Daiwa Securities,Not Provided,5.0,buy,44.0
+2014-02-28,Evercore ISI,12 month,3.0,neutral,45.0
+2014-03-04,Guggenheim Securities,12 month,3.0,neutral,35.0
+2014-03-05,RBC Capital Markets,12 month,5.0,outperform,48.0
+2014-03-05,Barclays,Not Provided,5.0,overweight,47.0
+2014-03-05,J.P. Morgan,9 month,5.0,overweight,52.0
+2014-03-05,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-03-05,Stifel,Not Provided,3.0,hold,-0.0
+2014-03-06,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-03-11,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-03-11,Stifel,Not Provided,3.0,hold,-0.0
+2014-03-12,Evercore ISI,12 month,3.0,neutral,45.0
+2014-03-12,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-03-12,J.P. Morgan,9 month,5.0,overweight,52.0
+2014-03-13,Guggenheim Securities,12 month,3.0,neutral,35.0
+2014-03-13,UBS,12 month,5.0,buy,51.0
+2014-03-13,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-03-17,Stifel,Not Provided,3.0,hold,-0.0
+2014-03-18,Guggenheim Securities,12 month,3.0,neutral,35.0
+2014-03-18,J.P. Morgan,9 month,5.0,overweight,52.0
+2014-03-20,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-03-20,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-03-20,Evercore ISI,12 month,3.0,neutral,45.0
+2014-03-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-03-25,Guggenheim Securities,12 month,3.0,neutral,35.0
+2014-03-26,Barclays,Not Provided,5.0,overweight,46.0
+2014-03-27,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-03-27,Evercore ISI,12 month,3.0,neutral,45.0
+2014-03-27,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-03-31,UBS,12 month,5.0,buy,49.0
+2014-04-01,J.P. Morgan,9 month,5.0,overweight,50.0
+2014-04-01,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-04-01,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-04-02,Stifel,Not Provided,3.0,hold,-0.0
+2014-04-02,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-04-02,Nomura,12 month,2.0,reduce,32.0
+2014-04-03,Evercore ISI,12 month,3.0,neutral,45.0
+2014-04-03,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-04-08,Nomura,12 month,2.0,reduce,32.0
+2014-04-08,RBC Capital Markets,12 month,5.0,outperform,46.0
+2014-04-09,Morgan Stanley,12 month,1.0,Underwt/In-Line,33.0
+2014-04-10,Evercore ISI,12 month,3.0,neutral,35.0
+2014-04-10,UBS,12 month,5.0,buy,48.0
+2014-04-10,Daiwa Securities,Not Provided,5.0,buy,42.0
+2014-04-10,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-04-10,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-04-10,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-04-10,Barclays,Not Provided,5.0,overweight,46.0
+2014-04-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2014-04-11,J.P. Morgan,9 month,5.0,overweight,50.0
+2014-04-14,Morgan Stanley,12 month,1.0,Underwt/In-Line,33.0
+2014-04-15,RBC Capital Markets,12 month,5.0,outperform,45.0
+2014-04-15,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-04-16,Goldman Sachs,12 month,5.0,Buy/Neutral,46.0
+2014-04-17,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-04-17,Stifel,Not Provided,3.0,hold,-0.0
+2014-04-17,Evercore ISI,12 month,3.0,neutral,35.0
+2014-04-24,Goldman Sachs,12 month,5.0,Buy/Neutral,47.0
+2014-04-24,UBS,12 month,5.0,buy,49.0
+2014-04-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-04-24,Stifel,Not Provided,3.0,hold,-0.0
+2014-04-24,Nomura,12 month,2.0,reduce,32.0
+2014-04-24,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-04-24,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-04-25,J.P. Morgan,6 month,5.0,overweight,50.0
+2014-04-25,RBC Capital Markets,12 month,5.0,outperform,44.0
+2014-04-25,Evercore ISI,12 month,3.0,neutral,35.0
+2014-04-25,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-25,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-04-25,Craig-Hallum Capital Group LLC,12 month,3.0,hold,37.0
+2014-04-25,Morgan Stanley,12 month,1.0,Underwt/In-Line,33.0
+2014-04-25,Barclays,Not Provided,5.0,overweight,46.0
+2014-05-01,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-05-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-05-02,Stifel,Not Provided,3.0,hold,-0.0
+2014-05-02,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-05-05,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-05-07,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-05-08,Nomura,12 month,2.0,reduce,32.0
+2014-05-09,Argus Research Corp,Not Provided,5.0,buy,43.0
+2014-05-09,Evercore ISI,12 month,3.0,neutral,35.0
+2014-05-12,Stifel,Not Provided,3.0,hold,-0.0
+2014-05-14,Barclays,Not Provided,5.0,overweight,46.0
+2014-05-15,RBC Capital Markets,12 month,5.0,outperform,44.0
+2014-05-15,Morgan Stanley,12 month,1.0,Underwt/In-Line,33.0
+2014-05-15,S&P Capital IQ,Not Provided,5.0,strong buy,48.0
+2014-05-15,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-05-16,J.P. Morgan,6 month,5.0,overweight,50.0
+2014-05-16,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-05-16,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-05-16,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-05-16,Evercore ISI,12 month,3.0,neutral,35.0
+2014-05-20,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-05-20,RBC Capital Markets,12 month,5.0,outperform,44.0
+2014-05-21,Morgan Stanley,12 month,1.0,Underwt/In-Line,33.0
+2014-05-21,J.P. Morgan,6 month,5.0,overweight,50.0
+2014-05-21,Evercore ISI,12 month,3.0,neutral,35.0
+2014-05-21,Stifel,Not Provided,3.0,hold,-0.0
+2014-05-22,Barclays,Not Provided,5.0,overweight,46.0
+2014-05-22,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-05-26,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-05-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-05-27,RBC Capital Markets,12 month,5.0,outperform,44.0
+2014-05-30,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-05-30,Stifel,Not Provided,3.0,hold,-0.0
+2014-06-02,Evercore ISI,12 month,3.0,neutral,35.0
+2014-06-05,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-06-05,Morgan Stanley,12 month,1.0,Underwt/In-Line,33.0
+2014-06-05,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-06-05,J.P. Morgan,6 month,5.0,overweight,50.0
+2014-06-06,Evercore ISI,12 month,3.0,neutral,35.0
+2014-06-06,RBC Capital Markets,12 month,5.0,outperform,44.0
+2014-06-09,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-06-09,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-06-09,Stifel,Not Provided,3.0,hold,-0.0
+2014-06-12,Evercore ISI,12 month,3.0,neutral,35.0
+2014-06-13,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-06-16,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-06-17,J.P. Morgan,6 month,5.0,overweight,50.0
+2014-06-18,Stifel,Not Provided,3.0,hold,-0.0
+2014-06-19,Goldman Sachs,12 month,5.0,Buy/Neutral,46.0
+2014-06-19,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-06-20,Evercore ISI,12 month,3.0,neutral,35.0
+2014-06-23,Tigress Financial Partners,Not Provided,5.0,strong buy,-0.0
+2014-06-23,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-06-27,Morgan Stanley,12 month,1.0,Underwt/In-Line,33.0
+2014-06-30,Barclays,Not Provided,5.0,overweight,46.0
+2014-06-30,Stifel,Not Provided,3.0,hold,-0.0
+2014-06-30,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-06-30,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-06-30,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-07-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-07-01,J.P. Morgan,3 month,5.0,overweight,50.0
+2014-07-07,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-07-07,Stifel,Not Provided,3.0,hold,-0.0
+2014-07-08,Evercore ISI,12 month,3.0,neutral,35.0
+2014-07-08,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-07-09,Evercore ISI,12 month,3.0,neutral,35.0
+2014-07-11,RBC Capital Markets,12 month,5.0,outperform,58.0
+2014-07-13,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-07-14,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-07-14,Stifel,Not Provided,3.0,hold,-0.0
+2014-07-14,UBS,12 month,5.0,buy,54.0
+2014-07-14,Barclays,Not Provided,5.0,overweight,46.0
+2014-07-17,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-07-22,Erste Group,Not Provided,3.0,hold,-0.0
+2014-07-22,Evercore ISI,12 month,3.0,neutral,35.0
+2014-07-22,J.P. Morgan,3 month,5.0,overweight,50.0
+2014-07-24,Evercore ISI,12 month,3.0,neutral,35.0
+2014-07-24,UBS,12 month,5.0,buy,54.0
+2014-07-24,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-07-24,Stifel,Not Provided,3.0,hold,-0.0
+2014-07-25,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-07-25,Goldman Sachs,12 month,5.0,Buy/Neutral,48.0
+2014-07-25,Craig-Hallum Capital Group LLC,12 month,3.0,hold,37.0
+2014-07-25,J.P. Morgan,3 month,5.0,overweight,50.0
+2014-07-25,Morgan Stanley,12 month,1.0,Underwt/In-Line,33.0
+2014-07-25,RBC Capital Markets,12 month,5.0,outperform,45.0
+2014-07-28,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-07-28,Barclays,Not Provided,5.0,overweight,46.0
+2014-07-28,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-07-28,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-08-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-08-01,Stifel,Not Provided,3.0,hold,-0.0
+2014-08-04,Sterne Agee CRT,Not Provided,5.0,buy,50.0
+2014-08-04,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-08-07,Argus Research Corp,Not Provided,5.0,buy,43.0
+2014-08-11,Stifel,Not Provided,3.0,hold,-0.0
+2014-08-11,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-08-12,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-08-13,Credit Suisse,Not Provided,1.0,underperform,33.0
+2014-08-19,Buckingham Research Group,Not Provided,5.0,buy,45.0
+2014-08-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-08-25,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-08-25,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-08-27,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-09-01,Stifel,Not Provided,3.0,hold,-0.0
+2014-09-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-09-03,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-09-05,Evercore ISI,12 month,3.0,neutral,35.0
+2014-09-08,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-09-08,UBS,12 month,5.0,buy,50.0
+2014-09-08,Stifel,Not Provided,3.0,hold,-0.0
+2014-09-09,Morgan Stanley,12 month,1.0,Underwt/Cautious,29.0
+2014-09-10,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-09-11,Morgan Stanley,12 month,1.0,Underwt/Cautious,29.0
+2014-09-16,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-09-17,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-09-19,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-09-22,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-09-22,J.P. Morgan,3 month,5.0,overweight,51.0
+2014-09-22,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-09-26,Stifel,Not Provided,3.0,hold,-0.0
+2014-09-30,Morgan Stanley,12 month,1.0,Underwt/Cautious,29.0
+2014-10-01,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-10-01,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-10-01,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-10-02,J.P. Morgan,12 month,5.0,overweight,51.0
+2014-10-02,RBC Capital Markets,12 month,5.0,outperform,41.0
+2014-10-02,Barclays,Not Provided,5.0,overweight,45.0
+2014-10-02,Evercore ISI,12 month,3.0,neutral,35.0
+2014-10-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-10-02,Credit Suisse,Not Provided,1.0,underperform,33.0
+2014-10-07,UBS,12 month,5.0,buy,48.0
+2014-10-07,Stifel,Not Provided,3.0,hold,-0.0
+2014-10-08,Tigress Financial Partners,Not Provided,5.0,strong buy,-0.0
+2014-10-08,Morgan Stanley,12 month,1.0,Underwt/Cautious,27.0
+2014-10-08,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-10-09,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-10-13,Evercore ISI,Not Provided,3.0,hold,35.0
+2014-10-13,Goldman Sachs,12 month,5.0,Buy/Neutral,47.0
+2014-10-13,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-10-13,Stifel,Not Provided,3.0,hold,-0.0
+2014-10-13,Sterne Agee CRT,Not Provided,5.0,buy,50.0
+2014-10-14,Barclays,Not Provided,5.0,overweight,43.0
+2014-10-14,RBC Capital Markets,12 month,5.0,outperform,41.0
+2014-10-14,Morgan Stanley,12 month,1.0,Underwt/Cautious,27.0
+2014-10-20,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-10-20,J.P. Morgan,12 month,5.0,overweight,47.0
+2014-10-20,Credit Suisse,Not Provided,1.0,underperform,33.0
+2014-10-20,Buckingham Research Group,12 month,5.0,buy,45.0
+2014-10-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-10-21,Susquehanna Financial,12 month,3.0,neutral,30.0
+2014-10-22,Barclays,Not Provided,5.0,overweight,43.0
+2014-10-22,Evercore ISI,12 month,3.0,hold,35.0
+2014-10-22,Morgan Stanley,12 month,1.0,Underwt/Cautious,27.0
+2014-10-23,Credit Suisse,Not Provided,1.0,underperform,30.0
+2014-10-23,Evercore ISI,12 month,3.0,hold,35.0
+2014-10-23,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-10-23,Stifel,Not Provided,3.0,hold,-0.0
+2014-10-24,J.P. Morgan,12 month,5.0,overweight,47.0
+2014-10-24,Morgan Stanley,12 month,1.0,Underwt/Cautious,27.0
+2014-10-24,Barclays,Not Provided,5.0,overweight,41.0
+2014-10-24,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-10-24,Craig-Hallum Capital Group LLC,12 month,3.0,hold,34.0
+2014-10-24,RBC Capital Markets,12 month,5.0,outperform,41.0
+2014-10-24,Susquehanna Financial,12 month,3.0,neutral,30.0
+2014-10-27,Buckingham Research Group,12 month,5.0,buy,42.0
+2014-10-28,Argus Research Corp,Not Provided,5.0,buy,43.0
+2014-10-28,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2014-11-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-11-03,Buckingham Research Group,12 month,5.0,buy,42.0
+2014-11-05,Morgan Stanley,12 month,1.0,Underwt/Cautious,27.0
+2014-11-06,Stifel,Not Provided,3.0,hold,-0.0
+2014-11-10,Buckingham Research Group,12 month,5.0,buy,42.0
+2014-11-10,Evercore ISI,12 month,3.0,hold,35.0
+2014-11-11,Morgan Stanley,12 month,1.0,Underwt/Cautious,27.0
+2014-11-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-11-12,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-11-13,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-11-14,J.P. Morgan,18 month,5.0,overweight,47.0
+2014-11-18,Morgan Stanley,12 month,1.0,Underwt/Cautious,27.0
+2014-11-19,Buckingham Research Group,12 month,5.0,buy,42.0
+2014-11-20,Evercore ISI,12 month,3.0,hold,35.0
+2014-11-23,Sterne Agee CRT,12 month,5.0,buy,50.0
+2014-11-24,Buckingham Research Group,12 month,5.0,buy,42.0
+2014-11-25,Morgan Stanley,12 month,1.0,Underwt/Cautious,27.0
+2014-12-01,Susquehanna Financial,12 month,3.0,neutral,28.0
+2014-12-02,Sterne Agee CRT,Not Provided,5.0,buy,-0.0
+2014-12-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-12-03,Stifel,Not Provided,3.0,hold,-0.0
+2014-12-04,Buckingham Research Group,12 month,5.0,buy,42.0
+2014-12-08,Stifel,Not Provided,3.0,hold,-0.0
+2014-12-09,Edward Jones,Not Provided,3.0,hold,-0.0
+2014-12-09,Susquehanna Financial,12 month,3.0,neutral,28.0
+2014-12-10,Sterne Agee CRT,Not Provided,5.0,buy,50.0
+2014-12-11,Evercore ISI,12 month,3.0,hold,35.0
+2014-12-11,Buckingham Research Group,12 month,5.0,buy,42.0
+2014-12-15,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-12-16,Sterne Agee CRT,Not Provided,5.0,buy,50.0
+2014-12-16,Morgan Stanley,12 month,1.0,Underwt/Cautious,27.0
+2014-12-16,RBC Capital Markets,12 month,3.0,sector perform,35.0
+2014-12-16,Evercore ISI,12 month,3.0,hold,35.0
+2014-12-16,Barclays,Not Provided,5.0,overweight,41.0
+2014-12-18,Buckingham Research Group,12 month,5.0,buy,42.0
+2014-12-19,J.P. Morgan,12 month,5.0,overweight,47.0
+2014-12-19,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2014-12-22,Sterne Agee CRT,Not Provided,5.0,buy,50.0
+2014-12-26,Buckingham Research Group,12 month,5.0,buy,42.0
+2014-12-31,Stifel,Not Provided,3.0,hold,-0.0
+2015-01-02,Morgan Stanley,12 month,1.0,Underwt/Cautious,27.0
+2015-01-05,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-01-05,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-01-05,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-01-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-01-09,Credit Suisse,Not Provided,1.0,underperform,32.0
+2015-01-09,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-01-12,RBC Capital Markets,12 month,3.0,sector perform,35.0
+2015-01-12,Evercore ISI,12 month,3.0,hold,35.0
+2015-01-12,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-01-12,Barclays,Not Provided,5.0,overweight,42.0
+2015-01-14,Credit Suisse,Not Provided,1.0,underperform,32.0
+2015-01-14,UBS,12 month,5.0,buy,47.0
+2015-01-15,Barclays,Not Provided,5.0,overweight,43.0
+2015-01-15,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-01-16,Susquehanna Financial,12 month,3.0,neutral,28.0
+2015-01-16,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2015-01-16,Stifel,Not Provided,3.0,hold,-0.0
+2015-01-19,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-01-20,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-01-22,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-01-23,J.P. Morgan,12 month,5.0,overweight,46.0
+2015-01-25,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-01-26,Morgan Stanley,12 month,1.0,Underwt/Cautious,28.0
+2015-01-26,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-02-02,Morgan Stanley,12 month,1.0,Underwt/Cautious,28.0
+2015-02-03,Barclays,Not Provided,5.0,overweight,43.0
+2015-02-03,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-02-03,Sterne Agee CRT,Not Provided,5.0,buy,50.0
+2015-02-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-02-03,Stifel,Not Provided,3.0,hold,-0.0
+2015-02-04,Jyske Bank,Not Provided,5.0,strong buy,41.0
+2015-02-04,Credit Suisse,Not Provided,1.0,underperform,33.0
+2015-02-04,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-02-04,Evercore ISI,12 month,3.0,hold,35.0
+2015-02-05,J.P. Morgan,12 month,5.0,overweight,46.0
+2015-02-05,Craig-Hallum Capital Group LLC,12 month,5.0,buy,44.0
+2015-02-05,Goldman Sachs,12 month,5.0,Buy/Neutral,45.0
+2015-02-05,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2015-02-05,UBS,12 month,5.0,buy,48.0
+2015-02-09,Stifel,Not Provided,3.0,hold,-0.0
+2015-02-10,Barclays,Not Provided,5.0,overweight,44.0
+2015-02-10,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2015-02-10,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-02-10,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-02-10,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-02-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2015-02-11,J.P. Morgan,12 month,5.0,overweight,46.0
+2015-02-16,Sterne Agee CRT,Not Provided,5.0,buy,50.0
+2015-02-17,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-02-17,Susquehanna Financial,12 month,3.0,neutral,28.0
+2015-02-19,Tigress Financial Partners,Not Provided,5.0,strong buy,-0.0
+2015-02-20,Argus Research Corp,Not Provided,5.0,buy,43.0
+2015-02-20,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-02-24,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-02-25,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2015-02-26,Evercore ISI,Not Provided,3.0,hold,44.0
+2015-03-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-03-04,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-03-04,Stifel,Not Provided,3.0,hold,-0.0
+2015-03-04,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-03-09,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-03-09,Stifel,Not Provided,3.0,hold,-0.0
+2015-03-09,Goldman Sachs,12 month,5.0,Buy/Neutral,46.0
+2015-03-09,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-03-09,Barclays,Not Provided,5.0,overweight,44.0
+2015-03-09,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-03-10,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-03-10,Argus Research Corp,Not Provided,5.0,buy,43.0
+2015-03-10,J.P. Morgan,9 month,5.0,overweight,46.0
+2015-03-10,RBC Capital Markets,12 month,3.0,sector perform,41.0
+2015-03-10,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2015-03-17,Argus Research Corp,Not Provided,5.0,buy,45.0
+2015-03-17,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-03-18,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-03-18,Barclays,Not Provided,5.0,overweight,44.0
+2015-03-18,Morgan Stanley,12 month,1.0,Underwt/Cautious,28.0
+2015-03-19,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-03-19,J.P. Morgan,9 month,5.0,overweight,46.0
+2015-03-23,Buckingham Research Group,Not Provided,5.0,buy,42.0
+2015-03-24,Credit Suisse,Not Provided,1.0,underperform,33.0
+2015-03-30,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-03-31,Morgan Stanley,12 month,1.0,Underwt/Cautious,28.0
+2015-04-01,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-04-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-04-06,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-04-07,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2015-04-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-04-07,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-07,J.P. Morgan,9 month,5.0,overweight,46.0
+2015-04-08,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-04-09,Goldman Sachs,12 month,5.0,Buy/Neutral,47.0
+2015-04-09,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-04-12,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-04-14,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-04-15,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-04-16,Barclays,Not Provided,5.0,overweight,44.0
+2015-04-16,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-04-16,Credit Suisse,Not Provided,1.0,underperform,33.0
+2015-04-16,Morgan Stanley,12 month,1.0,Underwt/Cautious,28.0
+2015-04-16,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-20,J.P. Morgan,12 month,5.0,overweight,46.0
+2015-04-22,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-04-22,Susquehanna Financial,12 month,3.0,neutral,39.0
+2015-04-23,Morgan Stanley,12 month,1.0,Underwt/Cautious,28.0
+2015-04-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-04-23,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-04-23,Credit Suisse,Not Provided,1.0,underperform,33.0
+2015-04-23,Stifel,Not Provided,3.0,hold,-0.0
+2015-04-23,Barclays,Not Provided,5.0,overweight,44.0
+2015-04-23,Evercore ISI,12 month,3.0,hold,44.0
+2015-04-23,UBS,12 month,5.0,buy,46.0
+2015-04-23,Buckingham Research Group,12 month,5.0,buy,42.0
+2015-04-24,Craig-Hallum Capital Group LLC,12 month,5.0,buy,44.0
+2015-04-24,J.P. Morgan,9 month,5.0,overweight,46.0
+2015-04-24,Barclays,Not Provided,5.0,overweight,44.0
+2015-04-24,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2015-04-24,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-04-29,Susquehanna Financial,12 month,3.0,neutral,36.0
+2015-04-30,Morgan Stanley,12 month,1.0,Underwt/Cautious,28.0
+2015-04-30,Buckingham Research Group,12 month,3.0,neutral,37.0
+2015-05-01,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-05-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-05-01,Argus Research Corp,Not Provided,5.0,buy,45.0
+2015-05-03,Stifel,Not Provided,3.0,hold,-0.0
+2015-05-05,Morgan Stanley,12 month,1.0,Underwt/Cautious,28.0
+2015-05-06,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-05-07,Buckingham Research Group,12 month,3.0,neutral,37.0
+2015-05-08,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2015-05-12,Evercore ISI,12 month,3.0,hold,44.0
+2015-05-12,Stifel,Not Provided,3.0,hold,-0.0
+2015-05-14,Buckingham Research Group,12 month,3.0,neutral,37.0
+2015-05-20,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-05-20,Morgan Stanley,12 month,1.0,Underwt/Cautious,28.0
+2015-05-20,J.P. Morgan,9 month,5.0,overweight,46.0
+2015-05-20,Stifel,Not Provided,3.0,hold,-0.0
+2015-05-21,Buckingham Research Group,12 month,3.0,neutral,37.0
+2015-05-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-05-28,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-05-28,Morgan Stanley,12 month,3.0,Equalwt/Cautious,28.0
+2015-05-29,Barclays,Not Provided,5.0,overweight,44.0
+2015-05-29,Buckingham Research Group,12 month,3.0,neutral,37.0
+2015-06-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-06-03,Morgan Stanley,12 month,3.0,Equalwt/Cautious,28.0
+2015-06-04,Stifel,Not Provided,3.0,hold,-0.0
+2015-06-04,Buckingham Research Group,12 month,3.0,neutral,37.0
+2015-06-05,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-06-08,RBC Capital Markets,12 month,3.0,sector perform,42.0
+2015-06-09,Barclays,Not Provided,5.0,overweight,44.0
+2015-06-11,J.P. Morgan,6 month,5.0,overweight,46.0
+2015-06-11,Buckingham Research Group,12 month,3.0,neutral,37.0
+2015-06-12,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2015-06-14,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-06-18,Buckingham Research Group,12 month,3.0,neutral,37.0
+2015-06-19,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-06-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-06-23,Barclays,Not Provided,5.0,overweight,44.0
+2015-06-23,Goldman Sachs,12 month,3.0,neutral/neutral,40.0
+2015-06-25,Buckingham Research Group,Not Provided,3.0,neutral,37.0
+2015-06-29,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-07-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-07-02,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-02,Buckingham Research Group,12 month,3.0,neutral,37.0
+2015-07-08,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-09,RBC Capital Markets,12 month,3.0,sector perform,40.0
+2015-07-12,Sterne Agee CRT,12 month,5.0,buy,50.0
+2015-07-13,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-07-14,Goldman Sachs,12 month,3.0,neutral/neutral,42.0
+2015-07-16,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-07-16,Barclays,Not Provided,3.0,equalweight,36.0
+2015-07-17,Susquehanna Financial,12 month,3.0,neutral,35.0
+2015-07-17,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-07-20,J.P. Morgan,6 month,5.0,overweight,44.0
+2015-07-23,RBC Capital Markets,12 month,3.0,sector perform,38.0
+2015-07-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-07-23,Sterne Agee CRT,12 month,5.0,buy,46.0
+2015-07-23,Evercore ISI,12 month,3.0,hold,44.0
+2015-07-23,Craig-Hallum Capital Group LLC,12 month,5.0,buy,37.0
+2015-07-23,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-07-24,Goldman Sachs,12 month,3.0,neutral/neutral,43.0
+2015-07-24,Credit Suisse,Not Provided,3.0,neutral,33.0
+2015-07-24,UBS,12 month,5.0,buy,49.0
+2015-07-24,J.P. Morgan,6 month,5.0,overweight,45.0
+2015-07-24,Barclays,Not Provided,3.0,equalweight,36.0
+2015-07-27,Tigress Financial Partners,Not Provided,5.0,strong buy,-0.0
+2015-07-27,Stifel,Not Provided,3.0,hold,-0.0
+2015-07-27,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-08-03,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-08-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-08-04,Susquehanna Financial,12 month,3.0,neutral,36.0
+2015-08-04,Stifel,Not Provided,3.0,hold,-0.0
+2015-08-10,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2015-08-10,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-08-17,Stifel,Not Provided,3.0,hold,-0.0
+2015-08-17,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-08-18,RBC Capital Markets,12 month,3.0,sector perform,38.0
+2015-08-20,Sterne Agee CRT,Not Provided,5.0,buy,46.0
+2015-08-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-08-23,Morgan Stanley,12 month,1.0,Underwt/Cautious,27.0
+2015-08-24,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-08-24,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-08-28,Stifel,Not Provided,3.0,hold,-0.0
+2015-08-31,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2015-08-31,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-08-31,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-09-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-09-04,Jyske Bank,Not Provided,5.0,strong buy,37.0
+2015-09-08,Evercore ISI,Not Provided,3.0,hold,44.0
+2015-09-08,Sterne Agee CRT,12 month,5.0,buy,46.0
+2015-09-08,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-09-13,Stifel,Not Provided,3.0,hold,-0.0
+2015-09-14,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-09-16,Credit Suisse,Not Provided,3.0,neutral,33.0
+2015-09-16,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-09-17,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-09-17,Sterne Agee CRT,12 month,5.0,buy,46.0
+2015-09-18,J.P. Morgan,6 month,5.0,overweight,44.0
+2015-09-23,Stifel,Not Provided,3.0,hold,-0.0
+2015-09-28,Barclays,Not Provided,3.0,equalweight,36.0
+2015-09-29,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-09-29,Sterne Agee CRT,12 month,5.0,buy,46.0
+2015-09-29,Credit Suisse,Not Provided,3.0,neutral,33.0
+2015-10-01,UBS,12 month,5.0,buy,48.0
+2015-10-02,Barclays,Not Provided,3.0,equalweight,36.0
+2015-10-02,J.P. Morgan,6 month,5.0,overweight,45.0
+2015-10-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-10-02,RBC Capital Markets,12 month,3.0,sector perform,38.0
+2015-10-06,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-10-06,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-07,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-10-08,Sterne Agee CRT,12 month,5.0,buy,46.0
+2015-10-09,Evercore ISI,12 month,3.0,hold,44.0
+2015-10-09,Jyske Bank,Not Provided,5.0,strong buy,39.0
+2015-10-12,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2015-10-12,RBC Capital Markets,12 month,3.0,sector perform,38.0
+2015-10-13,Credit Suisse,Not Provided,3.0,neutral,36.0
+2015-10-14,Goldman Sachs,12 month,3.0,neutral/neutral,45.0
+2015-10-16,Buckingham Research Group,12 month,3.0,neutral,28.0
+2015-10-16,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-10-18,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2015-10-19,Sterne Agee CRT,12 month,5.0,buy,46.0
+2015-10-20,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-20,Susquehanna Financial,12 month,3.0,neutral,37.0
+2015-10-20,Barclays,Not Provided,3.0,equalweight,36.0
+2015-10-20,J.P. Morgan,18 month,5.0,overweight,45.0
+2015-10-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-10-21,Goldman Sachs,12 month,3.0,neutral/neutral,46.0
+2015-10-21,Craig-Hallum Capital Group LLC,12 month,5.0,buy,40.0
+2015-10-21,UBS,12 month,5.0,buy,50.0
+2015-10-21,Sterne Agee CRT,12 month,5.0,buy,46.0
+2015-10-21,Evercore ISI,12 month,3.0,hold,44.0
+2015-10-21,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-10-21,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2015-10-22,Barclays,Not Provided,3.0,equalweight,38.0
+2015-10-22,J.P. Morgan,18 month,5.0,overweight,47.0
+2015-10-22,Stifel,Not Provided,3.0,hold,-0.0
+2015-10-23,Argus Research Corp,Not Provided,5.0,buy,45.0
+2015-10-26,Buckingham Research Group,12 month,3.0,neutral,32.0
+2015-10-26,Credit Suisse,Not Provided,3.0,neutral,37.0
+2015-10-29,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2015-10-30,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2015-11-01,Stifel,Not Provided,3.0,hold,-0.0
+2015-11-02,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-11-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-11-03,Buckingham Research Group,12 month,3.0,neutral,32.0
+2015-11-05,Value Investment Principals,12 month,5.0,buy,47.0
+2015-11-06,Buckingham Research Group,12 month,3.0,neutral,32.0
+2015-11-08,Stifel,Not Provided,3.0,hold,-0.0
+2015-11-10,Jyske Bank,Not Provided,5.0,strong buy,43.0
+2015-11-10,Sterne Agee CRT,12 month,5.0,buy,46.0
+2015-11-16,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2015-11-16,Buckingham Research Group,12 month,3.0,neutral,32.0
+2015-11-18,Sterne Agee CRT,12 month,5.0,buy,46.0
+2015-11-19,J.P. Morgan,12 month,5.0,overweight,47.0
+2015-11-22,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-11-23,Buckingham Research Group,12 month,3.0,neutral,32.0
+2015-11-25,Tigress Financial Partners,Not Provided,5.0,strong buy,-0.0
+2015-11-30,Sterne Agee CRT,12 month,5.0,buy,46.0
+2015-11-30,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-12-01,Credit Suisse,Not Provided,3.0,neutral,37.0
+2015-12-02,Buckingham Research Group,12 month,3.0,neutral,32.0
+2015-12-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-06,Stifel,Not Provided,3.0,hold,-0.0
+2015-12-08,Buckingham Research Group,12 month,3.0,neutral,32.0
+2015-12-09,Credit Suisse,Not Provided,3.0,neutral,37.0
+2015-12-16,Buckingham Research Group,12 month,3.0,neutral,32.0
+2015-12-16,Stifel,Not Provided,3.0,hold,-0.0
+2015-12-16,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2015-12-16,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2015-12-21,Buckingham Research Group,12 month,3.0,neutral,32.0
+2015-12-22,Jyske Bank,Not Provided,5.0,strong buy,40.0
+2015-12-22,Sterne Agee CRT,12 month,5.0,buy,46.0
+2015-12-29,Edward Jones,Not Provided,3.0,hold,-0.0
+2015-12-31,Buckingham Research Group,12 month,3.0,neutral,32.0
+2015-12-31,Sterne Agee CRT,12 month,5.0,buy,46.0
+2016-01-05,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-05,Sterne Agee CRT,12 month,5.0,buy,46.0
+2016-01-05,Credit Suisse,Not Provided,3.0,neutral,37.0
+2016-01-07,RBC Capital Markets,12 month,3.0,sector perform,39.0
+2016-01-07,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-01-08,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-01-08,Barclays,Not Provided,3.0,equalweight,39.0
+2016-01-11,Evercore ISI,Not Provided,3.0,hold,44.0
+2016-01-13,Stifel,Not Provided,3.0,hold,-0.0
+2016-01-13,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-01-13,Barclays,Not Provided,3.0,equalweight,39.0
+2016-01-13,Sterne Agee CRT,12 month,5.0,buy,46.0
+2016-01-13,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-01-14,Value Investment Principals,12 month,5.0,buy,47.0
+2016-01-14,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-01-14,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2016-01-14,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-01-15,RBC Capital Markets,12 month,3.0,sector perform,35.0
+2016-01-21,Stifel,Not Provided,3.0,hold,-0.0
+2016-01-22,Sterne Agee CRT,Not Provided,5.0,buy,46.0
+2016-01-22,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-01-22,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-01-25,Barclays,Not Provided,3.0,equalweight,37.0
+2016-01-25,J.P. Morgan,12 month,5.0,overweight,47.0
+2016-01-29,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-01-31,Sterne Agee CRT,12 month,5.0,buy,46.0
+2016-02-01,Stifel,Not Provided,3.0,hold,-0.0
+2016-02-01,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-02-02,Morgan Stanley,Not Provided,-2147483648.0,not rated,-0.0
+2016-02-03,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-02-03,RBC Capital Markets,12 month,3.0,sector perform,30.0
+2016-02-03,Goldman Sachs,12 month,3.0,neutral/neutral,40.0
+2016-02-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-03,Craig-Hallum Capital Group LLC,12 month,5.0,buy,34.0
+2016-02-03,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-02-04,Barclays,Not Provided,3.0,equalweight,37.0
+2016-02-04,J.P. Morgan,12 month,5.0,overweight,47.0
+2016-02-04,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-02-04,Susquehanna Financial,12 month,3.0,neutral,37.0
+2016-02-05,UBS,12 month,5.0,buy,47.0
+2016-02-07,Stifel,Not Provided,3.0,hold,-0.0
+2016-02-08,Sterne Agee CRT,12 month,5.0,buy,39.0
+2016-02-09,Jyske Bank,Not Provided,5.0,strong buy,38.0
+2016-02-09,Stifel,Not Provided,3.0,hold,-0.0
+2016-02-10,Daiwa Securities,Not Provided,5.0,outperform,31.0
+2016-02-10,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-16,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-02-19,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-02-22,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-02-23,Morgan Stanley,12 month,1.0,Underwt/Cautious,26.0
+2016-02-24,Sterne Agee CRT,12 month,5.0,buy,39.0
+2016-02-24,Credit Suisse,Not Provided,5.0,outperform,38.0
+2016-02-29,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-03-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-03-01,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-03-01,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-03-01,Stifel,Not Provided,3.0,hold,-0.0
+2016-03-04,Susquehanna Financial,12 month,3.0,neutral,35.0
+2016-03-04,Sterne Agee CRT,12 month,5.0,buy,39.0
+2016-03-04,Stifel,Not Provided,3.0,hold,-0.0
+2016-03-08,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-03-10,J.P. Morgan,9 month,5.0,overweight,47.0
+2016-03-10,Barclays,Not Provided,3.0,equalweight,37.0
+2016-03-11,RBC Capital Markets,12 month,3.0,sector perform,30.0
+2016-03-11,Morgan Stanley,12 month,1.0,Underwt/Cautious,26.0
+2016-03-13,Stifel,Not Provided,3.0,hold,-0.0
+2016-03-14,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-03-14,Sterne Agee CRT,12 month,5.0,buy,39.0
+2016-03-18,Stifel,Not Provided,3.0,hold,-0.0
+2016-03-20,Sterne Agee CRT,12 month,5.0,buy,39.0
+2016-03-22,Buckingham Research Group,Not Provided,3.0,neutral,32.0
+2016-03-24,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-03-27,Sterne Agee CRT,12 month,5.0,buy,39.0
+2016-03-28,Barclays,Not Provided,3.0,equalweight,37.0
+2016-03-31,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-04-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-04-03,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-04,Sterne Agee CRT,12 month,5.0,buy,39.0
+2016-04-06,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-04-11,Morgan Stanley,12 month,1.0,Underwt/Cautious,26.0
+2016-04-12,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-13,J.P. Morgan,9 month,5.0,overweight,47.0
+2016-04-13,RBC Capital Markets,12 month,3.0,sector perform,30.0
+2016-04-15,RBC Capital Markets,12 month,3.0,sector perform,30.0
+2016-04-19,J.P. Morgan,Not Provided,5.0,overweight,45.0
+2016-04-19,Sterne Agee CRT,12 month,5.0,buy,39.0
+2016-04-19,Buckingham Research Group,Not Provided,3.0,neutral,32.0
+2016-04-20,Barclays,Not Provided,3.0,equalweight,36.0
+2016-04-20,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-04-21,Sterne Agee CRT,12 month,5.0,buy,41.0
+2016-04-21,Daiwa Securities,Not Provided,5.0,outperform,35.0
+2016-04-21,Craig-Hallum Capital Group LLC,12 month,5.0,buy,37.0
+2016-04-21,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-04-22,Evercore ISI,12 month,3.0,hold,40.0
+2016-04-22,Goldman Sachs,12 month,3.0,neutral/neutral,41.0
+2016-04-22,Barclays,Not Provided,3.0,equalweight,36.0
+2016-04-22,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-04-22,RBC Capital Markets,12 month,3.0,sector perform,34.0
+2016-04-22,J.P. Morgan,12 month,5.0,overweight,45.0
+2016-04-24,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-26,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-04-26,Susquehanna Financial,12 month,3.0,neutral,36.0
+2016-04-26,Morgan Stanley,12 month,1.0,Underwt/Cautious,28.0
+2016-05-02,Stifel,Not Provided,3.0,hold,-0.0
+2016-05-03,Morgan Stanley,12 month,1.0,Underwt/Cautious,28.0
+2016-05-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-05-04,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-05-05,RBC Capital Markets,12 month,3.0,sector perform,34.0
+2016-05-06,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-05-09,Sterne Agee CRT,12 month,5.0,buy,41.0
+2016-05-10,Morgan Stanley,12 month,3.0,Equalwt/Cautious,29.0
+2016-05-16,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-05-16,RBC Capital Markets,12 month,3.0,sector perform,34.0
+2016-05-16,Sterne Agee CRT,12 month,5.0,buy,41.0
+2016-05-18,Morgan Stanley,12 month,3.0,Equalwt/Cautious,29.0
+2016-05-19,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-05-22,Sterne Agee CRT,12 month,5.0,buy,41.0
+2016-05-23,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-05-31,RBC Capital Markets,12 month,3.0,sector perform,34.0
+2016-06-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-06-01,J.P. Morgan,12 month,5.0,overweight,45.0
+2016-06-02,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-06-03,Sterne Agee CRT,12 month,5.0,buy,41.0
+2016-06-03,Jyske Bank,Not Provided,1.0,sell,32.0
+2016-06-09,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-06-09,Piper Jaffray,12 month,5.0,overweight,41.0
+2016-06-10,Barclays,Not Provided,3.0,equalweight,36.0
+2016-06-13,Sterne Agee CRT,12 month,5.0,buy,41.0
+2016-06-16,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-06-17,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-06-20,Barclays,Not Provided,3.0,equalweight,36.0
+2016-06-21,Tigress Financial Partners,Not Provided,5.0,strong buy,-0.0
+2016-06-21,Sterne Agee CRT,12 month,5.0,buy,41.0
+2016-06-23,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-06-27,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-06-28,Goldman Sachs,12 month,3.0,neutral/neutral,36.0
+2016-06-29,RBC Capital Markets,12 month,3.0,sector perform,32.0
+2016-06-29,Evercore ISI,Not Provided,3.0,hold,32.0
+2016-06-30,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-06-30,Morgan Stanley,12 month,3.0,Equalwt/Cautious,29.0
+2016-06-30,J.P. Morgan,6 month,5.0,overweight,45.0
+2016-07-01,J.P. Morgan,12 month,5.0,overweight,45.0
+2016-07-06,Daiwa Securities,Not Provided,5.0,outperform,31.0
+2016-07-06,Piper Jaffray,12 month,5.0,overweight,41.0
+2016-07-07,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-07-08,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-07-11,Consumer Edge Research,Not Provided,3.0,equalweight,-0.0
+2016-07-11,UBS,12 month,5.0,buy,41.0
+2016-07-13,Evercore ISI,12 month,3.0,hold,32.0
+2016-07-15,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-07-15,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-07-21,Daiwa Securities,Not Provided,3.0,neutral,31.0
+2016-07-21,Evercore ISI,Not Provided,3.0,hold,32.0
+2016-07-21,J.P. Morgan,6 month,5.0,overweight,43.0
+2016-07-21,Morgan Stanley,12 month,3.0,Equalwt/Cautious,29.0
+2016-07-21,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-07-22,Barclays,Not Provided,3.0,equalweight,36.0
+2016-07-22,Susquehanna Financial,12 month,3.0,neutral,36.0
+2016-07-22,Craig-Hallum Capital Group LLC,12 month,5.0,buy,37.0
+2016-07-22,Value Investment Principals,12 month,5.0,buy,47.0
+2016-07-22,RBC Capital Markets,12 month,3.0,sector perform,34.0
+2016-07-22,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-07-22,Piper Jaffray,12 month,5.0,overweight,41.0
+2016-07-25,Goldman Sachs,12 month,3.0,neutral/neutral,37.0
+2016-07-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-07-26,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-07-28,Morgan Stanley,12 month,3.0,Equalwt/Cautious,29.0
+2016-07-28,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-08-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-08-02,J.P. Morgan,6 month,5.0,overweight,43.0
+2016-08-04,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-08-09,Jefferies,Not Provided,3.0,hold,33.0
+2016-08-09,RBC Capital Markets,12 month,3.0,sector perform,34.0
+2016-08-09,Barclays,Not Provided,3.0,equalweight,36.0
+2016-08-09,Seaport Global Securities,12 month,5.0,buy,42.0
+2016-08-09,Goldman Sachs,12 month,3.0,neutral/neutral,37.0
+2016-08-11,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-08-17,Morgan Stanley,12 month,3.0,Equalwt/Cautious,29.0
+2016-08-18,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-08-22,Morgan Stanley,12 month,3.0,Equalwt/Cautious,29.0
+2016-08-22,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-08-25,Buckingham Research Group,Not Provided,3.0,neutral,33.0
+2016-08-25,Seaport Global Securities,12 month,5.0,buy,42.0
+2016-08-25,UBS,12 month,5.0,buy,39.0
+2016-08-29,Morgan Stanley,12 month,3.0,Equalwt/Cautious,29.0
+2016-09-01,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-09-02,Seaport Global Securities,12 month,5.0,buy,42.0
+2016-09-05,Morgan Stanley,12 month,3.0,Equalwt/Cautious,29.0
+2016-09-06,Buckingham Research Group,12 month,3.0,neutral,32.0
+2016-09-08,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-09-11,Evercore ISI,12 month,3.0,hold,32.0
+2016-09-12,J.P. Morgan,6 month,5.0,overweight,43.0
+2016-09-19,Nomura,12 month,3.0,neutral,33.0
+2016-09-19,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-09-19,Morgan Stanley,12 month,5.0,Overwt/Cautious,37.0
+2016-09-20,Nomura,12 month,3.0,neutral,33.0
+2016-09-20,Morgan Stanley,12 month,5.0,Overwt/Cautious,37.0
+2016-09-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-09-26,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-09-28,Morgan Stanley,12 month,5.0,Overwt/Cautious,37.0
+2016-09-29,J.P. Morgan,6 month,5.0,overweight,43.0
+2016-09-30,Piper Jaffray,12 month,5.0,overweight,41.0
+2016-10-03,Seaport Global Securities,12 month,5.0,buy,42.0
+2016-10-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-10-03,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-10-05,Seaport Global Securities,12 month,5.0,buy,42.0
+2016-10-06,Goldman Sachs,12 month,3.0,neutral/cautious,29.0
+2016-10-07,Jefferies,Not Provided,3.0,hold,33.0
+2016-10-10,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-10-13,Morgan Stanley,12 month,5.0,Overwt/Cautious,37.0
+2016-10-13,Piper Jaffray,12 month,5.0,overweight,41.0
+2016-10-14,RBC Capital Markets,12 month,3.0,sector perform,34.0
+2016-10-17,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-10-17,Barclays,Not Provided,3.0,equalweight,36.0
+2016-10-18,Morgan Stanley,12 month,5.0,Overwt/Cautious,37.0
+2016-10-19,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-19,J.P. Morgan,18 month,5.0,overweight,43.0
+2016-10-20,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-10-24,Piper Jaffray,Not Provided,5.0,overweight,41.0
+2016-10-24,Barclays,Not Provided,3.0,equalweight,36.0
+2016-10-24,Susquehanna Financial,12 month,3.0,neutral,36.0
+2016-10-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-25,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-10-25,Seaport Global Securities,12 month,5.0,buy,42.0
+2016-10-25,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-10-25,Daiwa Securities,Not Provided,3.0,neutral,31.0
+2016-10-25,Nomura,12 month,3.0,neutral,33.0
+2016-10-25,Craig-Hallum Capital Group LLC,12 month,3.0,hold,34.0
+2016-10-25,Jefferies,12 month,3.0,hold,33.0
+2016-10-26,UBS,12 month,5.0,buy,38.0
+2016-10-26,J.P. Morgan,18 month,5.0,overweight,43.0
+2016-10-26,RBC Capital Markets,12 month,3.0,sector perform,34.0
+2016-10-27,Barclays,Not Provided,3.0,equalweight,36.0
+2016-10-27,Morgan Stanley,12 month,5.0,Overwt/Cautious,37.0
+2016-10-31,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-11-01,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2016-11-01,Susquehanna Financial,12 month,3.0,neutral,36.0
+2016-11-01,J.P. Morgan,18 month,5.0,overweight,43.0
+2016-11-02,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-11-03,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-11-07,Morgan Stanley,12 month,5.0,Overwt/Cautious,40.0
+2016-11-09,Susquehanna Financial,12 month,3.0,neutral,36.0
+2016-11-09,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-11-09,Morgan Stanley,12 month,5.0,Overwt/Cautious,40.0
+2016-11-10,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-11-13,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-11-15,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-11-20,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-11-21,Berenberg,Not Provided,1.0,sell,29.0
+2016-11-21,J.P. Morgan,18 month,5.0,overweight,43.0
+2016-11-22,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-11-25,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-12-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-12-01,Macquarie,12 month,5.0,outperform,44.0
+2016-12-01,Seaport Global Securities,12 month,5.0,buy,42.0
+2016-12-01,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-12-04,RBC Capital Markets,12 month,3.0,sector perform,34.0
+2016-12-07,Seaport Global Securities,12 month,5.0,buy,42.0
+2016-12-08,Berenberg,Not Provided,1.0,sell,29.0
+2016-12-08,RBC Capital Markets,12 month,3.0,sector perform,36.0
+2016-12-09,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-12-09,J.P. Morgan,12 month,5.0,overweight,43.0
+2016-12-09,Morgan Stanley,12 month,5.0,Overwt/Cautious,40.0
+2016-12-09,Barclays,Not Provided,3.0,equalweight,36.0
+2016-12-12,Piper Jaffray,12 month,5.0,overweight,42.0
+2016-12-13,Buckingham Research Group,Not Provided,3.0,neutral,33.0
+2016-12-14,Churchill Research,12 month,-2147483648.0,no rating system,51.13
+2016-12-14,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-12-14,Morgan Stanley,12 month,5.0,Overwt/Cautious,40.0
+2016-12-16,Barclays,Not Provided,3.0,equalweight,41.0
+2016-12-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-12-20,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2016-12-20,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-12-20,BMO Capital Markets,Not Provided,3.0,market perform,38.0
+2016-12-26,Nomura,12 month,3.0,neutral,34.0
+2016-12-27,Buckingham Research Group,12 month,3.0,neutral,33.0
+2016-12-28,Piper Jaffray,Not Provided,5.0,overweight,42.0
+2017-01-04,Evercore ISI,Not Provided,3.0,hold,36.0
+2017-01-04,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-01-04,J.P. Morgan,12 month,5.0,overweight,43.0
+2017-01-05,Berenberg,Not Provided,1.0,sell,29.0
+2017-01-05,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-01-09,Seaport Global Securities,12 month,5.0,buy,42.0
+2017-01-10,Piper Jaffray,12 month,5.0,overweight,42.0
+2017-01-10,Daiwa Securities,Not Provided,1.0,underperform,33.0
+2017-01-10,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2017-01-11,Craig-Hallum Capital Group LLC,12 month,3.0,hold,36.0
+2017-01-11,Evercore ISI,12 month,3.0,hold,36.0
+2017-01-11,Macquarie,12 month,5.0,outperform,49.0
+2017-01-11,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-01-11,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-12,Berenberg,Not Provided,1.0,sell,29.0
+2017-01-12,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-12,Barclays,Not Provided,3.0,equalweight,41.0
+2017-01-13,Morgan Stanley,12 month,5.0,Overwt/Cautious,40.0
+2017-01-13,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2017-01-18,BMO Capital Markets,Not Provided,3.0,market perform,38.0
+2017-01-19,Jefferies,Not Provided,3.0,hold,36.0
+2017-01-19,Nomura,12 month,3.0,neutral,34.0
+2017-01-19,J.P. Morgan,12 month,5.0,overweight,46.0
+2017-01-20,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2017-01-20,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-01-20,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-01-22,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2017-01-24,Goldman Sachs,12 month,3.0,neutral/cautious,31.0
+2017-01-24,Piper Jaffray,12 month,5.0,overweight,42.0
+2017-01-25,Susquehanna Financial,12 month,3.0,neutral,36.0
+2017-01-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-25,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-01-26,Berenberg,Not Provided,1.0,sell,29.0
+2017-01-26,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-01-26,Morgan Stanley,12 month,5.0,Overwt/Cautious,42.0
+2017-01-30,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-01-30,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-31,J.P. Morgan,12 month,5.0,overweight,46.0
+2017-01-31,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2017-02-01,Morgan Stanley,12 month,5.0,Overwt/Cautious,42.0
+2017-02-02,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-02-02,Berenberg,Not Provided,1.0,sell,29.0
+2017-02-02,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-02-03,Piper Jaffray,12 month,5.0,overweight,42.0
+2017-02-03,Barclays,Not Provided,3.0,equalweight,41.0
+2017-02-07,Piper Jaffray,12 month,5.0,overweight,43.0
+2017-02-07,Craig-Hallum Capital Group LLC,12 month,3.0,hold,36.0
+2017-02-07,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-07,Morgan Stanley,12 month,5.0,Overwt/Cautious,42.0
+2017-02-07,Daiwa Securities,Not Provided,1.0,underperform,33.0
+2017-02-07,Berenberg,12 month,1.0,sell,29.0
+2017-02-08,Evercore ISI,12 month,3.0,hold,40.0
+2017-02-08,J.P. Morgan,12 month,5.0,overweight,46.0
+2017-02-08,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2017-02-08,Barclays,Not Provided,3.0,equalweight,41.0
+2017-02-08,Macquarie,12 month,5.0,outperform,49.0
+2017-02-08,BMO Capital Markets,Not Provided,3.0,market perform,38.0
+2017-02-08,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-02-09,Nomura,12 month,3.0,neutral,36.0
+2017-02-09,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-02-09,Susquehanna Financial,12 month,3.0,neutral,40.0
+2017-02-10,Jefferies,12 month,3.0,hold,36.0
+2017-02-13,Berenberg,Not Provided,1.0,sell,29.0
+2017-02-14,Susquehanna Financial,12 month,3.0,neutral,40.0
+2017-02-14,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-02-14,Macquarie,12 month,5.0,outperform,49.0
+2017-02-14,Evercore ISI,12 month,3.0,hold,40.0
+2017-02-14,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2017-02-14,Daiwa Securities,Not Provided,5.0,outperform,42.0
+2017-02-14,Barclays,Not Provided,3.0,equalweight,41.0
+2017-02-14,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-15,J.P. Morgan,12 month,5.0,overweight,46.0
+2017-02-16,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-02-17,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2017-02-17,Nomura,12 month,3.0,neutral,36.0
+2017-02-20,Piper Jaffray,12 month,5.0,overweight,43.0
+2017-02-24,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-02-24,Berenberg,Not Provided,1.0,sell,29.0
+2017-02-27,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-02-28,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2017-03-01,J.P. Morgan,12 month,5.0,overweight,46.0
+2017-03-05,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-03-06,Susquehanna Financial,12 month,3.0,neutral,40.0
+2017-03-06,Consumer Edge Research,12 month,3.0,equalweight,35.0
+2017-03-06,Evercore ISI,12 month,3.0,in-line,40.0
+2017-03-06,Jefferies,12 month,3.0,hold,36.0
+2017-03-06,Barclays,Not Provided,3.0,equalweight,41.0
+2017-03-06,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-03-06,Nomura,12 month,5.0,buy,45.0
+2017-03-06,Macquarie,12 month,5.0,outperform,49.0
+2017-03-06,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-03-06,Berenberg,Not Provided,1.0,sell,29.0
+2017-03-06,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2017-03-07,BMO Capital Markets,Not Provided,3.0,market perform,39.0
+2017-03-07,J.P. Morgan,9 month,5.0,overweight,49.0
+2017-03-07,Susquehanna Financial,12 month,3.0,neutral,40.0
+2017-03-09,Piper Jaffray,12 month,5.0,overweight,43.0
+2017-03-13,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-03-15,Berenberg,Not Provided,1.0,sell,31.0
+2017-03-16,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-03-20,Macquarie,12 month,5.0,outperform,49.0
+2017-03-23,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-03-26,Evercore ISI,Not Provided,3.0,in-line,40.0
+2017-03-27,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2017-03-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-03-28,Consumer Edge Research,12 month,3.0,equalweight,35.0
+2017-03-28,Barclays,Not Provided,3.0,equalweight,41.0
+2017-03-28,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2017-03-29,Evercore ISI,12 month,3.0,in-line,40.0
+2017-03-29,Susquehanna Financial,12 month,3.0,neutral,40.0
+2017-04-03,J.P. Morgan,9 month,5.0,overweight,49.0
+2017-04-03,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-04-03,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-04-05,Jefferies,12 month,3.0,hold,36.0
+2017-04-06,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-04-06,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2017-04-07,J.P. Morgan,9 month,5.0,overweight,49.0
+2017-04-07,Berenberg,Not Provided,1.0,sell,31.0
+2017-04-10,Nomura,12 month,5.0,buy,45.0
+2017-04-10,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-04-12,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-04-13,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-04-13,Macquarie,12 month,5.0,outperform,49.0
+2017-04-17,UBS,12 month,5.0,buy,40.0
+2017-04-17,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-04-18,Jefferies,Not Provided,3.0,hold,36.0
+2017-04-19,BMO Capital Markets,Not Provided,3.0,market perform,39.0
+2017-04-20,Nomura,12 month,5.0,buy,45.0
+2017-04-20,Barclays,Not Provided,3.0,equalweight,41.0
+2017-04-21,Consumer Edge Research,12 month,3.0,equalweight,35.0
+2017-04-21,Susquehanna Financial,12 month,3.0,neutral,39.0
+2017-04-24,UBS,12 month,5.0,buy,39.0
+2017-04-24,Craig-Hallum Capital Group LLC,12 month,3.0,hold,36.0
+2017-04-24,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-04-25,J.P. Morgan,9 month,5.0,overweight,48.0
+2017-04-25,Evercore ISI,Not Provided,3.0,in-line,40.0
+2017-04-28,Evercore ISI,Not Provided,3.0,in-line,40.0
+2017-04-28,Craig-Hallum Capital Group LLC,12 month,3.0,hold,36.0
+2017-04-28,Jefferies,Not Provided,3.0,hold,36.0
+2017-04-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-04-28,Piper Jaffray,12 month,5.0,overweight,44.0
+2017-05-01,Macquarie,12 month,5.0,outperform,49.0
+2017-05-01,Consumer Edge Research,12 month,3.0,equalweight,35.0
+2017-05-01,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2017-05-01,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-05-02,Barclays,Not Provided,3.0,equalweight,41.0
+2017-05-02,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2017-05-02,BMO Capital Markets,Not Provided,3.0,market perform,36.0
+2017-05-02,J.P. Morgan,12 month,5.0,overweight,48.0
+2017-05-02,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-05-02,Nomura,12 month,5.0,buy,47.0
+2017-05-03,Berenberg,Not Provided,1.0,sell,31.0
+2017-05-05,Seaport Global Securities,12 month,5.0,buy,45.0
+2017-05-05,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-05-06,Macquarie,12 month,5.0,outperform,49.0
+2017-05-09,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-05-11,Susquehanna Financial,12 month,3.0,neutral,34.0
+2017-05-11,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-05-15,Piper Jaffray,Not Provided,5.0,overweight,44.0
+2017-05-17,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2017-05-18,RBC Capital Markets,12 month,3.0,sector perform,37.0
+2017-05-18,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-05-18,Buckingham Research Group,12 month,3.0,neutral,33.0
+2017-05-19,Macquarie,12 month,5.0,outperform,49.0
+2017-05-19,J.P. Morgan,9 month,5.0,overweight,48.0
+2017-05-22,Argus Research Corp,Not Provided,3.0,hold,-0.0
+2017-05-22,J.P. Morgan,9 month,5.0,overweight,48.0
+2017-05-22,Piper Jaffray,12 month,5.0,overweight,44.0
+2017-05-22,Morgan Stanley,Not Provided,-2147483648.0,restricted,-0.0
+2017-05-23,Buckingham Research Group,12 month,3.0,neutral,33.0

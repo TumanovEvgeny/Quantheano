@@ -1,0 +1,1169 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2008-07-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2008-08-21,J.P. Morgan,Not Provided,5.0,overweight,-0.0
+2008-09-26,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2008-10-20,Goldman Sachs,6 month,3.0,neutral/attractive,59.0
+2008-10-23,Soleil Securities,12 month,3.0,hold,49.0
+2008-10-24,Baird,Not Provided,3.0,neutral,63.0
+2008-10-24,FTN Equity Capital Markets Corp.,12 month,5.0,buy,70.0
+2008-11-18,Oppenheimer & Co,Not Provided,5.0,outperform,-0.0
+2008-12-02,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,70.0
+2008-12-12,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2008-12-12,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,70.0
+2008-12-19,J.P. Morgan,15 month,5.0,overweight,63.0
+2009-01-01,J.P. Morgan,12 month,5.0,overweight,63.0
+2009-01-15,J.P. Morgan,12 month,5.0,overweight,60.0
+2009-01-15,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,70.0
+2009-01-26,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,70.0
+2009-01-27,Goldman Sachs,6 month,3.0,neutral/attractive,59.0
+2009-02-02,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,70.0
+2009-02-05,Soleil Securities,Not Provided,3.0,hold,51.0
+2009-02-06,J.P. Morgan,9 month,5.0,overweight,61.0
+2009-02-06,Baird,Not Provided,3.0,neutral,55.0
+2009-02-06,Oppenheimer & Co,18 month,5.0,outperform,66.0
+2009-02-06,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,70.0
+2009-02-11,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,70.0
+2009-02-17,Goldman Sachs,6 month,3.0,neutral/attractive,48.0
+2009-03-03,Goldman Sachs,6 month,3.0,neutral/neutral,48.0
+2009-03-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-03-27,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,70.0
+2009-04-02,FTN Equity Capital Markets Corp.,Not Provided,5.0,buy,70.0
+2009-04-08,Oppenheimer & Co,18 month,5.0,outperform,66.0
+2009-04-13,Oppenheimer & Co,18 month,5.0,outperform,66.0
+2009-04-13,Soleil Securities,Not Provided,3.0,hold,51.0
+2009-04-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-04-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-04-29,Baird,Not Provided,3.0,neutral,55.0
+2009-04-29,Oppenheimer & Co,18 month,5.0,outperform,66.0
+2009-04-29,Soleil Securities,12 month,3.0,hold,54.0
+2009-05-11,Baird,Not Provided,5.0,outperform,58.0
+2009-05-12,Goldman Sachs,6 month,3.0,neutral/neutral,51.0
+2009-05-14,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-05-15,Oppenheimer & Co,18 month,5.0,outperform,66.0
+2009-05-15,Baird,Not Provided,5.0,outperform,58.0
+2009-06-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-06-12,Oppenheimer & Co,Not Provided,5.0,outperform,66.0
+2009-06-12,J.P. Morgan,6 month,5.0,overweight,61.0
+2009-06-15,Baird,Not Provided,5.0,outperform,58.0
+2009-06-15,Northcoast Research,12 month,5.0,buy,62.0
+2009-07-09,J.P. Morgan,18 month,5.0,overweight,61.0
+2009-07-27,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-07-28,J.P. Morgan,15 month,5.0,overweight,61.0
+2009-07-29,Oppenheimer & Co,18 month,5.0,outperform,66.0
+2009-07-29,Soleil Securities,12 month,3.0,hold,56.0
+2009-07-29,Northcoast Research,12 month,5.0,buy,62.0
+2009-07-30,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-08-03,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-10,Northcoast Research,12 month,5.0,buy,62.0
+2009-08-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-13,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2009-08-20,Northcoast Research,12 month,5.0,buy,62.0
+2009-08-27,Northcoast Research,12 month,5.0,buy,62.0
+2009-09-09,Northcoast Research,12 month,5.0,buy,62.0
+2009-09-21,Northcoast Research,12 month,5.0,buy,62.0
+2009-09-22,Wedbush,12 month,3.0,neutral,49.0
+2009-09-27,Soleil Securities,12 month,5.0,buy,56.0
+2009-10-13,Soleil Securities,12 month,5.0,buy,56.0
+2009-10-15,Northcoast Research,12 month,5.0,buy,62.0
+2009-10-20,Wedbush,12 month,3.0,neutral,49.0
+2009-10-21,Wunderlich Securities,18 month,1.0,sell,42.0
+2009-10-21,Northcoast Research,12 month,5.0,buy,62.0
+2009-10-23,Goldman Sachs,12 month,5.0,Buy/Neutral,68.0
+2009-10-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-10-28,J.P. Morgan,15 month,5.0,overweight,60.0
+2009-10-28,Soleil Securities,12 month,5.0,buy,57.0
+2009-10-28,Wunderlich Securities,18 month,1.0,sell,42.0
+2009-10-28,Northcoast Research,12 month,5.0,buy,62.0
+2009-10-28,Oppenheimer & Co,18 month,5.0,outperform,66.0
+2009-10-29,Wedbush,12 month,3.0,neutral,50.0
+2009-11-04,Wunderlich Securities,18 month,1.0,sell,42.0
+2009-11-30,Oppenheimer & Co,Not Provided,5.0,outperform,-0.0
+2009-11-30,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-12-01,Baird,Not Provided,5.0,outperform,64.0
+2009-12-01,Wunderlich Securities,18 month,1.0,sell,42.0
+2009-12-01,Northcoast Research,12 month,5.0,buy,62.0
+2009-12-02,Wedbush,12 month,3.0,neutral,52.0
+2009-12-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2009-12-10,Oppenheimer & Co,18 month,5.0,outperform,66.0
+2009-12-28,Baird,12 month,5.0,outperform,64.0
+2009-12-29,Wedbush,12 month,3.0,neutral,52.0
+2010-01-04,Wunderlich Securities,18 month,1.0,sell,42.0
+2010-01-06,J.P. Morgan,12 month,5.0,overweight,62.0
+2010-01-15,Northcoast Research,12 month,5.0,buy,68.0
+2010-01-21,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-01-27,Wedbush,12 month,3.0,neutral,52.0
+2010-02-04,J.P. Morgan,12 month,5.0,overweight,62.0
+2010-02-04,Wunderlich Securities,18 month,1.0,sell,42.0
+2010-02-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-02-05,Baird,12 month,5.0,outperform,66.0
+2010-02-05,Wedbush,12 month,3.0,neutral,54.0
+2010-02-05,Northcoast Research,12 month,5.0,buy,68.0
+2010-02-05,Oppenheimer & Co,18 month,5.0,outperform,66.0
+2010-03-09,Wunderlich Securities,18 month,1.0,sell,42.0
+2010-03-10,Wunderlich Securities,18 month,1.0,sell,42.0
+2010-03-24,J.P. Morgan,9 month,3.0,neutral,60.0
+2010-03-26,Northcoast Research,12 month,5.0,buy,68.0
+2010-04-09,Northcoast Research,12 month,5.0,buy,68.0
+2010-04-15,Wunderlich Securities,18 month,1.0,sell,42.0
+2010-04-16,Wedbush,12 month,3.0,neutral,54.0
+2010-04-20,J.P. Morgan,9 month,3.0,neutral,60.0
+2010-04-27,Northcoast Research,12 month,5.0,buy,68.0
+2010-04-27,Wunderlich Securities,18 month,1.0,sell,42.0
+2010-04-28,Soleil Securities,12 month,5.0,buy,65.0
+2010-04-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-04-29,Oppenheimer & Co,18 month,5.0,outperform,66.0
+2010-04-29,J.P. Morgan,6 month,3.0,neutral,61.0
+2010-04-29,Wedbush,12 month,3.0,neutral,55.0
+2010-04-29,Baird,12 month,5.0,outperform,68.0
+2010-04-29,Northcoast Research,12 month,5.0,buy,68.0
+2010-05-06,Baird,12 month,5.0,outperform,68.0
+2010-05-07,Northcoast Research,12 month,5.0,buy,68.0
+2010-05-12,Wunderlich Securities,18 month,1.0,sell,42.0
+2010-05-17,Soleil Securities,12 month,5.0,buy,65.0
+2010-05-26,Wunderlich Securities,18 month,3.0,hold,50.0
+2010-06-08,Northcoast Research,12 month,5.0,buy,73.0
+2010-06-14,Atlantic Equities LLP,12 month,5.0,overweight,72.0
+2010-06-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-07-07,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-07-09,Jefferies,12 month,5.0,buy,80.0
+2010-07-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-07-14,Northcoast Research,12 month,5.0,buy,79.0
+2010-07-15,Wunderlich Securities,18 month,3.0,hold,50.0
+2010-07-16,Jefferies,12 month,5.0,buy,80.0
+2010-07-16,Wedbush,12 month,3.0,neutral,55.0
+2010-07-21,Northcoast Research,12 month,5.0,buy,79.0
+2010-07-23,Jefferies,12 month,5.0,buy,80.0
+2010-07-28,Wunderlich Securities,18 month,3.0,hold,50.0
+2010-07-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-07-28,Wedbush,12 month,3.0,neutral,58.0
+2010-07-29,Oppenheimer & Co,12 month,5.0,outperform,68.0
+2010-07-29,Atlantic Equities LLP,12 month,5.0,overweight,72.0
+2010-07-29,Baird,12 month,5.0,outperform,73.0
+2010-07-29,J.P. Morgan,3 month,3.0,neutral,62.0
+2010-07-30,Soleil Securities,12 month,3.0,hold,68.0
+2010-07-30,Northcoast Research,12 month,5.0,buy,79.0
+2010-07-30,Jefferies,12 month,5.0,buy,80.0
+2010-08-09,Jefferies,12 month,5.0,buy,80.0
+2010-08-10,Northcoast Research,12 month,5.0,buy,79.0
+2010-08-13,Wunderlich Securities,18 month,3.0,hold,50.0
+2010-08-20,Goldman Sachs,12 month,3.0,neutral/neutral,68.0
+2010-08-20,Jefferies,12 month,5.0,buy,80.0
+2010-08-27,Jefferies,12 month,5.0,buy,80.0
+2010-09-01,Wedbush,12 month,3.0,neutral,58.0
+2010-09-03,Jefferies,12 month,5.0,buy,80.0
+2010-09-07,Northcoast Research,12 month,5.0,buy,79.0
+2010-09-10,Jefferies,12 month,5.0,buy,80.0
+2010-09-17,Jefferies,12 month,5.0,buy,80.0
+2010-09-20,Soleil Securities,12 month,4.0,Gradually Accumulate,68.0
+2010-09-24,Avondale Partners LLC,12 month,3.0,market perform,74.0
+2010-09-24,Jefferies,12 month,5.0,buy,80.0
+2010-09-29,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-09-30,Avondale Partners LLC,12 month,3.0,market perform,74.0
+2010-09-30,Soleil Securities,12 month,3.0,hold,68.0
+2010-09-30,Wunderlich Securities,18 month,3.0,hold,63.0
+2010-09-30,Baird,12 month,5.0,outperform,73.0
+2010-09-30,Northcoast Research,12 month,5.0,buy,79.0
+2010-10-01,Jefferies,12 month,5.0,buy,80.0
+2010-10-08,Jefferies,12 month,5.0,buy,80.0
+2010-10-12,Wunderlich Securities,18 month,3.0,hold,63.0
+2010-10-13,J.P. Morgan,15 month,3.0,neutral,72.0
+2010-10-15,Jefferies,12 month,5.0,buy,80.0
+2010-10-22,Jefferies,12 month,5.0,buy,80.0
+2010-10-25,Avondale Partners LLC,12 month,3.0,market perform,74.0
+2010-10-25,Wedbush,12 month,3.0,neutral,58.0
+2010-10-27,Goldman Sachs,12 month,3.0,neutral/neutral,78.0
+2010-10-27,J.P. Morgan,12 month,3.0,neutral,72.0
+2010-10-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2010-10-27,Soleil Securities,12 month,3.0,hold,69.0
+2010-10-28,Northcoast Research,12 month,5.0,buy,79.0
+2010-10-28,Atlantic Equities LLP,12 month,5.0,overweight,80.0
+2010-10-28,Jefferies,12 month,5.0,buy,82.0
+2010-10-28,Avondale Partners LLC,12 month,3.0,market perform,74.0
+2010-10-28,Wedbush,12 month,3.0,neutral,69.0
+2010-10-28,Baird,12 month,5.0,outperform,78.0
+2010-10-28,Oppenheimer & Co,12 month,5.0,outperform,76.0
+2010-11-03,Soleil Securities,12 month,3.0,hold,69.0
+2010-11-05,Oppenheimer & Co,18 month,5.0,outperform,76.0
+2010-11-12,Jefferies,12 month,5.0,buy,82.0
+2010-11-15,Wunderlich Securities,18 month,3.0,hold,63.0
+2010-12-08,Oppenheimer & Co,18 month,5.0,outperform,76.0
+2010-12-13,Northcoast Research,12 month,5.0,buy,92.0
+2010-12-23,Baird,12 month,5.0,outperform,88.0
+2011-01-03,Soleil Securities,12 month,3.0,hold,69.0
+2011-01-06,Wunderlich Securities,18 month,3.0,hold,63.0
+2011-01-06,Oppenheimer & Co,18 month,5.0,outperform,76.0
+2011-01-18,Wedbush,12 month,3.0,neutral,74.0
+2011-01-25,Northcoast Research,12 month,5.0,buy,92.0
+2011-01-27,Wunderlich Securities,18 month,3.0,hold,63.0
+2011-01-28,Wedbush,12 month,3.0,neutral,74.0
+2011-02-01,Wunderlich Securities,18 month,3.0,hold,80.0
+2011-02-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-02-03,Soleil Securities,12 month,3.0,hold,71.0
+2011-02-04,Oppenheimer & Co,12 month,5.0,outperform,84.0
+2011-02-04,Soleil Securities,12 month,3.0,hold,71.0
+2011-02-04,Atlantic Equities LLP,12 month,5.0,overweight,90.0
+2011-02-04,Avondale Partners LLC,12 month,3.0,market perform,80.0
+2011-02-04,J.P. Morgan,12 month,3.0,neutral,80.0
+2011-02-04,Wunderlich Securities,18 month,3.0,hold,80.0
+2011-02-04,Wedbush,12 month,5.0,outperform,94.0
+2011-02-04,Goldman Sachs,12 month,3.0,neutral/neutral,85.0
+2011-02-04,Northcoast Research,12 month,5.0,buy,92.0
+2011-02-25,Soleil Securities,12 month,3.0,hold,71.0
+2011-03-04,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-08,Atlantic Equities LLP,12 month,5.0,overweight,100.0
+2011-03-08,Northcoast Research,12 month,5.0,buy,97.0
+2011-03-10,Soleil Securities,12 month,3.0,hold,71.0
+2011-03-11,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-12,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-03-16,J.P. Morgan,12 month,3.0,neutral,80.0
+2011-03-18,Soleil Securities,12 month,3.0,hold,71.0
+2011-03-31,Northcoast Research,12 month,5.0,buy,100.0
+2011-04-06,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-04-06,Great Lakes Review,Not Provided,-2147483648.0,not rated,-0.0
+2011-04-18,Wedbush,12 month,5.0,outperform,100.0
+2011-04-18,Wunderlich Securities,18 month,3.0,hold,80.0
+2011-04-19,Northcoast Research,12 month,5.0,buy,100.0
+2011-04-25,Great Lakes Review,12 month,3.0,hold,73.0
+2011-04-27,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-04-27,Wedbush,12 month,5.0,outperform,100.0
+2011-04-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-04-28,Great Lakes Review,12 month,3.0,hold,73.0
+2011-04-28,Oppenheimer & Co,18 month,5.0,outperform,100.0
+2011-04-28,Northcoast Research,12 month,5.0,buy,100.0
+2011-04-28,Wunderlich Securities,18 month,3.0,hold,85.0
+2011-04-28,J.P. Morgan,9 month,3.0,neutral,85.0
+2011-04-28,Baird,12 month,3.0,neutral,95.0
+2011-04-28,Avondale Partners LLC,12 month,3.0,market perform,89.0
+2011-04-28,Atlantic Equities LLP,12 month,5.0,overweight,105.0
+2011-04-29,Goldman Sachs,12 month,3.0,neutral/neutral,93.0
+2011-05-09,Great Lakes Review,12 month,3.0,hold,73.0
+2011-05-10,Wunderlich Securities,18 month,3.0,hold,85.0
+2011-06-10,Great Lakes Review,12 month,3.0,hold,73.0
+2011-06-14,Northcoast Research,12 month,5.0,buy,100.0
+2011-06-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-06-23,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2011-06-30,Northcoast Research,12 month,5.0,buy,100.0
+2011-07-01,Great Lakes Review,12 month,3.0,hold,73.0
+2011-07-12,Wunderlich Securities,12 month,3.0,hold,85.0
+2011-07-15,Great Lakes Review,12 month,3.0,hold,73.0
+2011-07-18,Wedbush,12 month,5.0,outperform,100.0
+2011-07-25,Great Lakes Review,12 month,3.0,hold,73.0
+2011-07-26,Wunderlich Securities,18 month,3.0,hold,85.0
+2011-07-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-07-27,Wedbush,12 month,5.0,outperform,100.0
+2011-07-28,Northcoast Research,12 month,5.0,buy,100.0
+2011-07-28,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2011-07-28,Baird,12 month,3.0,neutral,92.0
+2011-07-28,J.P. Morgan,6 month,3.0,neutral,85.0
+2011-07-28,Atlantic Equities LLP,12 month,5.0,overweight,105.0
+2011-07-28,Wunderlich Securities,18 month,3.0,hold,85.0
+2011-07-29,Great Lakes Review,12 month,3.0,hold,77.0
+2011-08-08,Northcoast Research,Not Provided,5.0,buy,100.0
+2011-08-17,Northcoast Research,12 month,5.0,buy,100.0
+2011-08-25,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2011-08-25,Baird,12 month,3.0,neutral,92.0
+2011-08-26,Great Lakes Review,12 month,3.0,hold,77.0
+2011-08-29,Wedbush,12 month,5.0,outperform,100.0
+2011-09-02,Great Lakes Review,12 month,3.0,hold,77.0
+2011-09-12,Great Lakes Review,12 month,3.0,hold,73.0
+2011-09-12,J.P. Morgan,6 month,3.0,neutral,94.5
+2011-09-16,Wedbush,12 month,5.0,outperform,100.0
+2011-09-22,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-09-27,Northcoast Research,12 month,5.0,buy,100.0
+2011-09-30,Great Lakes Review,12 month,3.0,hold,77.0
+2011-10-06,Northcoast Research,12 month,5.0,buy,100.0
+2011-10-08,Great Lakes Review,12 month,3.0,hold,77.0
+2011-10-11,Wunderlich Securities,18 month,3.0,hold,85.0
+2011-10-19,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-10-21,Great Lakes Review,12 month,3.0,hold,77.0
+2011-10-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2011-10-27,Atlantic Equities LLP,12 month,5.0,overweight,105.0
+2011-10-27,Northcoast Research,12 month,5.0,buy,100.0
+2011-10-27,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2011-10-27,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2011-10-27,J.P. Morgan,12 month,3.0,neutral,94.5
+2011-10-27,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2011-10-27,Baird,12 month,3.0,neutral,92.0
+2011-10-27,Wedbush,12 month,5.0,outperform,100.0
+2011-10-29,Great Lakes Review,12 month,3.0,hold,79.0
+2011-11-07,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2011-11-10,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-11,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2011-11-15,Wunderlich Securities,18 month,3.0,hold,85.0
+2011-11-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-18,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-11-25,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2011-11-30,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2011-12-02,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2011-12-06,Atlantic Equities LLP,12 month,5.0,overweight,105.0
+2011-12-08,Oppenheimer & Co,18 month,5.0,outperform,100.0
+2011-12-12,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2011-12-16,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2011-12-21,Northcoast Research,12 month,5.0,buy,100.0
+2011-12-23,Great Lakes Review,12 month,3.0,hold,79.0
+2011-12-27,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2012-01-04,Great Lakes Review,12 month,3.0,hold,79.0
+2012-01-09,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2012-01-09,Wunderlich Securities,18 month,3.0,hold,85.0
+2012-01-10,J.P. Morgan,9 month,5.0,overweight,94.5
+2012-01-11,Wedbush,12 month,5.0,outperform,100.0
+2012-01-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-01-17,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2012-01-24,Stifel,12 month,5.0,buy,103.0
+2012-01-24,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2012-01-30,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2012-02-02,Wunderlich Securities,18 month,3.0,hold,85.0
+2012-02-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-02-02,J.P. Morgan,6 month,5.0,overweight,95.0
+2012-02-03,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2012-02-03,Stifel,12 month,5.0,buy,103.0
+2012-02-03,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-02-03,Wedbush,12 month,5.0,outperform,100.0
+2012-02-03,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-02-03,Northcoast Research,12 month,5.0,buy,100.0
+2012-02-03,Baird,12 month,3.0,neutral,92.0
+2012-02-06,Great Lakes Review,12 month,3.0,hold,79.0
+2012-02-07,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2012-02-14,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2012-02-15,Wedbush,12 month,5.0,outperform,100.0
+2012-02-15,Stifel,12 month,5.0,buy,103.0
+2012-02-20,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-02-22,Great Lakes Review,12 month,3.0,hold,79.0
+2012-02-24,Northcoast Research,12 month,5.0,buy,100.0
+2012-03-01,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-03-09,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2012-03-14,Great Lakes Review,12 month,3.0,hold,73.0
+2012-03-20,Great Lakes Review,12 month,3.0,hold,73.0
+2012-04-09,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2012-04-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-04-17,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2012-04-17,Northcoast Research,12 month,5.0,buy,100.0
+2012-04-18,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-04-18,Wunderlich Securities,18 month,3.0,hold,85.0
+2012-04-19,Wedbush,12 month,5.0,outperform,100.0
+2012-04-23,Wunderlich Securities,12 month,3.0,hold,85.0
+2012-04-25,J.P. Morgan,6 month,5.0,overweight,96.5
+2012-04-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-04-25,Wedbush,12 month,5.0,outperform,100.0
+2012-04-25,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2012-04-26,Stifel,12 month,5.0,buy,103.0
+2012-04-26,Northcoast Research,12 month,5.0,buy,100.0
+2012-04-26,Great Lakes Review,12 month,3.0,hold,76.0
+2012-04-26,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2012-04-26,Baird,12 month,3.0,neutral,94.0
+2012-04-26,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2012-04-26,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-05-01,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2012-05-06,Wedbush,12 month,5.0,outperform,100.0
+2012-05-11,Baird,12 month,3.0,neutral,94.0
+2012-05-15,Stifel,12 month,5.0,buy,103.0
+2012-05-16,Wedbush,12 month,5.0,outperform,100.0
+2012-05-30,Northcoast Research,12 month,5.0,buy,100.0
+2012-06-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-06-20,Northcoast Research,12 month,5.0,buy,110.0
+2012-06-28,Northcoast Research,12 month,5.0,buy,110.0
+2012-07-11,Barrington Research,12 month,5.0,outperform,108.0
+2012-07-13,Great Lakes Review,12 month,3.0,hold,76.0
+2012-07-18,Avondale Partners LLC,12 month,3.0,market perform,79.0
+2012-07-18,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-07-19,Wunderlich Securities,18 month,3.0,hold,85.0
+2012-07-22,Wedbush,12 month,5.0,outperform,100.0
+2012-07-24,Barrington Research,12 month,5.0,outperform,108.0
+2012-07-25,J.P. Morgan,3 month,5.0,overweight,101.0
+2012-07-25,Avondale Partners LLC,12 month,3.0,market perform,91.0
+2012-07-25,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-07-26,Stifel,12 month,5.0,buy,103.0
+2012-07-26,Baird,12 month,3.0,neutral,98.0
+2012-07-26,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-07-26,Wedbush,12 month,5.0,outperform,100.0
+2012-07-26,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2012-07-26,Wunderlich Securities,18 month,3.0,hold,85.0
+2012-07-26,Northcoast Research,12 month,5.0,buy,110.0
+2012-07-26,Great Lakes Review,12 month,3.0,hold,76.0
+2012-07-27,Barrington Research,12 month,5.0,outperform,108.0
+2012-08-03,Avondale Partners LLC,18 month,3.0,market perform,91.0
+2012-08-09,Raymond James,12 month,5.0,outperform,99.0
+2012-08-10,Avondale Partners LLC,12 month,3.0,market perform,91.0
+2012-08-11,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-08-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2012-08-20,Avondale Partners LLC,18 month,3.0,market perform,91.0
+2012-08-24,Avondale Partners LLC,12 month,3.0,market perform,91.0
+2012-09-06,Stifel,12 month,5.0,buy,103.0
+2012-09-10,Avondale Partners LLC,12 month,3.0,market perform,91.0
+2012-09-13,Barrington Research,12 month,5.0,outperform,108.0
+2012-09-17,Avondale Partners LLC,12 month,3.0,market perform,91.0
+2012-09-28,Northcoast Research,12 month,5.0,buy,110.0
+2012-10-01,Avondale Partners LLC,12 month,3.0,market perform,91.0
+2012-10-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-10-15,Avondale Partners LLC,12 month,3.0,market perform,91.0
+2012-10-15,Raymond James,12 month,5.0,outperform,99.0
+2012-10-16,Northcoast Research,12 month,5.0,buy,110.0
+2012-10-16,Wunderlich Securities,18 month,3.0,hold,85.0
+2012-10-16,J.P. Morgan,12 month,5.0,overweight,112.0
+2012-10-17,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2012-10-19,Great Lakes Review,12 month,3.0,hold,76.0
+2012-10-22,Avondale Partners LLC,12 month,3.0,market perform,91.0
+2012-10-23,Wedbush,12 month,5.0,outperform,100.0
+2012-10-24,Baird,12 month,3.0,neutral,98.0
+2012-10-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2012-10-24,Wunderlich Securities,18 month,3.0,hold,85.0
+2012-10-24,Barrington Research,12 month,5.0,outperform,108.0
+2012-10-25,Raymond James,12 month,5.0,outperform,99.0
+2012-10-25,Wedbush,12 month,5.0,outperform,100.0
+2012-10-25,J.P. Morgan,12 month,5.0,overweight,108.5
+2012-10-25,Stifel,12 month,5.0,buy,103.0
+2012-10-25,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2012-10-25,Northcoast Research,12 month,5.0,buy,110.0
+2012-10-25,Oppenheimer & Co,12 month,5.0,outperform,100.0
+2012-10-25,Wunderlich Securities,18 month,3.0,hold,85.0
+2012-10-29,Barrington Research,12 month,5.0,outperform,108.0
+2012-10-29,Great Lakes Review,12 month,3.0,hold,79.0
+2012-10-30,Avondale Partners LLC,12 month,3.0,market perform,91.0
+2012-11-08,S&P Capital IQ,Not Provided,5.0,buy,105.0
+2012-11-09,Avondale Partners LLC,18 month,3.0,market perform,91.0
+2012-11-15,Northcoast Research,12 month,5.0,buy,110.0
+2012-11-23,Great Lakes Review,12 month,3.0,hold,79.0
+2012-12-10,Avondale Partners LLC,12 month,3.0,market perform,91.0
+2012-12-28,Northcoast Research,12 month,5.0,buy,110.0
+2013-01-04,Wunderlich Securities,18 month,3.0,hold,85.0
+2013-01-08,Barclays,Not Provided,3.0,equalweight,102.0
+2013-01-09,Northcoast Research,12 month,5.0,buy,110.0
+2013-01-11,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2013-01-14,Avondale Partners LLC,12 month,3.0,market perform,91.0
+2013-01-15,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2013-01-15,J.P. Morgan,12 month,5.0,overweight,108.5
+2013-01-16,Barrington Research,12 month,5.0,outperform,108.0
+2013-01-22,Barclays,Not Provided,3.0,equalweight,102.0
+2013-01-23,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-01-23,Raymond James,12 month,5.0,outperform,103.0
+2013-01-31,Wedbush,12 month,5.0,outperform,100.0
+2013-02-04,Wunderlich Securities,18 month,3.0,hold,85.0
+2013-02-06,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-02-07,Northcoast Research,12 month,5.0,buy,110.0
+2013-02-07,Oppenheimer & Co,12 month,5.0,outperform,105.0
+2013-02-07,Stifel,12 month,5.0,buy,117.0
+2013-02-07,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-02-07,Wedbush,12 month,5.0,outperform,102.0
+2013-02-07,Raymond James,12 month,5.0,outperform,103.0
+2013-02-07,Baird,12 month,3.0,neutral,105.0
+2013-02-07,Barrington Research,12 month,5.0,outperform,108.0
+2013-02-07,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2013-02-08,Barrington Research,12 month,5.0,outperform,110.0
+2013-02-08,Barclays,Not Provided,3.0,equalweight,103.0
+2013-02-08,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2013-02-11,Avondale Partners LLC,Not Provided,3.0,market perform,92.0
+2013-02-15,Northcoast Research,12 month,5.0,buy,110.0
+2013-02-22,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2013-02-25,Avondale Partners LLC,12 month,3.0,market perform,92.0
+2013-03-03,Wedbush,12 month,5.0,outperform,102.0
+2013-03-12,Avondale Partners LLC,18 month,3.0,market perform,92.0
+2013-03-13,Goldman Sachs,6 month,5.0,Buy/Neutral,115.0
+2013-03-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-03-18,Northcoast Research,12 month,5.0,buy,110.0
+2013-03-18,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2013-03-18,Wedbush,12 month,5.0,outperform,110.0
+2013-03-18,Baird,12 month,3.0,neutral,110.0
+2013-03-25,Oppenheimer & Co,12 month,5.0,outperform,115.0
+2013-04-11,Goldman Sachs,6 month,5.0,buy/attractive,115.0
+2013-04-11,Stifel,12 month,5.0,buy,117.0
+2013-04-15,Jefferies,12 month,5.0,buy,127.0
+2013-04-15,Raymond James,12 month,5.0,outperform,103.0
+2013-04-16,Barclays,Not Provided,3.0,equalweight,107.0
+2013-04-17,Northcoast Research,12 month,5.0,buy,120.0
+2013-04-22,Wedbush,12 month,5.0,outperform,110.0
+2013-04-24,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-04-24,Jefferies,12 month,5.0,buy,127.0
+2013-04-24,Goldman Sachs,6 month,5.0,buy/attractive,122.0
+2013-04-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-04-25,Raymond James,12 month,5.0,outperform,115.0
+2013-04-25,Baird,12 month,3.0,neutral,121.0
+2013-04-25,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-04-25,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2013-04-25,Oppenheimer & Co,18 month,5.0,outperform,118.0
+2013-04-25,Northcoast Research,12 month,5.0,buy,120.0
+2013-04-25,Barclays,Not Provided,3.0,equalweight,107.0
+2013-04-25,Wedbush,12 month,5.0,outperform,120.0
+2013-04-25,Stifel,12 month,5.0,buy,117.0
+2013-04-26,Barrington Research,12 month,5.0,outperform,120.0
+2013-05-20,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-05-21,Northcoast Research,12 month,5.0,buy,130.0
+2013-05-29,Jefferies,12 month,5.0,buy,127.0
+2013-05-29,Stifel,12 month,5.0,buy,117.0
+2013-06-03,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-06-05,Stifel,12 month,5.0,buy,123.0
+2013-06-05,Jefferies,12 month,5.0,buy,127.0
+2013-06-10,Wunderlich Securities,18 month,5.0,buy,120.0
+2013-06-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-06-14,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-06-25,Northcoast Research,12 month,5.0,buy,130.0
+2013-07-05,Wunderlich Securities,18 month,5.0,buy,120.0
+2013-07-15,Wedbush,12 month,5.0,outperform,120.0
+2013-07-23,Wunderlich Securities,18 month,5.0,buy,120.0
+2013-07-24,Goldman Sachs,6 month,5.0,buy/attractive,129.0
+2013-07-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-07-24,S&P Capital IQ,Not Provided,5.0,buy,132.0
+2013-07-24,Barrington Research,12 month,5.0,outperform,120.0
+2013-07-24,Jefferies,12 month,5.0,buy,127.0
+2013-07-24,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-07-25,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-07-25,Wedbush,12 month,5.0,outperform,120.0
+2013-07-25,Northcoast Research,12 month,5.0,buy,130.0
+2013-07-25,Stifel,12 month,5.0,buy,123.0
+2013-07-25,Raymond James,12 month,5.0,outperform,124.0
+2013-07-25,Wunderlich Securities,18 month,5.0,buy,123.0
+2013-07-25,Baird,12 month,3.0,neutral,126.0
+2013-07-25,Oppenheimer & Co,12 month,5.0,outperform,125.0
+2013-07-26,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-07-29,Barrington Research,12 month,5.0,outperform,127.0
+2013-08-07,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-08-13,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-08-28,Wedbush,12 month,3.0,neutral,120.0
+2013-08-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-08-30,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-08-30,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2013-09-09,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-09-11,Northcoast Research,12 month,5.0,buy,130.0
+2013-09-11,Barrington Research,12 month,5.0,outperform,127.0
+2013-09-16,Stifel,12 month,5.0,buy,123.0
+2013-09-20,Wunderlich Securities,18 month,5.0,buy,125.0
+2013-09-20,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2013-09-25,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-09-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-09-27,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-10-01,Northcoast Research,12 month,5.0,buy,130.0
+2013-10-14,Jefferies,12 month,5.0,buy,127.0
+2013-10-14,Raymond James,12 month,5.0,outperform,124.0
+2013-10-15,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-10-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2013-10-23,Baird,12 month,3.0,neutral,128.0
+2013-10-23,Jefferies,12 month,5.0,buy,127.0
+2013-10-23,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-10-23,Barrington Research,12 month,5.0,outperform,127.0
+2013-10-23,Wunderlich Securities,12 month,5.0,buy,125.0
+2013-10-24,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2013-10-24,Oppenheimer & Co,12 month,5.0,outperform,128.0
+2013-10-24,Northcoast Research,12 month,5.0,buy,130.0
+2013-10-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-10-24,Stifel,12 month,5.0,buy,138.0
+2013-10-24,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2013-10-24,Wedbush,12 month,3.0,neutral,120.0
+2013-10-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2013-10-25,Wunderlich Securities,12 month,5.0,buy,125.0
+2013-10-25,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2013-10-25,Barrington Research,12 month,5.0,outperform,127.0
+2013-11-06,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-11-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-12-10,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2013-12-18,Northcoast Research,12 month,5.0,buy,130.0
+2013-12-27,Edward Jones,Not Provided,5.0,buy,-0.0
+2013-12-27,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-01-03,Wunderlich Securities,12 month,5.0,buy,125.0
+2014-01-06,Avondale Partners LLC,18 month,3.0,market perform,110.0
+2014-01-09,RBC Capital Markets,12 month,3.0,sector perform,124.0
+2014-01-13,Barrington Research,12 month,5.0,outperform,127.0
+2014-01-13,Wunderlich Securities,12 month,5.0,buy,140.0
+2014-01-13,Credit Suisse,Not Provided,5.0,outperform,140.0
+2014-01-14,Northcoast Research,12 month,5.0,buy,130.0
+2014-01-17,Avondale Partners LLC,12 month,3.0,market perform,110.0
+2014-01-22,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-01-24,Wedbush,12 month,3.0,neutral,120.0
+2014-01-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-01-28,Stifel,12 month,5.0,buy,138.0
+2014-01-28,Credit Suisse,Not Provided,5.0,outperform,140.0
+2014-01-28,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-01-28,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-01-29,Northcoast Research,12 month,5.0,buy,130.0
+2014-01-29,Wunderlich Securities,18 month,5.0,buy,140.0
+2014-01-31,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-02-03,Wunderlich Securities,12 month,5.0,buy,140.0
+2014-02-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-02-05,Stifel,12 month,5.0,buy,138.0
+2014-02-05,Barrington Research,12 month,5.0,outperform,127.0
+2014-02-05,Avondale Partners LLC,12 month,3.0,market perform,112.0
+2014-02-05,Credit Suisse,Not Provided,5.0,outperform,140.0
+2014-02-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-02-05,Wedbush,12 month,3.0,neutral,120.0
+2014-02-05,Jefferies,12 month,5.0,buy,127.0
+2014-02-05,Goldman Sachs,6 month,5.0,buy/attractive,131.0
+2014-02-06,Wunderlich Securities,18 month,5.0,buy,140.0
+2014-02-06,RBC Capital Markets,12 month,3.0,sector perform,124.0
+2014-02-06,Oppenheimer & Co,12 month,5.0,outperform,128.0
+2014-02-06,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-02-06,Baird,12 month,3.0,neutral,128.0
+2014-02-06,Northcoast Research,12 month,5.0,buy,130.0
+2014-02-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-02-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-02-07,Barrington Research,12 month,5.0,outperform,129.0
+2014-02-07,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-02-09,Avondale Partners LLC,12 month,3.0,market perform,112.0
+2014-02-18,Northcoast Research,12 month,5.0,buy,130.0
+2014-02-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-03-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-03-13,Northcoast Research,12 month,5.0,buy,138.0
+2014-03-14,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-03-27,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-03,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-07,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-04-10,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-11,Goldman Sachs,6 month,5.0,buy/attractive,129.0
+2014-04-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-16,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-04-16,Avondale Partners LLC,Not Provided,3.0,market perform,112.0
+2014-04-22,Credit Suisse,Not Provided,5.0,outperform,140.0
+2014-04-22,RBC Capital Markets,12 month,3.0,sector perform,124.0
+2014-04-23,Barrington Research,12 month,5.0,outperform,129.0
+2014-04-23,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-04-24,Stifel,12 month,5.0,buy,138.0
+2014-04-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-04-24,Avondale Partners LLC,12 month,3.0,market perform,112.0
+2014-04-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-04-25,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-04-25,Wunderlich Securities,12 month,5.0,buy,140.0
+2014-04-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-04-25,Baird,12 month,3.0,neutral,128.0
+2014-04-25,Oppenheimer & Co,12 month,5.0,outperform,128.0
+2014-04-25,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-04-25,Northcoast Research,12 month,5.0,buy,138.0
+2014-04-25,Wedbush,12 month,3.0,neutral,120.0
+2014-04-27,Jefferies,12 month,5.0,buy,127.0
+2014-04-28,Barrington Research,12 month,5.0,outperform,131.0
+2014-04-28,Credit Suisse,Not Provided,5.0,outperform,140.0
+2014-04-28,RBC Capital Markets,12 month,3.0,sector perform,124.0
+2014-04-29,EVA Dimensions,Not Provided,1.0,underweight,-0.0
+2014-04-29,Wunderlich Securities,18 month,5.0,buy,140.0
+2014-04-30,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-05-02,Avondale Partners LLC,18 month,3.0,market perform,112.0
+2014-05-12,RBC Capital Markets,12 month,3.0,sector perform,124.0
+2014-05-20,Avondale Partners LLC,Not Provided,3.0,market perform,112.0
+2014-05-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-05-22,RBC Capital Markets,12 month,3.0,sector perform,124.0
+2014-05-23,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-05-30,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-06-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-06-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-06-03,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-04,Jefferies,12 month,5.0,buy,127.0
+2014-06-10,Avondale Partners LLC,Not Provided,3.0,market perform,112.0
+2014-06-11,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-06-12,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-06-13,Baird,12 month,5.0,outperform,140.0
+2014-06-18,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-06-18,Northcoast Research,12 month,5.0,buy,138.0
+2014-06-19,Wunderlich Securities,18 month,5.0,buy,140.0
+2014-06-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-06-23,Avondale Partners LLC,Not Provided,3.0,market perform,112.0
+2014-06-27,Baird,12 month,5.0,outperform,140.0
+2014-07-14,Avondale Partners LLC,Not Provided,3.0,market perform,112.0
+2014-07-15,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-07-15,RBC Capital Markets,12 month,3.0,sector perform,124.0
+2014-07-15,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-07-15,Wunderlich Securities,18 month,5.0,buy,140.0
+2014-07-16,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-07-16,Wunderlich Securities,12 month,5.0,buy,140.0
+2014-07-18,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-07-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-07-21,Wedbush,Not Provided,3.0,neutral,120.0
+2014-07-24,Avondale Partners LLC,12 month,3.0,market perform,112.0
+2014-07-24,RBC Capital Markets,12 month,3.0,sector perform,125.0
+2014-07-24,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-07-24,Jefferies,12 month,5.0,buy,136.0
+2014-07-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-07-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-07-25,Morgan Stanley,Not Provided,3.0,Equalwt/In-Line,-0.0
+2014-07-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-07-25,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-07-25,Baird,12 month,5.0,outperform,140.0
+2014-07-25,Stifel,12 month,5.0,buy,138.0
+2014-07-25,Oppenheimer & Co,12 month,5.0,outperform,128.0
+2014-07-25,Wedbush,12 month,3.0,neutral,123.0
+2014-07-28,Northcoast Research,12 month,5.0,buy,138.0
+2014-07-29,Barrington Research,12 month,5.0,outperform,133.0
+2014-07-30,Credit Suisse,Not Provided,5.0,outperform,140.0
+2014-08-19,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-08-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-08-25,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-09-02,Goldman Sachs,6 month,3.0,neutral/attractive,126.0
+2014-09-16,Barrington Research,12 month,5.0,outperform,133.0
+2014-09-16,Northcoast Research,12 month,5.0,buy,138.0
+2014-09-19,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-09-22,Wedbush,12 month,3.0,neutral,123.0
+2014-09-23,Avondale Partners LLC,Not Provided,3.0,market perform,112.0
+2014-09-30,Northcoast Research,12 month,5.0,buy,138.0
+2014-09-30,Stifel,12 month,5.0,buy,138.0
+2014-10-08,Morgan Stanley,12 month,3.0,Equalwt/In-Line,130.0
+2014-10-09,Goldman Sachs,6 month,3.0,neutral/attractive,125.0
+2014-10-10,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-10-14,Wedbush,12 month,3.0,neutral,125.0
+2014-10-15,Morgan Stanley,12 month,3.0,Equalwt/In-Line,130.0
+2014-10-15,Avondale Partners LLC,12 month,3.0,market perform,112.0
+2014-10-16,Avondale Partners LLC,Not Provided,3.0,market perform,112.0
+2014-10-16,RBC Capital Markets,12 month,3.0,sector perform,124.0
+2014-10-17,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-10-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-10-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-23,Goldman Sachs,6 month,3.0,neutral/attractive,124.0
+2014-10-23,Stifel,12 month,5.0,buy,138.0
+2014-10-23,Jefferies,12 month,5.0,buy,136.0
+2014-10-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2014-10-23,RBC Capital Markets,12 month,3.0,sector perform,124.0
+2014-10-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-10-24,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-10-24,Oppenheimer & Co,12 month,5.0,outperform,130.0
+2014-10-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2014-10-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,130.0
+2014-10-24,Baird,12 month,5.0,outperform,135.0
+2014-10-24,Barrington Research,12 month,5.0,outperform,137.0
+2014-10-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2014-10-24,Northcoast Research,12 month,5.0,buy,138.0
+2014-10-26,Wedbush,12 month,3.0,neutral,125.0
+2014-10-29,Avondale Partners LLC,Not Provided,3.0,market perform,117.0
+2014-11-14,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-11-14,Avondale Partners LLC,Not Provided,3.0,market perform,117.0
+2014-11-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2014-11-21,Oppenheimer & Co,12 month,5.0,outperform,137.0
+2014-11-24,Avondale Partners LLC,12 month,3.0,market perform,117.0
+2014-11-24,RBC Capital Markets,12 month,3.0,sector perform,129.0
+2014-12-12,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2014-12-17,Northcoast Research,12 month,5.0,buy,138.0
+2014-12-19,Macquarie,12 month,5.0,outperform,155.0
+2014-12-19,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-01-02,Avondale Partners LLC,Not Provided,3.0,market perform,117.0
+2015-01-07,RBC Capital Markets,12 month,3.0,sector perform,128.0
+2015-01-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-01-12,Stifel,12 month,5.0,buy,156.0
+2015-01-13,Wedbush,12 month,3.0,neutral,140.0
+2015-01-14,Barrington Research,12 month,5.0,outperform,147.0
+2015-01-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-01-19,Avondale Partners LLC,Not Provided,3.0,market perform,117.0
+2015-01-20,Morgan Stanley,12 month,3.0,Equalwt/In-Line,130.0
+2015-01-29,Macquarie,12 month,5.0,outperform,155.0
+2015-01-30,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-02-05,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-02-05,Jefferies,12 month,5.0,buy,155.0
+2015-02-05,Barrington Research,12 month,5.0,outperform,147.0
+2015-02-05,Stifel,12 month,5.0,buy,156.0
+2015-02-06,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-02-06,Northcoast Research,12 month,5.0,buy,138.0
+2015-02-06,RBC Capital Markets,12 month,3.0,sector perform,128.0
+2015-02-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-02-06,Wedbush,12 month,3.0,neutral,140.0
+2015-02-06,Baird,12 month,5.0,outperform,147.0
+2015-02-06,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-02-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-02-06,Oppenheimer & Co,12 month,5.0,outperform,142.0
+2015-02-06,Macquarie,12 month,5.0,outperform,155.0
+2015-02-06,Morgan Stanley,12 month,3.0,Equalwt/In-Line,140.0
+2015-02-08,Avondale Partners LLC,Not Provided,3.0,market perform,132.0
+2015-03-02,Northcoast Research,12 month,5.0,buy,138.0
+2015-03-03,Barrington Research,12 month,5.0,outperform,147.0
+2015-03-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-03-04,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-03-11,RBC Capital Markets,12 month,3.0,sector perform,131.0
+2015-03-13,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-03-20,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-03-30,Northcoast Research,12 month,5.0,buy,170.0
+2015-03-31,Barrington Research,Not Provided,5.0,outperform,147.0
+2015-04-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-04-06,Wedbush,Not Provided,3.0,neutral,140.0
+2015-04-06,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-04-07,Northcoast Research,12 month,5.0,buy,170.0
+2015-04-13,RBC Capital Markets,12 month,3.0,sector perform,131.0
+2015-04-14,Morgan Stanley,12 month,3.0,Equalwt/In-Line,140.0
+2015-04-16,Northcoast Research,12 month,5.0,buy,170.0
+2015-04-21,Barrington Research,Not Provided,5.0,outperform,147.0
+2015-04-22,Imperial Capital LLC,Not Provided,3.0,in-line,150.0
+2015-04-23,Jefferies,12 month,5.0,buy,155.0
+2015-04-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-04-23,Avondale Partners LLC,12 month,3.0,market perform,132.0
+2015-04-24,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-04-24,Macquarie,12 month,5.0,outperform,155.0
+2015-04-24,Stifel,12 month,5.0,buy,156.0
+2015-04-24,Baird,12 month,5.0,outperform,150.0
+2015-04-24,Goldman Sachs,6 month,3.0,neutral/attractive,132.0
+2015-04-24,RBC Capital Markets,12 month,3.0,sector perform,131.0
+2015-04-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-04-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-04-24,Oppenheimer & Co,12 month,5.0,outperform,148.0
+2015-04-26,Wedbush,12 month,3.0,neutral,143.0
+2015-04-27,Barrington Research,12 month,5.0,outperform,147.0
+2015-04-27,Imperial Capital LLC,12 month,3.0,in-line,150.0
+2015-04-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-04-30,Northcoast Research,12 month,5.0,buy,170.0
+2015-05-12,Macquarie,12 month,5.0,outperform,155.0
+2015-05-21,Stifel,12 month,5.0,buy,160.0
+2015-05-22,Stifel,12 month,5.0,buy,160.0
+2015-05-22,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-06-01,Stifel,12 month,5.0,buy,160.0
+2015-06-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-06-04,Jefferies,12 month,5.0,buy,155.0
+2015-06-04,Northcoast Research,12 month,5.0,buy,170.0
+2015-06-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-06-19,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-06-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-07-08,Northcoast Research,12 month,5.0,buy,170.0
+2015-07-15,Goldman Sachs,Not Provided,-2147483648.0,not rated,-0.0
+2015-07-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-07-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-07-15,Wedbush,12 month,3.0,neutral,143.0
+2015-07-15,RBC Capital Markets,12 month,3.0,sector perform,131.0
+2015-07-16,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-07-16,Baird,12 month,5.0,outperform,150.0
+2015-07-16,Oppenheimer & Co,18 month,5.0,outperform,148.0
+2015-07-16,Jefferies,12 month,5.0,buy,155.0
+2015-07-16,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-07-17,Imperial Capital LLC,12 month,3.0,in-line,150.0
+2015-07-17,Northcoast Research,12 month,5.0,buy,170.0
+2015-07-17,Macquarie,12 month,5.0,outperform,170.0
+2015-07-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-20,Stifel,12 month,5.0,buy,160.0
+2015-07-23,Jefferies,12 month,5.0,buy,155.0
+2015-07-23,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-07-23,Stifel,12 month,5.0,buy,160.0
+2015-07-23,Barrington Research,12 month,5.0,outperform,147.0
+2015-07-24,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-07-24,Baird,12 month,5.0,outperform,145.0
+2015-07-24,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-07-24,Oppenheimer & Co,12 month,5.0,outperform,148.0
+2015-07-24,Macquarie,12 month,5.0,outperform,170.0
+2015-07-24,RBC Capital Markets,12 month,3.0,sector perform,131.0
+2015-07-24,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-07-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-07-26,Wedbush,12 month,3.0,neutral,143.0
+2015-07-27,Imperial Capital LLC,12 month,3.0,in-line,150.0
+2015-07-27,Northcoast Research,12 month,5.0,buy,170.0
+2015-07-28,Barrington Research,12 month,5.0,outperform,147.0
+2015-07-29,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-21,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-08-25,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-08-26,Northcoast Research,12 month,5.0,buy,170.0
+2015-08-27,Macquarie,12 month,5.0,outperform,170.0
+2015-08-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-08-28,RBC Capital Markets,12 month,3.0,sector perform,147.0
+2015-09-08,Raymond James,12 month,5.0,outperform,161.0
+2015-09-11,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-09-11,Barrington Research,12 month,5.0,outperform,147.0
+2015-09-14,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-09-14,Raymond James,12 month,5.0,outperform,161.0
+2015-09-22,Imperial Capital LLC,12 month,3.0,in-line,150.0
+2015-09-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-10-01,RBC Capital Markets,12 month,3.0,sector perform,147.0
+2015-10-02,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-05,Stifel,12 month,5.0,buy,160.0
+2015-10-06,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-10-08,Wedbush,Not Provided,3.0,neutral,160.0
+2015-10-09,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-10-09,Raymond James,12 month,5.0,outperform,161.0
+2015-10-20,Stifel,12 month,5.0,buy,160.0
+2015-10-21,Barrington Research,12 month,5.0,outperform,147.0
+2015-10-22,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-10-23,Northcoast Research,12 month,5.0,buy,155.0
+2015-10-23,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-10-23,Macquarie,12 month,5.0,outperform,155.0
+2015-10-23,Baird,12 month,3.0,neutral,130.0
+2015-10-23,Raymond James,12 month,5.0,outperform,151.0
+2015-10-23,Imperial Capital LLC,12 month,3.0,in-line,135.0
+2015-10-23,Goldman Sachs,6 month,3.0,neutral/attractive,135.0
+2015-10-23,Stifel,12 month,5.0,buy,145.0
+2015-10-23,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-10-23,Wedbush,12 month,3.0,neutral,155.0
+2015-10-23,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-10-23,RBC Capital Markets,12 month,3.0,sector perform,122.0
+2015-10-26,Jefferies,12 month,5.0,buy,155.0
+2015-10-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2015-10-28,Barrington Research,12 month,5.0,outperform,140.0
+2015-11-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-11-09,Wedbush,12 month,3.0,neutral,135.0
+2015-11-10,Northcoast Research,12 month,5.0,buy,155.0
+2015-11-12,Raymond James,12 month,5.0,outperform,151.0
+2015-11-16,Stifel,12 month,5.0,buy,145.0
+2015-11-19,Northcoast Research,12 month,5.0,buy,155.0
+2015-11-20,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2015-11-30,RBC Capital Markets,12 month,3.0,sector perform,119.0
+2015-12-02,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-12-07,Wedbush,12 month,3.0,neutral,121.0
+2015-12-07,Goldman Sachs,6 month,3.0,neutral/neutral,135.0
+2015-12-07,Northcoast Research,12 month,5.0,buy,155.0
+2015-12-08,Stifel,12 month,5.0,buy,145.0
+2015-12-11,RBC Capital Markets,12 month,3.0,sector perform,118.0
+2015-12-13,Stifel,12 month,5.0,buy,145.0
+2015-12-14,Wedbush,Not Provided,3.0,neutral,121.0
+2015-12-14,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2015-12-16,Jefferies,12 month,5.0,buy,146.0
+2015-12-18,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2015-12-22,RBC Capital Markets,12 month,3.0,sector perform,121.0
+2015-12-30,Edward Jones,Not Provided,5.0,buy,-0.0
+2015-12-31,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-01-08,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-01-11,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-01-12,Raymond James,12 month,5.0,outperform,150.0
+2016-01-13,Northcoast Research,12 month,5.0,buy,155.0
+2016-01-21,Goldman Sachs,6 month,3.0,neutral/neutral,128.0
+2016-01-28,Raymond James,12 month,5.0,outperform,140.0
+2016-01-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-02-01,RBC Capital Markets,12 month,3.0,sector perform,120.0
+2016-02-01,Stifel,12 month,5.0,buy,145.0
+2016-02-04,Jefferies,12 month,5.0,buy,146.0
+2016-02-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-02-05,Wedbush,12 month,3.0,neutral,121.0
+2016-02-05,Goldman Sachs,6 month,3.0,neutral/neutral,124.0
+2016-02-05,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-02-05,Baird,12 month,3.0,neutral,129.0
+2016-02-05,Macquarie,12 month,5.0,outperform,145.0
+2016-02-05,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-02-05,Northcoast Research,12 month,5.0,buy,155.0
+2016-02-05,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-02-05,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-02-07,Stifel,12 month,5.0,buy,145.0
+2016-02-08,Imperial Capital LLC,12 month,3.0,in-line,115.0
+2016-02-08,RBC Capital Markets,12 month,3.0,sector perform,119.0
+2016-02-08,Raymond James,12 month,5.0,outperform,140.0
+2016-02-12,Barrington Research,12 month,5.0,outperform,140.0
+2016-02-15,Stifel,12 month,5.0,buy,145.0
+2016-02-23,Jefferies,12 month,5.0,buy,146.0
+2016-02-26,Baird,12 month,3.0,neutral,129.0
+2016-03-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-03-01,Raymond James,12 month,5.0,outperform,140.0
+2016-03-01,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-03-04,Northcoast Research,12 month,5.0,buy,155.0
+2016-03-04,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-03-04,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-03-07,Raymond James,12 month,5.0,outperform,140.0
+2016-03-13,Stifel,12 month,5.0,buy,145.0
+2016-03-15,Raymond James,12 month,5.0,outperform,140.0
+2016-03-15,Jefferies,12 month,5.0,buy,146.0
+2016-03-18,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-03-18,Imperial Capital LLC,12 month,3.0,in-line,115.0
+2016-03-21,Sterne Agee CRT,12 month,5.0,buy,151.0
+2016-03-22,Goldman Sachs,6 month,3.0,neutral/neutral,127.0
+2016-03-22,Stifel,12 month,5.0,buy,145.0
+2016-03-24,Macquarie,12 month,5.0,outperform,145.0
+2016-03-28,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-01,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-05,Raymond James,12 month,5.0,outperform,140.0
+2016-04-06,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-04-14,Northcoast Research,12 month,5.0,buy,155.0
+2016-04-17,Stifel,12 month,5.0,buy,145.0
+2016-04-18,Wedbush,12 month,3.0,neutral,128.0
+2016-04-18,Raymond James,Not Provided,5.0,outperform,140.0
+2016-04-22,Barrington Research,12 month,5.0,outperform,140.0
+2016-04-22,Jefferies,12 month,5.0,buy,146.0
+2016-04-25,RBC Capital Markets,12 month,3.0,sector perform,119.0
+2016-04-26,Stifel,12 month,5.0,buy,145.0
+2016-04-26,Imperial Capital LLC,Not Provided,3.0,in-line,115.0
+2016-04-28,Stifel,Not Provided,3.0,hold,-0.0
+2016-04-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-04-28,Jefferies,12 month,5.0,buy,140.0
+2016-04-29,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-04-29,Macquarie,12 month,5.0,outperform,130.0
+2016-04-29,Baird,12 month,3.0,neutral,115.0
+2016-04-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-04-29,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-04-29,Goldman Sachs,6 month,3.0,neutral/neutral,111.0
+2016-04-29,Imperial Capital LLC,12 month,3.0,in-line,95.0
+2016-04-29,Northcoast Research,12 month,5.0,buy,155.0
+2016-04-29,Great Lakes Review,12 month,4.0,Gradually Accumulate,116.0
+2016-04-29,Wedbush,12 month,3.0,neutral,112.0
+2016-04-29,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-04-29,RBC Capital Markets,12 month,1.0,underperform,96.0
+2016-05-02,Barrington Research,12 month,5.0,outperform,112.0
+2016-05-03,Sterne Agee CRT,12 month,5.0,buy,145.0
+2016-05-08,Wedbush,12 month,3.0,neutral,100.0
+2016-05-16,Great Lakes Review,12 month,4.0,Gradually Accumulate,116.0
+2016-05-16,Northcoast Research,12 month,5.0,buy,135.0
+2016-05-16,Sterne Agee CRT,12 month,5.0,buy,145.0
+2016-05-17,Jefferies,12 month,5.0,buy,140.0
+2016-05-20,Great Lakes Review,12 month,4.0,Gradually Accumulate,116.0
+2016-05-20,Jefferies,Not Provided,5.0,buy,140.0
+2016-05-25,RBC Capital Markets,12 month,1.0,underperform,96.0
+2016-05-26,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-05-26,Imperial Capital LLC,12 month,3.0,in-line,100.0
+2016-05-27,RBC Capital Markets,12 month,1.0,underperform,96.0
+2016-05-31,Wedbush,Not Provided,3.0,neutral,100.0
+2016-06-03,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-03,Baird,12 month,3.0,neutral,115.0
+2016-06-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-06-06,Stifel,Not Provided,3.0,hold,-0.0
+2016-06-09,Wedbush,12 month,3.0,neutral,100.0
+2016-06-10,Baird,12 month,3.0,neutral,115.0
+2016-06-10,Imperial Capital LLC,Not Provided,3.0,in-line,100.0
+2016-06-17,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-06-20,Edward Jones,Not Provided,5.0,buy,-0.0
+2016-06-20,Stifel,Not Provided,3.0,hold,-0.0
+2016-06-24,RBC Capital Markets,12 month,1.0,underperform,96.0
+2016-06-28,Goldman Sachs,6 month,3.0,neutral/neutral,110.0
+2016-07-06,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-07,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-07-12,RBC Capital Markets,12 month,1.0,underperform,96.0
+2016-07-13,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-18,Jefferies,12 month,5.0,buy,140.0
+2016-07-19,Wedbush,Not Provided,3.0,neutral,106.0
+2016-07-22,Imperial Capital LLC,Not Provided,3.0,in-line,100.0
+2016-07-28,"Morningstar, Inc",Not Provided,-2147483648.0,Under Review,-0.0
+2016-07-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-07-28,Jefferies,12 month,5.0,buy,125.0
+2016-07-29,Stifel,Not Provided,3.0,hold,-0.0
+2016-07-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-07-29,Imperial Capital LLC,12 month,1.0,underperform,93.5
+2016-07-29,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-07-29,Northcoast Research,12 month,5.0,buy,135.0
+2016-07-29,RBC Capital Markets,12 month,1.0,underperform,89.0
+2016-07-29,Goldman Sachs,6 month,3.0,neutral/neutral,96.0
+2016-07-29,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-07-29,Wedbush,12 month,3.0,neutral,95.0
+2016-07-29,Baird,12 month,3.0,neutral,99.0
+2016-07-29,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-08-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-08-05,Barrington Research,12 month,5.0,outperform,100.0
+2016-08-07,Stifel,Not Provided,3.0,hold,-0.0
+2016-08-08,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-08-23,Jefferies,12 month,5.0,buy,125.0
+2016-08-26,Stifel,Not Provided,3.0,hold,-0.0
+2016-08-26,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-08-26,Macquarie,12 month,3.0,neutral,98.0
+2016-08-28,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-09-02,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-09-06,Stifel,12 month,3.0,hold,90.0
+2016-09-07,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-09-07,Jefferies,12 month,5.0,buy,112.5
+2016-09-08,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-09-09,Imperial Capital LLC,12 month,1.0,underperform,80.0
+2016-09-13,Macquarie,12 month,3.0,neutral,92.0
+2016-09-13,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-09-15,Barrington Research,12 month,5.0,outperform,100.0
+2016-09-16,Stifel,12 month,3.0,hold,90.0
+2016-09-18,RBC Capital Markets,12 month,1.0,underperform,77.0
+2016-09-19,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-09-19,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-09-19,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-09-20,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-09-22,Wedbush,12 month,3.0,neutral,85.0
+2016-09-23,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-09-23,Baird,12 month,3.0,neutral,85.0
+2016-09-26,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-10-05,Barrington Research,12 month,5.0,outperform,88.0
+2016-10-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-11,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-10-13,Wedbush,Not Provided,3.0,neutral,85.0
+2016-10-17,Stifel,12 month,3.0,hold,90.0
+2016-10-21,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-24,Baird,12 month,3.0,neutral,75.0
+2016-10-27,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-10-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-10-27,Jefferies,12 month,5.0,buy,108.0
+2016-10-28,Stifel,12 month,5.0,buy,90.0
+2016-10-28,RBC Capital Markets,12 month,1.0,underperform,72.0
+2016-10-28,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-10-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-28,Goldman Sachs,6 month,3.0,neutral/neutral,60.0
+2016-10-28,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-10-28,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2016-10-28,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-10-28,Baird,12 month,3.0,neutral,74.0
+2016-10-29,Macquarie,12 month,3.0,neutral,92.0
+2016-10-30,Wedbush,12 month,3.0,neutral,85.0
+2016-11-03,Goldman Sachs,6 month,1.0,Sell/Neutral,60.0
+2016-11-03,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-11-07,Barrington Research,12 month,5.0,outperform,84.0
+2016-11-07,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-11-09,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-11-10,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-11-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-10,Jefferies,12 month,5.0,buy,108.0
+2016-11-10,Stifel,12 month,5.0,buy,90.0
+2016-11-11,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2016-11-11,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-11-11,Baird,12 month,3.0,neutral,74.0
+2016-11-11,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2016-11-13,RBC Capital Markets,12 month,1.0,underperform,72.0
+2016-11-13,Wedbush,12 month,3.0,neutral,82.0
+2016-11-15,Barrington Research,12 month,5.0,outperform,84.0
+2016-11-20,Wedbush,12 month,3.0,neutral,82.0
+2016-11-28,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2016-11-28,Edward Jones,Not Provided,3.0,hold,-0.0
+2016-11-30,Goldman Sachs,6 month,1.0,Sell/Neutral,60.0
+2016-12-05,Stifel,12 month,5.0,buy,90.0
+2016-12-05,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-12-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-08,Stifel,12 month,5.0,buy,90.0
+2016-12-09,Barrington Research,12 month,5.0,outperform,84.0
+2016-12-12,Goldman Sachs,6 month,1.0,sell/attractive,60.0
+2016-12-12,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2016-12-13,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-17,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2016-12-21,Baird,Not Provided,3.0,neutral,74.0
+2016-12-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-01-09,Macquarie,12 month,5.0,outperform,100.0
+2017-01-19,Goldman Sachs,6 month,1.0,sell/attractive,62.0
+2017-01-20,RBC Capital Markets,12 month,1.0,underperform,74.0
+2017-01-20,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2017-01-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-01-26,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-01-26,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-01-26,Jefferies,12 month,5.0,buy,108.0
+2017-01-27,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-01-27,Wedbush,12 month,3.0,neutral,82.0
+2017-01-27,Macquarie,12 month,5.0,outperform,100.0
+2017-01-27,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-01-27,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2017-01-27,RBC Capital Markets,12 month,1.0,underperform,74.0
+2017-01-27,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2017-01-27,Stifel,12 month,5.0,buy,90.0
+2017-01-31,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2017-02-02,Baird,12 month,3.0,neutral,74.0
+2017-02-03,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2017-02-03,Jefferies,12 month,5.0,buy,108.0
+2017-02-05,Stifel,12 month,5.0,buy,90.0
+2017-02-06,Barrington Research,12 month,5.0,outperform,84.0
+2017-02-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-10,Jefferies,12 month,5.0,buy,108.0
+2017-02-15,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-02-15,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-02-15,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-02-15,Macquarie,12 month,5.0,outperform,100.0
+2017-02-15,Barrington Research,12 month,5.0,outperform,84.0
+2017-02-16,Baird,12 month,3.0,neutral,74.0
+2017-02-16,Jefferies,12 month,5.0,buy,108.0
+2017-02-16,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2017-02-16,Wedbush,12 month,3.0,neutral,82.0
+2017-02-16,RBC Capital Markets,12 month,1.0,underperform,74.0
+2017-02-16,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-02-17,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-17,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2017-02-17,Stifel,12 month,5.0,buy,90.0
+2017-02-22,Barrington Research,12 month,5.0,outperform,93.0
+2017-02-22,Macquarie,12 month,5.0,outperform,100.0
+2017-03-01,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-03-06,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-07,Goldman Sachs,6 month,3.0,neutral/attractive,79.0
+2017-03-13,Stifel,12 month,5.0,buy,90.0
+2017-03-14,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-03-16,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-03-20,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2017-03-24,Stifel,12 month,5.0,buy,90.0
+2017-03-31,Jefferies,Not Provided,5.0,buy,108.0
+2017-04-04,Baird,Not Provided,3.0,neutral,74.0
+2017-04-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-10,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-04-11,Baird,12 month,3.0,neutral,74.0
+2017-04-12,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-04-13,Barclays,Not Provided,5.0,overweight,100.0
+2017-04-18,Stifel,12 month,5.0,buy,90.0
+2017-04-24,Wedbush,Not Provided,3.0,neutral,82.0
+2017-04-30,Stifel,12 month,5.0,buy,90.0
+2017-05-04,Jefferies,12 month,5.0,buy,108.0
+2017-05-04,William Blair & Co,Not Provided,5.0,outperform,-0.0
+2017-05-04,Barclays,Not Provided,5.0,overweight,100.0
+2017-05-04,Edward Jones,Not Provided,3.0,hold,-0.0
+2017-05-05,Oppenheimer & Co,Not Provided,3.0,market perform,-0.0
+2017-05-05,RBC Capital Markets,12 month,1.0,underperform,74.0
+2017-05-05,Baird,12 month,1.0,underperform,73.0
+2017-05-05,Goldman Sachs,6 month,3.0,neutral/attractive,85.0
+2017-05-05,Great Lakes Review,Not Provided,3.0,hold,-0.0
+2017-05-05,"Morningstar, Inc",Not Provided,5.0,buy,-0.0
+2017-05-05,Northcoast Research,Not Provided,3.0,neutral,-0.0
+2017-05-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-08,Stifel,12 month,5.0,buy,95.0
+2017-05-09,Macquarie,12 month,5.0,outperform,100.0
+2017-05-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-16,Macquarie,12 month,5.0,outperform,100.0

@@ -1,0 +1,576 @@
+Date,Firm Name,Period,Rating,Recommendation,Target Price
+2011-11-18,EVA Dimensions,Not Provided,1.0,sell,-0.0
+2015-01-28,Morgan Stanley,12 month,5.0,Overwt/Attractive,67.0
+2015-01-30,Atlantic Equities LLP,12 month,5.0,overweight,70.0
+2015-02-04,Churchill Research,12 month,-2147483648.0,no rating system,58.72
+2015-02-04,Avondale Partners LLC,Not Provided,4.0,market outperform,65.0
+2015-02-10,EVA Dimensions,Not Provided,5.0,buy,-0.0
+2015-02-10,Sterne Agee CRT,12 month,5.0,buy,72.0
+2015-02-13,Stifel,12 month,5.0,buy,65.0
+2015-03-03,Credit Suisse,Not Provided,3.0,neutral,55.0
+2015-03-04,Imperial Capital LLC,Not Provided,5.0,outperform,92.0
+2015-03-12,Goldman Sachs,6 month,5.0,buy/attractive,79.0
+2015-03-16,Barclays,Not Provided,5.0,overweight,68.0
+2015-03-16,Raymond James,Not Provided,5.0,outperform,65.0
+2015-03-17,J.P. Morgan,9 month,5.0,overweight,84.5
+2015-03-17,Buckingham Research Group,12 month,5.0,buy,74.0
+2015-03-17,Evercore ISI,12 month,5.0,buy,72.0
+2015-03-18,UBS,12 month,3.0,neutral,55.0
+2015-03-20,Wolfe Research,12 month,5.0,outperform,76.0
+2015-03-23,Cowen,Not Provided,3.0,market perform,55.0
+2015-03-27,Wolfe Research,12 month,5.0,outperform,76.0
+2015-03-31,Cowen,Not Provided,3.0,market perform,55.0
+2015-04-01,Buckingham Research Group,12 month,5.0,buy,74.0
+2015-04-06,Cowen,Not Provided,3.0,market perform,55.0
+2015-04-08,Stifel,Not Provided,5.0,buy,65.0
+2015-04-08,Imperial Capital LLC,Not Provided,5.0,outperform,92.0
+2015-04-09,J.P. Morgan,9 month,5.0,overweight,84.5
+2015-04-09,Wolfe Research,12 month,5.0,outperform,76.0
+2015-04-10,Barclays,Not Provided,5.0,overweight,68.0
+2015-04-10,Raymond James,12 month,5.0,outperform,65.0
+2015-04-10,J.P. Morgan,9 month,5.0,overweight,84.5
+2015-04-10,Wolfe Research,12 month,5.0,outperform,73.0
+2015-04-13,Goldman Sachs,6 month,5.0,buy/attractive,71.0
+2015-04-13,Cowen,Not Provided,3.0,market perform,55.0
+2015-04-13,Atlantic Equities LLP,12 month,5.0,overweight,70.0
+2015-04-13,Credit Suisse,Not Provided,3.0,neutral,55.0
+2015-04-14,Buckingham Research Group,12 month,5.0,buy,74.0
+2015-04-14,Avondale Partners LLC,Not Provided,4.0,market outperform,68.0
+2015-04-15,Morgan Stanley,12 month,5.0,Overwt/Attractive,67.0
+2015-04-20,Cowen,Not Provided,3.0,market perform,55.0
+2015-04-20,Stifel,Not Provided,5.0,buy,65.0
+2015-04-24,Raymond James,12 month,5.0,outperform,65.0
+2015-04-24,Credit Suisse,Not Provided,3.0,neutral,55.0
+2015-04-24,Barclays,Not Provided,5.0,overweight,68.0
+2015-04-24,Cowen,12 month,3.0,market perform,55.0
+2015-04-24,Wolfe Research,12 month,5.0,outperform,72.0
+2015-04-24,Atlantic Equities LLP,12 month,5.0,overweight,70.0
+2015-04-26,Goldman Sachs,6 month,5.0,buy/attractive,69.0
+2015-04-27,Stifel,12 month,5.0,buy,65.0
+2015-04-27,Sterne Agee CRT,Not Provided,5.0,buy,72.0
+2015-04-27,Evercore ISI,12 month,5.0,buy,72.0
+2015-04-27,Imperial Capital LLC,12 month,5.0,outperform,82.0
+2015-04-27,Buckingham Research Group,12 month,5.0,buy,74.0
+2015-05-04,Cowen,Not Provided,3.0,market perform,55.0
+2015-05-04,Wolfe Research,Not Provided,5.0,outperform,72.0
+2015-05-05,J.P. Morgan,Not Provided,5.0,overweight,84.5
+2015-05-07,Imperial Capital LLC,Not Provided,5.0,outperform,82.0
+2015-05-08,Atlantic Equities LLP,12 month,5.0,overweight,59.0
+2015-05-11,Stifel,12 month,5.0,buy,65.0
+2015-05-11,Wolfe Research,12 month,5.0,outperform,72.0
+2015-05-13,Cowen,12 month,3.0,market perform,55.0
+2015-05-19,Evercore ISI,12 month,5.0,buy,72.0
+2015-05-20,Wolfe Research,12 month,5.0,outperform,72.0
+2015-05-21,Cowen,12 month,3.0,market perform,55.0
+2015-05-26,Buckingham Research Group,12 month,5.0,buy,74.0
+2015-05-26,Cowen,Not Provided,3.0,market perform,55.0
+2015-05-26,UBS,12 month,3.0,neutral,47.0
+2015-05-28,Credit Suisse,Not Provided,3.0,neutral,46.0
+2015-05-28,Imperial Capital LLC,Not Provided,5.0,outperform,82.0
+2015-05-29,Wolfe Research,12 month,5.0,outperform,72.0
+2015-06-01,Morgan Stanley,12 month,5.0,Overwt/Attractive,62.0
+2015-06-01,Cowen,Not Provided,3.0,market perform,55.0
+2015-06-03,Imperial Capital LLC,Not Provided,5.0,outperform,82.0
+2015-06-05,Wolfe Research,12 month,5.0,outperform,71.0
+2015-06-09,Stifel,12 month,5.0,buy,65.0
+2015-06-09,UBS,12 month,3.0,neutral,43.0
+2015-06-09,Cowen,12 month,3.0,market perform,45.0
+2015-06-09,Wolfe Research,12 month,5.0,outperform,67.0
+2015-06-09,J.P. Morgan,6 month,5.0,overweight,72.5
+2015-06-10,Goldman Sachs,6 month,5.0,buy/attractive,61.0
+2015-06-10,Buckingham Research Group,12 month,5.0,buy,66.0
+2015-06-10,Imperial Capital LLC,12 month,5.0,outperform,73.0
+2015-06-10,Evercore ISI,12 month,5.0,buy,55.0
+2015-06-10,Sterne Agee CRT,Not Provided,5.0,buy,64.0
+2015-06-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-06-15,Cowen,Not Provided,3.0,market perform,45.0
+2015-06-18,Barclays,Not Provided,5.0,overweight,58.0
+2015-06-18,Credit Suisse,Not Provided,3.0,neutral,44.0
+2015-06-22,Cowen,Not Provided,3.0,market perform,45.0
+2015-06-23,Morgan Stanley,12 month,3.0,Equalwt/Attractive,49.0
+2015-06-26,Wolfe Research,12 month,5.0,outperform,67.0
+2015-06-30,Buckingham Research Group,12 month,5.0,buy,66.0
+2015-07-02,Wolfe Research,Not Provided,5.0,outperform,67.0
+2015-07-06,Cowen,Not Provided,3.0,market perform,45.0
+2015-07-07,Credit Suisse,Not Provided,3.0,neutral,44.0
+2015-07-10,Wolfe Research,12 month,5.0,outperform,68.0
+2015-07-10,J.P. Morgan,Not Provided,5.0,overweight,72.5
+2015-07-10,Buckingham Research Group,12 month,5.0,buy,66.0
+2015-07-10,Goldman Sachs,6 month,5.0,buy/attractive,55.0
+2015-07-13,Morgan Stanley,12 month,3.0,Equalwt/Attractive,51.0
+2015-07-13,Cowen,Not Provided,3.0,market perform,45.0
+2015-07-13,Evercore ISI,12 month,5.0,buy,55.0
+2015-07-13,Barclays,Not Provided,5.0,overweight,58.0
+2015-07-13,UBS,12 month,3.0,neutral,45.0
+2015-07-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-07-15,Wolfe Research,Not Provided,5.0,outperform,68.0
+2015-07-15,Buckingham Research Group,12 month,5.0,buy,66.0
+2015-07-15,Morgan Stanley,12 month,3.0,Equalwt/Attractive,51.0
+2015-07-20,Cowen,Not Provided,3.0,market perform,45.0
+2015-07-20,Evercore ISI,Not Provided,5.0,buy,55.0
+2015-07-20,Credit Suisse,Not Provided,3.0,neutral,44.0
+2015-07-24,Imperial Capital LLC,12 month,5.0,outperform,73.0
+2015-07-24,Stifel,12 month,5.0,buy,60.0
+2015-07-24,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-07-24,Credit Suisse,Not Provided,3.0,neutral,45.0
+2015-07-24,Wolfe Research,12 month,5.0,outperform,65.0
+2015-07-24,Barclays,Not Provided,5.0,overweight,55.0
+2015-07-26,Evercore ISI,12 month,5.0,buy,55.0
+2015-07-27,Churchill Research,12 month,-2147483648.0,no rating system,53.37
+2015-07-27,Sterne Agee CRT,12 month,5.0,buy,58.0
+2015-07-27,Goldman Sachs,6 month,5.0,buy/attractive,48.0
+2015-07-27,Buckingham Research Group,12 month,5.0,buy,56.0
+2015-07-27,Cowen,Not Provided,3.0,market perform,45.0
+2015-07-30,J.P. Morgan,6 month,5.0,overweight,72.0
+2015-08-03,Cowen,Not Provided,3.0,market perform,45.0
+2015-08-04,Imperial Capital LLC,12 month,5.0,outperform,73.0
+2015-08-04,Morgan Stanley,12 month,3.0,Equalwt/Attractive,48.0
+2015-08-05,Wolfe Research,Not Provided,5.0,outperform,65.0
+2015-08-05,Stifel,12 month,5.0,buy,60.0
+2015-08-10,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-08-10,Cowen,Not Provided,3.0,market perform,45.0
+2015-08-14,Wolfe Research,Not Provided,5.0,outperform,65.0
+2015-08-17,Morgan Stanley,12 month,3.0,Equalwt/Attractive,47.0
+2015-08-17,Cowen,Not Provided,3.0,market perform,45.0
+2015-08-17,Sterne Agee CRT,12 month,5.0,buy,58.0
+2015-08-21,Sterne Agee CRT,12 month,5.0,buy,58.0
+2015-08-21,Wolfe Research,Not Provided,5.0,outperform,65.0
+2015-08-24,Cowen,Not Provided,3.0,market perform,45.0
+2015-08-28,Wolfe Research,Not Provided,5.0,outperform,57.0
+2015-08-31,Cowen,Not Provided,3.0,market perform,45.0
+2015-09-02,Imperial Capital LLC,12 month,5.0,outperform,65.0
+2015-09-04,Evercore ISI,Not Provided,5.0,buy,55.0
+2015-09-08,Cowen,Not Provided,3.0,market perform,45.0
+2015-09-10,Wolfe Research,12 month,5.0,outperform,57.0
+2015-09-10,Credit Suisse,Not Provided,3.0,neutral,47.0
+2015-09-11,Buckingham Research Group,12 month,5.0,buy,56.0
+2015-09-14,Cowen,Not Provided,3.0,market perform,45.0
+2015-09-17,Barclays,Not Provided,5.0,overweight,55.0
+2015-09-21,Cowen,Not Provided,3.0,market perform,45.0
+2015-09-21,Wolfe Research,12 month,5.0,outperform,57.0
+2015-09-22,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-09-23,Stifel,12 month,5.0,buy,60.0
+2015-09-28,Wolfe Research,12 month,5.0,outperform,57.0
+2015-09-28,Cowen,Not Provided,3.0,market perform,45.0
+2015-09-30,Goldman Sachs,6 month,3.0,neutral/attractive,44.0
+2015-10-02,Wolfe Research,Not Provided,5.0,outperform,57.0
+2015-10-05,Cowen,Not Provided,3.0,market perform,45.0
+2015-10-09,Barclays,Not Provided,5.0,overweight,55.0
+2015-10-09,Wolfe Research,Not Provided,5.0,outperform,57.0
+2015-10-11,Sterne Agee CRT,12 month,5.0,buy,58.0
+2015-10-12,Morgan Stanley,12 month,3.0,Equalwt/Attractive,50.0
+2015-10-12,Credit Suisse,Not Provided,3.0,neutral,48.0
+2015-10-12,Stifel,12 month,5.0,buy,60.0
+2015-10-13,J.P. Morgan,18 month,5.0,overweight,66.0
+2015-10-13,Buckingham Research Group,Not Provided,5.0,buy,56.0
+2015-10-13,Evercore ISI,Not Provided,3.0,hold,50.0
+2015-10-13,Cowen,Not Provided,3.0,market perform,45.0
+2015-10-19,UBS,12 month,3.0,neutral,48.0
+2015-10-19,Cowen,Not Provided,3.0,market perform,45.0
+2015-10-20,Morgan Stanley,12 month,3.0,Equalwt/Attractive,50.0
+2015-10-22,Morgan Stanley,12 month,3.0,Equalwt/Attractive,50.0
+2015-10-23,Goldman Sachs,6 month,3.0,neutral/attractive,47.0
+2015-10-23,Credit Suisse,Not Provided,3.0,neutral,52.0
+2015-10-23,Stifel,12 month,5.0,buy,60.0
+2015-10-23,Wolfe Research,Not Provided,5.0,outperform,56.0
+2015-10-26,Cowen,12 month,3.0,market perform,45.0
+2015-10-26,Sterne Agee CRT,12 month,5.0,buy,58.0
+2015-10-26,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-10-26,Evercore ISI,12 month,3.0,hold,50.0
+2015-10-26,Buckingham Research Group,12 month,5.0,buy,56.0
+2015-10-27,Churchill Research,12 month,-2147483648.0,no rating system,55.67
+2015-10-28,Barclays,Not Provided,5.0,overweight,55.0
+2015-10-29,J.P. Morgan,12 month,5.0,overweight,66.0
+2015-10-30,Wolfe Research,Not Provided,5.0,outperform,56.0
+2015-10-30,Morgan Stanley,12 month,3.0,Equalwt/Attractive,50.0
+2015-11-02,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-11-02,Cowen,Not Provided,3.0,market perform,45.0
+2015-11-09,Cowen,Not Provided,3.0,market perform,45.0
+2015-11-12,Sterne Agee CRT,12 month,5.0,buy,58.0
+2015-11-16,Cowen,12 month,3.0,market perform,45.0
+2015-11-16,Morgan Stanley,12 month,3.0,Equalwt/Attractive,50.0
+2015-11-22,Credit Suisse,Not Provided,3.0,neutral,52.0
+2015-11-24,Cowen,Not Provided,3.0,market perform,45.0
+2015-11-30,Cowen,Not Provided,3.0,market perform,45.0
+2015-11-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-12-03,Morgan Stanley,12 month,3.0,Equalwt/Attractive,50.0
+2015-12-04,Credit Suisse,Not Provided,3.0,neutral,52.0
+2015-12-07,Cowen,Not Provided,3.0,market perform,45.0
+2015-12-10,Morgan Stanley,12 month,3.0,Equalwt/Attractive,51.0
+2015-12-14,Cowen,Not Provided,3.0,market perform,45.0
+2015-12-14,Stifel,12 month,5.0,buy,60.0
+2015-12-14,Wolfe Research,Not Provided,5.0,outperform,57.0
+2015-12-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2015-12-17,Stifel,12 month,5.0,buy,60.0
+2015-12-17,Goldman Sachs,6 month,3.0,neutral/attractive,41.0
+2015-12-18,Morgan Stanley,12 month,3.0,Equalwt/Attractive,51.0
+2015-12-21,Cowen,Not Provided,3.0,market perform,45.0
+2015-12-22,Buckingham Research Group,12 month,5.0,buy,61.0
+2016-01-07,Credit Suisse,Not Provided,5.0,outperform,57.0
+2016-01-07,Sterne Agee CRT,Not Provided,5.0,buy,52.0
+2016-01-07,Cowen,Not Provided,3.0,market perform,47.0
+2016-01-07,Buckingham Research Group,12 month,5.0,buy,61.0
+2016-01-07,Morgan Stanley,12 month,3.0,Equalwt/Attractive,51.0
+2016-01-12,J.P. Morgan,12 month,5.0,overweight,66.0
+2016-01-12,Evercore ISI,Not Provided,3.0,hold,50.0
+2016-01-13,Wolfe Research,12 month,5.0,outperform,57.0
+2016-01-14,Morgan Stanley,12 month,3.0,Equalwt/Attractive,49.0
+2016-01-15,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-01-15,Cowen,Not Provided,3.0,market perform,47.0
+2016-01-15,Buckingham Research Group,12 month,5.0,buy,64.0
+2016-01-17,Credit Suisse,Not Provided,5.0,outperform,58.0
+2016-01-19,Sterne Agee CRT,12 month,5.0,buy,52.0
+2016-01-19,Barclays,Not Provided,5.0,overweight,55.0
+2016-01-20,Morgan Stanley,12 month,3.0,Equalwt/Attractive,49.0
+2016-01-21,Wolfe Research,12 month,5.0,outperform,57.0
+2016-01-21,Buckingham Research Group,12 month,5.0,buy,64.0
+2016-01-25,Cowen,Not Provided,3.0,market perform,47.0
+2016-01-27,UBS,12 month,5.0,buy,46.0
+2016-01-29,Credit Suisse,Not Provided,5.0,outperform,55.0
+2016-01-29,Wolfe Research,12 month,5.0,outperform,57.0
+2016-01-29,J.P. Morgan,12 month,5.0,overweight,66.0
+2016-01-29,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-01-29,Morgan Stanley,12 month,3.0,Equalwt/Attractive,49.0
+2016-01-31,Evercore ISI,12 month,3.0,hold,45.0
+2016-01-31,Sterne Agee CRT,12 month,5.0,buy,52.0
+2016-02-01,Stifel,12 month,5.0,buy,60.0
+2016-02-01,Barclays,Not Provided,5.0,overweight,55.0
+2016-02-01,Cowen,Not Provided,5.0,outperform,48.0
+2016-02-01,Buckingham Research Group,12 month,5.0,buy,64.0
+2016-02-03,Credit Suisse,Not Provided,5.0,outperform,55.0
+2016-02-04,J.P. Morgan,9 month,5.0,overweight,50.5
+2016-02-05,Wolfe Research,12 month,5.0,outperform,57.0
+2016-02-08,Cowen,Not Provided,5.0,outperform,48.0
+2016-02-16,Cowen,Not Provided,5.0,outperform,48.0
+2016-02-16,Morgan Stanley,12 month,3.0,Equalwt/Attractive,45.0
+2016-02-17,Buckingham Research Group,12 month,5.0,buy,64.0
+2016-02-19,Wolfe Research,Not Provided,5.0,outperform,57.0
+2016-02-22,Cowen,Not Provided,5.0,outperform,48.0
+2016-02-23,Morgan Stanley,12 month,3.0,Equalwt/Attractive,45.0
+2016-02-26,Buckingham Research Group,12 month,5.0,buy,64.0
+2016-02-29,Wolfe Research,Not Provided,5.0,outperform,57.0
+2016-03-01,Cowen,Not Provided,5.0,outperform,48.0
+2016-03-06,Sterne Agee CRT,Not Provided,5.0,buy,52.0
+2016-03-07,Cowen,Not Provided,5.0,outperform,48.0
+2016-03-09,Wolfe Research,Not Provided,5.0,outperform,59.0
+2016-03-09,Evercore ISI,12 month,3.0,hold,45.0
+2016-03-14,Stifel,12 month,5.0,buy,60.0
+2016-03-14,Cowen,Not Provided,5.0,outperform,48.0
+2016-03-21,Cowen,Not Provided,5.0,outperform,48.0
+2016-03-24,Raymond James,Not Provided,5.0,outperform,52.0
+2016-03-24,Credit Suisse,Not Provided,5.0,outperform,53.0
+2016-03-24,Stifel,12 month,5.0,buy,55.0
+2016-03-24,Wolfe Research,12 month,5.0,outperform,56.0
+2016-03-28,Cowen,Not Provided,5.0,outperform,48.0
+2016-03-28,Buckingham Research Group,12 month,5.0,buy,62.0
+2016-03-29,Stephens Inc,12 month,3.0,equalweight,43.0
+2016-03-31,Sterne Agee CRT,12 month,5.0,buy,52.0
+2016-04-04,Cowen,Not Provided,5.0,outperform,48.0
+2016-04-06,Wolfe Research,12 month,5.0,outperform,56.0
+2016-04-06,Buckingham Research Group,12 month,5.0,buy,62.0
+2016-04-11,Evercore ISI,12 month,3.0,hold,45.0
+2016-04-11,Morgan Stanley,12 month,3.0,Equalwt/Attractive,48.0
+2016-04-11,J.P. Morgan,9 month,5.0,overweight,50.5
+2016-04-11,Stifel,12 month,5.0,buy,55.0
+2016-04-11,Stephens Inc,12 month,3.0,equalweight,42.0
+2016-04-12,Credit Suisse,Not Provided,5.0,outperform,49.0
+2016-04-12,Cowen,Not Provided,5.0,outperform,48.0
+2016-04-13,Buckingham Research Group,Not Provided,5.0,buy,57.0
+2016-04-13,Wolfe Research,12 month,5.0,outperform,56.0
+2016-04-15,Barclays,Not Provided,5.0,overweight,48.0
+2016-04-20,Wolfe Research,Not Provided,5.0,outperform,56.0
+2016-04-22,Stifel,12 month,5.0,buy,50.0
+2016-04-22,Buckingham Research Group,12 month,5.0,buy,57.0
+2016-04-22,Barclays,Not Provided,5.0,overweight,48.0
+2016-04-22,Evercore ISI,12 month,3.0,hold,45.0
+2016-04-22,Credit Suisse,Not Provided,5.0,outperform,47.0
+2016-04-22,Raymond James,12 month,5.0,outperform,48.0
+2016-04-22,Stephens Inc,12 month,3.0,equalweight,42.0
+2016-04-22,Wolfe Research,12 month,5.0,outperform,53.0
+2016-04-25,Cowen,Not Provided,5.0,outperform,46.0
+2016-04-28,Morgan Stanley,12 month,5.0,Overwt/Attractive,46.0
+2016-04-28,Sterne Agee CRT,12 month,5.0,buy,47.0
+2016-04-29,J.P. Morgan,Not Provided,5.0,overweight,50.5
+2016-05-02,Raymond James,12 month,5.0,outperform,48.0
+2016-05-02,Cowen,Not Provided,5.0,outperform,46.0
+2016-05-03,UBS,12 month,5.0,buy,42.0
+2016-05-04,Evercore ISI,12 month,3.0,hold,45.0
+2016-05-07,EVA Dimensions,Not Provided,5.0,overweight,-0.0
+2016-05-09,Cowen,Not Provided,5.0,outperform,46.0
+2016-05-12,Wolfe Research,12 month,5.0,outperform,53.0
+2016-05-12,Stephens Inc,12 month,3.0,equalweight,42.0
+2016-05-16,Cowen,Not Provided,5.0,outperform,46.0
+2016-05-17,Morgan Stanley,12 month,5.0,Overwt/Attractive,46.0
+2016-05-23,Wolfe Research,12 month,5.0,outperform,53.0
+2016-05-24,Churchill Research,12 month,-2147483648.0,no rating system,44.82
+2016-06-01,Cowen,Not Provided,5.0,outperform,42.0
+2016-06-01,Wolfe Research,12 month,5.0,outperform,53.0
+2016-06-06,Cowen,Not Provided,5.0,outperform,42.0
+2016-06-10,Morgan Stanley,12 month,5.0,Overwt/Attractive,46.0
+2016-06-13,Evercore ISI,Not Provided,3.0,hold,36.0
+2016-06-13,UBS,12 month,5.0,buy,38.0
+2016-06-13,Stephens Inc,12 month,3.0,equalweight,42.0
+2016-06-13,Cowen,Not Provided,5.0,outperform,42.0
+2016-06-14,Raymond James,Not Provided,5.0,outperform,46.0
+2016-06-16,Wolfe Research,12 month,5.0,outperform,53.0
+2016-06-17,Buckingham Research Group,12 month,5.0,buy,48.0
+2016-06-20,Wolfe Research,12 month,5.0,outperform,53.0
+2016-06-20,Cowen,Not Provided,5.0,outperform,42.0
+2016-06-22,Morgan Stanley,12 month,5.0,Overwt/Attractive,46.0
+2016-06-27,Stephens Inc,12 month,3.0,equalweight,41.0
+2016-06-27,Wolfe Research,12 month,5.0,outperform,53.0
+2016-06-27,Stifel,12 month,5.0,buy,50.0
+2016-07-01,UBS,12 month,5.0,buy,35.0
+2016-07-05,Cowen,Not Provided,5.0,outperform,42.0
+2016-07-06,Credit Suisse,Not Provided,1.0,underperform,28.0
+2016-07-08,Wolfe Research,Not Provided,5.0,outperform,53.0
+2016-07-12,J.P. Morgan,6 month,5.0,overweight,50.5
+2016-07-12,Stifel,12 month,5.0,buy,50.0
+2016-07-13,Stephens Inc,12 month,3.0,equalweight,41.0
+2016-07-13,Wolfe Research,12 month,5.0,outperform,48.0
+2016-07-13,Credit Suisse,Not Provided,1.0,underperform,29.0
+2016-07-13,Evercore ISI,12 month,3.0,hold,36.0
+2016-07-14,Morgan Stanley,12 month,5.0,Overwt/Attractive,40.0
+2016-07-14,Raymond James,12 month,5.0,outperform,46.0
+2016-07-14,Buckingham Research Group,12 month,5.0,buy,44.0
+2016-07-14,Cowen,Not Provided,5.0,outperform,42.0
+2016-07-18,J.P. Morgan,6 month,5.0,overweight,50.5
+2016-07-22,Cowen,12 month,5.0,outperform,42.0
+2016-07-22,Stephens Inc,12 month,3.0,equalweight,41.0
+2016-07-22,Stifel,12 month,5.0,buy,50.0
+2016-07-22,Wolfe Research,12 month,5.0,outperform,45.0
+2016-07-22,Morgan Stanley,12 month,5.0,Overwt/Attractive,40.0
+2016-07-24,Credit Suisse,Not Provided,1.0,underperform,34.0
+2016-07-24,Wolfe Research,Not Provided,5.0,outperform,45.0
+2016-07-25,Stephens Inc,12 month,3.0,equalweight,41.0
+2016-07-25,Cowen,Not Provided,5.0,outperform,43.0
+2016-07-25,Raymond James,12 month,5.0,outperform,46.0
+2016-07-25,Buckingham Research Group,12 month,5.0,buy,49.0
+2016-07-27,J.P. Morgan,6 month,5.0,overweight,41.5
+2016-07-27,Morgan Stanley,12 month,5.0,Overwt/Attractive,40.0
+2016-08-01,Cowen,Not Provided,5.0,outperform,43.0
+2016-08-04,Credit Suisse,Not Provided,1.0,underperform,34.0
+2016-08-05,Raymond James,12 month,5.0,outperform,46.0
+2016-08-05,Wolfe Research,12 month,5.0,outperform,43.0
+2016-08-05,Evercore ISI,Not Provided,3.0,hold,36.0
+2016-08-09,Wolfe Research,12 month,5.0,outperform,43.0
+2016-08-09,Cowen,12 month,5.0,outperform,43.0
+2016-08-11,Stephens Inc,12 month,3.0,equalweight,41.0
+2016-08-12,Morgan Stanley,12 month,5.0,Overwt/Attractive,41.0
+2016-08-15,Wolfe Research,12 month,5.0,outperform,43.0
+2016-08-16,Cowen,Not Provided,5.0,outperform,43.0
+2016-08-17,Stifel,12 month,5.0,buy,50.0
+2016-08-18,Morgan Stanley,12 month,5.0,Overwt/Attractive,41.0
+2016-08-22,Cowen,Not Provided,5.0,outperform,43.0
+2016-08-25,Wolfe Research,12 month,5.0,outperform,43.0
+2016-08-26,Imperial Capital LLC,12 month,3.0,in-line,40.0
+2016-08-29,Raymond James,12 month,5.0,outperform,46.0
+2016-08-29,Wolfe Research,12 month,5.0,outperform,43.0
+2016-08-30,Cowen,Not Provided,5.0,outperform,43.0
+2016-08-30,Stifel,12 month,5.0,buy,50.0
+2016-08-30,Buckingham Research Group,12 month,5.0,buy,49.0
+2016-08-30,UBS,12 month,-2147483648.0,Under Review,35.0
+2016-09-07,Evercore ISI,Not Provided,3.0,hold,36.0
+2016-09-12,Cowen,Not Provided,5.0,outperform,43.0
+2016-09-12,Wolfe Research,12 month,5.0,outperform,43.0
+2016-09-14,Stephens Inc,12 month,3.0,equalweight,40.0
+2016-09-15,UBS,12 month,3.0,neutral,38.0
+2016-09-19,Wolfe Research,12 month,5.0,outperform,45.0
+2016-09-19,Cowen,Not Provided,5.0,outperform,43.0
+2016-09-21,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-09-26,Cowen,Not Provided,5.0,outperform,43.0
+2016-09-26,Wolfe Research,12 month,5.0,outperform,45.0
+2016-09-30,Stifel,12 month,5.0,buy,50.0
+2016-10-03,Evercore ISI,12 month,3.0,hold,40.0
+2016-10-03,Wolfe Research,12 month,5.0,outperform,45.0
+2016-10-04,Morgan Stanley,12 month,5.0,Overwt/Attractive,41.0
+2016-10-10,Cowen,Not Provided,5.0,outperform,43.0
+2016-10-10,Bernstein,12 month,1.0,underperform,31.0
+2016-10-10,Credit Suisse,Not Provided,1.0,underperform,36.0
+2016-10-10,Wolfe Research,12 month,5.0,outperform,45.0
+2016-10-11,Bernstein,12 month,1.0,underperform,31.0
+2016-10-11,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-11,J.P. Morgan,3 month,5.0,overweight,41.5
+2016-10-11,Stephens Inc,12 month,3.0,equalweight,42.0
+2016-10-11,Stifel,12 month,5.0,buy,45.0
+2016-10-12,Evercore ISI,Not Provided,3.0,hold,40.0
+2016-10-12,Buckingham Research Group,12 month,5.0,buy,48.0
+2016-10-14,Morgan Stanley,12 month,5.0,Overwt/Attractive,46.0
+2016-10-17,Cowen,Not Provided,5.0,outperform,43.0
+2016-10-17,Wolfe Research,12 month,5.0,outperform,46.0
+2016-10-19,J.P. Morgan,3 month,5.0,overweight,41.5
+2016-10-20,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-10-20,Credit Suisse,Not Provided,1.0,underperform,35.0
+2016-10-20,Bernstein,12 month,1.0,underperform,31.0
+2016-10-21,Stephens Inc,12 month,3.0,equalweight,46.0
+2016-10-21,Morgan Stanley,12 month,5.0,Overwt/Attractive,46.0
+2016-10-21,Stifel,12 month,5.0,buy,45.0
+2016-10-21,Buckingham Research Group,Not Provided,5.0,buy,51.0
+2016-10-21,Imperial Capital LLC,12 month,3.0,in-line,43.0
+2016-10-24,Wolfe Research,Not Provided,5.0,outperform,54.0
+2016-10-24,Cowen,Not Provided,5.0,outperform,43.0
+2016-10-27,Morgan Stanley,12 month,5.0,Overwt/Attractive,46.0
+2016-10-30,Wolfe Research,Not Provided,5.0,outperform,54.0
+2016-10-31,Cowen,Not Provided,5.0,outperform,43.0
+2016-10-31,J.P. Morgan,18 month,5.0,overweight,54.0
+2016-11-04,Buckingham Research Group,Not Provided,5.0,buy,51.0
+2016-11-07,Cowen,Not Provided,5.0,outperform,43.0
+2016-11-07,Bernstein,Not Provided,1.0,underperform,31.0
+2016-11-07,Wolfe Research,Not Provided,5.0,outperform,54.0
+2016-11-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-11-11,Morgan Stanley,12 month,5.0,Overwt/Attractive,49.0
+2016-11-14,Cowen,Not Provided,5.0,outperform,43.0
+2016-11-14,Bernstein,Not Provided,1.0,underperform,31.0
+2016-11-14,Wolfe Research,Not Provided,5.0,outperform,54.0
+2016-11-16,Morgan Stanley,12 month,5.0,Overwt/Attractive,49.0
+2016-11-21,Buckingham Research Group,12 month,5.0,buy,51.0
+2016-11-22,Imperial Capital LLC,Not Provided,3.0,in-line,49.0
+2016-11-28,Wolfe Research,12 month,5.0,outperform,54.0
+2016-11-29,Buckingham Research Group,Not Provided,5.0,buy,61.0
+2016-11-29,Bernstein,Not Provided,1.0,underperform,31.0
+2016-12-02,Wolfe Research,12 month,5.0,outperform,54.0
+2016-12-05,Cowen,Not Provided,5.0,outperform,43.0
+2016-12-05,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-06,Evercore ISI,Not Provided,3.0,hold,45.0
+2016-12-06,Morgan Stanley,12 month,5.0,Overwt/Attractive,49.0
+2016-12-09,J.P. Morgan,12 month,5.0,overweight,54.0
+2016-12-09,Evercore ISI,12 month,3.0,hold,45.0
+2016-12-09,Buckingham Research Group,12 month,5.0,buy,61.0
+2016-12-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2016-12-12,Cowen,Not Provided,5.0,outperform,50.0
+2016-12-12,Wolfe Research,12 month,5.0,outperform,58.0
+2016-12-13,Morgan Stanley,12 month,5.0,Overwt/Attractive,49.0
+2016-12-14,Barclays,Not Provided,3.0,equalweight,62.0
+2016-12-15,Buckingham Research Group,Not Provided,5.0,buy,61.0
+2016-12-16,Morgan Stanley,12 month,5.0,Overwt/Attractive,49.0
+2016-12-16,UBS,12 month,3.0,neutral,41.0
+2016-12-17,EVA Dimensions,Not Provided,3.0,hold,-0.0
+2016-12-19,Bernstein,Not Provided,1.0,underperform,42.0
+2016-12-19,Cowen,Not Provided,5.0,outperform,50.0
+2016-12-20,Wolfe Research,Not Provided,5.0,outperform,58.0
+2016-12-21,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2016-12-23,Bernstein,Not Provided,1.0,underperform,42.0
+2016-12-27,Cowen,Not Provided,5.0,outperform,50.0
+2016-12-28,Wolfe Research,Not Provided,5.0,outperform,58.0
+2017-01-02,UBS,12 month,3.0,neutral,45.0
+2017-01-03,Wolfe Research,12 month,5.0,outperform,58.0
+2017-01-03,Stephens Inc,12 month,3.0,equalweight,53.0
+2017-01-04,Cowen,Not Provided,3.0,market perform,50.0
+2017-01-05,Morgan Stanley,12 month,5.0,Overwt/Attractive,56.0
+2017-01-10,Bernstein,Not Provided,1.0,underperform,42.0
+2017-01-11,Evercore ISI,Not Provided,3.0,hold,46.0
+2017-01-11,J.P. Morgan,12 month,5.0,overweight,54.0
+2017-01-11,Cowen,12 month,3.0,market perform,50.0
+2017-01-11,Wolfe Research,12 month,5.0,outperform,63.0
+2017-01-11,Stephens Inc,12 month,3.0,equalweight,53.0
+2017-01-12,Barclays,Not Provided,3.0,equalweight,62.0
+2017-01-12,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-01-12,Imperial Capital LLC,12 month,3.0,in-line,52.0
+2017-01-12,Buckingham Research Group,Not Provided,5.0,buy,61.0
+2017-01-13,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-17,Cowen,Not Provided,3.0,market perform,50.0
+2017-01-17,Stifel,12 month,5.0,buy,65.0
+2017-01-19,Morgan Stanley,12 month,5.0,Overwt/Attractive,56.0
+2017-01-20,UBS,12 month,3.0,neutral,49.0
+2017-01-20,Wolfe Research,12 month,5.0,outperform,63.0
+2017-01-23,Bernstein,Not Provided,1.0,underperform,42.0
+2017-01-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-01-27,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-01-27,Wolfe Research,Not Provided,5.0,outperform,63.0
+2017-01-27,Buckingham Research Group,12 month,5.0,buy,65.0
+2017-01-27,Cowen,12 month,3.0,market perform,50.0
+2017-01-27,Barclays,Not Provided,3.0,equalweight,62.0
+2017-01-27,Stephens Inc,12 month,3.0,equalweight,53.0
+2017-01-27,Stifel,12 month,5.0,buy,65.0
+2017-01-30,Morgan Stanley,12 month,5.0,Overwt/Attractive,54.0
+2017-01-30,Stephens Inc,12 month,3.0,equalweight,53.0
+2017-01-30,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-02-01,Cowen,Not Provided,3.0,market perform,50.0
+2017-02-01,J.P. Morgan,12 month,5.0,overweight,59.0
+2017-02-01,Imperial Capital LLC,Not Provided,3.0,in-line,51.0
+2017-02-03,Wolfe Research,Not Provided,5.0,outperform,63.0
+2017-02-06,Bernstein,Not Provided,3.0,market perform,43.0
+2017-02-10,Buckingham Research Group,12 month,5.0,buy,65.0
+2017-02-10,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-13,Cowen,Not Provided,3.0,market perform,50.0
+2017-02-15,Morgan Stanley,12 month,5.0,Overwt/Attractive,53.0
+2017-02-17,Wolfe Research,Not Provided,5.0,outperform,63.0
+2017-02-17,Bernstein,Not Provided,3.0,market perform,43.0
+2017-02-21,Wolfe Research,Not Provided,5.0,outperform,63.0
+2017-02-27,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-02-27,Cowen,Not Provided,3.0,market perform,50.0
+2017-02-27,Bernstein,Not Provided,3.0,market perform,43.0
+2017-03-02,Evercore ISI,Not Provided,3.0,in-line,46.0
+2017-03-06,Cowen,Not Provided,3.0,market perform,50.0
+2017-03-06,Wolfe Research,12 month,5.0,outperform,63.0
+2017-03-09,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-09,Stifel,12 month,5.0,buy,65.0
+2017-03-13,Evercore ISI,Not Provided,3.0,in-line,46.0
+2017-03-13,Cowen,Not Provided,3.0,market perform,49.0
+2017-03-13,Morgan Stanley,12 month,5.0,Overwt/Attractive,52.0
+2017-03-13,Wolfe Research,12 month,5.0,outperform,63.0
+2017-03-16,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-03-17,Imperial Capital LLC,Not Provided,3.0,in-line,46.0
+2017-03-20,Cowen,Not Provided,3.0,market perform,46.0
+2017-03-20,Stifel,12 month,5.0,buy,95.0
+2017-03-20,Wolfe Research,12 month,5.0,outperform,63.0
+2017-03-20,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-03-20,Barclays,Not Provided,3.0,equalweight,62.0
+2017-03-21,Bernstein,Not Provided,3.0,market perform,44.0
+2017-03-22,Morgan Stanley,12 month,3.0,Equalwt/In-Line,44.0
+2017-03-22,Stifel,Not Provided,5.0,buy,95.0
+2017-03-27,Cowen,Not Provided,3.0,market perform,46.0
+2017-03-27,Wolfe Research,12 month,5.0,outperform,63.0
+2017-03-27,J.P. Morgan,9 month,5.0,overweight,59.0
+2017-03-30,Morgan Stanley,12 month,3.0,Equalwt/In-Line,44.0
+2017-03-30,Bernstein,Not Provided,3.0,market perform,44.0
+2017-03-31,Stephens Inc,12 month,3.0,equalweight,53.0
+2017-04-03,Wolfe Research,12 month,5.0,outperform,63.0
+2017-04-03,Cowen,Not Provided,3.0,market perform,46.0
+2017-04-10,Cowen,Not Provided,3.0,market perform,46.0
+2017-04-10,Wolfe Research,Not Provided,5.0,outperform,63.0
+2017-04-11,Bernstein,Not Provided,3.0,market perform,44.0
+2017-04-11,J.P. Morgan,9 month,5.0,overweight,59.0
+2017-04-11,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-12,Stephens Inc,12 month,3.0,equalweight,47.0
+2017-04-12,Buckingham Research Group,12 month,5.0,buy,65.0
+2017-04-13,Evercore ISI,Not Provided,3.0,in-line,46.0
+2017-04-13,Morgan Stanley,12 month,3.0,Equalwt/In-Line,44.0
+2017-04-17,Stifel,12 month,5.0,buy,95.0
+2017-04-17,Wolfe Research,12 month,5.0,outperform,64.0
+2017-04-18,Cowen,Not Provided,3.0,market perform,46.0
+2017-04-20,Barclays,Not Provided,3.0,equalweight,62.0
+2017-04-21,Imperial Capital LLC,12 month,3.0,in-line,46.0
+2017-04-24,Wolfe Research,Not Provided,5.0,outperform,64.0
+2017-04-24,Cowen,Not Provided,3.0,market perform,46.0
+2017-04-24,Bernstein,12 month,3.0,market perform,44.0
+2017-04-24,Morgan Stanley,12 month,3.0,Equalwt/In-Line,45.0
+2017-04-27,Barclays,Not Provided,3.0,equalweight,58.0
+2017-04-27,Evercore ISI,Not Provided,3.0,in-line,46.0
+2017-04-27,Stifel,12 month,5.0,buy,95.0
+2017-04-27,Cowen,12 month,3.0,market perform,46.0
+2017-04-28,Imperial Capital LLC,12 month,3.0,in-line,43.0
+2017-04-28,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-04-28,Buckingham Research Group,12 month,5.0,buy,67.0
+2017-04-28,UBS,12 month,3.0,neutral,45.0
+2017-04-28,Morgan Stanley,12 month,3.0,Equalwt/In-Line,42.0
+2017-05-01,Stephens Inc,12 month,3.0,equalweight,47.0
+2017-05-01,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-01,Wolfe Research,Not Provided,5.0,outperform,60.0
+2017-05-02,J.P. Morgan,9 month,3.0,neutral,52.0
+2017-05-02,Bernstein,Not Provided,3.0,market perform,49.0
+2017-05-05,Bernstein,Not Provided,3.0,market perform,49.0
+2017-05-09,"Morningstar, Inc",Not Provided,3.0,hold,-0.0
+2017-05-09,Evercore ISI,12 month,3.0,in-line,47.0
+2017-05-09,Wolfe Research,12 month,5.0,outperform,61.0
+2017-05-10,Buckingham Research Group,12 month,5.0,buy,67.0
+2017-05-10,Morgan Stanley,12 month,3.0,Equalwt/In-Line,42.0
+2017-05-10,Cowen,12 month,3.0,market perform,48.0
+2017-05-11,Raymond James,Not Provided,3.0,market perform,-0.0
+2017-05-15,Cowen,Not Provided,3.0,market perform,48.0
+2017-05-15,Wolfe Research,12 month,5.0,outperform,61.0
+2017-05-15,Barclays,Not Provided,3.0,equalweight,58.0
+2017-05-16,Morgan Stanley,12 month,3.0,Equalwt/In-Line,46.0
+2017-05-17,Imperial Capital LLC,12 month,3.0,in-line,43.0
+2017-05-17,Wolfe Research,12 month,5.0,outperform,61.0
+2017-05-22,Wolfe Research,Not Provided,5.0,outperform,61.0
